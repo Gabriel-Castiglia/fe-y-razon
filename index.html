@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fe y Tradición | Proyecto Católico</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header id="header">
+        <div class="container">
+            <h1 class="logo" data-i18n="logo">Fe y Tradición</h1>
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="#hero" class="active" data-i18n="nav.home">Inicio</a></li>
+                    <li><a href="#temas" data-i18n="nav.topics">Temas</a></li>
+                    <li><a href="#mision" data-i18n="nav.mission">Misión</a></li>
+                    <li><a href="#contacto" data-i18n="nav.contact">Contacto</a></li>
+                </ul>
+            </nav>
+            <div class="language-selector">
+                <button class="lang-btn active" data-lang="es">ES</button>
+                <button class="lang-btn" data-lang="en">EN</button>
+                <button class="lang-btn" data-lang="ja">JA</button>
+            </div>
+        </div>
+    </header>
+
+    <section id="hero" class="hero">
+        <div class="hero-video-wrap">
+            <!-- Videos para el banner animado -->
+            <video class="hero-video active" src="Recursos/videos/velas01.mp4" muted autoplay playsinline preload="auto"></video>
+            <video class="hero-video" src="Recursos/videos/velas02.mp4" muted playsinline preload="none"></video>
+            <video class="hero-video" src="Recursos/videos/velas03.mp4" muted playsinline preload="none"></video>
+            <video class="hero-video" src="Recursos/videos/misa01.mp4" muted playsinline preload="none"></video>
+            <video class="hero-video" src="Recursos/videos/lectura01.mp4" muted playsinline preload="none"></video>
+            <video class="hero-video" src="Recursos/videos/lectura02.mp4" muted playsinline preload="none"></video>
+            <video class="hero-video" src="Recursos/videos/calis01.mp4" muted playsinline preload="none"></video>
+        </div>
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text" data-i18n="hero.eyebrow">Bienvenido</span>
+            </div>
+            <h1 data-i18n="hero.title">Aprende y defiende<br>tu <em>fe católica</em></h1>
+            <p class="hero-desc" data-i18n="hero.desc">Argumentos apologéticos sólidos para entender, vivir y compartir la fe católica con convicción y sabiduría.</p>
+            <div class="hero-btns">
+                <a href="#temas" class="btn-primary" data-i18n="hero.btn1">Explorar artículos</a>
+                <a href="#mision" class="btn-outline-white" data-i18n="hero.btn2">Nuestra misión</a>
+            </div>
+        </div>
+        <div class="hero-scroll">
+            <div class="scroll-bar"></div>
+            <span class="scroll-txt">Scroll</span>
+        </div>
+    </section>
+
+    <main>
+        <section id="temas" class="articles-section">
+            <div class="articles-wrap">
+                <div class="sec-eye reveal">
+                    <span class="sec-eye-line"></span>
+                    <span class="sec-eye-txt" data-i18n="topics.eyebrow">Catequesis Apologética</span>
+                </div>
+                <h2 class="section-title reveal" data-i18n="topics.title">Temas de Fe</h2>
+                <p class="articles-subtitle reveal" data-i18n="topics.subtitle">Argumentos sólidos para profundizar, comprender y defender la fe católica</p>
+                <div class="articles-grid">
+                    <article class="article-card reveal">
+                        <div class="article-header">
+                            <span class="article-category" data-i18n="article1.category">Apologética</span>
+                            <span class="article-date" data-i18n="article1.date">Próximamente</span>
+                        </div>
+                        <h3 class="article-title" data-i18n="article1.title">El Sacerdocio</h3>
+                        <p class="article-excerpt" data-i18n="article1.excerpt">El rol esencial del sacerdocio en la Iglesia católica y su importancia en la vida sacramental.</p>
+                        <div class="article-footer">
+                            <span class="read-time" data-i18n="article1.time">8 min lectura</span>
+                            <a href="#" class="article-link" data-i18n="article1.link">Leer →</a>
+                        </div>
+                    </article>
+                    <article class="article-card reveal">
+                        <div class="article-header">
+                            <span class="article-category" data-i18n="article2.category">Sagrada Escritura</span>
+                            <span class="article-date" data-i18n="article2.date">Próximamente</span>
+                        </div>
+                        <h3 class="article-title" data-i18n="article2.title">Por qué creemos</h3>
+                        <p class="article-excerpt" data-i18n="article2.excerpt">Razones fundamentales para creer en la fe católica y su coherencia con la razón humana.</p>
+                        <div class="article-footer">
+                            <span class="read-time" data-i18n="article2.time">12 min lectura</span>
+                            <a href="#" class="article-link" data-i18n="article2.link">Leer →</a>
+                        </div>
+                    </article>
+                    <article class="article-card reveal">
+                        <div class="article-header">
+                            <span class="article-category" data-i18n="article3.category">Doctrina</span>
+                            <span class="article-date" data-i18n="article3.date">Próximamente</span>
+                        </div>
+                        <h3 class="article-title" data-i18n="article3.title">La Eucaristía</h3>
+                        <p class="article-excerpt" data-i18n="article3.excerpt">El sacramento central de la Iglesia católica y su significado en la vida cristiana.</p>
+                        <div class="article-footer">
+                            <span class="read-time" data-i18n="article3.time">10 min lectura</span>
+                            <a href="#" class="article-link" data-i18n="article3.link">Leer →</a>
+                        </div>
+                    </article>
+                    <article class="article-card reveal">
+                        <div class="article-header">
+                            <span class="article-category" data-i18n="article4.category">Doctrina</span>
+                            <span class="article-date" data-i18n="article4.date">Próximamente</span>
+                        </div>
+                        <h3 class="article-title" data-i18n="article4.title">Transubstanciación</h3>
+                        <p class="article-excerpt" data-i18n="article4.excerpt">El cambio sustancial del pan y vino en el Cuerpo y Sangre de Cristo durante la Misa.</p>
+                        <div class="article-footer">
+                            <span class="read-time" data-i18n="article4.time">9 min lectura</span>
+                            <a href="#" class="article-link" data-i18n="article4.link">Leer →</a>
+                        </div>
+                    </article>
+                    <article class="article-card reveal">
+                        <div class="article-header">
+                            <span class="article-category" data-i18n="article5.category">Doctrina</span>
+                            <span class="article-date" data-i18n="article5.date">Próximamente</span>
+                        </div>
+                        <h3 class="article-title" data-i18n="article5.title">Los santos</h3>
+                        <p class="article-excerpt" data-i18n="article5.excerpt">La importancia de los santos en la Iglesia católica y su intercesión por nosotros.</p>
+                        <div class="article-footer">
+                            <span class="read-time" data-i18n="article5.time">7 min lectura</span>
+                            <a href="#" class="article-link" data-i18n="article5.link">Leer →</a>
+                        </div>
+                    </article>
+                    <article class="article-card reveal">
+                        <div class="article-header">
+                            <span class="article-category" data-i18n="article6.category">Doctrina</span>
+                            <span class="article-date" data-i18n="article6.date">Próximamente</span>
+                        </div>
+                        <h3 class="article-title" data-i18n="article6.title">La Santísima Trinidad</h3>
+                        <p class="article-excerpt" data-i18n="article6.excerpt">Comprendiendo el misterio central de la fe católica a través de la teología y la razón.</p>
+                        <div class="article-footer">
+                            <span class="read-time" data-i18n="article6.time">10 min lectura</span>
+                            <a href="#" class="article-link" data-i18n="article6.link">Leer →</a>
+                        </div>
+                    </article>
+                    <article class="article-card reveal">
+                        <div class="article-header">
+                            <span class="article-category" data-i18n="article7.category">Doctrina</span>
+                            <span class="article-date" data-i18n="article7.date">Próximamente</span>
+                        </div>
+                        <h3 class="article-title" data-i18n="article7.title">El purgatorio</h3>
+                        <p class="article-excerpt" data-i18n="article7.excerpt">La purificación final antes de entrar en la presencia de Dios.</p>
+                        <div class="article-footer">
+                            <span class="read-time" data-i18n="article7.time">6 min lectura</span>
+                            <a href="#" class="article-link" data-i18n="article7.link">Leer →</a>
+                        </div>
+                    </article>
+                    <article class="article-card reveal">
+                        <div class="article-header">
+                            <span class="article-category" data-i18n="article8.category">Doctrina</span>
+                            <span class="article-date" data-i18n="article8.date">Próximamente</span>
+                        </div>
+                        <h3 class="article-title" data-i18n="article8.title">La nueva ley</h3>
+                        <p class="article-excerpt" data-i18n="article8.excerpt">La ley de Cristo que reemplaza la Antigua Ley y guía a los cristianos.</p>
+                        <div class="article-footer">
+                            <span class="read-time" data-i18n="article8.time">8 min lectura</span>
+                            <a href="#" class="article-link" data-i18n="article8.link">Leer →</a>
+                        </div>
+                    </article>
+                    <article class="article-card reveal">
+                        <div class="article-header">
+                            <span class="article-category" data-i18n="article9.category">Apologética</span>
+                            <span class="article-date" data-i18n="article9.date">Próximamente</span>
+                        </div>
+                        <h3 class="article-title" data-i18n="article9.title">La primacía de Pedro</h3>
+                        <p class="article-excerpt" data-i18n="article9.excerpt">Por qué tenemos un Papa: la sucesión apostólica y el primado de Pedro.</p>
+                        <div class="article-footer">
+                            <span class="read-time" data-i18n="article9.time">11 min lectura</span>
+                            <a href="#" class="article-link" data-i18n="article9.link">Leer →</a>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section id="mision" class="mission-section">
+            <div class="mission-inner">
+                <h2 class="section-title reveal" data-i18n="mission.title">Nuestra Misión</h2>
+                <div class="mission-grid">
+                    <div class="mission-card reveal-left">
+                        <div class="mission-icon">✝️</div>
+                        <h3 data-i18n="mission.teach.title">Enseñar</h3>
+                        <p data-i18n="mission.teach.desc">Profundizar en la doctrina católica con argumentos sólidos basados en la Sagrada Escritura, el magisterio de la iglesia y la razón.</p>
+                    </div>
+                    <div class="mission-card reveal-left">
+                        <div class="mission-icon">💡</div>
+                        <h3 data-i18n="mission.illuminate.title">Iluminar</h3>
+                        <p data-i18n="mission.illuminate.desc">Proporcionar respuestas claras que ayuden a los fieles a comprender mejor su fe y responder preguntas difíciles de diferentes corrientes heréticas o sectas.</p>
+                    </div>
+                    <div class="mission-card reveal-left">
+                        <div class="mission-icon">🛡️</div>
+                        <h3 data-i18n="mission.defend.title">Defender</h3>
+                        <p data-i18n="mission.defend.desc">Ofrecer argumentos apologéticos para entender y defender la fe católica frente a objeciones, dudas y todo tipo de herejías modernas, sectas y corrientes anticatólicas.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contacto" class="contact-section">
+            <div class="contact-video-wrap">
+                <video class="contact-video" src="Recursos/videos/velas01.mp4" muted autoplay playsinline loop preload="auto"></video>
+            </div>
+            <div class="contact-overlay"></div>
+            <div class="contact-inner">
+                <h2 class="section-title reveal" data-i18n="contact.title">Contacto</h2>
+                <p class="contact-text reveal" data-i18n="contact.desc">¿Tienes preguntas o quieres colaborar con nosotros? Envíanos un mensaje.</p>
+                <form class="contact-form reveal" action="mailto:razon-y-fe@hotmail.com" method="post" enctype="text/plain">
+                    <div class="form-group">
+                        <input type="text" name="name" data-i18n-placeholder="contact.name.placeholder" placeholder="Tu nombre" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="email" name="email" data-i18n-placeholder="contact.email.placeholder" placeholder="Tu correo electrónico" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" name="subject" data-i18n-placeholder="contact.subject.placeholder" placeholder="Asunto" required>
+                    </div>
+                    <div class="form-group">
+                        <textarea name="message" data-i18n-placeholder="contact.message.placeholder" placeholder="Tu mensaje" rows="5" required></textarea>
+                    </div>
+                    <button type="submit" class="btn-primary" data-i18n="contact.submit">Enviar mensaje</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p data-i18n="footer.text">&copy; 2024 Fe y Tradición. Ad maiorem Dei gloriam.</p>
+    </footer>
+
+    <script src="js/main.js" defer></script>
+    <script src="js/translations-es.js" defer></script>
+    <script src="js/translations-en.js" defer></script>
+    <script src="js/translations-ja.js" defer></script>
+    <script src="js/translations.js" defer></script>
+</body>
+</html>
