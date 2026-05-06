@@ -404,6 +404,9 @@ const translationsJA = {
       }
     }
   },
+  provisional: {
+    notice: "⚠ この記事は現在執筆中です。掲載されているコンテンツは暫定的なものであり、近日中に正式な内容に差し替えられます。"
+  },
   meditacion: {
     quotes: [
       { ref: "ヨハ 14:6",    text: "わたしは道であり、真理であり、命である。" },

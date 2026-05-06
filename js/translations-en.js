@@ -404,6 +404,9 @@ const translationsEN = {
       }
     }
   },
+  provisional: {
+    notice: "⚠ This article is being written. The current content is provisional and will be replaced soon with the definitive text."
+  },
   meditacion: {
     quotes: [
       { ref: "Jn 14:6",    text: "I am the Way, the Truth, and the Life." },
