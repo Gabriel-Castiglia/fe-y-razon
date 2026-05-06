@@ -12,11 +12,12 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
-    <link rel="preload" href="css/style.css" as="style">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="preload" href="css/style.css?v=8" as="style">
+    <link rel="stylesheet" href="css/style.css?v=8">
 </head>
 <body>
     <div id="preloader"><p class="preloader-logo">Fé y Razón</p></div>
+    <button id="scroll-top" aria-label="Volver arriba">↑</button>
     <header id="header">
         <div class="container">
             <h1 class="logo" data-i18n="logo">Fé y Razón</h1>
@@ -28,10 +29,38 @@
                     <li><a href="#contacto" data-i18n="nav.contact">Contacto</a></li>
                 </ul>
             </nav>
-            <div class="language-selector">
-                <button class="lang-btn active" data-lang="es">ES</button>
-                <button class="lang-btn" data-lang="en">EN</button>
-                <button class="lang-btn" data-lang="ja">JA</button>
+            <div class="lang-dropdown" id="lang-dropdown">
+                <button class="lang-dropdown-trigger" id="lang-dropdown-trigger" aria-haspopup="listbox" aria-expanded="false">
+                    <img class="lang-flag-img" src="Recursos/Im%C3%A1genes/spain-flag-png-large.png.jpeg" alt="" width="20" height="14">
+                    <span class="lang-trigger-label">ES</span>
+                    <svg class="lang-arrow" width="10" height="6" viewBox="0 0 10 6" fill="none" aria-hidden="true">
+                        <path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </button>
+                <div class="lang-dropdown-menu" role="listbox" aria-label="Seleccionar idioma">
+                    <button class="lang-option active" data-lang="es" role="option" aria-selected="true">
+                        <img src="Recursos/Im%C3%A1genes/spain-flag-png-large.png.jpeg" alt="" width="22" height="15">
+                        <span>Español</span>
+                    </button>
+                    <button class="lang-option" data-lang="en" role="option" aria-selected="false">
+                        <img src="Recursos/Im%C3%A1genes/united-states-of-america-flag-png-large.png.jpeg" alt="" width="22" height="15">
+                        <span>English</span>
+                    </button>
+                    <button class="lang-option" data-lang="ja" role="option" aria-selected="false">
+                        <img src="Recursos/Im%C3%A1genes/japan-flag-png-large.png.jpeg" alt="" width="22" height="15">
+                        <span>日本語</span>
+                    </button>
+                    <div class="lang-option-disabled" aria-disabled="true">
+                        <img src="Recursos/Im%C3%A1genes/philippines-flag-png-large.png.jpeg" alt="" width="22" height="15">
+                        <span>Tagalog</span>
+                        <span class="lang-soon">Paparating na</span>
+                    </div>
+                    <div class="lang-option-disabled" aria-disabled="true">
+                        <img src="Recursos/Im%C3%A1genes/denmark-flag-png-large.png.jpeg" alt="" width="22" height="15">
+                        <span>Dansk</span>
+                        <span class="lang-soon">Kommer snart</span>
+                    </div>
+                </div>
             </div>
             <button class="hamburger" id="hamburger" aria-label="Abrir menú" aria-expanded="false">
                 <span></span><span></span><span></span>
