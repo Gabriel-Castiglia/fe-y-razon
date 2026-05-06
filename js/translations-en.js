@@ -16,7 +16,7 @@ const translationsEN = {
   topics: {
     eyebrow: "Apologetic Catechesis",
     title: "Faith Topics",
-    subtitle: "Solid arguments to deepen, understand and defend the Catholic faith"
+    subtitle: "Solid arguments to deepen, understand and defend the Catholic&nbsp;faith"
   },
   article1: {
     category: "Doctrine",
