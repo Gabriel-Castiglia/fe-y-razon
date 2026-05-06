@@ -1,5 +1,5 @@
 const translationsJA = {
-  logo: "信仰と伝統",
+  logo: "信仰と理性",
   nav: {
     home: "ホーム",
     topics: "トピック",
@@ -121,7 +121,7 @@ const translationsJA = {
       backToTopics: "トピックに戻る"
     },
     "el-purgatorio": {
-      pageTitle: "煉獄と神の憐れみ | 信仰と伝統",
+      pageTitle: "煉獄と神の憐れみ | 信仰と理性",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">特別なテーマ</span>
@@ -152,7 +152,7 @@ const translationsJA = {
       }
     },
     "la-eucaristia": {
-      pageTitle: "聖体 | 信仰と伝統",
+      pageTitle: "聖体 | 信仰と理性",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">特別なテーマ</span>
@@ -183,7 +183,7 @@ const translationsJA = {
       }
     },
     "la-nueva-ley": {
-      pageTitle: "キリストにおける新しい法 | 信仰と伝統",
+      pageTitle: "キリストにおける新しい法 | 信仰と理性",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">特別なテーマ</span>
@@ -214,7 +214,7 @@ const translationsJA = {
       }
     },
     "la-primacia-de-pedro": {
-      pageTitle: "ペトロの首位権 | 信仰と伝統",
+      pageTitle: "ペトロの首位権 | 信仰と理性",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">特別なテーマ</span>
@@ -245,7 +245,7 @@ const translationsJA = {
       }
     },
     "la-santisima-trinidad": {
-      pageTitle: "聖なる三位一体 | 信仰と伝統",
+      pageTitle: "聖なる三位一体 | 信仰と理性",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">特別なテーマ</span>
@@ -276,7 +276,7 @@ const translationsJA = {
       }
     },
     "los-santos": {
-      pageTitle: "聖人たち | 信仰と伝統",
+      pageTitle: "聖人たち | 信仰と理性",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">特別なテーマ</span>
@@ -307,7 +307,7 @@ const translationsJA = {
       }
     },
     "por-que-creemos": {
-      pageTitle: "なぜ私たちは信じるのか | 信仰と伝統",
+      pageTitle: "なぜ私たちは信じるのか | 信仰と理性",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">特別なテーマ</span>
@@ -338,7 +338,7 @@ const translationsJA = {
       }
     },
     "sacerdocio": {
-      pageTitle: "カトリック教会の司祭職 | 信仰と伝統",
+      pageTitle: "カトリック教会の司祭職 | 信仰と理性",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">特別なテーマ</span>
@@ -369,7 +369,7 @@ const translationsJA = {
       }
     },
     "transubstanciacion": {
-      pageTitle: "実体変化 | 信仰と伝統",
+      pageTitle: "実体変化 | 信仰と理性",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">特別なテーマ</span>
@@ -410,6 +410,6 @@ const translationsJA = {
     ]
   },
   footer: {
-    text: "&copy; 2024 信仰と伝統。Ad maiorem Dei gloriam."
+    text: "&copy; 2024 信仰と理性。Ad maiorem Dei gloriam."
   }
 };
