@@ -20,7 +20,7 @@ const translationsEN = {
   },
   article1: {
     category: "Doctrine",
-    date: "Coming soon",
+    date: "May 2026",
     title: "The Priesthood",
     excerpt: "The essential role of the priesthood in the Catholic Church and its importance in sacramental life.",
     time: "8 min read",
@@ -28,7 +28,7 @@ const translationsEN = {
   },
   article2: {
     category: "Apologetics",
-    date: "Coming soon",
+    date: "May 2026",
     title: "Why We Believe",
     excerpt: "Fundamental reasons to believe in the Catholic faith and its coherence with human reason.",
     time: "12 min read",
@@ -36,7 +36,7 @@ const translationsEN = {
   },
   article3: {
     category: "Sacraments",
-    date: "Coming soon",
+    date: "May 2026",
     title: "The Eucharist",
     excerpt: "The central sacrament of the Catholic Church and its meaning in Christian life.",
     time: "10 min read",
@@ -168,19 +168,23 @@ const translationsEN = {
                 <span>Published May 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
-      article: `<p>The Eucharist is the heart of Catholic liturgy. In it, the Church celebrates Christ’s real presence and receives his Body and Blood to live in authentic communion.</p>
-                <h2>Real presence</h2>
-                <p>Catholic doctrine affirms that after consecration, bread and wine become the Body and Blood of Christ. This is not a symbol, but a true presence that nourishes the soul.</p>
-                <blockquote>"I am the bread of life; whoever comes to me will never hunger, and whoever believes in me will never thirst."</blockquote>
-                <h2>Communal participation</h2>
-                <p>The Eucharist unites the faithful into one body. Celebrating it together affirms the unity of the Church, renews its commitment to Christ, and gives strength to live the Gospel.</p>
+      article: `<p>Is the Eucharist a symbol or is it real? The answer is in John 6. There is no clearer, more direct, or more challenging text in all the Gospels on this subject. And Jesus does not back down.</p>
+                <h2>I am the bread of life<br>John 6:47-51</h2>
+                <p>Jesus does not say "I represent the bread of life" or "I am like the bread of life." He says: <em>"I am the bread of life"</em> (Jn 6:48). The verb "am" does not indicate representation — it indicates identity. And what follows leaves no room for symbolic interpretation:</p>
+                <blockquote>"Very truly I tell you, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you." — John 6:53</blockquote>
+                <p>He does not say "unless you remember" or "unless you contemplate." He says <em>eat</em> and <em>drink</em>. And he repeats it in different words to remove all confusion: "real food" and "real drink" (Jn 6:55). The word "real" expressly excludes the symbolic.</p>
+                <h2>This causes division<br>John 6:60-67</h2>
+                <p>The reaction of those who heard is telling: <em>"This is a hard teaching. Who can accept it?"</em> (Jn 6:60). Jesus does not correct them by saying "you misunderstood — it was a metaphor." He lets them leave. That is the strongest proof: if it were symbolic, He would have kept them with a clarification. But He does not.</p>
+                <p>Many disciples turned back. Jesus does not stop them. He turns to the twelve and asks: <em>"You do not want to leave too, do you?"</em> (Jn 6:67). He does not give in. He does not soften. He does not negotiate the meaning. Jesus is the good shepherd who would not let a single sheep be lost without a fight — but on this He is immovable.</p>
+                <h2>There is no other interpretation<br>John 6:68</h2>
+                <p>Peter answers for all: <em>"Lord, to whom shall we go? You have the words of eternal life"</em> (Jn 6:68). He does not say he understands everything. He says he trusts. That is faith: not having all the answers, but knowing in Whom you believe.</p>
                 <ul>
-                    <li>The community gathers around Christ.</li>
-                    <li>Source of forgiveness, spiritual food, and consolation.</li>
-                    <li>The highest expression of God’s love for humanity.</li>
+                    <li>"I am" — not represents, but is.</li>
+                    <li>"Real food, real drink" — not symbolic.</li>
+                    <li>Jesus does not correct those who understood Him literally — He lets them leave.</li>
+                    <li>Peter does not fully understand, but he trusts. That is faith.</li>
                 </ul>
-                <h2>Sacramental life</h2>
-                <p>By participating worthily in the Eucharist, the believer is transformed and sent as a witness of the Gospel. Frequent reception of the sacrament strengthens Christian life.</p>`,
+                <p>To understand how this reality is made present in the Mass, continue to the topic <a href="tema-transubstanciacion.html">Transubstantiation</a>, from 1 Corinthians 10:16. And to understand why we accept these words as God's truth, see the topic <a href="tema-por-que-creemos.html">Why We Believe</a>, from John 1:1.</p>`,
       nav: {
         prevTitle: "Why We Believe in the Catholic Faith",
         nextTitle: "Transubstantiation: the Eucharistic Mystery"
@@ -323,19 +327,24 @@ const translationsEN = {
                 <span>Published May 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
-      article: `<p>The Catholic faith is not a collection of isolated ideas, but a set of truths supported by Scripture, tradition, and the magisterium. We believe because divine revelation is coherent with reason and fulfills humanity’s need for transcendence.</p>
-                <h2>Coherence with reason</h2>
-                <p>The existence of God, human dignity, and the purpose of life find deep answers in Christianity. The Catholic faith offers an integrated vision of the human person and their relationship with the Creator.</p>
-                <blockquote>"Faith and reason are like two wings with which the human spirit rises toward the contemplation of truth."</blockquote>
-                <h2>Biblical foundation</h2>
-                <p>From Sacred Scripture, Christ reveals his identity, saving mission, and the nature of the Church. Catholic interpretation of the Bible is supported by living tradition and apostolic teaching.</p>
-                <ul>
-                    <li>Jesus as Teacher, Priest, and Redeemer.</li>
-                    <li>Scripture entrusted to the Church for correct understanding.</li>
-                    <li>The resurrection as the central proof of Christian faith.</li>
-                </ul>
-                <h2>Tradition and magisterium</h2>
-                <p>The Church preserves and transmits the faith of the apostles through tradition and pastoral authority. This ensures that Christianity does not become a mere subjective ideal, but a proposal of objective truth.</p>`,
+      article: `<p>Why do we believe? Not out of blind tradition or family custom. We believe because the Word of God was witnessed, faithfully transmitted, and remains true. Luke tells us from the beginning: he investigated everything from the start so that we may know the certainty of the things we have been taught (Lk 1:1-4). That is exactly what we will do here.</p>
+                <h2>The Word was witnessed<br>Luke 1:1-4 and John 11:25-27</h2>
+                <p>Luke tells us that many undertook to compile an account of the events that took place among them, <em>"just as they were handed down to us by those who from the first were eyewitnesses and servants of the word"</em> (Lk 1:2). These are not legends: they are testimonies. What Jesus said, lived and taught was seen and transmitted by real witnesses.</p>
+                <p>Martha, before the tomb of her brother, recognizes Him without hesitation: <em>"Yes, Lord, I believe that you are the Messiah, the Son of God, who is to come into the world"</em> (Jn 11:27). Faith is not irrational: it is a response to a revelation verified by those who lived it.</p>
+                <blockquote>"So that you may know the certainty of the things you have been taught." — Luke 1:4</blockquote>
+                <h2>We must read the Word of God<br>Luke 8:5-8, 8:11-12 and Psalm 119</h2>
+                <p>The parable of the sower makes it clear: <em>"The seed is the word of God"</em> (Lk 8:11). The devil knows that the Word of God brings forth salvation — that is why he snatches it away, chokes it, and crushes it (Lk 8:12). It is no accident that the enemy fights against its reading.</p>
+                <p>Psalm 119:72 says that the law of God is worth more than thousands of pieces of silver and gold. And if someone asks what is gained by reading the Bible, Paul answers: <em>"from infancy you have known the Holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus"</em> (2 Tim 3:15).</p>
+                <p>Psalm 119:103-105 gives us the most beautiful image: <em>"How sweet are your words to my taste, sweeter than honey to my mouth!... Your word is a lamp for my feet, a light on my path."</em> Whoever does not read the Word of God walks in darkness.</p>
+                <blockquote>"Your word is a lamp for my feet, a light on my path." — Psalm 119:105</blockquote>
+                <h2>The Word is from God<br>2 Pet 1:19 and John 17:17</h2>
+                <p>This is not human opinion. Peter affirms it: the word of the prophets is the word of God (2 Pet 1:19). And Jesus Himself, in His prayer to the Father, confirms it: <em>"Your word is truth"</em> (Jn 17:17). Jesus Himself said it: <em>"Blessed rather are those who hear the word of God and obey it"</em> (Lk 11:28). He did not say those who know it or those who quote it — He said those who <strong>obey</strong> it.</p>
+                <h2>Faith is doing what He says<br>Luke 5:5 and John 2:5</h2>
+                <p>Peter had fished all night and caught nothing. By human experience, casting the nets during the day made no sense at all. But he said something that sums up all of faith: <em>"Master, we've worked hard all night and haven't caught anything. But because you say so, I will let down the nets"</em> (Lk 5:5). And that is exactly why Jesus made him a fisher of men — Peter specifically, not the others (Lk 5:10).</p>
+                <p>At Cana, the Virgin Mary gives the servants the definitive instruction: <em>"Do whatever he tells you"</em> (Jn 2:5). The jars were filled with water, but turned into wine when the servants carried out His orders to the end (Jn 2:8). Faith is not only believing — it is obeying. See the topic on the Eucharist from Matthew 8:5, and the topic on Transubstantiation from 1 Corinthians 10:16.</p>
+                <blockquote>"But because you say so, I will let down the nets." — Luke 5:5</blockquote>
+                <h2>Conclusion: believe and obey</h2>
+                <p>The word of the prophets is from God. The apostles witnessed it. We must read it. And we must do what God says — that is faith. Not everyone who says "Lord, Lord" will be saved, but the one who does the will of the Father (Mt 7:21). To believe is to trust in Jesus Christ even when human experience says otherwise, as Peter did on the lake. And that act of trust changes everything.</p>`,
       nav: {
         prevTitle: "The Priesthood in the Catholic Church",
         nextTitle: "The Eucharist: the Central Sacrament"
@@ -354,19 +363,22 @@ const translationsEN = {
                 <span>Published May 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
-      article: `<p>The priesthood is one of the cornerstones of Christian life. In the Catholic Church, the priest acts in persona Christi, celebrating the Eucharist, absolving sins, and proclaiming the Word of God.</p>
-                <h2>A sacred vocation</h2>
-                <p>The call to the priesthood is not a human office; it is a total giving of oneself to the service of Christ and his Church. The priest is a pastor, spiritual guide, and witness of God’s love among his people.</p>
-                <blockquote>"It is not man who chooses the priest, but God who calls him and sends him to serve."</blockquote>
-                <h2>Sacramental role</h2>
-                <p>Mass, reconciliation, and the anointing of the sick are visible signs of Christ’s presence in the Church. The priest administers these sacraments to sustain, heal, and strengthen faith.</p>
+      article: `<p>A priest is a man taken from among men. He is not a perfect or sinless being, but someone who struggles, like every Christian, against temptation and seeks to do good. Understanding this is essential for a correct understanding of the Catholic priesthood.</p>
+                <h2>Taken from among men<br>Heb 5:1-2</h2>
+                <p>The Letter to the Hebrews is clear from the start: <em>"Every high priest is selected from among the people and is appointed to represent the people in matters related to God, to offer gifts and sacrifices for sins. He is able to deal gently with those who are ignorant and are going astray, since he himself is subject to weakness"</em> (Heb 5:1-2).</p>
+                <blockquote>"Every high priest is selected from among the people and is appointed to represent the people in matters related to God." — Hebrews 5:1</blockquote>
+                <p>The priest is not above the human condition. He shares the same struggles, temptations and weaknesses as any believer. This is the foundation of pastoral compassion: no one can truly accompany another through what they have never experienced. The priest can show compassion because he too struggles.</p>
+                <h2>Holy because of God, not by personal merit<br>Lev 21:6-8</h2>
+                <p>In Leviticus, God establishes that priests must be considered holy. But the holiness required of them is not absolute moral perfection — it is consecration: they are set apart for God and His service. The text says: <em>"They must be holy to their God and must not profane the name of their God... Regard him as holy, because I the Lord am holy — I who make you holy"</em> (Lev 21:6,8).</p>
+                <blockquote>"Regard him as holy, because I the Lord am holy — I who make you holy." — Leviticus 21:8</blockquote>
+                <p>The people must regard the priest as holy not because of his own merits, but because of God. The holiness of the ministry comes from the One who instituted it. This frees us from a mistaken expectation: our faith does not rest on the virtue of the minister, but on the faithfulness of God.</p>
+                <h2>What Scripture teaches us</h2>
                 <ul>
-                    <li>He presides at the Eucharist as mediator between God and the faithful.</li>
-                    <li>He offers sacramental absolution and accompanies people in confession.</li>
-                    <li>He guides the community in prayer, discernment, and spiritual growth.</li>
+                    <li>The priest is a man like any other, who can struggle and fail.</li>
+                    <li>His authority and holiness come from God, not from his own merits.</li>
+                    <li>The validity of the sacraments does not depend on the personal holiness of the minister.</li>
                 </ul>
-                <h2>Trust and transparency</h2>
-                <p>The Church expects ministerial priests to live with integrity and humility. The sacrament of orders requires a deep inner surrender and a selfless love for every person.</p>`,
+                <p>Understanding the priesthood through Scripture protects us from two opposite errors: placing blind faith in the man, and rejecting the ministry when the minister fails. The priest is an instrument in God's hands — fragile like every human being, but consecrated to His service.</p>`,
       nav: {
         prevTitle: "The Primacy of Peter",
         nextTitle: "Why We Believe in the Catholic Faith"
@@ -417,6 +429,6 @@ const translationsEN = {
     ]
   },
   footer: {
-    text: "&copy; 2024 Faith and Reason. Ad maiorem Dei gloriam."
+    text: "&copy; 2026 Faith and Reason. Ad maiorem Dei gloriam."
   }
 };

@@ -1,5 +1,5 @@
 /* ──────────────────────────────────────────────────────────── */
-/* FE Y TRADICIÓN — Animaciones y Comportamiento               */
+/* FÉ Y RAZÓN — Animaciones y Comportamiento                   */
 /* ──────────────────────────────────────────────────────────── */
 
 // ──────────────────────────────────────────────────────────
@@ -166,11 +166,14 @@ document.addEventListener('DOMContentLoaded', function () {
   const header = document.getElementById('header');
   const hero = document.getElementById('hero');
 
+  const langTrigger = document.getElementById('lang-dropdown-trigger');
+
   function updateHeaderScroll() {
-    if (window.scrollY > 50) {
-      header.classList.add('scrolled');
-    } else {
-      header.classList.remove('scrolled');
+    const scrolled = window.scrollY > 50;
+    header.classList.toggle('scrolled', scrolled);
+    if (langTrigger) {
+      langTrigger.style.borderColor = scrolled ? 'rgba(160, 115, 50, 0.8)' : '';
+      langTrigger.style.color = scrolled ? '#1a1410' : '';
     }
   }
 
@@ -329,4 +332,32 @@ document.addEventListener('DOMContentLoaded', function () {
     card.addEventListener('mouseenter', () => vid.play().catch(() => {}));
     card.addEventListener('mouseleave', () => { vid.pause(); vid.currentTime = 0; });
   });
+
+  // ──────────────────────────────────────────────────────────
+  // 8. READING PROGRESS BAR — Solo en páginas de artículo
+  // ──────────────────────────────────────────────────────────
+  const progressBar = document.getElementById('reading-progress');
+  const articlePage = document.querySelector('.article-page');
+  if (progressBar && articlePage) {
+    window.addEventListener('scroll', () => {
+      const start = articlePage.offsetTop;
+      const height = articlePage.offsetHeight - window.innerHeight;
+      const scrolled = window.scrollY - start;
+      const pct = Math.min(Math.max((scrolled / height) * 100, 0), 100);
+      progressBar.style.width = pct + '%';
+    }, { passive: true });
+  }
+
+  // ──────────────────────────────────────────────────────────
+  // 9. SCROLL TO TOP — Aparece al bajar 400px
+  // ──────────────────────────────────────────────────────────
+  const scrollTopBtn = document.getElementById('scroll-top');
+  if (scrollTopBtn) {
+    window.addEventListener('scroll', () => {
+      scrollTopBtn.classList.toggle('visible', window.scrollY > 400);
+    }, { passive: true });
+    scrollTopBtn.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
 });
