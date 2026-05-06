@@ -2,17 +2,24 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fe y Tradición | Proyecto Católico</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="description" content="Argumentos apologéticos sólidos para entender, vivir y defender la fe católica con convicción y sabiduría.">
+    <meta name="theme-color" content="#1a1410">
+    <meta property="og:title" content="Fé y Razón | Apologética Católica">
+    <meta property="og:description" content="Catequesis apologética: razones para creer y defender la fe católica.">
+    <meta property="og:type" content="website">
+    <title>Fé y Razón | Apologética Católica</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="preload" href="css/style.css" as="style">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+    <div id="preloader"><p class="preloader-logo">Fé y Razón</p></div>
     <header id="header">
         <div class="container">
-            <h1 class="logo" data-i18n="logo">Fe y Tradición</h1>
+            <h1 class="logo" data-i18n="logo">Fé y Razón</h1>
             <nav>
                 <ul class="nav-links">
                     <li><a href="#hero" class="active" data-i18n="nav.home">Inicio</a></li>
@@ -26,6 +33,9 @@
                 <button class="lang-btn" data-lang="en">EN</button>
                 <button class="lang-btn" data-lang="ja">JA</button>
             </div>
+            <button class="hamburger" id="hamburger" aria-label="Abrir menú" aria-expanded="false">
+                <span></span><span></span><span></span>
+            </button>
         </div>
     </header>
 
@@ -240,7 +250,7 @@
     </main>
 
     <footer>
-        <p data-i18n="footer.text">&copy; 2024 Fe y Tradición. Ad maiorem Dei gloriam.</p>
+        <p data-i18n="footer.text">&copy; 2024 Fé y Razón. Ad maiorem Dei gloriam.</p>
     </footer>
 
     <script src="js/main.js" defer></script>

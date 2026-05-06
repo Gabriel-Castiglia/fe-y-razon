@@ -1,5 +1,5 @@
 const translationsES = {
-  logo: "Fe y Tradición",
+  logo: "Fé y Razón",
   nav: {
     home: "Inicio",
     topics: "Temas",
@@ -121,7 +121,7 @@ const translationsES = {
       backToTopics: "Volver a Temas"
     },
     "el-purgatorio": {
-      pageTitle: "El purgatorio | Fe y Tradición",
+      pageTitle: "El purgatorio | Fé y Razón",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Tema Especial</span>
@@ -152,7 +152,7 @@ const translationsES = {
       }
     },
     "la-eucaristia": {
-      pageTitle: "La Eucaristía | Fe y Tradición",
+      pageTitle: "La Eucaristía | Fé y Razón",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Tema Especial</span>
@@ -183,7 +183,7 @@ const translationsES = {
       }
     },
     "la-nueva-ley": {
-      pageTitle: "La nueva ley | Fe y Tradición",
+      pageTitle: "La nueva ley | Fé y Razón",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Tema Especial</span>
@@ -214,7 +214,7 @@ const translationsES = {
       }
     },
     "la-primacia-de-pedro": {
-      pageTitle: "La primacía de Pedro | Fe y Tradición",
+      pageTitle: "La primacía de Pedro | Fé y Razón",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Tema Especial</span>
@@ -245,7 +245,7 @@ const translationsES = {
       }
     },
     "la-santisima-trinidad": {
-      pageTitle: "La Santísima Trinidad | Fe y Tradición",
+      pageTitle: "La Santísima Trinidad | Fé y Razón",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Tema Especial</span>
@@ -276,7 +276,7 @@ const translationsES = {
       }
     },
     "los-santos": {
-      pageTitle: "Los santos | Fe y Tradición",
+      pageTitle: "Los santos | Fé y Razón",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Tema Especial</span>
@@ -307,7 +307,7 @@ const translationsES = {
       }
     },
     "por-que-creemos": {
-      pageTitle: "Por qué creemos | Fe y Tradición",
+      pageTitle: "Por qué creemos | Fé y Razón",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Tema Especial</span>
@@ -338,7 +338,7 @@ const translationsES = {
       }
     },
     "sacerdocio": {
-      pageTitle: "El Sacerdocio | Fe y Tradición",
+      pageTitle: "El Sacerdocio | Fé y Razón",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Tema Especial</span>
@@ -369,7 +369,7 @@ const translationsES = {
       }
     },
     "transubstanciacion": {
-      pageTitle: "Transubstanciación | Fe y Tradición",
+      pageTitle: "Transubstanciación | Fé y Razón",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Tema Especial</span>
@@ -410,6 +410,6 @@ const translationsES = {
     ]
   },
   footer: {
-    text: "&copy; 2024 Fe y Tradición. Ad maiorem Dei gloriam."
+    text: "&copy; 2024 Fé y Razón. Ad maiorem Dei gloriam."
   }
 };
