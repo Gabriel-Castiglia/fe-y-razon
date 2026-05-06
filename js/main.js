@@ -327,10 +327,22 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   document.querySelectorAll('.article-card').forEach(card => {
-    const vid = card.querySelector('.card-bg-video');
-    if (!vid) return;
-    card.addEventListener('mouseenter', () => vid.play().catch(() => {}));
-    card.addEventListener('mouseleave', () => { vid.pause(); vid.currentTime = 0; });
+    const vid  = card.querySelector('.card-bg-video');
+    const link = card.querySelector('.article-link');
+
+    if (vid) {
+      card.addEventListener('mouseenter', () => vid.play().catch(() => {}));
+      card.addEventListener('mouseleave', () => { vid.pause(); vid.currentTime = 0; });
+    }
+
+    if (link) {
+      card.style.cursor = 'pointer';
+      card.addEventListener('click', e => {
+        if (!e.target.closest('.article-link')) {
+          window.location.href = link.href;
+        }
+      });
+    }
   });
 
   // ──────────────────────────────────────────────────────────
