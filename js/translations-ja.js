@@ -112,7 +112,11 @@ const translationsJA = {
     email: { placeholder: "あなたのメール" },
     subject: { placeholder: "件名" },
     message: { placeholder: "あなたのメッセージ" },
-    submit: "メッセージを送る"
+    submit: "メッセージを送る",
+    success: {
+      title: "メッセージを受け取りました",
+      desc: "ご連絡ありがとうございます。できるだけ早くお返事いたします。Ad maiorem Dei gloriam."
+    }
   },
   topicPages: {
     common: {
