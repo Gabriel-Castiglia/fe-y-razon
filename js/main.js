@@ -288,6 +288,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const contactForm    = document.getElementById('contact-form');
   const contactSuccess = document.getElementById('contact-success');
   const contactSubmit  = document.getElementById('contact-submit');
+  const contactDesc    = document.getElementById('contact-desc');
 
   if (contactForm && contactSuccess) {
     contactForm.addEventListener('submit', async function (e) {
@@ -305,6 +306,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (res.ok) {
           contactForm.style.display = 'none';
           contactForm.hidden = true;
+          if (contactDesc) { contactDesc.style.display = 'none'; }
           contactSuccess.removeAttribute('hidden');
           contactSuccess.style.display = 'block';
           contactSuccess.scrollIntoView({ behavior: 'smooth', block: 'center' });
