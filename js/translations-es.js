@@ -20,7 +20,7 @@ const translationsES = {
   },
   article1: {
     category: "Doctrina",
-    date: "Próximamente",
+    date: "Mayo 2026",
     title: "El Sacerdocio",
     excerpt: "El rol esencial del sacerdocio en la Iglesia católica y su importancia en la vida sacramental.",
     time: "8 min lectura",
@@ -28,7 +28,7 @@ const translationsES = {
   },
   article2: {
     category: "Apologética",
-    date: "Próximamente",
+    date: "Mayo 2026",
     title: "Por qué creemos",
     excerpt: "Razones fundamentales para creer en la fe católica y su coherencia con la razón humana.",
     time: "12 min lectura",
@@ -36,7 +36,7 @@ const translationsES = {
   },
   article3: {
     category: "Sacramentos",
-    date: "Próximamente",
+    date: "Mayo 2026",
     title: "La Eucaristía",
     excerpt: "El sacramento central de la Iglesia católica y su significado en la vida cristiana.",
     time: "10 min lectura",
@@ -168,19 +168,23 @@ const translationsES = {
                 <span>Publicado en mayo de 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
-      article: `<p>La Eucaristía es el corazón de la liturgia católica. En ella, la Iglesia celebra la presencia real de Cristo y recibe su Cuerpo y Sangre para vivir en comunión auténtica.</p>
-                <h2>Presencia real</h2>
-                <p>La doctrina católica sostiene que, tras la consagración, el pan y el vino se convierten en el Cuerpo y la Sangre de Cristo. Esto no es un símbolo, sino una presencia verdadera que alimenta el alma.</p>
-                <blockquote>"Yo soy el pan de vida; el que viene a mí no tendrá hambre, y el que cree en mí no tendrá sed jamás."</blockquote>
-                <h2>Participación comunitaria</h2>
-                <p>La Eucaristía une a los fieles en un solo cuerpo. Celebrarla juntos es afirmar la unidad de la Iglesia, renovar su compromiso con Cristo y recibir fuerza para vivir el Evangelio.</p>
+      article: `<p>¿Es la Eucaristía un símbolo o es real? La respuesta está en San Juan 6. No hay texto más claro, más directo ni más desafiante en todo el Evangelio sobre este tema. Y Jesús no cede.</p>
+                <h2>Yo soy el pan de vida<br>Juan 6:47-51</h2>
+                <p>Jesús no dice «represento el pan de vida» ni «soy como el pan de vida». Dice: <em>«Yo soy el pan de vida»</em> (Jn 6:48). El verbo «soy» no indica representación, indica identidad. Y lo que viene después no deja lugar a interpretaciones simbólicas:</p>
+                <blockquote>«Les aseguro que si no comen la carne del Hijo del Hombre y no beben su sangre, no tienen vida en ustedes.» — Juan 6:53</blockquote>
+                <p>No dice «si no recuerdan» ni «si no contemplan». Dice <em>comer</em> y <em>beber</em>. Y lo repite con distintas palabras para que no haya confusión: «verdadera comida» y «verdadera bebida» (Jn 6:55). El adjetivo «verdadera» excluye expresamente lo simbólico.</p>
+                <h2>Esto genera división<br>Juan 6:60-67</h2>
+                <p>La reacción de los que escucharon es significativa: <em>«Este mensaje es muy difícil. ¿Quién puede aceptarlo?»</em> (Jn 6:60). Jesús no los corrige diciendo «malentendieron, era una metáfora». Los deja partir. Esa es la prueba más contundente: si fuera simbólico, los hubiera retenido con una aclaración. Pero no lo hace.</p>
+                <p>Muchos discípulos se retiraron. Jesús no los detiene. Se vuelve a los doce y les pregunta: <em>«¿También ustedes quieren irse?»</em> (Jn 6:67). No cede. No suaviza. No negocia el significado. Jesús es el buen pastor que no dejaría que ninguna oveja se perdiera sin luchar; pero en esto es inflexible.</p>
+                <h2>No hay interpretación posible<br>Juan 6:68</h2>
+                <p>Pedro responde por todos: <em>«Señor, ¿a quién vamos a ir? Tú tienes palabras de vida eterna»</em> (Jn 6:68). No dice que entiende todo. Dice que confía. Eso es la fe: no tener todas las respuestas, sino saber en Quién se cree.</p>
                 <ul>
-                    <li>Reunión de la comunidad en torno a Cristo.</li>
-                    <li>Fuente de perdón, alimento espiritual y consuelo.</li>
-                    <li>Expresión más alta del amor de Dios hacia la humanidad.</li>
+                    <li>«Yo soy» — no representa, es.</li>
+                    <li>«Verdadera comida, verdadera bebida» — no simbólica.</li>
+                    <li>Jesús no corrige a quienes lo entendieron literalmente: los deja ir.</li>
+                    <li>Pedro no lo entiende del todo, pero confía. Eso es la fe.</li>
                 </ul>
-                <h2>Vida sacramental</h2>
-                <p>Al participar dignamente de la Eucaristía, el creyente es transformado y enviado como testigo del Evangelio. La recepción frecuente del sacramento fortalece la vida cristiana.</p>`,
+                <p>Para entender cómo esta realidad se hace presente en la Misa, continúa en el tema <a href="tema-transubstanciacion.html">Transubstanciación</a>, desde 1 Corintios 10:16. Y para entender por qué aceptamos estas palabras como verdad de Dios, ve al tema <a href="tema-por-que-creemos.html">¿Por qué creemos?</a>, desde Juan 1:1.</p>`,
       nav: {
         prevTitle: "Por qué creemos en la fe católica",
         nextTitle: "Transubstanciación: el misterio eucarístico"
@@ -323,19 +327,24 @@ const translationsES = {
                 <span>Publicado en mayo de 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
-      article: `<p>La fe católica no es una colección de ideas aisladas, sino un conjunto de verdades sostenidas por la Escritura, la tradición y el magisterio. Creemos porque la revelación divina es coherente con la razón y cumple la necesidad humana de trascendencia.</p>
-                <h2>Coherencia con la razón</h2>
-                <p>La existencia de Dios, la dignidad del hombre y el propósito de la vida encuentran respuestas profundas en el cristianismo. La fe católica ofrece una visión integrada del ser humano y de su relación con el Creador.</p>
-                <blockquote>"La fe y la razón son como dos alas con las que el espíritu humano se eleva hacia la contemplación de la verdad."</blockquote>
-                <h2>Fundamento bíblico</h2>
-                <p>Desde las Sagradas Escrituras, Cristo revela su identidad, su misión salvadora y la naturaleza de la Iglesia. La interpretación católica de la Biblia se apoya en la tradición viva y en la enseñanza apostólica.</p>
-                <ul>
-                    <li>Jesús como Maestro, Sacerdote y Redentor.</li>
-                    <li>La Escritura confiada a la Iglesia para su correcta lectura.</li>
-                    <li>La resurrección como prueba central de la fe cristiana.</li>
-                </ul>
-                <h2>Tradición y magisterio</h2>
-                <p>La Iglesia conserva y transmite la fe de los apóstoles mediante la tradición y la autoridad pastoral. Esto garantiza que el cristianismo no se convierta en un simple ideal subjetivo, sino en una propuesta de verdad objetiva.</p>`,
+      article: `<p>¿Por qué creemos? No por tradición ciega ni por costumbre familiar. Creemos porque la Palabra de Dios fue atestiguada, transmitida fielmente y continúa siendo verdad. San Lucas lo dice desde el principio: investigó todo desde el comienzo para que conozcamos la verdad (Lc 1:1-4). Eso es lo que haremos aquí.</p>
+                <h2>La Palabra fue atestiguada<br>Lucas 1:1-4 y Juan 11:25-27</h2>
+                <p>Lucas nos dice que muchos se propusieron relatar los hechos cumplidos entre nosotros, <em>«tal como nos los transmitieron quienes desde el principio fueron testigos oculares y servidores de la Palabra»</em> (Lc 1:2). No son leyendas: son testimonios. Lo que Jesús dijo, vivió y enseñó fue visto y transmitido por testigos reales.</p>
+                <p>Marta, ante la tumba de su hermano, lo reconoce sin dudarlo: <em>«Sí, Señor, yo creo que tú eres el Mesías, el Hijo de Dios, el que tenía que venir al mundo»</em> (Jn 11:27). La fe no es irracional: es la respuesta a una revelación verificada por quienes la vivieron.</p>
+                <blockquote>«Para que conozcas la solidez de las enseñanzas que has recibido.» — Lucas 1:4</blockquote>
+                <h2>Hay que leer la Palabra de Dios<br>Lucas 8:5-8, 8:11-12 y Salmo 119</h2>
+                <p>La parábola del sembrador lo deja claro: <em>«La semilla es la Palabra de Dios»</em> (Lc 8:11). El diablo sabe que la Palabra de Dios hace brotar la salvación, por eso la arrebata, la ahoga y la aplasta (Lc 8:12). No es casualidad que el enemigo luche contra su lectura.</p>
+                <p>El Salmo 119:72 afirma que la ley de Dios vale más que miles de monedas de oro y plata. Y si alguien pregunta qué gana leyendo la Biblia, San Pablo responde: <em>«Desde tu niñez conoces las Sagradas Escrituras, que pueden darte la sabiduría que lleva a la salvación mediante la fe en Cristo Jesús»</em> (2 Tim 3:15).</p>
+                <p>El Salmo 119:103-105 da la imagen más hermosa: <em>«¡Qué dulces son a mi paladar tus palabras! Más que la miel en mi boca... Tu palabra es una lámpara para mis pies, una luz en mi camino.»</em> Quien no lee la Palabra de Dios camina en la oscuridad.</p>
+                <blockquote>«Tu palabra es una lámpara para mis pies, una luz en mi camino.» — Salmo 119:105</blockquote>
+                <h2>La Palabra es de Dios<br>2 Pedro 1:19 y Juan 17:17</h2>
+                <p>Esto no es opinión humana. San Pedro lo afirma: la palabra de los profetas es la palabra de Dios (2 Pe 1:19). Y el mismo Jesús, en su oración al Padre, lo confirma: <em>«Tu palabra es verdad»</em> (Jn 17:17). Y Jesús mismo lo dijo: <em>«Dichosos los que escuchan la Palabra de Dios y la cumplen»</em> (Lc 11:28). No dijo los que la conocen o los que la citan; dijo los que la <strong>cumplen</strong>.</p>
+                <h2>La fe es hacer lo que Él dice<br>Lucas 5:5 y Juan 2:5</h2>
+                <p>Pedro había pescado toda la noche y no había sacado nada. Por su experiencia humana, echar las redes de día no tenía ningún sentido. Pero dijo algo que resume toda la fe: <em>«Maestro, hemos trabajado toda la noche y no hemos pescado nada; pero, porque tú lo dices, echaré las redes»</em> (Lc 5:5). Y por eso, precisamente, Jesús lo hizo pescador de hombres, a él y no a los demás (Lc 5:10).</p>
+                <p>En Caná, la Virgen María da la instrucción definitiva a los sirvientes: <em>«Hagan lo que él les diga»</em> (Jn 2:5). Los cántaros se llenaron de agua, pero se convirtieron en vino cuando los sirvientes cumplieron sus órdenes hasta el final (Jn 2:8). La fe no es solo creer: es cumplir. Véase el tema de la Eucaristía desde Mateo 8:5 y el de la Transubstanciación desde 1 Corintios 10:16.</p>
+                <blockquote>«Porque tú lo dices, echaré las redes.» — Lucas 5:5</blockquote>
+                <h2>Conclusión: creer y cumplir</h2>
+                <p>La Palabra de los profetas es de Dios. Los apóstoles la atestiguaron. Hay que leerla. Y hay que hacer lo que Dios dice: eso es la fe. No el que dice «Señor, Señor» se salvará, sino el que cumple la voluntad del Padre (Mt 7:21). Creer es confiar en Jesucristo aunque la experiencia humana diga lo contrario, como hizo Pedro en el lago. Y ese acto de confianza lo cambia todo.</p>`,
       nav: {
         prevTitle: "El Sacerdocio en la Iglesia Católica",
         nextTitle: "La Eucaristía: el sacramento central"
@@ -354,19 +363,22 @@ const translationsES = {
                 <span>Publicado en mayo de 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
-      article: `<p>El sacerdocio es una de las piedras angulares de la vida cristiana. En la Iglesia católica, el sacerdote actúa in persona Christi, celebrando la Eucaristía, absolviendo pecados y proclamando la Palabra de Dios.</p>
-                <h2>Una vocación sagrada</h2>
-                <p>El llamado al sacerdocio no es un cargo humano; es una entrega total al servicio de Cristo y de su Iglesia. El sacerdote es pastor, guía espiritual y testigo del amor de Dios en su pueblo.</p>
-                <blockquote>"No es el hombre quien elige al sacerdote, sino Dios quien lo llama y lo envía a servir."</blockquote>
-                <h2>Papel sacramental</h2>
-                <p>La Misa, la reconciliación y la unción de los enfermos son signos visibles de la presencia de Cristo en la Iglesia. El sacerdote confiere estos sacramentos para sostener, sanar y fortalecer la fe.</p>
+      article: `<p>El sacerdote es un hombre tomado de entre los hombres. No es un ser perfecto ni impecable, sino alguien que lucha como todo cristiano contra la tentación y busca hacer el bien. Comprender esto es fundamental para entender correctamente el sacerdocio católico.</p>
+                <h2>Un hombre tomado de entre los hombres<br>Heb 5:1-2</h2>
+                <p>La carta a los Hebreos es clara desde el principio: <em>«Todo sumo sacerdote es tomado de entre los hombres y puesto al servicio de Dios en favor de ellos, para ofrecer dones y sacrificios por los pecados. Puede compadecerse de los ignorantes y extraviados, ya que él mismo está rodeado de debilidad»</em> (Heb 5:1-2).</p>
+                <blockquote>«Todo sumo sacerdote es tomado de entre los hombres y puesto al servicio de Dios en favor de ellos.» — Hebreos 5:1</blockquote>
+                <p>El sacerdote no está por encima de la condición humana. Comparte las mismas luchas, tentaciones y debilidades de cualquier creyente. Esta es la base de la compasión pastoral: nadie puede acompañar genuinamente al otro en lo que no conoce. El sacerdote puede compadecerse porque también él lucha.</p>
+                <h2>Santo por Dios, no por mérito propio<br>Lev 21:6-8</h2>
+                <p>En el Levítico, Dios establece que los sacerdotes deben ser considerados santos. Pero la santidad que se les pide no es perfección moral absoluta, sino consagración: están apartados para Dios y su servicio. El texto dice: <em>«Serán santos para su Dios y no profanarán el nombre de su Dios... Lo considerarán como santo, porque yo, el Señor que los santifico, soy santo»</em> (Lev 21:6,8).</p>
+                <blockquote>«Lo considerarán como santo, porque yo, el Señor que los santifico, soy santo.» — Levítico 21:8</blockquote>
+                <p>El pueblo debe considerar santo al sacerdote no por méritos propios, sino por Dios. La santidad del ministerio viene de Quien lo instituyó. Esto nos libera de una expectativa equivocada: nuestra fe no reposa en la virtud del ministro, sino en la fidelidad de Dios.</p>
+                <h2>Lo que la Escritura nos enseña</h2>
                 <ul>
-                    <li>Preside la Eucaristía como mediador entre Dios y los fieles.</li>
-                    <li>Ofrece la absolución sacramental y acompaña en la confesión.</li>
-                    <li>Guía a la comunidad en la oración, el discernimiento y el crecimiento espiritual.</li>
+                    <li>El sacerdote es un hombre como todos, que puede luchar y fallar.</li>
+                    <li>Su autoridad y santidad provienen de Dios, no de sus méritos personales.</li>
+                    <li>La validez de los sacramentos no depende de la santidad personal del ministro.</li>
                 </ul>
-                <h2>Confianza y transparencia</h2>
-                <p>La Iglesia espera que los ministros sacerdotales vivan con integridad y humildad. El sacramento del orden exige una profunda entrega interior y un amor desinteresado por cada persona.</p>`,
+                <p>Comprender el sacerdocio desde la Escritura nos protege de dos errores opuestos: poner una fe ciega en el hombre, y rechazar el ministerio cuando el ministro falla. El sacerdote es un instrumento en manos de Dios: frágil como todo ser humano, pero consagrado a su servicio.`,
       nav: {
         prevTitle: "La primacía de Pedro",
         nextTitle: "Por qué creemos en la fe católica"
@@ -417,6 +429,6 @@ const translationsES = {
     ]
   },
   footer: {
-    text: "&copy; 2024 Fé y Razón. Ad maiorem Dei gloriam."
+    text: "&copy; 2026 Fé y Razón. Ad maiorem Dei gloriam."
   }
 };
