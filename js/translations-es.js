@@ -16,7 +16,7 @@ const translationsES = {
   topics: {
     eyebrow: "Catequesis Apologética",
     title: "Temas de Fe",
-    subtitle: "Argumentos sólidos para profundizar, comprender y defender la fe católica"
+    subtitle: "Argumentos sólidos para profundizar, comprender y defender la fe&nbsp;católica"
   },
   article1: {
     category: "Doctrina",
