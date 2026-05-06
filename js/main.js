@@ -283,21 +283,39 @@ document.addEventListener('DOMContentLoaded', function () {
   // 6. CARD VIDEO PREVIEW — Hover sobre tarjetas de artículo
   // ──────────────────────────────────────────────────────────
   // ──────────────────────────────────────────────────────────
-  // 7. CONTACT FORM — mailto via JS (compatible con Safari)
+  // 7. CONTACT FORM — Formspree AJAX
   // ──────────────────────────────────────────────────────────
-  const contactForm = document.getElementById('contact-form');
-  if (contactForm) {
-    contactForm.addEventListener('submit', function (e) {
+  const contactForm    = document.getElementById('contact-form');
+  const contactSuccess = document.getElementById('contact-success');
+  const contactSubmit  = document.getElementById('contact-submit');
+
+  if (contactForm && contactSuccess) {
+    contactForm.addEventListener('submit', async function (e) {
       e.preventDefault();
-      const name    = (this.elements['name']    || {}).value || '';
-      const email   = (this.elements['email']   || {}).value || '';
-      const subject = (this.elements['subject'] || {}).value || '';
-      const message = (this.elements['message'] || {}).value || '';
-      const body    = `Nombre: ${name}\nEmail: ${email}\n\n${message}`;
-      window.location.href =
-        'mailto:razon-y-fe@hotmail.com' +
-        '?subject=' + encodeURIComponent(subject) +
-        '&body='    + encodeURIComponent(body);
+      contactSubmit.disabled = true;
+      contactSubmit.textContent = '...';
+
+      try {
+        const res = await fetch('https://formspree.io/f/xrejklra', {
+          method: 'POST',
+          headers: { 'Accept': 'application/json' },
+          body: new FormData(contactForm)
+        });
+
+        if (res.ok) {
+          contactForm.hidden = true;
+          contactSuccess.hidden = false;
+          contactSuccess.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        } else {
+          contactSubmit.disabled = false;
+          contactSubmit.textContent = 'Enviar mensaje';
+          alert('Hubo un error al enviar. Por favor intentá de nuevo.');
+        }
+      } catch {
+        contactSubmit.disabled = false;
+        contactSubmit.textContent = 'Enviar mensaje';
+        alert('Sin conexión. Por favor intentá de nuevo.');
+      }
     });
   }
 

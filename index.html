@@ -230,7 +230,7 @@
             <div class="contact-inner">
                 <h2 class="section-title reveal" data-i18n="contact.title">Contacto</h2>
                 <p class="contact-text reveal" data-i18n="contact.desc">¿Tienes preguntas o quieres colaborar con nosotros? Envíanos un mensaje.</p>
-                <form class="contact-form reveal" id="contact-form" novalidate>
+                <form class="contact-form reveal" id="contact-form">
                     <div class="form-group">
                         <input type="text" name="name" data-i18n-placeholder="contact.name.placeholder" placeholder="Tu nombre" required>
                     </div>
@@ -243,8 +243,13 @@
                     <div class="form-group">
                         <textarea name="message" data-i18n-placeholder="contact.message.placeholder" placeholder="Tu mensaje" rows="5" required></textarea>
                     </div>
-                    <button type="submit" class="btn-primary" data-i18n="contact.submit">Enviar mensaje</button>
+                    <button type="submit" class="btn-primary" id="contact-submit" data-i18n="contact.submit">Enviar mensaje</button>
                 </form>
+                <div class="contact-success" id="contact-success" hidden>
+                    <div class="contact-success-icon">✝</div>
+                    <h3 data-i18n="contact.success.title">Mensaje recibido</h3>
+                    <p data-i18n="contact.success.desc">Gracias por escribirnos. Te responderemos a la brevedad. Ad maiorem Dei gloriam.</p>
+                </div>
             </div>
         </section>
     </main>
