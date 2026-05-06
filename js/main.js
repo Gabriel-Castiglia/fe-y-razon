@@ -282,6 +282,25 @@ document.addEventListener('DOMContentLoaded', function () {
   // ──────────────────────────────────────────────────────────
   // 6. CARD VIDEO PREVIEW — Hover sobre tarjetas de artículo
   // ──────────────────────────────────────────────────────────
+  // ──────────────────────────────────────────────────────────
+  // 7. CONTACT FORM — mailto via JS (compatible con Safari)
+  // ──────────────────────────────────────────────────────────
+  const contactForm = document.getElementById('contact-form');
+  if (contactForm) {
+    contactForm.addEventListener('submit', function (e) {
+      e.preventDefault();
+      const name    = (this.elements['name']    || {}).value || '';
+      const email   = (this.elements['email']   || {}).value || '';
+      const subject = (this.elements['subject'] || {}).value || '';
+      const message = (this.elements['message'] || {}).value || '';
+      const body    = `Nombre: ${name}\nEmail: ${email}\n\n${message}`;
+      window.location.href =
+        'mailto:razon-y-fe@hotmail.com' +
+        '?subject=' + encodeURIComponent(subject) +
+        '&body='    + encodeURIComponent(body);
+    });
+  }
+
   document.querySelectorAll('.article-card').forEach(card => {
     const vid = card.querySelector('.card-bg-video');
     if (!vid) return;
