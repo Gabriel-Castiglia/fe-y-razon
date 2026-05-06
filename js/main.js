@@ -2,7 +2,51 @@
 /* FE Y TRADICIÓN — Animaciones y Comportamiento               */
 /* ──────────────────────────────────────────────────────────── */
 
+// ──────────────────────────────────────────────────────────
+// PRELOADER — Fade out cuando el primer video puede reproducir
+// ──────────────────────────────────────────────────────────
+(function () {
+  const preloader = document.getElementById('preloader');
+  if (!preloader) return;
+  let dismissed = false;
+  const dismiss = () => {
+    if (dismissed) return;
+    dismissed = true;
+    preloader.classList.add('fade-out');
+    setTimeout(() => preloader.remove(), 700);
+  };
+  const firstVideo = document.querySelector('.hero-video.active');
+  if (firstVideo) {
+    firstVideo.addEventListener('canplay', dismiss, { once: true });
+  }
+  setTimeout(dismiss, 2200);
+})();
+
 document.addEventListener('DOMContentLoaded', function () {
+
+  // ──────────────────────────────────────────────────────────
+  // 0. HAMBURGER MENU — Navegación móvil
+  // ──────────────────────────────────────────────────────────
+  const hamburger = document.getElementById('hamburger');
+  const navList   = document.querySelector('.nav-links');
+
+  if (hamburger && navList) {
+    hamburger.addEventListener('click', () => {
+      const isOpen = navList.classList.toggle('open');
+      hamburger.classList.toggle('open', isOpen);
+      hamburger.setAttribute('aria-expanded', String(isOpen));
+      document.body.style.overflow = isOpen ? 'hidden' : '';
+    });
+
+    navList.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        navList.classList.remove('open');
+        hamburger.classList.remove('open');
+        hamburger.setAttribute('aria-expanded', 'false');
+        document.body.style.overflow = '';
+      });
+    });
+  }
   // ──────────────────────────────────────────────────────────
   // 1. HERO VIDEO CROSSFADE — Loop infinito de videos
   // ──────────────────────────────────────────────────────────

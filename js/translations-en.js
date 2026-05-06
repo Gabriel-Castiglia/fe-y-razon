@@ -1,5 +1,5 @@
 const translationsEN = {
-  logo: "Faith and Tradition",
+  logo: "Faith and Reason",
   nav: {
     home: "Home",
     topics: "Topics",
@@ -121,7 +121,7 @@ const translationsEN = {
       backToTopics: "Back to Topics"
     },
     "el-purgatorio": {
-      pageTitle: "Purgatory and God’s Mercy | Faith and Tradition",
+      pageTitle: "Purgatory and God’s Mercy | Faith and Reason",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Special Topic</span>
@@ -152,7 +152,7 @@ const translationsEN = {
       }
     },
     "la-eucaristia": {
-      pageTitle: "The Eucharist | Faith and Tradition",
+      pageTitle: "The Eucharist | Faith and Reason",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Special Topic</span>
@@ -183,7 +183,7 @@ const translationsEN = {
       }
     },
     "la-nueva-ley": {
-      pageTitle: "The New Law in Christ | Faith and Tradition",
+      pageTitle: "The New Law in Christ | Faith and Reason",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Special Topic</span>
@@ -214,7 +214,7 @@ const translationsEN = {
       }
     },
     "la-primacia-de-pedro": {
-      pageTitle: "The Primacy of Peter | Faith and Tradition",
+      pageTitle: "The Primacy of Peter | Faith and Reason",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Special Topic</span>
@@ -245,7 +245,7 @@ const translationsEN = {
       }
     },
     "la-santisima-trinidad": {
-      pageTitle: "The Holy Trinity | Faith and Tradition",
+      pageTitle: "The Holy Trinity | Faith and Reason",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Special Topic</span>
@@ -276,7 +276,7 @@ const translationsEN = {
       }
     },
     "los-santos": {
-      pageTitle: "The Saints | Faith and Tradition",
+      pageTitle: "The Saints | Faith and Reason",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Special Topic</span>
@@ -307,7 +307,7 @@ const translationsEN = {
       }
     },
     "por-que-creemos": {
-      pageTitle: "Why We Believe in the Catholic Faith | Faith and Tradition",
+      pageTitle: "Why We Believe in the Catholic Faith | Faith and Reason",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Special Topic</span>
@@ -338,7 +338,7 @@ const translationsEN = {
       }
     },
     "sacerdocio": {
-      pageTitle: "The Priesthood in the Catholic Church | Faith and Tradition",
+      pageTitle: "The Priesthood in the Catholic Church | Faith and Reason",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Special Topic</span>
@@ -369,7 +369,7 @@ const translationsEN = {
       }
     },
     "transubstanciacion": {
-      pageTitle: "Transubstantiation | Faith and Tradition",
+      pageTitle: "Transubstantiation | Faith and Reason",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Special Topic</span>
@@ -410,6 +410,6 @@ const translationsEN = {
     ]
   },
   footer: {
-    text: "&copy; 2024 Faith and Tradition. Ad maiorem Dei gloriam."
+    text: "&copy; 2024 Faith and Reason. Ad maiorem Dei gloriam."
   }
 };
