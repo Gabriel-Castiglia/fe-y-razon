@@ -39,6 +39,7 @@ function setLanguage(lang) {
   });
 
   localStorage.setItem('language', lang);
+  document.dispatchEvent(new CustomEvent('langChange', { detail: { lang } }));
 }
 
 document.addEventListener('DOMContentLoaded', () => {
