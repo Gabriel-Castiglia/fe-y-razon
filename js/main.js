@@ -303,8 +303,10 @@ document.addEventListener('DOMContentLoaded', function () {
         });
 
         if (res.ok) {
+          contactForm.style.display = 'none';
           contactForm.hidden = true;
-          contactSuccess.hidden = false;
+          contactSuccess.removeAttribute('hidden');
+          contactSuccess.style.display = 'block';
           contactSuccess.scrollIntoView({ behavior: 'smooth', block: 'center' });
         } else {
           contactSubmit.disabled = false;
