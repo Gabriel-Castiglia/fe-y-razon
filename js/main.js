@@ -60,6 +60,62 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   // ──────────────────────────────────────────────────────────
+  // 1.5 CONTACT VIDEO CROSSFADE — Loop infinito de videos de velas
+  // ──────────────────────────────────────────────────────────
+  
+  const contactVideos = Array.from(document.querySelectorAll('.contact-video'));
+  if (contactVideos.length) {
+    let contactCurrentIndex = 0;
+    let contactIsTransitioning = false;
+    const contactTransitionDuration = 1200;
+
+    function showContactVideo(index) {
+      const prevIndex = contactCurrentIndex;
+      contactCurrentIndex = index;
+      const prevVideo = contactVideos[prevIndex];
+      const nextVideo = contactVideos[contactCurrentIndex];
+
+      if (prevVideo === nextVideo) return;
+
+      nextVideo.preload = 'auto';
+      nextVideo.currentTime = 0;
+      nextVideo.play().catch(() => {
+        // En caso de fallo de autoplay
+      });
+      nextVideo.classList.add('active');
+
+      setTimeout(() => {
+        prevVideo.classList.remove('active');
+        prevVideo.pause();
+        prevVideo.currentTime = 0;
+        contactIsTransitioning = false;
+      }, contactTransitionDuration);
+    }
+
+    function advanceContactVideo() {
+      if (contactIsTransitioning) return;
+      contactIsTransitioning = true;
+      const nextIndex = (contactCurrentIndex + 1) % contactVideos.length;
+      showContactVideo(nextIndex);
+    }
+
+    contactVideos.forEach((video) => {
+      video.addEventListener('timeupdate', function () {
+        if (contactIsTransitioning) return;
+        if (!this.duration || this.currentTime < this.duration - 1.3) return;
+        advanceContactVideo();
+      });
+
+      video.addEventListener('ended', advanceContactVideo);
+    });
+
+    const firstContactVideo = contactVideos[0];
+    firstContactVideo.play().catch(() => {
+      setTimeout(advanceContactVideo, 2500);
+    });
+  }
+
+  // ──────────────────────────────────────────────────────────
   // 2. HEADER SCROLL EFFECT — Cambio de estilos al bajar
   // ──────────────────────────────────────────────────────────
   
