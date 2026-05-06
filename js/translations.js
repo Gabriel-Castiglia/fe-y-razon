@@ -1,7 +1,8 @@
 const translations = {
   es: translationsES,
   en: translationsEN,
-  ja: translationsJA
+  ja: translationsJA,
+  tl: translationsTL
 };
 
 let currentLang = 'es';
@@ -10,6 +11,7 @@ const langMeta = {
   es: { label: 'ES', flag: 'Recursos/Im%C3%A1genes/spain-flag-png-large.png.jpeg' },
   en: { label: 'EN', flag: 'Recursos/Im%C3%A1genes/united-states-of-america-flag-png-large.png.jpeg' },
   ja: { label: 'JA', flag: 'Recursos/Im%C3%A1genes/japan-flag-png-large.png.jpeg' },
+  tl: { label: 'TL', flag: 'Recursos/Im%C3%A1genes/philippines-flag-png-large.png.jpeg' },
 };
 
 function getTranslationValue(lang, key) {
