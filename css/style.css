@@ -991,29 +991,33 @@ section {
 
 .contact-success {
   text-align: center;
-  padding: 48px 24px;
+  padding: 48px 36px;
   animation: fadeUp 0.6s ease both;
+  background: rgba(10, 7, 4, 0.72);
+  border: 1px solid rgba(212, 165, 116, 0.25);
+  border-radius: 4px;
+  max-width: 460px;
+  margin: 0 auto;
 }
 
 .contact-success-icon {
-  font-size: 2.4rem;
+  font-size: 2.2rem;
   color: var(--gold);
-  margin-bottom: 20px;
+  margin-bottom: 18px;
   line-height: 1;
 }
 
 .contact-success h3 {
   font-family: var(--font-display);
-  font-size: clamp(1.4rem, 3vw, 2rem);
-  color: #fff;
-  margin-bottom: 16px;
+  font-size: clamp(1.3rem, 3vw, 1.8rem);
+  color: #ffffff;
+  margin-bottom: 14px;
 }
 
 .contact-success p {
-  font-size: 15px;
-  color: rgba(255, 255, 255, 0.65);
-  line-height: 1.8;
-  max-width: 420px;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.82);
+  line-height: 1.85;
   margin: 0 auto;
 }
 
