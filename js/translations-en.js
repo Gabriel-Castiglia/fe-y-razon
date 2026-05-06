@@ -112,7 +112,11 @@ const translationsEN = {
     email: { placeholder: "Your email" },
     subject: { placeholder: "Subject" },
     message: { placeholder: "Your message" },
-    submit: "Send message"
+    submit: "Send message",
+    success: {
+      title: "Message received",
+      desc: "Thank you for writing to us. We will respond shortly. Ad maiorem Dei gloriam."
+    }
   },
   topicPages: {
     common: {
