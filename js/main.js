@@ -182,4 +182,66 @@ document.addEventListener('DOMContentLoaded', function () {
 
   window.addEventListener('scroll', updateActiveLink, { passive: true });
   updateActiveLink();
+
+  // ──────────────────────────────────────────────────────────
+  // 5. MEDITATION QUOTE CYCLE — Rotación de citas por idioma
+  // ──────────────────────────────────────────────────────────
+
+  const meditInner = document.getElementById('meditacion-inner');
+  const meditRef   = document.getElementById('meditacion-ref');
+  const meditText  = document.getElementById('meditacion-text');
+
+  if (meditInner && meditRef && meditText) {
+    let quoteIndex = 0;
+    let quoteTimer = null;
+
+    function getQuotes() {
+      const lang = (typeof currentLang !== 'undefined') ? currentLang : 'es';
+      const t = (typeof translations !== 'undefined') ? translations[lang] : null;
+      return (t && t.meditacion && t.meditacion.quotes) ? t.meditacion.quotes : null;
+    }
+
+    function showQuote(quotes, idx) {
+      meditRef.textContent  = quotes[idx].ref;
+      meditText.textContent = '“' + quotes[idx].text + '”';
+    }
+
+    function cycleQuote() {
+      const quotes = getQuotes();
+      if (!quotes) return;
+
+      meditInner.classList.add('meditacion-fading');
+      setTimeout(() => {
+        quoteIndex = (quoteIndex + 1) % quotes.length;
+        showQuote(quotes, quoteIndex);
+        meditInner.classList.remove('meditacion-fading');
+      }, 750);
+    }
+
+    function startCycle() {
+      clearInterval(quoteTimer);
+      quoteTimer = setInterval(cycleQuote, 7000);
+    }
+
+    // Restart cycle and update text immediately when language changes
+    document.addEventListener('langChange', (e) => {
+      const quotes = getQuotes();
+      if (!quotes) return;
+      quoteIndex = 0;
+      showQuote(quotes, quoteIndex);
+      startCycle();
+    });
+
+    startCycle();
+  }
+
+  // ──────────────────────────────────────────────────────────
+  // 6. CARD VIDEO PREVIEW — Hover sobre tarjetas de artículo
+  // ──────────────────────────────────────────────────────────
+  document.querySelectorAll('.article-card').forEach(card => {
+    const vid = card.querySelector('.card-bg-video');
+    if (!vid) return;
+    card.addEventListener('mouseenter', () => vid.play().catch(() => {}));
+    card.addEventListener('mouseleave', () => { vid.pause(); vid.currentTime = 0; });
+  });
 });
