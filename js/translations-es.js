@@ -404,6 +404,9 @@ const translationsES = {
       }
     },
   },
+  provisional: {
+    notice: "⚠ Este artículo está siendo redactado. El contenido actual es provisorio y será reemplazado próximamente por texto definitivo."
+  },
   meditacion: {
     quotes: [
       { ref: "Jn 14, 6",    text: "Yo soy el Camino, la Verdad y la Vida." },
