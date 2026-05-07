@@ -490,6 +490,8 @@ const translationsTL = {
       nav: {
         prevTitle: "Ang Eukaristiya: ang Sentral na Sakramento",
         nextTitle: "Ang mga Santo at ang Kanilang Pamamagitan"
+      }
+    },
     "paginas-amigas": {
       pageTitle: "Mga Inirerekomendang Link | Pananampalataya at Dahilan",
       hero: `<div class="hero-eyebrow">

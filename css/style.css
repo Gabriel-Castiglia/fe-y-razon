@@ -1264,7 +1264,8 @@ section {
 /* READING PROGRESS BAR                                            */
 /* ────────────────────────────────────────────────────────────── */
 
-#reading-progress {
+#reading-progress,
+#overlay-reading-progress {
   position: fixed;
   top: 0;
   left: 0;
