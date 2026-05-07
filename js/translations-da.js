@@ -247,6 +247,19 @@ const translationsDA = {
         nextTitle: "Eukaristien: det centrale sakramente"
       }
     }
+    "paginas-amigas": {
+      pageTitle: "Venlige Sider | Tro og Fornuft",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Ressourcer</span>
+            </div>
+            <h1>Venlige Sider</h1>
+            <p>Pålidelige kilder til at uddybe, lære og dele den katolske tro.</p>
+            <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+      sec1: { eyebrow: "Den Hellige Stol", title: "Vatikanske kilder", desc: "Officielle kirkelige dokumenter, tilgængelige på Den Hellige Stols websted." },
+      sec2: { eyebrow: "Apologetik · Dannelse", title: "Præster og undervisere", desc: "Stemmer, der er tro mod Læreembedet, og som underviser i, forsvarer og forkynder troen med dybde og grundighed." },
+      sec3: { eyebrow: "Apostolater · Medier", title: "Apostolater og katolske medier" }
+    }
   },
   meditacion: {
     quotes: [
