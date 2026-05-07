@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // 1. HERO VIDEO CROSSFADE — Loop infinito de videos
   // ──────────────────────────────────────────────────────────
   
-  const videos = Array.from(document.querySelectorAll('.hero-video'));
+  const videos = Array.from(document.querySelectorAll('#hero .hero-video, .article-hero .hero-video'));
   if (videos.length) {
     let currentIndex = 0;
     let isTransitioning = false;
@@ -339,7 +339,11 @@ document.addEventListener('DOMContentLoaded', function () {
       card.style.cursor = 'pointer';
       card.addEventListener('click', e => {
         if (!e.target.closest('.article-link')) {
-          window.location.href = link.href;
+          if (link.dataset.article && typeof window.openArticle === 'function') {
+            window.openArticle(link.dataset.article);
+          } else if (!link.dataset.article) {
+            window.location.href = link.href;
+          }
         }
       });
     }
