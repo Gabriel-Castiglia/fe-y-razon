@@ -1,7 +1,12 @@
-/* ────────────────────────────────────────────────────────── */
-/* FÉ Y RAZÓN — Router (SPA overlay, URL siempre fija)       */
-/* ────────────────────────────────────────────────────────── */
+/** 
+ * =========================================================================
+ * FÉ Y RAZÓN — SISTEMA DE NAVEGACIÓN SPA
+ * Controla el overlay de artículos, inyección de contenido y navegación interna.
+ * =========================================================================
+ */
 
+// 1. CONFIGURACIÓN DE RUTAS Y RECURSOS
+// Configuración de artículos: videos asociados y punteros de navegación
 const ARTICLES = {
   'sacerdocio':            { videos: ['sacerdote01','sacerdote02','sacerdote03'], prev: 'la-primacia-de-pedro', next: 'por-que-creemos' },
   'por-que-creemos':       { videos: ['conf01','conf02','lectura02'],             prev: 'sacerdocio',           next: 'la-eucaristia' },
@@ -12,14 +17,20 @@ const ARTICLES = {
   'el-purgatorio':         { videos: ['velas01','velas02','velas03'],             prev: 'la-santisima-trinidad',next: 'la-nueva-ley' },
   'la-nueva-ley':          { videos: ['lectura01','conf01','conf02'],             prev: 'el-purgatorio',        next: 'la-primacia-de-pedro' },
   'la-primacia-de-pedro':  { videos: ['conf03','conf04'],                         prev: 'la-nueva-ley',         next: 'sacerdocio' },
+  'paginas-utiles':        { videos: [],                                          prev: 'la-primacia-de-pedro', next: 'sacerdocio' }, // Resource page, no specific video cycle
 };
+
 const VIDEO_BASE = 'Recursos/Videos/';
 const OV_TRANSITION = 1200;
 
-let currentSlug    = null;
-let ovIndex        = 0;
-let ovTransitioning = false;
+let currentSlug    = null;    // Identificador del artículo actual abierto
+let ovIndex        = 0;       // Índice del video en reproducción dentro del overlay
+let ovTransitioning = false;  // Flag para evitar conflictos durante el crossfade de videos
 
+// 2. HELPERS DE DOM
+/**
+ * Retorna los elementos de video destinados al fondo del overlay.
+ */
 function ovVids() {
   return [
     document.getElementById('ov-vid-1'),
@@ -28,6 +39,10 @@ function ovVids() {
   ];
 }
 
+// 3. GESTIÓN DEL CICLO DE VIDA DE VIDEOS EN OVERLAY
+/**
+ * Detiene y limpia los videos del overlay para liberar memoria y recursos.
+ */
 function stopOverlayVideos() {
   ovTransitioning = false;
   ovIndex = 0;
@@ -43,11 +58,16 @@ function stopOverlayVideos() {
   });
 }
 
+/**
+ * Inicia el sistema de crossfade para los videos de fondo del artículo abierto.
+ * @param {number} count - Cantidad de videos a ciclar.
+ */
 function initOverlayVideos(count) {
   ovIndex        = 0;
   ovTransitioning = false;
   const vids     = ovVids().slice(0, count);
   if (!vids.length) return;
+
 
   function advanceOv() {
     if (ovTransitioning || vids.length <= 1) return;
@@ -83,6 +103,11 @@ function initOverlayVideos(count) {
   vids[0].play().catch(() => {});
 }
 
+// 4. RENDERIZADO DINÁMICO
+/**
+ * Genera el HTML para los botones de navegación "Anterior" y "Siguiente".
+ * @param {string} slug - ID del artículo actual.
+ */
 function buildOverlayNav(slug) {
   const cfg    = ARTICLES[slug];
   const tp     = translations[currentLang].topicPages;
@@ -104,6 +129,9 @@ function buildOverlayNav(slug) {
     `</a>`;
 }
 
+/**
+ * Ejecuta la animación de aparición de elementos dentro del overlay.
+ */
 function runOverlayReveal() {
   const ov = document.getElementById('article-overlay');
   if (!ov || ov.hasAttribute('hidden')) return;
@@ -113,6 +141,11 @@ function runOverlayReveal() {
   });
 }
 
+// 5. API PÚBLICA DE NAVEGACIÓN
+/**
+ * Abre un artículo, inyecta su contenido y activa su fondo de video.
+ * @param {string} slug - ID del tema a mostrar.
+ */
 function showArticle(slug) {
   const cfg = ARTICLES[slug];
   if (!cfg) return;
@@ -122,7 +155,7 @@ function showArticle(slug) {
 
   currentSlug = slug;
 
-  // Assign video sources
+  // 5a. Configuración de recursos visuales
   stopOverlayVideos();
   const all = ovVids();
   cfg.videos.forEach((name, i) => {
@@ -137,19 +170,19 @@ function showArticle(slug) {
     }
   });
 
-  // Inject translated content
+  // 5b. Inyección de textos
   document.getElementById('overlay-hero-content').innerHTML  = t.hero    || '';
   document.getElementById('overlay-article-body').innerHTML  = t.article || '';
   buildOverlayNav(slug);
   document.title = t.pageTitle || 'Fé y Razón';
 
-  // Swap visibility: hide main page, show overlay
+  // 5c. Gestión de visibilidad
   const mainContent = document.getElementById('main-page-content');
   const overlay     = document.getElementById('article-overlay');
   if (mainContent) mainContent.style.display = 'none';
   overlay.removeAttribute('hidden');
 
-  // Header: apply hero-mode (transparent over dark video)
+  // Cambia el estilo del header para que sea transparente sobre el video oscuro
   document.getElementById('header').classList.add('hero-mode');
   document.body.style.overflow = '';
 
@@ -162,6 +195,9 @@ function showArticle(slug) {
   setTimeout(runOverlayReveal, 120);
 }
 
+/**
+ * Cierra el artículo abierto y vuelve a la página de inicio.
+ */
 function hideArticle() {
   stopOverlayVideos();
 
@@ -175,12 +211,14 @@ function hideArticle() {
   currentSlug = null;
 }
 
-// Expose globally so main.js card handler can call it
+// Exponer globalmente para ser invocado desde main.js u otros scripts
 window.openArticle = showArticle;
 
+// 6. MANEJO DE EVENTOS GLOBALES
 document.addEventListener('DOMContentLoaded', () => {
 
-  // ── Click delegation ────────────────────────────────────
+  // Delegación de clics: Centraliza la lógica de navegación
+  // Maneja todos los clics relacionados con la navegación SPA en un solo punto
   document.addEventListener('click', e => {
     // "Leer →" card links
     const artLink = e.target.closest('.article-link[data-article]');
@@ -218,7 +256,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
-  // ── Language change: re-render current article ──────────
+  // Sincronización con el sistema de idiomas
   document.addEventListener('langChange', () => {
     if (!currentSlug) return;
     const tp = translations[currentLang].topicPages;
@@ -231,7 +269,7 @@ document.addEventListener('DOMContentLoaded', () => {
     setTimeout(runOverlayReveal, 60);
   });
 
-  // ── Scroll: reveal + reading progress ───────────────────
+  // Barra de progreso y animaciones de scroll dentro del overlay
   window.addEventListener('scroll', () => {
     runOverlayReveal();
 
