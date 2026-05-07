@@ -5,7 +5,7 @@ const translationsEN = {
     topics: "Topics",
     mission: "Mission",
     contact: "Contact",
-    usefulPages: "Useful Pages"
+    usefulPages: "Friendly Pages"
   },
   hero: {
     eyebrow: "Welcome",
@@ -94,7 +94,7 @@ const translationsEN = {
   article10: {
     category: "Resources",
     date: "May 2026",
-    title: "Useful Pages",
+    title: "Friendly Pages",
     excerpt: "A selection of Catholic resources to deepen your faith and formation.",
     time: "5 min read",
     link: "Explore →"
@@ -493,12 +493,12 @@ const translationsEN = {
       }
     },
     "paginas-utiles": {
-      pageTitle: "Useful Pages | Faith and Reason",
+      pageTitle: "Friendly Pages | Faith and Reason",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Resources</span>
             </div>
-            <h1>Useful Pages</h1>
+            <h1>Friendly Pages</h1>
             <p>Explore a selection of Catholic resources to deepen your faith and formation.</p>
             <div class="article-meta">
                 <span>Updated May 2026</span>

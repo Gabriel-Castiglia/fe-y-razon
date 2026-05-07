@@ -5,7 +5,7 @@ const translationsDA = {
     topics: "Emner",
     mission: "Mission",
     contact: "Kontakt",
-    usefulPages: "Nyttige Sider"
+    usefulPages: "Venlige Sider"
   },
   hero: {
     eyebrow: "Velkommen",
@@ -94,7 +94,7 @@ const translationsDA = {
   article10: {
     category: "Ressourcer",
     date: "Maj 2026",
-    title: "Nyttige Sider",
+    title: "Venlige Sider",
     excerpt: "Et udvalg af katolske ressourcer til at uddybe din tro og dannelse.",
     time: "5 min læsning",
     link: "Udforsk →"
