@@ -499,18 +499,18 @@ const translationsES = {
         nextTitle: "Los santos y su intercesión"
       }
     },
-    "paginas-utiles": {
+    "paginas-amigas": {
       pageTitle: "Páginas amigas | Fé y Razón",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Recursos</span>
             </div>
             <h1>Páginas amigas</h1>
-            <p>Explora una selección de recursos católicos para profundizar en tu fe y formación.</p>
-            <div class="article-meta">
-                <span>Actualizado Mayo 2026</span>
-            </div>
+            <p>Fuentes de confianza para profundizar, formarse y compartir la fe católica.</p>
             <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
+      sec1: { eyebrow: "Santa Sede", title: "Fuentes vaticanas", desc: "Documentos oficiales de la Iglesia, disponibles en el sitio de la Santa Sede." },
+      sec2: { eyebrow: "Apologética · Formación", title: "Sacerdotes y formadores", desc: "Voces fieles al Magisterio que enseñan, defienden y proclaman la fe con profundidad y rigor." },
+      sec3: { eyebrow: "Apostolados · Medios", title: "Apostolados y medios católicos" },
       article: `<h2>Vaticano</h2>
                 <p>El sitio oficial de la Santa Sede, donde puedes encontrar la Biblia, el Catecismo de la Iglesia Católica, documentos papales y mucho más.</p>
                 <ul>

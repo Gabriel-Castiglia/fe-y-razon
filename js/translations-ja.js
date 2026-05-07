@@ -492,18 +492,18 @@ const translationsJA = {
         nextTitle: "聖人たちとその取り次ぎ"
       }
     },
-    "paginas-utiles": {
+    "paginas-amigas": {
       pageTitle: "おすすめページ | 信仰と理性",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">リソース</span>
             </div>
             <h1>おすすめページ</h1>
-            <p>信仰と養成を深めるためのカトリックのリソースのセレクションをご覧ください。</p>
-            <div class="article-meta">
-                <span>2026年5月更新</span>
-            </div>
+            <p>カトリックの信仰を深め、学び、分かち合うための信頼できる情報源。</p>
             <a href="index.html#temas" class="btn-outline-white">トピックに戻る</a>`,
+      sec1: { eyebrow: "聖座", title: "バチカンの資料", desc: "聖座の公式サイトで入手できる教会の公式文書。" },
+      sec2: { eyebrow: "護教学・養成", title: "司祭と教育者", desc: "教導権に忠実な声として、深みと厳密さをもって信仰を教え、守り、宣べ伝える人々。" },
+      sec3: { eyebrow: "使徒活動・メディア", title: "使徒活動とカトリックメディア" },
       article: `<h2>バチカン</h2>
                 <p>聖座の公式ウェブサイト。聖書、カトリック教会のカテキズム、教皇文書など、多くの情報を見つけることができます。</p>
                 <ul>
