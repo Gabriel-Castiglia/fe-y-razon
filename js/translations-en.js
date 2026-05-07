@@ -502,8 +502,19 @@ const translationsEN = {
             <p>Trusted sources for deepening, learning, and sharing the Catholic faith.</p>
             <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
       sec1: { eyebrow: "Holy See", title: "Vatican Sources", desc: "Official Church documents, available on the Holy See\'s website." },
-      sec2: { eyebrow: "Apologetics · Formation", title: "Priests and Educators", desc: "Voices faithful to the Magisterium who teach, defend, and proclaim the faith with depth and rigor." },
-      sec3: { eyebrow: "Apostolates · Media", title: "Apostolates and Catholic Media" },
+      sec2: {
+        eyebrow: "Apologetics · Formation", title: "Priests and Educators", desc: "Voices faithful to the Magisterium who teach, defend, and proclaim the faith with depth and rigor.",
+        toro:    { desc: "Apostle of the Rosary and Marian devotion. Solid, direct formation faithful to the Magisterium." },
+        aguilar: { desc: "Theologian and apologist. He answers the most difficult objections to the Catholic faith with great depth." },
+        olivera: { desc: "Augustinian historian and apologist. He tackles rationalism, sects, and modern errors with rigor." }
+      },
+      sec3: {
+        eyebrow: "Apostolates · Media", title: "Apostolates and Catholic Media",
+        heraldos: { desc: "Missionary apostolate present in Ecuador. Formation, catechesis, and evangelization faithful to Tradition." },
+        rugged:   { desc: "Rugged rosaries for military, missionaries, and every faithful person who wishes to carry the Rosary with dignity.", tag: "United States" },
+        grat:     { desc: "Jeff Cavins' chronological method for studying the Bible. <em>Bible Timeline</em> with the Jerusalem Bible.", tag: "Bible · Formation" },
+        ewtn:     { desc: "The world's largest Catholic television network. Daily Mass, Holy Rosary, documentaries, and formation 24 hours a day.", tag: "Television · Radio" }
+      },
       article: `<h2>Vatican</h2>
                 <p>The official website of the Holy See, where you can find the Bible, the Catechism of the Catholic Church, papal documents, and much more.</p>
                 <ul>
