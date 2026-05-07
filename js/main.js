@@ -326,11 +326,13 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
+  const isTouchDevice = window.matchMedia('(hover: none)').matches;
+
   document.querySelectorAll('.article-card').forEach(card => {
     const vid  = card.querySelector('.card-bg-video');
     const link = card.querySelector('.article-link');
 
-    if (vid) {
+    if (vid && !isTouchDevice) {
       card.addEventListener('mouseenter', () => vid.play().catch(() => {}));
       card.addEventListener('mouseleave', () => { vid.pause(); vid.currentTime = 0; });
     }
