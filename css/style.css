@@ -37,6 +37,12 @@ body {
   overflow-x: hidden;
 }
 
+/* Scroll lock for iOS Safari — using class avoids the overflow:hidden bug */
+body.no-scroll {
+  overflow: hidden;
+  height: 100dvh;
+}
+
 /* ────────────────────────────────────────────────────────────── */
 /* SCROLL REVEAL ANIMATIONS                                        */
 /* ────────────────────────────────────────────────────────────── */
@@ -174,7 +180,9 @@ header.hero-mode .lang-dropdown-trigger {
 }
 
 .lang-dropdown-menu {
-  position: fixed;
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
   display: flex;
   flex-direction: column;
   gap: 2px;

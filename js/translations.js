@@ -96,23 +96,12 @@ document.addEventListener('DOMContentLoaded', () => {
   const trigger  = document.getElementById('lang-dropdown-trigger');
   const menu = dropdown && dropdown.querySelector('.lang-dropdown-menu');
 
-  /**
-   * Ajusta la posición del menú flotante respecto al botón disparador.
-   */
-  function positionMenu() {
-    if (!menu || !trigger) return;
-    const rect = trigger.getBoundingClientRect();
-    menu.style.top  = (rect.bottom + 8) + 'px';
-    menu.style.right = (window.innerWidth - rect.right) + 'px';
-  }
-
   // Control del despliegue del menú de idiomas
   if (dropdown && trigger && menu) {
     trigger.addEventListener('click', e => {
       e.stopPropagation();
       const isOpen = dropdown.classList.toggle('open');
       trigger.setAttribute('aria-expanded', String(isOpen));
-      if (isOpen) positionMenu();
     });
 
     // Cierre automático al hacer clic en cualquier otra parte
