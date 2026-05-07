@@ -1249,6 +1249,12 @@ section {
   opacity: 0.18;
 }
 
+@media (hover: none) {
+  .card-bg-video {
+    display: none;
+  }
+}
+
 .article-card > *:not(.card-bg-video) {
   position: relative;
   z-index: 1;
