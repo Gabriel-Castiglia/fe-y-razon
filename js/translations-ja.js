@@ -4,7 +4,8 @@ const translationsJA = {
     home: "ホーム",
     topics: "トピック",
     mission: "使命",
-    contact: "連絡先"
+    contact: "連絡先",
+    usefulPages: "役立つページ"
   },
   hero: {
     eyebrow: "ようこそ",
@@ -31,7 +32,7 @@ const translationsJA = {
     date: "2026年5月",
     title: "なぜ私たちは信じるのか",
     excerpt: "カトリックの信仰を信じる根本的な理由と人間の理性との一貫性。",
-    time: "13分読む",
+    time: "15分読む",
     link: "読む →"
   },
   article3: {
@@ -39,7 +40,7 @@ const translationsJA = {
     date: "2026年5月",
     title: "聖体",
     excerpt: "カトリック教会の中心的な秘跡とキリスト教生活におけるその意味。",
-    time: "15分読む",
+    time: "13分読む",
     link: "読む →"
   },
   article4: {
@@ -90,6 +91,14 @@ const translationsJA = {
     time: "11分読む",
     link: "読む →"
   },
+  article10: {
+    category: "リソース",
+    date: "2026年5月",
+    title: "役立つページ",
+    excerpt: "信仰と養成を深めるためのカトリックのリソースのセレクション。",
+    time: "5分読む",
+    link: "探す →"
+  },
   mission: {
     title: "私たちの使命",
     teach: {
@@ -113,6 +122,7 @@ const translationsJA = {
     subject: { placeholder: "件名" },
     message: { placeholder: "あなたのメッセージ" },
     submit: "メッセージを送る",
+    cookieNotice: "このフォームを送信することで、システムの運用のためにサードパーティサービスによってデータが処理されることに同意したことになります。",
     success: {
       title: "メッセージを受け取りました",
       desc: "ご連絡ありがとうございます。できるだけ早くお返事いたします。Ad maiorem Dei gloriam."
@@ -164,7 +174,7 @@ const translationsJA = {
             <h1>聖体：中心的な秘跡</h1>
             <p>聖体は象徴なのでしょうか、それともキリストの真の御体なのでしょうか。ヨハネ 6 章、パウロ、そして初代キリスト者たちは同じ答えを与えています。</p>
             <div class="article-meta">
-                <span>15分読む</span>
+                <span>13分読む</span>
                 <span>2026年5月公開</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">トピックに戻る</a>`,
@@ -342,7 +352,7 @@ const translationsJA = {
             <h1>なぜ私たちはカトリックの信仰を信じるのか</h1>
             <p>なぜ信じるのでしょうか。習慣からではありません。それが証言され、調べ、聖書自身がイエスの建てた教会を指し示しているからです。</p>
             <div class="article-meta">
-                <span>13分読む</span>
+                <span>15分読む</span>
                 <span>2026年5月公開</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">トピックに戻る</a>`,
@@ -480,6 +490,69 @@ const translationsJA = {
       nav: {
         prevTitle: "聖体：中心的な秘跡",
         nextTitle: "聖人たちとその取り次ぎ"
+      }
+    },
+    "paginas-utiles": {
+      pageTitle: "役立つページ | 信仰と理性",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">リソース</span>
+            </div>
+            <h1>役立つページ</h1>
+            <p>信仰と養成を深めるためのカトリックのリソースのセレクションをご覧ください。</p>
+            <div class="article-meta">
+                <span>2026年5月更新</span>
+            </div>
+            <a href="index.html#temas" class="btn-outline-white">トピックに戻る</a>`,
+      article: `<h2>バチカン</h2>
+                <p>聖座の公式ウェブサイト。聖書、カトリック教会のカテキズム、教皇文書など、多くの情報を見つけることができます。</p>
+                <ul>
+                    <li><a href="https://www.vatican.va/content/vatican/ja.html" target="_blank">バチカン公式ウェブサイト</a></li>
+                    <li><a href="https://www.vatican.va/archive/catechism_jp/index_jp.htm" target="_blank">カトリック教会のカテキズム（日本語）</a></li>
+                </ul>
+
+                <h2>弁証論と養成</h2>
+                <h3>ルイス・トロ神父</h3>
+                <p>弁証論的な講演や討論で知られるルイス・トロ神父は、カトリック信仰の確固たる擁護を提供しています。</p>
+                <ul>
+                    <li><a href="https://www.youtube.com/@PadreLuisToroOficial" target="_blank">ルイス・トロ神父公式YouTubeチャンネル</a></li>
+                </ul>
+
+                <h3>ホセ・デ・ヘスス・アギラール神父</h3>
+                <p>司祭でありコミュニケーターであるホセ・デ・ヘスス・アギラール神父は、カトリックの考察と教えを共有しています。</p>
+                <ul>
+                    <li><a href="https://www.youtube.com/@PadreJosedeJesusAguilar" target="_blank">ホセ・デ・ヘスス・アギラール神父YouTubeチャンネル</a></li>
+                </ul>
+
+                <h3>エクアドルの福音の使者たち</h3>
+                <p>教皇庁の権利を有する信徒の協会で、会員の聖化と福音化を目指しています。</p>
+                <ul>
+                    <li><a href="https://heraldosdelevangelio.ec/" target="_blank">エクアドルの福音の使者たち公式ウェブサイト</a></li>
+                </ul>
+
+                <h3>ケ・ノ・テ・ラ・クエンテン</h3>
+                <p>カトリック弁証論に特化したプラットフォームで、神話を暴き、養成を提供しています。</p>
+                <ul>
+                    <li><a href="https://quenotelacuenten.org/" target="_blank">ケ・ノ・テ・ラ・クエンテン公式ウェブサイト</a></li>
+                    <li><a href="https://www.youtube.com/@quenotelacuenten" target="_blank">ケ・ノ・テ・ラ・クエンテンYouTubeチャンネル</a></li>
+                </ul>
+
+                <h2>祈りと聖書研究のためのリソース</h2>
+                <h3>ラフ・ロザリオ</h3>
+                <p>軍事的な伝統と信仰に触発された、頑丈で耐久性のあるロザリオの製作。</p>
+                <ul>
+                    <li><a href="https://roughrosaries.com/" target="_blank">ラフ・ロザリオ公式ウェブサイト</a></li>
+                </ul>
+
+                <h3>アセンション・プレゼンツ</h3>
+                <p>マイク・シュミッツ神父による人気の「バイブル・イン・ア・イヤー」シリーズや「ザ・グレート・アドベンチャー・カトリック・バイブル」を含む、養成リソースを提供するカトリック出版社。</p>
+                <ul>
+                    <li><a href="https://ascensionpress.com/collections/the-great-adventure-catholic-bible" target="_blank">ザ・グレート・アドベンチャー・カトリック・バイブル</a></li>
+                    <li><a href="https://ascensionpress.com/pages/biy-registration" target="_blank">バイブル・イン・ア・イヤー（ポッドキャスト）</a></li>
+                </ul>`,
+      nav: {
+        prevTitle: "ペトロの首位権",
+        nextTitle: "カトリック教会の司祭職"
       }
     }
   },
