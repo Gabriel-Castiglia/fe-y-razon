@@ -154,7 +154,7 @@ function showArticle(slug, skipHistory = false) {
   if (!t) return;
 
   currentSlug = slug;
-  if (!skipHistory) history.pushState({ article: slug }, '', '#' + slug);
+  if (!skipHistory) history.pushState({ article: slug }, '');
 
 
   // 5a. Configuración de recursos visuales
