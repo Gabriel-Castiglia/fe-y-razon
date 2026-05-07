@@ -49,10 +49,14 @@
                         <img src="Recursos/Im%C3%A1genes/philippines-flag-png-large.png.jpeg" alt="" width="22" height="15">
                         <span>Filipino</span>
                     </button>
-                    <div class="lang-option-disabled" aria-disabled="true">
+                    <button class="lang-option" data-lang="da" role="option" aria-selected="false">
                         <img src="Recursos/Im%C3%A1genes/denmark-flag-png-large.png.jpeg" alt="" width="22" height="15">
                         <span>Dansk</span>
-                        <span class="lang-soon">Kommer snart</span>
+                    </button>
+                    <div class="lang-option-disabled" aria-disabled="true">
+                        <img src="Recursos/Im%C3%A1genes/vatican-city-flag-png-large.png.jpeg" alt="" width="22" height="15">
+                        <span>Latín</span>
+                        <span class="lang-soon">Próximamente</span>
                     </div>
                 </div>
             </div>
@@ -78,73 +82,187 @@
         </div>
     </section>
 
-    <main class="article-page">
-        <div class="article-page-inner">
-            <article class="article-body">
+    <style>
+      .recursos-page { padding: 5rem 1.5rem; background: var(--bg); }
+      .recursos-inner { max-width: 1100px; margin: 0 auto; }
+      .recursos-section { margin-bottom: 4rem; }
+      .recursos-section-header { margin-bottom: 2rem; }
+      .recursos-eyebrow {
+        display: flex; align-items: center; gap: 0.75rem;
+        font-family: 'Montserrat', sans-serif; font-size: 0.7rem;
+        letter-spacing: 0.18em; text-transform: uppercase;
+        color: var(--gold); margin-bottom: 0.6rem;
+      }
+      .recursos-eyebrow::before {
+        content: ''; display: block; width: 28px; height: 1px;
+        background: var(--gold);
+      }
+      .recursos-section-header h2 {
+        font-family: 'Cinzel', serif; font-size: 1.5rem;
+        color: var(--dark); font-weight: 700;
+        margin: 0 0 0.4rem;
+      }
+      .recursos-section-header p {
+        color: #666; font-size: 0.9rem; margin: 0;
+      }
+      .recursos-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+        gap: 1.5rem;
+      }
+      .recurso-card {
+        border: 1px solid rgba(212,165,116,0.2);
+        border-radius: 10px; padding: 1.6rem;
+        display: flex; flex-direction: column; gap: 0.8rem;
+        background: #faf7f4;
+        transition: border-color 0.2s, box-shadow 0.2s;
+      }
+      .recurso-card:hover {
+        border-color: rgba(212,165,116,0.5);
+        box-shadow: 0 4px 20px rgba(212,165,116,0.12);
+      }
+      .recurso-card-label {
+        font-family: 'Montserrat', sans-serif; font-size: 0.65rem;
+        letter-spacing: 0.15em; text-transform: uppercase;
+        color: var(--gold-dark); font-weight: 400;
+      }
+      .recurso-card h3 {
+        font-family: 'Cinzel', serif; font-size: 0.95rem;
+        color: var(--dark); margin: 0; line-height: 1.4;
+      }
+      .recurso-card p {
+        font-size: 0.85rem; color: #555;
+        line-height: 1.65; margin: 0; flex: 1;
+      }
+      .recurso-links {
+        display: flex; gap: 0.6rem; flex-wrap: wrap;
+        margin-top: 0.4rem;
+      }
+      .recurso-link {
+        font-size: 0.75rem; font-family: 'Montserrat', sans-serif;
+        color: var(--gold-dark); text-decoration: none;
+        border: 1px solid rgba(157,126,82,0.35);
+        padding: 0.3rem 0.8rem; border-radius: 4px;
+        transition: background 0.2s, color 0.2s;
+        white-space: nowrap;
+      }
+      .recurso-link:hover {
+        background: var(--gold-dark); color: #fff;
+      }
+      @media (max-width: 600px) {
+        .recursos-grid { grid-template-columns: 1fr; }
+        .recursos-page { padding: 3rem 1rem; }
+      }
+    </style>
 
-                <h2>Fuentes vaticanas</h2>
-                <p>La Santa Sede pone a disposición de todos los fieles los documentos más importantes de la Iglesia.</p>
-                <ul>
-                    <li>
-                        <strong><a href="https://www.vatican.va/archive/bible/index.htm" target="_blank" rel="noopener">Sagrada Escritura — Vatican.va</a></strong><br>
-                        La Biblia online en el sitio oficial de la Santa Sede, disponible en múltiples idiomas.
-                    </li>
-                    <li>
-                        <strong><a href="https://www.vatican.va/archive/catechism_sp/index_sp.html" target="_blank" rel="noopener">Catecismo de la Iglesia Católica — Vatican.va</a></strong><br>
-                        El catecismo oficial de la Iglesia, referencia fundamental para la fe y la moral católica.
-                    </li>
-                </ul>
+    <main class="recursos-page">
+      <div class="recursos-inner">
 
-                <h2>Sacerdotes y formadores</h2>
-                <p>Voces fieles al Magisterio que enseñan, defienden y proclaman la fe con profundidad y rigor.</p>
-                <ul>
-                    <li>
-                        <strong>Padre Luis Toro</strong><br>
-                        Sacerdote venezolano, apóstol del Rosario y de la devoción mariana. Formación sólida, directa y fiel al Magisterio.<br>
-                        <a href="https://www.youtube.com/@padreluistoro" target="_blank" rel="noopener">Canal de YouTube →</a>
-                    </li>
-                    <li>
-                        <strong>Padre José de Jesús Aguilar</strong><br>
-                        Sacerdote mexicano con profundos conocimientos teológicos y apologéticos. Excelente para responder dudas y objeciones a la fe.<br>
-                        <a href="https://www.youtube.com/channel/UCM-59ocZZjJTUcqf9dZL1jg" target="_blank" rel="noopener">Canal de YouTube →</a>
-                    </li>
-                    <li>
-                        <strong>Padre Javier Olivera Ravasi — Que No Te La Cuenten</strong><br>
-                        Sacerdote agustino argentino, historiador y apologeta. Aborda el racionalismo, las sectas y los errores modernos con rigor histórico y teológico.<br>
-                        <a href="https://www.quenotelacuenten.org/" target="_blank" rel="noopener">Sitio web →</a>
-                    </li>
-                </ul>
-
-                <h2>Apostolados y medios católicos</h2>
-                <ul>
-                    <li>
-                        <strong>Heraldos del Evangelio — Ecuador</strong><br>
-                        Apostolado misionero con presencia en Ecuador. Formación, catequesis y evangelización fiel a la Tradición.<br>
-                        <a href="https://www.youtube.com/@HeraldosdelEvangelio-Ecuador" target="_blank" rel="noopener">Canal de YouTube →</a>
-                        &nbsp;·&nbsp;
-                        <a href="https://caballerosdelavirgenecuador.com/" target="_blank" rel="noopener">Sitio web →</a>
-                    </li>
-                    <li>
-                        <strong>Rugged Rosaries</strong><br>
-                        Apostolado que confecciona y distribuye rosarios resistentes para militares, misioneros y toda persona que desee portar el Rosario con dignidad.<br>
-                        <a href="https://ruggedrosaries.com/" target="_blank" rel="noopener">Sitio web →</a>
-                    </li>
-                    <li>
-                        <strong>Ascension — The Great Adventure Bible</strong><br>
-                        Ministerio fundado por Jeff Cavins con una metodología cronológica para estudiar la Biblia. Incluye la <em>Bible Timeline</em> y cursos de formación bíblica con la Biblia de Jerusalén.<br>
-                        <a href="https://ascensionpress.com/collections/the-great-adventure-bible" target="_blank" rel="noopener">The Great Adventure Bible →</a>
-                        &nbsp;·&nbsp;
-                        <a href="https://www.bookdelivery.com/jp-en/book-the-great-adventure-la-gran-aventura-de-la-biblia-de-jerusalen/9788433031075/p/53112550" target="_blank" rel="noopener">La Gran Aventura — edición en español →</a>
-                    </li>
-                    <li>
-                        <strong>EWTN — Global Catholic Television Network</strong><br>
-                        La red de televisión católica más grande del mundo. Transmite misa diaria, Santo Rosario, documentales y programas de formación las 24 horas.<br>
-                        <a href="https://www.ewtn.com/" target="_blank" rel="noopener">Sitio web →</a>
-                    </li>
-                </ul>
-
-            </article>
+        <div class="recursos-section">
+          <div class="recursos-section-header">
+            <div class="recursos-eyebrow">Santa Sede</div>
+            <h2>Fuentes vaticanas</h2>
+            <p>Documentos oficiales de la Iglesia, disponibles en el sitio de la Santa Sede.</p>
+          </div>
+          <div class="recursos-grid">
+            <div class="recurso-card">
+              <span class="recurso-card-label">Escritura</span>
+              <h3>Sagrada Escritura</h3>
+              <p>La Biblia online en el sitio oficial de la Santa Sede, disponible en múltiples idiomas.</p>
+              <div class="recurso-links">
+                <a href="https://www.vatican.va/archive/bible/index.htm" target="_blank" rel="noopener" class="recurso-link">Vatican.va →</a>
+              </div>
+            </div>
+            <div class="recurso-card">
+              <span class="recurso-card-label">Doctrina</span>
+              <h3>Catecismo de la Iglesia Católica</h3>
+              <p>El catecismo oficial de la Iglesia, referencia fundamental para la fe y la moral católica.</p>
+              <div class="recurso-links">
+                <a href="https://www.vatican.va/archive/catechism_sp/index_sp.html" target="_blank" rel="noopener" class="recurso-link">Vatican.va →</a>
+              </div>
+            </div>
+          </div>
         </div>
+
+        <div class="recursos-section">
+          <div class="recursos-section-header">
+            <div class="recursos-eyebrow">Apologética · Formación</div>
+            <h2>Sacerdotes y formadores</h2>
+            <p>Voces fieles al Magisterio que enseñan, defienden y proclaman la fe con profundidad y rigor.</p>
+          </div>
+          <div class="recursos-grid">
+            <div class="recurso-card">
+              <span class="recurso-card-label">Venezuela</span>
+              <h3>Padre Luis Toro</h3>
+              <p>Apóstol del Rosario y de la devoción mariana. Formación sólida, directa y fiel al Magisterio.</p>
+              <div class="recurso-links">
+                <a href="https://www.youtube.com/@padreluistoro" target="_blank" rel="noopener" class="recurso-link">YouTube →</a>
+              </div>
+            </div>
+            <div class="recurso-card">
+              <span class="recurso-card-label">México</span>
+              <h3>Padre José de Jesús Aguilar</h3>
+              <p>Profundos conocimientos teológicos y apologéticos. Excelente para responder dudas y objeciones a la fe.</p>
+              <div class="recurso-links">
+                <a href="https://www.youtube.com/channel/UCM-59ocZZjJTUcqf9dZL1jg" target="_blank" rel="noopener" class="recurso-link">YouTube →</a>
+              </div>
+            </div>
+            <div class="recurso-card">
+              <span class="recurso-card-label">Argentina · QNTLC</span>
+              <h3>Padre Javier Olivera Ravasi</h3>
+              <p>Sacerdote agustino, historiador y apologeta. Aborda el racionalismo, las sectas y los errores modernos con rigor histórico y teológico.</p>
+              <div class="recurso-links">
+                <a href="https://www.youtube.com/@QNTLC" target="_blank" rel="noopener" class="recurso-link">YouTube →</a>
+                <a href="https://www.quenotelacuenten.org/" target="_blank" rel="noopener" class="recurso-link">Sitio web →</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="recursos-section">
+          <div class="recursos-section-header">
+            <div class="recursos-eyebrow">Apostolados · Medios</div>
+            <h2>Apostolados y medios católicos</h2>
+          </div>
+          <div class="recursos-grid">
+            <div class="recurso-card">
+              <span class="recurso-card-label">Ecuador</span>
+              <h3>Heraldos del Evangelio</h3>
+              <p>Apostolado misionero con presencia en Ecuador. Formación, catequesis y evangelización fiel a la Tradición.</p>
+              <div class="recurso-links">
+                <a href="https://www.youtube.com/@HeraldosdelEvangelio-Ecuador" target="_blank" rel="noopener" class="recurso-link">YouTube →</a>
+                <a href="https://caballerosdelavirgenecuador.com/" target="_blank" rel="noopener" class="recurso-link">Sitio web →</a>
+              </div>
+            </div>
+            <div class="recurso-card">
+              <span class="recurso-card-label">Estados Unidos</span>
+              <h3>Rugged Rosaries</h3>
+              <p>Confecciona y distribuye rosarios resistentes para militares, misioneros y todo fiel que quiera portar el Rosario con dignidad.</p>
+              <div class="recurso-links">
+                <a href="https://ruggedrosaries.com/" target="_blank" rel="noopener" class="recurso-link">Sitio web →</a>
+              </div>
+            </div>
+            <div class="recurso-card">
+              <span class="recurso-card-label">Biblia · Formación</span>
+              <h3>Ascension — The Great Adventure</h3>
+              <p>Metodología cronológica de Jeff Cavins para estudiar la Biblia. <em>Bible Timeline</em> y cursos de formación con la Biblia de Jerusalén.</p>
+              <div class="recurso-links">
+                <a href="https://ascensionpress.com/collections/the-great-adventure-bible" target="_blank" rel="noopener" class="recurso-link">Great Adventure →</a>
+                <a href="https://www.bookdelivery.com/jp-en/book-the-great-adventure-la-gran-aventura-de-la-biblia-de-jerusalen/9788433031075/p/53112550" target="_blank" rel="noopener" class="recurso-link">En español →</a>
+              </div>
+            </div>
+            <div class="recurso-card">
+              <span class="recurso-card-label">Televisión · Radio</span>
+              <h3>EWTN</h3>
+              <p>La red de televisión católica más grande del mundo. Misa diaria, Santo Rosario, documentales y formación las 24 horas.</p>
+              <div class="recurso-links">
+                <a href="https://www.ewtn.com/" target="_blank" rel="noopener" class="recurso-link">Sitio web →</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
     </main>
 
     <footer>
@@ -155,6 +273,7 @@
     <script src="js/translations-en.js" defer></script>
     <script src="js/translations-ja.js" defer></script>
     <script src="js/translations-tl.js" defer></script>
+    <script src="js/translations-da.js" defer></script>
     <script src="js/translations.js" defer></script>
 </body>
 </html>
