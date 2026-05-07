@@ -5,7 +5,7 @@ const translationsTL = {
     topics: "Mga Paksa",
     mission: "Misyon",
     contact: "Makipag-ugnayan",
-    usefulPages: "Mga Kapaki-pakinabang na Pahina"
+    usefulPages: "Mga Kaibigan na Pahina"
   },
   hero: {
     eyebrow: "Maligayang pagdating",
@@ -94,7 +94,7 @@ const translationsTL = {
   article10: {
     category: "Mga Pinagkukunan",
     date: "Mayo 2026",
-    title: "Mga Kapaki-pakinabang na Pahina",
+    title: "Mga Kaibigan na Pahina",
     excerpt: "Isang seleksyon ng mga Katolikong mapagkukunan upang palalimin ang iyong pananampalataya at pormasyon.",
     time: "5 minuto",
     link: "Galugarin →"
