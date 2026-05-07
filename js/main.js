@@ -350,7 +350,12 @@ document.addEventListener('DOMContentLoaded', function () {
       card.style.cursor = 'pointer';
 
       const openCard = () => {
-        window.location.href = link.href;
+        const slug = link.getAttribute('data-article');
+        if (typeof window.openArticle === 'function' && slug) {
+          window.openArticle(slug);
+        } else {
+          window.location.href = link.href;
+        }
       };
 
       // Soporte para iOS Safari: 
