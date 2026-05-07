@@ -339,14 +339,25 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (link) {
       card.style.cursor = 'pointer';
-      card.addEventListener('click', e => {
-        if (!e.target.closest('.article-link')) {
-          if (link.dataset.article && typeof window.openArticle === 'function') {
-            window.openArticle(link.dataset.article);
-          } else if (!link.dataset.article) {
-            window.location.href = link.href;
-          }
+
+      const openCard = () => {
+        if (link.dataset.article && typeof window.openArticle === 'function') {
+          window.openArticle(link.dataset.article);
+        } else if (!link.dataset.article) {
+          window.location.href = link.href;
         }
+      };
+
+      // iOS Safari no dispara click en elementos no interactivos;
+      // touchend es fiable y e.preventDefault() evita el click fantasma.
+      card.addEventListener('touchend', e => {
+        if (e.target.closest('.article-link')) return;
+        e.preventDefault();
+        openCard();
+      }, { passive: false });
+
+      card.addEventListener('click', e => {
+        if (!e.target.closest('.article-link')) openCard();
       });
     }
   });
