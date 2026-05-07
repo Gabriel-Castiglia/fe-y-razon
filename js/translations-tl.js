@@ -502,8 +502,19 @@ const translationsTL = {
             <p>Mga pinagkakatiwalaang pinagkukunan para sa pagpapalalim, pag-aaral, at pagbabahagi ng Katolikong pananampalataya.</p>
             <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
       sec1: { eyebrow: "Banal na Luklukan", title: "Mga Mapagkukunan ng Vaticano", desc: "Mga opisyal na dokumento ng Simbahan, available sa website ng Holy See." },
-      sec2: { eyebrow: "Apologetika · Pormasyon", title: "Mga Pari at Tagapagturo", desc: "Mga tinig na tapat sa Magisterium na nagtuturo, nagtatanggol, at nagpapahayag ng pananampalataya nang may kalaliman at kahusayan." },
-      sec3: { eyebrow: "Mga Apostolado · Media", title: "Mga Apostolado at Katolikong Media" }
+      sec2: {
+        eyebrow: "Apologetika · Pormasyon", title: "Mga Pari at Tagapagturo", desc: "Mga tinig na tapat sa Magisterium na nagtuturo, nagtatanggol, at nagpapahayag ng pananampalataya nang may kalaliman at kahusayan.",
+        toro:    { desc: "Apostol ng Rosaryo at debosyong Marian. Matibay, direkta, at tapat sa Magisterium na pagpapalakas ng pananampalataya." },
+        aguilar: { desc: "Teologo at apologista. Tinatawid ang pinakamahirap na pagtutol sa Katolikong pananampalataya nang may kalaliman." },
+        olivera: { desc: "Augustinianong istoryador at apologista. Tinatawid ang rasyonalismo, mga sekta, at modernong kamalian nang may kahusayan." }
+      },
+      sec3: {
+        eyebrow: "Mga Apostolado · Media", title: "Mga Apostolado at Katolikong Media",
+        heraldos: { desc: "Misyonaryong apostolado na naroroon sa Ecuador. Pagpapalakas ng pananampalataya, katekesis, at ebanghelisasyon na tapat sa Tradisyon." },
+        rugged:   { desc: "Matibay na mga rosaryo para sa militar, misyonero, at bawat mananampalataya na nagnanais magdala ng Rosaryo nang may dignidad.", tag: "Estados Unidos" },
+        grat:     { desc: "Pamamaraan ni Jeff Cavins na kronolohikal para sa pag-aaral ng Biblia. <em>Bible Timeline</em> kasama ang Jerusalem Bible.", tag: "Biblia · Pormasyon" },
+        ewtn:     { desc: "Ang pinakamalaking Katolikong television network sa mundo. Araw-araw na Misa, Banal na Rosaryo, mga dokumentaryo, at pagpapalakas ng pananampalataya nang 24 na oras.", tag: "Telebisyon · Radyo" }
+      }
     },
   },
   provisional: {

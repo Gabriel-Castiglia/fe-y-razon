@@ -1398,7 +1398,8 @@ footer p {
   border: none;
   cursor: pointer;
   padding: 4px;
-  z-index: 1100;
+  position: relative;
+  z-index: 1200;
 }
 
 .hamburger span {
@@ -1440,6 +1441,16 @@ header.scrolled .hamburger span {
 
   .hamburger {
     display: flex;
+  }
+
+  /* Cuando el menú está abierto, fuerza colores visibles sobre el overlay oscuro */
+  header.nav-open .lang-dropdown-trigger {
+    color: rgba(255, 255, 255, 0.85) !important;
+    border-color: rgba(212, 165, 116, 0.55) !important;
+  }
+
+  header.nav-open .hamburger span {
+    background: #fff !important;
   }
 
   nav ul {

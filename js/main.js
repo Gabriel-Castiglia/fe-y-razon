@@ -33,26 +33,28 @@
 
 document.addEventListener('DOMContentLoaded', function () {
 
+  const header = document.getElementById('header');
+
   // 2. MENÚ HAMBURGUESA (Móvil)
   const hamburger = document.getElementById('hamburger');
   const navList   = document.querySelector('.nav-links');
 
   if (hamburger && navList) {
     hamburger.addEventListener('click', () => {
-      // Toggle de clases y accesibilidad ARIA
       const isOpen = navList.classList.toggle('open');
       hamburger.classList.toggle('open', isOpen);
       hamburger.setAttribute('aria-expanded', String(isOpen));
       document.body.classList.toggle('no-scroll', isOpen);
+      header.classList.toggle('nav-open', isOpen);
     });
 
     navList.querySelectorAll('a').forEach(link => {
       link.addEventListener('click', () => {
-        // Cierra el menú automáticamente al hacer click en un enlace
         navList.classList.remove('open');
         hamburger.classList.remove('open');
         hamburger.setAttribute('aria-expanded', 'false');
         document.body.classList.remove('no-scroll');
+        header.classList.remove('nav-open');
       });
     });
   }
@@ -173,8 +175,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // 5. EFECTOS DEL HEADER AL HACER SCROLL
   // Cambia la opacidad y colores del menú según la posición del scroll.
-  
-  const header = document.getElementById('header');
+
   const hero = document.getElementById('hero');
 
   const langTrigger = document.getElementById('lang-dropdown-trigger');
