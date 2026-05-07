@@ -4,7 +4,8 @@ const translationsTL = {
     home: "Simula",
     topics: "Mga Paksa",
     mission: "Misyon",
-    contact: "Makipag-ugnayan"
+    contact: "Makipag-ugnayan",
+    usefulPages: "Mga Kapaki-pakinabang na Pahina"
   },
   hero: {
     eyebrow: "Maligayang pagdating",
@@ -31,7 +32,7 @@ const translationsTL = {
     date: "Mayo 2026",
     title: "Bakit Tayo Naniniwala",
     excerpt: "Mga pangunahing dahilan para maniwala sa pananampalatayang Katoliko at ang pagkakatugma nito sa pangangatwiran ng tao.",
-    time: "13 minuto",
+    time: "15 minuto",
     link: "Basahin →"
   },
   article3: {
@@ -39,7 +40,7 @@ const translationsTL = {
     date: "Mayo 2026",
     title: "Ang Eukaristiya",
     excerpt: "Ang sentral na sakramento ng Simbahang Katoliko at ang kahulugan nito sa buhay Kristiyano.",
-    time: "15 minuto",
+    time: "13 minuto",
     link: "Basahin →"
   },
   article4: {
@@ -90,6 +91,14 @@ const translationsTL = {
     time: "11 minuto",
     link: "Basahin →"
   },
+  article10: {
+    category: "Mga Pinagkukunan",
+    date: "Mayo 2026",
+    title: "Mga Kapaki-pakinabang na Pahina",
+    excerpt: "Isang seleksyon ng mga Katolikong mapagkukunan upang palalimin ang iyong pananampalataya at pormasyon.",
+    time: "5 minuto",
+    link: "Galugarin →"
+  },
   mission: {
     title: "Ang Aming Misyon",
     teach: {
@@ -113,6 +122,7 @@ const translationsTL = {
     subject: { placeholder: "Paksa" },
     message: { placeholder: "Ang iyong mensahe" },
     submit: "Magpadala ng mensahe",
+    cookieNotice: "Sa pagpapadala ng form na ito, sumasang-ayon ka na ang iyong datos ay ipoproseso ng mga serbisyo ng third-party para sa operasyon ng system.",
     success: {
       title: "Natanggap ang mensahe",
       desc: "Salamat sa iyong mensahe. Tutugon kami sa lalong madaling panahon. Ad maiorem Dei gloriam."
@@ -164,7 +174,7 @@ const translationsTL = {
             <h1>Ang Eukaristiya: ang Sentral na Sakramento</h1>
             <p>Simbolo ba ang Eukaristiya o ang tunay na Katawan ni Kristo? Si Juan 6, si Pablo, at ang mga unang Kristiyano ay nagbibigay ng parehong sagot.</p>
             <div class="article-meta">
-                <span>15 minutong pagbabasa</span>
+                <span>13 minutong pagbabasa</span>
                 <span>Nailathala Mayo 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
@@ -342,7 +352,7 @@ const translationsTL = {
             <h1>Bakit Tayo Naniniwala sa Pananampalatayang Katoliko</h1>
             <p>Bakit tayo naniniwala? Hindi dahil sa ugali. Dahil sinaksihan ito, siniyasat natin, at ang Bibliya mismo ay nagtuturo sa Simbahan na itinatag ni Hesus.</p>
             <div class="article-meta">
-                <span>13 minutong pagbabasa</span>
+                <span>15 minutong pagbabasa</span>
                 <span>Nailathala Mayo 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,

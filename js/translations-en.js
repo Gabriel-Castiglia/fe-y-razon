@@ -4,7 +4,8 @@ const translationsEN = {
     home: "Home",
     topics: "Topics",
     mission: "Mission",
-    contact: "Contact"
+    contact: "Contact",
+    usefulPages: "Useful Pages"
   },
   hero: {
     eyebrow: "Welcome",
@@ -31,7 +32,7 @@ const translationsEN = {
     date: "May 2026",
     title: "Why We Believe",
     excerpt: "Fundamental reasons to believe in the Catholic faith and its coherence with human reason.",
-    time: "13 min read",
+    time: "15 min read",
     link: "Read →"
   },
   article3: {
@@ -39,7 +40,7 @@ const translationsEN = {
     date: "May 2026",
     title: "The Eucharist",
     excerpt: "The central sacrament of the Catholic Church and its meaning in Christian life.",
-    time: "15 min read",
+    time: "13 min read",
     link: "Read →"
   },
   article4: {
@@ -90,6 +91,14 @@ const translationsEN = {
     time: "11 min read",
     link: "Read →"
   },
+  article10: {
+    category: "Resources",
+    date: "May 2026",
+    title: "Useful Pages",
+    excerpt: "A selection of Catholic resources to deepen your faith and formation.",
+    time: "5 min read",
+    link: "Explore →"
+  },
   mission: {
     title: "Our Mission",
     teach: {
@@ -113,6 +122,7 @@ const translationsEN = {
     subject: { placeholder: "Subject" },
     message: { placeholder: "Your message" },
     submit: "Send message",
+    cookieNotice: "By submitting this form, you acknowledge that your data is processed by third-party services for system operation.",
     success: {
       title: "Message received",
       desc: "Thank you for writing to us. We will respond shortly. Ad maiorem Dei gloriam."
@@ -164,7 +174,7 @@ const translationsEN = {
             <h1>The Eucharist: the Central Sacrament</h1>
             <p>Is the Eucharist a symbol or the real Body of Christ? John 6, Paul, and the early Christians all give the same answer.</p>
             <div class="article-meta">
-                <span>15 min read</span>
+                <span>13 min read</span>
                 <span>Published May 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
@@ -342,7 +352,7 @@ const translationsEN = {
             <h1>Why We Believe in the Catholic Faith</h1>
             <p>Why do we believe? Not out of habit. Because it was witnessed, we investigated it, and the Bible itself points to the Church that Jesus founded.</p>
             <div class="article-meta">
-                <span>13 min read</span>
+                <span>15 min read</span>
                 <span>Published May 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
@@ -480,6 +490,69 @@ const translationsEN = {
       nav: {
         prevTitle: "The Eucharist: the Central Sacrament",
         nextTitle: "The Saints and Their Intercession"
+      }
+    },
+    "paginas-utiles": {
+      pageTitle: "Useful Pages | Faith and Reason",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Resources</span>
+            </div>
+            <h1>Useful Pages</h1>
+            <p>Explore a selection of Catholic resources to deepen your faith and formation.</p>
+            <div class="article-meta">
+                <span>Updated May 2026</span>
+            </div>
+            <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
+      article: `<h2>Vatican</h2>
+                <p>The official website of the Holy See, where you can find the Bible, the Catechism of the Catholic Church, papal documents, and much more.</p>
+                <ul>
+                    <li><a href="https://www.vatican.va/content/vatican/en.html" target="_blank">Official Vatican Website</a></li>
+                    <li><a href="https://www.vatican.va/archive/ENG0015/_INDEX.HTM" target="_blank">Catechism of the Catholic Church (English)</a></li>
+                </ul>
+
+                <h2>Apologetics and Formation</h2>
+                <h3>Father Luis Toro</h3>
+                <p>Known for his apologetic conferences and debates, Father Luis Toro offers a solid defense of the Catholic faith.</p>
+                <ul>
+                    <li><a href="https://www.youtube.com/@PadreLuisToroOficial" target="_blank">Father Luis Toro Official YouTube Channel</a></li>
+                </ul>
+
+                <h3>Father José de Jesús Aguilar</h3>
+                <p>Priest and communicator, Father José de Jesús Aguilar shares reflections and Catholic teachings.</p>
+                <ul>
+                    <li><a href="https://www.youtube.com/@PadreJosedeJesusAguilar" target="_blank">Father José de Jesús Aguilar YouTube Channel</a></li>
+                </ul>
+
+                <h3>Heraldos del Evangelio Ecuador</h3>
+                <p>An association of the faithful of pontifical right that seeks the sanctification of its members and evangelization.</p>
+                <ul>
+                    <li><a href="https://heraldosdelevangelio.ec/" target="_blank">Official Heraldos del Evangelio Ecuador Website</a></li>
+                </ul>
+
+                <h3>Que No Te La Cuenten</h3>
+                <p>Platform dedicated to Catholic apologetics, debunking myths and offering formation.</p>
+                <ul>
+                    <li><a href="https://quenotelacuenten.org/" target="_blank">Official Que No Te La Cuenten Website</a></li>
+                    <li><a href="https://www.youtube.com/@quenotelacuenten" target="_blank">Que No Te La Cuenten YouTube Channel</a></li>
+                </ul>
+
+                <h2>Resources for Prayer and Bible Study</h2>
+                <h3>Rough Rosaries</h3>
+                <p>Crafting robust and durable rosaries, inspired by military tradition and faith.</p>
+                <ul>
+                    <li><a href="https://roughrosaries.com/" target="_blank">Official Rough Rosaries Website</a></li>
+                </ul>
+
+                <h3>Ascension Presents</h3>
+                <p>A Catholic publisher offering formation resources, including the popular "Bible in a Year" series with Father Mike Schmitz and "The Great Adventure Catholic Bible".</p>
+                <ul>
+                    <li><a href="https://ascensionpress.com/collections/the-great-adventure-catholic-bible" target="_blank">The Great Adventure Catholic Bible</a></li>
+                    <li><a href="https://ascensionpress.com/pages/biy-registration" target="_blank">The Bible in a Year (Podcast)</a></li>
+                </ul>`,
+      nav: {
+        prevTitle: "The Primacy of Peter",
+        nextTitle: "The Priesthood in the Catholic Church"
       }
     }
   },
