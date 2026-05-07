@@ -412,8 +412,19 @@ const translationsDA = {
             <p>Pålidelige kilder til at uddybe, lære og dele den katolske tro.</p>
             <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
       sec1: { eyebrow: "Den Hellige Stol", title: "Vatikanske kilder", desc: "Officielle kirkelige dokumenter, tilgængelige på Den Hellige Stols websted." },
-      sec2: { eyebrow: "Apologetik · Dannelse", title: "Præster og undervisere", desc: "Stemmer, der er tro mod Læreembedet, og som underviser i, forsvarer og forkynder troen med dybde og grundighed." },
-      sec3: { eyebrow: "Apostolater · Medier", title: "Apostolater og katolske medier" }
+      sec2: {
+        eyebrow: "Apologetik · Dannelse", title: "Præster og undervisere", desc: "Stemmer, der er tro mod Læreembedet, og som underviser i, forsvarer og forkynder troen med dybde og grundighed.",
+        toro:    { desc: "Rosenkransens og den marianske fromheds apostel. Solid, direkte og Magisterium-tro dannelse." },
+        aguilar: { desc: "Teolog og apologet. Besvarer de sværeste indvendinger mod den katolske tro med stor dybde." },
+        olivera: { desc: "Augustinsk historiker og apologet. Tager fat på rationalisme, sekter og moderne vildfarelser med grundighed." }
+      },
+      sec3: {
+        eyebrow: "Apostolater · Medier", title: "Apostolater og katolske medier",
+        heraldos: { desc: "Missionærsk apostolat med tilstedeværelse i Ecuador. Dannelse, katekese og evangelisering tro mod Traditionen." },
+        rugged:   { desc: "Robuste rosenkranse til militær, missionærer og alle troende, der ønsker at bære rosenkransen med værdighed.", tag: "USA" },
+        grat:     { desc: "Jeff Cavins' kronologiske metode til at studere Bibelen. <em>Bible Timeline</em> med Jerusalems Bibel.", tag: "Bibel · Dannelse" },
+        ewtn:     { desc: "Verdens største katolske tv-netværk. Daglig messe, Den hellige rosenkrans, dokumentarer og dannelse døgnet rundt.", tag: "TV · Radio" }
+      }
     }
   },
   provisional: {
