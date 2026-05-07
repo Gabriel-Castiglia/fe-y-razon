@@ -30,6 +30,7 @@
                     <li><a href="#temas" data-i18n="nav.topics">Temas</a></li>
                     <li><a href="#mision" data-i18n="nav.mission">Misión</a></li>
                     <li><a href="#contacto" data-i18n="nav.contact">Contacto</a></li>
+                    <li><a href="tema-paginas-utiles.html" data-i18n="nav.usefulPages">Páginas amigas</a></li>
                 </ul>
             </nav>
             
@@ -59,11 +60,10 @@
                         <img src="Recursos/Im%C3%A1genes/philippines-flag-png-large.png.jpeg" alt="" width="22" height="15">
                         <span>Filipino</span>
                     </button>
-                    <div class="lang-option-disabled" aria-disabled="true">
+                    <button class="lang-option" data-lang="da" role="option" aria-selected="false">
                         <img src="Recursos/Im%C3%A1genes/denmark-flag-png-large.png.jpeg" alt="" width="22" height="15">
                         <span>Dansk</span>
-                        <span class="lang-soon">Kommer snart</span>
-                    </div>
+                    </button>
                 </div>
             </div>
             <button class="hamburger" id="hamburger" aria-label="Abrir menú" aria-expanded="false">
@@ -284,6 +284,7 @@
                     <div class="form-group">
                         <textarea name="message" data-i18n-placeholder="contact.message.placeholder" placeholder="Tu mensaje" rows="5" required></textarea>
                     </div>
+                    <p class="form-notice" data-i18n="contact.cookieNotice" style="font-size: 0.75rem; opacity: 0.7; margin-bottom: 1.5rem; line-height: 1.4; color: rgba(255,255,255,0.8);"></p>
                     <button type="submit" class="btn-primary" id="contact-submit" data-i18n="contact.submit">Enviar mensaje</button>
                 </form>
                 <div class="contact-success" id="contact-success" hidden>
@@ -307,6 +308,7 @@
     <script src="js/translations-en.js" defer></script>
     <script src="js/translations-ja.js" defer></script>
     <script src="js/translations-tl.js" defer></script>
+    <script src="js/translations-da.js" defer></script>
     <script src="js/translations.js" defer></script>
 </body>
 </html>
