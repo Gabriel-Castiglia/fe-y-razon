@@ -1,3 +1,8 @@
+/**
+ * Diccionario de traducciones: ESPAÑOL
+ * Contiene textos de la UI principal y el contenido HTML de los artículos.
+ */
+
 const translationsES = {
   logo: "Fé y Razón",
   nav: {
@@ -118,6 +123,8 @@ const translationsES = {
       desc: "Gracias por escribirnos. Te responderemos a la brevedad. Ad maiorem Dei gloriam."
     }
   },
+    
+    // Páginas de temas (Contenido dinámico para el router/overlay)
   topicPages: {
     common: {
       prevLabel: "Artículo anterior",
@@ -183,7 +190,7 @@ const translationsES = {
                 <blockquote>«Desde ese momento, muchos de sus discípulos se echaron atrás y dejaron de acompañarlo. Entonces Jesús dijo a los Doce: <strong>«¿También ustedes quieren irse?»</strong>» — Juan 6:66-67</blockquote>
                 <p>No cede. No suaviza. No negocia el significado. Jesús es el buen pastor que no dejaría que ninguna oveja se perdiera por un malentendido —pero en esto es inflexible.</p>
                 <h2>No hay interpretación posible<br>Juan 6:68</h2>
-                <blockquote>«Simón Pedro le respondió: <strong>«Señor, ¿a quién vamos a ir? Tú tienes palabras de vida eterna.»</strong>» — Juan 6:68</blockquote>
+                <blockquote>Simón Pedro le respondió: <strong>«Señor, ¿a quién vamos a ir? Tú tienes palabras de vida eterna.»</strong> — Juan 6:68</blockquote>
                 <p>Pedro no dice que entiende todo. Dice que confía. Eso es la fe: no tener todas las respuestas, sino saber en Quién se cree.</p>
                 <ul>
                     <li>«Yo soy» — no representa, es.</li>
@@ -430,7 +437,7 @@ const translationsES = {
                 <h2>El perdón de los pecados — Juan 20:22-23</h2>
                 <p>Volvamos al punto de partida. Jesús resucitado se aparece a los apóstoles, sopla sobre ellos —el mismo gesto que en el Génesis 2:7 cuando dio vida al hombre de barro— y les dice:</p>
                 <blockquote>«Reciban el Espíritu Santo. <strong>A quienes les perdonen los pecados, les serán perdonados; a quienes se los retengan, les serán retenidos.</strong>» — Juan 20:22-23</blockquote>
-                <p>¿Cómo se retienen los pecados de alguien sin saber cuáles son? No se puede. Este versículo exige que el penitente declare sus pecados. Eso es la confesión sacramental, instituid por Cristo mismo.</p>
+                <p>¿Cómo se retienen los pecados de alguien sin saber cuáles son? No se puede. Este versículo exige que el penitente declare sus pecados. Eso es la confesión sacramental, instituida por Cristo mismo.</p>
                 <h2>El altar y el sacrificio en el Nuevo Testamento<br>Heb 13:10 y Mal 1:11</h2>
                 <p>Si no hay sacerdocio ni sacrificio en el Nuevo Testamento, ¿por qué la carta a los Hebreos dice esto?</p>
                 <blockquote>«<strong>Tenemos un altar</strong> del que no tienen derecho a comer los que sirven al tabernáculo.» — Hebreos 13:10</blockquote>
