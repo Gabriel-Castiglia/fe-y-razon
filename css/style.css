@@ -1616,3 +1616,17 @@ header.scrolled .hamburger span {
     padding: 48px 0 24px;
   }
 }
+
+/* Móvil: solo el botón "Leer" es clickeable */
+@media (max-width: 768px) {
+  .article-card {
+    pointer-events: none;
+  }
+
+  .article-card .article-link,
+  .article-card a,
+  .article-card button {
+    pointer-events: auto;
+  }
+}
+
