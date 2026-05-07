@@ -246,7 +246,162 @@ const translationsDA = {
         prevTitle: "Præstedømmet i den katolske kirke",
         nextTitle: "Eukaristien: det centrale sakramente"
       }
-    }
+    },
+    "transubstanciacion": {
+      pageTitle: "Transsubstantiation | Tro og Fornuft",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Specialemne</span>
+            </div>
+            <h1>Transsubstantiation: det eukaristiske mysterium</h1>
+            <p>Udforsk hvordan den katolske kirke forstår Eukaristiens mirakel og den virkelige forvandling af brød og vin til Kristi legeme og blod.</p>
+            <div class="article-meta">
+                <span>9 min læsning</span>
+                <span>Udgivet maj 2026</span>
+            </div>
+            <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+      article: `<p>Transsubstantiation er læren om, at brød og vin efter indvielsen under messen i substansen bliver til Kristi legeme og blod, selv om det ydre udseende forbliver.</p>
+                <h2>Teologisk betydning</h2>
+                <p>Denne dogme understreger, at Eukaristien ikke blot er et symbol. Kristus bliver virkelig åndelig føde for vores sjæl og opretholder sin levende og sande tilstedeværelse midt iblandt de troende.</p>
+                <blockquote>"Se, Kristi legeme, modtaget til frelse og evigt liv."</blockquote>
+                <h2>Apostolsk tradition</h2>
+                <p>Kirken underviser i denne sandhed i forlængelse af fortolkningen af Jesu ord: "Dette er mit legeme" og "Dette er mit blod." Den apostolske tradition støtter en bogstavelig og hellig læsning.</p>
+                <ul>
+                    <li>Kristi virkelige, levende tilstedeværelse i Eukaristien.</li>
+                    <li>En sakramental handling, der går ud over det symbolske plan.</li>
+                    <li>En kilde til enhed og nåde for Kirken.</li>
+                </ul>
+                <h2>Troens liv</h2>
+                <p>At anerkende dette mysterium styrker den eukaristiske fromhed og tilskynder de kristne til at modtage kommunionen med ærefrygt og indre forberedelse.</p>`,
+      nav: {
+        prevTitle: "Eukaristien: det centrale sakramente",
+        nextTitle: "Helgenerne og deres forbøn"
+      }
+    },
+    "los-santos": {
+      pageTitle: "Helgenerne | Tro og Fornuft",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Specialemne</span>
+            </div>
+            <h1>Helgenerne og deres forbøn</h1>
+            <p>En klar vejledning om helgenernes rolle i det katolske liv, og hvordan deres eksempel opmuntrer til en dybere tro.</p>
+            <div class="article-meta">
+                <span>7 min læsning</span>
+                <span>Udgivet maj 2026</span>
+            </div>
+            <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+      article: `<p>Helgenerne er Kirkens medlemmer, der levede det kristne liv med heroisme. Fromheden over for helgenerne opstod af erkendelsen af deres forening med Kristus og deres bønner på andres vegne.</p>
+                <h2>Forbillede i hellighed</h2>
+                <p>De viser os, hvordan vi lever Evangeliet i virkelige situationer: i familien, på arbejdet og i tjenesten. Deres liv er et forbillede, der inspirerer tillid og håb.</p>
+                <blockquote>"Helgenerne er Kirkens levende hukommelse og vidnesbyrd om Guds troskab."</blockquote>
+                <h2>Forbøn</h2>
+                <p>Bøn til helgenerne er ikke tilbedelse, men en anmodning om deres forbøn over for Gud. Kirken opfordrer de troende til at bede for hinanden, også for dem, der allerede er sovet ind i Herren.</p>
+                <ul>
+                    <li>Helgenerne ledsager os med deres eksempel og bøn.</li>
+                    <li>De er brødre i de helliges samfund.</li>
+                    <li>Deres liv viser, at hellighed er et universelt kald.</li>
+                </ul>
+                <h2>Kristent liv</h2>
+                <p>At stole på helgenernes forbøn svækker ikke vores forhold til Kristus; det styrker det. Det minder os om, at Kirken er ét levende legeme, der transcenderer tid.</p>`,
+      nav: {
+        prevTitle: "Transsubstantiation: det eukaristiske mysterium",
+        nextTitle: "Den Hellige Treenighed"
+      }
+    },
+    "la-santisima-trinidad": {
+      pageTitle: "Den Hellige Treenighed | Tro og Fornuft",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Specialemne</span>
+            </div>
+            <h1>Den Hellige Treenighed</h1>
+            <p>Forstå Treenigheden som et mysterium om enhed og kærlighed: Fader, Søn og Helligånd, der virker sammen i frelseshistorien.</p>
+            <div class="article-meta">
+                <span>10 min læsning</span>
+                <span>Udgivet maj 2026</span>
+            </div>
+            <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+      article: `<p>Treenigheden er det centrale mysterium i den kristne tro. Gud er ét væsen i tre Personer: Fader, Søn og Helligånd, i fuldkommen enhed og fællesskab.</p>
+                <h2>Enhed og distinktion</h2>
+                <p>Hver guddommelig Person er fuldt ud Gud, men de er ikke tre adskilte guder. Kristendommen bekender én Gud i et evigt kærlighedsforhold.</p>
+                <blockquote>"I Faderens og Sønnens og Helligåndens navn."</blockquote>
+                <h2>Fælles virke</h2>
+                <p>Faderen sender Sønnen, Sønnen forløser, og Ånden helliger. Denne fælles virken viser, at frelsen er hele Treenighedens værk.</p>
+                <ul>
+                    <li>Gud er fælles kærlighed.</li>
+                    <li>Treenigheden er grundlaget for det kristne liv i Kirken.</li>
+                    <li>Guds nærvær åbenbares i historien som relation.</li>
+                </ul>
+                <h2>Konsekvenser for livet</h2>
+                <p>Den trinitariske lære opfordrer os til at leve i fællesskab, gennemsigtighed og tjeneste. Vi er skabt i billedet af en Gud, der er fællesskab.</p>`,
+      nav: {
+        prevTitle: "Helgenerne og deres forbøn",
+        nextTitle: "Skærsilden og Guds barmhjertighed"
+      }
+    },
+    "la-nueva-ley": {
+      pageTitle: "Den nye lov | Tro og Fornuft",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Specialemne</span>
+            </div>
+            <h1>Den nye lov i Kristus</h1>
+            <p>Forstå hvordan Kristi lov overgår og fuldbyrder den gamle lov, og inviterer os til at leve i Guds børns kærlighed og frihed.</p>
+            <div class="article-meta">
+                <span>8 min læsning</span>
+                <span>Udgivet maj 2026</span>
+            </div>
+            <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+      article: `<p>Den nye lov er Evangeliets lov, centreret om kærlighedens bud. Kristus afskaffer ikke den gamle lov, men fuldbyrder den og gør den tilgængelig for det menneskelige hjerte.</p>
+                <h2>Kærlighed som målestok</h2>
+                <p>Jesus samler Loven i kærlighed til Gud og næsten. Denne nye regel er ikke en byrde, men en dyb frihed, der transformerer vores handlinger indefra.</p>
+                <blockquote>"Du skal elske Herren din Gud af hele dit hjerte og din næste som dig selv."</blockquote>
+                <h2>Fuldbyrdelse af den gamle lov</h2>
+                <p>Profeterne bebudede en ny lov, der ville leve i hjertet. Kristi undervisning afslører, at ægte lydighed ikke reduceres til ydre handlinger, men til en sand indre indstilling.</p>
+                <ul>
+                    <li>Den nye lov kalder os til at være jordens salt og verdens lys.</li>
+                    <li>Tilgivelse og barmhjertighed er dens sandeste udtryk.</li>
+                    <li>Vi lever Kristi lov ved at give os selv i kærlighed.</li>
+                </ul>
+                <h2>Kristen praksis</h2>
+                <p>Den nye lov bliver konkret liv, når vi dyrker ydmyghed, retfærdighed og medfølelse. Eukaristien og bønnen hjælper os til at leve den dagligt.</p>`,
+      nav: {
+        prevTitle: "Skærsilden og Guds barmhjertighed",
+        nextTitle: "Peters primat"
+      }
+    },
+    "la-primacia-de-pedro": {
+      pageTitle: "Peters primat | Tro og Fornuft",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Specialemne</span>
+            </div>
+            <h1>Peters primat</h1>
+            <p>En klar analyse af, hvorfor den katolske kirke anerkender paven som Peters efterfølger og synlig vejleder for kirkens enhed.</p>
+            <div class="article-meta">
+                <span>11 min læsning</span>
+                <span>Udgivet maj 2026</span>
+            </div>
+            <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+      article: `<p>Peters primat er en lære, der er afgørende for at forstå Kirkens struktur. Jesus betroede Peter en unik rolle som hyrde og garant for den apostolske enhed.</p>
+                <h2>Bibelsk grundlag</h2>
+                <p>I Evangeliet erklærer Kristus Peter for klippen og betror ham at vogte sine får. Dette mandat afspejler en særlig autoritet til at lede det kristne fællesskab.</p>
+                <blockquote>"Du er Peter, og på denne klippe vil jeg bygge min kirke."</blockquote>
+                <h2>Apostolsk succession</h2>
+                <p>Paven er Peters efterfølger i missionen med at styrke brødrene. Denne kontinuitet sikrer troskab over for trosdeponetet og beskytter Kirkens enhed.</p>
+                <ul>
+                    <li>Den første pave modtog et mandat om hyrdemyndighed.</li>
+                    <li>Den apostolske succession beskytter læren og kommunionen.</li>
+                    <li>Paven fungerer som et synligt tegn på enhed for alle troende.</li>
+                </ul>
+                <h2>Kirkens enhed</h2>
+                <p>At anerkende Peters primat er ikke et vilkårligt hierarki, men en måde at holde Kirken forenet i tro, håb og kærlighed.</p>`,
+      nav: {
+        prevTitle: "Den nye lov i Kristus",
+        nextTitle: "Præstedømmet i den katolske kirke"
+      }
+    },
     "paginas-amigas": {
       pageTitle: "Venlige Sider | Tro og Fornuft",
       hero: `<div class="hero-eyebrow">
@@ -260,6 +415,9 @@ const translationsDA = {
       sec2: { eyebrow: "Apologetik · Dannelse", title: "Præster og undervisere", desc: "Stemmer, der er tro mod Læreembedet, og som underviser i, forsvarer og forkynder troen med dybde og grundighed." },
       sec3: { eyebrow: "Apostolater · Medier", title: "Apostolater og katolske medier" }
     }
+  },
+  provisional: {
+    notice: "⚠ Denne artikel er ved at blive skrevet. Det nuværende indhold er foreløbigt og vil snart blive erstattet af den endelige tekst."
   },
   meditacion: {
     quotes: [
