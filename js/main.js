@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function () {
       const isOpen = navList.classList.toggle('open');
       hamburger.classList.toggle('open', isOpen);
       hamburger.setAttribute('aria-expanded', String(isOpen));
-      document.body.style.overflow = isOpen ? 'hidden' : ''; // Evita scroll con menú abierto
+      document.body.classList.toggle('no-scroll', isOpen);
     });
 
     navList.querySelectorAll('a').forEach(link => {
@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function () {
         navList.classList.remove('open');
         hamburger.classList.remove('open');
         hamburger.setAttribute('aria-expanded', 'false');
-        document.body.style.overflow = '';
+        document.body.classList.remove('no-scroll');
       });
     });
   }

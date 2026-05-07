@@ -17,7 +17,7 @@ const ARTICLES = {
   'el-purgatorio':         { videos: ['velas01','velas02','velas03'],             prev: 'la-santisima-trinidad',next: 'la-nueva-ley' },
   'la-nueva-ley':          { videos: ['lectura01','conf01','conf02'],             prev: 'el-purgatorio',        next: 'la-primacia-de-pedro' },
   'la-primacia-de-pedro':  { videos: ['conf03','conf04'],                         prev: 'la-nueva-ley',         next: 'sacerdocio' },
-  'paginas-utiles':        { videos: [],                                          prev: 'la-primacia-de-pedro', next: 'sacerdocio' }, // Resource page, no specific video cycle
+  'paginas-amigas':        { videos: [],                                          prev: 'la-primacia-de-pedro', next: 'sacerdocio' },
 };
 
 const VIDEO_BASE = 'Recursos/Videos/';
