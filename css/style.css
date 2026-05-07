@@ -1264,8 +1264,7 @@ section {
 /* READING PROGRESS BAR                                            */
 /* ────────────────────────────────────────────────────────────── */
 
-#reading-progress,
-#overlay-reading-progress {
+#reading-progress {
   position: fixed;
   top: 0;
   left: 0;
@@ -1275,12 +1274,6 @@ section {
   z-index: 2000;
   transition: width 0.08s linear;
   pointer-events: none;
-}
-
-#article-overlay {
-  width: 100%;
-  min-height: 100vh;
-  background: var(--bg-soft);
 }
 
 /* ────────────────────────────────────────────────────────────── */
