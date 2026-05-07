@@ -9,7 +9,8 @@ const translationsES = {
     home: "Inicio",
     topics: "Temas",
     mission: "Misión",
-    contact: "Contacto"
+    contact: "Contacto",
+    usefulPages: "Páginas amigas"
   },
   hero: {
     eyebrow: "Bienvenido",
@@ -95,6 +96,14 @@ const translationsES = {
     time: "11 min lectura",
     link: "Leer →"
   },
+  article10: {
+    category: "Recursos",
+    date: "Mayo 2026",
+    title: "Páginas amigas",
+    excerpt: "Una selección de recursos católicos para profundizar en tu fe y formación.",
+    time: "5 min lectura",
+    link: "Explorar →"
+  },
   mission: {
     title: "Nuestra Misión",
     teach: {
@@ -118,6 +127,7 @@ const translationsES = {
     subject: { placeholder: "Asunto" },
     message: { placeholder: "Tu mensaje" },
     submit: "Enviar mensaje",
+    cookieNotice: "Al enviar este formulario, aceptas que tus datos sean procesados por servicios de terceros para el funcionamiento del sistema.",
     success: {
       title: "Mensaje recibido",
       desc: "Gracias por escribirnos. Te responderemos a la brevedad. Ad maiorem Dei gloriam."
@@ -487,6 +497,69 @@ const translationsES = {
       nav: {
         prevTitle: "La Eucaristía: el sacramento central",
         nextTitle: "Los santos y su intercesión"
+      }
+    },
+    "paginas-utiles": {
+      pageTitle: "Páginas amigas | Fé y Razón",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Recursos</span>
+            </div>
+            <h1>Páginas amigas</h1>
+            <p>Explora una selección de recursos católicos para profundizar en tu fe y formación.</p>
+            <div class="article-meta">
+                <span>Actualizado Mayo 2026</span>
+            </div>
+            <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
+      article: `<h2>Vaticano</h2>
+                <p>El sitio oficial de la Santa Sede, donde puedes encontrar la Biblia, el Catecismo de la Iglesia Católica, documentos papales y mucho más.</p>
+                <ul>
+                    <li><a href="https://www.vatican.va/content/vatican/es.html" target="_blank">Sitio Oficial del Vaticano</a></li>
+                    <li><a href="https://www.vatican.va/archive/catechism_sp/index_sp.htm" target="_blank">Catecismo de la Iglesia Católica (Español)</a></li>
+                </ul>
+
+                <h2>Apologética y Formación</h2>
+                <h3>Padre Luis Toro</h3>
+                <p>Conocido por sus conferencias y debates apologéticos, el Padre Luis Toro ofrece una defensa sólida de la fe católica.</p>
+                <ul>
+                    <li><a href="https://www.youtube.com/@PadreLuisToroOficial" target="_blank">Canal de YouTube Padre Luis Toro Oficial</a></li>
+                </ul>
+
+                <h3>Padre José de Jesús Aguilar</h3>
+                <p>Sacerdote y comunicador, el Padre José de Jesús Aguilar comparte reflexiones y enseñanzas católicas.</p>
+                <ul>
+                    <li><a href="https://www.youtube.com/@PadreJosedeJesusAguilar" target="_blank">Canal de YouTube Padre José de Jesús Aguilar</a></li>
+                </ul>
+
+                <h3>Heraldos del Evangelio Ecuador</h3>
+                <p>Una asociación de fieles de derecho pontificio que busca la santificación de sus miembros y la evangelización.</p>
+                <ul>
+                    <li><a href="https://heraldosdelevangelio.ec/" target="_blank">Sitio Oficial Heraldos del Evangelio Ecuador</a></li>
+                </ul>
+
+                <h3>Que No Te La Cuenten</h3>
+                <p>Plataforma dedicada a la apologética católica, desmintiendo mitos y ofreciendo formación.</p>
+                <ul>
+                    <li><a href="https://quenotelacuenten.org/" target="_blank">Sitio Oficial Que No Te La Cuenten</a></li>
+                    <li><a href="https://www.youtube.com/@quenotelacuenten" target="_blank">Canal de YouTube Que No Te La Cuenten</a></li>
+                </ul>
+
+                <h2>Recursos para la Oración y Estudio Bíblico</h2>
+                <h3>Rough Rosaries</h3>
+                <p>Artesanía de rosarios robustos y duraderos, inspirados en la tradición militar y la fe.</p>
+                <ul>
+                    <li><a href="https://roughrosaries.com/" target="_blank">Sitio Oficial Rough Rosaries</a></li>
+                </ul>
+
+                <h3>Ascension Presents</h3>
+                <p>Una editorial católica que ofrece recursos de formación, incluyendo la popular serie "Bible in a Year" con el Padre Mike Schmitz y "The Great Adventure Catholic Bible".</p>
+                <ul>
+                    <li><a href="https://ascensionpress.com/collections/the-great-adventure-catholic-bible" target="_blank">The Great Adventure Catholic Bible</a></li>
+                    <li><a href="https://ascensionpress.com/pages/biy-registration" target="_blank">The Bible in a Year (Podcast)</a></li>
+                </ul>`,
+      nav: {
+        prevTitle: "La primacía de Pedro", // Assuming this is the last doctrinal article
+        nextTitle: "El Sacerdocio en la Iglesia Católica" // Assuming this is the first doctrinal article
       }
     },
   },

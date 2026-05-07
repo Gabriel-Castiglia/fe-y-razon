@@ -5,7 +5,7 @@ const translationsJA = {
     topics: "トピック",
     mission: "使命",
     contact: "連絡先",
-    usefulPages: "役立つページ"
+    usefulPages: "おすすめページ"
   },
   hero: {
     eyebrow: "ようこそ",
@@ -94,7 +94,7 @@ const translationsJA = {
   article10: {
     category: "リソース",
     date: "2026年5月",
-    title: "役立つページ",
+    title: "おすすめページ",
     excerpt: "信仰と養成を深めるためのカトリックのリソースのセレクション。",
     time: "5分読む",
     link: "探す →"
@@ -493,12 +493,12 @@ const translationsJA = {
       }
     },
     "paginas-utiles": {
-      pageTitle: "役立つページ | 信仰と理性",
+      pageTitle: "おすすめページ | 信仰と理性",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">リソース</span>
             </div>
-            <h1>役立つページ</h1>
+            <h1>おすすめページ</h1>
             <p>信仰と養成を深めるためのカトリックのリソースのセレクションをご覧ください。</p>
             <div class="article-meta">
                 <span>2026年5月更新</span>
