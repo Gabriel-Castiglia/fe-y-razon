@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="theme-color" content="#1a1410">
+    <link rel="preload" href="css/style.css?v=9" as="style">
+    <title>Páginas amigas | Fé y Razón</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css?v=9">
+</head>
+<body>
+    <div id="reading-progress" role="progressbar" aria-label="Progreso de lectura"></div>
+    <button id="scroll-top" aria-label="Volver arriba">↑</button>
+    <header id="header" class="hero-mode">
+        <div class="container">
+            <h1 class="logo" data-i18n="logo">Fé y Razón</h1>
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="index.html#hero" data-i18n="nav.home">Inicio</a></li>
+                    <li><a href="index.html#temas" data-i18n="nav.topics">Temas</a></li>
+                    <li><a href="index.html#mision" data-i18n="nav.mission">Misión</a></li>
+                    <li><a href="tema-paginas-amigas.html" class="active" data-i18n="nav.usefulPages">Páginas amigas</a></li>
+                    <li><a href="index.html#contacto" data-i18n="nav.contact">Contacto</a></li>
+                </ul>
+            </nav>
+            <div class="lang-dropdown" id="lang-dropdown">
+                <button class="lang-dropdown-trigger" id="lang-dropdown-trigger" aria-haspopup="listbox" aria-expanded="false">
+                    <img class="lang-flag-img" src="Recursos/Im%C3%A1genes/spain-flag-png-large.png.jpeg" alt="" width="20" height="14">
+                    <span class="lang-trigger-label">ES</span>
+                    <svg class="lang-arrow" width="10" height="6" viewBox="0 0 10 6" fill="none" aria-hidden="true">
+                        <path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </button>
+                <div class="lang-dropdown-menu" role="listbox" aria-label="Seleccionar idioma">
+                    <button class="lang-option active" data-lang="es" role="option" aria-selected="true">
+                        <img src="Recursos/Im%C3%A1genes/spain-flag-png-large.png.jpeg" alt="" width="22" height="15">
+                        <span>Español</span>
+                    </button>
+                    <button class="lang-option" data-lang="en" role="option" aria-selected="false">
+                        <img src="Recursos/Im%C3%A1genes/united-states-of-america-flag-png-large.png.jpeg" alt="" width="22" height="15">
+                        <span>English</span>
+                    </button>
+                    <button class="lang-option" data-lang="ja" role="option" aria-selected="false">
+                        <img src="Recursos/Im%C3%A1genes/japan-flag-png-large.png.jpeg" alt="" width="22" height="15">
+                        <span>日本語</span>
+                    </button>
+                    <button class="lang-option" data-lang="tl" role="option" aria-selected="false">
+                        <img src="Recursos/Im%C3%A1genes/philippines-flag-png-large.png.jpeg" alt="" width="22" height="15">
+                        <span>Filipino</span>
+                    </button>
+                    <div class="lang-option-disabled" aria-disabled="true">
+                        <img src="Recursos/Im%C3%A1genes/denmark-flag-png-large.png.jpeg" alt="" width="22" height="15">
+                        <span>Dansk</span>
+                        <span class="lang-soon">Kommer snart</span>
+                    </div>
+                </div>
+            </div>
+            <button class="hamburger" id="hamburger" aria-label="Abrir menú" aria-expanded="false">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </header>
+
+    <section class="article-hero">
+        <video class="hero-video active" src="Recursos/Videos/velas01.mp4" muted autoplay playsinline loop preload="auto"></video>
+        <video class="hero-video" src="Recursos/Videos/velas02.mp4" muted playsinline loop preload="none"></video>
+        <video class="hero-video" src="Recursos/Videos/velas03.mp4" muted playsinline loop preload="none"></video>
+
+        <div class="article-hero-inner">
+            <div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Recursos</span>
+            </div>
+            <h1>Páginas amigas</h1>
+            <p>Fuentes de confianza para profundizar, formarse y compartir la fe católica.</p>
+            <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>
+        </div>
+    </section>
+
+    <main class="article-page">
+        <div class="article-page-inner">
+            <article class="article-body">
+
+                <h2>Fuentes vaticanas</h2>
+                <p>La Santa Sede pone a disposición de todos los fieles los documentos más importantes de la Iglesia.</p>
+                <ul>
+                    <li>
+                        <strong><a href="https://www.vatican.va/archive/bible/index.htm" target="_blank" rel="noopener">Sagrada Escritura — Vatican.va</a></strong><br>
+                        La Biblia online en el sitio oficial de la Santa Sede, disponible en múltiples idiomas.
+                    </li>
+                    <li>
+                        <strong><a href="https://www.vatican.va/archive/catechism_sp/index_sp.html" target="_blank" rel="noopener">Catecismo de la Iglesia Católica — Vatican.va</a></strong><br>
+                        El catecismo oficial de la Iglesia, referencia fundamental para la fe y la moral católica.
+                    </li>
+                </ul>
+
+                <h2>Sacerdotes y formadores</h2>
+                <p>Voces fieles al Magisterio que enseñan, defienden y proclaman la fe con profundidad y rigor.</p>
+                <ul>
+                    <li>
+                        <strong>Padre Luis Toro</strong><br>
+                        Sacerdote venezolano, apóstol del Rosario y de la devoción mariana. Formación sólida, directa y fiel al Magisterio.<br>
+                        <a href="https://www.youtube.com/@ElToritoPadreLuisToro" target="_blank" rel="noopener">Canal de YouTube →</a>
+                    </li>
+                    <li>
+                        <strong>Padre José de Jesús Aguilar</strong><br>
+                        Sacerdote mexicano con profundos conocimientos teológicos y apologéticos. Excelente para responder dudas y objeciones a la fe.<br>
+                        <a href="https://www.youtube.com/channel/UCM-59ocZZjJTUcqf9dZL1jg" target="_blank" rel="noopener">Canal de YouTube →</a>
+                    </li>
+                    <li>
+                        <strong>Padre Javier Olivera Ravasi — Que No Te La Cuenten</strong><br>
+                        Sacerdote agustino argentino, historiador y apologeta. Aborda el racionalismo, las sectas y los errores modernos con rigor histórico y teológico.<br>
+                        <a href="https://www.quenotelacuenten.org/" target="_blank" rel="noopener">Sitio web →</a>
+                    </li>
+                </ul>
+
+                <h2>Apostolados y medios católicos</h2>
+                <ul>
+                    <li>
+                        <strong>Heraldos del Evangelio — Ecuador</strong><br>
+                        Apostolado misionero con presencia en Ecuador. Formación, catequesis y evangelización fiel a la Tradición.<br>
+                        <a href="https://www.youtube.com/@HeraldosdelEvangelio-Ecuador" target="_blank" rel="noopener">Canal de YouTube →</a>
+                        &nbsp;·&nbsp;
+                        <a href="https://caballerosdelavirgenecuador.com/" target="_blank" rel="noopener">Sitio web →</a>
+                    </li>
+                    <li>
+                        <strong>Rugged Rosaries</strong><br>
+                        Apostolado que confecciona y distribuye rosarios resistentes para militares, misioneros y toda persona que desee portar el Rosario con dignidad.<br>
+                        <a href="https://ruggedrosaries.com/" target="_blank" rel="noopener">Sitio web →</a>
+                    </li>
+                    <li>
+                        <strong>Ascension — The Great Adventure Bible</strong><br>
+                        Ministerio fundado por Jeff Cavins con una metodología cronológica para estudiar la Biblia. Incluye la <em>Bible Timeline</em> y cursos de formación bíblica con la Biblia de Jerusalén.<br>
+                        <a href="https://ascensionpress.com/" target="_blank" rel="noopener">Sitio web →</a>
+                    </li>
+                    <li>
+                        <strong>EWTN — Global Catholic Television Network</strong><br>
+                        La red de televisión católica más grande del mundo. Transmite misa diaria, Santo Rosario, documentales y programas de formación las 24 horas.<br>
+                        <a href="https://www.ewtn.com/" target="_blank" rel="noopener">Sitio web →</a>
+                    </li>
+                </ul>
+
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <p data-i18n="footer.text">&copy; 2026 Fé y Razón. Ad maiorem Dei gloriam.</p>
+    </footer>
+    <script src="js/main.js" defer></script>
+    <script src="js/translations-es.js" defer></script>
+    <script src="js/translations-en.js" defer></script>
+    <script src="js/translations-ja.js" defer></script>
+    <script src="js/translations-tl.js" defer></script>
+    <script src="js/translations.js" defer></script>
+</body>
+</html>
