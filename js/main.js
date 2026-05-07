@@ -1,45 +1,54 @@
-/* ──────────────────────────────────────────────────────────── */
-/* FÉ Y RAZÓN — Animaciones y Comportamiento                   */
-/* ──────────────────────────────────────────────────────────── */
+/** 
+ * =========================================================================
+ * FÉ Y RAZÓN — LÓGICA PRINCIPAL DE INTERFAZ
+ * Controla animaciones, ciclos de video, UI global y formularios.
+ * =========================================================================
+ */
 
-// ──────────────────────────────────────────────────────────
+// 1. SISTEMA DE PRELOADER
 // PRELOADER — Fade out cuando el primer video puede reproducir
-// ──────────────────────────────────────────────────────────
 (function () {
   const preloader = document.getElementById('preloader');
   if (!preloader) return;
+
   let dismissed = false;
+  
+  // Función para ocultar y eliminar el preloader del DOM
   const dismiss = () => {
     if (dismissed) return;
     dismissed = true;
     preloader.classList.add('fade-out');
-    setTimeout(() => preloader.remove(), 700);
+    setTimeout(() => preloader.remove(), 700); // Sincronizado con la transición CSS
   };
+
+  // Estrategia 1: Quitar preloader cuando el video del Hero esté listo
   const firstVideo = document.querySelector('.hero-video.active');
   if (firstVideo) {
     firstVideo.addEventListener('canplay', dismiss, { once: true });
   }
+
+  // Estrategia 2: Límite de tiempo por seguridad (Failsafe)
   setTimeout(dismiss, 2200);
 })();
 
 document.addEventListener('DOMContentLoaded', function () {
 
-  // ──────────────────────────────────────────────────────────
-  // 0. HAMBURGER MENU — Navegación móvil
-  // ──────────────────────────────────────────────────────────
+  // 2. MENÚ HAMBURGUESA (Móvil)
   const hamburger = document.getElementById('hamburger');
   const navList   = document.querySelector('.nav-links');
 
   if (hamburger && navList) {
     hamburger.addEventListener('click', () => {
+      // Toggle de clases y accesibilidad ARIA
       const isOpen = navList.classList.toggle('open');
       hamburger.classList.toggle('open', isOpen);
       hamburger.setAttribute('aria-expanded', String(isOpen));
-      document.body.style.overflow = isOpen ? 'hidden' : '';
+      document.body.style.overflow = isOpen ? 'hidden' : ''; // Evita scroll con menú abierto
     });
 
     navList.querySelectorAll('a').forEach(link => {
       link.addEventListener('click', () => {
+        // Cierra el menú automáticamente al hacer click en un enlace
         navList.classList.remove('open');
         hamburger.classList.remove('open');
         hamburger.setAttribute('aria-expanded', 'false');
@@ -47,16 +56,17 @@ document.addEventListener('DOMContentLoaded', function () {
       });
     });
   }
-  // ──────────────────────────────────────────────────────────
-  // 1. HERO VIDEO CROSSFADE — Loop infinito de videos
-  // ──────────────────────────────────────────────────────────
+
+  // 3. CICLO DE VIDEO DEL HERO
+  // Maneja el crossfade infinito de videos de fondo en la sección principal.
   
-  const videos = Array.from(document.querySelectorAll('#hero .hero-video, .article-hero .hero-video'));
+  const videos = Array.from(document.querySelectorAll('.hero-video'));
   if (videos.length) {
     let currentIndex = 0;
     let isTransitioning = false;
-    const transitionDuration = 1200;
+    const transitionDuration = 1200; // Debe coincidir con el transition de CSS
 
+    // Gestiona la transición opacidad entre dos videos
     function showVideo(index) {
       const prevIndex = currentIndex;
       currentIndex = index;
@@ -80,6 +90,7 @@ document.addEventListener('DOMContentLoaded', function () {
       }, transitionDuration);
     }
 
+    // Salta al siguiente video en el array
     function advanceVideo() {
       if (isTransitioning) return;
       isTransitioning = true;
@@ -87,6 +98,7 @@ document.addEventListener('DOMContentLoaded', function () {
       showVideo(nextIndex);
     }
 
+    // Eventos para detectar el final del video (con margen de seguridad de 1.3s para el crossfade)
     videos.forEach((video) => {
       video.addEventListener('timeupdate', function () {
         if (isTransitioning) return;
@@ -94,6 +106,7 @@ document.addEventListener('DOMContentLoaded', function () {
         advanceVideo();
       });
 
+      // Backup si timeupdate falla o el video es muy corto
       video.addEventListener('ended', advanceVideo);
     });
 
@@ -103,9 +116,8 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // ──────────────────────────────────────────────────────────
-  // 1.5 CONTACT VIDEO CROSSFADE — Loop infinito de videos de velas
-  // ──────────────────────────────────────────────────────────
+  // 4. CICLO DE VIDEO DE CONTACTO
+  // Nota: Mantiene lógica separada para permitir tiempos o comportamientos distintos al Hero.
   
   const contactVideos = Array.from(document.querySelectorAll('.contact-video'));
   if (contactVideos.length) {
@@ -159,19 +171,20 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // ──────────────────────────────────────────────────────────
-  // 2. HEADER SCROLL EFFECT — Cambio de estilos al bajar
-  // ──────────────────────────────────────────────────────────
+  // 5. EFECTOS DEL HEADER AL HACER SCROLL
+  // Cambia la opacidad y colores del menú según la posición del scroll.
   
   const header = document.getElementById('header');
   const hero = document.getElementById('hero');
 
   const langTrigger = document.getElementById('lang-dropdown-trigger');
 
+  // Cambia la apariencia del header (transparente -> sólido) al hacer scroll
   function updateHeaderScroll() {
     const scrolled = window.scrollY > 50;
     header.classList.toggle('scrolled', scrolled);
     if (langTrigger) {
+      // Ajuste dinámico de colores del selector de idioma según el fondo
       langTrigger.style.borderColor = scrolled ? 'rgba(160, 115, 50, 0.8)' : '';
       langTrigger.style.color = scrolled ? '#1a1410' : '';
     }
@@ -180,9 +193,7 @@ document.addEventListener('DOMContentLoaded', function () {
   window.addEventListener('scroll', updateHeaderScroll, { passive: true });
   updateHeaderScroll();
 
-  // ──────────────────────────────────────────────────────────
-  // 3. SCROLL REVEAL — Animación de elementos al bajar
-  // ──────────────────────────────────────────────────────────
+  // 6. ANIMACIONES DE REVEAL (Aparición gradual)
   
   const revealElements = document.querySelectorAll('.reveal, .reveal-left');
 
@@ -201,9 +212,7 @@ document.addEventListener('DOMContentLoaded', function () {
   window.addEventListener('scroll', revealOnScroll, { passive: true });
   revealOnScroll(); // Run on load
 
-  // ──────────────────────────────────────────────────────────
-  // 4. NAVIGATION ACTIVE LINK — Marcar link activo
-  // ──────────────────────────────────────────────────────────
+  // 7. INDICADOR DE SECCIÓN ACTIVA EN NAVEGACIÓN
   
   const navLinks = document.querySelectorAll('nav a');
 
@@ -230,9 +239,8 @@ document.addEventListener('DOMContentLoaded', function () {
   window.addEventListener('scroll', updateActiveLink, { passive: true });
   updateActiveLink();
 
-  // ──────────────────────────────────────────────────────────
-  // 5. MEDITATION QUOTE CYCLE — Rotación de citas por idioma
-  // ──────────────────────────────────────────────────────────
+  // 8. CICLO DE CITAS DE MEDITACIÓN
+  // Rotación automática de textos bíblicos con soporte multi-idioma.
 
   const meditInner = document.getElementById('meditacion-inner');
   const meditRef   = document.getElementById('meditacion-ref');
@@ -248,6 +256,7 @@ document.addEventListener('DOMContentLoaded', function () {
       return (t && t.meditacion && t.meditacion.quotes) ? t.meditacion.quotes : null;
     }
 
+    // Actualiza el DOM con la cita específica
     function showQuote(quotes, idx) {
       meditRef.textContent  = quotes[idx].ref;
       meditText.textContent = '“' + quotes[idx].text + '”';
@@ -270,8 +279,8 @@ document.addEventListener('DOMContentLoaded', function () {
       quoteTimer = setInterval(cycleQuote, 7000);
     }
 
-    // Restart cycle and update text immediately when language changes
     document.addEventListener('langChange', (e) => {
+      // Reinicia el ciclo al cambiar de idioma para mostrar la cita correcta de inmediato
       const quotes = getQuotes();
       if (!quotes) return;
       quoteIndex = 0;
@@ -282,12 +291,7 @@ document.addEventListener('DOMContentLoaded', function () {
     startCycle();
   }
 
-  // ──────────────────────────────────────────────────────────
-  // 6. CARD VIDEO PREVIEW — Hover sobre tarjetas de artículo
-  // ──────────────────────────────────────────────────────────
-  // ──────────────────────────────────────────────────────────
-  // 7. CONTACT FORM — Formspree AJAX
-  // ──────────────────────────────────────────────────────────
+  // 9. FORMULARIO DE CONTACTO (AJAX via Formspree)
   const contactForm    = document.getElementById('contact-form');
   const contactSuccess = document.getElementById('contact-success');
   const contactSubmit  = document.getElementById('contact-submit');
@@ -296,10 +300,11 @@ document.addEventListener('DOMContentLoaded', function () {
   if (contactForm && contactSuccess) {
     contactForm.addEventListener('submit', async function (e) {
       e.preventDefault();
-      contactSubmit.disabled = true;
+      contactSubmit.disabled = true; // Evita múltiples envíos
       contactSubmit.textContent = '...';
 
       try {
+        // Envío mediante Formspree
         const res = await fetch('https://formspree.io/f/xrejklra', {
           method: 'POST',
           headers: { 'Accept': 'application/json' },
@@ -312,6 +317,7 @@ document.addEventListener('DOMContentLoaded', function () {
           if (contactDesc) { contactDesc.style.display = 'none'; }
           contactSuccess.removeAttribute('hidden');
           contactSuccess.style.display = 'block';
+          // Scroll suave hacia el mensaje de éxito
           contactSuccess.scrollIntoView({ behavior: 'smooth', block: 'center' });
         } else {
           contactSubmit.disabled = false;
@@ -328,6 +334,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   const isTouchDevice = window.matchMedia('(hover: none)').matches;
 
+  // 10. INTERACTIVIDAD DE TARJETAS DE ARTÍCULO
   document.querySelectorAll('.article-card').forEach(card => {
     const vid  = card.querySelector('.card-bg-video');
     const link = card.querySelector('.article-link');
@@ -337,19 +344,17 @@ document.addEventListener('DOMContentLoaded', function () {
       card.addEventListener('mouseleave', () => { vid.pause(); vid.currentTime = 0; });
     }
 
+    // Hacer que toda la tarjeta sea clickable
+
     if (link) {
       card.style.cursor = 'pointer';
 
       const openCard = () => {
-        if (link.dataset.article && typeof window.openArticle === 'function') {
-          window.openArticle(link.dataset.article);
-        } else if (!link.dataset.article) {
-          window.location.href = link.href;
-        }
+        window.location.href = link.href;
       };
 
-      // iOS Safari no dispara click en elementos no interactivos;
-      // touchend es fiable y e.preventDefault() evita el click fantasma.
+      // Soporte para iOS Safari: 
+      // touchend es más fiable para elementos no interactivos nativamente.
       card.addEventListener('touchend', e => {
         if (e.target.closest('.article-link')) return;
         e.preventDefault();
@@ -362,11 +367,10 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
 
-  // ──────────────────────────────────────────────────────────
-  // 8. READING PROGRESS BAR — Solo en páginas de artículo
-  // ──────────────────────────────────────────────────────────
+  // 11. BARRA DE PROGRESO DE LECTURA
   const progressBar = document.getElementById('reading-progress');
   const articlePage = document.querySelector('.article-page');
+
   if (progressBar && articlePage) {
     window.addEventListener('scroll', () => {
       const start = articlePage.offsetTop;
@@ -377,9 +381,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }, { passive: true });
   }
 
-  // ──────────────────────────────────────────────────────────
-  // 9. SCROLL TO TOP — Aparece al bajar 400px
-  // ──────────────────────────────────────────────────────────
+  // 12. BOTÓN "VOLVER ARRIBA"
   const scrollTopBtn = document.getElementById('scroll-top');
   if (scrollTopBtn) {
     window.addEventListener('scroll', () => {

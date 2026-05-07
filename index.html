@@ -16,8 +16,11 @@
     <link rel="stylesheet" href="css/style.css?v=9">
 </head>
 <body>
+    <!-- 1. COMPONENTES GLOBALES -->
     <div id="preloader"><p class="preloader-logo">Fé y Razón</p></div>
     <button id="scroll-top" aria-label="Volver arriba">↑</button>
+
+    <!-- 2. NAVEGACIÓN PRINCIPAL -->
     <header id="header">
         <div class="container">
             <h1 class="logo" data-i18n="logo">Fé y Razón</h1>
@@ -29,6 +32,8 @@
                     <li><a href="#contacto" data-i18n="nav.contact">Contacto</a></li>
                 </ul>
             </nav>
+            
+            <!-- Selector de Idiomas -->
             <div class="lang-dropdown" id="lang-dropdown">
                 <button class="lang-dropdown-trigger" id="lang-dropdown-trigger" aria-haspopup="listbox" aria-expanded="false">
                     <img class="lang-flag-img" src="Recursos/Im%C3%A1genes/spain-flag-png-large.png.jpeg" alt="" width="20" height="14">
@@ -67,10 +72,12 @@
         </div>
     </header>
 
+    <!-- 3. CONTENIDO DE LA PÁGINA DE INICIO -->
     <div id="main-page-content">
+    
+    <!-- Sección Hero -->
     <section id="hero" class="hero">
         <div class="hero-video-wrap">
-            <!-- Videos para el banner animado -->
             <video class="hero-video active" src="Recursos/Videos/lectura01.mp4" muted autoplay playsinline preload="auto"></video>
             <video class="hero-video" src="Recursos/Videos/lectura02.mp4" muted playsinline preload="none"></video>
         </div>
@@ -94,6 +101,7 @@
     </section>
 
     <main>
+        <!-- Sección de Artículos (Grilla) -->
         <section id="temas" class="articles-section">
             <div class="articles-wrap">
                 <div class="sec-eye reveal">
@@ -103,6 +111,7 @@
                 <h2 class="section-title reveal" data-i18n="topics.title">Temas de Fe</h2>
                 <p class="articles-subtitle reveal" data-i18n="topics.subtitle">Argumentos sólidos para profundizar, comprender y defender la fe&nbsp;católica</p>
                 <div class="articles-grid">
+                    <!-- Tarjeta de Artículo -->
                     <article class="article-card reveal">
                         <video class="card-bg-video" src="Recursos/Videos/conf04.mp4" muted loop playsinline preload="none" tabindex="-1"></video>
                         <div class="article-header">
@@ -112,7 +121,7 @@
                         <p class="article-excerpt" data-i18n="article1.excerpt">El rol esencial del sacerdocio en la Iglesia católica y su importancia en la vida sacramental.</p>
                         <div class="article-footer">
                             <span class="read-time" data-i18n="article1.time">8 min lectura</span>
-                            <a href="#" class="article-link" data-article="sacerdocio" data-i18n="article1.link">Leer →</a>
+                            <a href="tema-sacerdocio.html" class="article-link" data-i18n="article1.link">Leer →</a>
                         </div>
                     </article>
                     <article class="article-card reveal">
@@ -124,7 +133,7 @@
                         <p class="article-excerpt" data-i18n="article2.excerpt">Razones fundamentales para creer en la fe católica y su coherencia con la razón humana.</p>
                         <div class="article-footer">
                             <span class="read-time" data-i18n="article2.time">12 min lectura</span>
-                            <a href="#" class="article-link" data-article="por-que-creemos" data-i18n="article2.link">Leer →</a>
+                            <a href="tema-por-que-creemos.html" class="article-link" data-i18n="article2.link">Leer →</a>
                         </div>
                     </article>
                     <article class="article-card reveal">
@@ -136,7 +145,7 @@
                         <p class="article-excerpt" data-i18n="article3.excerpt">El sacramento central de la Iglesia católica y su significado en la vida cristiana.</p>
                         <div class="article-footer">
                             <span class="read-time" data-i18n="article3.time">10 min lectura</span>
-                            <a href="#" class="article-link" data-article="la-eucaristia" data-i18n="article3.link">Leer →</a>
+                            <a href="tema-la-eucaristia.html" class="article-link" data-i18n="article3.link">Leer →</a>
                         </div>
                     </article>
                     <article class="article-card reveal">
@@ -148,7 +157,7 @@
                         <p class="article-excerpt" data-i18n="article4.excerpt">El cambio sustancial del pan y vino en el Cuerpo y Sangre de Cristo durante la Misa.</p>
                         <div class="article-footer">
                             <span class="read-time" data-i18n="article4.time">9 min lectura</span>
-                            <a href="#" class="article-link" data-article="transubstanciacion" data-i18n="article4.link">Leer →</a>
+                            <a href="tema-transubstanciacion.html" class="article-link" data-i18n="article4.link">Leer →</a>
                         </div>
                     </article>
                     <article class="article-card reveal">
@@ -160,7 +169,7 @@
                         <p class="article-excerpt" data-i18n="article5.excerpt">La importancia de los santos en la Iglesia católica y su intercesión por nosotros.</p>
                         <div class="article-footer">
                             <span class="read-time" data-i18n="article5.time">7 min lectura</span>
-                            <a href="#" class="article-link" data-article="los-santos" data-i18n="article5.link">Leer →</a>
+                            <a href="tema-los-santos.html" class="article-link" data-i18n="article5.link">Leer →</a>
                         </div>
                     </article>
                     <article class="article-card reveal">
@@ -172,7 +181,7 @@
                         <p class="article-excerpt" data-i18n="article6.excerpt">Comprendiendo el misterio central de la fe católica a través de la teología y la razón.</p>
                         <div class="article-footer">
                             <span class="read-time" data-i18n="article6.time">10 min lectura</span>
-                            <a href="#" class="article-link" data-article="la-santisima-trinidad" data-i18n="article6.link">Leer →</a>
+                            <a href="tema-la-santisima-trinidad.html" class="article-link" data-i18n="article6.link">Leer →</a>
                         </div>
                     </article>
                     <article class="article-card reveal">
@@ -184,7 +193,7 @@
                         <p class="article-excerpt" data-i18n="article7.excerpt">La purificación final antes de entrar en la presencia de Dios.</p>
                         <div class="article-footer">
                             <span class="read-time" data-i18n="article7.time">6 min lectura</span>
-                            <a href="#" class="article-link" data-article="el-purgatorio" data-i18n="article7.link">Leer →</a>
+                            <a href="tema-el-purgatorio.html" class="article-link" data-i18n="article7.link">Leer →</a>
                         </div>
                     </article>
                     <article class="article-card reveal">
@@ -196,7 +205,7 @@
                         <p class="article-excerpt" data-i18n="article8.excerpt">La ley de Cristo que reemplaza la Antigua Ley y guía a los cristianos.</p>
                         <div class="article-footer">
                             <span class="read-time" data-i18n="article8.time">8 min lectura</span>
-                            <a href="#" class="article-link" data-article="la-nueva-ley" data-i18n="article8.link">Leer →</a>
+                            <a href="tema-la-nueva-ley.html" class="article-link" data-i18n="article8.link">Leer →</a>
                         </div>
                     </article>
                     <article class="article-card reveal">
@@ -208,13 +217,14 @@
                         <p class="article-excerpt" data-i18n="article9.excerpt">Por qué tenemos un Papa: la sucesión apostólica y el primado de Pedro.</p>
                         <div class="article-footer">
                             <span class="read-time" data-i18n="article9.time">11 min lectura</span>
-                            <a href="#" class="article-link" data-article="la-primacia-de-pedro" data-i18n="article9.link">Leer →</a>
+                            <a href="tema-la-primacia-de-pedro.html" class="article-link" data-i18n="article9.link">Leer →</a>
                         </div>
                     </article>
                 </div>
             </div>
         </section>
 
+        <!-- Sección de Meditación (Citas rotativas) -->
         <section class="meditacion-section">
             <video class="meditacion-video" src="Recursos/Videos/crucifijo02.mp4" muted autoplay playsinline loop preload="auto"></video>
             <div class="meditacion-overlay"></div>
@@ -226,6 +236,7 @@
             </div>
         </section>
 
+        <!-- Sección Nuestra Misión -->
         <section id="mision" class="mission-section">
             <div class="mission-inner">
                 <h2 class="section-title reveal" data-i18n="mission.title">Nuestra Misión</h2>
@@ -249,6 +260,7 @@
             </div>
         </section>
 
+        <!-- Sección de Contacto -->
         <section id="contacto" class="contact-section">
             <div class="contact-video-wrap">
                 <video class="contact-video active" src="Recursos/Videos/velas01.mp4" muted autoplay playsinline loop preload="auto"></video>
@@ -284,32 +296,17 @@
     </main>
     </div><!-- #main-page-content -->
 
-    <div id="article-overlay" hidden>
-      <div id="overlay-reading-progress" role="progressbar" aria-label="Progreso de lectura"></div>
-      <section class="article-hero" id="overlay-hero-section">
-        <video class="hero-video active" id="ov-vid-1" muted playsinline loop preload="none"></video>
-        <video class="hero-video"        id="ov-vid-2" muted playsinline loop preload="none"></video>
-        <video class="hero-video"        id="ov-vid-3" muted playsinline loop preload="none"></video>
-        <div class="article-hero-inner" id="overlay-hero-content"></div>
-      </section>
-      <main class="article-page" id="overlay-article-page">
-        <div class="article-page-inner">
-          <article class="article-body" id="overlay-article-body"></article>
-          <div class="article-navigation" id="overlay-article-nav"></div>
-        </div>
-      </main>
-    </div><!-- #article-overlay -->
-
+    <!-- 4. PIE DE PÁGINA -->
     <footer>
         <p data-i18n="footer.text">&copy; 2024 Fé y Razón. Ad maiorem Dei gloriam.</p>
     </footer>
 
+    <!-- 6. SCRIPTS -->
     <script src="js/main.js" defer></script>
     <script src="js/translations-es.js" defer></script>
     <script src="js/translations-en.js" defer></script>
     <script src="js/translations-ja.js" defer></script>
     <script src="js/translations-tl.js" defer></script>
     <script src="js/translations.js" defer></script>
-    <script src="js/router.js" defer></script>
 </body>
 </html>
