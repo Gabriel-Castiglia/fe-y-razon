@@ -83,182 +83,325 @@
     </section>
 
     <style>
-      .recursos-page { padding: 5rem 1.5rem; background: var(--bg); }
-      .recursos-inner { max-width: 1100px; margin: 0 auto; }
-      .recursos-section { margin-bottom: 4rem; }
-      .recursos-section-header { margin-bottom: 2rem; }
-      .recursos-eyebrow {
-        display: flex; align-items: center; gap: 0.75rem;
-        font-family: 'Montserrat', sans-serif; font-size: 0.7rem;
-        letter-spacing: 0.18em; text-transform: uppercase;
-        color: var(--gold); margin-bottom: 0.6rem;
+      /* ── layout ── */
+      .rec-page { background: #f0ebe3; padding: 4rem 1.5rem 6rem; }
+      .rec-inner { max-width: 1140px; margin: 0 auto; display: flex; flex-direction: column; gap: 4.5rem; }
+
+      /* ── section label ── */
+      .rec-label {
+        display: flex; align-items: center; gap: .7rem;
+        font-family: 'Montserrat', sans-serif; font-size: .62rem;
+        letter-spacing: .2em; text-transform: uppercase;
+        color: var(--gold-dark); margin-bottom: 1.4rem;
       }
-      .recursos-eyebrow::before {
-        content: ''; display: block; width: 28px; height: 1px;
-        background: var(--gold);
+      .rec-label::before { content: ''; display: block; width: 30px; height: 1px; background: var(--gold-dark); }
+
+      /* ── VATICAN — cinematic banner ── */
+      .rec-vatican {
+        position: relative; border-radius: 16px; overflow: hidden;
+        height: 380px; display: flex; align-items: stretch;
+        box-shadow: 0 8px 40px rgba(0,0,0,.25);
       }
-      .recursos-section-header h2 {
-        font-family: 'Cinzel', serif; font-size: 1.5rem;
-        color: var(--dark); font-weight: 700;
-        margin: 0 0 0.4rem;
+      .rec-vatican > img {
+        position: absolute; inset: 0; width: 100%; height: 100%;
+        object-fit: cover; object-position: center 20%;
       }
-      .recursos-section-header p {
-        color: #666; font-size: 0.9rem; margin: 0;
+      .rec-vatican-overlay {
+        position: absolute; inset: 0;
+        background: linear-gradient(105deg, rgba(8,4,2,.88) 0%, rgba(8,4,2,.6) 55%, rgba(8,4,2,.15) 100%);
       }
-      .recursos-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-        gap: 1.5rem;
+      .rec-vatican-body {
+        position: relative; z-index: 1;
+        padding: 2.8rem 3.2rem; display: flex; flex-direction: column;
+        justify-content: center; max-width: 520px;
       }
-      .recurso-card {
-        border: 1px solid rgba(212,165,116,0.2);
-        border-radius: 10px; padding: 1.6rem;
-        display: flex; flex-direction: column; gap: 0.8rem;
-        background: #faf7f4;
-        transition: border-color 0.2s, box-shadow 0.2s;
+      .rec-vatican-eyebrow {
+        display: flex; align-items: center; gap: .6rem; margin-bottom: 1rem;
       }
-      .recurso-card:hover {
-        border-color: rgba(212,165,116,0.5);
-        box-shadow: 0 4px 20px rgba(212,165,116,0.12);
+      .rec-vatican-eyebrow img { width: 22px; height: 15px; object-fit: cover; border-radius: 2px; }
+      .rec-vatican-eyebrow span {
+        font-family: 'Montserrat', sans-serif; font-size: .6rem;
+        letter-spacing: .18em; text-transform: uppercase; color: var(--gold);
       }
-      .recurso-card-label {
-        font-family: 'Montserrat', sans-serif; font-size: 0.65rem;
-        letter-spacing: 0.15em; text-transform: uppercase;
-        color: var(--gold-dark); font-weight: 400;
+      .rec-vatican-body h2 {
+        font-family: 'Cinzel', serif; font-size: 2rem; color: #fff;
+        margin: 0 0 .65rem; font-weight: 700; line-height: 1.2;
       }
-      .recurso-card h3 {
-        font-family: 'Cinzel', serif; font-size: 0.95rem;
-        color: var(--dark); margin: 0; line-height: 1.4;
+      .rec-vatican-body p {
+        color: rgba(255,255,255,.68); font-size: .87rem;
+        line-height: 1.7; margin: 0 0 1.8rem;
       }
-      .recurso-card p {
-        font-size: 0.85rem; color: #555;
+      .rec-vatican-links { display: flex; flex-wrap: wrap; gap: .75rem; }
+      .rec-btn-gold {
+        font-family: 'Montserrat', sans-serif; font-size: .74rem; letter-spacing: .05em;
+        color: #1a1410; background: var(--gold); padding: .55rem 1.3rem;
+        border-radius: 6px; text-decoration: none; transition: background .2s; white-space: nowrap;
+      }
+      .rec-btn-gold:hover { background: var(--gold-light); }
+      .rec-btn-ghost {
+        font-family: 'Montserrat', sans-serif; font-size: .74rem; letter-spacing: .05em;
+        color: rgba(255,255,255,.82); border: 1px solid rgba(255,255,255,.3);
+        padding: .55rem 1.3rem; border-radius: 6px; text-decoration: none;
+        transition: border-color .2s, color .2s; white-space: nowrap;
+      }
+      .rec-btn-ghost:hover { border-color: var(--gold); color: var(--gold); }
+
+      /* ── PRIESTS — portrait cards ── */
+      .rec-priests { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; }
+      .rec-priest {
+        border-radius: 14px; overflow: hidden; background: #12100d;
+        display: flex; flex-direction: column;
+        box-shadow: 0 6px 30px rgba(0,0,0,.2);
+        transition: transform .25s, box-shadow .25s;
+      }
+      .rec-priest:hover { transform: translateY(-5px); box-shadow: 0 14px 44px rgba(0,0,0,.32); }
+      .rec-priest-photo {
+        position: relative; height: 270px; overflow: hidden; flex-shrink: 0;
+      }
+      .rec-priest-photo img {
+        width: 100%; height: 100%; object-fit: cover;
+        object-position: top center; display: block;
+        transition: transform .4s;
+      }
+      .rec-priest:hover .rec-priest-photo img { transform: scale(1.05); }
+      .rec-priest-photo::after {
+        content: ''; position: absolute; inset: 0;
+        background: linear-gradient(to bottom, transparent 35%, rgba(10,6,2,.95) 100%);
+      }
+      .rec-priest-country {
+        position: absolute; bottom: .9rem; left: 1.1rem; z-index: 1;
+        font-family: 'Montserrat', sans-serif; font-size: .58rem;
+        letter-spacing: .16em; text-transform: uppercase; color: var(--gold);
+      }
+      .rec-priest-body {
+        padding: 1.1rem 1.3rem 1.5rem;
+        display: flex; flex-direction: column; flex: 1; gap: .55rem;
+      }
+      .rec-priest-body h3 {
+        font-family: 'Cinzel', serif; font-size: .98rem;
+        color: #fff; margin: 0; line-height: 1.35;
+      }
+      .rec-priest-body p {
+        font-size: .8rem; color: rgba(255,255,255,.55);
         line-height: 1.65; margin: 0; flex: 1;
       }
-      .recurso-links {
-        display: flex; gap: 0.6rem; flex-wrap: wrap;
-        margin-top: 0.4rem;
+      .rec-priest-links { display: flex; gap: .5rem; flex-wrap: wrap; margin-top: .5rem; }
+      .rec-pill {
+        font-family: 'Montserrat', sans-serif; font-size: .68rem;
+        color: var(--gold); border: 1px solid rgba(212,165,116,.3);
+        padding: .3rem .75rem; border-radius: 20px;
+        text-decoration: none; transition: background .2s, color .2s; white-space: nowrap;
       }
-      .recurso-link {
-        font-size: 0.75rem; font-family: 'Montserrat', sans-serif;
-        color: var(--gold-dark); text-decoration: none;
-        border: 1px solid rgba(157,126,82,0.35);
-        padding: 0.3rem 0.8rem; border-radius: 4px;
-        transition: background 0.2s, color 0.2s;
-        white-space: nowrap;
+      .rec-pill:hover { background: var(--gold); color: #12100d; border-color: var(--gold); }
+
+      /* ── APOSTOLATES — media cards 2×2 ── */
+      .rec-apost { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem; }
+      .rec-apost-card {
+        border-radius: 14px; overflow: hidden; background: #fff;
+        display: flex; flex-direction: column;
+        box-shadow: 0 4px 20px rgba(0,0,0,.09);
+        transition: transform .25s, box-shadow .25s;
       }
-      .recurso-link:hover {
-        background: var(--gold-dark); color: #fff;
+      .rec-apost-card:hover { transform: translateY(-4px); box-shadow: 0 10px 36px rgba(0,0,0,.16); }
+      .rec-apost-photo {
+        position: relative; height: 210px; overflow: hidden; flex-shrink: 0;
       }
-      @media (max-width: 600px) {
-        .recursos-grid { grid-template-columns: 1fr; }
-        .recursos-page { padding: 3rem 1rem; }
+      .rec-apost-photo img {
+        width: 100%; height: 100%; object-fit: cover;
+        object-position: center; display: block;
+        transition: transform .4s;
+      }
+      .rec-apost-card:hover .rec-apost-photo img { transform: scale(1.04); }
+      .rec-apost-photo::after {
+        content: ''; position: absolute; inset: 0;
+        background: linear-gradient(to bottom, transparent 45%, rgba(8,4,2,.6) 100%);
+      }
+      .rec-apost-name {
+        position: absolute; bottom: .85rem; left: 1rem; z-index: 1;
+        font-family: 'Cinzel', serif; font-size: .9rem; color: #fff;
+        text-shadow: 0 1px 8px rgba(0,0,0,.7);
+      }
+      .rec-apost-body {
+        padding: 1.1rem 1.3rem 1.4rem;
+        display: flex; flex-direction: column; flex: 1; gap: .5rem;
+      }
+      .rec-apost-tag {
+        font-family: 'Montserrat', sans-serif; font-size: .6rem;
+        letter-spacing: .14em; text-transform: uppercase; color: var(--gold-dark);
+      }
+      .rec-apost-body p {
+        font-size: .82rem; color: #555; line-height: 1.62; margin: 0; flex: 1;
+      }
+      .rec-apost-links { display: flex; gap: .5rem; flex-wrap: wrap; margin-top: .5rem; }
+      .rec-apost-link {
+        font-family: 'Montserrat', sans-serif; font-size: .68rem;
+        color: var(--gold-dark); border: 1px solid rgba(157,126,82,.32);
+        padding: .3rem .8rem; border-radius: 4px;
+        text-decoration: none; transition: background .2s, color .2s; white-space: nowrap;
+      }
+      .rec-apost-link:hover { background: var(--gold-dark); color: #fff; }
+      /* EWTN: logo on dark bg */
+      .rec-apost-photo--logo {
+        background: #12100d; display: flex;
+        align-items: center; justify-content: center; padding: 2rem;
+      }
+      .rec-apost-photo--logo img {
+        width: auto; height: 72px; object-fit: contain;
+        filter: invert(1) brightness(1.8); transition: none;
+      }
+      .rec-apost-photo--logo::after { display: none; }
+
+      /* ── responsive ── */
+      @media (max-width: 860px) {
+        .rec-priests { grid-template-columns: 1fr; }
+        .rec-apost   { grid-template-columns: 1fr; }
+        .rec-vatican { height: auto; min-height: 320px; }
+        .rec-vatican-body { padding: 2rem 1.8rem; max-width: 100%; }
+        .rec-vatican-body h2 { font-size: 1.5rem; }
+      }
+      @media (max-width: 520px) {
+        .rec-page { padding: 2.5rem 1rem 4rem; }
+        .rec-priest-photo { height: 230px; }
       }
     </style>
 
-    <main class="recursos-page">
-      <div class="recursos-inner">
+    <main class="rec-page">
+      <div class="rec-inner">
 
-        <div class="recursos-section">
-          <div class="recursos-section-header">
-            <div class="recursos-eyebrow" data-i18n="topicPages.paginas-amigas.sec1.eyebrow">Santa Sede</div>
-            <h2 data-i18n="topicPages.paginas-amigas.sec1.title">Fuentes vaticanas</h2>
-            <p data-i18n="topicPages.paginas-amigas.sec1.desc">Documentos oficiales de la Iglesia, disponibles en el sitio de la Santa Sede.</p>
-          </div>
-          <div class="recursos-grid">
-            <div class="recurso-card">
-              <span class="recurso-card-label">Escritura</span>
-              <h3>Sagrada Escritura</h3>
-              <p>La Biblia online en el sitio oficial de la Santa Sede, disponible en múltiples idiomas.</p>
-              <div class="recurso-links">
-                <a href="https://www.vatican.va/archive/bible/index.htm" target="_blank" rel="noopener" class="recurso-link">Vatican.va →</a>
+        <!-- VATICANO -->
+        <div>
+          <div class="rec-label" data-i18n="topicPages.paginas-amigas.sec1.eyebrow">Santa Sede</div>
+          <div class="rec-vatican">
+            <img src="Recursos/Im%C3%A1genes/papa.jpg" alt="Papa León XIV">
+            <div class="rec-vatican-overlay"></div>
+            <div class="rec-vatican-body">
+              <div class="rec-vatican-eyebrow">
+                <img src="Recursos/Im%C3%A1genes/vatican-city-flag-png-large.png.jpeg" alt="">
+                <span data-i18n="topicPages.paginas-amigas.sec1.title">Fuentes vaticanas</span>
               </div>
-            </div>
-            <div class="recurso-card">
-              <span class="recurso-card-label">Doctrina</span>
-              <h3>Catecismo de la Iglesia Católica</h3>
-              <p>El catecismo oficial de la Iglesia, referencia fundamental para la fe y la moral católica.</p>
-              <div class="recurso-links">
-                <a href="https://www.vatican.va/archive/catechism_sp/index_sp.html" target="_blank" rel="noopener" class="recurso-link">Vatican.va →</a>
+              <h2>Vatican.va</h2>
+              <p data-i18n="topicPages.paginas-amigas.sec1.desc">Documentos oficiales de la Iglesia, disponibles en el sitio de la Santa Sede.</p>
+              <div class="rec-vatican-links">
+                <a href="https://www.vatican.va/archive/bible/index.htm" target="_blank" rel="noopener" class="rec-btn-gold">Sagrada Escritura →</a>
+                <a href="https://www.vatican.va/archive/catechism_sp/index_sp.html" target="_blank" rel="noopener" class="rec-btn-ghost">Catecismo →</a>
               </div>
             </div>
           </div>
         </div>
 
-        <div class="recursos-section">
-          <div class="recursos-section-header">
-            <div class="recursos-eyebrow" data-i18n="topicPages.paginas-amigas.sec2.eyebrow">Apologética · Formación</div>
-            <h2 data-i18n="topicPages.paginas-amigas.sec2.title">Sacerdotes y formadores</h2>
-            <p data-i18n="topicPages.paginas-amigas.sec2.desc">Voces fieles al Magisterio que enseñan, defienden y proclaman la fe con profundidad y rigor.</p>
-          </div>
-          <div class="recursos-grid">
-            <div class="recurso-card">
-              <span class="recurso-card-label">Venezuela</span>
-              <h3>Padre Luis Toro</h3>
-              <p>Apóstol del Rosario y de la devoción mariana. Formación sólida, directa y fiel al Magisterio.</p>
-              <div class="recurso-links">
-                <a href="https://www.youtube.com/@padreluistoro" target="_blank" rel="noopener" class="recurso-link">YouTube →</a>
+        <!-- SACERDOTES -->
+        <div>
+          <div class="rec-label" data-i18n="topicPages.paginas-amigas.sec2.eyebrow">Apologética · Formación</div>
+          <div class="rec-priests">
+
+            <div class="rec-priest">
+              <div class="rec-priest-photo">
+                <img src="Recursos/Im%C3%A1genes/toro.jpg" alt="Padre Luis Toro">
+                <span class="rec-priest-country">Venezuela</span>
+              </div>
+              <div class="rec-priest-body">
+                <h3>Padre Luis Toro</h3>
+                <p>Apóstol del Rosario y de la devoción mariana. Formación sólida, directa y fiel al Magisterio.</p>
+                <div class="rec-priest-links">
+                  <a href="https://www.youtube.com/@padreluistoro" target="_blank" rel="noopener" class="rec-pill">YouTube →</a>
+                </div>
               </div>
             </div>
-            <div class="recurso-card">
-              <span class="recurso-card-label">México</span>
-              <h3>Padre José de Jesús Aguilar</h3>
-              <p>Profundos conocimientos teológicos y apologéticos. Excelente para responder dudas y objeciones a la fe.</p>
-              <div class="recurso-links">
-                <a href="https://www.youtube.com/channel/UCM-59ocZZjJTUcqf9dZL1jg" target="_blank" rel="noopener" class="recurso-link">YouTube →</a>
+
+            <div class="rec-priest">
+              <div class="rec-priest-photo">
+                <img src="Recursos/Im%C3%A1genes/padreaguilar.jpg" alt="Padre José de Jesús Aguilar">
+                <span class="rec-priest-country">México</span>
+              </div>
+              <div class="rec-priest-body">
+                <h3>Padre José de Jesús Aguilar</h3>
+                <p>Teólogo y apologeta. Responde con profundidad las objeciones más difíciles a la fe católica.</p>
+                <div class="rec-priest-links">
+                  <a href="https://www.youtube.com/channel/UCM-59ocZZjJTUcqf9dZL1jg" target="_blank" rel="noopener" class="rec-pill">YouTube →</a>
+                </div>
               </div>
             </div>
-            <div class="recurso-card">
-              <span class="recurso-card-label">Argentina · QNTLC</span>
-              <h3>Padre Javier Olivera Ravasi</h3>
-              <p>Sacerdote agustino, historiador y apologeta. Aborda el racionalismo, las sectas y los errores modernos con rigor histórico y teológico.</p>
-              <div class="recurso-links">
-                <a href="https://www.youtube.com/@QNTLC" target="_blank" rel="noopener" class="recurso-link">YouTube →</a>
-                <a href="https://www.quenotelacuenten.org/" target="_blank" rel="noopener" class="recurso-link">Sitio web →</a>
+
+            <div class="rec-priest">
+              <div class="rec-priest-photo">
+                <img src="Recursos/Im%C3%A1genes/qntlc.jpg" alt="Padre Javier Olivera Ravasi">
+                <span class="rec-priest-country">Argentina · QNTLC</span>
+              </div>
+              <div class="rec-priest-body">
+                <h3>P. Javier Olivera Ravasi</h3>
+                <p>Historiador y apologeta agustino. Aborda el racionalismo, las sectas y los errores modernos con rigor.</p>
+                <div class="rec-priest-links">
+                  <a href="https://www.youtube.com/@QNTLC" target="_blank" rel="noopener" class="rec-pill">YouTube →</a>
+                  <a href="https://www.quenotelacuenten.org/" target="_blank" rel="noopener" class="rec-pill">Sitio web →</a>
+                </div>
               </div>
             </div>
+
           </div>
         </div>
 
-        <div class="recursos-section">
-          <div class="recursos-section-header">
-            <div class="recursos-eyebrow" data-i18n="topicPages.paginas-amigas.sec3.eyebrow">Apostolados · Medios</div>
-            <h2 data-i18n="topicPages.paginas-amigas.sec3.title">Apostolados y medios católicos</h2>
-          </div>
-          <div class="recursos-grid">
-            <div class="recurso-card">
-              <span class="recurso-card-label">Ecuador</span>
-              <h3>Heraldos del Evangelio</h3>
-              <p>Apostolado misionero con presencia en Ecuador. Formación, catequesis y evangelización fiel a la Tradición.</p>
-              <div class="recurso-links">
-                <a href="https://www.youtube.com/@HeraldosdelEvangelio-Ecuador" target="_blank" rel="noopener" class="recurso-link">YouTube →</a>
-                <a href="https://caballerosdelavirgenecuador.com/" target="_blank" rel="noopener" class="recurso-link">Sitio web →</a>
+        <!-- APOSTOLADOS -->
+        <div>
+          <div class="rec-label" data-i18n="topicPages.paginas-amigas.sec3.eyebrow">Apostolados · Medios</div>
+          <div class="rec-apost">
+
+            <div class="rec-apost-card">
+              <div class="rec-apost-photo">
+                <img src="Recursos/Im%C3%A1genes/heraldos.jpg" alt="Heraldos del Evangelio" style="object-position: center top;">
+                <span class="rec-apost-name">Heraldos del Evangelio</span>
+              </div>
+              <div class="rec-apost-body">
+                <span class="rec-apost-tag">Ecuador</span>
+                <p>Apostolado misionero con presencia en Ecuador. Formación, catequesis y evangelización fiel a la Tradición.</p>
+                <div class="rec-apost-links">
+                  <a href="https://www.youtube.com/@HeraldosdelEvangelio-Ecuador" target="_blank" rel="noopener" class="rec-apost-link">YouTube →</a>
+                  <a href="https://caballerosdelavirgenecuador.com/" target="_blank" rel="noopener" class="rec-apost-link">Sitio web →</a>
+                </div>
               </div>
             </div>
-            <div class="recurso-card">
-              <span class="recurso-card-label">Estados Unidos</span>
-              <h3>Rugged Rosaries</h3>
-              <p>Confecciona y distribuye rosarios resistentes para militares, misioneros y todo fiel que quiera portar el Rosario con dignidad.</p>
-              <div class="recurso-links">
-                <a href="https://ruggedrosaries.com/" target="_blank" rel="noopener" class="recurso-link">Sitio web →</a>
+
+            <div class="rec-apost-card">
+              <div class="rec-apost-photo">
+                <img src="Recursos/Im%C3%A1genes/RRosa.jpg" alt="Rugged Rosaries">
+                <span class="rec-apost-name">Rugged Rosaries</span>
+              </div>
+              <div class="rec-apost-body">
+                <span class="rec-apost-tag">Estados Unidos</span>
+                <p>Rosarios resistentes para militares, misioneros y todo fiel que desee portar el Rosario con dignidad.</p>
+                <div class="rec-apost-links">
+                  <a href="https://ruggedrosaries.com/" target="_blank" rel="noopener" class="rec-apost-link">Sitio web →</a>
+                </div>
               </div>
             </div>
-            <div class="recurso-card">
-              <span class="recurso-card-label">Biblia · Formación</span>
-              <h3>Ascension — The Great Adventure</h3>
-              <p>Metodología cronológica de Jeff Cavins para estudiar la Biblia. <em>Bible Timeline</em> y cursos de formación con la Biblia de Jerusalén.</p>
-              <div class="recurso-links">
-                <a href="https://ascensionpress.com/collections/the-great-adventure-bible" target="_blank" rel="noopener" class="recurso-link">Great Adventure →</a>
-                <a href="https://www.bookdelivery.com/jp-en/book-the-great-adventure-la-gran-aventura-de-la-biblia-de-jerusalen/9788433031075/p/53112550" target="_blank" rel="noopener" class="recurso-link">En español →</a>
+
+            <div class="rec-apost-card">
+              <div class="rec-apost-photo">
+                <img src="Recursos/Im%C3%A1genes/grat.jpg" alt="The Great Adventure Bible" style="object-position: top center;">
+                <span class="rec-apost-name">The Great Adventure</span>
+              </div>
+              <div class="rec-apost-body">
+                <span class="rec-apost-tag">Biblia · Formación</span>
+                <p>Metodología cronológica de Jeff Cavins para estudiar la Biblia. <em>Bible Timeline</em> con la Biblia de Jerusalén.</p>
+                <div class="rec-apost-links">
+                  <a href="https://ascensionpress.com/collections/the-great-adventure-bible" target="_blank" rel="noopener" class="rec-apost-link">Great Adventure →</a>
+                  <a href="https://www.bookdelivery.com/jp-en/book-the-great-adventure-la-gran-aventura-de-la-biblia-de-jerusalen/9788433031075/p/53112550" target="_blank" rel="noopener" class="rec-apost-link">En español →</a>
+                </div>
               </div>
             </div>
-            <div class="recurso-card">
-              <span class="recurso-card-label">Televisión · Radio</span>
-              <h3>EWTN</h3>
-              <p>La red de televisión católica más grande del mundo. Misa diaria, Santo Rosario, documentales y formación las 24 horas.</p>
-              <div class="recurso-links">
-                <a href="https://www.ewtn.com/" target="_blank" rel="noopener" class="recurso-link">Sitio web →</a>
+
+            <div class="rec-apost-card">
+              <div class="rec-apost-photo rec-apost-photo--logo">
+                <img src="Recursos/Im%C3%A1genes/ewtn.jpg" alt="EWTN">
+              </div>
+              <div class="rec-apost-body">
+                <span class="rec-apost-tag">Televisión · Radio</span>
+                <p>La red de televisión católica más grande del mundo. Misa diaria, Santo Rosario, documentales y formación las 24 horas.</p>
+                <div class="rec-apost-links">
+                  <a href="https://www.ewtn.com/" target="_blank" rel="noopener" class="rec-apost-link">Sitio web →</a>
+                </div>
               </div>
             </div>
+
           </div>
         </div>
 
