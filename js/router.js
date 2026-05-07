@@ -146,7 +146,7 @@ function runOverlayReveal() {
  * Abre un artículo, inyecta su contenido y activa su fondo de video.
  * @param {string} slug - ID del tema a mostrar.
  */
-function showArticle(slug) {
+function showArticle(slug, skipHistory = false) {
   const cfg = ARTICLES[slug];
   if (!cfg) return;
   const tp = translations[currentLang].topicPages;
@@ -154,6 +154,8 @@ function showArticle(slug) {
   if (!t) return;
 
   currentSlug = slug;
+  if (!skipHistory) history.pushState({ article: slug }, '', '#' + slug);
+
 
   // 5a. Configuración de recursos visuales
   stopOverlayVideos();
@@ -198,7 +200,7 @@ function showArticle(slug) {
 /**
  * Cierra el artículo abierto y vuelve a la página de inicio.
  */
-function hideArticle() {
+function hideArticle(skipHistory = false) {
   stopOverlayVideos();
 
   const overlay     = document.getElementById('article-overlay');
@@ -209,6 +211,8 @@ function hideArticle() {
   document.getElementById('header').classList.remove('hero-mode');
   document.title = 'Fé y Razón | Apologética Católica';
   currentSlug = null;
+  if (!skipHistory) history.pushState(null, '', location.pathname);
+
 }
 
 // Exponer globalmente para ser invocado desde main.js u otros scripts
@@ -284,5 +288,14 @@ document.addEventListener('DOMContentLoaded', () => {
     const pct = Math.min(Math.max(((window.scrollY - start) / height) * 100, 0), 100);
     bar.style.width = pct + '%';
   }, { passive: true });
+
+    // Soporte para botón Atrás del navegador
+  window.addEventListener('popstate', e => {
+    if (e.state && e.state.article) {
+      showArticle(e.state.article, true);
+    } else {
+      hideArticle(true);
+    }
+  });
 
 });
