@@ -5,19 +5,19 @@ const translationsEN = {
     topics: "Topics",
     mission: "Mission",
     contact: "Contact",
-    usefulPages: "Friendly Pages"
+    usefulPages: "Recommended Resources"
   },
   hero: {
     eyebrow: "Welcome",
     title: "Learn and defend<br>your <em>Catholic faith</em>",
-    desc: "Solid apologetic arguments to understand, live and share the Catholic faith with conviction and wisdom.",
+    desc: "Solid apologetic arguments to understand, live, and share the Catholic faith with conviction and wisdom.",
     btn1: "Explore articles",
     btn2: "Our mission"
   },
   topics: {
     eyebrow: "Apologetic Catechesis",
     title: "Faith Topics",
-    subtitle: "Solid arguments to deepen, understand and defend the Catholic&nbsp;faith"
+    subtitle: "Solid arguments to deepen, understand, and defend the Catholic&nbsp;faith"
   },
   article1: {
     category: "Doctrine",
@@ -94,7 +94,7 @@ const translationsEN = {
   article10: {
     category: "Resources",
     date: "May 2026",
-    title: "Friendly Pages",
+    title: "Recommended Resources",
     excerpt: "A selection of Catholic resources to deepen your faith and formation.",
     time: "5 min read",
     link: "Explore →"
@@ -103,7 +103,7 @@ const translationsEN = {
     title: "Our Mission",
     teach: {
       title: "Teach",
-      desc: "Deepen Catholic doctrine with solid arguments based on Sacred Scripture, the magisterium of the Church and reason."
+      desc: "Deepen Catholic doctrine with solid arguments based on Sacred Scripture, the Magisterium of the Church, and reason."
     },
     illuminate: {
       title: "Illuminate",
@@ -111,7 +111,7 @@ const translationsEN = {
     },
     defend: {
       title: "Defend",
-      desc: "Offer apologetic arguments to understand and defend the Catholic faith against objections, doubts and all types of modern heresies, sects and anti-Catholic currents."
+      desc: "Offer apologetic arguments to understand and defend the Catholic faith against objections, doubts and all types of modern heresies, sects, and anti-Catholic currents."
     }
   },
   contact: {
@@ -492,18 +492,18 @@ const translationsEN = {
         nextTitle: "The Saints and Their Intercession"
       }
     },
-    "paginas-utiles": {
-      pageTitle: "Friendly Pages | Faith and Reason",
+    "paginas-amigas": {
+      pageTitle: "Recommended Resources | Faith and Reason",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Resources</span>
             </div>
-            <h1>Friendly Pages</h1>
-            <p>Explore a selection of Catholic resources to deepen your faith and formation.</p>
-            <div class="article-meta">
-                <span>Updated May 2026</span>
-            </div>
+            <h1>Recommended Resources</h1>
+            <p>Trusted sources for deepening, learning, and sharing the Catholic faith.</p>
             <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
+      sec1: { eyebrow: "Holy See", title: "Vatican Sources", desc: "Official Church documents, available on the Holy See\'s website." },
+      sec2: { eyebrow: "Apologetics · Formation", title: "Priests and Educators", desc: "Voices faithful to the Magisterium who teach, defend, and proclaim the faith with depth and rigor." },
+      sec3: { eyebrow: "Apostolates · Media", title: "Apostolates and Catholic Media" },
       article: `<h2>Vatican</h2>
                 <p>The official website of the Holy See, where you can find the Bible, the Catechism of the Catholic Church, papal documents, and much more.</p>
                 <ul>

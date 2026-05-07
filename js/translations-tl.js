@@ -5,7 +5,7 @@ const translationsTL = {
     topics: "Mga Paksa",
     mission: "Misyon",
     contact: "Makipag-ugnayan",
-    usefulPages: "Mga Kaibigan na Pahina"
+    usefulPages: "Mga Inirerekomendang Link"
   },
   hero: {
     eyebrow: "Maligayang pagdating",
@@ -94,7 +94,7 @@ const translationsTL = {
   article10: {
     category: "Mga Pinagkukunan",
     date: "Mayo 2026",
-    title: "Mga Kaibigan na Pahina",
+    title: "Mga Inirerekomendang Link",
     excerpt: "Isang seleksyon ng mga Katolikong mapagkukunan upang palalimin ang iyong pananampalataya at pormasyon.",
     time: "5 minuto",
     link: "Galugarin →"
@@ -490,7 +490,18 @@ const translationsTL = {
       nav: {
         prevTitle: "Ang Eukaristiya: ang Sentral na Sakramento",
         nextTitle: "Ang mga Santo at ang Kanilang Pamamagitan"
-      }
+    "paginas-amigas": {
+      pageTitle: "Mga Inirerekomendang Link | Pananampalataya at Dahilan",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Mga Mapagkukunan</span>
+            </div>
+            <h1>Mga Inirerekomendang Link</h1>
+            <p>Mga pinagkakatiwalaang pinagkukunan para sa pagpapalalim, pag-aaral, at pagbabahagi ng Katolikong pananampalataya.</p>
+            <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
+      sec1: { eyebrow: "Banal na Luklukan", title: "Mga Mapagkukunan ng Vaticano", desc: "Mga opisyal na dokumento ng Simbahan, available sa website ng Holy See." },
+      sec2: { eyebrow: "Apologetika · Pormasyon", title: "Mga Pari at Tagapagturo", desc: "Mga tinig na tapat sa Magisterium na nagtuturo, nagtatanggol, at nagpapahayag ng pananampalataya nang may kalaliman at kahusayan." },
+      sec3: { eyebrow: "Mga Apostolado · Media", title: "Mga Apostolado at Katolikong Media" }
     },
   },
   provisional: {
