@@ -10,7 +10,7 @@ const translationsES = {
     topics: "Temas",
     mission: "Misión",
     contact: "Contacto",
-    usefulPages: "Páginas amigas"
+    usefulPages: "Recursos recomendados"
   },
   hero: {
     eyebrow: "Bienvenido",
@@ -99,7 +99,7 @@ const translationsES = {
   article10: {
     category: "Recursos",
     date: "Mayo 2026",
-    title: "Páginas amigas",
+    title: "Recursos recomendados",
     excerpt: "Una selección de recursos católicos para profundizar en tu fe y formación.",
     time: "5 min lectura",
     link: "Explorar →"
@@ -500,12 +500,12 @@ const translationsES = {
       }
     },
     "paginas-amigas": {
-      pageTitle: "Páginas amigas | Fé y Razón",
+      pageTitle: "Recursos recomendados | Fé y Razón",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
                 <span class="eyebrow-text">Recursos</span>
             </div>
-            <h1>Páginas amigas</h1>
+            <h1>Recursos recomendados</h1>
             <p>Fuentes de confianza para profundizar, formarse y compartir la fe católica.</p>
             <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
       sec1: { eyebrow: "Santa Sede", title: "Fuentes vaticanas", desc: "Documentos oficiales de la Iglesia, disponibles en el sitio de la Santa Sede." },
