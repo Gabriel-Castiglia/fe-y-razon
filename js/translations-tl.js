@@ -504,21 +504,73 @@ const translationsTL = {
       sec1: { eyebrow: "Banal na Luklukan", title: "Mga Mapagkukunan ng Vaticano", desc: "Mga opisyal na dokumento ng Simbahan, available sa website ng Holy See." },
       sec2: {
         eyebrow: "Apologetika · Pormasyon", title: "Mga Pari at Tagapagturo", desc: "Mga tinig na tapat sa Magisterium na nagtuturo, nagtatanggol, at nagpapahayag ng pananampalataya nang may kalaliman at kahusayan.",
-        toro:    { desc: "Apostol ng Rosaryo at debosyong Marian. Matibay, direkta, at tapat sa Magisterium na pagpapalakas ng pananampalataya." },
-        aguilar: { desc: "Teologo at apologista. Tinatawid ang pinakamahirap na pagtutol sa Katolikong pananampalataya nang may kalaliman." },
+        toro:    { desc: "Teologo at apologista. Tinatawid ang pinakamahirap na pagtutol sa Katolikong pananampalataya nang may kalaliman." },
+        aguilar: { desc: "Matibay, direkta, at tapat sa Magisterium na pagpapalakas ng pananampalataya. Mga vlog ng paglalakbay sa Banal na Lupain at mga klase sa Biblia." },
         olivera: { desc: "Augustinianong istoryador at apologista. Tinatawid ang rasyonalismo, mga sekta, at modernong kamalian nang may kahusayan." }
       },
       sec3: {
         eyebrow: "Mga Apostolado · Media", title: "Mga Apostolado at Katolikong Media",
-        heraldos: { desc: "Misyonaryong apostolado na naroroon sa Ecuador. Pagpapalakas ng pananampalataya, katekesis, at ebanghelisasyon na tapat sa Tradisyon." },
-        rugged:   { desc: "Matibay na mga rosaryo para sa militar, misyonero, at bawat mananampalataya na nagnanais magdala ng Rosaryo nang may dignidad.", tag: "Estados Unidos" },
-        grat:     { desc: "Pamamaraan ni Jeff Cavins na kronolohikal para sa pag-aaral ng Biblia. <em>Bible Timeline</em> kasama ang Jerusalem Bible.", tag: "Biblia · Pormasyon" },
+        heraldos: { desc: "Misyonaryong apostolado. Pagpapalakas ng pananampalataya, katekesis, at ebanghelisasyon na tapat sa Tradisyon." },
+        rugged:   { desc: "Magagandang gawa sa kamay na mga rosaryo at iba't ibang mataas na kalidad na artikulo ng pananampalataya na may internasyonal na pagpapadala.", tag: "Estados Unidos" },
+        grat:     { desc: "Biblia ng Jerusalem sa Ingles o Latin American Spanish (para sa ibang wika tingnan ang opisyal na pahina). May natatanging plano ng pag-aaral na naglalaman ng hakbang-hakbang na paliwanag at mga grapiko, perpekto para sa mga baguhan.", tag: "Biblia · Pormasyon" },
         ewtn:     { desc: "Ang pinakamalaking Katolikong television network sa mundo. Araw-araw na Misa, Banal na Rosaryo, mga dokumentaryo, at pagpapalakas ng pananampalataya nang 24 na oras.", tag: "Telebisyon · Radyo" }
+      }
+      ,
+      article: `<h2>Vaticano</h2>
+                <p>Ang opisyal na website ng Banal na Luklukan, kung saan makikita mo ang Biblia, ang Katesismo ng Simbahang Katoliko, mga dokumento ng papa, at marami pang iba.</p>
+                <ul>
+                    <li><a href="https://www.vatican.va/content/vatican/en.html" target="_blank">Opisyal na Website ng Vaticano</a></li>
+                    <li><a href="https://www.vatican.va/archive/ENG0015/_INDEX.HTM" target="_blank">Katesismo ng Simbahang Katoliko (Ingles)</a></li>
+                </ul>
+
+                <h2>Apologetika at Pormasyon</h2>
+                <h3>Padre Luis Toro</h3>
+                <p>Kilala sa kanyang mga kumperensya at debateng apologetiko, si Padre Luis Toro ay nag-aalok ng matibay na pagtatanggol sa pananampalatayang Katoliko.</p>
+                <ul>
+                    <li><a href="https://www.youtube.com/@PadreLuisToroOficial" target="_blank">Opisyal na YouTube Channel ni Padre Luis Toro</a></li>
+                </ul>
+
+                <h3>Padre José de Jesús Aguilar</h3>
+                <p>Pari at tagapagbalita, si Padre José de Jesús Aguilar ay nagbabahagi ng mga pagninilay at aral ng Katoliko.</p>
+                <ul>
+                    <li><a href="https://www.youtube.com/@PadreJosedeJesusAguilar" target="_blank">YouTube Channel ni Padre José de Jesús Aguilar</a></li>
+                </ul>
+
+                <h3>Heraldos del Evangelio Ecuador</h3>
+                <p>Isang asosasyon ng mga tapat sa karapatang pontipikal na naglalayong magpakabanal ang mga miyembro nito at mag-ebanghelyo.</p>
+                <ul>
+                    <li><a href="https://heraldosdelevangelio.ec/" target="_blank">Opisyal na Website ng Heraldos del Evangelio Ecuador</a></li>
+                </ul>
+
+                <h3>Que No Te La Cuenten</h3>
+                <p>Platapormang nakatuon sa apologetikong Katoliko, nagpapasinungaling sa mga mito at nag-aalok ng pormasyon.</p>
+                <ul>
+                    <li><a href="https://quenotelacuenten.org/" target="_blank">Opisyal na Website ng Que No Te La Cuenten</a></li>
+                    <li><a href="https://www.youtube.com/@quenotelacuenten" target="_blank">YouTube Channel ng Que No Te La Cuenten</a></li>
+                </ul>
+
+                <h2>Mga Mapagkukunan para sa Panalangin at Pag-aaral ng Biblia</h2>
+                <h3>Rough Rosaries</h3>
+                <p>Paggawa ng matitibay at matatagal na rosaryo, inspirasyon ng tradisyong militar at pananampalataya.</p>
+                <ul>
+                    <li><a href="https://roughrosaries.com/" target="_blank">Opisyal na Website ng Rough Rosaries</a></li>
+                </ul>
+
+                <h3>Ascension Presents</h3>
+                <p>Isang Katolikong publisher na nag-aalok ng mga mapagkukunan para sa pormasyon, kabilang ang sikat na seryeng "Bible in a Year" kasama si Padre Mike Schmitz at "The Great Adventure Catholic Bible".</p>
+                <ul>
+                    <li><a href="https://ascensionpress.com/collections/the-great-adventure-catholic-bible" target="_blank">The Great Adventure Catholic Bible</a></li>
+                    <li><a href="https://ascensionpress.com/pages/biy-registration" target="_blank">The Bible in a Year (Podcast)</a></li>
+                </ul>`,
+      nav: {
+        prevTitle: "Ang Pangunguna ni Pedro",
+        nextTitle: "Ang Pagkasaserdote sa Simbahang Katoliko"
       }
     },
   },
   provisional: {
-    notice: "⚠ Ang artikulong ito ay kasalukuyang isinusulat. Ang kasalukuyang nilalaman ay pansamantala at papalitan ng panghuling teksto sa lalong madaling panahon."
+    notice: "⚠ Ang artikulong ito ay kasalukuyang isinusulat. Ang kasalukuyang nilalaman ay pansamantala at papalitan ng panghuling teksto sa lalong madaling panahon.",
+    preliminaryWarning: "Ang artikulong ito ay paunang-pauna, ang apologetikong nilalaman ay ilalathala sa lalong madaling panahon"
   },
   meditacion: {
     quotes: [
