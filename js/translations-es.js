@@ -499,7 +499,7 @@ const translationsES = {
         nextTitle: "Los santos y su intercesión"
       }
     },
-    "paginas-amigas": {
+    "recursos-recomendados": {
       pageTitle: "Recursos recomendados | Fé y Razón",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>

@@ -402,7 +402,7 @@ const translationsDA = {
         nextTitle: "Præstedømmet i den katolske kirke"
       }
     },
-    "paginas-amigas": {
+    "recursos-recomendados": {
       pageTitle: "Venlige Sider | Tro og Fornuft",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>

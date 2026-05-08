@@ -492,7 +492,7 @@ const translationsTL = {
         nextTitle: "Ang mga Santo at ang Kanilang Pamamagitan"
       }
     },
-    "paginas-amigas": {
+    "recursos-recomendados": {
       pageTitle: "Mga Inirerekomendang Link | Pananampalataya at Dahilan",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
