@@ -504,15 +504,15 @@ const translationsEN = {
       sec1: { eyebrow: "Holy See", title: "Vatican Sources", desc: "Official Church documents, available on the Holy See\'s website." },
       sec2: {
         eyebrow: "Apologetics · Formation", title: "Priests and Educators", desc: "Voices faithful to the Magisterium who teach, defend, and proclaim the faith with depth and rigor.",
-        toro:    { desc: "Apostle of the Rosary and Marian devotion. Solid, direct formation faithful to the Magisterium." },
-        aguilar: { desc: "Theologian and apologist. He answers the most difficult objections to the Catholic faith with great depth." },
+        toro:    { desc: "Theologian and apologist. He answers the most difficult objections to the Catholic faith with great depth." },
+        aguilar: { desc: "Solid, direct formation faithful to the Magisterium. Vlogs of travels through the Holy Land and Bible classes." },
         olivera: { desc: "Augustinian historian and apologist. He tackles rationalism, sects, and modern errors with rigor." }
       },
       sec3: {
         eyebrow: "Apostolates · Media", title: "Apostolates and Catholic Media",
-        heraldos: { desc: "Missionary apostolate present in Ecuador. Formation, catechesis, and evangelization faithful to Tradition." },
-        rugged:   { desc: "Rugged rosaries for military, missionaries, and every faithful person who wishes to carry the Rosary with dignity.", tag: "United States" },
-        grat:     { desc: "Jeff Cavins' chronological method for studying the Bible. <em>Bible Timeline</em> with the Jerusalem Bible.", tag: "Bible · Formation" },
+        heraldos: { desc: "Missionary apostolate. Formation, catechesis, and evangelization faithful to Tradition." },
+        rugged:   { desc: "Beautiful handmade rosaries and various high-quality faith articles with international shipping.", tag: "United States" },
+        grat:     { desc: "Jerusalem Bible in English or Latin American Spanish (for other languages check the official page). With unique study plan containing step-by-step explanations and graphics, ideal for neophytes.", tag: "Bible · Formation" },
         ewtn:     { desc: "The world's largest Catholic television network. Daily Mass, Holy Rosary, documentaries, and formation 24 hours a day.", tag: "Television · Radio" }
       },
       article: `<h2>Vatican</h2>
@@ -568,7 +568,8 @@ const translationsEN = {
     }
   },
   provisional: {
-    notice: "⚠ This article is being written. The current content is provisional and will be replaced soon with the definitive text."
+    notice: "⚠ This article is being written. The current content is provisional and will be replaced soon with the definitive text.",
+    preliminaryWarning: "This article is preliminary, the apologetic content will be published shortly"
   },
   meditacion: {
     quotes: [

@@ -511,15 +511,15 @@ const translationsES = {
       sec1: { eyebrow: "Santa Sede", title: "Fuentes vaticanas", desc: "Documentos oficiales de la Iglesia, disponibles en el sitio de la Santa Sede." },
       sec2: {
         eyebrow: "Apologética · Formación", title: "Sacerdotes y formadores", desc: "Voces fieles al Magisterio que enseñan, defienden y proclaman la fe con profundidad y rigor.",
-        toro:    { desc: "Apóstol del Rosario y de la devoción mariana. Formación sólida, directa y fiel al Magisterio." },
-        aguilar: { desc: "Teólogo y apologeta. Responde con profundidad las objeciones más difíciles a la fe católica." },
+        toro:    { desc: "Teólogo y apologeta. Responde con profundidad las objeciones más difíciles a la fe católica." },
+        aguilar: { desc: "Formación sólida, directa y fiel al magisterio. Vlogs de viajes por Tierra Santa y clases de biblia." },
         olivera: { desc: "Historiador y apologeta agustino. Aborda el racionalismo, las sectas y los errores modernos con rigor." }
       },
       sec3: {
         eyebrow: "Apostolados · Medios", title: "Apostolados y medios católicos",
-        heraldos: { desc: "Apostolado misionero con presencia en Ecuador. Formación, catequesis y evangelización fiel a la Tradición." },
-        rugged:   { desc: "Rosarios resistentes para militares, misioneros y todo fiel que desee portar el Rosario con dignidad.", tag: "Estados Unidos" },
-        grat:     { desc: "Metodología cronológica de Jeff Cavins para estudiar la Biblia. <em>Bible Timeline</em> con la Biblia de Jerusalén.", tag: "Biblia · Formación" },
+        heraldos: { desc: "Apostolado misionero. Formación, catequesis y evangelización fiel a la Tradición." },
+        rugged:   { desc: "Hermosos rosarios hechos a mano y artículos de fe varios de gran calidad con envío internacional.", tag: "Estados Unidos" },
+        grat:     { desc: "Biblia de Jerusalén en inglés o español latino (para otros idiomas verifique en la página oficial). Con plan de estudio único conteniendo explicaciones paso a paso y gráficas, ideal para neófitos.", tag: "Biblia · Formación" },
         ewtn:     { desc: "La red de televisión católica más grande del mundo. Misa diaria, Santo Rosario, documentales y formación las 24 horas.", tag: "Televisión · Radio" }
       },
       article: `<h2>Vaticano</h2>
@@ -575,7 +575,8 @@ const translationsES = {
     },
   },
   provisional: {
-    notice: "⚠ Este artículo está siendo redactado. El contenido actual es provisorio y será reemplazado próximamente por texto definitivo."
+    notice: "⚠ Este artículo está siendo redactado. El contenido actual es provisorio y será reemplazado próximamente por texto definitivo.",
+    preliminaryWarning: "Este artículo es preliminar, el contenido apologético será publicado en breve"
   },
   meditacion: {
     quotes: [
