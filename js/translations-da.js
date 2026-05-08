@@ -5,7 +5,7 @@ const translationsDA = {
     topics: "Emner",
     mission: "Mission",
     contact: "Kontakt",
-    usefulPages: "Venlige Sider"
+    usefulPages: "Anbefalede ressourcer"
   },
   hero: {
     eyebrow: "Velkommen",
@@ -94,7 +94,7 @@ const translationsDA = {
   article10: {
     category: "Ressourcer",
     date: "Maj 2026",
-    title: "Venlige Sider",
+    title: "Anbefalede ressourcer",
     excerpt: "Et udvalg af katolske ressourcer til at uddybe din tro og dannelse.",
     time: "5 min læsning",
     link: "Udforsk →"
@@ -515,7 +515,7 @@ const translationsDA = {
         grat:     { desc: "Jerusalems Bibel på engelsk eller latinamerikansk spansk (for andre sprog, tjek den officielle side). Med en unik studieplan med trin-for-trin forklaringer og grafik, ideel til neofytter.", tag: "Bibel · Dannelse" },
         ewtn:     { desc: "Verdens største katolske tv-netværk. Daglig messe, Den hellige rosenkrans, dokumentarer og dannelse døgnet rundt.", tag: "TV · Radio" }
       },
-      ,article: `<h2>Vatikanet</h2>
+      article: `<h2>Vatikanet</h2>
                 <p>Det officielle websted for Den Hellige Stol, hvor du kan finde Bibelen, Den Katolske Kirkes Katekismus, pavelige dokumenter og meget mere.</p>
                 <ul>
                     <li><a href="https://www.vatican.va/content/vatican/en.html" target="_blank">Vatikanets officielle hjemmeside</a></li>
