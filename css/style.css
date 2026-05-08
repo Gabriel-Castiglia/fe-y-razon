@@ -912,21 +912,39 @@ section {
 }
 
 .preliminary-warning {
-  background: #991b1b;
-  border: 2px solid #7f1d1d;
-  border-radius: 6px;
-  padding: 16px 20px;
-  margin-bottom: 32px;
-  box-shadow: 0 2px 8px rgba(153, 27, 27, 0.2);
+  background: #7f1d1d;
+  border: 1px solid rgba(212, 165, 116, 0.2);
+  border-left: 4px solid var(--gold);
+  border-radius: 4px;
+  padding: 7px 18px;
+  margin: 0 auto 45px auto;
+  max-width: 680px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.preliminary-warning::before {
+  content: '†';
+  font-family: var(--font-display);
+  font-size: 18px;
+  line-height: 1;
+  color: var(--gold);
+  flex-shrink: 0;
+  opacity: 0.9;
+  position: relative;
+  top: 1px; /* Ajuste óptico para centrar la cruz de Cinzel con el texto Montserrat */
 }
 
 .preliminary-warning p {
-  font-size: 14px;
+  font-size: 11px;
   font-weight: 500;
-  color: #fef2f2;
-  line-height: 1.6;
+  color: #ffffff !important;
+  line-height: 1.4;
   margin: 0;
-  text-align: center;
+  text-align: left;
+  letter-spacing: 0.01em;
 }
 
 .article-page {

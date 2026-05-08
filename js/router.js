@@ -11,12 +11,12 @@ const ARTICLES = {
   'sacerdocio':            { videos: ['sacerdote01','sacerdote02','sacerdote03'], prev: 'la-primacia-de-pedro', next: 'por-que-creemos' },
   'por-que-creemos':       { videos: ['conf01','conf02','lectura02'],             prev: 'sacerdocio',           next: 'la-eucaristia' },
   'la-eucaristia':         { videos: ['calis01','misa01','misa02'],               prev: 'por-que-creemos',      next: 'transubstanciacion' },
-  'transubstanciacion':    { videos: ['calis01','misa02'],                        prev: 'la-eucaristia',        next: 'los-santos' },
-  'los-santos':            { videos: ['rosario01','rosario02','rosario03'],       prev: 'transubstanciacion',   next: 'la-santisima-trinidad' },
-  'la-santisima-trinidad': { videos: ['crucifijo01','crucifijo02','crucifijo03'], prev: 'los-santos',           next: 'el-purgatorio' },
-  'el-purgatorio':         { videos: ['velas01','velas02','velas03'],             prev: 'la-santisima-trinidad',next: 'la-nueva-ley' },
-  'la-nueva-ley':          { videos: ['lectura01','conf01','conf02'],             prev: 'el-purgatorio',        next: 'la-primacia-de-pedro' },
-  'la-primacia-de-pedro':  { videos: ['conf03','conf04'],                         prev: 'la-nueva-ley',         next: 'sacerdocio' },
+  'transubstanciacion':    { videos: ['calis01','misa02'],                        provisional: true, prev: 'la-eucaristia',        next: 'los-santos' },
+  'los-santos':            { videos: ['rosario01','rosario02','rosario03'],       provisional: true, prev: 'transubstanciacion',   next: 'la-santisima-trinidad' },
+  'la-santisima-trinidad': { videos: ['crucifijo01','crucifijo02','crucifijo03'], provisional: true, prev: 'los-santos',           next: 'el-purgatorio' },
+  'el-purgatorio':         { videos: ['velas01','velas02','velas03'],             provisional: true, prev: 'la-santisima-trinidad',next: 'la-nueva-ley' },
+  'la-nueva-ley':          { videos: ['lectura01','conf01','conf02'],             provisional: true, prev: 'el-purgatorio',        next: 'la-primacia-de-pedro' },
+  'la-primacia-de-pedro':  { videos: ['conf03','conf04'],                         provisional: true, prev: 'la-nueva-ley',         next: 'sacerdocio' },
   'recursos-recomendados': { videos: [],                                          prev: 'la-primacia-de-pedro', next: 'sacerdocio' },
 };
 
@@ -174,7 +174,14 @@ function showArticle(slug, skipHistory = false) {
 
   // 5b. Inyección de textos
   document.getElementById('overlay-hero-content').innerHTML  = t.hero    || '';
-  document.getElementById('overlay-article-body').innerHTML  = t.article || '';
+
+  let articleHtml = t.article || '';
+  if (cfg.provisional) {
+    const warningText = translations[currentLang].provisional.preliminaryWarning;
+    articleHtml = `<div class="preliminary-warning"><p>${warningText}</p></div>` + articleHtml;
+  }
+  document.getElementById('overlay-article-body').innerHTML = articleHtml;
+
   buildOverlayNav(slug);
   document.title = t.pageTitle || 'Fé y Razón';
 
@@ -267,7 +274,15 @@ document.addEventListener('DOMContentLoaded', () => {
     const t  = tp[currentSlug];
     if (!t) return;
     document.getElementById('overlay-hero-content').innerHTML = t.hero    || '';
-    document.getElementById('overlay-article-body').innerHTML = t.article || '';
+
+    const cfg = ARTICLES[currentSlug];
+    let articleHtml = t.article || '';
+    if (cfg && cfg.provisional) {
+      const warningText = translations[currentLang].provisional.preliminaryWarning;
+      articleHtml = `<div class="preliminary-warning"><p>${warningText}</p></div>` + articleHtml;
+    }
+    document.getElementById('overlay-article-body').innerHTML = articleHtml;
+
     buildOverlayNav(currentSlug);
     document.title = t.pageTitle || 'Fé y Razón';
     setTimeout(runOverlayReveal, 60);
