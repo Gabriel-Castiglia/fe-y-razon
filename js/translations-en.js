@@ -492,7 +492,7 @@ const translationsEN = {
         nextTitle: "The Saints and Their Intercession"
       }
     },
-    "paginas-amigas": {
+    "recursos-recomendados": {
       pageTitle: "Recommended Resources | Faith and Reason",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>

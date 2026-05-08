@@ -492,7 +492,7 @@ const translationsJA = {
         nextTitle: "聖人たちとその取り次ぎ"
       }
     },
-    "paginas-amigas": {
+    "recursos-recomendados": {
       pageTitle: "おすすめページ | 信仰と理性",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
