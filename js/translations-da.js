@@ -573,10 +573,10 @@ const translationsDA = {
   },
   meditacion: {
     quotes: [
-      { ref: "Joh 14,6",   text: "Jeg er Vejen, Sandheden og Livet." },
+      { ref: "Joh 14,6",   text: "Jeg er vejen og sandheden og livet." },
       { ref: "Matt 16,18", text: "Du er Peter, og på den klippe vil jeg bygge min kirke." },
       { ref: "Es 1,18",    text: "Er jeres synder som skarlagen, skal de blive hvide som sne." },
-      { ref: "Luk 22,32",  text: "Jeg har bedt for dig, for at din tro ikke skal svigte." },
+      { ref: "Luk 22,32",  text: "jeg bad for dig, for at din tro ikke skal svigte." },
       { ref: "2 Pet 1,20", text: "Ingen profeti i Skriften beror på egen fortolkning." }
     ]
   },

@@ -582,9 +582,9 @@ const translationsES = {
     quotes: [
       { ref: "Jn 14, 6",    text: "Yo soy el Camino, la Verdad y la Vida." },
       { ref: "Mt 16, 18",   text: "Tú eres Pedro, y sobre esta piedra edificaré mi Iglesia." },
-      { ref: "Is 1, 18",    text: "Aunque vuestros pecados sean como la grana, quedarán blancos como la nieve." },
-      { ref: "Lc 22, 32",   text: "He rogado por ti para que tu fe no desfallezca; y tú, una vez convertido, confirma a tus hermanos." },
-      { ref: "2 Pe 1, 20",  text: "Ninguna profecía de la Escritura es de interpretación personal." }
+      { ref: "Is 1, 18",    text: "Aunque sus pecados sean como la escarlata, se volverán blancos como la nieve." },
+      { ref: "Lc 22, 32",   text: "pero yo he rogado por ti, para que no te falte la fe. Y tú, después que hayas vuelto, confirma a tus hermanos." },
+      { ref: "2 Pe 1, 20",  text: "nadie puede interpretar por cuenta propia una profecía de la Escritura." }
     ]
   },
   footer: {
