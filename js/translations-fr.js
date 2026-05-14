@@ -18,8 +18,7 @@ const translationsFR = {
     eyebrow: "Catéchèse Apologétique",
     title: "Thèmes de Foi",
     subtitle: "Des arguments solides pour approfondir, comprendre et défendre la foi catholique",
-    searchPlaceholder: "Rechercher des thèmes...",
-    noResults: "Aucun article trouvé pour votre recherche."
+
   },
   article1: {
     category: "Doctrine", date: "Mai 2026", title: "Le Sacerdoce", excerpt: "Le rôle essentiel du sacerdoce dans l'Église catholique et son importance dans la vie sacramentelle.", time: "11 min de lecture", link: "Lire →"

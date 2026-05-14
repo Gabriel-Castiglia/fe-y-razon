@@ -18,8 +18,7 @@ const translationsIG = {
     eyebrow: "Catechesis Apologetic",
     title: "Isiokwu Okwukwe",
     subtitle: "Arụmụka siri ike iji mikwuo, ghọta na chebe okwukwe Katọlik",
-    searchPlaceholder: "Chọọ isiokwu...",
-    noResults: "Onweghị akụkọ ahụrụ maka ọchụchọ gị."
+
   },
   article1: {
     category: "Ozizi", date: "Mee 2026", title: "Ọkwa Nchụàjà", excerpt: "Ọrụ dị mkpa nke ọkwa nchụàjà na Nzukọ-nsọ Katọlik na uru ọ bara na ndụ sakrament.", time: "Nkeji 11 ịgụ", link: "Gụọ →"

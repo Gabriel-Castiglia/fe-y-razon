@@ -18,8 +18,7 @@ const translationsDA = {
     eyebrow: "Kateketisk Apologetik",
     title: "Trosemner",
     subtitle: "Solide argumenter for at uddybe, forstå og forsvare den katolske tro",
-    searchPlaceholder: "Søg efter emner...",
-    noResults: "Ingen artikler fundet for din søgning."
+
   },
   article1: {
     category: "Doktrin",

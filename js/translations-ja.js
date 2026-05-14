@@ -18,8 +18,7 @@ const translationsJA = {
     eyebrow: "弁証論的教理",
     title: "信仰のトピック",
     subtitle: "カトリックの信仰を深め、理解し、守るための強固な議論",
-    searchPlaceholder: "トピックを検索...",
-    noResults: "検索条件に一致する記事が見つかりませんでした。"
+
   },
   article1: {
     category: "教義",
