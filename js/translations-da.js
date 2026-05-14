@@ -580,6 +580,9 @@ const translationsDA = {
       { ref: "2 Pet 1,20", text: "Ingen profeti i Skriften beror på egen fortolkning." }
     ]
   },
+  lang: {
+    soon: "Kommer snart"
+  },
   footer: {
     text: "&copy; 2026 Tro og Fornuft. Ad maiorem Dei gloriam."
   }
