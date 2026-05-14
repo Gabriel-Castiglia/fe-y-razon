@@ -17,7 +17,9 @@ const translationsTL = {
   topics: {
     eyebrow: "Apologetikong Katesismo",
     title: "Mga Paksa ng Pananampalataya",
-    subtitle: "Matatatag na argumento para mapalalim, maunawaan at maipagtanggol ang Katolikong&nbsp;pananampalataya"
+    subtitle: "Matatatag na argumento para mapalalim, maunawaan at maipagtanggol ang Katolikong&nbsp;pananampalataya",
+    searchPlaceholder: "Maghanap ng mga paksa...",
+    noResults: "Walang nahanap na mga artikulo para sa iyong paghahanap."
   },
   article1: {
     category: "Doktrina",

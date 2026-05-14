@@ -22,7 +22,9 @@ const translationsLA = {
   topics: {
     eyebrow: "Catechesis Apologetica",
     title: "Themata Fidei",
-    subtitle: "Argumenta solida ad approfundandum, intelligendum et defendendam fidem&nbsp;catholicam"
+    subtitle: "Argumenta solida ad approfundandum, intelligendum et defendendam fidem&nbsp;catholicam",
+    searchPlaceholder: "Themata quaerere...",
+    noResults: "Nulli articuli inventi sunt pro inquisitione tua."
   },
   article1: {
     category: "Doctrina",

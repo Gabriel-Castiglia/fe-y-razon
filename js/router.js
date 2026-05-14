@@ -195,6 +195,13 @@ function showArticle(slug, skipHistory = false) {
   document.getElementById('header').classList.add('hero-mode');
   document.body.style.overflow = '';
 
+  // Reiniciar barra de progreso de lectura a 0% al abrir el artículo
+  const bar = document.getElementById('overlay-reading-progress');
+  if (bar) {
+    bar.style.width = '0%';
+    bar.setAttribute('aria-valuenow', '0');
+  }
+
   window.scrollTo({ top: 0, behavior: 'instant' });
 
   // Start video crossfade
@@ -294,14 +301,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const overlay = document.getElementById('article-overlay');
     if (!overlay || overlay.hasAttribute('hidden')) return;
-    const page = document.getElementById('overlay-article-page');
     const bar  = document.getElementById('overlay-reading-progress');
-    if (!page || !bar) return;
-    const start  = page.offsetTop;
-    const height = page.offsetHeight - window.innerHeight;
-    if (height <= 0) return;
-    const pct = Math.min(Math.max(((window.scrollY - start) / height) * 100, 0), 100);
+    if (!bar) return;
+    
+    const scrollableHeight = document.documentElement.scrollHeight - window.innerHeight;
+    const pct = scrollableHeight > 0 ? (window.scrollY / scrollableHeight) * 100 : 0;
     bar.style.width = pct + '%';
+    bar.setAttribute('aria-valuenow', Math.round(pct));
   }, { passive: true });
 
     // Soporte para botón Atrás del navegador
