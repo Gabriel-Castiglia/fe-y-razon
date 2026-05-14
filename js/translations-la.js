@@ -586,6 +586,9 @@ const translationsLA = {
       { ref: "2 Pet 1, 20", text: "Omnis prophetia Scripturae propria interpretatione non fit." }
     ]
   },
+  lang: {
+    soon: "Mox veniet"
+  },
   footer: {
     text: "&copy; MMXXVI Fides et Ratio. Ad maiorem Dei gloriam."
   }

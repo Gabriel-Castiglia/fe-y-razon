@@ -587,6 +587,9 @@ const translationsES = {
       { ref: "2 Pe 1, 20",  text: "nadie puede interpretar por cuenta propia una profecía de la Escritura." }
     ]
   },
+  lang: {
+    soon: "Próximamente"
+  },
   footer: {
     text: "&copy; 2026 Fé y Razón. Ad maiorem Dei gloriam."
   }

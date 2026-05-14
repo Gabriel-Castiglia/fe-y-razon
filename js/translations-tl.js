@@ -581,6 +581,9 @@ const translationsTL = {
       { ref: "2 Ped 1:20", text: "Walang anumang hula ng Kasulatan ang maaaring bigyan ng sariling kahulugan." }
     ]
   },
+  lang: {
+    soon: "Malapit na"
+  },
   footer: {
     text: "&copy; 2026 Pananampalataya at Dahilan. Ad maiorem Dei gloriam."
   }
