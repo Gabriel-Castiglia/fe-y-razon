@@ -59,29 +59,26 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // 3. CICLO DE VIDEO DEL HERO
-  // Maneja el crossfade infinito de videos de fondo en la sección principal.
-  
-  const videos = Array.from(document.querySelectorAll('.hero-video'));
-  if (videos.length) {
+  // 3 & 4. CICLO DE VIDEO (Hero y Contacto)
+  // VideoManager encapsula el crossfade infinito reutilizable para cualquier grupo de videos.
+
+  function VideoManager(selector) {
+    const videos = Array.from(document.querySelectorAll(selector));
+    if (!videos.length) return;
+
     let currentIndex = 0;
     let isTransitioning = false;
-    const transitionDuration = 1200; // Debe coincidir con el transition de CSS
+    const TRANSITION_MS = 1200; // Debe coincidir con el transition de CSS
 
-    // Gestiona la transición opacidad entre dos videos
-    function showVideo(index) {
-      const prevIndex = currentIndex;
-      currentIndex = index;
-      const prevVideo = videos[prevIndex];
-      const nextVideo = videos[currentIndex];
-
+    function show(index) {
+      const prevVideo = videos[currentIndex];
+      const nextVideo = videos[index];
       if (prevVideo === nextVideo) return;
 
+      currentIndex = index;
       nextVideo.preload = 'auto';
       nextVideo.currentTime = 0;
-      nextVideo.play().catch(() => {
-        // En caso de fallo de autoplay
-      });
+      nextVideo.play().catch(() => {});
       nextVideo.classList.add('active');
 
       setTimeout(() => {
@@ -89,89 +86,28 @@ document.addEventListener('DOMContentLoaded', function () {
         prevVideo.pause();
         prevVideo.currentTime = 0;
         isTransitioning = false;
-      }, transitionDuration);
+      }, TRANSITION_MS);
     }
 
-    // Salta al siguiente video en el array
-    function advanceVideo() {
+    function advance() {
       if (isTransitioning) return;
       isTransitioning = true;
-      const nextIndex = (currentIndex + 1) % videos.length;
-      showVideo(nextIndex);
+      show((currentIndex + 1) % videos.length);
     }
 
-    // Eventos para detectar el final del video (con margen de seguridad de 1.3s para el crossfade)
-    videos.forEach((video) => {
+    videos.forEach(video => {
       video.addEventListener('timeupdate', function () {
-        if (isTransitioning) return;
-        if (!this.duration || this.currentTime < this.duration - 1.3) return;
-        advanceVideo();
+        if (isTransitioning || !this.duration) return;
+        if (this.currentTime >= this.duration - 1.3) advance();
       });
-
-      // Backup si timeupdate falla o el video es muy corto
-      video.addEventListener('ended', advanceVideo);
+      video.addEventListener('ended', advance);
     });
 
-    const firstVideo = videos[0];
-    firstVideo.play().catch(() => {
-      setTimeout(advanceVideo, 2500);
-    });
+    videos[0].play().catch(() => { setTimeout(advance, 2500); });
   }
 
-  // 4. CICLO DE VIDEO DE CONTACTO
-  // Nota: Mantiene lógica separada para permitir tiempos o comportamientos distintos al Hero.
-  
-  const contactVideos = Array.from(document.querySelectorAll('.contact-video'));
-  if (contactVideos.length) {
-    let contactCurrentIndex = 0;
-    let contactIsTransitioning = false;
-    const contactTransitionDuration = 1200;
-
-    function showContactVideo(index) {
-      const prevIndex = contactCurrentIndex;
-      contactCurrentIndex = index;
-      const prevVideo = contactVideos[prevIndex];
-      const nextVideo = contactVideos[contactCurrentIndex];
-
-      if (prevVideo === nextVideo) return;
-
-      nextVideo.preload = 'auto';
-      nextVideo.currentTime = 0;
-      nextVideo.play().catch(() => {
-        // En caso de fallo de autoplay
-      });
-      nextVideo.classList.add('active');
-
-      setTimeout(() => {
-        prevVideo.classList.remove('active');
-        prevVideo.pause();
-        prevVideo.currentTime = 0;
-        contactIsTransitioning = false;
-      }, contactTransitionDuration);
-    }
-
-    function advanceContactVideo() {
-      if (contactIsTransitioning) return;
-      contactIsTransitioning = true;
-      const nextIndex = (contactCurrentIndex + 1) % contactVideos.length;
-      showContactVideo(nextIndex);
-    }
-
-    contactVideos.forEach((video) => {
-      video.addEventListener('timeupdate', function () {
-        if (contactIsTransitioning) return;
-        if (!this.duration || this.currentTime < this.duration - 1.3) return;
-        advanceContactVideo();
-      });
-
-      video.addEventListener('ended', advanceContactVideo);
-    });
-
-    const firstContactVideo = contactVideos[0];
-    firstContactVideo.play().catch(() => {
-      setTimeout(advanceContactVideo, 2500);
-    });
-  }
+  VideoManager('.hero-video');
+  VideoManager('.contact-video');
 
   // 5. EFECTOS DEL HEADER AL HACER SCROLL
   // Cambia la opacidad y colores del menú según la posición del scroll.

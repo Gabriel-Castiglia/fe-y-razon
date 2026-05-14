@@ -11,7 +11,8 @@ const translations = {
   en: translationsEN,
   ja: translationsJA,
   tl: translationsTL,
-  da: translationsDA
+  da: translationsDA,
+  la: translationsLA
 };
 
 let currentLang = 'es'; // Estado global del idioma
@@ -24,6 +25,7 @@ const langMeta = {
   ja: { label: 'JA', flag: 'Recursos/Im%C3%A1genes/japan-flag-png-large.png.jpeg' },
   tl: { label: 'TL', flag: 'Recursos/Im%C3%A1genes/philippines-flag-png-large.png.jpeg' },
   da: { label: 'DA', flag: 'Recursos/Im%C3%A1genes/denmark-flag-png-large.png.jpeg' },
+  la: { label: 'LA', flag: 'Recursos/Im%C3%A1genes/vatican-city-flag-png-large.png.jpeg' },
 };
 
 // 3. NÚCLEO LÓGICO DE TRADUCCIÓN
@@ -82,14 +84,15 @@ function setLanguage(lang) {
   });
 
   // Persistir preferencia y disparar evento para otros scripts (como router.js)
-  localStorage.setItem('language', lang);
+  try { localStorage.setItem('language', lang); } catch (_) {}
   document.dispatchEvent(new CustomEvent('langChange', { detail: { lang } }));
 }
 
 // 4. INICIALIZACIÓN Y EVENTOS DE UI
 document.addEventListener('DOMContentLoaded', () => {
   // Recuperar preferencia del usuario o usar español por defecto
-  const savedLang = localStorage.getItem('language') || 'es';
+  let savedLang = 'es';
+  try { savedLang = localStorage.getItem('language') || 'es'; } catch (_) {}
   setLanguage(savedLang);
 
   const dropdown = document.getElementById('lang-dropdown');
