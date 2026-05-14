@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="css/style.css?v=11">
 </head>
 <body>
-    <div id="reading-progress" role="progressbar" aria-label="Progreso de lectura"></div>
+    <div id="reading-progress" role="progressbar" aria-label="Progreso de lectura" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"></div>
     <button id="scroll-top" aria-label="Volver arriba">↑</button>
     <header id="header" class="hero-mode">
         <div class="container">
@@ -33,6 +33,7 @@
                     </svg>
                 </button>
                 <div class="lang-dropdown-menu" role="listbox" aria-label="Seleccionar idioma">
+                    <!-- IMPORTANTE: Al agregar nuevos idiomas, asegúrate de actualizar esta lista desplegable en TODAS las páginas estáticas (index.html, tema-*.html) -->
                     <button class="lang-option active" data-lang="es" role="option" aria-selected="true">
                         <img src="Recursos/Im%C3%A1genes/spain-flag-png-large.png.jpeg" alt="" width="22" height="15">
                         <span>Español</span>
@@ -55,38 +56,32 @@
                     </button>
                     <button class="lang-option" data-lang="la" role="option" aria-selected="false">
                         <img src="Recursos/Im%C3%A1genes/vatican-city-flag-png-large.png.jpeg" alt="" width="22" height="15">
-                        <span>Latín</span>
+                        <span>Latina</span>
                     </button>
-                    <div class="lang-option-disabled">
+                    <button class="lang-option" data-lang="fr" role="option" aria-selected="false">
                         <img src="Recursos/Im%C3%A1genes/france-flag.svg" alt="" width="22" height="15">
                         <span>Français</span>
-                        <span class="lang-soon">Bientôt</span>
-                    </div>
-                    <div class="lang-option-disabled">
+                    </button>
+                    <button class="lang-option" data-lang="pt" role="option" aria-selected="false">
                         <img src="Recursos/Im%C3%A1genes/brazil-flag.svg" alt="" width="22" height="15">
                         <span>Português</span>
-                        <span class="lang-soon">Em breve</span>
-                    </div>
-                    <div class="lang-option-disabled">
+                    </button>
+                    <button class="lang-option" data-lang="sw" role="option" aria-selected="false">
                         <img src="Recursos/Im%C3%A1genes/tz-flag.svg" alt="" width="22" height="15">
                         <span>Kiswahili</span>
-                        <span class="lang-soon">Hivi karibuni</span>
-                    </div>
-                    <div class="lang-option-disabled">
+                    </button>
+                    <button class="lang-option" data-lang="it" role="option" aria-selected="false">
                         <img src="Recursos/Im%C3%A1genes/it-flag.svg" alt="" width="22" height="15">
                         <span>Italiano</span>
-                        <span class="lang-soon">Prossimamente</span>
-                    </div>
-                    <div class="lang-option-disabled">
+                    </button>
+                    <button class="lang-option" data-lang="ln" role="option" aria-selected="false">
                         <img src="Recursos/Im%C3%A1genes/cd-flag.svg" alt="" width="22" height="15">
                         <span>Lingala</span>
-                        <span class="lang-soon">Ekoya</span>
-                    </div>
-                    <div class="lang-option-disabled">
+                    </button>
+                    <button class="lang-option" data-lang="ig" role="option" aria-selected="false">
                         <img src="Recursos/Im%C3%A1genes/ng-flag.svg" alt="" width="22" height="15">
                         <span>Igbo</span>
-                        <span class="lang-soon">Ọ bịa</span>
-                    </div>
+                    </button>
                 </div>
             </div>
             <button class="hamburger" id="hamburger" aria-label="Abrir menú" aria-expanded="false">
@@ -96,9 +91,9 @@
     </header>
 
     <section class="article-hero">
-        <video class="hero-video active" src="Recursos/Videos/velas01.mp4" muted autoplay playsinline loop preload="auto"></video>
-        <video class="hero-video" src="Recursos/Videos/velas02.mp4" muted playsinline loop preload="none"></video>
-        <video class="hero-video" src="Recursos/Videos/velas03.mp4" muted playsinline loop preload="none"></video>
+        <video class="hero-video active" src="Recursos/Videos/velas01.mp4" muted autoplay playsinline loop preload="auto" aria-hidden="true" tabindex="-1"></video>
+        <video class="hero-video" src="Recursos/Videos/velas02.mp4" muted playsinline loop preload="none" aria-hidden="true" tabindex="-1"></video>
+        <video class="hero-video" src="Recursos/Videos/velas03.mp4" muted playsinline loop preload="none" aria-hidden="true" tabindex="-1"></video>
 
         <div class="article-hero-inner" data-i18n="topicPages.recursos-recomendados.hero">
             <div class="hero-eyebrow">
@@ -304,7 +299,7 @@
         <div>
           <div class="rec-label" data-i18n="topicPages.recursos-recomendados.sec1.eyebrow">Santa Sede</div>
           <div class="rec-vatican">
-            <img src="Recursos/Im%C3%A1genes/papa.jpg" alt="Papa León XIV">
+            <img src="Recursos/Im%C3%A1genes/papa.jpg" alt="Papa León XIV" loading="lazy">
             <div class="rec-vatican-overlay"></div>
             <div class="rec-vatican-body">
               <div class="rec-vatican-eyebrow">
@@ -328,7 +323,7 @@
 
             <div class="rec-priest">
               <div class="rec-priest-photo">
-                <img src="Recursos/Im%C3%A1genes/toro.jpg" alt="Padre Luis Toro">
+                <img src="Recursos/Im%C3%A1genes/toro.jpg" alt="Padre Luis Toro" loading="lazy">
                 <span class="rec-priest-country">Venezuela</span>
               </div>
               <div class="rec-priest-body">
@@ -342,7 +337,7 @@
 
             <div class="rec-priest">
               <div class="rec-priest-photo">
-                <img src="Recursos/Im%C3%A1genes/padreaguilar.jpg" alt="Padre José de Jesús Aguilar">
+                <img src="Recursos/Im%C3%A1genes/padreaguilar.jpg" alt="Padre José de Jesús Aguilar" loading="lazy">
                 <span class="rec-priest-country">México</span>
               </div>
               <div class="rec-priest-body">
@@ -356,7 +351,7 @@
 
             <div class="rec-priest">
               <div class="rec-priest-photo">
-                <img src="Recursos/Im%C3%A1genes/qntlc.jpg" alt="Padre Javier Olivera Ravasi">
+                <img src="Recursos/Im%C3%A1genes/qntlc.jpg" alt="Padre Javier Olivera Ravasi" loading="lazy">
                 <span class="rec-priest-country">Argentina · QNTLC</span>
               </div>
               <div class="rec-priest-body">
@@ -379,7 +374,7 @@
 
             <div class="rec-apost-card">
               <div class="rec-apost-photo">
-                <img src="Recursos/Im%C3%A1genes/heraldos.jpg" alt="Heraldos del Evangelio" style="object-position: center top;">
+                <img src="Recursos/Im%C3%A1genes/heraldos.jpg" alt="Heraldos del Evangelio" loading="lazy" style="object-position: center top;">
                 <span class="rec-apost-name">Heraldos del Evangelio</span>
               </div>
               <div class="rec-apost-body">
@@ -394,7 +389,7 @@
 
             <div class="rec-apost-card">
               <div class="rec-apost-photo">
-                <img src="Recursos/Im%C3%A1genes/RRosa.jpg" alt="Rugged Rosaries">
+                <img src="Recursos/Im%C3%A1genes/RRosa.jpg" alt="Rugged Rosaries" loading="lazy">
                 <span class="rec-apost-name">Rugged Rosaries</span>
               </div>
               <div class="rec-apost-body">
@@ -408,7 +403,7 @@
 
             <div class="rec-apost-card">
               <div class="rec-apost-photo">
-                <img src="Recursos/Im%C3%A1genes/grat.jpg" alt="The Great Adventure Bible" style="object-position: center center;">
+                <img src="Recursos/Im%C3%A1genes/grat.jpg" alt="The Great Adventure Bible" loading="lazy" style="object-position: center center;">
                 <span class="rec-apost-name">The Great Adventure</span>
               </div>
               <div class="rec-apost-body">
@@ -423,7 +418,7 @@
 
             <div class="rec-apost-card">
               <div class="rec-apost-photo rec-apost-photo--logo">
-                <img src="Recursos/Im%C3%A1genes/ewtn.jpg" alt="EWTN">
+                <img src="Recursos/Im%C3%A1genes/ewtn.jpg" alt="EWTN" loading="lazy">
               </div>
               <div class="rec-apost-body">
                 <span class="rec-apost-tag" data-i18n="topicPages.recursos-recomendados.sec3.ewtn.tag">Televisión · Radio</span>
@@ -443,6 +438,7 @@
     <footer>
         <p data-i18n="footer.text">&copy; 2026 Fé y Razón. Ad maiorem Dei gloriam.</p>
     </footer>
+    
     <script src="js/main.js" defer></script>
     <script src="js/translations-es.js" defer></script>
     <script src="js/translations-en.js" defer></script>
@@ -450,6 +446,12 @@
     <script src="js/translations-tl.js" defer></script>
     <script src="js/translations-da.js" defer></script>
     <script src="js/translations-la.js" defer></script>
+    <script src="js/translations-fr.js" defer></script>
+    <script src="js/translations-pt.js" defer></script>
+    <script src="js/translations-sw.js" defer></script>
+    <script src="js/translations-it.js" defer></script>
+    <script src="js/translations-ln.js" defer></script>
+    <script src="js/translations-ig.js" defer></script>
     <script src="js/translations.js" defer></script>
 </body>
 </html>
