@@ -18,8 +18,7 @@ const translationsLN = {
     eyebrow: "Katekismo ya Apologetiki",
     title: "Mitó ya Kondima",
     subtitle: "Ba argument ya solide mpona kokɔtisa, kososola mpe kobatela kondima ya Katolike",
-    searchPlaceholder: "Luka mitó ya makambo...",
-    noResults: "Article moko te ezwami mpona bolukiluki na yo."
+
   },
   article1: {
     category: "Mateya", date: "Sanza ya mitano 2026", title: "Bonganga-nzambe", excerpt: "Mosala ya ntina ya bonganga-nzambe na Eklezia Katolike mpe ntina na yango na bomoi ya sakramentu.", time: "Min 11 botangi", link: "Tanga →"
