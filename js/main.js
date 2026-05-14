@@ -332,38 +332,4 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // 13. BUSCADOR DE ARTÍCULOS
-  const searchInput = document.getElementById('article-search');
-  const articleCards = document.querySelectorAll('.article-card');
-  const noResultsMsg = document.getElementById('search-no-results');
-
-  if (searchInput && articleCards.length > 0) {
-    searchInput.addEventListener('input', function() {
-      const query = this.value.toLowerCase().trim();
-      let visibleCount = 0;
-
-      articleCards.forEach(card => {
-        const title = card.querySelector('.article-title')?.textContent.toLowerCase() || '';
-        const excerpt = card.querySelector('.article-excerpt')?.textContent.toLowerCase() || '';
-        
-        if (title.includes(query) || excerpt.includes(query)) {
-          card.style.display = '';
-          visibleCount++;
-        } else {
-          card.style.display = 'none';
-        }
-      });
-
-      if (noResultsMsg) {
-        noResultsMsg.style.display = visibleCount === 0 ? 'block' : 'none';
-      }
-    });
-    
-    // Limpiar el buscador cuando se cambie de idioma para no ocultar tarjetas erróneamente
-    document.addEventListener('langChange', () => {
-      searchInput.value = '';
-      articleCards.forEach(card => card.style.display = '');
-      if (noResultsMsg) noResultsMsg.style.display = 'none';
-    });
-  }
 });

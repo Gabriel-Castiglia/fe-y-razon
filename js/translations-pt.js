@@ -18,8 +18,7 @@ const translationsPT = {
     eyebrow: "Catequese Apologética",
     title: "Temas de Fé",
     subtitle: "Argumentos sólidos para aprofundar, compreender e defender a fé católica",
-    searchPlaceholder: "Pesquisar temas...",
-    noResults: "Nenhum artigo encontrado para sua pesquisa."
+
   },
   article1: {
     category: "Doutrina", date: "Maio 2026", title: "O Sacerdócio", excerpt: "O papel essencial do sacerdócio na Igreja Católica e a sua importância na vida sacramental.", time: "11 min leitura", link: "Ler →"
