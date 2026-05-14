@@ -573,10 +573,10 @@ const translationsEN = {
   },
   meditacion: {
     quotes: [
-      { ref: "Jn 14:6",    text: "I am the Way, the Truth, and the Life." },
+      { ref: "Jn 14:6",    text: "I am the way and the truth and the life." },
       { ref: "Mt 16:18",   text: "You are Peter, and upon this rock I will build my Church." },
-      { ref: "Is 1:18",    text: "Though your sins be as scarlet, they shall be as white as snow." },
-      { ref: "Lk 22:32",   text: "I have prayed for you that your faith may not fail; and once you have turned back, strengthen your brothers." },
+      { ref: "Is 1:18",    text: "Though your sins be like scarlet, they may become white as snow." },
+      { ref: "Lk 22:32",   text: "I have prayed that your own faith may not fail; and once you have turned back, you must strengthen your brothers." },
       { ref: "2 Pet 1:20", text: "No prophecy of Scripture is a matter of personal interpretation." }
     ]
   },

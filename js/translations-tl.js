@@ -575,9 +575,9 @@ const translationsTL = {
   meditacion: {
     quotes: [
       { ref: "Jn 14:6",    text: "Ako ang Daan, ang Katotohanan, at ang Buhay." },
-      { ref: "Mt 16:18",   text: "Ikaw ay Pedro, at sa ibabaw ng batong ito ay itatayo ko ang aking Simbahan." },
-      { ref: "Is 1:18",    text: "Kahit na ang iyong mga kasalanan ay maging katulad ng pula, magiging puting gaya ng niyebe." },
-      { ref: "Lk 22:32",   text: "Ipinanalangin kita upang ang iyong pananampalataya ay hindi mapawi; at ikaw, pagkatapos na mabago, palakasin mo ang iyong mga kapatid." },
+      { ref: "Mt 16:18",   text: "Ikaw ay Pedro, at sa ibabaw ng batong ito ay itatayo ko ang aking iglesya." },
+      { ref: "Is 1:18",    text: "Gaano man kapula ang inyong mga kasalanan, kayo'y aking papuputiin, tulad ng yelo." },
+      { ref: "Lk 22:32",   text: "Subalit idinalangin kita upang huwag manghina ang iyong pananampalataya. At kapag nagbalik-loob ka na, patatagin mo ang iyong mga kapatid." },
       { ref: "2 Ped 1:20", text: "Walang anumang hula ng Kasulatan ang maaaring bigyan ng sariling kahulugan." }
     ]
   },
