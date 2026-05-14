@@ -582,7 +582,7 @@ const translationsLA = {
       { ref: "Io 14, 6",    text: "Ego sum via et veritas et vita." },
       { ref: "Mt 16, 18",   text: "Tu es Petrus, et super hanc petram aedificabo Ecclesiam meam." },
       { ref: "Is 1, 18",    text: "Si fuerint peccata vestra ut coccinum, quasi nix dealbabuntur." },
-      { ref: "Lc 22, 32",   text: "Ego rogavi pro te ut non deficiat fides tua; et tu aliquando conversus confirma fratres tuos." },
+      { ref: "Lc 22, 32",   text: "Ego autem rogavi pro te ut non deficiat fides tua; et tu aliquando conversus confirma fratres tuos." },
       { ref: "2 Pet 1, 20", text: "Omnis prophetia Scripturae propria interpretatione non fit." }
     ]
   },
