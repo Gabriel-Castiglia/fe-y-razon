@@ -311,15 +311,13 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // 11. BARRA DE PROGRESO DE LECTURA
   const progressBar = document.getElementById('reading-progress');
-  const articlePage = document.querySelector('.article-page');
 
-  if (progressBar && articlePage) {
+  if (progressBar) {
     window.addEventListener('scroll', () => {
-      const start = articlePage.offsetTop;
-      const height = articlePage.offsetHeight - window.innerHeight;
-      const scrolled = window.scrollY - start;
-      const pct = Math.min(Math.max((scrolled / height) * 100, 0), 100);
+      const scrollableHeight = document.documentElement.scrollHeight - window.innerHeight;
+      const pct = scrollableHeight > 0 ? (window.scrollY / scrollableHeight) * 100 : 0;
       progressBar.style.width = pct + '%';
+      progressBar.setAttribute('aria-valuenow', Math.round(pct));
     }, { passive: true });
   }
 
@@ -331,6 +329,41 @@ document.addEventListener('DOMContentLoaded', function () {
     }, { passive: true });
     scrollTopBtn.addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+
+  // 13. BUSCADOR DE ARTÍCULOS
+  const searchInput = document.getElementById('article-search');
+  const articleCards = document.querySelectorAll('.article-card');
+  const noResultsMsg = document.getElementById('search-no-results');
+
+  if (searchInput && articleCards.length > 0) {
+    searchInput.addEventListener('input', function() {
+      const query = this.value.toLowerCase().trim();
+      let visibleCount = 0;
+
+      articleCards.forEach(card => {
+        const title = card.querySelector('.article-title')?.textContent.toLowerCase() || '';
+        const excerpt = card.querySelector('.article-excerpt')?.textContent.toLowerCase() || '';
+        
+        if (title.includes(query) || excerpt.includes(query)) {
+          card.style.display = '';
+          visibleCount++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      if (noResultsMsg) {
+        noResultsMsg.style.display = visibleCount === 0 ? 'block' : 'none';
+      }
+    });
+    
+    // Limpiar el buscador cuando se cambie de idioma para no ocultar tarjetas erróneamente
+    document.addEventListener('langChange', () => {
+      searchInput.value = '';
+      articleCards.forEach(card => card.style.display = '');
+      if (noResultsMsg) noResultsMsg.style.display = 'none';
     });
   }
 });

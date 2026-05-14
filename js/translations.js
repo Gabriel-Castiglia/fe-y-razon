@@ -12,7 +12,13 @@ const translations = {
   ja: translationsJA,
   tl: translationsTL,
   da: translationsDA,
-  la: translationsLA
+  la: translationsLA,
+  fr: translationsFR,
+  pt: translationsPT,
+  sw: translationsSW,
+  it: translationsIT,
+  ln: translationsLN,
+  ig: translationsIG
 };
 
 let currentLang = 'es'; // Estado global del idioma
@@ -26,6 +32,12 @@ const langMeta = {
   tl: { label: 'TL', flag: 'Recursos/Im%C3%A1genes/philippines-flag-png-large.png.jpeg' },
   da: { label: 'DA', flag: 'Recursos/Im%C3%A1genes/denmark-flag-png-large.png.jpeg' },
   la: { label: 'LA', flag: 'Recursos/Im%C3%A1genes/vatican-city-flag-png-large.png.jpeg' },
+  fr: { label: 'FR', flag: 'Recursos/Im%C3%A1genes/france-flag.svg' },
+  pt: { label: 'PT', flag: 'Recursos/Im%C3%A1genes/brazil-flag.svg' },
+  sw: { label: 'SW', flag: 'Recursos/Im%C3%A1genes/tz-flag.svg' },
+  it: { label: 'IT', flag: 'Recursos/Im%C3%A1genes/it-flag.svg' },
+  ln: { label: 'LN', flag: 'Recursos/Im%C3%A1genes/cd-flag.svg' },
+  ig: { label: 'IG', flag: 'Recursos/Im%C3%A1genes/ng-flag.svg' },
 };
 
 // 3. NÚCLEO LÓGICO DE TRADUCCIÓN
@@ -45,11 +57,92 @@ function getTranslationValue(lang, key) {
 }
 
 /**
+ * Genera y actualiza las etiquetas <link rel="alternate" hreflang="..."> para SEO.
+ * Esto le indica a los motores de búsqueda todas las versiones de idioma disponibles.
+ */
+function updateHreflangTags() {
+  // Limpiar etiquetas hreflang previas que hayamos insertado dinámicamente
+  document.querySelectorAll('link[data-hreflang]').forEach(el => el.remove());
+
+  const url = new URL(window.location.href);
+
+  // Crear etiquetas para cada idioma soportado
+  Object.keys(translations).forEach(langCode => {
+    url.searchParams.set('lang', langCode);
+    const link = document.createElement('link');
+    link.rel = 'alternate';
+    link.hreflang = langCode;
+    link.href = url.toString();
+    link.setAttribute('data-hreflang', 'true');
+    document.head.appendChild(link);
+  });
+
+  // Añadir la etiqueta obligatoria x-default (apuntando al español por defecto)
+  url.searchParams.set('lang', 'es');
+  const defaultLink = document.createElement('link');
+  defaultLink.rel = 'alternate';
+  defaultLink.hreflang = 'x-default';
+  defaultLink.href = url.toString();
+  defaultLink.setAttribute('data-hreflang', 'true');
+  document.head.appendChild(defaultLink);
+}
+
+/**
  * Aplica un nuevo idioma a toda la interfaz y persiste la selección.
  * @param {string} lang - Código del nuevo idioma (es, en, ja, tl)
  */
 function setLanguage(lang) {
   currentLang = lang;
+
+  // 1. Actualizar el atributo lang del HTML para SEO y Accesibilidad
+  document.documentElement.lang = lang;
+
+  // 2. Actualizar el parámetro ?lang= en la barra de direcciones sin recargar la página
+  const url = new URL(window.location.href);
+  if (url.searchParams.get('lang') !== lang) {
+    url.searchParams.set('lang', lang);
+    window.history.replaceState(window.history.state, '', url.toString());
+  }
+
+  // 3. Actualizar las etiquetas hreflang invisibles para rastreadores (Googlebots)
+  updateHreflangTags();
+
+  // 4. Actualizar etiquetas Meta de SEO (Title y Description) en la página principal
+  // Nota: router.js se encarga de actualizar document.title al abrir los artículos.
+  if (typeof currentSlug === 'undefined' || !currentSlug) {
+    const t = translations[lang];
+    if (t) {
+      document.title = `${t.logo || 'Fé y Razón'} | Apologética Católica`;
+      const metaDesc = document.querySelector('meta[name="description"]');
+      const ogDesc = document.querySelector('meta[property="og:description"]');
+      const twDesc = document.querySelector('meta[name="twitter:description"]');
+      const ogTitle = document.querySelector('meta[property="og:title"]');
+      const twTitle = document.querySelector('meta[name="twitter:title"]');
+      
+      // Se limpian posibles etiquetas HTML (como <em>) antes de inyectarlo en el meta
+      if (metaDesc && t.hero && t.hero.desc) metaDesc.setAttribute('content', t.hero.desc.replace(/<[^>]*>?/gm, ''));
+      if (ogDesc && t.topics && t.topics.subtitle) ogDesc.setAttribute('content', t.topics.subtitle.replace(/&nbsp;/g, ' '));
+      if (twDesc && t.topics && t.topics.subtitle) twDesc.setAttribute('content', t.topics.subtitle.replace(/&nbsp;/g, ' '));
+      
+      if (ogTitle) ogTitle.setAttribute('content', document.title);
+      if (twTitle) twTitle.setAttribute('content', document.title);
+    }
+  }
+
+  // 5. Actualizar Canonical URL para evitar contenido duplicado en SEO
+  let canonical = document.querySelector('link[rel="canonical"]');
+  if (!canonical) {
+    canonical = document.createElement('link');
+    canonical.rel = 'canonical';
+    document.head.appendChild(canonical);
+  }
+  const canonicalUrl = new URL(window.location.href);
+  if (lang === 'es') {
+    canonicalUrl.searchParams.delete('lang'); // Español es la raíz sin parámetros
+  } else {
+    canonicalUrl.searchParams.set('lang', lang);
+  }
+  canonical.href = canonicalUrl.toString().split('#')[0]; // Remover anclas (hashes)
 
   // Traducir elementos con contenido HTML
   document.querySelectorAll('[data-i18n]').forEach(element => {
@@ -66,6 +159,16 @@ function setLanguage(lang) {
     const value = getTranslationValue(lang, key);
     if (value) {
       element.placeholder = value;
+      element.setAttribute('aria-label', value);
+    }
+  });
+
+  // Traducir atributos alt de imágenes para SEO en Google Images
+  document.querySelectorAll('[data-i18n-alt]').forEach(element => {
+    const key = element.getAttribute('data-i18n-alt');
+    const value = getTranslationValue(lang, key);
+    if (value) {
+      element.alt = value;
     }
   });
 
@@ -90,9 +193,21 @@ function setLanguage(lang) {
 
 // 4. INICIALIZACIÓN Y EVENTOS DE UI
 document.addEventListener('DOMContentLoaded', () => {
-  // Recuperar preferencia del usuario o usar español por defecto
-  let savedLang = 'es';
-  try { savedLang = localStorage.getItem('language') || 'es'; } catch (_) {}
+  // 1º Prioridad: Parámetro en la URL (ej: ?lang=fr)
+  // 2º Prioridad: Preferencia guardada del usuario en localStorage
+  // 3º Prioridad: Español por defecto
+  const params = new URLSearchParams(window.location.search);
+  let savedLang = params.get('lang');
+  
+  if (!savedLang) {
+    try { savedLang = localStorage.getItem('language'); } catch (_) {}
+  }
+  
+  // Fallback de seguridad: si el idioma es inválido, vuelve al español
+  if (!translations[savedLang]) {
+    savedLang = 'es';
+  }
+  
   setLanguage(savedLang);
 
   const dropdown = document.getElementById('lang-dropdown');
