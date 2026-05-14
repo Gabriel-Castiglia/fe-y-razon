@@ -18,8 +18,7 @@ const translationsSW = {
     eyebrow: "Katekesi ya Kiapolojetiki",
     title: "Mada za Imani",
     subtitle: "Hoja thabiti za kuongeza kina, kuelewa na kutetea imani ya Kikatoliki",
-    searchPlaceholder: "Tafuta mada...",
-    noResults: "Hakuna makala yaliyopatikana kwa utafutaji wako."
+
   },
   article1: {
     category: "Mafundisho", date: "Mei 2026", title: "Ukuhani", excerpt: "Jukumu muhimu la ukuhani katika Kanisa Katoliki na umuhimu wake katika maisha ya kisakramenti.", time: "Dakika 11 kusoma", link: "Soma →"

@@ -18,8 +18,7 @@ const translationsEN = {
     eyebrow: "Apologetic Catechesis",
     title: "Faith Topics",
     subtitle: "Solid arguments to deepen, understand, and defend the Catholic&nbsp;faith",
-    searchPlaceholder: "Search topics...",
-    noResults: "No articles found for your search."
+
   },
   article1: {
     category: "Doctrine",

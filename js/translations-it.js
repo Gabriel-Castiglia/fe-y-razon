@@ -18,8 +18,7 @@ const translationsIT = {
     eyebrow: "Catechesi Apologetica",
     title: "Temi di Fede",
     subtitle: "Argomenti solidi per approfondire, comprendere e difendere la fede cattolica",
-    searchPlaceholder: "Cerca temi...",
-    noResults: "Nessun articolo trovato per la tua ricerca."
+
   },
   article1: {
     category: "Dottrina", date: "Maggio 2026", title: "Il Sacerdozio", excerpt: "Il ruolo essenziale del sacerdozio nella Chiesa cattolica e la sua importanza nella vita sacramentale.", time: "11 min di lettura", link: "Leggi →"
