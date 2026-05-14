@@ -580,6 +580,9 @@ const translationsJA = {
       { ref: "2ペト 1:20",  text: "何よりもまず心得てほしいのは、聖書の預言は何一つ、自分勝手に解釈すべきではないということです。" }
     ]
   },
+  lang: {
+    soon: "近日公開"
+  },
   footer: {
     text: "&copy; 2026 信仰と理性。Ad maiorem Dei gloriam."
   }

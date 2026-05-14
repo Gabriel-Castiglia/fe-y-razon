@@ -580,6 +580,9 @@ const translationsEN = {
       { ref: "2 Pet 1:20", text: "No prophecy of Scripture is a matter of personal interpretation." }
     ]
   },
+  lang: {
+    soon: "Coming soon"
+  },
   footer: {
     text: "&copy; 2026 Faith and Reason. Ad maiorem Dei gloriam."
   }
