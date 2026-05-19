@@ -6,13 +6,18 @@
  */
 
 // 1. CONFIGURACIÓN DE RUTAS Y RECURSOS
-// Configuración de artículos: videos asociados y punteros de navegación
+// Configuración de artículos: videos asociados y punteros de navegación.
+// provisional: true  → el artículo aún no está redactado en todos los idiomas.
+// completedLangs     → lista de idiomas donde el artículo YA está completo.
+//                      El aviso provisional NO se muestra para esos idiomas.
+//                      Para marcar un nuevo idioma como completo, agregar su código:
+//                      completedLangs: ['es', 'en']
 const ARTICLES = {
   'sacerdocio':            { videos: ['sacerdote01','sacerdote02','sacerdote03'], prev: 'la-primacia-de-pedro', next: 'por-que-creemos' },
   'por-que-creemos':       { videos: ['conf01','conf02','lectura02'],             prev: 'sacerdocio',           next: 'la-eucaristia' },
   'la-eucaristia':         { videos: ['calis01','misa01','misa02'],               prev: 'por-que-creemos',      next: 'transubstanciacion' },
   'transubstanciacion':    { videos: ['calis01','misa02'],                        provisional: true, prev: 'la-eucaristia',        next: 'los-santos' },
-  'los-santos':            { videos: ['rosario01','rosario02','rosario03'],       provisional: true, prev: 'transubstanciacion',   next: 'la-santisima-trinidad' },
+  'los-santos':            { videos: ['rosario01','rosario02','rosario03'],       provisional: true, completedLangs: ['es'], prev: 'transubstanciacion',   next: 'la-santisima-trinidad' },
   'la-santisima-trinidad': { videos: ['crucifijo01','crucifijo02','crucifijo03'], provisional: true, prev: 'los-santos',           next: 'el-purgatorio' },
   'el-purgatorio':         { videos: ['velas01','velas02','velas03'],             provisional: true, prev: 'la-santisima-trinidad',next: 'la-nueva-ley' },
   'la-nueva-ley':          { videos: ['lectura01','conf01','conf02'],             provisional: true, prev: 'el-purgatorio',        next: 'la-primacia-de-pedro' },
@@ -176,7 +181,9 @@ function showArticle(slug, skipHistory = false) {
   document.getElementById('overlay-hero-content').innerHTML  = t.hero    || '';
 
   let articleHtml = t.article || '';
-  if (cfg.provisional) {
+  // Mostrar aviso provisional solo si el artículo no está completo en el idioma activo
+  const isComplete = (cfg.completedLangs || []).includes(currentLang);
+  if (cfg.provisional && !isComplete) {
     const warningText = translations[currentLang].provisional.preliminaryWarning;
     articleHtml = `<div class="preliminary-warning"><p>${warningText}</p></div>` + articleHtml;
   }
@@ -284,7 +291,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const cfg = ARTICLES[currentSlug];
     let articleHtml = t.article || '';
-    if (cfg && cfg.provisional) {
+    // Mismo criterio que al abrir: omitir aviso si el idioma ya está en completedLangs
+    const isComplete = cfg && (cfg.completedLangs || []).includes(currentLang);
+    if (cfg && cfg.provisional && !isComplete) {
       const warningText = translations[currentLang].provisional.preliminaryWarning;
       articleHtml = `<div class="preliminary-warning"><p>${warningText}</p></div>` + articleHtml;
     }

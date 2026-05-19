@@ -172,6 +172,12 @@ function setLanguage(lang) {
     }
   });
 
+  // Mostrar/ocultar avisos provisionales según idioma completado
+  document.querySelectorAll('[data-complete-for]').forEach(function(el) {
+    const completedLangs = el.getAttribute('data-complete-for').split(' ');
+    el.style.display = completedLangs.includes(lang) ? 'none' : '';
+  });
+
   // Actualizar el botón visual del selector (Trigger)
   const trigger   = document.getElementById('lang-dropdown-trigger');
   const flagImg   = trigger && trigger.querySelector('.lang-flag-img');
