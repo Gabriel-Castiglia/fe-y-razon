@@ -33,7 +33,7 @@ const translationsPT = {
     category: "Doutrina", date: "Em breve", title: "Transubstanciação", excerpt: "A mudança substancial do pão e do vinho no Corpo e Sangue de Cristo durante a Missa.", time: "9 min leitura", link: "Ler →"
   },
   article5: {
-    category: "Doutrina", date: "Em breve", title: "Os santos", excerpt: "A importância dos santos na Igreja Católica e a sua intercessão por nós.", time: "7 min leitura", link: "Ler →"
+    category: "Doutrina", date: "Maio 2026", title: "Os santos", excerpt: "A importância dos santos na Igreja Católica e a sua intercessão por nós.", time: "12 min leitura", link: "Ler →"
   },
   article6: {
     category: "Doutrina", date: "Em breve", title: "A Santíssima Trindade", excerpt: "Compreendendo o mistério central da fé católica através da teologia e da razão.", time: "10 min leitura", link: "Ler →"
@@ -96,8 +96,85 @@ const translationsPT = {
     },
     "los-santos": {
       pageTitle: "Os santos | Fé e Razão",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>Os santos e sua intercessão</h1><p>Um guia claro sobre o papel dos santos na vida católica e como o seu exemplo nos impulsiona a uma fé mais profunda.</p><div class="article-meta"><span>7 min leitura</span><span>Publicado em maio de 2026</span></div><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
-      article: `<p>Os santos são membros da Igreja que viveram a vida cristã com heroísmo. A devoção aos santos nasceu do reconhecimento da sua união com Cristo e das suas orações em favor dos outros.</p><h2>Exemplo de santidade</h2><p>Eles mostram-nos como viver o Evangelho em situações reais: na família, no trabalho e no serviço. A sua vida é um modelo que inspira confiança e esperança.</p><blockquote>"Os santos são a memória viva da Igreja e o testemunho da fidelidade de Deus."</blockquote><h2>Intercessão</h2><p>A oração aos santos não é adoração, mas um pedido da sua intercessão perante Deus. A Igreja pede que os fiéis rezem uns pelos outros, incluindo aqueles que já descansam no Senhor.</p><ul><li>Os santos acompanham-nos com o seu exemplo e a sua oração.</li><li>São irmãos na comunhão dos santos.</li><li>A sua vida mostra que a santidade é um apelo universal.</li></ul><h2>Vida cristã</h2><p>Confiar na intercessão dos santos não enfraquece a nossa relação com Cristo; fortalece-a. Lembra-nos que a Igreja é um só corpo vivo que transcende o tempo.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>Os santos e sua intercessão</h1><p>A própria Escritura os nomeia: Abel, Enoque, Noé, Abraão, Moisés, os profetas. Passagem a passagem, demonstraremos por que os santos podem nos ouvir e interceder por nós.</p><div class="article-meta"><span>12 min leitura</span><span>Publicado em maio de 2026</span></div><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+      article: `<p>Há uma objeção repetida sem cansaço: <em>«Os mortos não podem te ouvir.»</em> À primeira vista parece razoável. Mas a Escritura diz outra coisa. Não em uma única citação isolada. Em sete passagens distintas, de Paulo até o Apocalipse. Vamos uma a uma.</p>
+
+            <h2>O conhecimento se aperfeiçoa após a morte</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Co 13, 9-13</span>
+                <blockquote>«Porque, em parte, conhecemos, e, em parte, profetizamos. Mas, quando vier o que é perfeito, então o que é em parte será removido. Quando eu era menino, falava como menino, sentia como menino, discorria como menino; mas, logo que me tornei homem, <strong class="s-hi">acabei com as coisas de menino.</strong> Porque agora vemos por espelho em enigma, mas então veremos face a face; agora conheço em parte, mas então <strong class="s-hi">conhecerei como também sou conhecido.</strong> Agora, pois, permanecem a fé, a esperança e o amor, estes três; mas o maior destes é o amor.»</blockquote>
+            </div>
+
+            <p>Paulo ensina que nesta vida conhecemos de forma imperfeita. Quando vier o perfeito — o que acontece ao morrer e ver a Deus face a face — conheceremos como Deus nos conheceu: perfeitamente, sem véu, sem limite. Se os santos conhecem assim, nada lhes é oculto. Podem ouvir. Podem entender nossas súplicas.</p>
+
+            <h2>Após a morte, veremos a Deus tal como ele é</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Jo 3, 2</span>
+                <blockquote>«Amados, agora somos filhos de Deus, e ainda não foi manifestado o que haveremos de ser. Mas sabemos que, quando ele se manifestar, <strong class="s-hi">seremos semelhantes a ele; porque o veremos como ele é.</strong>»</blockquote>
+            </div>
+
+            <p>João confirma o que Paulo diz. Agora, nesta vida, não vemos: cremos. Após a morte, veremos a Deus tal como ele é. Os santos já cruzaram esse limiar. Já veem. Por isso não estão nas trevas do chamado «sono da alma» ensinado por alguns — estão na plena luz.</p>
+
+            <h2>Após a morte vem o céu</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Jo 14, 1-4</span>
+                <blockquote>«Não se turbe o vosso coração; credes em Deus, crede também em mim. Na casa de meu Pai há muitas moradas; se assim não fosse, eu vo-lo teria dito; vou preparar-vos um lugar. E quando eu for e vos preparar um lugar, virei outra vez e vos receberei para mim mesmo, para que onde eu estiver estejais vós também. E sabeis para onde eu vou, e conheceis o caminho.»</blockquote>
+            </div>
+
+            <p>Jesus não deixa margem para dúvida: há um destino após a morte, e esse destino é estar com ele. O céu não é uma metáfora: é o lugar aonde Jesus foi nos preparar. E os santos que viveram na fé já estão lá, com ele, onde ele prometeu levá-los.</p>
+
+            <h2>Os santos: a grande nuvem de testemunhas</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Hb 11, 1 — 12, 3</span>
+                <blockquote>«<strong class="s-hi">Ora, a fé é o firme fundamento das coisas que se esperam, e a prova das coisas que se não veem. Nela os antigos alcançaram bom testemunho.</strong><br><br>
+Pela fé, entendemos que os mundos foram criados pela palavra de Deus; de modo que o que se vê não foi feito do que é aparente.<br><br>
+Pela fé, <strong class="s-name">Abel</strong> ofereceu a Deus mais excelente sacrifício do que Caim, pelo qual alcançou o testemunho de ser justo, ao testemunhar Deus a seu respeito das suas ofertas; e por ela Abel, estando morto, ainda fala. Pela fé, <strong class="s-name">Enoque</strong> foi trasladado, para não ver a morte, e não foi achado, porque Deus o trasladou; porque antes da sua trasladação teve o testemunho de que agradara a Deus. Sem fé é impossível agradar-lhe; porque é necessário que aquele que se aproxima de Deus creia que ele existe, e que é galardoador dos que o buscam. Pela fé, <strong class="s-name">Noé</strong>, tendo sido avisado por Deus das coisas que ainda não se viam, movido por temor, preparou a arca para salvação da sua casa; e por ela condenou o mundo, e foi feito herdeiro da justiça que é segundo a fé.<br><br>
+Pela fé, <strong class="s-name">Abraão</strong>, sendo chamado, obedeceu, indo para o lugar que havia de receber por herança; e saiu sem saber onde ia. Pela fé, habitou na terra da promessa, como em terra alheia, morando em tendas, como <strong class="s-name">Isaque e Jacó</strong>, co-herdeiros da mesma promessa; porque esperava a cidade que tem fundamentos, cujo artífice e construtor é Deus. Pela fé, também a mesma <strong class="s-name">Sara</strong> recebeu força para conceber semente, e deu à luz fora do tempo da idade; porquanto teve por fiel aquele que o prometera. Por isso também de um só nasceram, e esse já amortecido, tantos quais as estrelas do céu em multidão, e como a areia que está à beira-mar, inumerável.<br><br>
+Todos estes morreram na fé, sem ter recebido as promessas; mas vendo-as e saudando-as de longe, confessando que eram estrangeiros e peregrinos sobre a terra. Porque os que isso dizem mostram claramente que buscam uma pátria. E se se lembrassem daquela de que saíram, teriam certamente oportunidade de tornar. Mas agora <strong class="s-hi">desejam uma melhor pátria, a celestial.</strong> Por isso Deus não se envergonha de ser chamado o seu Deus, pois lhes tem preparado uma cidade.<br><br>
+Pela fé, Abraão, quando foi provado, ofereceu a Isaque, e o que recebera as promessas oferecia o seu unigênito. Do qual se disse: Em Isaque será chamada a tua semente; concluindo que Deus era poderoso para o ressuscitar até mesmo dentre os mortos; e, como em figura, o tornou a receber. Pela fé, Isaque abençoou Jacó e Esaú no tocante às coisas futuras. Pela fé, Jacó, morrendo, abençoou a cada um dos filhos de José, e adorou, apoiando-se sobre a extremidade do seu bordão. Pela fé, José, morrendo, fez menção da saída dos filhos de Israel, e deu ordens acerca dos seus ossos.<br><br>
+Pela fé, <strong class="s-name">Moisés</strong>, já nascido, foi escondido três meses por seus pais, porque viram que a criança era formosa, e não temeram o mandato do rei. Pela fé, <strong class="s-name">Moisés</strong>, já adulto, recusou chamar-se filho da filha do Faraó; escolhendo antes ser maltratado com o povo de Deus, do que ter o gozo temporário do pecado. Tendo por maiores riquezas do que os tesouros do Egito o vitupério de Cristo; porque tinha em vista a recompensa. Pela fé, deixou o Egito, não temendo a ira do rei; porque se manteve firme, como se visse aquele que é invisível. Pela fé, celebrou a Páscoa e a aspersão do sangue, para que o que destruiu os primogênitos não os tocasse. Pela fé, passaram pelo Mar Vermelho como por terra seca; e os egípcios, tentando fazê-lo, foram submergidos. Pela fé, caíram as muralhas de Jericó, depois de terem sido rodeadas por sete dias. Pela fé, Raabe, a prostituta, não pereceu com os que não creram, tendo recebido os espias com paz.<br><br>
+E que mais direi? Porque me faltaria o tempo contando de <strong class="s-name">Gideão, Baraque, Sansão, Jefté, Davi, Samuel e dos profetas;</strong> que pela fé subjugaram reinos, praticaram a justiça, alcançaram as promessas, fecharam as bocas dos leões, apagaram a força do fogo, escaparam do fio da espada, da fraqueza foram feitos fortes, tornaram-se poderosos em batalha, puseram em fuga os exércitos dos estrangeiros. Algumas mulheres receberam seus mortos ressuscitados; e outros foram torturados, não aceitando o resgate, para que obtivessem uma melhor ressurreição; e outros experimentaram vitupérios e açoites, e além disto cadeias e prisão. Foram apedrejados, serrados, tentados, mortos ao fio da espada; andaram em peles de ovelhas e de cabras; necessitados, angustiados, maltratados; dos quais o mundo não era digno; errando pelos desertos, e pelos montes, e pelas cavernas e covas da terra. E todos estes, embora tenham alcançado bom testemunho mediante a fé, não receberam o cumprimento da promessa; provendo Deus alguma coisa melhor para nós, para que sem nós não fossem aperfeiçoados.<br><br>
+Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tão grande nuvem de testemunhas,</strong> deixemos todo o embaraço e o pecado que tão de perto nos rodeia, e corramos com paciência a carreira que nos está proposta; olhando para Jesus, autor e consumador da fé, o qual pelo gozo que lhe estava proposto, suportou a cruz, desprezando a afronta, e assentou-se à direita do trono de Deus. Considerai, pois, aquele que suportou dos pecadores tão grande contradição contra si mesmo, para que não vos fatigueis, <strong class="s-hi">desfalecendo em vossos ânimos.»</strong></blockquote>
+            </div>
+
+            <p>Essa é a resposta a «quem são os santos?» A Escritura os nomeia um por um. Não é invenção da Igreja. São os heróis da fé que viveram, sofreram e morreram buscando uma pátria que não é deste mundo: a celestial. E ao exemplo deles, o autor dos Hebreus nos convida: «também nós». Aquela imensa nuvem de testemunhas nos rodeia.</p>
+
+            <h2>A alma não dorme — Cristo pregou aos espíritos</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Pe 3, 18-22</span>
+                <blockquote>«Porque também <strong class="s-hi">Cristo morreu uma vez pelos pecados,</strong> o justo pelos injustos, para nos apresentar a Deus; sendo mortificado na carne, mas vivificado no espírito; <strong class="s-hi">no qual também foi, e pregou aos espíritos em prisão,</strong> os quais noutro tempo foram desobedientes, quando a longanimidade de Deus esperava nos dias de Noé, enquanto se preparava a arca; na qual poucas pessoas, a saber, oito almas, foram salvas pela água. O que também, como uma figura, agora vos salva, o batismo, <strong class="s-hi">não o tirar a imundícia da carne,</strong> mas a indagação de uma boa consciência para com Deus, pela ressurreição de Jesus Cristo; que está à direita de Deus, tendo subido ao céu, e estando-lhe sujeitos os anjos, e os principados, e as potestades.»</blockquote>
+            </div>
+
+            <p>Aqui cai o argumento do «sono da alma». Cristo, após morrer, não ficou inconsciente esperando o juízo final: foi pregar a mensagem aos espíritos que estavam em prisão. A alma permanece ativa depois da morte do corpo. Se a de Cristo assim o foi, a dos santos também. A morte é apenas do corpo.</p>
+
+            <h2>Os santos estão na Jerusalém celestial</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Hb 12, 22-24</span>
+                <blockquote>«Antes, vos chegastes ao monte Sião, <strong class="s-hi">à cidade do Deus vivo, a Jerusalém celestial,</strong> a miríades de anjos, à solene assembleia e à congregação dos primogênitos que estão inscritos nos céus, a Deus, o Juiz de todos, <strong class="s-hi">e aos espíritos dos justos já feitos perfeitos,</strong> a Jesus, o Mediador da nova aliança, e ao sangue da aspersão, que fala melhor do que o de Abel.»</blockquote>
+            </div>
+
+            <p>Os santos falecidos não flutuam em nenhum limbo esperando o juízo. Estão na «cidade do Deus vivo». E sua condição não é a dos vivos: são espíritos que «foram feitos perfeitos». Perfeitos. Perto de Deus. Sem barreira. Sem distância.</p>
+
+            <h2>Os santos levam nossas orações ante o trono</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Ap 5, 8</span>
+                <blockquote>«E quando tomou o livro, os quatro animais e os vinte e quatro anciãos prostraram-se diante do Cordeiro, tendo cada um deles harpas e <strong class="s-hi">taças de ouro cheias de incenso, que são as orações dos santos.</strong>»</blockquote>
+            </div>
+
+            <p>João o vê em visão: no céu, diante do Cordeiro, os seres celestiais levam ante o trono taças de incenso que <em>são</em> as orações dos santos. As orações dos fiéis na terra chegam ao altar do céu através dos intercessores que lá se encontram. Os santos não apenas ouvem: apresentam.</p>
+
+            <h2>Conclusão</h2>
+
+            <p>Os santos são os que viveram na fé — como Abel, Enoque, Noé, Abraão, Moisés, os profetas — os que após a morte estão na cidade do Deus vivo, a Jerusalém celestial. Lá conhecem perfeitamente, como Deus os conheceu em vida. Lá veem a Deus tal como ele é. Lá não há limitação nem distância.</p>
+
+            <p>E o que a Igreja faz ao invocá-los é exatamente o que o Apocalipse mostra: eles levam nossas orações ao altar do céu, apresentando-as ante o trono do Cordeiro. Não adoramos os santos. Pedimos que intercedam por nós perante Deus, como pedimos a qualquer irmão que reze por nós. A diferença é que eles estão no céu e conhecem como Deus nos conhece: perfeitamente. Por isso nos veem, nos ouvem e interceden.»</p>`,
       nav: { prevTitle: "Transubstanciação: o mistério eucarístico", nextTitle: "A Santíssima Trindade" }
     },
     "por-que-creemos": {

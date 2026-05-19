@@ -33,7 +33,7 @@ const translationsFR = {
     category: "Doctrine", date: "Bientôt", title: "Transsubstantiation", excerpt: "Le changement substantiel du pain et du vin en Corps et Sang du Christ pendant la Messe.", time: "9 min de lecture", link: "Lire →"
   },
   article5: {
-    category: "Doctrine", date: "Bientôt", title: "Les saints", excerpt: "L'importance des saints dans l'Église catholique et leur intercession pour nous.", time: "7 min de lecture", link: "Lire →"
+    category: "Doctrine", date: "Mai 2026", title: "Les saints", excerpt: "L'importance des saints dans l'Église catholique et leur intercession pour nous.", time: "12 min de lecture", link: "Lire →"
   },
   article6: {
     category: "Doctrine", date: "Bientôt", title: "La Sainte Trinité", excerpt: "Comprendre le mystère central de la foi catholique à travers la théologie et la raison.", time: "10 min de lecture", link: "Lire →"
@@ -96,8 +96,85 @@ const translationsFR = {
     },
     "los-santos": {
       pageTitle: "Les saints | Foi et Raison",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>Les saints et leur intercession</h1><p>Un guide clair sur le rôle des saints dans la vie catholique et comment leur exemple nous pousse vers une foi plus profonde.</p><div class="article-meta"><span>7 min de lecture</span><span>Publié en mai 2026</span></div><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
-      article: `<p>Les saints sont des membres de l'Église qui ont vécu la vie chrétienne avec héroïsme. La dévotion aux saints est née de la reconnaissance de leur union avec le Christ et de leurs prières en faveur des autres.</p><h2>Exemple de sainteté</h2><p>Ils nous montrent comment vivre l'Évangile dans des situations réelles : en famille, au travail et dans le service. Leur vie est un modèle qui inspire confiance et espérance.</p><blockquote>"Les saints sont la mémoire vivante de l'Église et le témoignage de la fidélité de Dieu."</blockquote><h2>Intercession</h2><p>La prière aux saints n'est pas une adoration, mais une demande de leur intercession auprès de Dieu. L'Église demande aux fidèles de prier les uns pour les autres, y compris ceux qui reposent déjà dans le Seigneur.</p><ul><li>Les saints nous accompagnent de leur exemple et de leur prière.</li><li>Ce sont des frères dans la communion des saints.</li><li>Leur vie montre que la sainteté est un appel universel.</li></ul><h2>Vie chrétienne</h2><p>Faire confiance à l'intercession des saints n'affaiblit pas notre relation avec le Christ ; elle la fortifie. Elle nous rappelle que l'Église est un seul corps vivant qui transcende le temps.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>Les saints et leur intercession</h1><p>L'Écriture elle-même les nomme : Abel, Hénoch, Noé, Abraham, Moïse, les prophètes. Passage après passage, nous démontrerons pourquoi les saints peuvent nous entendre et intercéder pour nous.</p><div class="article-meta"><span>12 min de lecture</span><span>Publié en mai 2026</span></div><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+      article: `<p>Il y a une objection que l'on répète sans relâche : <em>« Les morts ne peuvent pas vous entendre. »</em> Au premier abord, cela semble raisonnable. Mais l'Écriture dit autre chose. Non pas dans un seul passage isolé, mais dans sept passages distincts, de Paul jusqu'à l'Apocalypse. Parcourons-les un par un.</p>
+
+            <h2>La connaissance se perfectionne après la mort</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Co 13, 9-13</span>
+                <blockquote>« Car <strong class="s-hi">nous connaissons en partie et nous prophétisons en partie ;</strong> mais quand viendra ce qui est parfait, ce qui est partiel disparaîtra. Lorsque j'étais enfant, je parlais comme un enfant, je pensais comme un enfant, je raisonnais comme un enfant ; une fois devenu homme, j'ai mis fin à ce qui était de l'enfant. Car nous voyons à présent dans un miroir, en énigme, mais alors ce sera face à face. Dès à présent, je connais en partie, mais alors <strong class="s-hi">je connaîtrai comme je suis connu.</strong> Maintenant donc ces trois-là demeurent : la foi, l'espérance, la charité ; mais la plus grande, c'est la charité. »</blockquote>
+            </div>
+
+            <p>Paul enseigne qu'en cette vie nous ne connaissons qu'en partie. Quand viendra ce qui est parfait — ce qui se produit en mourant et en voyant Dieu face à face — nous connaîtrons comme Dieu nous a connus : parfaitement, sans voile, sans limite. Si les saints connaissent ainsi, rien ne leur est caché. Ils peuvent entendre. Ils peuvent comprendre nos supplications.</p>
+
+            <h2>Après la mort, nous verrons Dieu tel qu'il est</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Jn 3, 2</span>
+                <blockquote>« Bien-aimés, nous sommes dès maintenant enfants de Dieu, et ce que nous serons n'a pas encore été manifesté. Nous savons que lors de cette manifestation <strong class="s-hi">nous lui serons semblables, parce que nous le verrons tel qu'il est.</strong> »</blockquote>
+            </div>
+
+            <p>Jean confirme ce que dit Paul. Maintenant, en cette vie, nous ne voyons pas : nous croyons. Après la mort, nous verrons Dieu tel qu'il est. Les saints ont déjà franchi ce seuil. Ils voient déjà. C'est pourquoi ils ne se trouvent pas dans les ténèbres de ce qu'on appelle le « sommeil de l'âme » qu'enseignent certains — ils sont dans la pleine lumière.</p>
+
+            <h2>Après la mort vient le ciel</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Jn 14, 1-4</span>
+                <blockquote>« Que votre cœur ne se trouble pas. Vous croyez en Dieu, croyez aussi en moi. Dans la maison de mon Père, il y a de nombreuses demeures ; sinon, vous aurais-je dit que je vais vous préparer une place ? Quand je serai allé vous préparer une place, je reviendrai et je vous prendrai avec moi, afin que là où je suis, vous aussi vous soyez. Et là où je vais, vous savez le chemin. »</blockquote>
+            </div>
+
+            <p>Jésus ne laisse aucun doute : il y a une destination après la mort, et cette destination c'est être avec lui. Le ciel n'est pas une métaphore : c'est le lieu où Jésus est allé nous préparer une place. Et les saints qui ont vécu dans la foi sont déjà là, avec lui, là où il avait promis de les conduire.</p>
+
+            <h2>Les saints : la grande nuée de témoins</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ He 11, 1 — 12, 3</span>
+                <blockquote>« <strong class="s-hi">La foi est la garantie des biens que l'on espère, la preuve des réalités qu'on ne voit pas. C'est elle qui a valu aux anciens un témoignage favorable.</strong><br><br>
+C'est par la foi que nous reconnaissons que les mondes ont été formés par la parole de Dieu, si bien que ce qu'on voit provient de ce qui n'est pas apparent.<br><br>
+C'est par la foi qu'<strong class="s-name">Abel</strong> offrit à Dieu un sacrifice meilleur que celui de Caïn : par elle, il reçut le témoignage d'être juste, car Dieu lui-même rendit témoignage à ses offrandes ; et par elle, mort, il parle encore. C'est par la foi qu'<strong class="s-name">Hénoch</strong> fut enlevé pour ne pas voir la mort ; on ne le trouva plus parce que Dieu l'avait enlevé. Avant son enlèvement, en effet, il avait reçu le témoignage de plaire à Dieu. Or, sans la foi, il est impossible de lui plaire ; car celui qui s'approche de Dieu doit croire qu'il existe et qu'il récompense ceux qui le cherchent. C'est par la foi que <strong class="s-name">Noé</strong>, divinement averti de ce qu'on ne voyait pas encore, construisit avec une crainte respectueuse une arche pour sauver sa famille ; par là, il condamna le monde et devint héritier de la justice qui vient de la foi.<br><br>
+C'est par la foi qu'<strong class="s-name">Abraham</strong> obéit à l'appel de partir vers un pays qu'il devait recevoir en héritage, et il partit sans savoir où il allait. C'est par la foi qu'il séjourna comme étranger dans la terre promise, habitant sous des tentes, ainsi qu'<strong class="s-name">Isaac et Jacob</strong>, cohéritiers de la même promesse ; car il attendait la ville qui a de solides fondations, dont Dieu est l'architecte et le constructeur. C'est par la foi que <strong class="s-name">Sara</strong> elle-même, malgré son grand âge, reçut la puissance de concevoir, parce qu'elle tint pour fidèle celui qui promettait. Aussi d'un seul homme, qui était comme mort, naquit une postérité aussi nombreuse que les étoiles du ciel, comme le sable sur le rivage de la mer, qui est innombrable.<br><br>
+C'est dans la foi que tous ceux-là sont morts, sans avoir obtenu les biens promis : ils les ont seulement vus et salués de loin, confessant qu'ils étaient étrangers et voyageurs sur la terre. Ceux qui parlent ainsi font voir qu'ils cherchent une patrie. S'ils avaient pensé à celle d'où ils étaient sortis, ils auraient eu l'occasion de retourner. Mais c'est <strong class="s-hi">une meilleure patrie qu'ils désiraient, c'est-à-dire céleste.</strong> C'est pourquoi Dieu n'a pas honte d'être appelé leur Dieu, car il leur a préparé une cité.<br><br>
+C'est par la foi qu'Abraham, mis à l'épreuve, offrit Isaac ; c'est son fils unique qu'il offrait, lui qui avait reçu les promesses. À lui, il avait été dit : C'est en Isaac que sera appelée ta descendance. Il pensait que Dieu est capable même de ressusciter les morts, et il le recouvra à titre de préfiguration. C'est par la foi qu'Isaac bénit Jacob et Ésaü en vue de ce qui était à venir. C'est par la foi que Jacob mourant bénit chacun des fils de Joseph et adora, appuyé sur l'extrémité de son bâton. C'est par la foi que Joseph mourant fit mention de la sortie des fils d'Israël et donna des instructions au sujet de ses ossements.<br><br>
+C'est par la foi que <strong class="s-name">Moïse</strong>, à sa naissance, fut caché trois mois par ses parents, parce qu'ils voyaient que l'enfant était beau, et ils ne craignirent pas l'édit du roi. C'est par la foi que <strong class="s-name">Moïse</strong> adulte refusa d'être appelé fils de la fille du Pharaon, préférant être maltraité avec le peuple de Dieu plutôt que de jouir pour un temps du péché. Il estimait que l'opprobre du Christ est une richesse plus grande que les trésors de l'Égypte, car il avait les yeux fixés sur la récompense. C'est par la foi qu'il quitta l'Égypte sans craindre la colère du roi, car il s'est tenu ferme comme s'il voyait l'Invisible. C'est par la foi qu'il célébra la Pâque et l'aspersion du sang, pour que le destructeur des premiers-nés ne les touchât pas. C'est par la foi qu'ils traversèrent la mer Rouge comme une terre sèche ; les Égyptiens essayèrent et furent engloutis. C'est par la foi que les murs de Jéricho s'écroulèrent, après qu'on en eut fait le tour pendant sept jours. C'est par la foi que Rahab la prostituée ne périt pas avec les désobéissants, parce qu'elle avait accueilli les espions avec bienveillance.<br><br>
+Et que dirai-je encore ? Le temps me manquerait pour parler de <strong class="s-name">Gédéon, Baraq, Samson, Jephté, David, Samuel et les prophètes,</strong> qui par la foi conquirent des royaumes, exercèrent la justice, obtinrent les promesses, fermèrent la gueule des lions, éteignirent la puissance du feu, échappèrent au tranchant de l'épée, trouvèrent de la force dans leur faiblesse, devinrent puissants à la guerre, mirent en fuite des armées étrangères. Des femmes recouvrèrent leurs morts par la résurrection. D'autres furent torturés, refusant d'être relâchés, pour obtenir une meilleure résurrection. D'autres encore eurent à subir des railleries et des flagellations, les chaînes même et la prison. Ils furent lapidés, sciés en deux, tués à l'épée ; ils errèrent en peaux de brebis et en peaux de chèvres, dans le dénuement, la persécution, les mauvais traitements — le monde n'était pas digne d'eux ! — ils errèrent dans les déserts et les montagnes, dans les cavernes et les trous de la terre. Et ceux-là tous, bien qu'ils aient reçu par leur foi un témoignage favorable, n'obtinrent pas ce qui était promis, Dieu ayant prévu pour nous quelque chose de meilleur, afin qu'ils ne parviennent pas sans nous à la perfection.<br><br>
+Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande nuée de témoins,</strong> nous devons, nous débarrassant de tout fardeau et du péché qui nous enveloppe, courir avec endurance l'épreuve qui nous est proposée, les yeux fixés sur Jésus, qui est l'auteur et le consommateur de la foi ; lequel, en vue de la joie qui lui était proposée, a souffert la croix, au mépris de la honte, et s'est assis à la droite du trône de Dieu. Pensez à celui qui a supporté de la part des pécheurs une telle hostilité, afin <strong class="s-hi">que vous ne vous lassiez pas et que vous ne vous découragiez pas dans vos âmes. »</strong></blockquote>
+            </div>
+
+            <p>Voilà la réponse à « qui sont les saints ? » L'Écriture les nomme un par un. Ce n'est pas une invention de l'Église. Ce sont les héros de la foi qui ont vécu, souffert et sont morts en cherchant une patrie qui n'est pas de ce monde : la céleste. Et à leur exemple, l'auteur des Hébreux nous invite : « nous aussi ». Cette immense nuée de témoins nous entoure.</p>
+
+            <h2>L'âme ne dort pas — le Christ a prêché aux esprits</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 P 3, 18-22</span>
+                <blockquote>« Car <strong class="s-hi">le Christ aussi a souffert pour les péchés, une fois pour toutes,</strong> lui, le juste, pour des injustes, afin de vous mener à Dieu ; mis à mort selon la chair, <strong class="s-hi">il a été rendu vivant selon l'Esprit. Dans cet état, il est allé proclamer sa victoire aux esprits en prison,</strong> à ceux qui avaient refusé d'obéir jadis, quand la patience de Dieu se prolongeait, au temps de Noé, pendant la construction de l'arche, dans laquelle un petit nombre, soit huit personnes, furent sauvées à travers l'eau. Ce qui vous sauve, c'est un baptême correspondant à cela, <strong class="s-hi">non pas l'enlèvement de la souillure de la chair, mais la requête à Dieu d'une bonne conscience,</strong> par la résurrection de Jésus Christ, qui est à la droite de Dieu, après avoir monté au ciel, les anges, les dominations et les puissances lui ayant été soumis. »</blockquote>
+            </div>
+
+            <p>Ici s'effondre l'argument du « sommeil de l'âme ». Le Christ, après sa mort, ne resta pas inconscient à attendre le jugement dernier — il alla proclamer le message aux esprits en prison. L'âme demeure active après la mort du corps. Si celle du Christ l'était, celle des saints l'est aussi. La mort n'appartient qu'au corps.</p>
+
+            <h2>Les saints sont dans la Jérusalem céleste</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ He 12, 22-24</span>
+                <blockquote>« Non, vous vous êtes approchés de la montagne de Sion, <strong class="s-hi">de la cité du Dieu vivant, la Jérusalem céleste,</strong> et de myriades d'anges en fête, de l'assemblée des premiers-nés inscrits dans les cieux, et de Dieu, le juge de tous, et <strong class="s-hi">des esprits des justes parvenus à la perfection,</strong> et de Jésus, le médiateur d'une alliance nouvelle, et du sang de l'aspersion qui parle mieux que celui d'Abel. »</blockquote>
+            </div>
+
+            <p>Les saints défunts ne flottent pas dans quelque limbe en attendant le jugement. Ils sont dans « la cité du Dieu vivant ». Et leur condition n'est pas celle des vivants : ce sont des esprits qui « sont parvenus à la perfection ». Parfaits. Proches de Dieu. Sans barrière. Sans distance.</p>
+
+            <h2>Les saints portent nos prières devant le trône</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Ap 5, 8</span>
+                <blockquote>« Quand il l'eut pris, les quatre Vivants et les vingt-quatre Anciens se prosternèrent devant l'Agneau, tenant chacun une cithare et des <strong class="s-hi">coupes d'or remplies de parfums, qui sont les prières des saints.</strong> »</blockquote>
+            </div>
+
+            <p>Jean le voit en vision : dans le ciel, devant l'Agneau, les êtres célestes portent devant le trône des coupes d'encens qui <em>sont</em> les prières des saints. Les prières des fidèles sur terre atteignent l'autel du ciel par les intercesseurs qui s'y trouvent. Les saints ne font pas qu'entendre : ils présentent.</p>
+
+            <h2>Conclusion</h2>
+
+            <p>Les saints sont ceux qui ont vécu dans la foi — comme Abel, Hénoch, Noé, Abraham, Moïse, les prophètes — ceux qui après la mort sont dans la cité du Dieu vivant, la Jérusalem céleste. Là ils connaissent parfaitement, comme Dieu les a connus de leur vivant. Là ils voient Dieu tel qu'il est. Là il n'y a ni limitation ni distance.</p>
+
+            <p>Et ce que fait l'Église en les invoquant est exactement ce que montre l'Apocalypse : ils portent nos prières à l'autel du ciel et les présentent devant le trône de l'Agneau. Nous n'adorons pas les saints. Nous leur demandons d'intercéder pour nous auprès de Dieu, comme nous demandons à n'importe quel frère de prier pour nous. La différence, c'est qu'ils sont au ciel et qu'ils connaissent comme Dieu nous connaît : parfaitement. C'est pourquoi ils nous voient, nous entendent et intercèdent.</p>`,
       nav: { prevTitle: "Transsubstantiation : le mystère eucharistique", nextTitle: "La Sainte Trinité" }
     },
     "por-que-creemos": {

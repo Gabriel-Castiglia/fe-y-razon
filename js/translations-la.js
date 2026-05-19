@@ -59,10 +59,10 @@ const translationsLA = {
   },
   article5: {
     category: "Doctrina",
-    date: "Mox veniet",
+    date: "Maii MMXXVI",
     title: "Sancti",
     excerpt: "Momentum sanctorum in Ecclesia catholica et eorum intercessio pro nobis.",
-    time: "VII min lectura",
+    time: "XII min lectura",
     link: "Lege →"
   },
   article6: {
@@ -326,25 +326,90 @@ const translationsLA = {
                 <span class="eyebrow-text">Thema Speciale</span>
             </div>
             <h1>Sancti et eorum intercessio</h1>
-            <p>Explicatio clara de munere sanctorum in vita catholica et quomodo eorum exemplum nos ad profundiorem fidem impellat.</p>
+            <p>Scriptura ipsa eos nominat: Abel, Henoch, Noe, Abraham, Moyses, prophetae. Locum ex loco demonstrabimus cur sancti nos audire et intercedere possint.</p>
             <div class="article-meta">
-                <span>VII min lectura</span>
+                <span>XII min lectura</span>
                 <span>Editus Maio MMXXVI</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Ad Themata reverti</a>`,
-      article: `<p>Sancti sunt membra Ecclesiae qui vitam christianam cum heroismo vixerunt. Devotio ad sanctos orta est ex agnitione unionis eorum cum Christo et orationum eorum pro aliis.</p>
-                <h2>Exemplum sanctitatis</h2>
-                <p>Nobis ostendunt quomodo Evangelium in situationibus realibus vivendum sit: in familia, opere et servitio. Vita eorum est exemplar quod fiduciam et spem inspirat.</p>
-                <blockquote>"Sancti sunt viva memoria Ecclesiae et testimonium fidelitatis Dei."</blockquote>
-                <h2>Intercessio</h2>
-                <p>Oratio ad sanctos non est adoratio, sed petitio intercessionis eorum apud Deum. Ecclesia fidelibus postulat ut pro invicem orent, etiam pro his qui iam in Domino quiescunt.</p>
-                <ul>
-                    <li>Sancti nos comitantur exemplo et oratione sua.</li>
-                    <li>Fratres sunt in communione sanctorum.</li>
-                    <li>Vita eorum ostendit sanctitatem esse vocationem universalem.</li>
-                </ul>
-                <h2>Vita christiana</h2>
-                <p>Intercessionis sanctorum fidere relationem nostram cum Christo non debilitat; corroborat. Nos admonet Ecclesiam esse unum corpus vivum quod tempus transcendit.</p>`,
+      article: `<p>Obiectio saepe repetita: <em>«Mortui te audire non possunt.»</em> Prima facie rationabilis videtur. Sed Scriptura aliud dicit. Non in uno loco separato. In septem locis diversis, a Paulo usque ad Apocalypsim. Singulos percurramus.</p>
+
+            <h2>Post mortem cognitio perficitur</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ I Cor 13:9-13</span>
+                <blockquote>«<strong class="s-hi">Ex parte enim cognoscimus, et ex parte prophetamus.</strong> Cum autem venerit quod perfectum est, evacuabitur quod ex parte est. Cum essem parvulus, loquebar ut parvulus, sapiebam ut parvulus, cogitabam ut parvulus. Quando autem factus sum vir, evacuavi quae erant parvuli. Videmus nunc per speculum in aenigmate: tunc autem facie ad faciem. Nunc cognosco ex parte: tunc autem <strong class="s-hi">cognoscam sicut et cognitus sum.</strong> Nunc autem manent fides, spes, caritas, tria haec: maior autem horum est caritas.»</blockquote>
+            </div>
+
+            <p>Paulus docet nos in hac vita ex parte tantum cognoscere. Cum venerit perfectum — quod fit moriendo et Deum facie ad faciem videndo — cognoscemus sicut Deus nos cognovit: perfecte, sine velo, sine limite. Si sancti ita cognoscunt, nihil eis occultum est. Audire possunt. Preces nostras intellegere possunt.</p>
+
+            <h2>Post mortem Deum videbimus sicuti est</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ I Io 3:2</span>
+                <blockquote>«Carissimi, nunc filii Dei sumus: et nondum apparuit quid erimus. Scimus quoniam cum apparuerit, <strong class="s-hi">similes ei erimus: quoniam videbimus eum sicuti est.</strong>»</blockquote>
+            </div>
+
+            <p>Ioannes confirmat quod Paulus dicit. Nunc, in hac vita, non videmus: credimus. Post mortem Deum videbimus sicuti est. Sancti iam illum limen transierunt. Iam vident. Ideo non sunt in tenebris illius quam quidam docent «somnii animae» — in plena luce sunt.</p>
+
+            <h2>Post mortem venit caelum</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Io 14:1-4</span>
+                <blockquote>«Non turbetur cor vestrum. Creditis in Deum, et in me credite. In domo Patris mei mansiones multae sunt. Si quo minus, dixissem vobis: quia vado parare vobis locum. Et si abiero, et praeparavero vobis locum, iterum venio, et accipiam vos ad meipsum: ut ubi sum ego, et vos sitis. Et quo ego vado scitis, et viam scitis.»</blockquote>
+            </div>
+
+            <p>Iesus nullum dubium relinquit: post mortem destinatio est, et illa destinatio est esse cum eo. Caelum non est metaphora: est locus quem Iesus nobis paratum ivit. Et sancti qui in fide vixerunt iam illic sunt, cum eo, ubi eos ducere promisit.</p>
+
+            <h2>Sancti: magna nubes testium</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Heb 11:1 — 12:3</span>
+                <blockquote>«<strong class="s-hi">Est autem fides sperandorum substantia, rerum argumentum non apparentium. In hac enim testimonium consecuti sunt senes.</strong><br><br>
+Fide intelligimus aptata esse saecula verbo Dei, ut ex invisibilibus visibilia fierent.<br><br>
+Fide <strong class="s-name">Abel</strong> obtulit Deo maius sacrificium quam Cain, per quam testimonium consecutus est esse iustus, testimonium perhibente muneribus eius Deo, et per illam mortuus adhuc loquitur. Fide <strong class="s-name">Henoch</strong> translatus est ne videret mortem, et non inveniebatur, quia transtulit illum Deus: ante translationem enim testimonium habuit placuisse Deo. Sine fide autem impossibile est placere Deo. Credere enim oportet accedentem ad Deum, quia est, et inquirentibus se remunerator sit. Fide <strong class="s-name">Noe</strong>, responso accepto de his quae adhuc non videbantur, metuens aptavit arcam in salutem domus suae; per quam damnavit mundum, et iustitiae quae per fidem est heres est institutus.<br><br>
+Fide qui vocatur <strong class="s-name">Abraham</strong> obedivit in locum exire quem accepturus erat in hereditatem, et exiit nesciens quo iret. Fide morabatur in terra repromissionis tamquam in aliena, in casulis habitando cum <strong class="s-name">Isaac et Iacob</strong> coheredibus repromissionis eiusdem: expectabat enim fundamenta habentem civitatem, cuius artifex et conditor est Deus. Fide et ipsa <strong class="s-name">Sara</strong> sterilis virtutem in conceptionem seminis accepit, etiam praeter tempus aetatis: quoniam fidelem credidit esse qui promiserat. Quapropter et ab uno orti sunt (et hoc emortuo) tamquam sidera caeli in multitudine, et sicut arena quae est ad oram maris, innumerabilis.<br><br>
+Iuxta fidem defuncti sunt omnes isti, non acceptis repromissionibus, sed a longe eas aspicientes et salutantes, et confitentes quia peregrini et hospites sunt supra terram. Qui enim haec dicunt, significant se patriam inquirere. Et si quidem illius meminissent de qua exierunt, habebant utique tempus revertendi: nunc autem <strong class="s-hi">meliorem appetunt, id est caelestem.</strong> Ideo non confunditur Deus vocari Deus eorum: paravit enim illis civitatem.<br><br>
+Fide obtulit Abraham Isaac cum tentaretur, et unigenitum offerebat qui susceperat repromissiones: ad quem dictum est: Quia in Isaac vocabitur tibi semen: arbitrans quia et a mortuis suscitare potens est Deus: unde eum et in parabolam accepit. Fide et de futuris benedixit Isaac Iacob et Esau. Fide Iacob moriens singulos filiorum Ioseph benedixit, et adoravit fastigium virgae eius. Fide Ioseph moriens de profectione filiorum Israel memoratus est et de ossibus suis mandavit.<br><br>
+Fide <strong class="s-name">Moyses</strong> natus occultatus est mensibus tribus a parentibus suis, eo quod vidissent elegantem infantem, et non timuerunt regis edictum. Fide <strong class="s-name">Moyses</strong> grandis factus negavit se esse filium filiae Pharaonis, magis eligens affligi cum populo Dei quam temporalis peccati habere iucunditatem: maiores divitias aestimans thesauris Aegyptiorum improperium Christi: aspiciebat enim in remunerationem. Fide reliquit Aegyptum, non veritus animositatem regis: invisibilem enim tanquam videns sustinuit. Fide celebravit Pascha et sanguinis effusionem, ne qui vastabat primitiva tangeret eos. Fide transierunt mare Rubrum tamquam aridam terram: quod experientes Aegyptii absorpti sunt. Fide muri Hiericho corruerunt, circuiti diebus septem. Fide Raab meretrix non periit cum incredulis, excipiens exploratores cum pace.<br><br>
+Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">Gedeon, Barac, Samson, Iephte, David, Samuele et Prophetis:</strong> qui per fidem vicerunt regna, operati sunt iustitiam, adepti sunt repromissiones, obturarunt ora leonum, extinxerunt impetum ignis, effugerunt aciem gladii, convaluerunt de infirmitate, fortes facti sunt in bello, castra verterunt externorum. Acceperunt mulieres de resurrectione mortuos suos: alii autem distenti sunt, non suscipientes redemptionem, ut meliorem invenirent resurrectionem. Alii vero ludibria et verbera experti, insuper et vincula et carceres: lapidati sunt, secti sunt, tentati sunt, in occisione gladii mortui sunt, circuierunt in melotis, in pellibus caprinis, egentes, angustiati, afflicti — quibus dignus non erat mundus — in solitudinibus errantes, in montibus et speluncis et in cavernis terrae. Et hi omnes testimonio fidei probati non acceperunt repromissionem, Deo pro nobis melius aliquid providente, ne sine nobis consummarentur.<br><br>
+<strong class="s-hi">Ideoque et nos tantam habentes impositam nubem testium,</strong> deponentes omne pondus et circumstans nos peccatum, per patientiam curramus ad propositum nobis certamen: aspicientes in auctorem fidei et consummatorem Iesum, qui proposito sibi gaudio sustinuit crucem, confusione contempta, atque in dextera sedis Dei sedet. Recogitate enim eum qui talem sustinuit a peccatoribus adversum semetipsum contradictionem: <strong class="s-hi">ut ne fatigemini, animis vestris deficientes.»</strong></blockquote>
+            </div>
+
+            <p>Haec est responsio ad «qui sunt sancti?» Scriptura eos nominatim enumerat. Non est inventum Ecclesiae. Sunt heroes fidei qui vixerunt, passi sunt et mortui sunt patriam quaerentes quae non est huius mundi: caelestem. Et ad eorum exemplum auctor ad Hebraeos nos invitat: «et nos». Illa ingens nubes testium nos circumdat.</p>
+
+            <h2>Anima non dormit — Christus spiritibus praedicavit</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ I Petr 3:18-22</span>
+                <blockquote>«Quia et <strong class="s-hi">Christus semel pro peccatis mortuus est,</strong> iustus pro iniustis, ut nos offerret Deo, mortificatus quidem carne, <strong class="s-hi">vivificatus autem spiritu. In quo et his qui in carcere erant spiritibus veniens praedicavit:</strong> qui increduli fuerant aliquando, quando expectabant Dei patientiam in diebus Noe, cum fabricaretur arca: in qua pauci, id est octo animae salvae factae sunt per aquam. Quod et vos nunc similis formae <strong class="s-hi">salvos facit baptisma:</strong> non carnis depositio sordium, sed conscientiae bonae interrogatio in Deum per resurrectionem Iesu Christi: qui est in dextera Dei, deglutiens mortem ut vitae aeternae heredes efficeremur: profectus in caelum, subiectis sibi angelis et potestatibus et virtutibus.»</blockquote>
+            </div>
+
+            <p>Hic cadit argumentum «somnii animae». Christus post mortem non mansit inscius ultimum iudicium expectans: ivit praedicare spiritibus qui in carcere erant. Anima activa manet post mortem corporis. Si anima Christi ita erat, ita et animae sanctorum. Mors solius corporis est.</p>
+
+            <h2>Sancti sunt in Hierusalem caelesti</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Heb 12:22-24</span>
+                <blockquote>«Sed accessistis ad <strong class="s-hi">Sion montem, et civitatem Dei viventis, Hierusalem caelestem,</strong> et multorum millium angelorum frequentiam, et Ecclesiam primitivorum qui conscripti sunt in caelis, et iudicem omnium Deum, <strong class="s-hi">et spiritus iustorum perfectorum,</strong> et Iesum mediatorem novi testamenti, et sanguinem aspersionis melius loquentem quam Abel.»</blockquote>
+            </div>
+
+            <p>Sancti defuncti non vagantur in aliquo limbo iudicium expectantes. Sunt in «civitate Dei viventis». Et condicio eorum non est viventium: sunt spiritus qui «iusti perfecti» facti sunt. Perfecti. Prope Deum. Sine obstaculo. Sine distantia.</p>
+
+            <h2>Sancti preces nostras ante thronum deferunt</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Apoc 5:8</span>
+                <blockquote>«Et cum aperuisset librum, quattuor animalia et viginti quattuor seniores ceciderunt coram Agno, habentes singuli citharas et <strong class="s-hi">phialas aureas plenas odoramentorum, quae sunt orationes sanctorum.</strong>»</blockquote>
+            </div>
+
+            <p>Ioannes hoc in visione videt: in caelo, coram Agno, caelestes phialas thuris ante thronum deferunt quae <em>sunt</em> orationes sanctorum. Orationes fidelium in terra per intercessores ibi praesentes ad altare caeli perveniunt. Sancti non solum audiunt: offerunt.</p>
+
+            <h2>Conclusio</h2>
+
+            <p>Sancti sunt qui in fide vixerunt — sicut Abel, Henoch, Noe, Abraham, Moyses, prophetae — qui post mortem sunt in civitate Dei viventis, Hierusalem caelesti. Ibi perfecte cognoscunt, sicut Deus eos in vita cognovit. Ibi Deum vident sicuti est. Ibi nulla limitatio, nulla distantia.</p>
+
+            <p>Et quod Ecclesia facit eos invocando est exacte quod Apocalypsis ostendit: preces nostras ad altare caeli deferunt easque ante thronum Agni offerunt. Non adoramus sanctos. Petimus eos ut pro nobis apud Deum intercedant, sicut ab ullo fratre petimus ut pro nobis oret. Differentia est quod illi in caelo sunt et cognoscunt sicut Deus nos cognoscit: perfecte. Ideo nos vident, nos audiunt, et intercedunt.`,
       nav: {
         prevTitle: "Transsubstantiatio: mysterium eucharisticum",
         nextTitle: "Sanctissima Trinitas"
