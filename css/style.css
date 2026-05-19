@@ -946,6 +946,27 @@ section {
 html[lang="es"] [data-complete-for~="es"] {
   display: none;
 }
+html[lang="en"] [data-complete-for~="en"] {
+  display: none;
+}
+html[lang="ja"] [data-complete-for~="ja"] {
+  display: none;
+}
+html[lang="tl"] [data-complete-for~="tl"] {
+  display: none;
+}
+html[lang="da"] [data-complete-for~="da"] {
+  display: none;
+}
+html[lang="la"] [data-complete-for~="la"] {
+  display: none;
+}
+html[lang="fr"] [data-complete-for~="fr"] {
+  display: none;
+}
+html[lang="pt"] [data-complete-for~="pt"] {
+  display: none;
+}
 
 .article-page {
   padding: 90px 0 120px;
@@ -1026,13 +1047,13 @@ html[lang="es"] [data-complete-for~="es"] {
 }
 /* Frase clave resaltada dentro de una cita bíblica */
 .s-hi {
-  color: #7a3200;
+  color: #9e3e00;
   font-weight: 700;
   font-style: normal;
 }
 /* Nombre propio resaltado dentro de una cita bíblica */
 .s-name {
-  color: #7a5c2a;
+  color: #8a6420;
   font-weight: 700;
   font-style: normal;
 }

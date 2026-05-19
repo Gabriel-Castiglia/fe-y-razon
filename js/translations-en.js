@@ -54,10 +54,10 @@ const translationsEN = {
   },
   article5: {
     category: "Doctrine",
-    date: "Coming soon",
+    date: "May 2026",
     title: "The Saints",
     excerpt: "The importance of the saints in the Catholic Church and their intercession for us.",
-    time: "7 min read",
+    time: "12 min read",
     link: "Read →"
   },
   article6: {
@@ -320,25 +320,90 @@ const translationsEN = {
                 <span class="eyebrow-text">Special Topic</span>
             </div>
             <h1>The Saints and Their Intercession</h1>
-            <p>A clear guide on the role of the saints in Catholic life and how their example encourages a deeper faith.</p>
+            <p>Scripture names them: Abel, Enoch, Noah, Abraham, Moses, the prophets. Passage by passage, we will demonstrate why the saints can hear us and intercede for us.</p>
             <div class="article-meta">
-                <span>7 min read</span>
+                <span>12 min read</span>
                 <span>Published May 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
-      article: `<p>The saints are members of the Church who lived Christian life with heroism. Devotion to the saints arose from recognizing their union with Christ and their prayers on behalf of others.</p>
-                <h2>Example of holiness</h2>
-                <p>They show us how to live the Gospel in real situations: in family, work, and service. Their lives are a model that inspires trust and hope.</p>
-                <blockquote>"The saints are the living memory of the Church and the testimony of God’s faithfulness."</blockquote>
-                <h2>Intercession</h2>
-                <p>Prayer to the saints is not worship, but a request for their intercession before God. The Church asks the faithful to pray for one another, including those who have already rested in the Lord.</p>
-                <ul>
-                    <li>The saints accompany us with their example and prayer.</li>
-                    <li>They are brothers in the communion of saints.</li>
-                    <li>Their lives show that holiness is a universal call.</li>
-                </ul>
-                <h2>Christian life</h2>
-                <p>Trusting in the saints’ intercession does not weaken our relationship with Christ; it strengthens it. It reminds us that the Church is one living body that transcends time.</p>`,
+      article: `<p>There is an objection repeated tirelessly: <em>"The dead cannot hear you."</em> At first glance it sounds reasonable. But Scripture says something else — not in one isolated verse, but in seven distinct passages, from Paul to Revelation. Let us go through them one by one.</p>
+
+            <h2>Knowledge is perfected after death</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Corinthians 13:9-13</span>
+                <blockquote>«For <strong class="s-hi">we know in part and we prophesy in part;</strong> but when the perfect comes, the partial will pass away. When I was a child, I used to talk as a child, think as a child, reason as a child; when I became a man, I put aside childish things. At present we see indistinctly, as in a mirror, but then face to face. At present I know partially; then <strong class="s-hi">I shall know fully, as I am fully known.</strong> So faith, hope, love remain, these three; but the greatest of these is love.»</blockquote>
+            </div>
+
+            <p>Paul teaches that in this life we know imperfectly. When the perfect comes — which happens at death, when we see God face to face — we shall know as God himself has known us: perfectly, without veil, without limit. If the saints know in this way, nothing is hidden from them. They can hear. They can understand our prayers.</p>
+
+            <h2>After death, we shall see God as he is</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 John 3:2</span>
+                <blockquote>«Beloved, we are God’s children now; what we shall be has not yet been revealed. We do know that when it is revealed <strong class="s-hi">we shall be like him, for we shall see him as he is.</strong>»</blockquote>
+            </div>
+
+            <p>John confirms what Paul says. Now, in this life, we do not see: we believe. After death, we shall see God as he is. The saints have already crossed that threshold. They already see. This is why they are not in the darkness of the so-called "soul sleep" taught by some — they are in full light.</p>
+
+            <h2>After death comes heaven</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ John 14:1-4</span>
+                <blockquote>«Do not let your hearts be troubled. You have faith in God; have faith also in me. In my Father’s house there are many dwelling places. If there were not, would I have told you that I am going to prepare a place for you? And if I go and prepare a place for you, I will come back again and take you to myself, so that where I am you also may be. Where I am going you know the way.»</blockquote>
+            </div>
+
+            <p>Jesus leaves no room for doubt: there is a destiny after death, and that destiny is to be with him. Heaven is not a metaphor — it is the place Jesus went to prepare for us. And the saints who lived in faith are already there, with him, where he promised to bring them.</p>
+
+            <h2>The saints: the great cloud of witnesses</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Hebrews 11:1 — 12:3</span>
+                <blockquote>«<strong class="s-hi">Faith is the realization of what is hoped for and evidence of things not seen. Because of it the ancients were well attested.</strong><br><br>
+By faith we understand that the universe was ordered by the word of God, so that what is visible came into being through the invisible.<br><br>
+By faith <strong class="s-name">Abel</strong> offered God a sacrifice greater than Cain’s. Through this he was attested to be righteous, God bearing witness to his gifts, and through this, though dead, he still speaks. By faith <strong class="s-name">Enoch</strong> was taken up so that he should not see death, and he was found no more, because God had taken him. Before he was taken up, he was attested to have pleased God. Without faith it is impossible to please him, for anyone who approaches God must believe that he exists and that he rewards those who seek him. By faith <strong class="s-name">Noah</strong>, warned about what was not yet seen, with reverence built an ark for the salvation of his household. Through this he condemned the world and inherited the righteousness that comes through faith.<br><br>
+By faith <strong class="s-name">Abraham</strong> obeyed when he was called to go out to a place that he was to receive as an inheritance; he went out, not knowing where he was to go. By faith he sojourned in the promised land as in a foreign country, dwelling in tents with <strong class="s-name">Isaac and Jacob</strong>, heirs of the same promise; for he was looking forward to the city with foundations, whose architect and maker is God. By faith <strong class="s-name">Sarah</strong> herself received power to conceive, even past the normal age, since she considered him faithful who had promised. Therefore from one person, and him as good as dead, descendants as numerous as the stars in the sky and as countless as the grains of sand on the seashore came forth.<br><br>
+All these died in faith, without receiving what had been promised, but they saw it and greeted it from afar and acknowledged themselves to be strangers and aliens on earth. Now those who say such things show that they are seeking a homeland. If they had been thinking of the land from which they had come, they would have had opportunity to return. But now <strong class="s-hi">they desire a better homeland, a heavenly one.</strong> Therefore God is not ashamed to be called their God, for he has prepared a city for them.<br><br>
+By faith Abraham, when put to the test, offered up Isaac, and he who had received the promises was ready to offer his only son. By faith Isaac invoked future blessings on Jacob and Esau. By faith Jacob, when dying, blessed each of the sons of Joseph and bowed in worship, leaning on the top of his staff. By faith Joseph, near the end of his life, spoke of the exodus of the Israelites and gave instructions about his bones.<br><br>
+By faith <strong class="s-name">Moses</strong> was hidden by his parents for three months after his birth, because they saw that the child was beautiful, and they were not afraid of the king’s edict. By faith <strong class="s-name">Moses</strong>, when he had grown up, refused to be known as the son of Pharaoh’s daughter; he chose to be mistreated along with the people of God rather than enjoy the fleeting pleasure of sin. He considered the reproach of Christ greater wealth than the treasures of Egypt, for he was looking to the recompense. By faith he left Egypt, not fearing the king’s fury, for he persevered as if seeing the one who is invisible. By faith he kept the Passover and the sprinkling of blood, so that the Destroyer of the firstborn might not touch them. By faith they crossed the Red Sea as if it were dry land, but when the Egyptians attempted it they were drowned. By faith the walls of Jericho fell, after being encircled for seven days. By faith Rahab the prostitute did not perish with the disobedient, for she had received the spies in peace.<br><br>
+What more shall I say? I have not time to tell of <strong class="s-name">Gideon, Barak, Samson, Jephthah, of David and Samuel and the prophets,</strong> who by faith conquered kingdoms, did what was righteous, obtained the promises; they closed the mouths of lions, put out raging fires, escaped the devouring sword; out of weakness they were made powerful, became strong in battle, and turned back foreign armies. Women received back their dead through resurrection. Some were tortured and would not accept deliverance, in order to obtain a better resurrection. Others endured mocking and scourging, even chains and imprisonment. They were stoned, sawed in two, put to death at sword’s point; they went about in skins of sheep or goats, needy, afflicted, tormented. The world was not worthy of them. They wandered about in deserts and on mountains, in caves and in crevices in the earth. Yet all these, though approved because of their faith, did not receive what had been promised, since God had foreseen something better for us, so that without us they should not be made perfect.<br><br>
+Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of witnesses,</strong> let us rid ourselves of every burden and sin that clings to us and persevere in running the race that lies before us while keeping our eyes fixed on Jesus, the leader and perfecter of faith. For the sake of the joy that lay before him he endured the cross, despising its shame, and has taken his seat at the right of the throne of God. Consider how he endured such opposition from sinners, in order that <strong class="s-hi">you may not grow weary and lose heart.</strong>»</blockquote>
+            </div>
+
+            <p>This is the answer to "who are the saints?" Scripture names them one by one. This is not an invention of the Church. They are the heroes of faith who lived, suffered, and died seeking a homeland not of this world — the heavenly one. And following their example, the author of Hebrews invites us: "we too." That immense cloud of witnesses surrounds us.</p>
+
+            <h2>The soul does not sleep — Christ preached to the spirits</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Peter 3:18-22</span>
+                <blockquote>«For <strong class="s-hi">Christ also suffered for sins once,</strong> the righteous for the sake of the unrighteous, that he might lead you to God. Put to death in the flesh, <strong class="s-hi">he was brought to life in the spirit. In it he also went to preach to the spirits in prison,</strong> who had once been disobedient while God patiently waited in the days of Noah during the building of the ark, in which a few persons, eight in all, were saved through water. This prefigured baptism, which <strong class="s-hi">saves you now.</strong> It is not a removal of dirt from the body but an appeal to God for a clear conscience, through the resurrection of Jesus Christ, who has gone into heaven and is at the right hand of God, with angels, authorities, and powers subject to him.»</blockquote>
+            </div>
+
+            <p>Here the "soul sleep" argument collapses. Christ, after dying, did not remain unconscious awaiting the final judgment — he went to proclaim the message to the imprisoned spirits. The soul remains active after the death of the body. If Christ’s soul was active, so are the souls of the saints. Death belongs only to the body.</p>
+
+            <h2>The saints are in the heavenly Jerusalem</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Hebrews 12:22-24</span>
+                <blockquote>«No, you have approached <strong class="s-hi">Mount Zion and the city of the living God, the heavenly Jerusalem,</strong> and countless angels in festal gathering, and the assembly of the firstborn enrolled in heaven, and God the judge of all, <strong class="s-hi">and the spirits of the just made perfect,</strong> and Jesus, the mediator of a new covenant, and the sprinkled blood that speaks more eloquently than that of Abel.»</blockquote>
+            </div>
+
+            <p>The departed saints do not float in some limbo awaiting judgment. They are in "the city of the living God." And their condition is not like that of the living — they are spirits who "have been made perfect." Perfect. Close to God. Without barrier. Without distance.</p>
+
+            <h2>The saints bring our prayers before the throne</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Revelation 5:8</span>
+                <blockquote>«When he took it, the four living creatures and the twenty-four elders fell down before the Lamb. Each of the elders held a harp and <strong class="s-hi">gold bowls filled with incense, which are the prayers of the holy ones.</strong>»</blockquote>
+            </div>
+
+            <p>John sees it in a vision: in heaven, before the Lamb, the heavenly beings carry before the throne bowls of incense that <em>are</em> the prayers of the saints. The prayers of the faithful on earth reach the altar of heaven through the intercessors there. The saints do not only hear — they present.</p>
+
+            <h2>Conclusion</h2>
+
+            <p>The saints are those who lived in faith — like Abel, Enoch, Noah, Abraham, Moses, the prophets — those who after death are in the city of the living God, the heavenly Jerusalem. There they know perfectly, as God knew them in life. There they see God as he is. There is no limitation, no distance.</p>
+
+            <p>What the Church does in invoking them is exactly what Revelation shows: they bring our prayers to the heavenly altar, presenting them before the throne of the Lamb. We do not worship the saints. We ask them to intercede for us before God, just as we ask any brother to pray for us. The difference is that they are in heaven and know as God knows us — perfectly. That is why they see us, hear us, and intercede.</p>`,
       nav: {
         prevTitle: "Transubstantiation: the Eucharistic Mystery",
         nextTitle: "The Holy Trinity"

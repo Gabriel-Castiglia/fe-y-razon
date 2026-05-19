@@ -54,10 +54,10 @@ const translationsDA = {
   },
   article5: {
     category: "Doktrin",
-    date: "Kommer snart",
+    date: "Maj 2026",
     title: "Helgenerne",
     excerpt: "Helgenernes betydning i den katolske kirke og deres forbøn for os.",
-    time: "7 min læsning",
+    time: "12 min læsning",
     link: "Læs →"
   },
   article6: {
@@ -376,25 +376,90 @@ const translationsDA = {
                 <span class="eyebrow-text">Specialemne</span>
             </div>
             <h1>Helgenerne og deres forbøn</h1>
-            <p>En klar vejledning om helgenernes rolle i det katolske liv, og hvordan deres eksempel opmuntrer til en dybere tro.</p>
+            <p>Skriften nævner dem selv: Abel, Enok, Noa, Abraham, Moses, profeterne. Passage for passage vil vi bevise, hvorfor helgenerne kan høre os og forbede sig for os.</p>
             <div class="article-meta">
-                <span>7 min læsning</span>
+                <span>12 min læsning</span>
                 <span>Udgivet maj 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
-      article: `<p>Helgenerne er Kirkens medlemmer, der levede det kristne liv med heroisme. Fromheden over for helgenerne opstod af erkendelsen af deres forening med Kristus og deres bønner på andres vegne.</p>
-                <h2>Forbillede i hellighed</h2>
-                <p>De viser os, hvordan vi lever Evangeliet i virkelige situationer: i familien, på arbejdet og i tjenesten. Deres liv er et forbillede, der inspirerer tillid og håb.</p>
-                <blockquote>"Helgenerne er Kirkens levende hukommelse og vidnesbyrd om Guds troskab."</blockquote>
-                <h2>Forbøn</h2>
-                <p>Bøn til helgenerne er ikke tilbedelse, men en anmodning om deres forbøn over for Gud. Kirken opfordrer de troende til at bede for hinanden, også for dem, der allerede er sovet ind i Herren.</p>
-                <ul>
-                    <li>Helgenerne ledsager os med deres eksempel og bøn.</li>
-                    <li>De er brødre i de helliges samfund.</li>
-                    <li>Deres liv viser, at hellighed er et universelt kald.</li>
-                </ul>
-                <h2>Kristent liv</h2>
-                <p>At stole på helgenernes forbøn svækker ikke vores forhold til Kristus; det styrker det. Det minder os om, at Kirken er ét levende legeme, der transcenderer tid.</p>`,
+      article: `<p>Der er en indvending, som gentages utrætteligt: <em>«De døde kan ikke høre dig.»</em> Ved første øjekast lyder det fornuftigt. Men Skriften siger noget andet. Ikke i ét isoleret citat. I syv forskellige passager, fra Paulus til Åbenbaringen. Lad os gennemgå dem én for én.</p>
+
+            <h2>Erkendelsen fuldkomnes efter døden</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Korinterbrev 13:9-13</span>
+                <blockquote>«For <strong class="s-hi">vi erkender stykkevis og profeterer stykkevis;</strong> men når det fuldkomne kommer, skal det stykkeværk afskaffes. Da jeg var barn, talte jeg som et barn, tænkte som et barn, ræsonnerede som et barn; men da jeg blev mand, afskaffede jeg det barnlige. Nu ser vi i et spejl, i en gåde, men da ansigt til ansigt. Nu erkender jeg stykkevis; men da skal jeg erkende fuldt ud, <strong class="s-hi">ligesom jeg selv er fuldt ud erkendt.</strong> Så bliver da disse tre: tro, håb, kærlighed; men størst af dem er kærligheden.»</blockquote>
+            </div>
+
+            <p>Paulus lærer, at vi i dette liv kun erkender ufuldstændigt. Når det fuldkomne kommer — og det sker ved døden, når vi ser Gud ansigt til ansigt — skal vi erkende, ligesom Gud har erkendt os: fuldkomment, uden slør, uden grænse. Hvis helgenerne erkender sådan, er intet skjult for dem. De kan høre. De kan forstå vore bønner.</p>
+
+            <h2>Efter døden skal vi se Gud, som han er</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Johannesbrev 3:2</span>
+                <blockquote>«Mine kære, vi er allerede Guds børn, men det er endnu ikke åbenbaret, hvad vi engang skal være. Vi ved, at når han åbenbares, <strong class="s-hi">skal vi blive ham lig, for vi skal se ham, som han er.</strong>»</blockquote>
+            </div>
+
+            <p>Johannes bekræfter, hvad Paulus siger. Nu, i dette liv, ser vi ikke — vi tror. Efter døden skal vi se Gud, som han er. Helgenerne har allerede krydset denne tærskel. De ser allerede. Derfor befinder de sig ikke i mørket af den såkaldte «sjælesøvn», som nogle lærer — de er i fuldt lys.</p>
+
+            <h2>Efter døden kommer himlen</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Johannesevangeliet 14:1-4</span>
+                <blockquote>«Jeres hjerte må ikke forfærdes. I tror på Gud; tro også på mig. I min faders hus er der mange boliger. Hvis ikke, ville jeg have sagt jer det. Jeg går bort for at gøre en plads rede for jer. Og når jeg er gået bort og har gjort en plads rede for jer, vil jeg komme igen og tage jer til mig, for at hvor jeg er, skal I også være. Og hvor jeg går hen, kender I vejen.»</blockquote>
+            </div>
+
+            <p>Jesus lader ingen tvivl tilbage: der er et bestemmelsessted efter døden, og det bestemmelsessted er at være hos ham. Himlen er ikke en metafor — det er stedet, som Jesus gik for at gøre rede for os. Og helgenerne, som levede i tro, er allerede der, hos ham, hvor han lovede at bringe dem.</p>
+
+            <h2>Helgenerne: den store sky af vidner</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Hebræerbrevet 11:1 — 12:3</span>
+                <blockquote>«<strong class="s-hi">Troen er det, der giver bærekraft til det, vi håber på, den er beviset for det, vi ikke ser. Det var den, vore forfædre fik vidnesbyrd om.</strong><br><br>
+Ved tro forstår vi, at verden er skabt ved Guds ord, og at det, vi ser, er fremstået af det usynlige.<br><br>
+Ved tro bragte <strong class="s-name">Abel</strong> Gud et bedre offer end Kain, og ved tro fik han vidnesbyrd om at være retfærdig, idet Gud selv vidnede om hans gaver, og ved tro taler han endnu, skønt han er død. Ved tro blev <strong class="s-name">Enok</strong> taget bort, for at han ikke skulle se døden, og han fandtes ikke, fordi Gud havde taget ham. Før han blev taget bort, havde han fået det vidnesbyrd, at han var velbehagelig for Gud. Men uden tro er det umuligt at velbehage Gud; for den, der kommer til Gud, må tro, at han er til, og at han lønner dem, der søger ham. Ved tro udstedte <strong class="s-name">Noa</strong>, advaret om det endnu usalige, i gudsfrygt en ark til redning for sit hus; ved den fordømte han verden og blev arving til den retfærdighed, der er efter tro.<br><br>
+Ved tro adlød <strong class="s-name">Abraham</strong>, da han blev kaldet til at drage ud til et sted, han skulle modtage til arv, og han drog ud, skønt han ikke vidste, hvor han kom hen. Ved tro opholdt han sig som fremmed i det forjættede land, idet han boede i telte med <strong class="s-name">Isak og Jakob</strong>, der var medarvinger til samme forjættelse; thi han ventede på staden med de faste grundvolde, hvis bygmester og skaber er Gud. Ved tro fik også <strong class="s-name">Sara</strong> kraft til at undfange, endskønt hun var kommen op i årene, fordi hun holdt ham for trofast, der havde givet forjættelsen. Og derfor kom der fra én — og det fra en, der var som uddød — efterkommere talrige som stjernerne på himmelen og som sandet ved havets bred, der ikke kan tælles.<br><br>
+Alle disse døde i tro, uden at have fået forjættelserne opfyldt; men de så dem i det fjerne og hilste på dem og bekendte, at de var fremmede og udlændinge på jorden. De, der siger sådant, viser, at de søger et fædreland. Og hvis de tænkte på det, de var draget ud fra, havde de haft lejlighed til at vende tilbage. Men <strong class="s-hi">de stræbte efter et bedre, et himmelsk fædreland.</strong> Derfor skammer Gud sig ikke ved at kaldes deres Gud; han har nemlig beredt dem en stad.<br><br>
+Ved tro ofrede Abraham Isak, da han blev sat på prøve, og han var rede til at ofre sin eneste søn, han, som havde modtaget forjættelserne. Han tænkte, at Gud formår endog at oprejse fra de døde; og han fik ham derfor også tilbage i billede. Ved tro velsignede Isak Jakob og Esau med henblik på det tilkommende. Ved tro velsignede Jakob, da han var ved at dø, begge Josefs sønner og tilbad, støttet til sin stav. Ved tro omtalte Josef, da enden nærmede sig, israelitternes udvandring og gav befaling om sine ben.<br><br>
+Ved tro skjulte <strong class="s-name">Moses'</strong> forældre ham tre måneder efter hans fødsel, fordi de så, at barnet var smukt, og de frygtede ikke kongens befaling. Ved tro nægtede <strong class="s-name">Moses</strong>, da han var voksen, at kaldes søn af Faraos datter; han valgte hellere at lide ondt med Guds folk end at have en stakket tid fornøjelse af synden. Han ansete Kristi vanære for en større rigdom end Ægyptens skatte, thi hans blik var rettet mod lønnen. Ved tro forlod han Ægypten uden at frygte kongens vrede; han holdt ud, som om han så den Usynlige. Ved tro holdt han påske og bestrøg dørene med blod, for at Fordærveren ikke skulle røre de førstefødte. Ved tro gik de igennem Det Røde Hav, som om det var fast land; men da ægypterne forsøgte det samme, druknede de. Ved tro faldt Jerikos mure, efter at de var gået rundt om dem i syv dage. Ved tro gik skøgen Rahab ikke til grunde tillige med de genstridige, da hun tog imod spejderne i fred.<br><br>
+Og hvad mere skal jeg sige? Tiden slår ikke til, hvis jeg skal fortælle om <strong class="s-name">Gideon, Barak, Samson, Jefta, David og Samuel og profeterne,</strong> som ved tro overvandt riger, øvede retfærdighed, opnåede forjættelser, stoppede løvers gab, slukkede ilds kraft, undslap sværds æg; som af svage blev stærke, blev vældige i krig, slog fremmede hære på flugt. Kvinder fik deres døde igen ved opstandelse; andre lod sig piske ihjel og tog ikke imod befrielse, for at de skulle opnå en bedre opstandelse. Andre led hån og pisk, og desuden lænker og fangenskab. De blev stenet, gennemsavet, fristet; de døde ved sværds æg; de flakkede om i fåreskind og gedeskind, fattige, plagede, mishandlede — verden var dem ikke værd — de flakkede om i ørkener og på bjerge og i huler og jordens kløfter. Og alle disse, skønt de ved troen fik godt vidnesbyrd, nåede ikke frem til forjættelsens opfyldelse, fordi Gud havde udtænkt noget bedre for os, for at de ikke uden os skulle nå til fuldendelse.<br><br>
+Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</strong> lad os aflægge alt, hvad der tynger, og synden, der hænger så fast ved os, og med udholdenhed løbe det løb, der ligger foran os, idet vi har øjnene rettet mod Jesus, troens banebryder og fuldender; for at opnå den glæde, der lå foran ham, udholdt han korset uden at ænse skammen, og han har taget sæde på højre side af Guds trone. Tænk på ham, der tålte en sådan modstand fra synderes side, <strong class="s-hi">for at I ikke skal tabe modet og give op.»</strong></blockquote>
+            </div>
+
+            <p>Dette er svaret på «hvem er helgenerne?» Skriften nævner dem én for én. Det er ikke en opfindelse af Kirken. De er troens helte, som levede, led og døde i søgen efter et fædreland, der ikke er af denne verden: det himmelske. Og efter deres eksempel inviterer forfatteren til Hebræerne os: «også vi». Den vældige sky af vidner omgiver os.</p>
+
+            <h2>Sjælen sover ikke — Kristus prædikede for ånderne</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Petersbrev 3:18-22</span>
+                <blockquote>«For <strong class="s-hi">Kristus led også én gang for synder,</strong> den retfærdige for uretfærdige, for at føre jer til Gud; han led døden efter kødet, <strong class="s-hi">men blev gjort levende ved Ånden; i den gik han og prædikede for ånderne i fængslet,</strong> de der engang var genstridige, da Guds langmodighed ventede i Noas dage, mens arken blev bygget; i den frelste få, nemlig otte sjæle, igennem vand. Dette modbillede frelser nu også jer, nemlig dåben, som ikke er en afvaskning af legemets urenhed, men en god samvittigheds pagt med Gud, <strong class="s-hi">ved Jesu Kristi opstandelse,</strong> som er faret op til himlen og sidder ved Guds højre hånd, idet engle og magter og kræfter er ham underlagt.»</blockquote>
+            </div>
+
+            <p>Her falder argumentet om «sjælesøvnen». Kristus forblev efter sin død ikke bevidstløs og afventede den endelige dom — han gik for at forkynde budskabet for ånderne i fængslet. Sjælen forbliver aktiv efter kroppens død. Hvis Kristi sjæl var det, er helgenernes det også. Døden er alene kroppens.</p>
+
+            <h2>Helgenerne er i det himmelske Jerusalem</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Hebræerbrevet 12:22-24</span>
+                <blockquote>«Nej, I er kommet til Zions bjerg og til den levende Guds by, <strong class="s-hi">det himmelske Jerusalem,</strong> til titusinder af engle, til festforsamlingen og til de førstefødte, der er indskrevet i himlene, til Gud, alles dommer, <strong class="s-hi">og til de retfærdiges ånder, der er gjort fuldkomne,</strong> til Jesus, mellemmanden for en ny pagt, og til et stænkningsblod, der taler bedre end Abels.»</blockquote>
+            </div>
+
+            <p>De afdøde helgener flyder ikke rundt i et eller andet limbo og afventer dommen. De er i «den levende Guds by». Og deres tilstand er ikke som de levendes: de er ånder, der «er gjort fuldkomne». Fuldkomne. Nær Gud. Uden barriere. Uden afstand.</p>
+
+            <h2>Helgenerne bringer vore bønner frem for tronen</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Åbenbaringen 5:8</span>
+                <blockquote>«Og da det tog imod, kastede de fire levende væsener og de fireogtyve ældste sig ned for Lammet. Enhver af dem havde en cithar og gyldne skåle <strong class="s-hi">fulde af røgelse; det er de helliges bønner.</strong>»</blockquote>
+            </div>
+
+            <p>Johannes ser det i et syn: i himlen, foran Lammet, bringer de himmelske væsener skåle med røgelse frem for tronen, som <em>er</em> de helliges bønner. De troendes bønner på jorden når frem til himlens alter gennem forbederne dér. Helgenerne hører ikke blot — de fremfører.</p>
+
+            <h2>Konklusion</h2>
+
+            <p>Helgenerne er dem, der levede i tro — som Abel, Enok, Noa, Abraham, Moses, profeterne — dem, der efter døden er i den levende Guds by, det himmelske Jerusalem. Der erkender de fuldkomment, som Gud erkendte dem i livet. Der ser de Gud, som han er. Der er ingen begrænsning, ingen afstand.</p>
+
+            <p>Det, Kirken gør, når den påkalder dem, er netop det, Åbenbaringen viser: de bringer vore bønner til himlens alter og fremfører dem for Lammets trone. Vi tilbeder ikke helgenerne. Vi beder dem om at forbede sig for os hos Gud, ligesom vi beder enhver broder om at bede for os. Forskellen er, at de er i himlen og erkender, som Gud erkender os: fuldkomment. Derfor ser de os, hører os og forbeder sig.</p>`,
       nav: {
         prevTitle: "Transsubstantiation: det eukaristiske mysterium",
         nextTitle: "Den Hellige Treenighed"
