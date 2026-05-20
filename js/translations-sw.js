@@ -5,7 +5,8 @@ const translationsSW = {
     topics: "Mada",
     mission: "Misheni",
     contact: "Mawasiliano",
-    usefulPages: "Rasilimali Zinazopendekezwa"
+    usefulPages: "Rasilimali Zinazopendekezwa",
+    about: "Kuhusu"
   },
   hero: {
     eyebrow: "Karibu",
@@ -138,6 +139,35 @@ const translationsSW = {
       article: `<h2>Vatikani</h2><p>Tovuti rasmi ya Makao Makuu (Holy See), ambapo unaweza kupata Biblia, Katekisimu ya Kanisa Katoliki, nyaraka za upapa na mengi zaidi.</p><ul><li><a href="https://www.vatican.va/content/vatican/en.html" target="_blank">Tovuti Rasmi ya Vatikani (Kiingereza)</a></li><li><a href="https://www.vatican.va/archive/ENG0015/_INDEX.HTM" target="_blank">Katekisimu ya Kanisa Katoliki</a></li></ul><h2>Apolojetiki na Malezi</h2><h3>Ascension Presents</h3><p>Mchapishaji wa Kikatoliki anayetoa rasilimali za malezi, ikiwa ni pamoja na "Bible in a Year" (Biblia katika Mwaka Mmoja).</p><ul><li><a href="https://ascensionpress.com/" target="_blank">Ascension Press</a></li></ul>`,
       nav: { prevTitle: "Ukuu wa Petro", nextTitle: "Ukuhani katika Kanisa Katoliki" }
     },
+    "sobre-este-sitio": {
+      pageTitle: "Kuhusu tovuti hii | Imani na Akili",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Kuhusu</span>
+            </div>
+            <h1>Kuhusu tovuti hii</h1>
+            <p>Safari kupitia falsafa ambazo hazikushikilia — hadi Kanisa ambalo lilishikilia.</p>
+            <a href="index.html#temas" class="btn-outline-white">Rudi kwa Mada</a>`,
+      article: `<p>Nilifika Ukatoliki baada ya safari ndefu. Nilisoma kila kitu: uchawi na <!-- TODO: verificar terminología "apologética" en Kiswahili -->esotericismo, zile zinazoitwa <!-- TODO: verificar terminología "Tablas Esmeralda" en Kiswahili -->Vibao vya Zumaridi, Biblia ya Kishetani, falsafa za Mashariki, Nietzsche, wafuasi wa Epicurus. Nilitafuta majibu kila mahali lakini sikupata hata moja iliyoshikilia. Stoicism ilikuwa kitu cha mwisho kilichonipa kitu cha kweli kabla ya Kristo — Seneka, Marcus Aurelius, Epictetus walinifundisha kutazama ukweli bila kupepesa macho. Na nikitazama ukweli bila kupepesa macho, niliishia mahali ambapo sikutarajia: mbele ya Kanisa Katoliki.</p>
+
+            <p>Tovuti hii ni kwa ajili yako ikiwa uko katika moja ya maeneo haya: unashaka imani uliyoipokea na hujui kumwuliza nani; unatafuta kati ya mila na hakuna anayekupa jibu linaloweza kubeba uzito; umebadilika imani hivi karibuni na unahisi upweke, bila mwongozo, ukishambuliwa pande zote. Ninajua mahali pale. Nilikuwepo. Na najua kilichopo karibu napo: Wakatoliki wa jadi ambao wakati mwingine wanachukua kwa kawaida kile ambacho wangelazimika kuthibitisha na hawajui kukieleza; na mbaya zaidi, Wakatoliki wa <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Kiswahili -->vuguvugu — wale wanaokwenda Misa kwa mazoea, hawajui wanachokiamini, hawatetei kitu chochote, na wao ndio wa kwanza kukuna mabega wakati mtu anaishambulia imani mbele yao.</p>
+
+            <!-- TODO: verificar cita bíblica Apocalipsis 3,15-16 con traducción católica de Kiswahili -->
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Ufunuo 3:15-16</span>
+                <blockquote>«Ninajua matendo yako: wewe si baridi wala si moto. Laiti ungekuwa baridi au moto! Lakini kwa sababu wewe ni vuguvugu, wala si moto wala si baridi, nitakutapika kutoka kinywani mwangu.»</blockquote>
+            </div>
+
+            <p>Wao ni mbaya zaidi kuliko Waprotestanti, kwa sababu angalau Mprotestanti anaamini kitu fulani, hata kama ni kosa.</p>
+
+            <p>Na Waprotestanti wanajitokeza. Wanajitokeza kila wakati. Mashahidi wa Yehova, Wapentekosti, Waadventista, Wamormon, kila <!-- TODO: verificar terminología "secta" en Kiswahili -->kikundi cha dini chenye toleo lake lililofupishwa la Maandiko na uhakika wake uliokopwa. Hapa utapata jibu kwa vikundi hivyo vya dini, katika uwanja wao wenyewe, kwa silaha yao wenyewe: Biblia yote — ikiwemo <!-- TODO: verificar terminología "deuterocanónicos" en Kiswahili -->vitabu vya deuterokanonisi ambavyo walivivuta kutoka tafsiri zao bila mamlaka ya kufanya hivyo. Kwa Biblia iliyosomwa vizuri, <!-- TODO: verificar terminología "Padres de la Iglesia" en Kiswahili -->Mababa wa Kanisa, <!-- TODO: verificar terminología Magisterio en Kiswahili -->Magisterium, <!-- TODO: verificar terminología Catecismo en Kiswahili -->Katekisimu, na akili ambayo Mungu alitupa kama zawadi.</p>
+
+            <p>Msukumo wangu mkuu katika kazi hii ni Padre Luis Toro. Yeye ni nabii wa Mungu katika wakati wetu na siwezi kumdhulumu sifa anayostahili. Anachotenda kwa kusema, mimi ninajaribu kufanya kwa kuandika, katika lugha na kwa wasomaji ambao yeye hawafiki.</p>
+
+            <p>Siandiki ili kushinda hoja. Ninaandika ili yule anayeshaka peke yake usiku awe na kitu cha kweli mkononi wakati itakapomfika kufanikisha imani yake — au wakati itakapomfika kuipata kwa mara ya kwanza.</p>
+
+            <p class="about-signature">— M.G.</p>`
+    }
   },
   provisional: {
     notice: "⚠ Makala hii inajengwa. Yaliyomo kwa sasa ni ya muda.",
