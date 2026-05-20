@@ -10,7 +10,8 @@ const translationsLA = {
     topics: "Themata",
     mission: "Missio",
     contact: "Contactus",
-    usefulPages: "Subsidia Commendanda"
+    usefulPages: "Subsidia Commendanda",
+    about: "De Nobis"
   },
   hero: {
     eyebrow: "Salve",
@@ -637,6 +638,34 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         prevTitle: "Primatus Petri",
         nextTitle: "Sacerdotium in Ecclesia Catholica"
       }
+    }
+    "sobre-este-sitio": {
+      pageTitle: "De hoc loco | Fides et Ratio",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">De loco</span>
+            </div>
+            <h1>De hoc loco</h1>
+            <p>Iter per philosophias quae non steterunt — ad Ecclesiam quae stetit.</p>
+            <a href="index.html#temas" class="btn-outline-white">Ad Themata Redire</a>`,
+      article: `<p>Ad catholicismum perveni post longum iter. Omnia legi: occultismum et esotericismum, tabulas dictas Smaragdinas, Bibliam Satanicam, philosophias Orientis, Nietzsche, Epicuraeos. Ubique responsa quaesivi nec ullum inveni quod staret. Stoicismus ultimum erat quod aliquid grave ante Christum mihi obtulit — Seneca, Marcus Aurelius, Epictetus me docuerunt veritatem sine nictitione intueri. Et veritatem sine nictitione intuendo illuc perveni ubi non exspectabam: ante Ecclesiam Catholicam.</p>
+
+            <p>Hic locus tibi est si in uno horum locorum versaris: dubitas de fide quam accepisti et nescis quem roges; quaeris inter traditiones nec quisquam tibi responsum dat quod pondus ferre possit; modo conversus es et solum te sentis, sine duce, undique oppugnatum. Illum locum cognosco. Ibi fui. Et scio quid circum eum sit: catholici traditionales qui interdum id pro concesso habent quod demonstrare deberent nec id explicare sciunt; et quod peius est, catholici tepidi — qui ad Missam ex more adeunt, nesciunt quid credant, nihil defendunt, et primi humeros movent cum quis fidem coram eis impugnat.</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Apocalypsis 3,15-16</span>
+                <blockquote>«Scio opera tua, quia neque frigidus es neque calidus. Utinam frigidus esses aut calidus! Sed quia tepidus es, et nec frigidus nec calidus, incipiam te evomere ex ore meo.»</blockquote>
+            </div>
+
+            <p>Peiors sunt quam protestantes, quia saltem protestans aliquid credit, etsi errat.</p>
+
+            <p>Et protestantes adsunt. Semper adsunt. Testes Iehovae, Pentecostales, Adventistae, Mormones, quaeque secta cum sua versione truncata Scripturae et sua certitudine mutuata. Hic responsum ad illas sectas invenies, in ipso earum agro, ipsa earum arma utens: Biblia integra — inclusis libris deuterocanonicos quos ex suis translationibus absque auctoritate eripuerunt. Biblia recte lecta, Patribus Ecclesiae, Magisterio, Catechismo, et ratione quam Deus nobis donum dedit.</p>
+
+            <p>Praecipua mea inspiratio in hoc opere est Pater Ludovicus Toro. Est propheta Dei in nostra aetate et mercedem quae ei debetur auferre non possum. Quod ille loquendo facit, ego scribendo facere conor, in linguis et pro lectoribus quos ille non attingit.</p>
+
+            <p>Non scribo ut disputationes vincam. Scribo ut is qui solus nocte dubitat aliquid grave ad manum habeat cum eum fide sua defendenda contingit — aut cum eam primo invenire contingit.</p>
+
+            <p class="about-signature">— M.G.</p>`
     }
   },
   provisional: {
