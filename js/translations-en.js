@@ -5,7 +5,8 @@ const translationsEN = {
     topics: "Topics",
     mission: "Mission",
     contact: "Contact",
-    usefulPages: "Recommended Resources"
+    usefulPages: "Recommended Resources",
+    about: "About"
   },
   hero: {
     eyebrow: "Welcome",
@@ -631,6 +632,34 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
         prevTitle: "The Primacy of Peter",
         nextTitle: "The Priesthood in the Catholic Church"
       }
+    }
+    "sobre-este-sitio": {
+      pageTitle: "About This Site | Faith and Reason",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">About</span>
+            </div>
+            <h1>About This Site</h1>
+            <p>A journey through philosophies that didn't hold up — until the Church that did.</p>
+            <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
+      article: `<p>I arrived at Catholicism after a long journey. I read everything: occultism and esotericism, the so-called Emerald Tablets, The Satanic Bible, Eastern philosophies, Nietzsche, the Epicureans. I tried answers everywhere and couldn't find any that held up. Stoicism was the last thing that offered me something serious before Christ — Seneca, Marcus Aurelius, Epictetus taught me to look at truth without flinching. And looking at truth without flinching, I ended up where I didn't expect: before the Catholic Church.</p>
+
+            <p>This site is for you if you're in one of these places: you doubt the faith you received and don't know who to ask; you're searching among traditions and no one gives you an answer that can bear the weight; you just converted and feel alone, without a guide, assailed from all sides. I know that place. I was there. And I know what's around it: traditional Catholics who sometimes take for granted what they ought to demonstrate and can't explain it; and worse, lukewarm Catholics — those who go to Mass out of habit, don't know what they believe, defend nothing, and are the first to shrug their shoulders when someone attacks the faith in front of them.</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Revelation 3:15-16</span>
+                <blockquote>«I know your works: you are neither cold nor hot. Would that you were cold or hot! So, because you are lukewarm, and neither cold nor hot, I will spew you out of my mouth.»</blockquote>
+            </div>
+
+            <p>They are worse than the Protestants, because at least the Protestant believes something, even if it's wrong.</p>
+
+            <p>And the Protestants show up. They always show up. Jehovah's Witnesses, Pentecostals, Adventists, Mormons, every sect with its truncated version of Scripture and its borrowed certainty. Here you will find an answer to those sects, on their own ground, with their own weapon: the whole Bible — including the deuterocanonical books they tore from their translations without the authority to do so. With the Bible properly read, the Church Fathers, the Magisterium, the Catechism, and the reason God gave us as a gift.</p>
+
+            <p>My main inspiration in this work is Father Luis Toro. He is a prophet of God in our time and I cannot take from him the credit that is rightfully his. What he does by speaking, I try to do by writing, in the languages and for the readers he doesn't reach.</p>
+
+            <p>I don't write to win arguments. I write so that the person doubting alone in the night has something serious at hand when it's their turn to defend their faith — or when it's their turn to find it for the first time.</p>
+
+            <p class="about-signature">— M.G.</p>`
     }
   },
   provisional: {
