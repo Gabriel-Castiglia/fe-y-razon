@@ -5,7 +5,8 @@ const translationsIG = {
     topics: "Isiokwu",
     mission: "Ozi",
     contact: "Kpọtụrụ",
-    usefulPages: "Akụrụngwa Akwadoro"
+    usefulPages: "Akụrụngwa Akwadoro",
+    about: "Maka saịtị a"
   },
   hero: {
     eyebrow: "Nnọọ",
@@ -138,6 +139,35 @@ const translationsIG = {
       article: `<h2>Vatican</h2><p>Ebe nrụọrụ weebụ gọọmentị nke Holy See, ebe ị nwere ike ịhụ Baịbụl, Catechism nke Nzukọ-nsọ Katọlik, akwụkwọ popu na ọtụtụ ndị ọzọ.</p><ul><li><a href="https://www.vatican.va/content/vatican/en.html" target="_blank">Ebe nrụọrụ weebụ gọọmentị nke Vatican (Bekee)</a></li><li><a href="https://www.vatican.va/archive/ENG0015/_INDEX.HTM" target="_blank">Catechism nke Nzukọ-nsọ Katọlik</a></li></ul><h2>Apologetics na Ọzụzụ</h2><h3>Ascension Presents</h3><p>Onye mbipụta Katọlik na-enye akụrụngwa ọzụzụ, gụnyere "Bible in a Year" (Baịbụl n'otu afọ).</p><ul><li><a href="https://ascensionpress.com/" target="_blank">Ascension Press</a></li></ul>`,
       nav: { prevTitle: "Ịbụ onye mbụ nke Pita", nextTitle: "Ọkwa Nchụàjà na Nzukọ-nsọ Katọlik" }
     },
+    "sobre-este-sitio": {
+      pageTitle: "Maka saịtị a | Okwukwe na Uche",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Maka</span>
+            </div>
+            <h1>Maka saịtị a</h1>
+            <p>Njem site n'ime ihe ọmụmụ ndị enweghị ike ịdọ aka ná ntị — ruo n'Ọhabara nke ịdọ aka ná ntị.</p>
+            <a href="index.html#temas" class="btn-outline-white">Laghachi na Isiokwu</a>`,
+      article: `<p>Ọ bụ mgbe m tọọrọ ije ogologo ka m ruo Katọlịsizm. M gụọrọ ihe niile: okultizm na esoterisizm, nke a na-akpọ <!-- TODO: verificar terminología "Tablas Esmeralda" en Igbo -->Taabụl Emerald, Bayibụl Setan, ihe ọmụmụ ọdịdị ọwụwa anyanwụ, Nietzsche, ndị Epicurean. M chọọrọ azịza n'ebe niile ma enweghị otu o bụla m chọtara nke ịdọ aka ná ntị. Stoicism bụ ihe ikpeazụ nke nyere m ihe dị serious tupu Kraịst — Seneka, Makọs Ọwrịlịọs, Epiktetos kụziiri m ịlele eziokwu n'anya n'anya. Ma ka m na-elenye eziokwu anya n'anya, m kwuchiri ebe m echeghị: n'ihu Nzukọ-nsọ Katọlik.</p>
+
+            <p>Saịtị a bụ maka gị ma ọ bụrụ na ị nọ n'otu n'ime ebe ndị a: ị na-enwe ọchịchọ ike maka okwukwe i nwetara ma ị maghị onye ị ga-ajụ; ị na-achọ n'etiti ọdịnala ma onye ọ bụla anaghị enye gị azịza nke nwere ike ibu ibu; ị mara ọhụrụ ọhụrụ ụmụọgụ ma ị nọrọ naanị gị, n'enweghị nduzi, a na-asó gị n'akụkụ niile. M maara ebe ahụ. M nọọrọ ebe ahụ. Ma m maara ihe dị gburugburu: ndị Katọlik ọchịchọ ndị mgbe ụfọdụ na-ewere ihe ha kwesịrị igosipụta dị ka ihe a maara ma ha enweghị ike kọwaa ya; na ihe na-adị njọ karịa, ndị Katọlik <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Igbo -->jụrụ — ndị na-aga Misa n'ihi omenala, ha amaghị ihe ha kwere, ha anaghị agbachitere ihe ọ bụla, ha bụ ndị mbụ ga-awịda ụjọ mgbe mmadụ na-awa okwukwe n'ihu ha.</p>
+
+            <!-- TODO: verificar cita bíblica Apocalipsis 3,15-16 con traducción católica de Igbo -->
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ <!-- TODO: verificar nombre del libro Apocalipsis en Igbo -->Ihe Ọkụkụ 3:15-16</span>
+                <blockquote>«Amaara m omume gị: ị dịghị oyi ma ị dịghị ọkụ. Ọ gaara mma ma ị bụrụ oyi ma ọ bụ ọkụ! Mana n'ihi na ị bụ onye <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Igbo -->jụrụ, ma ị dịghị ọkụ ma ị dịghị oyi, m ga-akpụpụ gị n'ọnụ m.»</blockquote>
+            </div>
+
+            <p>Ha dị njọ karịa ndị Prọtestant, n'ihi na opekata mpe Ọ Prọtestant kwere n'ihe ụfọdụ, ọbụlagodi ma ọ bụrụ na ọ bụ ihe ọjọọ.</p>
+
+            <p>Na ndị Prọtestant na-apụta. Ha na-apụta mgbe niile. Ndị Ịchọcha Jehovah, ndị Pentikọst, ndị Adventist, ndị Mormon, <!-- TODO: verificar terminología "secta" en Igbo -->sekta ọ bụla nwere ụdị ya nke Akwụkwọ Nsọ a kpọchasịrị ma ọbụ nkwado nke a kọkọrọ. Ebe a i ga-ahụ azịza maka sekta ndị ahụ, n'ala ha onwe ha, site n'ọgụ ha onwe ha: Bayibụl niile — gụnyere akwụkwọ <!-- TODO: verificar terminología "deuterocanónicos" en Igbo -->Deuterokanonịkal ndị ha zụọrọ n'ntụgharị ha n'enweghị ike ime ya. Site n'Bayibụl a gụọrọ nke ọma, <!-- TODO: verificar terminología "Padres de la Iglesia" en Igbo -->ndị Nna Nzukọ-nsọ, <!-- TODO: verificar terminología Magisterio en Igbo -->Magistirium, <!-- TODO: verificar terminología Catecismo en Igbo -->Katekizm, na uche Chineke nyere anyị dị ka ọnụ ọhụụ.</p>
+
+            <p>Ihe ndụzị m dị isi na ọrụ a bụ Padre Luis Toro. Ọ bụ onye amụma Chineke n'oge anyị ma m enweghị ike wepụ ya ọla o kwesịrị. Ihe ọ na-eme n'okwu, m na-anwa ime ya n'ide, n'asụsụ na maka ndị ọgụgụ ọ anaghị eru.</p>
+
+            <p>Anaghị m ide iji nwee mpi mkparịta ụka. Na-ede m ka onye na-enwe ọchịchọ ike naanị ya n'abalị nwee ihe dị serious n'aka ya mgbe ọ ga-achịkwa okwukwe ya — ma ọ bụ mgbe ọ ga-ahụ ya n'oge mbụ.</p>
+
+            <p class="about-signature">— M.G.</p>`
+    }
   },
   provisional: {
     notice: "⚠ A na-ede akụkọ a ugbu a. Ọdịnaya dị ugbu a bụ nke nwa oge.",
