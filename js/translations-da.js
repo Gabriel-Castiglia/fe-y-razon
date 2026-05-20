@@ -5,7 +5,8 @@ const translationsDA = {
     topics: "Emner",
     mission: "Mission",
     contact: "Kontakt",
-    usefulPages: "Anbefalede ressourcer"
+    usefulPages: "Anbefalede ressourcer",
+    about: "Om"
   },
   hero: {
     eyebrow: "Velkommen",
@@ -631,6 +632,35 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
         prevTitle: "Peters primat",
         nextTitle: "Præstedømmet i den katolske kirke"
       }
+    }
+    "sobre-este-sitio": {
+      pageTitle: "Om dette sted | Tro og Fornuft",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Om siden</span>
+            </div>
+            <h1>Om dette sted</h1>
+            <p>En rejse gennem filosofier, der ikke holdt — til den Kirke, der gjorde.</p>
+            <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+      article: `<p>Jeg kom til katolicismen efter en lang rejse. Jeg læste alt: okkultisme og esoterisme, de såkaldte Smaragdtavler, Den Sataniske Bibel, østlige filosofier, Nietzsche, epikuræerne. Jeg søgte svar overalt og fandt ikke ét, der holdt. Stoicismen var det sidste, der tilbød mig noget alvorligt, inden Kristus — Seneca, Marcus Aurelius, Epiktet lærte mig at se sandheden uden at blinke. Og idet jeg betragtede sandheden uden at blinke, endte jeg der, hvor jeg ikke forventede det: over for den Katolske Kirke.</p>
+
+            <p>Dette sted er for dig, hvis du befinder dig ét af disse steder: du tvivler på den tro, du har modtaget, og ved ikke, hvem du skal spørge; du søger iblandt traditioner, og ingen giver dig et svar, der kan bære vægten; du er netop konverteret og føler dig alene, uden vejledning, belejret fra alle sider. Jeg kender det sted. Jeg har været der. Og jeg ved, hvad der er rundt om det: traditionelle katolikker, der nogle gange tager for givet, hvad de burde bevise, og ikke kan forklare det; og endnu værre, lunken <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Dansk -->katolikker — dem, der går til messe af vane, ikke ved, hvad de tror, forsvarer ingenting, og er de første til at trække på skuldrene, når nogen angriber troen foran dem.</p>
+
+            <!-- TODO: verificar cita bíblica Apocalipsis 3,15-16 con traducción católica de Dansk -->
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Johannes' Åbenbaring 3:15-16</span>
+                <blockquote>«Jeg kender dine gerninger: du er hverken kold eller varm. Gid du var kold eller varm! Men da du er lunken — hverken kold eller varm — vil jeg udspy dig af min mund.»</blockquote>
+            </div>
+
+            <p>De er værre end protestanterne, for i det mindste tror protestanten på noget, selv om det er forkert.</p>
+
+            <p>Og protestanterne dukker op. De dukker altid op. Jehovas Vidner, pinsebevægelsen, adventister, mormoner, hvert <!-- TODO: verificar terminología "secta" en Dansk -->sekt med sin afkortede version af Skriften og sin lånte overbevisning. Her finder du svar på disse sekter, på deres eget enemærke, med deres eget våben: hele Bibelen — inklusive de <!-- TODO: verificar terminología "deuterocanónicos" en Dansk -->deuterokanoniske bøger, som de rev ud af deres oversættelser uden autoritet til at gøre det. Med Bibelen godt læst, <!-- TODO: verificar terminología "Padres de la Iglesia" en Dansk -->Kirkefædrene, <!-- TODO: verificar terminología Magisterio en Dansk -->Læreembedet, <!-- TODO: verificar terminología Catecismo en Dansk -->Katekismen og den fornuft, Gud gav os som gave.</p>
+
+            <p>Min vigtigste inspiration i dette arbejde er Padre Luis Toro. Han er en Guds profet i vores tid, og jeg kan ikke fratage ham den ære, der tilkommer ham. Det, han gør ved at tale, forsøger jeg at gøre ved at skrive, i de sprog og for de læsere, han ikke når.</p>
+
+            <p>Jeg skriver ikke for at vinde diskussioner. Jeg skriver for at den, der tvivler alene om natten, har noget seriøst ved hånden, når det er deres tur til at forsvare deres tro — eller når det er deres tur til at finde den for første gang.</p>
+
+            <p class="about-signature">— M.G.</p>`
     }
   },
   provisional: {
