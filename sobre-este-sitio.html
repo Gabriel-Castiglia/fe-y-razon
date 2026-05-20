@@ -5,13 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <meta name="theme-color" content="#1a1410">
     <link rel="preload" href="css/style.css?v=12" as="style">
-    <title data-i18n="topicPages.la-primacia-de-pedro.pageTitle">La primacía de Pedro | Fé y Razón</title>
+    <title data-i18n="topicPages.sobre-este-sitio.pageTitle">Sobre este sitio | Fé y Razón</title>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css?v=12">
+    <style>
+      .about-signature {
+        text-align: right;
+        margin-top: 2.5rem;
+        font-style: italic;
+        color: var(--text-dim);
+      }
+    </style>
 </head>
 <body>
-    <div id="reading-progress" role="progressbar" aria-label="Progreso de lectura"></div>
+    <div id="reading-progress" role="progressbar" aria-label="Progreso de lectura" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"></div>
     <button id="scroll-top" aria-label="Volver arriba">↑</button>
+
     <header id="header" class="hero-mode">
         <div class="container">
             <h1 class="logo"><a href="index.html" data-i18n="logo">Fé y Razón</a></h1>
@@ -20,11 +29,12 @@
                     <li><a href="index.html#hero" data-i18n="nav.home">Inicio</a></li>
                     <li><a href="index.html#temas" data-i18n="nav.topics">Temas</a></li>
                     <li><a href="index.html#mision" data-i18n="nav.mission">Misión</a></li>
-                    <li><a href="tema-recursos-recomendados.html" data-i18n="nav.usefulPages">Páginas amigas</a></li>
+                    <li><a href="tema-recursos-recomendados.html" data-i18n="nav.usefulPages">Recursos recomendados</a></li>
                     <li><a href="index.html#contacto" data-i18n="nav.contact">Contacto</a></li>
-                    <li><a href="sobre-este-sitio.html" data-i18n="nav.about">Sobre este sitio</a></li>
+                    <li><a href="sobre-este-sitio.html" class="active" data-i18n="nav.about">Sobre este sitio</a></li>
                 </ul>
             </nav>
+
             <div class="lang-dropdown" id="lang-dropdown">
                 <button class="lang-dropdown-trigger" id="lang-dropdown-trigger" aria-haspopup="listbox" aria-expanded="false">
                     <img class="lang-flag-img" src="Recursos/Im%C3%A1genes/spain-flag-png-large.png.jpeg" alt="" width="20" height="14">
@@ -34,6 +44,7 @@
                     </svg>
                 </button>
                 <div class="lang-dropdown-menu" role="listbox" aria-label="Seleccionar idioma">
+                    <!-- IMPORTANTE: Al agregar nuevos idiomas, asegúrate de actualizar esta lista desplegable en TODAS las páginas estáticas (index.html, tema-*.html) -->
                     <button class="lang-option active" data-lang="es" role="option" aria-selected="true">
                         <img src="Recursos/Im%C3%A1genes/spain-flag-png-large.png.jpeg" alt="" width="22" height="15">
                         <span>Español</span>
@@ -84,65 +95,57 @@
                     </button>
                 </div>
             </div>
+
             <button class="hamburger" id="hamburger" aria-label="Abrir menú" aria-expanded="false">
                 <span></span><span></span><span></span>
             </button>
         </div>
     </header>
-    <section class="article-hero">
-                <video class="hero-video active" src="Recursos/Videos/conf03.mp4" muted autoplay playsinline loop preload="auto"></video>
-        <video class="hero-video" src="Recursos/Videos/conf04.mp4" muted playsinline loop preload="none"></video>
 
-        <div class="article-hero-inner" data-i18n="topicPages.la-primacia-de-pedro.hero">
+    <section class="article-hero">
+        <video class="hero-video active" src="Recursos/Videos/lectura01.mp4" muted autoplay playsinline loop preload="auto" aria-hidden="true" tabindex="-1"></video>
+        <video class="hero-video" src="Recursos/Videos/lectura02.mp4" muted playsinline loop preload="none" aria-hidden="true" tabindex="-1"></video>
+
+        <div class="article-hero-inner" data-i18n="topicPages.sobre-este-sitio.hero">
             <div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
-                <span class="eyebrow-text">Tema Especial</span>
+                <span class="eyebrow-text">El sitio</span>
             </div>
-            <h1>La primacía de Pedro</h1>
-            <p>Un análisis claro sobre por qué la Iglesia católica reconoce al Papa como sucesor de San Pedro y guía visible de la unidad eclesial.</p>
-            <div class="article-meta">
-                <span>11 min lectura</span>
-                <span>Publicado en mayo de 2026</span>
-            </div>
+            <h1>Sobre este sitio</h1>
+            <p>Un recorrido desde las filosofías que no aguantaron hasta la Iglesia que sí aguanta.</p>
             <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>
         </div>
     </section>
+
     <main class="article-page">
         <div class="article-page-inner">
-            <div class="preliminary-warning">
-                <p data-i18n="provisional.preliminaryWarning">Este artículo es preliminar, el contenido apologético será publicado en breve</p>
-            </div>
-            <article class="article-body" data-i18n="topicPages.la-primacia-de-pedro.article">
-                <p>La primacía de Pedro es una enseñanza esencial para entender la estructura de la Iglesia. Jesús le confió a Pedro un papel único como pastor y garante de la unidad apostólica.</p>
-                <h2>Fundamento bíblico</h2>
-                <p>En el evangelio, Cristo declara a Pedro como roca y le encarga apacentar sus ovejas. Este mandato refleja una autoridad especial en el liderazgo de la comunidad cristiana.</p>
-                <blockquote>"Tú eres Pedro, y sobre esta roca edificaré mi Iglesia."</blockquote>
-                <h2>Sucesión apostólica</h2>
-                <p>El Papa es el sucesor de San Pedro en la misión de confirmar a los hermanos. Esta continuidad asegura la fidelidad al depósito de la fe y protege la unidad de la Iglesia.</p>
-                <ul>
-                    <li>El primer Papa recibió un encargo de autoridad pastoral.</li>
-                    <li>La sucesión apostólica protege la doctrina y la comunión.</li>
-                    <li>El Papa actúa como signo visible de unidad para todos los creyentes.</li>
-                </ul>
-                <h2>Unidad de la Iglesia</h2>
-                <p>Reconocer la primacía de Pedro no es una jerarquía arbitraria, sino una manera de mantener a la Iglesia unida en la fe, la esperanza y el amor.</p>
-            </article>
-                        <div class="article-navigation">
-                <a href="tema-la-nueva-ley.html" class="article-nav-card prev">
-                    <span data-i18n="topicPages.common.prevLabel">Artículo anterior</span>
-                    <h3 data-i18n="topicPages.la-primacia-de-pedro.nav.prevTitle">La nueva ley en Cristo</h3>
-                </a>
-                <a href="tema-sacerdocio.html" class="article-nav-card next">
-                    <span data-i18n="topicPages.common.nextLabel">Siguiente artículo</span>
-                    <h3 data-i18n="topicPages.la-primacia-de-pedro.nav.nextTitle">El Sacerdocio en la Iglesia Católica</h3>
-                </a>
-            </div>
+            <article class="article-body" data-i18n="topicPages.sobre-este-sitio.article">
+                <p>Llegué al catolicismo después de un recorrido largo. Leí de todo: ocultismo y esoterismo, las llamadas tablas esmeralda, la biblia satánica, las filosofías orientales, Nietzsche, los epicúreos. Probé respuestas en todas partes y no encontraba ninguna que se sostuviera. El estoicismo fue lo último que me ofreció algo serio antes de Cristo — Séneca, Marco Aurelio, Epicteto me enseñaron a mirar la verdad sin pestañear. Y mirando la verdad sin pestañear terminé donde no esperaba: ante la Iglesia Católica.</p>
 
+                <p>Este sitio es para vos si estás en alguno de estos lugares: dudás de la fe que recibiste y no sabés a quién preguntarle; estás buscando entre tradiciones y nadie te da una respuesta que te aguante el peso; te acabás de convertir y te sentís solo, sin guía, asediado por todos lados. Conozco ese lugar. Estuve ahí. Y sé lo que hay alrededor: católicos tradicionales que a veces dan por supuesto lo que tendrían que demostrar y no saben explicarlo; y peor todavía, católicos tibios — los que van a misa por costumbre, no saben qué creen, no defienden nada, y son los primeros en encogerse de hombros cuando alguien ataca la fe delante de ellos.</p>
+
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Apocalipsis 3,15-16</span>
+                    <blockquote>«Conozco tus obras: no eres ni frío ni caliente. ¡Ojalá fueras frío o caliente! Ahora bien, puesto que eres tibio, y no frío ni caliente, te vomitaré de mi boca.»</blockquote>
+                </div>
+
+                <p>Son peores que los protestantes, porque al menos el protestante cree algo, aunque sea equivocado.</p>
+
+                <p>Y los protestantes aparecen. Aparecen siempre. Testigos de Jehová, pentecostales, adventistas, mormones, cada secta con su versión recortada de la Escritura y su certeza prestada. Acá vas a encontrar respuesta a esas sectas, en su propio terreno, con su propia arma: la Biblia entera — incluyendo los libros deuterocanónicos que ellos arrancaron de sus traducciones sin autoridad para hacerlo. Con la Biblia bien leída, los Padres de la Iglesia, el Magisterio, el Catecismo, y la razón que Dios nos dio como regalo.</p>
+
+                <p>Mi inspiración principal en este trabajo es el Padre Luis Toro. Es profeta de Dios en nuestro tiempo y no puedo quitarle el crédito que le corresponde. Lo que él hace hablando, yo intento hacerlo escribiendo, en los idiomas y para los lectores que él no alcanza.</p>
+
+                <p>No escribo para ganar discusiones. Escribo para que el que está dudando solo en la noche tenga algo serio a mano cuando le toque defender su fe — o cuando le toque encontrarla por primera vez.</p>
+
+                <p class="about-signature">— M.G.</p>
+            </article>
         </div>
     </main>
+
     <footer>
         <p data-i18n="footer.text">&copy; 2026 Fé y Razón. Ad maiorem Dei gloriam.</p>
     </footer>
+
     <script src="js/main.js" defer></script>
     <script src="js/translations-es.js?v=2" defer></script>
     <script src="js/translations-en.js" defer></script>
