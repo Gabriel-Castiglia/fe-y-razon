@@ -5,7 +5,8 @@ const translationsPT = {
     topics: "Temas",
     mission: "Missão",
     contact: "Contato",
-    usefulPages: "Recursos recomendados"
+    usefulPages: "Recursos recomendados",
+    about: "Sobre"
   },
   hero: {
     eyebrow: "Bem-vindo",
@@ -215,6 +216,34 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
       article: `<h2>Vaticano</h2><p>O site oficial da Santa Sé, onde pode encontrar a Bíblia, o Catecismo da Igreja Católica, documentos papais e muito mais.</p><ul><li><a href="https://www.vatican.va/content/vatican/pt.html" target="_blank">Site Oficial do Vaticano</a></li><li><a href="https://www.vatican.va/archive/cathechism_po/index_new/prima-pagina-cic_po.html" target="_blank">Catecismo da Igreja Católica</a></li></ul><h2>Apologética e Formação</h2><h3>Padre Paulo Ricardo</h3><p>Conhecido pela sua profunda catequese e apologética, o Padre Paulo Ricardo oferece uma defesa e ensino sólidos da fé católica no Brasil.</p><ul><li><a href="https://padrepauloricardo.org/" target="_blank">Site Oficial Padre Paulo Ricardo</a></li></ul>`,
       nav: { prevTitle: "A primazia de Pedro", nextTitle: "O Sacerdócio na Igreja Católica" }
     },
+    "sobre-este-sitio": {
+      pageTitle: "Sobre este site | Fé e Razão",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Sobre</span>
+            </div>
+            <h1>Sobre este site</h1>
+            <p>Uma jornada pelas filosofias que não resistiram — até a Igreja que resistiu.</p>
+            <a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+      article: `<p>Cheguei ao catolicismo depois de um longo caminho. Li de tudo: ocultismo e esoterismo, as chamadas Tábuas de Esmeralda, a Bíblia Satânica, as filosofias orientais, Nietzsche, os epicuristas. Procurei respostas em todo lugar e não encontrava nenhuma que sustentasse. O estoicismo foi a última coisa que me ofereceu algo sério antes de Cristo — Sêneca, Marco Aurélio, Epicteto me ensinaram a encarar a verdade sem pestanejar. E encarando a verdade sem pestanejar, terminei onde não esperava: diante da Igreja Católica.</p>
+
+            <p>Este site é para você se está em um destes lugares: você duvida da fé que recebeu e não sabe a quem perguntar; está buscando entre tradições e ninguém te dá uma resposta que suporte o peso; acabou de se converter e se sente sozinho, sem guia, assediado por todos os lados. Conheço esse lugar. Estive lá. E sei o que há ao redor: católicos tradicionais que às vezes dão por certo o que deveriam demonstrar e não sabem explicá-lo; e pior ainda, católicos mornos — os que vão à missa por hábito, não sabem o que creem, não defendem nada, e são os primeiros a encolher os ombros quando alguém ataca a fé diante deles.</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Apocalipse 3,15-16</span>
+                <blockquote>«Conheço as tuas obras: não és frio nem quente. Quem me dera fosses frio ou quente! Mas porque és morno — e não frio nem quente — estou para vomitar-te da minha boca.»</blockquote>
+            </div>
+
+            <p>São piores que os protestantes, porque ao menos o protestante acredita em algo, mesmo que errado.</p>
+
+            <p>E os protestantes aparecem. Aparecem sempre. Testemunhas de Jeová, pentecostais, adventistas, mórmons, cada seita com sua versão truncada das Escrituras e sua certeza emprestada. Aqui você vai encontrar resposta para essas seitas, no próprio terreno delas, com a própria arma delas: a Bíblia inteira — incluindo os livros deuterocanônicos que eles arrancaram de suas traduções sem autoridade para fazê-lo. Com a Bíblia bem lida, os Padres da Igreja, o Magistério, o Catecismo, e a razão que Deus nos deu como presente.</p>
+
+            <p>Minha inspiração principal neste trabalho é o Padre Luis Toro. Ele é profeta de Deus em nosso tempo e não posso tirar-lhe o crédito que lhe pertence. O que ele faz falando, eu tento fazer escrevendo, nos idiomas e para os leitores que ele não alcança.</p>
+
+            <p>Não escrevo para ganhar discussões. Escrevo para que quem está duvidando sozinho na noite tenha algo sério à mão quando chegar sua vez de defender sua fé — ou quando chegar sua vez de encontrá-la pela primeira vez.</p>
+
+            <p class="about-signature">— M.G.</p>`
+    }
   },
   provisional: {
     notice: "⚠ Este artigo está a ser redigido. O conteúdo atual é provisório.",
