@@ -5,7 +5,8 @@ const translationsIT = {
     topics: "Temi",
     mission: "Missione",
     contact: "Contatto",
-    usefulPages: "Risorse consigliate"
+    usefulPages: "Risorse consigliate",
+    about: "Su questo sito"
   },
   hero: {
     eyebrow: "Benvenuto",
@@ -138,6 +139,34 @@ const translationsIT = {
       article: `<h2>Vaticano</h2><p>Il sito ufficiale della Santa Sede, dove puoi trovare la Bibbia, il Catechismo della Chiesa Cattolica, documenti papali e molto altro.</p><ul><li><a href="https://www.vatican.va/content/vatican/it.html" target="_blank">Sito Ufficiale del Vaticano</a></li><li><a href="https://www.vatican.va/archive/catechism_it/index_it.htm" target="_blank">Catechismo della Chiesa Cattolica</a></li></ul><h2>Apologetica e Formazione</h2><h3>Ascension Presents</h3><p>Casa editrice cattolica che offre risorse di formazione, inclusa "La Bibbia in un anno".</p><ul><li><a href="https://ascensionpress.com/" target="_blank">Ascension Press</a></li></ul>`,
       nav: { prevTitle: "Il primato di Pietro", nextTitle: "Il Sacerdozio nella Chiesa Cattolica" }
     },
+    "sobre-este-sitio": {
+      pageTitle: "Su questo sito | Fede e Ragione",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Il sito</span>
+            </div>
+            <h1>Su questo sito</h1>
+            <p>Un percorso attraverso le filosofie che non hanno retto — fino alla Chiesa che ha retto.</p>
+            <a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
+      article: `<p>Sono arrivato al cattolicesimo dopo un lungo percorso. Ho letto di tutto: occultismo ed esoterismo, le cosiddette Tavole di Smeraldo, la Bibbia Satanica, le filosofie orientali, Nietzsche, gli epicurei. Ho cercato risposte ovunque e non ne trovavo nessuna che reggesse. Lo stoicismo è stato l'ultima cosa che mi ha offerto qualcosa di serio prima di Cristo — Seneca, Marco Aurelio, Epitteto mi hanno insegnato a guardare la verità senza battere ciglio. E guardando la verità senza battere ciglio, sono finito dove non mi aspettavo: di fronte alla Chiesa Cattolica.</p>
+
+            <p>Questo sito è per te se ti trovi in uno di questi posti: dubiti della fede che hai ricevuto e non sai a chi chiederlo; stai cercando tra le tradizioni e nessuno ti dà una risposta che regga il peso; ti sei appena convertito e ti senti solo, senza guida, assediato da ogni parte. Conosco quel posto. Ci sono stato. E so cos'c'è intorno: cattolici tradizionali che a volte danno per scontato ciò che dovrebbero dimostrare e non sanno spiegarlo; e peggio ancora, cattolici tiepidi — quelli che vanno a Messa per abitudine, non sanno cosa credono, non difendono nulla, e sono i primi ad alzare le spalle quando qualcuno attacca la fede davanti a loro.</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Apocalisse 3,15-16</span>
+                <blockquote>«Conosco le tue opere: tu non sei né freddo né caldo. Magari tu fossi freddo o caldo! Ma poiché sei tiepido, non sei cioè né freddo né caldo, sto per vomitarti dalla mia bocca.»</blockquote>
+            </div>
+
+            <p>Sono peggiori dei protestanti, perché almeno il protestante crede qualcosa, anche se sbagliato.</p>
+
+            <p>E i protestanti si fanno vivi. Si fanno sempre vivi. Testimoni di Geova, pentecostali, avventisti, mormoni, ogni setta con la sua versione troncata della Scrittura e la sua certezza in prestito. Qui troverai risposta a quelle sette, sul loro terreno, con la loro stessa arma: tutta la Bibbia — compresi i libri deuterocanonici che hanno strappato dalle loro traduzioni senza averne l'autorità. Con la Bibbia ben letta, i Padri della Chiesa, il Magistero, il Catechismo, e la ragione che Dio ci ha dato come dono.</p>
+
+            <p>La mia principale ispirazione in questo lavoro è Padre Luis Toro. È un profeta di Dio nel nostro tempo e non posso togliergli il merito che gli spetta. Quello che lui fa parlando, io cerco di farlo scrivendo, nelle lingue e per i lettori che lui non raggiunge.</p>
+
+            <p>Non scrivo per vincere le discussioni. Scrivo perché chi dubita solo nella notte abbia qualcosa di serio a portata di mano quando gli toccherà difendere la sua fede — o quando gli toccherà trovarla per la prima volta.</p>
+
+            <p class="about-signature">— M.G.</p>`
+    }
   },
   provisional: {
     notice: "⚠ Questo articolo è in fase di redazione. Il contenuto attuale è provvisorio.",
