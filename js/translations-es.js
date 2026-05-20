@@ -10,7 +10,8 @@ const translationsES = {
     topics: "Temas",
     mission: "Misión",
     contact: "Contacto",
-    usefulPages: "Recursos recomendados"
+    usefulPages: "Recursos recomendados",
+    about: "Sobre este sitio"
   },
   hero: {
     eyebrow: "Bienvenido",
@@ -635,10 +636,38 @@ Por tanto, <strong class="s-hi">también nosotros,</strong> rodeados de una nube
                     <li><a href="https://ascensionpress.com/pages/biy-registration" target="_blank">The Bible in a Year (Podcast)</a></li>
                 </ul>`,
       nav: {
-        prevTitle: "La primacía de Pedro", // Assuming this is the last doctrinal article
-        nextTitle: "El Sacerdocio en la Iglesia Católica" // Assuming this is the first doctrinal article
+        prevTitle: "La primacía de Pedro",
+        nextTitle: "El Sacerdocio en la Iglesia Católica"
       }
     },
+    "sobre-este-sitio": {
+      pageTitle: "Sobre este sitio | Fé y Razón",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">El sitio</span>
+            </div>
+            <h1>Sobre este sitio</h1>
+            <p>Un recorrido desde las filosofías que no aguantaron hasta la Iglesia que sí aguanta.</p>
+            <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
+      article: `<p>Llegué al catolicismo después de un recorrido largo. Leí de todo: ocultismo y esoterismo, las llamadas tablas esmeralda, la biblia satánica, las filosofías orientales, Nietzsche, los epicúreos. Probé respuestas en todas partes y no encontraba ninguna que se sostuviera. El estoicismo fue lo último que me ofreció algo serio antes de Cristo — Séneca, Marco Aurelio, Epicteto me enseñaron a mirar la verdad sin pestañear. Y mirando la verdad sin pestañear terminé donde no esperaba: ante la Iglesia Católica.</p>
+
+            <p>Este sitio es para vos si estás en alguno de estos lugares: dudás de la fe que recibiste y no sabés a quién preguntarle; estás buscando entre tradiciones y nadie te da una respuesta que te aguante el peso; te acabás de convertir y te sentís solo, sin guía, asediado por todos lados. Conozco ese lugar. Estuve ahí. Y sé lo que hay alrededor: católicos tradicionales que a veces dan por supuesto lo que tendrían que demostrar y no saben explicarlo; y peor todavía, católicos tibios — los que van a misa por costumbre, no saben qué creen, no defienden nada, y son los primeros en encogerse de hombros cuando alguien ataca la fe delante de ellos.</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Apocalipsis 3,15-16</span>
+                <blockquote>«Conozco tus obras: no eres ni frío ni caliente. ¡Ojalá fueras frío o caliente! Ahora bien, puesto que eres tibio, y no frío ni caliente, te vomitaré de mi boca.»</blockquote>
+            </div>
+
+            <p>Son peores que los protestantes, porque al menos el protestante cree algo, aunque sea equivocado.</p>
+
+            <p>Y los protestantes aparecen. Aparecen siempre. Testigos de Jehová, pentecostales, adventistas, mormones, cada secta con su versión recortada de la Escritura y su certeza prestada. Acá vas a encontrar respuesta a esas sectas, en su propio terreno, con su propia arma: la Biblia entera — incluyendo los libros deuterocanónicos que ellos arrancaron de sus traducciones sin autoridad para hacerlo. Con la Biblia bien leída, los Padres de la Iglesia, el Magisterio, el Catecismo, y la razón que Dios nos dio como regalo.</p>
+
+            <p>Mi inspiración principal en este trabajo es el Padre Luis Toro. Es profeta de Dios en nuestro tiempo y no puedo quitarle el crédito que le corresponde. Lo que él hace hablando, yo intento hacerlo escribiendo, en los idiomas y para los lectores que él no alcanza.</p>
+
+            <p>No escribo para ganar discusiones. Escribo para que el que está dudando solo en la noche tenga algo serio a mano cuando le toque defender su fe — o cuando le toque encontrarla por primera vez.</p>
+
+            <p class="about-signature">— M.G.</p>`
+    }
   },
   provisional: {
     notice: "⚠ Este artículo está siendo redactado. El contenido actual es provisorio y será reemplazado próximamente por texto definitivo.",
