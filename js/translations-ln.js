@@ -5,7 +5,8 @@ const translationsLN = {
     topics: "Mitó ya makambo",
     mission: "Mosala",
     contact: "Boyokani",
-    usefulPages: "Bisaleli oyo epesami toli"
+    usefulPages: "Bisaleli oyo epesami toli",
+    about: "Na site oyo"
   },
   hero: {
     eyebrow: "Boyeyi malamu",
@@ -138,6 +139,35 @@ const translationsLN = {
       article: `<h2>Vatican</h2><p>Site internet ya leta ya Saint-Siège, wapi okoki kozwa Biblia, Katekismo ya Eklezia Katolike, ba documents papaux mpe mingi mosusu.</p><ul><li><a href="https://www.vatican.va/content/vatican/en.html" target="_blank">Site ya Leta ya Vatican (Anglais)</a></li><li><a href="https://www.vatican.va/archive/ENG0015/_INDEX.HTM" target="_blank">Katekismo ya Eklezia Katolike</a></li></ul><h2>Apologetiki mpe Mateya</h2><h3>Ascension Presents</h3><p>Mokomi ya mikanda ya Katolike oyo apesaka bisaleli ya mateya, kobakisa "Bible in a Year" (Biblia na Mobu Moko).</p><ul><li><a href="https://ascensionpress.com/" target="_blank">Ascension Press</a></li></ul>`,
       nav: { prevTitle: "Bokambi ya Petro", nextTitle: "Bonganga-nzambe na Eklezia Katolike" }
     },
+    "sobre-este-sitio": {
+      pageTitle: "Na site oyo | Kondima mpe Mayele",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Na site</span>
+            </div>
+            <h1>Na site oyo</h1>
+            <p>Mobembo na kati ya filozofi oyo etikali te — na Eklesia oyo etikali.</p>
+            <a href="index.html#temas" class="btn-outline-white">Zonga na Misala</a>`,
+      article: `<p>Nakómaki na katolisisme nsima ya mobembo molayi. Nalendaki makambo nyonso: okultisime mpe esoterisime, bibanga oyo babengaka <!-- TODO: verificar terminología "Tablas Esmeralda" en Lingala -->Matáblô ya Zumurudi, Biblia ya Satana, filozofi ya Azia, Nietzsche, baepikuriste. Natelemaki biyano na bisika nyonso kasi nazokaki kozua ata moko oyo etikali. Stoisisime ezalaki eloko ya nsuka oyo epesaki ngai eloko ya solosolo liboso ya Kristu — Seneka, Marko Orélio, Epiktéto balakisamaki ngai kotala solo na miso milamu. Mpe kolanda solo na miso milamu, nakómi esika mpe nazalaki kolinga te: liboso ya Eklesia Katolike.</p>
+
+            <p>Site oyo ezali mpo na yo soki ozali na moko ya bisika oyo: ozali na elikia te mpo na kondima oyo ozwaki mpe oyebi te moto asengeli kopesa biso biyano; ozali koluka na kati ya miteya kasi moto moko te apesi yo eyano eyo ekoki kobomba mokumba; oblesi kobongola kondima mpe omoni yo moko, kozanga mowateli, kobandwama na bapangi ya zikisa nyonso. Nayebi esika yango. Nazalaki kuna. Mpe nayebi eloko oyo ezali zingazinga: Bakatoli ya kala oyo bazwaka mpo na polele eloko oyo basengeli komonisa mpe bayebi te kolakisa yango; mpe oyo ya mabe koleka, Bakatoli ya <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Lingala -->vuguvugu — oyo bakei na Misa na mokolo na mokolo, bayebi te nini bakredeli, babatelaka eloko te, mpe bazali ba liboso kobimisa maapi tango moto abwakeli kondima liboso na bango.</p>
+
+            <!-- TODO: verificar cita bíblica Apocalipsis 3,15-16 con traducción católica de Lingala -->
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Apokalise 3,15-16</span>
+                <blockquote>«Nayebi misala na yo: ozali na pôfumu te mpe na molili te. Nakombaki soki ozali na pôfumu to na molili! Kasi pamba te ozali na vuguvugu — to na pôfumu to na molili te — nakobwaka yo na monoko na ngai.»</blockquote>
+            </div>
+
+            <p>Bazali mabe koleka Baprolestante, pamba te ndenge moko Mpolestante akredeli eloko moko, ata soki azangi nzela.</p>
+
+            <p>Mpe Baprolestante bayaki. Bayaki ntango nyonso. Batatoli ya Yehova, Bapentekoti, Baadventiste, Bamormon, biso nyonso na <!-- TODO: verificar terminología "secta" en Lingala -->version ya bonene te ya Makomami mpe sûreté ya kokopama. Awa okozua eyano mpo na biso bya kondima yango, na mabele na bango moko, na efundola na bango moko: Biblia mobimba — mboka <!-- TODO: verificar terminología "deuterocanónicos" en Lingala -->balivres ya deutérokanonike oyo babotola na batraduction na bango kozanga bokonzi ya kosala bongo. Na Biblia oyo olandaka malamu, <!-- TODO: verificar terminología "Padres de la Iglesia" en Lingala -->Batata ya Eklesia, <!-- TODO: verificar terminología Magisterio en Lingala -->Mazisterio, <!-- TODO: verificar terminología Catecismo en Lingala -->Katéchisime, mpe mayele oyo Nzambe apesaki biso liboso.</p>
+
+            <p>Motindo na ngai ya liboso na mosala oyo ezali Tata Luisi Toro. Azali nabii ya Nzambe na ntango na biso mpe nakoki kopima ye lokumu oyo ekoki koyaka na ye. Eloko oyo asalaka na koloba, nami nalingi kosala na kokomela, na minoko mpe mpo na balandi oyo ayokaka te.</p>
+
+            <p>Nakomaka te mpo na kobela bilobeli. Nakomaka mpo ete moto oyo abondeli ye moko na butu azala na eloko ya solosolo na loboko tango ekolela kondima na ye — to tango ekolela koyeba yango mbala ya liboso.</p>
+
+            <p class="about-signature">— M.G.</p>`
+    }
   },
   provisional: {
     notice: "⚠ Article oyo ezali kokomama. Makambo ya sikoyo ezali ya mwa ntango.",
