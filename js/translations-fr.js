@@ -5,7 +5,8 @@ const translationsFR = {
     topics: "Thèmes",
     mission: "Mission",
     contact: "Contact",
-    usefulPages: "Ressources recommandées"
+    usefulPages: "Ressources recommandées",
+    about: "À propos"
   },
   hero: {
     eyebrow: "Bienvenue",
@@ -215,6 +216,34 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
       article: `<h2>Vatican</h2><p>Le site officiel du Saint-Siège, où vous pouvez trouver la Bible, le Catéchisme de l'Église Catholique, des documents pontificaux et bien plus encore.</p><ul><li><a href="https://www.vatican.va/content/vatican/fr.html" target="_blank">Site Officiel du Vatican</a></li><li><a href="https://www.vatican.va/archive/FRA0013/_INDEX.HTM" target="_blank">Catéchisme de l'Église Catholique</a></li></ul><h2>Apologétique et Formation</h2><h3>Ascension Presents</h3><p>Éditeur catholique proposant des ressources de formation, y compris "La Bible en un an" (Bible in a Year).</p><ul><li><a href="https://ascensionpress.com/" target="_blank">Ascension Press</a></li></ul>`,
       nav: { prevTitle: "La primauté de Pierre", nextTitle: "Le Sacerdoce dans l'Église Catholique" }
     },
+    "sobre-este-sitio": {
+      pageTitle: "À propos de ce site | Foi et Raison",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">À propos</span>
+            </div>
+            <h1>À propos de ce site</h1>
+            <p>Un chemin parcouru à travers les philosophies qui n'ont pas tenu — jusqu'à l'Église qui a tenu.</p>
+            <a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+      article: `<p>Je suis arrivé au catholicisme après un long cheminement. J'ai tout lu : l'occultisme et l'ésotérisme, les dites Tables d'Émeraude, la Bible Satanique, les philosophies orientales, Nietzsche, les épicuriens. J'ai cherché des réponses partout et je n'en trouvais aucune qui tienne. Le stoïcisme a été la dernière chose qui m'a offert quelque chose de sérieux avant le Christ — Sénèque, Marc Aurèle, Épictète m'ont appris à regarder la vérité sans ciller. Et en regardant la vérité sans ciller, je me suis retrouvé là où je ne m'y attendais pas : devant l'Église Catholique.</p>
+
+            <p>Ce site est pour vous si vous êtes dans l'un de ces endroits : vous doutez de la foi que vous avez reçue et vous ne savez pas à qui vous adresser ; vous cherchez parmi les traditions et personne ne vous donne une réponse qui puisse supporter le poids ; vous venez de vous convertir et vous vous sentez seul, sans guide, assiégé de toutes parts. Je connais cet endroit. J'y étais. Et je sais ce qui l'entoure : des catholiques traditionnels qui parfois tiennent pour acquis ce qu'ils devraient démontrer et ne savent pas l'expliquer ; et pire encore, des catholiques tièdes — ceux qui vont à la messe par habitude, ne savent pas ce qu'ils croient, ne défendent rien, et sont les premiers à hausser les épaules quand quelqu'un attaque la foi devant eux.</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Apocalypse 3,15-16</span>
+                <blockquote>«Je connais tes œuvres : tu n'es ni froid ni bouillant. Ah ! si tu étais froid ou bouillant ! Mais parce que tu es tiède, et non froid ou bouillant, je vais te vomir de ma bouche.»</blockquote>
+            </div>
+
+            <p>Ils sont pires que les protestants, parce qu'au moins le protestant croit quelque chose, même si c'est faux.</p>
+
+            <p>Et les protestants se présentent. Ils se présentent toujours. Les Témoins de Jéhovah, les pentecôtistes, les adventistes, les mormons, chaque secte avec sa version tronquée de l'Écriture et sa certitude empruntée. Ici vous trouverez une réponse à ces sectes, sur leur propre terrain, avec leur propre arme : toute la Bible — y compris les livres deutérocanoniques qu'ils ont arrachés de leurs traductions sans en avoir l'autorité. Avec la Bible bien lue, les Pères de l'Église, le Magistère, le Catéchisme, et la raison que Dieu nous a donnée en cadeau.</p>
+
+            <p>Ma principale inspiration dans ce travail est le Père Luis Toro. Il est un prophète de Dieu en notre temps et je ne peux pas lui enlever le crédit qui lui revient. Ce qu'il fait en parlant, j'essaie de le faire en écrivant, dans les langues et pour les lecteurs qu'il n'atteint pas.</p>
+
+            <p>Je n'écris pas pour gagner des discussions. J'écris pour que celui qui doute seul dans la nuit ait quelque chose de sérieux à portée de main quand vient son tour de défendre sa foi — ou quand vient son tour de la trouver pour la première fois.</p>
+
+            <p class="about-signature">— M.G.</p>`
+    }
   },
   provisional: {
     notice: "⚠ Cet article est en cours de rédaction. Le contenu actuel est provisoire.",
