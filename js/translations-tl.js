@@ -5,7 +5,8 @@ const translationsTL = {
     topics: "Mga Paksa",
     mission: "Misyon",
     contact: "Makipag-ugnayan",
-    usefulPages: "Mga Inirerekomendang Link"
+    usefulPages: "Mga Inirerekomendang Link",
+    about: "Tungkol"
   },
   hero: {
     eyebrow: "Maligayang pagdating",
@@ -633,6 +634,35 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
         nextTitle: "Ang Pagkasaserdote sa Simbahang Katoliko"
       }
     },
+    "sobre-este-sitio": {
+      pageTitle: "Tungkol sa Site na Ito | Pananampalataya at Dahilan",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Tungkol</span>
+            </div>
+            <h1>Tungkol sa Site na Ito</h1>
+            <p>Isang paglalakbay mula sa mga pilosopiyang hindi tumagal — hanggang sa Simbahang tumagal.</p>
+            <a href="index.html#temas" class="btn-outline-white">Bumalik sa mga Paksa</a>`,
+      article: `<p>Nakarating ako sa Katolisismo pagkatapos ng mahabang paglalakbay. Nabasa ko ang lahat: okultismo at esoterisismo, ang tinatawag na Emerald Tablets, ang Satanic Bible, ang mga pilosopiyang Silangan, si Nietzsche, ang mga Epicurean. Naghanap ako ng mga sagot sa lahat ng dako ngunit wala akong nahanap na anumang tumayo. Ang Stoicismo ang huli na nag-alok sa akin ng isang bagay na seryoso bago si Kristo — itinuturo sa akin nina Seneca, Marcus Aurelius, at Epictetus na tumingin sa katotohanan nang walang pagkukubling. At tinitigan ang katotohanan nang walang pagkukubling, nagtapos ako kung saan hindi ko inaasahan: sa harap ng Simbahang Katoliko.</p>
+
+            <p>Ang site na ito ay para sa iyo kung nasa isa sa mga lugar na ito ka: nagdududa ka sa pananampalatayang tinanggap mo at hindi mo alam kung kanino ka tatanong; naghahanap ka sa gitna ng mga tradisyon at walang nagbibigay sa iyo ng sagot na kaya ng timbang; katatapos mo lang mag-convert at nararamdaman mong nag-iisa, walang gabay, inuusig mula sa lahat ng panig. Kilala ko ang lugar na iyon. Naroroon na ako. At alam ko kung ano ang nakapalibot: mga tradisyonal na Katoliko na minsan ay inaakala na tama ang dapat pa nilang patunayan at hindi nila ito maipaliwanag; at mas masahol pa, mga maligamgam na Katoliko — ang mga pumupunta sa Misa dahil sa ugali, hindi alam kung ano ang kanilang pinaniniwalaan, walang ipinagtatanggol, at sila ang unang nag-aatubili kung ang pananampalataya ay inaatake sa harap nila.</p>
+
+            <!-- TODO: verificar cita bíblica Apocalipsis 3,15-16 con traducción católica de Filipino -->
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Pahayag 3:15-16</span>
+                <blockquote>«Kilala ko ang iyong mga gawa: hindi ka malamig ni mainit. Sana'y malamig ka man o mainit! Ngunit dahil ikaw ay <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Filipino -->maligamgam, at hindi malamig ni mainit, isusuka kita mula sa aking bibig.»</blockquote>
+            </div>
+
+            <p>Mas masama pa sila kaysa sa mga Protestante, dahil kahit papaano ang Protestante ay naniniwala sa isang bagay, kahit mali man.</p>
+
+            <p>At ang mga Protestante ay laging nagpapakita. Laging nagpapakita sila. Ang mga Saksi ni Jehova, mga Pentecostal, mga Adventista, mga Mormon, bawat <!-- TODO: verificar terminología "secta" en Filipino -->sekta may sariling pinutol na bersyon ng Kasulatan at hiniram na katiyakan. Dito mahahanap mo ang sagot sa mga sektang iyon, sa sarili nilang lupain, gamit ang sarili nilang sandata: ang buong Bibliya — kabilang ang mga <!-- TODO: verificar terminología "deuterocanónicos" en Filipino -->deuterocanonical na aklat na kinuha nila mula sa kanilang mga salin nang wala silang awtoridad para gawin iyon. Sa tamang pagbabasa ng Bibliya, ang mga Ama ng Simbahan, ang <!-- TODO: verificar terminología Magisterio en Filipino -->Magisterium, ang <!-- TODO: verificar terminología Catecismo en Filipino -->Catechism, at ang katuwiran na ibinigay sa atin ng Diyos bilang kaloob.</p>
+
+            <p>Ang pangunahing inspirasyon ko sa gawaing ito ay si Padre Luis Toro. Siya ay isang propeta ng Diyos sa ating panahon at hindi ko maaaring bawiin ang kredito na nararapat sa kanya. Ang ginagawa niya sa pamamagitan ng pagsasalita, sinisikap kong gawin sa pamamagitan ng pagsulat, sa mga wika at para sa mga mambabasa na hindi niya naaabot.</p>
+
+            <p>Hindi ako sumusulat para manalo ng mga argumento. Sumusulat ako para ang nagdududa nang mag-isa sa gabi ay magkaroon ng isang seryosong bagay na nasa kamay nila kapag dumating ang kanilang pagkakataon na ipagtanggol ang kanilang pananampalataya — o kapag dumating ang kanilang pagkakataon na mahanap ito sa unang pagkakataon.</p>
+
+            <p class="about-signature">— M.G.</p>`
+    }
   },
   provisional: {
     notice: "⚠ Ang artikulong ito ay kasalukuyang isinusulat. Ang kasalukuyang nilalaman ay pansamantala at papalitan ng panghuling teksto sa lalong madaling panahon.",
