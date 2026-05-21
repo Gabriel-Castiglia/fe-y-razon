@@ -833,7 +833,7 @@ NUNCA Reina-Valera ni traducciones protestantes.
                 <blockquote>«Conozco tus obras: no eres ni frío ni caliente. ¡Ojalá fueras frío o caliente! Ahora bien, puesto que eres tibio, y no frío ni caliente, te vomitaré de mi boca.»</blockquote>
             </div>
 
-            <p>Son peores que los protestantes, porque al menos el protestante cree algo, aunque sea equivocado.</p>
+            <p>Un tibio no defiende nada, no explica nada, no convence a nadie. Al menos el que cree algo equivocado tiene algo que ofrecer.</p>
 
             <p>Y los protestantes aparecen. Aparecen siempre. Testigos de Jehová, pentecostales, adventistas, mormones, cada secta con su versión recortada de la Escritura y su certeza prestada. Acá vas a encontrar respuesta a esas sectas, en su propio terreno, con su propia arma: la Biblia entera — incluyendo los libros deuterocanónicos que ellos arrancaron de sus traducciones sin autoridad para hacerlo. Con la Biblia bien leída, los Padres de la Iglesia, el Magisterio, el Catecismo, y la razón que Dios nos dio como regalo.</p>
 

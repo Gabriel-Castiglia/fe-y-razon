@@ -737,7 +737,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
                 <blockquote>«Kilala ko ang iyong mga gawa: hindi ka malamig ni mainit. Sana'y malamig ka man o mainit! Ngunit dahil ikaw ay <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Filipino -->maligamgam, at hindi malamig ni mainit, isusuka kita mula sa aking bibig.»</blockquote>
             </div>
 
-            <p>Mas masama pa sila kaysa sa mga Protestante, dahil kahit papaano ang Protestante ay naniniwala sa isang bagay, kahit mali man.</p>
+            <p>Ang isang maligamgam ay walang ipinagtatatanggol, walang ipinaliwanag, walang nakukumbinsi. Kahit ang naniniwala sa maling bagay ay may maiaalok.</p>
 
             <p>At ang mga Protestante ay laging nagpapakita. Laging nagpapakita sila. Ang mga Saksi ni Jehova, mga Pentecostal, mga Adventista, mga Mormon, bawat <!-- TODO: verificar terminología "secta" en Filipino -->sekta may sariling pinutol na bersyon ng Kasulatan at hiniram na katiyakan. Dito mahahanap mo ang sagot sa mga sektang iyon, sa sarili nilang lupain, gamit ang sarili nilang sandata: ang buong Bibliya — kabilang ang mga <!-- TODO: verificar terminología "deuterocanónicos" en Filipino -->deuterocanonical na aklat na kinuha nila mula sa kanilang mga salin nang wala silang awtoridad para gawin iyon. Sa tamang pagbabasa ng Bibliya, ang mga Ama ng Simbahan, ang <!-- TODO: verificar terminología Magisterio en Filipino -->Magisterium, ang <!-- TODO: verificar terminología Catecismo en Filipino -->Catechism, at ang katuwiran na ibinigay sa atin ng Diyos bilang kaloob.</p>
 

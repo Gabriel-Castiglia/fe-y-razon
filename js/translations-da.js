@@ -736,7 +736,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                 <blockquote>«Jeg kender dine gerninger: du er hverken kold eller varm. Gid du var kold eller varm! Men da du er lunken — hverken kold eller varm — vil jeg udspy dig af min mund.»</blockquote>
             </div>
 
-            <p>De er værre end protestanterne, for i det mindste tror protestanten på noget, selv om det er forkert.</p>
+            <p>En lunken katolik forsvarer ingenting, forklarer ingenting, overbeviser ingen. I det mindste har den, der tror på noget forkert, noget at byde på.</p>
 
             <p>Og protestanterne dukker op. De dukker altid op. Jehovas Vidner, pinsebevægelsen, adventister, mormoner, hvert <!-- TODO: verificar terminología "secta" en Dansk -->sekt med sin afkortede version af Skriften og sin lånte overbevisning. Her finder du svar på disse sekter, på deres eget enemærke, med deres eget våben: hele Bibelen — inklusive de <!-- TODO: verificar terminología "deuterocanónicos" en Dansk -->deuterokanoniske bøger, som de rev ud af deres oversættelser uden autoritet til at gøre det. Med Bibelen godt læst, <!-- TODO: verificar terminología "Padres de la Iglesia" en Dansk -->Kirkefædrene, <!-- TODO: verificar terminología Magisterio en Dansk -->Læreembedet, <!-- TODO: verificar terminología Catecismo en Dansk -->Katekismen og den fornuft, Gud gav os som gave.</p>
 

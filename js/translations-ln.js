@@ -242,7 +242,7 @@ const translationsLN = {
                 <blockquote>«Nayebi misala na yo: ozali na pôfumu te mpe na molili te. Nakombaki soki ozali na pôfumu to na molili! Kasi pamba te ozali na vuguvugu — to na pôfumu to na molili te — nakobwaka yo na monoko na ngai.»</blockquote>
             </div>
 
-            <p>Bazali mabe koleka Baprolestante, pamba te ndenge moko Mpolestante akredeli eloko moko, ata soki azangi nzela.</p>
+            <p>Mokatoli ya vuguvugu abatelaka eloko te, akombolaka eloko te, akonzaka moto moko te. Kaka oyo akredeli eloko ya boma azali na eloko ya kopesa.</p>
 
             <p>Mpe Baprolestante bayaki. Bayaki ntango nyonso. Batatoli ya Yehova, Bapentekoti, Baadventiste, Bamormon, biso nyonso na <!-- TODO: verificar terminología "secta" en Lingala -->version ya bonene te ya Makomami mpe sûreté ya kokopama. Awa okozua eyano mpo na biso bya kondima yango, na mabele na bango moko, na efundola na bango moko: Biblia mobimba — mboka <!-- TODO: verificar terminología "deuterocanónicos" en Lingala -->balivres ya deutérokanonike oyo babotola na batraduction na bango kozanga bokonzi ya kosala bongo. Na Biblia oyo olandaka malamu, <!-- TODO: verificar terminología "Padres de la Iglesia" en Lingala -->Batata ya Eklesia, <!-- TODO: verificar terminología Magisterio en Lingala -->Mazisterio, <!-- TODO: verificar terminología Catecismo en Lingala -->Katéchisime, mpe mayele oyo Nzambe apesaki biso liboso.</p>
 
