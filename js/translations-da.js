@@ -183,19 +183,34 @@ const translationsDA = {
       article: `<p>Er Eukaristien et symbol, eller er den virkelig? Svaret findes i Johannes 6. Der findes ingen klarere, mere direkte eller mere udfordrende tekst i hele Evangeliet om dette emne. Og Jesus viger ikke. Men Johannes 6 er ikke det eneste vidnesbyrd: Paulus bekræfter det uafhængigt, og de første disciple af apostlene forstod det uden tvetydighed. Der er tre beviskæder. Ingen af dem har et svar inden for den symbolske fortolkning.</p>
                 <h2>Jeg er livets brød<br>Joh 6,47-51</h2>
                 <p>Jesus siger ikke "jeg repræsenterer livets brød" eller "jeg er som livets brød". Han siger:</p>
-                <blockquote>"Sandelig, sandelig siger jeg jer: Den, der tror, har evigt liv. <strong>Jeg er livets brød.</strong> Jeres fædre spiste manna i ørkenen og døde. Dette er brødet, der kommer ned fra himlen, så den, der spiser af det, ikke skal dø. Jeg er det levende brød, der kom ned fra himlen. Hvis nogen spiser af dette brød, skal han leve til evig tid. Og <strong>det brød, jeg vil give, er mit kød</strong>, som gives for verdens liv." — Joh 6,47-51</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Joh 6,47-51</span>
+                    <blockquote>«Sandelig, sandelig siger jeg jer: Den, der tror, har evigt liv. <strong class="s-hi">Jeg er livets brød.</strong> Jeres fædre spiste manna i ørkenen og døde. Dette er brødet, der kommer ned fra himlen, så den, der spiser af det, ikke skal dø. Jeg er det levende brød, der kom ned fra himlen. Hvis nogen spiser af dette brød, skal han leve til evig tid. Og <strong class="s-hi">det brød, jeg vil give, er mit kød</strong>, som gives for verdens liv.»</blockquote>
+                </div>
                 <p>Verbet "er" indikerer ikke repræsentation — det indikerer identitet. Og det, der følger, efterlader intet rum for symbolsk fortolkning:</p>
-                <blockquote>"Sandelig, sandelig siger jeg jer: <strong>Hvis I ikke spiser Menneskesønnens kød og drikker hans blod, har I ikke liv i jer.</strong> Den, der spiser mit kød og drikker mit blod, har evigt liv, og jeg skal oprejse ham på den yderste dag. For <strong>mit kød er sand mad, og mit blod er sand drik.</strong>" — Joh 6,53-55</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Joh 6,53-55</span>
+                    <blockquote>«Sandelig, sandelig siger jeg jer: <strong class="s-hi">Hvis I ikke spiser Menneskesønnens kød og drikker hans blod, har I ikke liv i jer.</strong> Den, der spiser mit kød og drikker mit blod, har evigt liv, og jeg skal oprejse ham på den yderste dag. For <strong class="s-hi">mit kød er sand mad, og mit blod er sand drik.</strong>»</blockquote>
+                </div>
                 <p>Han siger ikke "hvis I ikke husker" eller "hvis I ikke betragter". Han siger <em>spise</em> og <em>drikke</em>. Og han gentager det med forskellige ord for at fjerne al forvirring: <em>sand mad</em> og <em>sand drik</em>. Ordet "sand" udelukker udtrykkeligt det symbolske.</p>
                 <h2>Metafor-indvendingen<br>Joh 15,1</h2>
                 <p>Den sædvanlige indvending er: "Det er en metafor, ligesom når han siger 'Jeg er vintræet' eller 'Jeg er døren'." Vi må gå til Bibelen. Da Jesus sagde <em>"Jeg er det sande vintræ"</em> (Joh 15,1), gik ingen væk. Da han sagde "spis mit kød", gik mange væk. Forskellen er afgørende:</p>
-                <blockquote>"Da mange af hans disciple hørte det, sagde de: <strong>'Dette er hårde ord. Hvem kan høre på det?'</strong>" — Joh 6,60</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Joh 6,60</span>
+                    <blockquote>«Da mange af hans disciple hørte det, sagde de: <strong class="s-hi">'Dette er hårde ord. Hvem kan høre på det?'</strong>»</blockquote>
+                </div>
                 <p>Jesus retter dem ikke ved at sige "I misforstod — det var en metafor". Han lader dem gå. Det er det stærkeste bevis: hvis det var symbolsk, ville den gode hyrde have holdt dem tilbage med en forklaring. Det gør han ikke.</p>
                 <h2>Dette skaber splittelse<br>Joh 6,66-67</h2>
-                <blockquote>"Fra da af trak mange af hans disciple sig tilbage og vandrede ikke mere med ham. Da sagde Jesus til de tolv: <strong>'Vil I også gå bort?'</strong>" — Joh 6,66-67</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Joh 6,66-67</span>
+                    <blockquote>«Fra da af trak mange af hans disciple sig tilbage og vandrede ikke mere med ham. Da sagde Jesus til de tolv: <strong class="s-hi">'Vil I også gå bort?'</strong>»</blockquote>
+                </div>
                 <p>Han giver ikke efter. Han blødgør ikke. Han forhandler ikke om betydningen. Jesus er den gode hyrde, der ikke ville lade et eneste får gå tabt på grund af en misforståelse — men på dette punkt er han urokkelig.</p>
                 <h2>Der er ingen anden fortolkning<br>Joh 6,68</h2>
-                <blockquote>"Simon Peter svarede ham: <strong>'Herre, hvem skulle vi gå til? Du har det evige livs ord.'</strong>" — Joh 6,68</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Joh 6,68</span>
+                    <blockquote>«Simon Peter svarede ham: <strong class="s-hi">'Herre, hvem skulle vi gå til? Du har det evige livs ord.'</strong>»</blockquote>
+                </div>
                 <p>Peter siger ikke, at han forstår alt. Han siger, at han stoler. Det er tro: ikke at have alle svarene, men at vide, hvem man tror på.</p>
                 <ul>
                     <li>"Jeg er" — repræsenterer ikke, men er.</li>
@@ -205,9 +220,15 @@ const translationsDA = {
                 </ul>
                 <h2>Paulus bekræfter det — et uafhængigt vidne<br>1 Kor 10,16 og 11,27-29</h2>
                 <p>Paulus skriver sit første brev til korinterne, før Johannes' evangelium blev skrevet. To fuldstændig uafhængige vidner. Paulus siger:</p>
-                <blockquote>"<strong>Velsignelsens kalk, som vi velsigner, er den ikke fællesskab med Kristi blod? Brødet, som vi bryder, er det ikke fællesskab med Kristi legeme?</strong>" — 1 Kor 10,16</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Kor 10,16</span>
+                    <blockquote>«<strong class="s-hi">Velsignelsens kalk, som vi velsigner, er den ikke fællesskab med Kristi blod? Brødet, som vi bryder, er det ikke fællesskab med Kristi legeme?</strong>»</blockquote>
+                </div>
                 <p>Han siger ikke "erindring". Han siger <em>fællesskab</em> — reel, effektiv deltagelse. Og derefter:</p>
-                <blockquote>"<strong>Derfor bliver den, der spiser brødet eller drikker Herrens kalk uværdigt, skyldig i Herrens legeme og blod.</strong> Lad derfor et menneske prøve sig selv og så spise af brødet og drikke af kalken. For den, der spiser og drikker <strong>uden at skelne legemet</strong>, spiser og drikker dom over sig selv." — 1 Kor 11,27-29</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Kor 11,27-29</span>
+                    <blockquote>«<strong class="s-hi">Derfor bliver den, der spiser brødet eller drikker Herrens kalk uværdigt, skyldig i Herrens legeme og blod.</strong> Lad derfor et menneske prøve sig selv og så spise af brødet og drikke af kalken. For den, der spiser og drikker <strong class="s-hi">uden at skelne legemet</strong>, spiser og drikker dom over sig selv.»</blockquote>
+                </div>
                 <p>Det græske ord ἔνοχος — "skyldig" — indebærer ansvar for en reel forbrydelse. Man kan ikke være skyldig i en forbrydelse mod et symbol. Paulus siger også "uden at skelne legemet". Hvis det kun var brød, hvilket "legeme" skulle der da skelnes?</p>
                 <h2>De første kristne — vidner formet af apostlene</h2>
                 <p>Ignatios af Antiokia var en direkte discipel af apostlen Johannes. Han døde som martyr omkring år 107 e.Kr. Han skrev i sit brev til smyrnæerne:</p>
@@ -237,19 +258,34 @@ const translationsDA = {
       article: `<p>Der er et spørgsmål, som protestantismen ikke kan besvare. Jesus sagde: <em>"Modtag Helligånden. Hvis I tilgiver nogen deres synder, er de dem tilgivet; hvis I beholder nogens synder, er de dem beholdt"</em> (Joh 20,22-23). Til hvem talte han? Og hvordan kan man beholde nogens synder uden at vide, hvad de er? Det kan man ikke. Dette vers kræver, at den angrende bekender sine synder — hvilket kræver en præst med autoritet til at tilgive. Lad os gennemgå dette trin for trin.</p>
                 <h2>En mand taget blandt mennesker<br>Hebr 5,1-2</h2>
                 <p>Brevet til hebræerne er utvetydigt fra starten:</p>
-                <blockquote>"<strong>Enhver ypperstepræst tages blandt mennesker</strong> og indsættes for mennesker i deres forhold til Gud til at frembære både gaver og ofre for synder. Han kan have medfølelse med de uvidende og vildfarende, da han selv også er omgivet af svaghed." — Hebr 5,1-2</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Hebr 5,1-2</span>
+                    <blockquote>«<strong class="s-hi">Enhver ypperstepræst tages blandt mennesker</strong> og indsættes for mennesker i deres forhold til Gud til at frembære både gaver og ofre for synder. Han kan have medfølelse med de uvidende og vildfarende, da han selv også er omgivet af svaghed.»</blockquote>
+                </div>
                 <p>Præsten er ikke hævet over den menneskelige tilstand. Han deler de samme kampe, fristelser og svagheder som enhver troende. Det er grundlaget for pastoral medfølelse: ingen kan virkelig ledsage en anden gennem det, han aldrig har oplevet. Præsten kan vise medfølelse, fordi han også er omgivet af svaghed.</p>
                 <h2>Hellig fordi Gud helliger, ikke ved personlig fortjeneste<br>3 Mos 21,6-8</h2>
                 <p>I Tredje Mosebog befaler Gud, at præsterne skal betragtes som hellige. Men den hellighed, der kræves af dem, er ikke absolut moralsk perfektion — det er indvielse: de er sat til side for Gud og hans tjeneste:</p>
-                <blockquote>"De skal være hellige for deres Gud og ikke vanhellige deres Guds navn... <strong>Du skal betragte ham som hellig, for han frembærer din Guds brød; han skal være hellig for dig, for jeg, Herren, som helliger jer, er hellig.</strong>" — 3 Mos 21,6-8</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 3 Mos 21,6-8</span>
+                    <blockquote>«De skal være hellige for deres Gud og ikke vanhellige deres Guds navn... <strong class="s-hi">Du skal betragte ham som hellig, for han frembærer din Guds brød; han skal være hellig for dig, for jeg, Herren, som helliger jer, er hellig.</strong>»</blockquote>
+                </div>
                 <p>Folket skal betragte præsten som hellig ikke på grund af hans egne fortjenester, men på grund af Gud. Embedets hellighed kommer fra ham, der indstiftede det. Dette befrier os fra en falsk forventning: vores tro hviler på Guds trofasthed, ikke på ministerens personlige dyd.</p>
                 <h2>"Vi er alle præster" — indvendingen og dens grænser<br>1 Pet 2,9 og Hebr 5,4</h2>
                 <p>Peter siger det klart:</p>
-                <blockquote>"<strong>I er en udvalgt slægt, et kongeligt præsteskab, et helligt folk</strong>, et folk, Gud har vundet, for at I skal forkynde hans store gerninger, han som kaldte jer fra mørket til sit underfulde lys." — 1 Pet 2,9</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Pet 2,9</span>
+                    <blockquote>«<strong class="s-hi">I er en udvalgt slægt, et kongeligt præsteskab, et helligt folk</strong>, et folk, Gud har vundet, for at I skal forkynde hans store gerninger, han som kaldte jer fra mørket til sit underfulde lys.»</blockquote>
+                </div>
                 <p>Dåbspræstedømmet er virkeligt. Ingen benægter det. Men der er to præstedømmer i Det Nye Testamente, ikke ét. Det samme brev til hebræerne skelner dem præcist:</p>
-                <blockquote>"<strong>Ingen tager denne ære til sig selv, men kun den, der kaldes af Gud, ligesom Aron var det.</strong>" — Hebr 5,4</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Hebr 5,4</span>
+                    <blockquote>«<strong class="s-hi">Ingen tager denne ære til sig selv, men kun den, der kaldes af Gud, ligesom Aron var det.</strong>»</blockquote>
+                </div>
                 <p>Der er et præstedømme, man modtager ved dåben, og der er et andet, der kræver et specifikt kald og indvielse. Dette er ikke en sen opfindelse. Da Kora og hans følge argumenterede for, at <em>"hele menigheden er hellig, hver og en af dem"</em> (4 Mos 16,3) — og krævede adgang til det ministerielle præstedømme uden kald — åbnede jorden sig og slugte dem. Og i Det Nye Testamente:</p>
-                <blockquote>"<strong>I hver menighed indsatte de ældste</strong>, og efter at have bedt under faste betroede de dem til Herren, som de var kommet til tro på." — Ap.G. 14,23</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ap.G. 14,23</span>
+                    <blockquote>«<strong class="s-hi">I hver menighed indsatte de ældste</strong>, og efter at have bedt under faste betroede de dem til Herren, som de var kommet til tro på.»</blockquote>
+                </div>
                 <p>Paulus befaler Titus: <em>"Jeg efterlod dig på Kreta for at du skulle bringe det, der manglede, i orden og <strong>indsætte ældste i hver by</strong>"</em> (Tit 1,5). Han minder Timotheus: <em>"Forsøm ikke den nådegave, du har, som blev givet dig ved profeti med <strong>de ældstes håndspålæggelse</strong>"</em> (1 Tim 4,14). Dette er struktur, ikke metafor.</p>
                 <h2>"Kald ingen far" — et bibelsk svar<br>Matt 23,9</h2>
                 <p>Jesus siger i Matt 23,9: <em>"<strong>Og kald ingen på jorden jeres far</strong>, for én er jeres fader, han i himlene."</em> De, der bruger dette vers mod det katolske præstedømme, har et problem: den samme Bibel modsiger det i flere passager.</p>
@@ -257,13 +293,22 @@ const translationsDA = {
                 <p>Matt 23,9 forbyder ikke den grammatiske brug af ordet. Det forbyder afgudsdyrkelse af menneskelig autoritet — at sætte et menneske i Guds sted. Konteksten bekræfter dette: Jesus taler mod de skriftkloge og farisæerne, der søger ære og titler for sig selv.</p>
                 <h2>Syndernes forladelse — Joh 20,22-23</h2>
                 <p>Vi vender tilbage til udgangspunktet. Den opstandne Jesus viser sig for apostlene, ånder på dem — den samme gestus som i 1 Mos 2,7, da han indåndede liv i mennesket — og siger:</p>
-                <blockquote>"Modtag Helligånden. <strong>Hvis I tilgiver nogen deres synder, er de dem tilgivet; hvis I beholder nogens synder, er de dem beholdt.</strong>" — Joh 20,22-23</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Joh 20,22-23</span>
+                    <blockquote>«Modtag Helligånden. <strong class="s-hi">Hvis I tilgiver nogen deres synder, er de dem tilgivet; hvis I beholder nogens synder, er de dem beholdt.</strong>»</blockquote>
+                </div>
                 <p>Hvordan kan man beholde nogens synder uden at vide, hvad de er? Det kan man ikke. Dette vers kræver, at den angrende bekender sine synder. Det er den sakramentale skriftemål, indstiftet af Kristus selv med sin egen åndedræt.</p>
                 <h2>Alteret og offeret i Det Nye Testamente<br>Hebr 13,10 og Mal 1,11</h2>
                 <p>Hvis der ikke er præstedømme og offer i Det Nye Testamente, hvorfor siger brevet til hebræerne så dette?</p>
-                <blockquote>"<strong>Vi har et alter</strong>, som de, der tjener ved tabernaklet, ikke har ret til at spise af." — Hebr 13,10</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Hebr 13,10</span>
+                    <blockquote>«<strong class="s-hi">Vi har et alter</strong>, som de, der tjener ved tabernaklet, ikke har ret til at spise af.»</blockquote>
+                </div>
                 <p>Og profeten Malakias, århundreder før Kristus, forkyndte:</p>
-                <blockquote>"For fra solopgang til solnedgang er mit navn stort blandt folkene, og <strong>på ethvert sted frembæres der røgelse for mit navn og et rent offer</strong>, for mit navn er stort blandt folkene, siger Hærskarers Herre." — Mal 1,11</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mal 1,11</span>
+                    <blockquote>«For fra solopgang til solnedgang er mit navn stort blandt folkene, og <strong class="s-hi">på ethvert sted frembæres der røgelse for mit navn og et rent offer</strong>, for mit navn er stort blandt folkene, siger Hærskarers Herre.»</blockquote>
+                </div>
                 <p>Et rent offer på ethvert sted på jorden. De første århundreders kirkefædre genkendte heri Eukaristien — det eneste offer, der opfylder denne profeti.</p>
                 <h2>Hvad Skriften lærer os</h2>
                 <ul>
@@ -296,41 +341,71 @@ const translationsDA = {
                 <h2>Ordet blev bevidnet<br>Luk 1,1-4 og Joh 11,25-27</h2>
                 <p>Lukas fortæller os, at mange har forsøgt at sammensætte en beretning om de begivenheder, der fandt sted blandt dem, <em>"sådan som de blev overleveret til os af dem, der fra begyndelsen var øjenvidner og ordets tjenere"</em> (Luk 1,2). Dette er ikke legender: det er vidnesbyrd. Det, Jesus sagde, levede og lærte, blev set og overleveret af virkelige vidner.</p>
                 <p>Martha bekender ham uden tøven foran sin brors grav: <em>"Ja, Herre, jeg tror, at du er Messias, Guds søn, han, som skulle komme til verden"</em> (Joh 11,27). Tro er ikke irrationel: det er et svar på en åbenbaring bekræftet af dem, der levede den.</p>
-                <blockquote>"<strong>For at du kan kende sikkerheden i de ting, du er blevet undervist i.</strong>" — Luk 1,4</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Luk 1,4</span>
+                    <blockquote>«<strong class="s-hi">For at du kan kende sikkerheden i de ting, du er blevet undervist i.</strong>»</blockquote>
+                </div>
                 <h2>Vi må læse Guds ord<br>Luk 8,5-8, 8,11-12 og Salme 119</h2>
                 <p>Lignelsen om sædemanden gør det klart: <em>"Sæden er Guds ord"</em> (Luk 8,11). Djævelen ved, at Guds ord frembringer frelse — derfor river han det væk, kvæler det og knuser det (Luk 8,12). Det er ingen tilfældighed, at fjenden kæmper mod dets læsning.</p>
                 <p>Salme 119,72 siger, at Guds lov er mere værd end tusinder af guld- og sølvstykker. Og hvis nogen spørger, hvad man får ud af at læse Bibelen, svarer Paulus: <em>"Fra barndommen har du kendt de hellige skrifter, <strong>som kan gøre dig vis til frelse ved tro på Kristus Jesus</strong>"</em> (2 Tim 3,15).</p>
                 <p>Salme 119,103-105 giver os det smukkeste billede: <em>"Hvor søde er dine ord for min gane! Sødere end honning i min mund!... <strong>Dit ord er en lygte for min fod, et lys på min sti.</strong>"</em> Den, der ikke læser Guds ord, vandrer i mørke.</p>
-                <blockquote>"<strong>Dit ord er en lygte for min fod, et lys på min sti.</strong>" — Salme 119,105</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Salme 119,105</span>
+                    <blockquote>«<strong class="s-hi">Dit ord er en lygte for min fod, et lys på min sti.</strong>»</blockquote>
+                </div>
                 <h2>Ordet er fra Gud<br>2 Pet 1,19 og Joh 17,17</h2>
                 <p>Dette er ikke menneskelig mening. Peter bekræfter det: profeternes ord er Guds ord (2 Pet 1,19). Og Jesus selv bekræfter det i sin bøn til Faderen: <em>"<strong>Dit ord er sandhed</strong>"</em> (Joh 17,17). Og Jesus selv sagde: <em>"Salige er de, der hører Guds ord og <strong>holder det</strong>"</em> (Luk 11,28). Han sagde ikke dem, der kender det, eller dem, der citerer det; han sagde dem, der <strong>holder</strong> det.</p>
                 <h2>Tro er at gøre, hvad han siger<br>Luk 5,5 og Joh 2,5</h2>
                 <p>Peter havde fisket hele natten og havde ikke fanget noget. Efter menneskelig erfaring gav det ingen mening at kaste garnene ud om dagen. Men han sagde noget, der opsummerer al tro: <em>"Mester, vi har arbejdet hele natten og har ikke fanget noget; <strong>men fordi du siger det, vil jeg kaste garnene ud</strong>"</em> (Luk 5,5). Og netop derfor gjorde Jesus ham til menneskefisker — Peter specifikt, ikke de andre (Luk 5,10).</p>
                 <p>I Kana giver Jomfru Maria tjenerne den afgørende instruktion: <em>"<strong>Gør, hvad han siger til jer</strong>"</em> (Joh 2,5). Karrene blev fyldt med vand, men blev til vin, da tjenerne udførte hans ordrer til ende (Joh 2,8). Tro er ikke kun at tro: det er at adlyde.</p>
-                <blockquote>"<strong>Men fordi du siger det, vil jeg kaste garnene ud.</strong>" — Luk 5,5</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Luk 5,5</span>
+                    <blockquote>«<strong class="s-hi">Men fordi du siger det, vil jeg kaste garnene ud.</strong>»</blockquote>
+                </div>
                 <h2>Hvor kom din Bibel fra?<br>Sola scriptura og dens problemer</h2>
                 <p>Nogle siger: "Kun Skriften er troens regel. Bibelen er tilstrækkelig." Godt. Lad os gå til Bibelen.</p>
-                <blockquote>"<strong>Al Skrift er indåndet af Gud og nyttig</strong> til undervisning, til bevis, til rettelse, til opdragelse i retfærdighed, for at Guds menneske kan være fuldkomment, rustet til enhver god gerning." — 2 Tim 3,16-17</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 2 Tim 3,16-17</span>
+                    <blockquote>«<strong class="s-hi">Al Skrift er indåndet af Gud og nyttig</strong> til undervisning, til bevis, til rettelse, til opdragelse i retfærdighed, for at Guds menneske kan være fuldkomment, rustet til enhver god gerning.»</blockquote>
+                </div>
                 <p>Ordet Paulus bruger er "nyttig" — på græsk ὠφέλιμος — ikke "eksklusiv" eller "eneste troens regel". Verset siger aldrig, at Skriften alene er tilstrækkelig til alt. Og der er noget vigtigere: hvis det eneste kriterium for sandhed var "hvad Bibelen siger", så skulle sola scriptura være i Bibelen for at være gyldig. Det er den ikke. Argumentet ødelægger sig selv med sit eget kriterium.</p>
                 <h2>Hvem fastsatte kanon?<br>Det spørgsmål sola scriptura ikke kan besvare</h2>
                 <p>Det Nye Testamente kom ikke med en indholdsfortegnelse. I de første århundreder brugte forskellige samfund forskellige tekster. Hvordan blev det besluttet, hvad der er Guds ord, og hvad der ikke er? Den katolske kirke fastsatte ved koncilierne i Hippo (393 e.Kr.) og Karthago (397 e.Kr.) den bibelske kanon, som den kristne verden bruger den dag i dag. Den, der afviser den katolske kirkes autoritet til at undervise i doktrin, stoler på den samme kirke for at vide, hvilke bøger der skal læses. Der er ingen anden sammenhængende mulighed.</p>
                 <h2>Mundtlig tradition er bibelsk<br>2 Thess 2,15 og 2 Tim 2,2</h2>
                 <p>Paulus underviste ikke kun gennem breve. Han befalede, at mundtlig tradition også skulle bevares:</p>
-                <blockquote>"Så stå da fast, brødre, og <strong>hold fast ved de overleveringer, som I blev undervist i af os, enten mundtligt eller ved brev.</strong>" — 2 Thess 2,15</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 2 Thess 2,15</span>
+                    <blockquote>«Så stå da fast, brødre, og <strong class="s-hi">hold fast ved de overleveringer, som I blev undervist i af os, enten mundtligt eller ved brev.</strong>»</blockquote>
+                </div>
                 <p>Og han betroede, at denne tradition skulle videregives fra generation til generation:</p>
-                <blockquote>"<strong>Det, du har hørt af mig i mange vidners påhør, det skal du betro til trofaste mennesker, som også vil være i stand til at undervise andre.</strong>" — 2 Tim 2,2</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 2 Tim 2,2</span>
+                    <blockquote>«<strong class="s-hi">Det, du har hørt af mig i mange vidners påhør, det skal du betro til trofaste mennesker, som også vil være i stand til at undervise andre.</strong>»</blockquote>
+                </div>
                 <p>Fire generationer af overlevering i ét vers: Paulus → Timotheus → trofaste mennesker → andre. Og Johannes selv anerkender dette i slutningen af sit evangelium:</p>
-                <blockquote>"<strong>Der er også mange andre ting, som Jesus gjorde. Hvis de blev skrevet én for én, tror jeg ikke, at verden selv kunne rumme de bøger, der ville blive skrevet.</strong>" — Joh 21,25</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Joh 21,25</span>
+                    <blockquote>«<strong class="s-hi">Der er også mange andre ting, som Jesus gjorde. Hvis de blev skrevet én for én, tror jeg ikke, at verden selv kunne rumme de bøger, der ville blive skrevet.</strong>»</blockquote>
+                </div>
                 <p>Jesus selv skrev ikke en eneste linje. Han sendte apostle til at prædike, ikke til at skrive.</p>
                 <h2>Privat fortolkning er forbudt af Skriften<br>2 Pet 1,20-21</h2>
                 <p>Peter siger det klart:</p>
-                <blockquote>"<strong>Først og fremmest skal I vide dette: Ingen profeti i Skriften er et spørgsmål om privat fortolkning.</strong> For ingen profeti kom nogensinde ved menneskeligt initiativ, men mennesker talte fra Gud, idet de blev båret af Helligånden." — 2 Pet 1,20-21</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 2 Pet 1,20-21</span>
+                    <blockquote>«<strong class="s-hi">Først og fremmest skal I vide dette: Ingen profeti i Skriften er et spørgsmål om privat fortolkning.</strong> For ingen profeti kom nogensinde ved menneskeligt initiativ, men mennesker talte fra Gud, idet de blev båret af Helligånden.»</blockquote>
+                </div>
                 <p>Siden 1517 er der mere end 45.000 forskellige denominationer, der læser den samme Bibel og når modsatte konklusioner om dåb, Eukaristi, frelse og moral. Jesus bad om noget andet: <em>"<strong>at de alle må være ét</strong>"</em> (Joh 17,21). Det spørgsmål, der må stilles: kan Helligånden samtidig lede alle disse modstridende positioner?</p>
                 <h2>Kirken er sandhedens søjle<br>1 Tim 3,15 og Matt 16,18</h2>
                 <p>Bibelen kalder ikke sig selv sandhedens søjle. Den kalder Kirken det:</p>
-                <blockquote>"Den levende Guds kirke, <strong>sandhedens søjle og grundvold.</strong>" — 1 Tim 3,15</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Tim 3,15</span>
+                    <blockquote>«Den levende Guds kirke, <strong class="s-hi">sandhedens søjle og grundvold.</strong>»</blockquote>
+                </div>
                 <p>Og Jesus gav et institutionelt løfte om den:</p>
-                <blockquote>"Og jeg siger dig, at du er Peter, og på denne klippe vil jeg bygge min kirke, <strong>og dødsrigets porte skal ikke få magt over den.</strong>" — Matt 16,18</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matt 16,18</span>
+                    <blockquote>«Og jeg siger dig, at du er Peter, og på denne klippe vil jeg bygge min kirke, <strong class="s-hi">og dødsrigets porte skal ikke få magt over den.</strong>»</blockquote>
+                </div>
                 <p>Dette løfte beskytter Magisteriet — Kirkens officielle undervisning — mod definitivt at undervise i fejl. Det betyder ikke, at hvert medlem er ufejlbarligt. Det betyder, at den sandhed, Kristus betroede sin kirke, ikke kan ødelægges.</p>
                 <h2>Konklusion: tro og adlyd</h2>
                 <p>Profeternes ord er fra Gud. Apostlene bevidnede det. Vi må læse det hele — inklusive hvad det siger om mundtlig tradition, om hvem der fortolker det, og om den kirke, Kristus grundlagde. Og vi må gøre, hvad Gud siger: det er tro. Ikke alle, der siger "Herre, Herre", vil blive frelst, men den, der gør Faderens vilje (Matt 7,21). Bibelen, læst i sin helhed og med ærlighed, peger på den samme kirke, Jesus grundlagde. At tro er at stole på Jesus Kristus, selv når menneskelig erfaring siger det modsatte, som Peter gjorde på søen. Og den tillidshandling ændrer alt.</p>`,
@@ -482,7 +557,10 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
       article: `<p>Treenigheden er det centrale mysterium i den kristne tro. Gud er ét væsen i tre Personer: Fader, Søn og Helligånd, i fuldkommen enhed og fællesskab.</p>
                 <h2>Enhed og distinktion</h2>
                 <p>Hver guddommelig Person er fuldt ud Gud, men de er ikke tre adskilte guder. Kristendommen bekender én Gud i et evigt kærlighedsforhold.</p>
-                <blockquote>"I Faderens og Sønnens og Helligåndens navn."</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matt 28:19</span>
+                    <blockquote>«<strong class="s-hi">I Faderens og Sønnens og Helligåndens navn</strong>»</blockquote>
+                </div>
                 <h2>Fælles virke</h2>
                 <p>Faderen sender Sønnen, Sønnen forløser, og Ånden helliger. Denne fælles virken viser, at frelsen er hele Treenighedens værk.</p>
                 <ul>
@@ -513,7 +591,10 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
       article: `<p>Den nye lov er Evangeliets lov, centreret om kærlighedens bud. Kristus afskaffer ikke den gamle lov, men fuldbyrder den og gør den tilgængelig for det menneskelige hjerte.</p>
                 <h2>Kærlighed som målestok</h2>
                 <p>Jesus samler Loven i kærlighed til Gud og næsten. Denne nye regel er ikke en byrde, men en dyb frihed, der transformerer vores handlinger indefra.</p>
-                <blockquote>"Du skal elske Herren din Gud af hele dit hjerte og din næste som dig selv."</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matt 22:37-38</span>
+                    <blockquote>«<strong class="s-hi">Du skal elske Herren din Gud af hele dit hjerte og din næste som dig selv</strong>»</blockquote>
+                </div>
                 <h2>Fuldbyrdelse af den gamle lov</h2>
                 <p>Profeterne bebudede en ny lov, der ville leve i hjertet. Kristi undervisning afslører, at ægte lydighed ikke reduceres til ydre handlinger, men til en sand indre indstilling.</p>
                 <ul>
@@ -544,7 +625,10 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
       article: `<p>Peters primat er en lære, der er afgørende for at forstå Kirkens struktur. Jesus betroede Peter en unik rolle som hyrde og garant for den apostolske enhed.</p>
                 <h2>Bibelsk grundlag</h2>
                 <p>I Evangeliet erklærer Kristus Peter for klippen og betror ham at vogte sine får. Dette mandat afspejler en særlig autoritet til at lede det kristne fællesskab.</p>
-                <blockquote>"Du er Peter, og på denne klippe vil jeg bygge min kirke."</blockquote>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matt 16:18</span>
+                    <blockquote>«<strong class="s-hi">Du er Peter, og på denne klippe vil jeg bygge min kirke</strong>»</blockquote>
+                </div>
                 <h2>Apostolsk succession</h2>
                 <p>Paven er Peters efterfølger i missionen med at styrke brødrene. Denne kontinuitet sikrer troskab over for trosdeponetet og beskytter Kirkens enhed.</p>
                 <ul>
@@ -632,7 +716,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
         prevTitle: "Peters primat",
         nextTitle: "Præstedømmet i den katolske kirke"
       }
-    }
+    },
     "sobre-este-sitio": {
       pageTitle: "Om dette sted | Tro og Fornuft",
       hero: `<div class="hero-eyebrow">
@@ -642,7 +726,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
             <h1>Om dette sted</h1>
             <p>En rejse gennem filosofier, der ikke holdt — til den Kirke, der gjorde.</p>
             <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
-      article: `<p>Jeg kom til katolicismen efter en lang rejse. Jeg læste alt: okkultisme og esoterisme, de såkaldte Smaragdtavler, Den Sataniske Bibel, østlige filosofier, Nietzsche, epikuræerne. Jeg søgte svar overalt og fandt ikke ét, der holdt. Stoicismen var det sidste, der tilbød mig noget alvorligt, inden Kristus — Seneca, Marcus Aurelius, Epiktet lærte mig at se sandheden uden at blinke. Og idet jeg betragtede sandheden uden at blinke, endte jeg der, hvor jeg ikke forventede det: over for den Katolske Kirke.</p>
+      article: `<p>Jeg kom til katolicismen efter en lang rejse. Jeg læste alt: okkultisme og esoterisme, de såkaldte Smaragdtavler, østlige filosofier, Nietzsche, epikuræerne. Jeg søgte svar overalt og fandt ikke ét, der holdt. Stoicismen var det sidste, der tilbød mig noget alvorligt, inden Kristus — Seneca, Marcus Aurelius, Epiktet lærte mig at se sandheden uden at blinke. Og idet jeg betragtede sandheden uden at blinke, endte jeg der, hvor jeg ikke forventede det: over for den Katolske Kirke.</p>
 
             <p>Dette sted er for dig, hvis du befinder dig ét af disse steder: du tvivler på den tro, du har modtaget, og ved ikke, hvem du skal spørge; du søger iblandt traditioner, og ingen giver dig et svar, der kan bære vægten; du er netop konverteret og føler dig alene, uden vejledning, belejret fra alle sider. Jeg kender det sted. Jeg har været der. Og jeg ved, hvad der er rundt om det: traditionelle katolikker, der nogle gange tager for givet, hvad de burde bevise, og ikke kan forklare det; og endnu værre, lunken <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Dansk -->katolikker — dem, der går til messe af vane, ikke ved, hvad de tror, forsvarer ingenting, og er de første til at trække på skuldrene, når nogen angriber troen foran dem.</p>
 
@@ -656,13 +740,14 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
 
             <p>Og protestanterne dukker op. De dukker altid op. Jehovas Vidner, pinsebevægelsen, adventister, mormoner, hvert <!-- TODO: verificar terminología "secta" en Dansk -->sekt med sin afkortede version af Skriften og sin lånte overbevisning. Her finder du svar på disse sekter, på deres eget enemærke, med deres eget våben: hele Bibelen — inklusive de <!-- TODO: verificar terminología "deuterocanónicos" en Dansk -->deuterokanoniske bøger, som de rev ud af deres oversættelser uden autoritet til at gøre det. Med Bibelen godt læst, <!-- TODO: verificar terminología "Padres de la Iglesia" en Dansk -->Kirkefædrene, <!-- TODO: verificar terminología Magisterio en Dansk -->Læreembedet, <!-- TODO: verificar terminología Catecismo en Dansk -->Katekismen og den fornuft, Gud gav os som gave.</p>
 
-            <p>Min vigtigste inspiration i dette arbejde er Padre Luis Toro. Han er en Guds profet i vores tid, og jeg kan ikke fratage ham den ære, der tilkommer ham. Det, han gør ved at tale, forsøger jeg at gøre ved at skrive, i de sprog og for de læsere, han ikke når.</p>
+            <p>Min vigtigste inspiration i dette arbejde er Padre Luis Toro. Det, han gør ved at tale, forsøger jeg at gøre ved at skrive, i de sprog og for de læsere, han ikke når.</p>
 
             <p>Jeg skriver ikke for at vinde diskussioner. Jeg skriver for at den, der tvivler alene om natten, har noget seriøst ved hånden, når det er deres tur til at forsvare deres tro — eller når det er deres tur til at finde den for første gang.</p>
 
             <p class="about-signature">— M.G.</p>`
     }
   },
+  disclaimerHTML: "<!-- TODO: revisar disclaimer en Dansk -->Denne artikel er automatisk oversat fra spansk. Dette websted er et personligt projekt, der vedligeholdes med indsats og dedikation. Hvis du finder fejl i oversættelsen, er vi taknemmelige, hvis du indberetter dem via kontaktformularen.",
   provisional: {
     notice: "⚠ Denne artikel er ved at blive skrevet. Det nuværende indhold er foreløbigt og vil snart blive erstattet af den endelige tekst.",
     preliminaryWarning: "Denne artikel er foreløbig, det apologetiske indhold vil blive offentliggjort snart"
