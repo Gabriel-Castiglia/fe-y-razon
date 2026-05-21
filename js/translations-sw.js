@@ -242,7 +242,7 @@ const translationsSW = {
                 <blockquote>«Ninajua matendo yako: wewe si baridi wala si moto. Laiti ungekuwa baridi au moto! Lakini kwa sababu wewe ni vuguvugu, wala si moto wala si baridi, nitakutapika kutoka kinywani mwangu.»</blockquote>
             </div>
 
-            <p>Wao ni mbaya zaidi kuliko Waprotestanti, kwa sababu angalau Mprotestanti anaamini kitu fulani, hata kama ni kosa.</p>
+            <p>Mkatoliki vuguvugu hatetei kitu, haeleweshi kitu, hamshawishi mtu yeyote. Angalau anayeamini kitu kibaya ana kitu cha kutoa.</p>
 
             <p>Na Waprotestanti wanajitokeza. Wanajitokeza kila wakati. Mashahidi wa Yehova, Wapentekosti, Waadventista, Wamormon, kila <!-- TODO: verificar terminología "secta" en Kiswahili -->kikundi cha dini chenye toleo lake lililofupishwa la Maandiko na uhakika wake uliokopwa. Hapa utapata jibu kwa vikundi hivyo vya dini, katika uwanja wao wenyewe, kwa silaha yao wenyewe: Biblia yote — ikiwemo <!-- TODO: verificar terminología "deuterocanónicos" en Kiswahili -->vitabu vya deuterokanonisi ambavyo walivivuta kutoka tafsiri zao bila mamlaka ya kufanya hivyo. Kwa Biblia iliyosomwa vizuri, <!-- TODO: verificar terminología "Padres de la Iglesia" en Kiswahili -->Mababa wa Kanisa, <!-- TODO: verificar terminología Magisterio en Kiswahili -->Magisterium, <!-- TODO: verificar terminología Catecismo en Kiswahili -->Katekisimu, na akili ambayo Mungu alitupa kama zawadi.</p>
 

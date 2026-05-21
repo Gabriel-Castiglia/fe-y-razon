@@ -242,7 +242,7 @@ const translationsIG = {
                 <blockquote>«Amaara m omume gị: ị dịghị oyi ma ị dịghị ọkụ. Ọ gaara mma ma ị bụrụ oyi ma ọ bụ ọkụ! Mana n'ihi na ị bụ onye <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Igbo -->jụrụ, ma ị dịghị ọkụ ma ị dịghị oyi, m ga-akpụpụ gị n'ọnụ m.»</blockquote>
             </div>
 
-            <p>Ha dị njọ karịa ndị Prọtestant, n'ihi na opekata mpe Ọ Prọtestant kwere n'ihe ụfọdụ, ọbụlagodi ma ọ bụrụ na ọ bụ ihe ọjọọ.</p>
+            <p>Onye Katọlik jụrụ anaghị agbachitere ihe ọ bụla, anaghị akọwapụta ihe ọ bụla, anaghị ato onye ọ bụla n'uche. Opekata mpe onye kwere n'ihe ọjọọ nwere ihe ọ nwere ike inye.</p>
 
             <p>Na ndị Prọtestant na-apụta. Ha na-apụta mgbe niile. Ndị Ịchọcha Jehovah, ndị Pentikọst, ndị Adventist, ndị Mormon, <!-- TODO: verificar terminología "secta" en Igbo -->sekta ọ bụla nwere ụdị ya nke Akwụkwọ Nsọ a kpọchasịrị ma ọbụ nkwado nke a kọkọrọ. Ebe a i ga-ahụ azịza maka sekta ndị ahụ, n'ala ha onwe ha, site n'ọgụ ha onwe ha: Bayibụl niile — gụnyere akwụkwọ <!-- TODO: verificar terminología "deuterocanónicos" en Igbo -->Deuterokanonịkal ndị ha zụọrọ n'ntụgharị ha n'enweghị ike ime ya. Site n'Bayibụl a gụọrọ nke ọma, <!-- TODO: verificar terminología "Padres de la Iglesia" en Igbo -->ndị Nna Nzukọ-nsọ, <!-- TODO: verificar terminología Magisterio en Igbo -->Magistirium, <!-- TODO: verificar terminología Catecismo en Igbo -->Katekizm, na uche Chineke nyere anyị dị ka ọnụ ọhụụ.</p>
 

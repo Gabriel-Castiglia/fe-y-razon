@@ -318,7 +318,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
                 <blockquote>«Je connais tes œuvres : tu n'es ni froid ni bouillant. Ah ! si tu étais froid ou bouillant ! Mais parce que tu es tiède, et non froid ou bouillant, je vais te vomir de ma bouche.»</blockquote>
             </div>
 
-            <p>Ils sont pires que les protestants, parce qu'au moins le protestant croit quelque chose, même si c'est faux.</p>
+            <p>Un tiède ne défend rien, n'explique rien, ne convainc personne. Au moins celui qui croit quelque chose de faux a quelque chose à offrir.</p>
 
             <p>Et les protestants se présentent. Ils se présentent toujours. Les Témoins de Jéhovah, les pentecôtistes, les adventistes, les mormons, chaque secte avec sa version tronquée de l'Écriture et sa certitude empruntée. Ici vous trouverez une réponse à ces sectes, sur leur propre terrain, avec leur propre arme : toute la Bible — y compris les livres deutérocanoniques qu'ils ont arrachés de leurs traductions sans en avoir l'autorité. Avec la Bible bien lue, les Pères de l'Église, le Magistère, le Catéchisme, et la raison que Dieu nous a donnée en cadeau.</p>
 
