@@ -2,7 +2,7 @@
 
 **Apologética católica para entender, vivir y defender la fe.**
 
-🌐 **Sitio web:** [gabriel-castiglia.github.io/fe-y-razon](https://gabriel-castiglia.github.io/fe-y-razon/)
+🌐 **Sitio web:** [proyectofeyrazon.com](https://proyectofeyrazon.com/)
 
 ---
 
@@ -56,7 +56,7 @@ fe-y-razon/
 Para visualizar el sitio en tu máquina:
 
 ```bash
-git clone https://github.com/Gabriel-Castiglia/fe-y-razon.git
+git clone <url-del-repositorio>
 cd fe-y-razon
 python3 -m http.server 8000
 ```

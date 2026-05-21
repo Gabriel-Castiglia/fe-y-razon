@@ -1058,6 +1058,18 @@ html[lang="pt"] [data-complete-for~="pt"] {
   font-style: normal;
 }
 
+/* Aviso de traducción automática — artículos apologéticos en idiomas no-español */
+.translation-disclaimer {
+  background: #f0ebe2;
+  border-left: 3px solid #c9b8a8;
+  color: var(--text-muted);
+  padding: 0.8rem 1.1rem;
+  margin-bottom: 1.75rem;
+  border-radius: 0 6px 6px 0;
+  font-size: 0.83rem;
+  line-height: 1.6;
+}
+
 .article-page .btn-outline-white {
   margin-top: 26px;
 }

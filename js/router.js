@@ -58,7 +58,9 @@ function stopOverlayVideos() {
     v._ovTimeUpdate = null;
     v._ovEnded      = null;
     v.pause();
-    v.src = '';
+    v.removeAttribute('src');
+    [...v.querySelectorAll('source')].forEach(s => s.remove());
+    v.removeAttribute('poster');
     v.load();
   });
 }
@@ -167,12 +169,23 @@ function showArticle(slug, skipHistory = false) {
   const all = ovVids();
   cfg.videos.forEach((name, i) => {
     if (!all[i]) return;
-    all[i].src = VIDEO_BASE + name + '.mp4';
-    all[i].classList.toggle('active', i === 0);
+    const v = all[i];
+    v.poster = VIDEO_BASE + name + '-poster.webp';
+    [...v.querySelectorAll('source')].forEach(s => s.remove());
+    const webm = document.createElement('source');
+    webm.src = VIDEO_BASE + name + '.webm';
+    webm.type = 'video/webm';
+    const mp4 = document.createElement('source');
+    mp4.src = VIDEO_BASE + name + '.mp4';
+    mp4.type = 'video/mp4';
+    v.append(webm, mp4);
+    v.load();
+    v.classList.toggle('active', i === 0);
   });
   all.forEach((v, i) => {
     if (i >= cfg.videos.length) {
-      v.src = '';
+      [...v.querySelectorAll('source')].forEach(s => s.remove());
+      v.removeAttribute('poster');
       v.classList.remove('active');
     }
   });
@@ -186,6 +199,11 @@ function showArticle(slug, skipHistory = false) {
   if (cfg.provisional && !isComplete) {
     const warningText = translations[currentLang].provisional.preliminaryWarning;
     articleHtml = `<div class="preliminary-warning"><p>${warningText}</p></div>` + articleHtml;
+  }
+  // Disclaimer de traducción automática para idiomas no-español en artículos apologéticos
+  if (currentLang !== 'es' && slug !== 'recursos-recomendados') {
+    const dhtml = translations[currentLang] && translations[currentLang].disclaimerHTML;
+    if (dhtml) articleHtml = `<div class="translation-disclaimer">${dhtml}</div>` + articleHtml;
   }
   document.getElementById('overlay-article-body').innerHTML = articleHtml;
 
@@ -296,6 +314,11 @@ document.addEventListener('DOMContentLoaded', () => {
     if (cfg && cfg.provisional && !isComplete) {
       const warningText = translations[currentLang].provisional.preliminaryWarning;
       articleHtml = `<div class="preliminary-warning"><p>${warningText}</p></div>` + articleHtml;
+    }
+    // Disclaimer de traducción automática para idiomas no-español en artículos apologéticos
+    if (currentLang !== 'es' && currentSlug !== 'recursos-recomendados') {
+      const dhtml = translations[currentLang] && translations[currentLang].disclaimerHTML;
+      if (dhtml) articleHtml = `<div class="translation-disclaimer">${dhtml}</div>` + articleHtml;
     }
     document.getElementById('overlay-article-body').innerHTML = articleHtml;
 
