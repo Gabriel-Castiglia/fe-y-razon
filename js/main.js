@@ -107,7 +107,39 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   VideoManager('.hero-video');
-  VideoManager('.contact-video');
+
+  // Lazy-init contact video cuando la sección entra al viewport
+  const contactSection = document.getElementById('contacto');
+  if (contactSection) {
+    let contactStarted = false;
+    new IntersectionObserver((entries, obs) => {
+      if (!entries[0].isIntersecting || contactStarted) return;
+      contactStarted = true;
+      const first = document.querySelector('.contact-video.active');
+      if (first) first.preload = 'auto';
+      VideoManager('.contact-video');
+      obs.disconnect();
+    }, { rootMargin: '300px' }).observe(contactSection);
+  }
+
+  // Lazy-init meditación cuando entra al viewport
+  const meditacionVid = document.querySelector('.meditacion-video');
+  if (meditacionVid) {
+    new IntersectionObserver((entries, obs) => {
+      if (!entries[0].isIntersecting) return;
+      meditacionVid.preload = 'auto';
+      meditacionVid.play().catch(() => {});
+      obs.disconnect();
+    }, { rootMargin: '300px' }).observe(meditacionVid);
+  }
+
+  // Reiniciar videos activos al volver de background — iOS Safari los congela
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState !== 'visible') return;
+    document.querySelectorAll('.hero-video.active, .contact-video.active, .meditacion-video').forEach(v => {
+      if (v.paused) v.play().catch(() => {});
+    });
+  });
 
   // 5. EFECTOS DEL HEADER AL HACER SCROLL
   // Cambia la opacidad y colores del menú según la posición del scroll.
