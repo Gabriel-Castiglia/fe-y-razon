@@ -26,12 +26,12 @@ let currentLang = 'es'; // Estado global del idioma
 // 2. METADATOS DE UI PARA IDIOMAS
 // Metadatos para el selector de idiomas (Banderas y etiquetas)
 const langMeta = {
-  es: { label: 'ES', flag: 'Recursos/Im%C3%A1genes/spain-flag-png-large.png.jpeg' },
-  en: { label: 'EN', flag: 'Recursos/Im%C3%A1genes/united-states-of-america-flag-png-large.png.jpeg' },
-  ja: { label: 'JA', flag: 'Recursos/Im%C3%A1genes/japan-flag-png-large.png.jpeg' },
-  tl: { label: 'TL', flag: 'Recursos/Im%C3%A1genes/philippines-flag-png-large.png.jpeg' },
-  da: { label: 'DA', flag: 'Recursos/Im%C3%A1genes/denmark-flag-png-large.png.jpeg' },
-  la: { label: 'LA', flag: 'Recursos/Im%C3%A1genes/vatican-city-flag-png-large.png.jpeg' },
+  es: { label: 'ES', flag: 'Recursos/Im%C3%A1genes/spain-flag-png-large.webp' },
+  en: { label: 'EN', flag: 'Recursos/Im%C3%A1genes/united-states-of-america-flag-png-large.webp' },
+  ja: { label: 'JA', flag: 'Recursos/Im%C3%A1genes/japan-flag-png-large.webp' },
+  tl: { label: 'TL', flag: 'Recursos/Im%C3%A1genes/philippines-flag-png-large.webp' },
+  da: { label: 'DA', flag: 'Recursos/Im%C3%A1genes/denmark-flag-png-large.webp' },
+  la: { label: 'LA', flag: 'Recursos/Im%C3%A1genes/vatican-city-flag-png-large.webp' },
   fr: { label: 'FR', flag: 'Recursos/Im%C3%A1genes/france-flag.svg' },
   pt: { label: 'PT', flag: 'Recursos/Im%C3%A1genes/brazil-flag.svg' },
   sw: { label: 'SW', flag: 'Recursos/Im%C3%A1genes/tz-flag.svg' },
@@ -192,12 +192,40 @@ function setLanguage(lang) {
     opt.setAttribute('aria-selected', String(active));
   });
 
+  // Inyectar disclaimer de traducción automática en artículos apologéticos no-español
+  injectTranslationDisclaimer(lang);
+
   // Persistir preferencia y disparar evento para otros scripts (como router.js)
   try { localStorage.setItem('language', lang); } catch (_) {}
   document.dispatchEvent(new CustomEvent('langChange', { detail: { lang } }));
 }
 
-// 4. INICIALIZACIÓN Y EVENTOS DE UI
+// 4. DISCLAIMER DE TRADUCCIÓN AUTOMÁTICA
+/**
+ * Inyecta el aviso de traducción en artículos apologéticos para idiomas no-español.
+ * No aplica a recursos-recomendados ni sobre-este-sitio.
+ */
+function injectTranslationDisclaimer(lang) {
+  if (lang === 'es') return;
+  var articleBody = document.querySelector('[data-i18n$=".article"]');
+  if (!articleBody) return;
+  var key = articleBody.getAttribute('data-i18n');
+  var nonApologetic = [
+    'topicPages.recursos-recomendados.article',
+    'topicPages.sobre-este-sitio.article'
+  ];
+  if (nonApologetic.indexOf(key) !== -1) return;
+  var t = translations[lang];
+  if (!t || !t.disclaimerHTML) return;
+  var existing = articleBody.querySelector('.translation-disclaimer');
+  if (existing) existing.remove();
+  var div = document.createElement('div');
+  div.className = 'translation-disclaimer';
+  div.innerHTML = t.disclaimerHTML;
+  articleBody.prepend(div);
+}
+
+// 5. INICIALIZACIÓN Y EVENTOS DE UI
 document.addEventListener('DOMContentLoaded', () => {
   // 1º Prioridad: Parámetro en la URL (ej: ?lang=fr)
   // 2º Prioridad: Preferencia guardada del usuario en localStorage

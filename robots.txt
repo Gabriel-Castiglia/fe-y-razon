@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://proyectofeyrazon.com/sitemap.xml
