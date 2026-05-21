@@ -241,7 +241,7 @@ const translationsIT = {
                 <blockquote>«Conosco le tue opere: tu non sei né freddo né caldo. Magari tu fossi freddo o caldo! Ma poiché sei tiepido, non sei cioè né freddo né caldo, sto per vomitarti dalla mia bocca.»</blockquote>
             </div>
 
-            <p>Sono peggiori dei protestanti, perché almeno il protestante crede qualcosa, anche se sbagliato.</p>
+            <p>Un tiepido non difende nulla, non spiega nulla, non convince nessuno. Almeno chi crede in qualcosa di sbagliato ha qualcosa da offrire.</p>
 
             <p>E i protestanti si fanno vivi. Si fanno sempre vivi. Testimoni di Geova, pentecostali, avventisti, mormoni, ogni setta con la sua versione troncata della Scrittura e la sua certezza in prestito. Qui troverai risposta a quelle sette, sul loro terreno, con la loro stessa arma: tutta la Bibbia — compresi i libri deuterocanonici che hanno strappato dalle loro traduzioni senza averne l'autorità. Con la Bibbia ben letta, i Padri della Chiesa, il Magistero, il Catechismo, e la ragione che Dio ci ha dato come dono.</p>
 

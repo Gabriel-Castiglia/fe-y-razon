@@ -318,7 +318,7 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
                 <blockquote>«Conheço as tuas obras: não és frio nem quente. Quem me dera fosses frio ou quente! Mas porque és morno — e não frio nem quente — estou para vomitar-te da minha boca.»</blockquote>
             </div>
 
-            <p>São piores que os protestantes, porque ao menos o protestante acredita em algo, mesmo que errado.</p>
+            <p>Um morno não defende nada, não explica nada, não convence ninguém. Pelo menos quem acredita em algo errado tem algo a oferecer.</p>
 
             <p>E os protestantes aparecem. Aparecem sempre. Testemunhas de Jeová, pentecostais, adventistas, mórmons, cada seita com sua versão truncada das Escrituras e sua certeza emprestada. Aqui você vai encontrar resposta para essas seitas, no próprio terreno delas, com a própria arma delas: a Bíblia inteira — incluindo os livros deuterocanônicos que eles arrancaram de suas traduções sem autoridade para fazê-lo. Com a Bíblia bem lida, os Padres da Igreja, o Magistério, o Catecismo, e a razão que Deus nos deu como presente.</p>
 

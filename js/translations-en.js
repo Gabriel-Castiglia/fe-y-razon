@@ -735,7 +735,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <blockquote>«I know your works: you are neither cold nor hot. Would that you were cold or hot! So, because you are lukewarm, and neither cold nor hot, I will spew you out of my mouth.»</blockquote>
             </div>
 
-            <p>They are worse than the Protestants, because at least the Protestant believes something, even if it's wrong.</p>
+            <p>A lukewarm Catholic defends nothing, explains nothing, convinces no one. At least the one who believes something wrong has something to offer.</p>
 
             <p>And the Protestants show up. They always show up. Jehovah's Witnesses, Pentecostals, Adventists, Mormons, every sect with its truncated version of Scripture and its borrowed certainty. Here you will find an answer to those sects, on their own ground, with their own weapon: the whole Bible — including the deuterocanonical books they tore from their translations without the authority to do so. With the Bible properly read, the Church Fathers, the Magisterium, the Catechism, and the reason God gave us as a gift.</p>
 

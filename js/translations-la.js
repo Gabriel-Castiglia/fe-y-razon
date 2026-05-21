@@ -741,7 +741,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
                 <blockquote>«Scio opera tua, quia neque frigidus es neque calidus. Utinam frigidus esses aut calidus! Sed quia tepidus es, et nec frigidus nec calidus, incipiam te evomere ex ore meo.»</blockquote>
             </div>
 
-            <p>Peiors sunt quam protestantes, quia saltem protestans aliquid credit, etsi errat.</p>
+            <p>Tepidus nihil defendit, nihil explicat, neminem persuadet. Saltem qui aliquid falsum credit, aliquid offerre potest.</p>
 
             <p>Et protestantes adsunt. Semper adsunt. Testes Iehovae, Pentecostales, Adventistae, Mormones, quaeque secta cum sua versione truncata Scripturae et sua certitudine mutuata. Hic responsum ad illas sectas invenies, in ipso earum agro, ipsa earum arma utens: Biblia integra — inclusis libris deuterocanonicos quos ex suis translationibus absque auctoritate eripuerunt. Biblia recte lecta, Patribus Ecclesiae, Magisterio, Catechismo, et ratione quam Deus nobis donum dedit.</p>
 
