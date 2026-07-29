@@ -23,7 +23,7 @@ const translationsLA = {
   topics: {
     eyebrow: "Catechesis Apologetica",
     title: "Themata Fidei",
-    subtitle: "Argumenta solida ad approfundandum, intelligendum et defendendam fidem&nbsp;catholicam",
+    subtitle: "Argumenta solida ad approfundandum, intelligendum et defendendam fidem&nbsp;catholicam"
 
   },
   article1: {
@@ -650,6 +650,36 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
       }
     },
     "recursos-recomendados": {
+      sec4: {
+        epigraph: "«Eorum quae sunt, alia in nostra potestate sunt, alia non.»",
+        epigraphAuthor: "Epictetus",
+        eyebrow: "Ab auctore huius situs",
+        badge: "Editio typis impressa",
+        title: "La puerta falsa",
+        desc: "Occultismus contrarium pollicetur: potestatem in ea quae a nemine pendent, pretio eius unius rei quae vere in manibus nostris est, iudicii proprii. Hic liber textus eius (grimoria, biblias nigras, manualia hermetica, tarot, astrologiam, illud «manifestare») sumit eosque sine festinatione utraque facie examinat: tempora, fontes, repugnantias. Ex nulla fide accusat neque petit ut sibi credatur; omne crimen ipsis generis paginis probatur.",
+        close: "Non mysteria offert, sed aliquid arduius ac dignius: perspicuitatem.",
+        langsLabel: "Septem linguis editus",
+        langs: {
+          es: "Hispanice",
+          en: "Anglice",
+          pt: "Lusitane",
+          fr: "Gallice",
+          it: "Italice",
+          de: "Germanice",
+          ja: "Iaponice"
+        },
+        cta: "Vide librum rigide compactum apud Amazon →",
+        note: "Nexus ad editionem Anglicam rigide compactam apud Amazon Civitatum Foederatarum ducit. Unaquaeque lingua praeterea editionem molliter compactam et Kindle habet: eam lingua tua in taberna Amazon patriae tuae quaere.",
+        coverAlt: "Tegumentum libri La puerta falsa, auctore M. Gabriel Castiglia"
+      },
+      sec5: {
+        eyebrow: "Monitum iuridicum",
+        title: "Ius auctoris",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Omnia iura reservantur.</strong> Textus, commentationes et translationes huius situs opus originale auctoris sunt et lege de iure auctoris atque pactionibus internationalibus muniuntur.",
+        p2: "<strong>Vetatur</strong> reproductio, exscriptio, distributio, publicatio, translatio vel accommodatio, sive tota sive ex parte, quocumque modo, sine praevia auctoris licentia scripta. Breves locos afferre licet studii aut commentarii causa, dummodo auctor indicetur et ad hanc paginam remittatur.",
+        p3: "<strong>La puerta falsa</strong> omnesque eius editiones opus auctoris inscriptum sunt: textus, titulus et tegumentum sine licentia neque reproduci neque adhiberi possunt.",
+        p4: "Canales, libri, imagines et situs in hac pagina commendati ad suos quisque auctores et dominos pertinent. Commendationis tantum causa nectuntur, nullo commercio nullaque mercede."
+      },
       pageTitle: "Subsidia Commendanda | Fides et Ratio",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
@@ -662,7 +692,6 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
       sec2: {
         eyebrow: "Apologetica · Formatio", title: "Sacerdotes et Formatores", desc: "Voces Magisterio fideles quae fidem cum profunditate et rigore docent, defendunt et proclamant.",
         toro:    { desc: "Theologus et apologeta. Obiectiones difficillimas fidei catholicae cum profunditate respondet." },
-        aguilar: { desc: "Formatio solida, directa et Magisterio fidelis. Vlogae itinerum per Terram Sanctam et lectiones biblicae." },
         olivera: { desc: "Historicus et apologeta augustinianus. Rationalismum, sectas et errores modernos cum rigore tractat." }
       },
       sec3: {
@@ -686,11 +715,6 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
                     <li><a href="https://www.youtube.com/@PadreLuisToroOficial" target="_blank">Canalis YouTube Patris Ludovici Toro Officialis</a></li>
                 </ul>
 
-                <h3>Pater Iosephus de Iesu Aguilar</h3>
-                <p>Sacerdos et communicator, Pater Iosephus de Iesu Aguilar meditationes et doctrinam catholicam communicat.</p>
-                <ul>
-                    <li><a href="https://www.youtube.com/@PadreJosedeJesusAguilar" target="_blank">Canalis YouTube Patris Iosephi de Iesu Aguilar</a></li>
-                </ul>
 
                 <h3>Heraldos del Evangelio Ecuador</h3>
                 <p>Consociatio fidelium iuris pontificii quae sanctificationem membrorum et evangelizationem quaerit.</p>
@@ -770,6 +794,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
     soon: "Mox veniet"
   },
   footer: {
+    rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Omnia iura reservantur.</strong> Vetatur reproductio tota vel partialis sine licentia auctoris scripta.",
     text: "&copy; MMXXVI Fides et Ratio. Ad maiorem Dei gloriam."
   }
 };

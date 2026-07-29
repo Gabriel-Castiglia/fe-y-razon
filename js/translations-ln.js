@@ -18,7 +18,7 @@ const translationsLN = {
   topics: {
     eyebrow: "Katekismo ya Apologetiki",
     title: "Mitó ya Kondima",
-    subtitle: "Ba argument ya solide mpona kokɔtisa, kososola mpe kobatela kondima ya Katolike",
+    subtitle: "Ba argument ya solide mpona kokɔtisa, kososola mpe kobatela kondima ya Katolike"
 
   },
   article1: {
@@ -204,13 +204,42 @@ const translationsLN = {
       nav: { prevTitle: "Eukarisiti: sakramentu monene", nextTitle: "Basantu mpe libondeli na bango" }
     },
     "recursos-recomendados": {
+      sec4: {
+        epigraph: "“Kati ya biloko oyo ezali, mosusu etali biso; mosusu te.”",
+        epigraphAuthor: "Epiktete",
+        eyebrow: "Uta na mokomi ya site oyo",
+        badge: "Buku ya papye",
+        title: "La puerta falsa",
+        desc: "Okiltisme elakaka bokeseni: nguya likolo ya makambo oyo etali moto moko te, na esika ya eloko kaka moko oyo ezali solo na mabɔkɔ na biso, bokati-likambo na biso moko. Buku oyo ezwi mikanda na yango (mikanda ya nkisi, babiblia ya moindo, mikanda ya ermetisme, tarot, astrolozi, “kobenda bomengo”) mpe etali yango na lombangu te, na bilongi mibale: batango, esika euti, mpe bokeseni. Efundaka na kombo ya lingomba moko te mpe esengaka te ete bandima yango kaka bongo; likambo nyonso emonisami na nkasa ya lolenge yango moko.",
+        close: "Epesaka mabombami te, kasi eloko ya makasi mpe ya lokumu koleka: bososoli ya polele.",
+        langsLabel: "Ebimisami na minoko sambo",
+        langs: {
+          es: "Espanye",
+          en: "Angele",
+          pt: "Portuge",
+          fr: "Falanse",
+          it: "Italia",
+          de: "Alemani",
+          ja: "Japone"
+        },
+        cta: "Tala buku ya ezipeli makasi na Amazon →",
+        note: "Lien ekei na buku ya ezipeli makasi na Angele, na Amazon ya Amerika. Monoko nyonso ezali mpe na buku ya ezipeli pɛtɛɛ mpe ya Kindle: luka yango na monoko na yo, na magazini ya Amazon ya ekolo na yo.",
+        coverAlt: "Ezipeli ya buku La puerta falsa, ya M. Gabriel Castiglia"
+      },
+      sec5: {
+        eyebrow: "Liyebisi ya mibeko",
+        title: "Lotomo ya mokomi",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Makoki nyonso ebombami.</strong> Makomi, masolo mpe mabongoli ya site oyo ezali mosala ya mokomi ye moko mpe ebatelami na mobeko ya lotomo ya mokomi mpe na mayokani ya bikolo nyonso.",
+        p2: "<strong>Epekisami</strong> kokopi, kokabola, kobimisa, kobongola to kobongisa, mobimba to ndambo, na lolenge nyonso, soki mokomi apesi ndingisa ya mokanda te liboso. Kolobela biteni mikuse mpo na boyekoli to maloba ya kotalela ekoki, soki batangi kombo ya mokomi mpe batie lien na lokasa oyo.",
+        p3: "<strong>La puerta falsa</strong> mpe mabimeli na yango nyonso ezali mosala ekomami na nkombo ya mokomi: makomi, kombo mpe ezipeli na yango ekoki kokopiama to kosalelama te soki ndingisa ezali te.",
+        p4: "Ba-chaîne, mikanda, bililingi mpe ba-site oyo elakisami na lokasa oyo ezali ya bakomi mpe bankolo na yango. Elakisami kaka lokola litambwisi, na boyokani ya mombongo te mpe na lifuti moko te."
+      },
       pageTitle: "Bisaleli oyo epesami toli | Kondima mpe Mayele",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Bisaleli</span></div><h1>Bisaleli oyo epesami toli</h1><p>Biziya ya kondima mpona kokɔtisa, koyekola mpe kokabola kondima ya Katolike.</p><a href="index.html#temas" class="btn-outline-white">Zonga na Mitó ya makambo</a>`,
       sec1: { eyebrow: "Saint-Siège", title: "Ba sources ya Vatican", desc: "Ba documents officiels ya Eklezia, ezali na site ya Saint-Siège." },
       sec2: {
         eyebrow: "Apologetiki · Mateya", title: "Banganga-nzambe mpe bateyi", desc: "Mingongo ya sembo na Magisterium oyo eteyaka, ebatelaka mpe esakolaka kondima na mozindo mpe bosikisiki.",
         toro:    { desc: "Théologien mpe apologète. Apesaka biyano na mozindo na ba objections ya makasi mpenza na kondima ya Katolike." },
-        aguilar: { desc: "Mateya ya makasi, ya mbala moko mpe ya sembo na magisterium. Ba vlogs ya mibembo na Mabele Mosantu mpe mateya ya Biblia." },
         olivera: { desc: "Historien mpe apologète augustin. Asalaka masolo ya rationalisme, ba sectes mpe ba erreurs modernes na bosikisiki." }
       },
       sec3: {
@@ -268,5 +297,6 @@ const translationsLN = {
     ]
   },
   lang: { soon: "Ekoya" },
-  footer: { text: "&copy; 2026 Kondima mpe Mayele. Ad maiorem Dei gloriam." }
+  footer: {
+    rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Makoki nyonso ebombami.</strong> Epekisami kokopi mobimba to ndambo soki ndingisa ya mokanda ya mokomi ezali te.", text: "&copy; 2026 Kondima mpe Mayele. Ad maiorem Dei gloriam." }
 };

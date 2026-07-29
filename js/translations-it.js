@@ -18,7 +18,7 @@ const translationsIT = {
   topics: {
     eyebrow: "Catechesi Apologetica",
     title: "Temi di Fede",
-    subtitle: "Argomenti solidi per approfondire, comprendere e difendere la fede cattolica",
+    subtitle: "Argomenti solidi per approfondire, comprendere e difendere la fede cattolica"
 
   },
   article1: {
@@ -204,13 +204,42 @@ const translationsIT = {
       nav: { prevTitle: "L'Eucaristia: il sacramento centrale", nextTitle: "I santi e la loro intercessione" }
     },
     "recursos-recomendados": {
+      sec4: {
+        epigraph: "«Delle cose che esistono, alcune dipendono da noi; altre no.»",
+        epigraphAuthor: "Epitteto",
+        eyebrow: "Dall'autore di questo sito",
+        badge: "Edizione a stampa",
+        title: "La falsa porta",
+        desc: "L'occultismo promette il contrario: potere su ciò che non dipende da nessuno, in cambio dell'unica cosa che è davvero nelle nostre mani, il proprio giudizio. Questo libro prende i suoi testi (grimori, bibbie nere, manuali ermetici, i tarocchi, l'astrologia, il «manifestare») e li esamina senza fretta, dalle sue due facce: le date, le fonti, le contraddizioni. Non accusa a partire da nessuna fede né chiede che gli si creda; ogni capo d'accusa si prova con le pagine del genere stesso.",
+        close: "Non offre misteri, ma qualcosa di più arduo e più degno: la lucidità.",
+        langsLabel: "Pubblicato in sette lingue",
+        langs: {
+          es: "Spagnolo",
+          en: "Inglese",
+          pt: "Portoghese",
+          fr: "Francese",
+          it: "Italiano",
+          de: "Tedesco",
+          ja: "Giapponese"
+        },
+        cta: "Vedi la copertina rigida su Amazon →",
+        note: "Il collegamento porta all'edizione con copertina rigida in inglese, su Amazon Stati Uniti. Ogni lingua ha anche la sua edizione in brossura e in Kindle: cercala nella tua lingua, nel negozio Amazon del tuo Paese.",
+        coverAlt: "Copertina de La falsa porta, di M. Gabriel Castiglia"
+      },
+      sec5: {
+        eyebrow: "Note legali",
+        title: "Diritto d'autore",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Tutti i diritti riservati.</strong> I testi, gli articoli e le traduzioni di questo sito sono opera originale dell'autore e sono protetti dalla normativa sul diritto d'autore e dai trattati internazionali in materia.",
+        p2: "È <strong>vietata</strong> la riproduzione, la copia, la distribuzione, la pubblicazione, la traduzione o l'adattamento, totale o parziale, con qualsiasi mezzo, senza previa autorizzazione scritta dell'autore. È consentito citare brevi passaggi a fini di studio o di commento, purché si indichi l'autore e si rinvii a questa pagina.",
+        p3: "<strong>La falsa porta</strong> e tutte le sue edizioni sono opera registrata dell'autore: il testo, il titolo e la copertina non possono essere riprodotti né utilizzati senza autorizzazione.",
+        p4: "I canali, i libri, le immagini e i siti consigliati in questa pagina appartengono ai rispettivi autori e titolari. Sono collegati unicamente a titolo di raccomandazione, senza alcun vincolo commerciale né corrispettivo di alcun genere."
+      },
       pageTitle: "Risorse consigliate | Fede e Ragione",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Risorse</span></div><h1>Risorse consigliate</h1><p>Fonti di fiducia per approfondire, formarsi e condividere la fede cattolica.</p><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
       sec1: { eyebrow: "Santa Sede", title: "Fonti vaticane", desc: "Documenti ufficiali della Chiesa, disponibili sul sito della Santa Sede." },
       sec2: {
         eyebrow: "Apologetica · Formazione", title: "Sacerdoti e formatori", desc: "Voci fedeli al Magistero che insegnano, difendono e proclamano la fede con profondità e rigore.",
         toro:    { desc: "Teologo e apologeta. Risponde con profondità alle obiezioni più difficili alla fede cattolica." },
-        aguilar: { desc: "Formazione solida, diretta e fedele al magistero. Vlog di viaggi in Terra Santa e lezioni bibliche." },
         olivera: { desc: "Storico e apologeta agostiniano. Affronta il razionalismo, le sette e gli errori moderni con rigore." }
       },
       sec3: {
@@ -267,5 +296,6 @@ const translationsIT = {
     ]
   },
   lang: { soon: "Prossimamente" },
-  footer: { text: "&copy; 2026 Fede e Ragione. Ad maiorem Dei gloriam." }
+  footer: {
+    rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Tutti i diritti riservati.</strong> È vietata la riproduzione totale o parziale senza autorizzazione scritta dell'autore.", text: "&copy; 2026 Fede e Ragione. Ad maiorem Dei gloriam." }
 };

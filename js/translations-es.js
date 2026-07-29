@@ -23,7 +23,7 @@ const translationsES = {
   topics: {
     eyebrow: "Catequesis Apologética",
     title: "Temas de Fe",
-    subtitle: "Argumentos sólidos para profundizar, comprender y defender la fe&nbsp;católica",
+    subtitle: "Argumentos sólidos para profundizar, comprender y defender la fe&nbsp;católica"
 
   },
   article1: {
@@ -742,6 +742,36 @@ NUNCA Reina-Valera ni traducciones protestantes.
       }
     },
     "recursos-recomendados": {
+      sec4: {
+        epigraph: "«De lo existente, unas cosas dependen de nosotros; otras no.»",
+        epigraphAuthor: "Epicteto",
+        eyebrow: "Del autor de este sitio",
+        badge: "Edición impresa",
+        title: "La puerta falsa",
+        desc: "El ocultismo promete lo contrario: poder sobre lo que no depende de nadie, a cambio de lo único que sí está en nuestras manos, el propio juicio. Este libro toma sus textos (grimorios, biblias negras, manuales herméticos, el tarot, la astrología, el «manifestar») y los examina sin prisa, por sus dos caras: las fechas, las fuentes, las contradicciones. No acusa desde ninguna fe ni pide que se le crea; cada cargo se prueba con las páginas del propio género.",
+        close: "No ofrece misterios, sino algo más arduo y más digno: la lucidez.",
+        langsLabel: "Publicado en siete idiomas",
+        langs: {
+          es: "Español",
+          en: "Inglés",
+          pt: "Portugués",
+          fr: "Francés",
+          it: "Italiano",
+          de: "Alemán",
+          ja: "Japonés"
+        },
+        cta: "Ver la tapa dura en Amazon →",
+        note: "El enlace lleva a la edición en tapa dura en inglés, en Amazon Estados Unidos. Cada idioma tiene además su edición en tapa blanda y en Kindle: búscalas en tu idioma, en la tienda Amazon de tu país.",
+        coverAlt: "Portada de La puerta falsa, de M. Gabriel Castiglia"
+      },
+      sec5: {
+        eyebrow: "Aviso legal",
+        title: "Derechos de autor",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Todos los derechos reservados.</strong> Los textos, artículos y traducciones de este sitio son obra original del autor y están protegidos por la legislación de derecho de autor y por los tratados internacionales en la materia.",
+        p2: "Queda <strong>prohibida</strong> la reproducción, copia, distribución, publicación, traducción o adaptación, total o parcial, por cualquier medio o procedimiento, sin autorización previa y por escrito del autor. Se permite citar pasajes breves con fines de estudio o comentario, siempre que se indique el autor y se enlace a esta página.",
+        p3: "<strong>La puerta falsa</strong> y todas sus ediciones son obra registrada del autor: su texto, su título y su portada no pueden reproducirse ni utilizarse sin autorización.",
+        p4: "Los canales, libros, imágenes y sitios recomendados en esta página pertenecen a sus respectivos autores y titulares. Se enlazan únicamente a título de recomendación, sin vínculo comercial ni contraprestación de ninguna clase."
+      },
       pageTitle: "Recursos recomendados | Fé y Razón",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
@@ -754,7 +784,6 @@ NUNCA Reina-Valera ni traducciones protestantes.
       sec2: {
         eyebrow: "Apologética · Formación", title: "Sacerdotes y formadores", desc: "Voces fieles al Magisterio que enseñan, defienden y proclaman la fe con profundidad y rigor.",
         toro:    { desc: "Teólogo y apologeta. Responde con profundidad las objeciones más difíciles a la fe católica." },
-        aguilar: { desc: "Formación sólida, directa y fiel al magisterio. Vlogs de viajes por Tierra Santa y clases de biblia." },
         olivera: { desc: "Historiador y apologeta agustino. Aborda el racionalismo, las sectas y los errores modernos con rigor." }
       },
       sec3: {
@@ -778,11 +807,6 @@ NUNCA Reina-Valera ni traducciones protestantes.
                     <li><a href="https://www.youtube.com/@PadreLuisToroOficial" target="_blank">Canal de YouTube Padre Luis Toro Oficial</a></li>
                 </ul>
 
-                <h3>Padre José de Jesús Aguilar</h3>
-                <p>Sacerdote y comunicador, el Padre José de Jesús Aguilar comparte reflexiones y enseñanzas católicas.</p>
-                <ul>
-                    <li><a href="https://www.youtube.com/@PadreJosedeJesusAguilar" target="_blank">Canal de YouTube Padre José de Jesús Aguilar</a></li>
-                </ul>
 
                 <h3>Heraldos del Evangelio Ecuador</h3>
                 <p>Una asociación de fieles de derecho pontificio que busca la santificación de sus miembros y la evangelización.</p>
@@ -861,6 +885,7 @@ NUNCA Reina-Valera ni traducciones protestantes.
     soon: "Próximamente"
   },
   footer: {
+    rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Todos los derechos reservados.</strong> Prohibida la reproducción total o parcial sin autorización escrita del autor.",
     text: "&copy; 2026 Fé y Razón. Ad maiorem Dei gloriam."
   }
 };
