@@ -18,7 +18,7 @@ const translationsTL = {
   topics: {
     eyebrow: "Apologetikong Katesismo",
     title: "Mga Paksa ng Pananampalataya",
-    subtitle: "Matatatag na argumento para mapalalim, maunawaan at maipagtanggol ang Katolikong&nbsp;pananampalataya",
+    subtitle: "Matatatag na argumento para mapalalim, maunawaan at maipagtanggol ang Katolikong&nbsp;pananampalataya"
 
   },
   article1: {
@@ -644,6 +644,36 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
       }
     },
     "recursos-recomendados": {
+      sec4: {
+        epigraph: "“Sa mga bagay na umiiral, ang ilan ay nakasalalay sa atin; ang iba ay hindi.”",
+        epigraphAuthor: "Epicteto",
+        eyebrow: "Mula sa may-akda ng sitiong ito",
+        badge: "Nakalimbag na edisyon",
+        title: "La puerta falsa",
+        desc: "Ang kabaligtaran ang ipinapangako ng okultismo: kapangyarihan sa mga bagay na hindi nakasalalay kaninuman, kapalit ng tanging bagay na talagang nasa ating mga kamay, ang sarili nating paghatol. Kinukuha ng aklat na ito ang mga teksto nito (mga grimoire, itim na bibliya, mga manwal na hermetiko, ang tarot, ang astrolohiya, ang “manifesting”) at sinusuri ang mga ito nang walang pagmamadali, sa magkabilang mukha: ang mga petsa, ang mga pinagmulan, ang mga pagsasalungatan. Hindi ito nag-aakusa mula sa alinmang pananampalataya at hindi humihingi na basta itong paniwalaan; bawat paratang ay pinatutunayan ng mismong mga pahina ng ganitong panitikan.",
+        close: "Walang hiwaga itong inaalok, kundi isang bagay na mas mahirap at mas marangal: ang linaw ng isip.",
+        langsLabel: "Nailathala sa pitong wika",
+        langs: {
+          es: "Espanyol",
+          en: "Ingles",
+          pt: "Portuges",
+          fr: "Pranses",
+          it: "Italyano",
+          de: "Aleman",
+          ja: "Hapon"
+        },
+        cta: "Tingnan ang hardcover sa Amazon →",
+        note: "Ang link ay patungo sa edisyong hardcover sa Ingles, sa Amazon Estados Unidos. May sariling edisyong paperback at Kindle ang bawat wika: hanapin ito sa inyong wika, sa tindahan ng Amazon sa inyong bansa.",
+        coverAlt: "Pabalat ng La puerta falsa, ni M. Gabriel Castiglia"
+      },
+      sec5: {
+        eyebrow: "Paunawang legal",
+        title: "Karapatang-ari",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Nakalaan ang lahat ng karapatan.</strong> Ang mga teksto, artikulo at salin sa sitiong ito ay orihinal na akda ng may-akda at protektado ng batas sa karapatang-ari at ng mga kasunduang pandaigdig hinggil dito.",
+        p2: "<strong>Ipinagbabawal</strong> ang pagpaparami, pagkopya, pamamahagi, paglalathala, pagsasalin o pag-aangkop, buo man o bahagi, sa anumang paraan, nang walang naunang nakasulat na pahintulot ng may-akda. Pinapayagan ang pagsipi ng maikling bahagi para sa pag-aaral o komentaryo, basta't nakasaad ang may-akda at may link sa pahinang ito.",
+        p3: "Ang <strong>La puerta falsa</strong> at lahat ng edisyon nito ay nakarehistrong akda ng may-akda: ang teksto, pamagat at pabalat nito ay hindi maaaring kopyahin o gamitin nang walang pahintulot.",
+        p4: "Ang mga channel, aklat, larawan at sitio na inirerekomenda sa pahinang ito ay pag-aari ng kani-kanilang may-akda at may hawak ng karapatan. Ini-link lamang ang mga ito bilang rekomendasyon, walang anumang ugnayang pangkalakal ni kabayaran."
+      },
       pageTitle: "Mga Inirerekomendang Link | Pananampalataya at Dahilan",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
@@ -656,7 +686,6 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
       sec2: {
         eyebrow: "Apologetika · Pormasyon", title: "Mga Pari at Tagapagturo", desc: "Mga tinig na tapat sa Magisterium na nagtuturo, nagtatanggol, at nagpapahayag ng pananampalataya nang may kalaliman at kahusayan.",
         toro:    { desc: "Teologo at apologista. Tinatawid ang pinakamahirap na pagtutol sa Katolikong pananampalataya nang may kalaliman." },
-        aguilar: { desc: "Matibay, direkta, at tapat sa Magisterium na pagpapalakas ng pananampalataya. Mga vlog ng paglalakbay sa Banal na Lupain at mga klase sa Biblia." },
         olivera: { desc: "Augustinianong istoryador at apologista. Tinatawid ang rasyonalismo, mga sekta, at modernong kamalian nang may kahusayan." }
       },
       sec3: {
@@ -681,11 +710,6 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
                     <li><a href="https://www.youtube.com/@PadreLuisToroOficial" target="_blank">Opisyal na YouTube Channel ni Padre Luis Toro</a></li>
                 </ul>
 
-                <h3>Padre José de Jesús Aguilar</h3>
-                <p>Pari at tagapagbalita, si Padre José de Jesús Aguilar ay nagbabahagi ng mga pagninilay at aral ng Katoliko.</p>
-                <ul>
-                    <li><a href="https://www.youtube.com/@PadreJosedeJesusAguilar" target="_blank">YouTube Channel ni Padre José de Jesús Aguilar</a></li>
-                </ul>
 
                 <h3>Heraldos del Evangelio Ecuador</h3>
                 <p>Isang asosasyon ng mga tapat sa karapatang pontipikal na naglalayong magpakabanal ang mga miyembro nito at mag-ebanghelyo.</p>
@@ -766,6 +790,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
     soon: "Malapit na"
   },
   footer: {
+    rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Nakalaan ang lahat ng karapatan.</strong> Ipinagbabawal ang pagpaparami nang buo o bahagi nang walang nakasulat na pahintulot ng may-akda.",
     text: "&copy; 2026 Pananampalataya at Dahilan. Ad maiorem Dei gloriam."
   }
 };

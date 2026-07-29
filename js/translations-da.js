@@ -18,7 +18,7 @@ const translationsDA = {
   topics: {
     eyebrow: "Kateketisk Apologetik",
     title: "Trosemner",
-    subtitle: "Solide argumenter for at uddybe, forstå og forsvare den katolske tro",
+    subtitle: "Solide argumenter for at uddybe, forstå og forsvare den katolske tro"
 
   },
   article1: {
@@ -644,6 +644,36 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
       }
     },
     "recursos-recomendados": {
+      sec4: {
+        epigraph: "„Af de ting, som er, afhænger nogle af os; andre gør ikke.“",
+        epigraphAuthor: "Epiktet",
+        eyebrow: "Fra forfatteren af dette websted",
+        badge: "Trykt udgave",
+        title: "La puerta falsa",
+        desc: "Okkultismen lover det modsatte: magt over det, som ikke afhænger af nogen, i bytte for det eneste, der virkelig er i vore hænder, vores egen dømmekraft. Denne bog tager dens tekster (grimoirer, sorte bibler, hermetiske håndbøger, tarot, astrologi, „manifestering“) og undersøger dem uden hast, fra begge sider: datoerne, kilderne, modsigelserne. Den anklager ikke ud fra nogen tro og beder ingen om at tage den på ordet; hver anklage bevises med genrens egne sider.",
+        close: "Den tilbyder ingen mysterier, men noget vanskeligere og værdigere: klarsyn.",
+        langsLabel: "Udgivet på syv sprog",
+        langs: {
+          es: "Spansk",
+          en: "Engelsk",
+          pt: "Portugisisk",
+          fr: "Fransk",
+          it: "Italiensk",
+          de: "Tysk",
+          ja: "Japansk"
+        },
+        cta: "Se den indbundne udgave på Amazon →",
+        note: "Linket fører til den indbundne udgave på engelsk hos Amazon USA. Hvert sprog har desuden sin egen paperback- og Kindle-udgave: søg efter den på dit eget sprog i Amazon-butikken i dit land.",
+        coverAlt: "Omslag til La puerta falsa af M. Gabriel Castiglia"
+      },
+      sec5: {
+        eyebrow: "Juridisk meddelelse",
+        title: "Ophavsret",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Alle rettigheder forbeholdes.</strong> Teksterne, artiklerne og oversættelserne på dette websted er forfatterens originale værk og er beskyttet af ophavsretslovgivningen og af de internationale traktater på området.",
+        p2: "Gengivelse, kopiering, distribution, offentliggørelse, oversættelse eller bearbejdning, helt eller delvist og med et hvilket som helst middel, er <strong>forbudt</strong> uden forfatterens forudgående skriftlige tilladelse. Korte passager må citeres til studie eller kommentar, forudsat at forfatteren angives, og at der linkes til denne side.",
+        p3: "<strong>La puerta falsa</strong> og alle dens udgaver er forfatterens registrerede værk: teksten, titlen og omslaget må ikke gengives eller anvendes uden tilladelse.",
+        p4: "De kanaler, bøger, billeder og websteder, der anbefales på denne side, tilhører deres respektive ophavsmænd og rettighedshavere. Der linkes til dem udelukkende som anbefaling, uden kommerciel forbindelse eller vederlag af nogen art."
+      },
       pageTitle: "Venlige Sider | Tro og Fornuft",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
@@ -656,7 +686,6 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
       sec2: {
         eyebrow: "Apologetik · Dannelse", title: "Præster og undervisere", desc: "Stemmer, der er tro mod Læreembedet, og som underviser i, forsvarer og forkynder troen med dybde og grundighed.",
         toro:    { desc: "Teolog og apologet. Besvarer de sværeste indvendinger mod den katolske tro med stor dybde." },
-        aguilar: { desc: "Solid, direkte og Magisterium-tro dannelse. Rejsevlogs fra Det Hellige Land og bibelundervisning." },
         olivera: { desc: "Augustinsk historiker og apologet. Tager fat på rationalisme, sekter og moderne vildfarelser med grundighed." }
       },
       sec3: {
@@ -680,11 +709,6 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                     <li><a href="https://www.youtube.com/@PadreLuisToroOficial" target="_blank">Fader Luis Toro Officiel YouTube-kanal</a></li>
                 </ul>
 
-                <h3>Fader José de Jesús Aguilar</h3>
-                <p>Præst og formidler, Fader José de Jesús Aguilar deler refleksioner og katolsk lære.</p>
-                <ul>
-                    <li><a href="https://www.youtube.com/@PadreJosedeJesusAguilar" target="_blank">Fader José de Jesús Aguilar YouTube-kanal</a></li>
-                </ul>
 
                 <h3>Heraldos del Evangelio Ecuador</h3>
                 <p>En forening af troende af pavelig ret, der søger helliggørelse af sine medlemmer og evangelisering.</p>
@@ -765,6 +789,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
     soon: "Kommer snart"
   },
   footer: {
+    rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Alle rettigheder forbeholdes.</strong> Hel eller delvis gengivelse er forbudt uden forfatterens skriftlige tilladelse.",
     text: "&copy; 2026 Tro og Fornuft. Ad maiorem Dei gloriam."
   }
 };

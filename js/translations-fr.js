@@ -18,7 +18,7 @@ const translationsFR = {
   topics: {
     eyebrow: "Catéchèse Apologétique",
     title: "Thèmes de Foi",
-    subtitle: "Des arguments solides pour approfondir, comprendre et défendre la foi catholique",
+    subtitle: "Des arguments solides pour approfondir, comprendre et défendre la foi catholique"
 
   },
   article1: {
@@ -281,13 +281,42 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
       nav: { prevTitle: "L'Eucharistie : le sacrement central", nextTitle: "Les saints et leur intercession" }
     },
     "recursos-recomendados": {
+      sec4: {
+        epigraph: "« Parmi les choses qui sont, les unes dépendent de nous, les autres non. »",
+        epigraphAuthor: "Épictète",
+        eyebrow: "De l'auteur de ce site",
+        badge: "Édition imprimée",
+        title: "La Fausse Porte",
+        desc: "L'occultisme promet l'inverse : le pouvoir sur ce qui ne dépend de personne, en échange de la seule chose qui soit vraiment entre nos mains, notre propre jugement. Ce livre prend ses textes (grimoires, bibles noires, manuels hermétiques, le tarot, l'astrologie, le « manifester ») et les examine sans hâte, sur leurs deux faces : les dates, les sources, les contradictions. Il n'accuse au nom d'aucune foi et ne demande à personne de le croire sur parole ; chaque charge est prouvée par les pages du genre lui-même.",
+        close: "Il n'offre pas de mystères, mais quelque chose de plus ardu et de plus digne : la lucidité.",
+        langsLabel: "Publié en sept langues",
+        langs: {
+          es: "Espagnol",
+          en: "Anglais",
+          pt: "Portugais",
+          fr: "Français",
+          it: "Italien",
+          de: "Allemand",
+          ja: "Japonais"
+        },
+        cta: "Voir le livre relié sur Amazon →",
+        note: "Le lien mène à l'édition reliée en anglais, sur Amazon États-Unis. Chaque langue possède également son édition brochée et son édition Kindle : cherchez-la dans votre langue, sur la boutique Amazon de votre pays.",
+        coverAlt: "Couverture de La Fausse Porte, de M. Gabriel Castiglia"
+      },
+      sec5: {
+        eyebrow: "Mentions légales",
+        title: "Droits d'auteur",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Tous droits réservés.</strong> Les textes, articles et traductions de ce site sont l'œuvre originale de l'auteur et sont protégés par la législation sur le droit d'auteur et par les traités internationaux en la matière.",
+        p2: "Toute reproduction, copie, distribution, publication, traduction ou adaptation, totale ou partielle, par quelque moyen que ce soit, est <strong>interdite</strong> sans l'autorisation écrite et préalable de l'auteur. La citation de brefs passages à des fins d'étude ou de commentaire est permise, à condition d'indiquer l'auteur et de renvoyer à cette page.",
+        p3: "<strong>La Fausse Porte</strong> et toutes ses éditions sont une œuvre déposée de l'auteur : son texte, son titre et sa couverture ne peuvent être reproduits ni utilisés sans autorisation.",
+        p4: "Les chaînes, livres, images et sites recommandés sur cette page appartiennent à leurs auteurs et titulaires respectifs. Ils sont mentionnés à titre de recommandation seulement, sans lien commercial ni contrepartie d'aucune sorte."
+      },
       pageTitle: "Ressources recommandées | Foi et Raison",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Ressources</span></div><h1>Ressources recommandées</h1><p>Sources de confiance pour approfondir, se former et partager la foi catholique.</p><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
       sec1: { eyebrow: "Saint-Siège", title: "Sources vaticanes", desc: "Documents officiels de l'Église, disponibles sur le site du Saint-Siège." },
       sec2: {
         eyebrow: "Apologétique · Formation", title: "Prêtres et formateurs", desc: "Des voix fidèles au Magistère qui enseignent, défendent et proclament la foi avec profondeur et rigueur.",
         toro:    { desc: "Théologien et apologète. Répond avec profondeur aux objections les plus difficiles à la foi catholique." },
-        aguilar: { desc: "Formation solide, directe et fidèle au Magistère. Vlogs de voyages en Terre Sainte et cours bibliques." },
         olivera: { desc: "Historien et apologète augustin. Aborde le rationalisme, les sectes et les erreurs modernes avec rigueur." }
       },
       sec3: {
@@ -344,5 +373,6 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
     ]
   },
   lang: { soon: "Bientôt" },
-  footer: { text: "&copy; 2026 Foi et Raison. Ad majorem Dei gloriam." }
+  footer: {
+    rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Tous droits réservés.</strong> Toute reproduction, totale ou partielle, est interdite sans l'autorisation écrite de l'auteur.", text: "&copy; 2026 Foi et Raison. Ad majorem Dei gloriam." }
 };

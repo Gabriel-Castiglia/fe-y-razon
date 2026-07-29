@@ -1,0 +1,9 @@
+# Finales de línea: SIEMPRE LF, en cualquier equipo (Mac, Windows, Linux).
+* text=auto eol=lf
+
+# Binarios: git no los toca.
+*.webp binary
+*.jpg  binary
+*.png  binary
+*.mp4  binary
+*.webm binary
