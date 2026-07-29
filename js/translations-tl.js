@@ -649,7 +649,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
         epigraphAuthor: "Epicteto",
         eyebrow: "Mula sa may-akda ng sitiong ito",
         badge: "Nakalimbag na edisyon",
-        title: "La puerta falsa",
+        title: "The False Door",
         desc: "Ang kabaligtaran ang ipinapangako ng okultismo: kapangyarihan sa mga bagay na hindi nakasalalay kaninuman, kapalit ng tanging bagay na talagang nasa ating mga kamay, ang sarili nating paghatol. Kinukuha ng aklat na ito ang mga teksto nito (mga grimoire, itim na bibliya, mga manwal na hermetiko, ang tarot, ang astrolohiya, ang “manifesting”) at sinusuri ang mga ito nang walang pagmamadali, sa magkabilang mukha: ang mga petsa, ang mga pinagmulan, ang mga pagsasalungatan. Hindi ito nag-aakusa mula sa alinmang pananampalataya at hindi humihingi na basta itong paniwalaan; bawat paratang ay pinatutunayan ng mismong mga pahina ng ganitong panitikan.",
         close: "Walang hiwaga itong inaalok, kundi isang bagay na mas mahirap at mas marangal: ang linaw ng isip.",
         langsLabel: "Nailathala sa pitong wika",
@@ -664,14 +664,14 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
         },
         cta: "Tingnan ang hardcover sa Amazon →",
         note: "Ang link ay patungo sa edisyong hardcover sa Ingles, sa Amazon Estados Unidos. May sariling edisyong paperback at Kindle ang bawat wika: hanapin ito sa inyong wika, sa tindahan ng Amazon sa inyong bansa.",
-        coverAlt: "Pabalat ng La puerta falsa, ni M. Gabriel Castiglia"
+        coverAlt: "Pabalat ng The False Door, ni M. Gabriel Castiglia"
       },
       sec5: {
         eyebrow: "Paunawang legal",
         title: "Karapatang-ari",
         p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Nakalaan ang lahat ng karapatan.</strong> Ang mga teksto, artikulo at salin sa sitiong ito ay orihinal na akda ng may-akda at protektado ng batas sa karapatang-ari at ng mga kasunduang pandaigdig hinggil dito.",
         p2: "<strong>Ipinagbabawal</strong> ang pagpaparami, pagkopya, pamamahagi, paglalathala, pagsasalin o pag-aangkop, buo man o bahagi, sa anumang paraan, nang walang naunang nakasulat na pahintulot ng may-akda. Pinapayagan ang pagsipi ng maikling bahagi para sa pag-aaral o komentaryo, basta't nakasaad ang may-akda at may link sa pahinang ito.",
-        p3: "Ang <strong>La puerta falsa</strong> at lahat ng edisyon nito ay nakarehistrong akda ng may-akda: ang teksto, pamagat at pabalat nito ay hindi maaaring kopyahin o gamitin nang walang pahintulot.",
+        p3: "Ang <strong>The False Door</strong> at lahat ng edisyon nito ay nakarehistrong akda ng may-akda: ang teksto, pamagat at pabalat nito ay hindi maaaring kopyahin o gamitin nang walang pahintulot.",
         p4: "Ang mga channel, aklat, larawan at sitio na inirerekomenda sa pahinang ito ay pag-aari ng kani-kanilang may-akda at may hawak ng karapatan. Ini-link lamang ang mga ito bilang rekomendasyon, walang anumang ugnayang pangkalakal ni kabayaran."
       },
       pageTitle: "Mga Inirerekomendang Link | Pananampalataya at Dahilan",

@@ -209,7 +209,7 @@ const translationsSW = {
         epigraphAuthor: "Epikteto",
         eyebrow: "Kutoka kwa mwandishi wa tovuti hii",
         badge: "Toleo lililochapishwa",
-        title: "La puerta falsa",
+        title: "The False Door",
         desc: "Uchawi na mafumbo huahidi kinyume chake: mamlaka juu ya yale yasiyomtegemea mtu yeyote, badala ya kitu pekee kilicho mikononi mwetu kweli, yaani hukumu yetu wenyewe. Kitabu hiki huchukua maandiko yake (vitabu vya uchawi, biblia nyeusi, miongozo ya kihermetiki, tarot, unajimu, “kuvuta mafanikio”) na kuyachunguza bila haraka, kwa pande zake mbili: tarehe, vyanzo, na mikanganyiko. Hakishtaki kwa jina la imani yoyote wala hakiombi mtu akiamini tu; kila shtaka huthibitishwa kwa kurasa za aina hiyo yenyewe.",
         close: "Hakitoi siri, bali kitu kigumu zaidi na chenye heshima zaidi: uangavu wa akili.",
         langsLabel: "Kimechapishwa katika lugha saba",
@@ -224,14 +224,14 @@ const translationsSW = {
         },
         cta: "Tazama toleo la jalada gumu kwenye Amazon →",
         note: "Kiungo hiki kinaelekeza kwenye toleo la jalada gumu la Kiingereza, katika Amazon ya Marekani. Kila lugha ina pia toleo lake la jalada laini na la Kindle: litafute katika lugha yako, katika duka la Amazon la nchi yako.",
-        coverAlt: "Jalada la kitabu La puerta falsa, cha M. Gabriel Castiglia"
+        coverAlt: "Jalada la kitabu The False Door, cha M. Gabriel Castiglia"
       },
       sec5: {
         eyebrow: "Taarifa ya kisheria",
         title: "Hakimiliki",
         p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Haki zote zimehifadhiwa.</strong> Maandishi, makala na tafsiri za tovuti hii ni kazi asilia ya mwandishi na zinalindwa na sheria ya hakimiliki na mikataba ya kimataifa kuhusu jambo hilo.",
         p2: "<strong>Ni marufuku</strong> kunakili, kusambaza, kuchapisha, kutafsiri au kubadilisha, kwa ujumla au kwa sehemu, kwa njia yoyote ile, bila idhini ya maandishi ya mwandishi iliyotolewa mapema. Inaruhusiwa kunukuu vifungu vifupi kwa ajili ya masomo au maoni, ilimradi jina la mwandishi litajwe na ukurasa huu uunganishwe.",
-        p3: "<strong>La puerta falsa</strong> na matoleo yake yote ni kazi iliyosajiliwa ya mwandishi: maandishi yake, jina lake na jalada lake haviwezi kunakiliwa wala kutumiwa bila idhini.",
+        p3: "<strong>The False Door</strong> na matoleo yake yote ni kazi iliyosajiliwa ya mwandishi: maandishi yake, jina lake na jalada lake haviwezi kunakiliwa wala kutumiwa bila idhini.",
         p4: "Chaneli, vitabu, picha na tovuti zinazopendekezwa katika ukurasa huu ni mali ya waandishi na wamiliki wao. Vimeunganishwa kwa nia ya mapendekezo tu, bila uhusiano wa kibiashara wala malipo ya aina yoyote."
       },
       pageTitle: "Rasilimali Zinazopendekezwa | Imani na Akili",

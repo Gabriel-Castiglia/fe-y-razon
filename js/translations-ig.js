@@ -209,7 +209,7 @@ const translationsIG = {
         epigraphAuthor: "Epictetus",
         eyebrow: "Site n'aka onye dere saịtị a",
         badge: "Mbipụta akwụkwọ",
-        title: "La puerta falsa",
+        title: "The False Door",
         desc: "Okpukpe nzuzo na-ekwe nkwa ihe megidere ya: ikike n'ihe na-adaberoghị onye ọ bụla, n'ọnọdụ naanị otu ihe dị n'aka anyị n'ezie, bụ ikpe nke onwe anyị. Akwụkwọ a na-ewere ederede ya (akwụkwọ anwansi, Baịbụl ojii, akwụkwọ ntuziaka hermetic, tarot, astrology, “ịkpọpụta akụnụba”) ma nyochaa ha n'enweghị ọsọ ọsọ, n'akụkụ abụọ: ụbọchị ha, isi mmalite ha, na nkwụghachi okwu ha. Ọ dịghị ebo ebubo site n'okwukwe ọ bụla, ọ dịghịkwa arịọ ka a kwenye na ya; a na-egosi ebubo ọ bụla site na peeji nke ụdị akwụkwọ ahụ n'onwe ya.",
         close: "Ọ dịghị enye ihe omimi, kama ihe siri ike karịa ma kwesịkwa ntụkwasị obi karịa: nghọta doro anya.",
         langsLabel: "E bipụtara ya n'asụsụ asaa",
@@ -224,14 +224,14 @@ const translationsIG = {
         },
         cta: "Lee mbipụta mkpuchi siri ike na Amazon →",
         note: "Njikọ a na-eduga na mbipụta mkpuchi siri ike n'asụsụ Bekee, na Amazon United States. Asụsụ ọ bụla nwekwara mbipụta mkpuchi dị nro na nke Kindle: chọọ ya n'asụsụ gị, n'ụlọ ahịa Amazon nke obodo gị.",
-        coverAlt: "Mkpuchi akwụkwọ La puerta falsa, nke M. Gabriel Castiglia dere"
+        coverAlt: "Mkpuchi akwụkwọ The False Door, nke M. Gabriel Castiglia dere"
       },
       sec5: {
         eyebrow: "Ọkwa iwu",
         title: "Ikike nwebisiinka",
         p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Ikike niile echekwara.</strong> Ederede, isiokwu na ntụgharị asụsụ dị na saịtị a bụ ọrụ mbụ nke onye edemede, echekwabakwara ha site n'iwu nwebisiinka na nkwekọrịta mba ụwa gbasara ya.",
         p2: "<strong>A machibidoro</strong> imepụta, idepụta, ikesa, ibipụta, ịtụgharị ma ọ bụ ime mgbanwe, ya niile ma ọ bụ akụkụ ya, n'ụzọ ọ bụla, na-enweghị ikike ederede sitere n'aka onye edemede tupu mgbe ahụ. A na-ekwe ka e hota obere akụkụ maka ọmụmụ ihe ma ọ bụ nkọwa, ma ọ bụrụ na akpọrọ aha onye edemede ma jikọọ na ibe a.",
-        p3: "<strong>La puerta falsa</strong> na mbipụta ya niile bụ ọrụ edebanyere aha onye edemede: ederede ya, aha ya na mkpuchi ya enweghị ike ka e megharịa ma ọ bụ jiri ya mee ihe na-enweghị ikike.",
+        p3: "<strong>The False Door</strong> na mbipụta ya niile bụ ọrụ edebanyere aha onye edemede: ederede ya, aha ya na mkpuchi ya enweghị ike ka e megharịa ma ọ bụ jiri ya mee ihe na-enweghị ikike.",
         p4: "Ọwa, akwụkwọ, foto na saịtị ndị a kwadoro na ibe a bụ nke ndị dere ha na ndị nwe ha. E jikọtara ha naanị dị ka nkwado, na-enweghị mmekọrịta azụmahịa ma ọ bụ ụgwọ ọ bụla."
       },
       pageTitle: "Akụrụngwa Akwadoro | Okwukwe na Uche",

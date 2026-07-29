@@ -655,7 +655,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         epigraphAuthor: "Epictetus",
         eyebrow: "Ab auctore huius situs",
         badge: "Editio typis impressa",
-        title: "La puerta falsa",
+        title: "The False Door",
         desc: "Occultismus contrarium pollicetur: potestatem in ea quae a nemine pendent, pretio eius unius rei quae vere in manibus nostris est, iudicii proprii. Hic liber textus eius (grimoria, biblias nigras, manualia hermetica, tarot, astrologiam, illud «manifestare») sumit eosque sine festinatione utraque facie examinat: tempora, fontes, repugnantias. Ex nulla fide accusat neque petit ut sibi credatur; omne crimen ipsis generis paginis probatur.",
         close: "Non mysteria offert, sed aliquid arduius ac dignius: perspicuitatem.",
         langsLabel: "Septem linguis editus",
@@ -670,14 +670,14 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         },
         cta: "Vide librum rigide compactum apud Amazon →",
         note: "Nexus ad editionem Anglicam rigide compactam apud Amazon Civitatum Foederatarum ducit. Unaquaeque lingua praeterea editionem molliter compactam et Kindle habet: eam lingua tua in taberna Amazon patriae tuae quaere.",
-        coverAlt: "Tegumentum libri La puerta falsa, auctore M. Gabriel Castiglia"
+        coverAlt: "Tegumentum libri The False Door, auctore M. Gabriel Castiglia"
       },
       sec5: {
         eyebrow: "Monitum iuridicum",
         title: "Ius auctoris",
         p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Omnia iura reservantur.</strong> Textus, commentationes et translationes huius situs opus originale auctoris sunt et lege de iure auctoris atque pactionibus internationalibus muniuntur.",
         p2: "<strong>Vetatur</strong> reproductio, exscriptio, distributio, publicatio, translatio vel accommodatio, sive tota sive ex parte, quocumque modo, sine praevia auctoris licentia scripta. Breves locos afferre licet studii aut commentarii causa, dummodo auctor indicetur et ad hanc paginam remittatur.",
-        p3: "<strong>La puerta falsa</strong> omnesque eius editiones opus auctoris inscriptum sunt: textus, titulus et tegumentum sine licentia neque reproduci neque adhiberi possunt.",
+        p3: "<strong>The False Door</strong> omnesque eius editiones opus auctoris inscriptum sunt: textus, titulus et tegumentum sine licentia neque reproduci neque adhiberi possunt.",
         p4: "Canales, libri, imagines et situs in hac pagina commendati ad suos quisque auctores et dominos pertinent. Commendationis tantum causa nectuntur, nullo commercio nullaque mercede."
       },
       pageTitle: "Subsidia Commendanda | Fides et Ratio",
