@@ -649,7 +649,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
         epigraphAuthor: "Epiktet",
         eyebrow: "Fra forfatteren af dette websted",
         badge: "Trykt udgave",
-        title: "La puerta falsa",
+        title: "The False Door",
         desc: "Okkultismen lover det modsatte: magt over det, som ikke afhænger af nogen, i bytte for det eneste, der virkelig er i vore hænder, vores egen dømmekraft. Denne bog tager dens tekster (grimoirer, sorte bibler, hermetiske håndbøger, tarot, astrologi, „manifestering“) og undersøger dem uden hast, fra begge sider: datoerne, kilderne, modsigelserne. Den anklager ikke ud fra nogen tro og beder ingen om at tage den på ordet; hver anklage bevises med genrens egne sider.",
         close: "Den tilbyder ingen mysterier, men noget vanskeligere og værdigere: klarsyn.",
         langsLabel: "Udgivet på syv sprog",
@@ -664,14 +664,14 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
         },
         cta: "Se den indbundne udgave på Amazon →",
         note: "Linket fører til den indbundne udgave på engelsk hos Amazon USA. Hvert sprog har desuden sin egen paperback- og Kindle-udgave: søg efter den på dit eget sprog i Amazon-butikken i dit land.",
-        coverAlt: "Omslag til La puerta falsa af M. Gabriel Castiglia"
+        coverAlt: "Omslag til The False Door af M. Gabriel Castiglia"
       },
       sec5: {
         eyebrow: "Juridisk meddelelse",
         title: "Ophavsret",
         p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Alle rettigheder forbeholdes.</strong> Teksterne, artiklerne og oversættelserne på dette websted er forfatterens originale værk og er beskyttet af ophavsretslovgivningen og af de internationale traktater på området.",
         p2: "Gengivelse, kopiering, distribution, offentliggørelse, oversættelse eller bearbejdning, helt eller delvist og med et hvilket som helst middel, er <strong>forbudt</strong> uden forfatterens forudgående skriftlige tilladelse. Korte passager må citeres til studie eller kommentar, forudsat at forfatteren angives, og at der linkes til denne side.",
-        p3: "<strong>La puerta falsa</strong> og alle dens udgaver er forfatterens registrerede værk: teksten, titlen og omslaget må ikke gengives eller anvendes uden tilladelse.",
+        p3: "<strong>The False Door</strong> og alle dens udgaver er forfatterens registrerede værk: teksten, titlen og omslaget må ikke gengives eller anvendes uden tilladelse.",
         p4: "De kanaler, bøger, billeder og websteder, der anbefales på denne side, tilhører deres respektive ophavsmænd og rettighedshavere. Der linkes til dem udelukkende som anbefaling, uden kommerciel forbindelse eller vederlag af nogen art."
       },
       pageTitle: "Venlige Sider | Tro og Fornuft",

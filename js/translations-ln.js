@@ -209,7 +209,7 @@ const translationsLN = {
         epigraphAuthor: "Epiktete",
         eyebrow: "Uta na mokomi ya site oyo",
         badge: "Buku ya papye",
-        title: "La puerta falsa",
+        title: "The False Door",
         desc: "Okiltisme elakaka bokeseni: nguya likolo ya makambo oyo etali moto moko te, na esika ya eloko kaka moko oyo ezali solo na mabɔkɔ na biso, bokati-likambo na biso moko. Buku oyo ezwi mikanda na yango (mikanda ya nkisi, babiblia ya moindo, mikanda ya ermetisme, tarot, astrolozi, “kobenda bomengo”) mpe etali yango na lombangu te, na bilongi mibale: batango, esika euti, mpe bokeseni. Efundaka na kombo ya lingomba moko te mpe esengaka te ete bandima yango kaka bongo; likambo nyonso emonisami na nkasa ya lolenge yango moko.",
         close: "Epesaka mabombami te, kasi eloko ya makasi mpe ya lokumu koleka: bososoli ya polele.",
         langsLabel: "Ebimisami na minoko sambo",
@@ -224,14 +224,14 @@ const translationsLN = {
         },
         cta: "Tala buku ya ezipeli makasi na Amazon →",
         note: "Lien ekei na buku ya ezipeli makasi na Angele, na Amazon ya Amerika. Monoko nyonso ezali mpe na buku ya ezipeli pɛtɛɛ mpe ya Kindle: luka yango na monoko na yo, na magazini ya Amazon ya ekolo na yo.",
-        coverAlt: "Ezipeli ya buku La puerta falsa, ya M. Gabriel Castiglia"
+        coverAlt: "Ezipeli ya buku The False Door, ya M. Gabriel Castiglia"
       },
       sec5: {
         eyebrow: "Liyebisi ya mibeko",
         title: "Lotomo ya mokomi",
         p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Makoki nyonso ebombami.</strong> Makomi, masolo mpe mabongoli ya site oyo ezali mosala ya mokomi ye moko mpe ebatelami na mobeko ya lotomo ya mokomi mpe na mayokani ya bikolo nyonso.",
         p2: "<strong>Epekisami</strong> kokopi, kokabola, kobimisa, kobongola to kobongisa, mobimba to ndambo, na lolenge nyonso, soki mokomi apesi ndingisa ya mokanda te liboso. Kolobela biteni mikuse mpo na boyekoli to maloba ya kotalela ekoki, soki batangi kombo ya mokomi mpe batie lien na lokasa oyo.",
-        p3: "<strong>La puerta falsa</strong> mpe mabimeli na yango nyonso ezali mosala ekomami na nkombo ya mokomi: makomi, kombo mpe ezipeli na yango ekoki kokopiama to kosalelama te soki ndingisa ezali te.",
+        p3: "<strong>The False Door</strong> mpe mabimeli na yango nyonso ezali mosala ekomami na nkombo ya mokomi: makomi, kombo mpe ezipeli na yango ekoki kokopiama to kosalelama te soki ndingisa ezali te.",
         p4: "Ba-chaîne, mikanda, bililingi mpe ba-site oyo elakisami na lokasa oyo ezali ya bakomi mpe bankolo na yango. Elakisami kaka lokola litambwisi, na boyokani ya mombongo te mpe na lifuti moko te."
       },
       pageTitle: "Bisaleli oyo epesami toli | Kondima mpe Mayele",
