@@ -18,7 +18,7 @@ const translationsPT = {
   topics: {
     eyebrow: "Catequese Apologética",
     title: "Temas de Fé",
-    subtitle: "Argumentos sólidos para aprofundar, compreender e defender a fé católica",
+    subtitle: "Argumentos sólidos para aprofundar, compreender e defender a fé católica"
 
   },
   article1: {
@@ -281,13 +281,42 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
       nav: { prevTitle: "A Eucaristia: o sacramento central", nextTitle: "Os santos e sua intercessão" }
     },
     "recursos-recomendados": {
+      sec4: {
+        epigraph: "“Das coisas que existem, umas dependem de nós; outras não.”",
+        epigraphAuthor: "Epicteto",
+        eyebrow: "Do autor deste site",
+        badge: "Edição impressa",
+        title: "A Porta Falsa",
+        desc: "O ocultismo promete o contrário: poder sobre aquilo que não depende de ninguém, em troca da única coisa que de fato está em nossas mãos, o próprio juízo. Este livro toma os seus textos (grimórios, bíblias negras, manuais herméticos, o tarô, a astrologia, o “manifestar”) e os examina sem pressa, pelas suas duas faces: as datas, as fontes, as contradições. Não acusa a partir de nenhuma fé nem pede que se acredite nele; cada acusação é provada com as páginas do próprio gênero.",
+        close: "Não oferece mistérios, mas algo mais árduo e mais digno: a lucidez.",
+        langsLabel: "Publicado em sete idiomas",
+        langs: {
+          es: "Espanhol",
+          en: "Inglês",
+          pt: "Português",
+          fr: "Francês",
+          it: "Italiano",
+          de: "Alemão",
+          ja: "Japonês"
+        },
+        cta: "Ver a capa dura na Amazon →",
+        note: "O link leva à edição em capa dura em inglês, na Amazon dos Estados Unidos. Cada idioma tem também a sua edição em capa comum e em Kindle: procure-a no seu idioma, na loja Amazon do seu país.",
+        coverAlt: "Capa de A Porta Falsa, de M. Gabriel Castiglia"
+      },
+      sec5: {
+        eyebrow: "Aviso legal",
+        title: "Direitos autorais",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Todos os direitos reservados.</strong> Os textos, artigos e traduções deste site são obra original do autor e estão protegidos pela legislação de direitos autorais e pelos tratados internacionais sobre a matéria.",
+        p2: "É <strong>proibida</strong> a reprodução, cópia, distribuição, publicação, tradução ou adaptação, total ou parcial, por qualquer meio ou processo, sem autorização prévia e por escrito do autor. É permitido citar passagens breves para fins de estudo ou comentário, desde que se indique o autor e se faça um link para esta página.",
+        p3: "<strong>A Porta Falsa</strong> e todas as suas edições são obra registrada do autor: o seu texto, o seu título e a sua capa não podem ser reproduzidos nem utilizados sem autorização.",
+        p4: "Os canais, livros, imagens e sites recomendados nesta página pertencem aos seus respectivos autores e titulares. São indicados apenas a título de recomendação, sem vínculo comercial nem contrapartida de qualquer espécie."
+      },
       pageTitle: "Recursos recomendados | Fé e Razão",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Recursos</span></div><h1>Recursos recomendados</h1><p>Fontes de confiança para aprofundar, formar-se e partilhar a fé católica.</p><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
       sec1: { eyebrow: "Santa Sé", title: "Fontes vaticanas", desc: "Documentos oficiais da Igreja, disponíveis no site da Santa Sé." },
       sec2: {
         eyebrow: "Apologética · Formação", title: "Sacerdotes e formadores", desc: "Vozes fiéis ao Magistério que ensinam, defendem e proclamam a fé com profundidade e rigor.",
         toro:    { desc: "Teólogo e apologista. Responde com profundidade às objeções mais difíceis à fé católica." },
-        aguilar: { desc: "Formação sólida, direta e fiel ao magistério. Vlogs de viagens pela Terra Santa e aulas de bíblia." },
         olivera: { desc: "Historiador e apologista agostiniano. Aborda o racionalismo, as seitas e os erros modernos com rigor." }
       },
       sec3: {
@@ -344,5 +373,6 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
     ]
   },
   lang: { soon: "Em breve" },
-  footer: { text: "&copy; 2026 Fé e Razão. Ad maiorem Dei gloriam." }
+  footer: {
+    rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Todos os direitos reservados.</strong> Proibida a reprodução total ou parcial sem autorização escrita do autor.", text: "&copy; 2026 Fé e Razão. Ad maiorem Dei gloriam." }
 };

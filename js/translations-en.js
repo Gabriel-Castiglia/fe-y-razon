@@ -18,7 +18,7 @@ const translationsEN = {
   topics: {
     eyebrow: "Apologetic Catechesis",
     title: "Faith Topics",
-    subtitle: "Solid arguments to deepen, understand, and defend the Catholic&nbsp;faith",
+    subtitle: "Solid arguments to deepen, understand, and defend the Catholic&nbsp;faith"
 
   },
   article1: {
@@ -644,6 +644,36 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
       }
     },
     "recursos-recomendados": {
+      sec4: {
+        epigraph: "“Of the things that are, some depend on us; others do not.”",
+        epigraphAuthor: "Epictetus",
+        eyebrow: "From the author of this site",
+        badge: "Print edition",
+        title: "The False Door",
+        desc: "The occult promises the opposite: power over what depends on no one, in exchange for the one thing that truly is in our hands, our own judgment. This book takes its texts (grimoires, black bibles, hermetic manuals, tarot, astrology, “manifesting”) and examines them without haste, on both faces: the dates, the sources, the contradictions. It accuses from no faith and asks no one to take its word; every charge is proven with the pages of the genre itself.",
+        close: "It offers no mysteries, but something more arduous and more worthy: lucidity.",
+        langsLabel: "Published in seven languages",
+        langs: {
+          es: "Spanish",
+          en: "English",
+          pt: "Portuguese",
+          fr: "French",
+          it: "Italian",
+          de: "German",
+          ja: "Japanese"
+        },
+        cta: "See the hardcover on Amazon →",
+        note: "The link goes to the English hardcover on Amazon US. Every language also has its own paperback and Kindle edition: look for it in your own language, in your country's Amazon store.",
+        coverAlt: "Cover of The False Door, by M. Gabriel Castiglia"
+      },
+      sec5: {
+        eyebrow: "Legal notice",
+        title: "Copyright",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. All rights reserved.</strong> The texts, articles and translations on this site are the author's original work and are protected by copyright law and by the international treaties on the matter.",
+        p2: "Reproduction, copying, distribution, publication, translation or adaptation, in whole or in part, by any means whatsoever, is <strong>prohibited</strong> without the author's prior written permission. Brief passages may be quoted for study or commentary, provided the author is credited and this page is linked.",
+        p3: "<strong>The False Door</strong> and all its editions are the author's registered work: its text, its title and its cover may not be reproduced or used without permission.",
+        p4: "The channels, books, images and sites recommended on this page belong to their respective authors and owners. They are linked purely as a recommendation, with no commercial tie or compensation of any kind."
+      },
       pageTitle: "Recommended Resources | Faith and Reason",
       hero: `<div class="hero-eyebrow">
                 <span class="eyebrow-line"></span>
@@ -656,7 +686,6 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
       sec2: {
         eyebrow: "Apologetics · Formation", title: "Priests and Educators", desc: "Voices faithful to the Magisterium who teach, defend, and proclaim the faith with depth and rigor.",
         toro:    { desc: "Theologian and apologist. He answers the most difficult objections to the Catholic faith with great depth." },
-        aguilar: { desc: "Solid, direct formation faithful to the Magisterium. Vlogs of travels through the Holy Land and Bible classes." },
         olivera: { desc: "Augustinian historian and apologist. He tackles rationalism, sects, and modern errors with rigor." }
       },
       sec3: {
@@ -680,11 +709,6 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                     <li><a href="https://www.youtube.com/@PadreLuisToroOficial" target="_blank">Father Luis Toro Official YouTube Channel</a></li>
                 </ul>
 
-                <h3>Father José de Jesús Aguilar</h3>
-                <p>Priest and communicator, Father José de Jesús Aguilar shares reflections and Catholic teachings.</p>
-                <ul>
-                    <li><a href="https://www.youtube.com/@PadreJosedeJesusAguilar" target="_blank">Father José de Jesús Aguilar YouTube Channel</a></li>
-                </ul>
 
                 <h3>Heraldos del Evangelio Ecuador</h3>
                 <p>An association of the faithful of pontifical right that seeks the sanctification of its members and evangelization.</p>
@@ -764,6 +788,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
     soon: "Coming soon"
   },
   footer: {
+    rights: "<strong>&copy; 2026 M. Gabriel Castiglia. All rights reserved.</strong> No part of this site may be reproduced without the author's written permission.",
     text: "&copy; 2026 Faith and Reason. Ad maiorem Dei gloriam."
   }
 };

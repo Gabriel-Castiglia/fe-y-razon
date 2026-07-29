@@ -18,7 +18,7 @@ const translationsSW = {
   topics: {
     eyebrow: "Katekesi ya Kiapolojetiki",
     title: "Mada za Imani",
-    subtitle: "Hoja thabiti za kuongeza kina, kuelewa na kutetea imani ya Kikatoliki",
+    subtitle: "Hoja thabiti za kuongeza kina, kuelewa na kutetea imani ya Kikatoliki"
 
   },
   article1: {
@@ -204,13 +204,42 @@ const translationsSW = {
       nav: { prevTitle: "Ekaristi: sakramenti kuu", nextTitle: "Watakatifu na maombezi yao" }
     },
     "recursos-recomendados": {
+      sec4: {
+        epigraph: "“Miongoni mwa vitu vilivyopo, vingine vinategemea sisi; vingine havitegemei.”",
+        epigraphAuthor: "Epikteto",
+        eyebrow: "Kutoka kwa mwandishi wa tovuti hii",
+        badge: "Toleo lililochapishwa",
+        title: "La puerta falsa",
+        desc: "Uchawi na mafumbo huahidi kinyume chake: mamlaka juu ya yale yasiyomtegemea mtu yeyote, badala ya kitu pekee kilicho mikononi mwetu kweli, yaani hukumu yetu wenyewe. Kitabu hiki huchukua maandiko yake (vitabu vya uchawi, biblia nyeusi, miongozo ya kihermetiki, tarot, unajimu, “kuvuta mafanikio”) na kuyachunguza bila haraka, kwa pande zake mbili: tarehe, vyanzo, na mikanganyiko. Hakishtaki kwa jina la imani yoyote wala hakiombi mtu akiamini tu; kila shtaka huthibitishwa kwa kurasa za aina hiyo yenyewe.",
+        close: "Hakitoi siri, bali kitu kigumu zaidi na chenye heshima zaidi: uangavu wa akili.",
+        langsLabel: "Kimechapishwa katika lugha saba",
+        langs: {
+          es: "Kihispania",
+          en: "Kiingereza",
+          pt: "Kireno",
+          fr: "Kifaransa",
+          it: "Kiitaliano",
+          de: "Kijerumani",
+          ja: "Kijapani"
+        },
+        cta: "Tazama toleo la jalada gumu kwenye Amazon →",
+        note: "Kiungo hiki kinaelekeza kwenye toleo la jalada gumu la Kiingereza, katika Amazon ya Marekani. Kila lugha ina pia toleo lake la jalada laini na la Kindle: litafute katika lugha yako, katika duka la Amazon la nchi yako.",
+        coverAlt: "Jalada la kitabu La puerta falsa, cha M. Gabriel Castiglia"
+      },
+      sec5: {
+        eyebrow: "Taarifa ya kisheria",
+        title: "Hakimiliki",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Haki zote zimehifadhiwa.</strong> Maandishi, makala na tafsiri za tovuti hii ni kazi asilia ya mwandishi na zinalindwa na sheria ya hakimiliki na mikataba ya kimataifa kuhusu jambo hilo.",
+        p2: "<strong>Ni marufuku</strong> kunakili, kusambaza, kuchapisha, kutafsiri au kubadilisha, kwa ujumla au kwa sehemu, kwa njia yoyote ile, bila idhini ya maandishi ya mwandishi iliyotolewa mapema. Inaruhusiwa kunukuu vifungu vifupi kwa ajili ya masomo au maoni, ilimradi jina la mwandishi litajwe na ukurasa huu uunganishwe.",
+        p3: "<strong>La puerta falsa</strong> na matoleo yake yote ni kazi iliyosajiliwa ya mwandishi: maandishi yake, jina lake na jalada lake haviwezi kunakiliwa wala kutumiwa bila idhini.",
+        p4: "Chaneli, vitabu, picha na tovuti zinazopendekezwa katika ukurasa huu ni mali ya waandishi na wamiliki wao. Vimeunganishwa kwa nia ya mapendekezo tu, bila uhusiano wa kibiashara wala malipo ya aina yoyote."
+      },
       pageTitle: "Rasilimali Zinazopendekezwa | Imani na Akili",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Rasilimali</span></div><h1>Rasilimali Zinazopendekezwa</h1><p>Vyanzo vinavyoaminika ili kuongeza kina, kujifunza na kushiriki imani ya Kikatoliki.</p><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
       sec1: { eyebrow: "Makao Makuu", title: "Vyanzo vya Vatikani", desc: "Nyaraka rasmi za Kanisa, zinazopatikana kwenye tovuti ya Makao Makuu." },
       sec2: {
         eyebrow: "Apolojetiki · Malezi", title: "Mapadre na waalimu", desc: "Sauti tiifu kwa Magisterio zinazofundisha, kutetea, na kutangaza imani kwa kina na usahihi.",
         toro:    { desc: "Mwanatheolojia na mwanapolojetiki. Anajibu kwa kina pingamizi ngumu zaidi kwa imani ya Kikatoliki." },
-        aguilar: { desc: "Malezi thabiti, ya moja kwa moja, na tiifu kwa magisterio. Vlogs za safari kupitia Nchi Takatifu na madarasa ya Biblia." },
         olivera: { desc: "Mwanahistoria na mwanapolojetiki wa Shirika la Mt. Augustino. Anashughulikia urazini, madhehebu, na makosa ya kisasa kwa usahihi." }
       },
       sec3: {
@@ -268,5 +297,6 @@ const translationsSW = {
     ]
   },
   lang: { soon: "Hivi karibuni" },
-  footer: { text: "&copy; 2026 Imani na Akili. Ad maiorem Dei gloriam." }
+  footer: {
+    rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Haki zote zimehifadhiwa.</strong> Ni marufuku kunakili kwa ujumla au kwa sehemu bila idhini ya maandishi ya mwandishi.", text: "&copy; 2026 Imani na Akili. Ad maiorem Dei gloriam." }
 };

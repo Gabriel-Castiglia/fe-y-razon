@@ -57,10 +57,39 @@
         "inLanguage": "es"
     }
     </script>
-    <link rel="preload" href="css/style.css?v=12" as="style">
+
+    <!-- Datos estructurados del libro del autor -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "La puerta falsa",
+        "alternateName": ["The False Door", "A Porta Falsa", "La Fausse Porte", "La falsa porta", "Die falsche Tür", "偽りの扉"],
+        "author": {
+            "@type": "Person",
+            "name": "M. Gabriel Castiglia"
+        },
+        "inLanguage": ["es", "en", "pt-BR", "fr", "it", "de", "ja"],
+        "genre": "Ensayo",
+        "datePublished": "2026",
+        "image": "https://proyectofeyrazon.com/Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg",
+        "description": "El ocultismo promete poder sobre lo que no depende de nadie, a cambio de lo único que sí está en nuestras manos: el propio juicio. Este libro examina sus textos por sus dos caras: las fechas, las fuentes, las contradicciones.",
+        "workExample": {
+            "@type": "Book",
+            "@id": "https://www.amazon.com/dp/B0HB5VY57R",
+            "name": "The False Door",
+            "bookEdition": "1",
+            "bookFormat": "https://schema.org/Hardcover",
+            "inLanguage": "en",
+            "isbn": "9798188676995",
+            "url": "https://a.co/d/01Pm2L1y"
+        }
+    }
+    </script>
+    <link rel="preload" href="css/style.css?v=13" as="style">
     <title data-i18n="topicPages.recursos-recomendados.pageTitle">Recursos recomendados | Fé y Razón</title>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css?v=12">
+    <link rel="stylesheet" href="css/style.css?v=13">
 </head>
 <body>
     <div id="reading-progress" role="progressbar" aria-label="Progreso de lectura" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"></div>
@@ -228,7 +257,10 @@
       .rec-btn-ghost:hover { border-color: var(--gold); color: var(--gold); }
 
       /* ── PRIESTS — portrait cards ── */
-      .rec-priests { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; }
+      .rec-priests {
+        display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem;
+        max-width: 760px;
+      }
       .rec-priest {
         border-radius: 14px; overflow: hidden; background: #12100d;
         display: flex; flex-direction: column;
@@ -332,17 +364,126 @@
       }
       .rec-apost-photo--logo::after { display: none; }
 
+      /* ── BOOK — edición impresa del autor ── */
+      .rec-book {
+        position: relative; border-radius: 16px; overflow: hidden;
+        display: grid; grid-template-columns: minmax(0, 340px) minmax(0, 1fr);
+        background: linear-gradient(118deg, #0e0c09 0%, #1a1410 52%, #241c14 100%);
+        border: 1px solid rgba(212, 165, 116, .22);
+        box-shadow: 0 10px 46px rgba(0,0,0,.3);
+      }
+      .rec-book-cover {
+        display: flex; align-items: center; justify-content: center;
+        padding: 2.8rem 2rem; background: rgba(0,0,0,.28);
+        min-width: 0;
+      }
+      .rec-book-cover img {
+        width: 100%; max-width: 258px; height: auto; display: block;
+        border-radius: 3px; box-shadow: 0 16px 44px rgba(0,0,0,.6);
+        transition: transform .35s ease;
+      }
+      .rec-book:hover .rec-book-cover img { transform: translateY(-5px); }
+      .rec-book-body {
+        padding: 2.7rem 3rem 2.5rem;
+        display: flex; flex-direction: column; justify-content: center;
+        min-width: 0; overflow-wrap: break-word;
+      }
+      .rec-book-badge {
+        align-self: flex-start;
+        font-family: 'Montserrat', sans-serif; font-size: .58rem;
+        letter-spacing: .18em; text-transform: uppercase;
+        color: #1a1410; background: var(--gold);
+        padding: .3rem .8rem; border-radius: 20px; margin-bottom: 1.1rem;
+      }
+      .rec-book-body h2 {
+        font-family: 'Cinzel', serif; font-size: 2.05rem; color: #fff;
+        margin: 0 0 .35rem; font-weight: 700; line-height: 1.18;
+      }
+      .rec-book-author {
+        font-family: 'Montserrat', sans-serif; font-size: .72rem;
+        letter-spacing: .13em; text-transform: uppercase;
+        color: var(--gold); margin: 0 0 1.3rem;
+      }
+      .rec-book-epigraph {
+        margin: 0 0 1.4rem; padding: 0 0 0 1.1rem;
+        border-left: 2px solid rgba(212, 165, 116, .45);
+      }
+      .rec-book-epigraph p {
+        color: var(--gold-light); font-size: .92rem; font-style: italic;
+        line-height: 1.6; margin: 0 0 .35rem;
+      }
+      .rec-book-epigraph cite {
+        font-family: 'Montserrat', sans-serif; font-style: normal;
+        font-size: .66rem; letter-spacing: .16em; text-transform: uppercase;
+        color: rgba(255,255,255,.45);
+      }
+      .rec-book-desc {
+        color: rgba(255,255,255,.7); font-size: .86rem;
+        line-height: 1.78; margin: 0 0 1rem;
+      }
+      .rec-book-close {
+        color: var(--gold-light); font-size: .88rem; font-style: italic;
+        line-height: 1.7; margin: 0 0 1.7rem;
+      }
+      .rec-book-langs { margin-bottom: 1.7rem; }
+      .rec-book-langs-label {
+        display: block; font-family: 'Montserrat', sans-serif; font-size: .6rem;
+        letter-spacing: .16em; text-transform: uppercase;
+        color: rgba(255,255,255,.45); margin-bottom: .8rem;
+      }
+      .rec-book-flags {
+        list-style: none; margin: 0; padding: 0;
+        display: flex; flex-wrap: wrap; gap: .5rem .85rem;
+      }
+      .rec-book-flags li {
+        display: flex; align-items: center; gap: .4rem;
+        font-family: 'Montserrat', sans-serif; font-size: .72rem;
+        color: rgba(255,255,255,.72);
+      }
+      .rec-book-flags img {
+        width: 20px; height: 14px; object-fit: cover; border-radius: 2px;
+        box-shadow: 0 0 0 1px rgba(255,255,255,.18);
+      }
+      .rec-book-links { display: flex; flex-wrap: wrap; gap: .75rem; margin-bottom: 1.1rem; }
+      .rec-book-note {
+        color: rgba(255,255,255,.5); font-size: .74rem;
+        line-height: 1.65; margin: 0; max-width: 46em;
+      }
+
+      /* ── DERECHOS DE AUTOR ── */
+      .rec-rights {
+        border-radius: 14px; padding: 2rem 2.2rem;
+        background: #fff; border: 1px solid var(--border);
+        border-left: 4px solid var(--gold-dark);
+        box-shadow: 0 4px 20px rgba(0,0,0,.07);
+      }
+      .rec-rights h2 {
+        font-family: 'Cinzel', serif; font-size: 1.1rem;
+        color: var(--text-primary); margin: 0 0 .9rem; font-weight: 700;
+      }
+      .rec-rights p {
+        font-size: .82rem; color: #4a3f38; line-height: 1.75; margin: 0 0 .7rem;
+      }
+      .rec-rights p:last-child { margin-bottom: 0; }
+      .rec-rights strong { color: var(--text-primary); }
+
       /* ── responsive ── */
       @media (max-width: 860px) {
-        .rec-priests { grid-template-columns: 1fr; }
+        .rec-priests { grid-template-columns: 1fr; max-width: none; }
         .rec-apost   { grid-template-columns: 1fr; }
         .rec-vatican { height: auto; min-height: 320px; }
         .rec-vatican-body { padding: 2rem 1.8rem; max-width: 100%; }
         .rec-vatican-body h2 { font-size: 1.5rem; }
+        .rec-book { grid-template-columns: 1fr; }
+        .rec-book-cover { padding: 2.4rem 2rem 1.6rem; }
+        .rec-book-cover img { max-width: 208px; }
+        .rec-book-body { padding: 1.8rem 1.8rem 2.2rem; text-align: left; }
+        .rec-book-body h2 { font-size: 1.6rem; }
       }
       @media (max-width: 520px) {
         .rec-page { padding: 2.5rem 1rem 4rem; }
         .rec-priest-photo { height: 230px; }
+        .rec-rights { padding: 1.5rem 1.4rem; }
       }
     </style>
 
@@ -370,6 +511,48 @@
           </div>
         </div>
 
+        <!-- LIBRO DEL AUTOR -->
+        <div>
+          <div class="rec-label" data-i18n="topicPages.recursos-recomendados.sec4.eyebrow">Del autor de este sitio</div>
+          <div class="rec-book">
+            <div class="rec-book-cover">
+              <img src="Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg"
+                   alt="Portada de La puerta falsa, de M. Gabriel Castiglia"
+                   data-i18n-alt="topicPages.recursos-recomendados.sec4.coverAlt"
+                   width="700" height="1044" loading="lazy">
+            </div>
+            <div class="rec-book-body">
+              <span class="rec-book-badge" data-i18n="topicPages.recursos-recomendados.sec4.badge">Edición impresa</span>
+              <h2 data-i18n="topicPages.recursos-recomendados.sec4.title">La puerta falsa</h2>
+              <p class="rec-book-author">M. Gabriel Castiglia</p>
+              <blockquote class="rec-book-epigraph">
+                <p data-i18n="topicPages.recursos-recomendados.sec4.epigraph">«De lo existente, unas cosas dependen de nosotros; otras no.»</p>
+                <cite data-i18n="topicPages.recursos-recomendados.sec4.epigraphAuthor">Epicteto</cite>
+              </blockquote>
+              <p class="rec-book-desc" data-i18n="topicPages.recursos-recomendados.sec4.desc">El ocultismo promete lo contrario: poder sobre lo que no depende de nadie, a cambio de lo único que sí está en nuestras manos, el propio juicio. Este libro toma sus textos (grimorios, biblias negras, manuales herméticos, el tarot, la astrología, el «manifestar») y los examina sin prisa, por sus dos caras: las fechas, las fuentes, las contradicciones. No acusa desde ninguna fe ni pide que se le crea; cada cargo se prueba con las páginas del propio género.</p>
+              <p class="rec-book-close" data-i18n="topicPages.recursos-recomendados.sec4.close">No ofrece misterios, sino algo más arduo y más digno: la lucidez.</p>
+
+              <div class="rec-book-langs">
+                <span class="rec-book-langs-label" data-i18n="topicPages.recursos-recomendados.sec4.langsLabel">Publicado en siete idiomas</span>
+                <ul class="rec-book-flags">
+                  <li><img src="Recursos/Im%C3%A1genes/spain-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.es">Español</span></li>
+                  <li><img src="Recursos/Im%C3%A1genes/united-states-of-america-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.en">Inglés</span></li>
+                  <li><img src="Recursos/Im%C3%A1genes/brazil-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.pt">Portugués</span></li>
+                  <li><img src="Recursos/Im%C3%A1genes/france-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.fr">Francés</span></li>
+                  <li><img src="Recursos/Im%C3%A1genes/it-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.it">Italiano</span></li>
+                  <li><img src="Recursos/Im%C3%A1genes/germany-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.de">Alemán</span></li>
+                  <li><img src="Recursos/Im%C3%A1genes/japan-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.ja">Japonés</span></li>
+                </ul>
+              </div>
+
+              <div class="rec-book-links">
+                <a href="https://a.co/d/01Pm2L1y" target="_blank" rel="noopener" class="rec-btn-gold" data-i18n="topicPages.recursos-recomendados.sec4.cta">Ver la tapa dura en Amazon →</a>
+              </div>
+              <p class="rec-book-note" data-i18n="topicPages.recursos-recomendados.sec4.note">El enlace lleva a la edición en tapa dura en inglés, en Amazon Estados Unidos. Cada idioma tiene además su edición en tapa blanda y en Kindle: búscalas en tu idioma, en la tienda Amazon de tu país.</p>
+            </div>
+          </div>
+        </div>
+
         <!-- SACERDOTES -->
         <div>
           <div class="rec-label" data-i18n="topicPages.recursos-recomendados.sec2.eyebrow">Apologética · Formación</div>
@@ -385,20 +568,6 @@
                 <p data-i18n="topicPages.recursos-recomendados.sec2.toro.desc">Apóstol del Rosario y de la devoción mariana. Formación sólida, directa y fiel al Magisterio.</p>
                 <div class="rec-priest-links">
                   <a href="https://www.youtube.com/@padreluistoro." target="_blank" rel="noopener" class="rec-pill">YouTube →</a>
-                </div>
-              </div>
-            </div>
-
-            <div class="rec-priest">
-              <div class="rec-priest-photo">
-                <img src="Recursos/Im%C3%A1genes/padreaguilar.webp" alt="Padre José de Jesús Aguilar" loading="lazy">
-                <span class="rec-priest-country">México</span>
-              </div>
-              <div class="rec-priest-body">
-                <h3>Padre José de Jesús Aguilar</h3>
-                <p data-i18n="topicPages.recursos-recomendados.sec2.aguilar.desc">Teólogo y apologeta. Responde con profundidad las objeciones más difíciles a la fe católica.</p>
-                <div class="rec-priest-links">
-                  <a href="https://www.youtube.com/channel/UCM-59ocZZjJTUcqf9dZL1jg" target="_blank" rel="noopener" class="rec-pill">YouTube →</a>
                 </div>
               </div>
             </div>
@@ -486,26 +655,39 @@
           </div>
         </div>
 
+        <!-- DERECHOS DE AUTOR -->
+        <div>
+          <div class="rec-label" data-i18n="topicPages.recursos-recomendados.sec5.eyebrow">Aviso legal</div>
+          <div class="rec-rights">
+            <h2 data-i18n="topicPages.recursos-recomendados.sec5.title">Derechos de autor</h2>
+            <p data-i18n="topicPages.recursos-recomendados.sec5.p1"><strong>&copy; 2026 M. Gabriel Castiglia. Todos los derechos reservados.</strong> Los textos, artículos y traducciones de este sitio son obra original del autor y están protegidos por la legislación de derecho de autor y por los tratados internacionales en la materia.</p>
+            <p data-i18n="topicPages.recursos-recomendados.sec5.p2">Queda <strong>prohibida</strong> la reproducción, copia, distribución, publicación, traducción o adaptación, total o parcial, por cualquier medio o procedimiento, sin autorización previa y por escrito del autor. Se permite citar pasajes breves con fines de estudio o comentario, siempre que se indique el autor y se enlace a esta página.</p>
+            <p data-i18n="topicPages.recursos-recomendados.sec5.p3"><strong>La puerta falsa</strong> y todas sus ediciones son obra registrada del autor: su texto, su título y su portada no pueden reproducirse ni utilizarse sin autorización.</p>
+            <p data-i18n="topicPages.recursos-recomendados.sec5.p4">Los canales, libros, imágenes y sitios recomendados en esta página pertenecen a sus respectivos autores y titulares. Se enlazan únicamente a título de recomendación, sin vínculo comercial ni contraprestación de ninguna clase.</p>
+          </div>
+        </div>
+
       </div>
     </main>
 
     <footer>
         <p data-i18n="footer.text">&copy; 2026 Fé y Razón. Ad maiorem Dei gloriam.</p>
+        <p class="footer-rights" data-i18n="footer.rights">&copy; 2026 M. Gabriel Castiglia. Todos los derechos reservados. Prohibida la reproducción total o parcial sin autorización escrita del autor.</p>
     </footer>
     
-    <script src="js/main.js" defer></script>
-    <script src="js/translations-es.js?v=2" defer></script>
-    <script src="js/translations-en.js" defer></script>
-    <script src="js/translations-ja.js" defer></script>
-    <script src="js/translations-tl.js" defer></script>
-    <script src="js/translations-da.js" defer></script>
-    <script src="js/translations-la.js" defer></script>
-    <script src="js/translations-fr.js" defer></script>
-    <script src="js/translations-pt.js" defer></script>
-    <script src="js/translations-sw.js" defer></script>
-    <script src="js/translations-it.js" defer></script>
-    <script src="js/translations-ln.js" defer></script>
-    <script src="js/translations-ig.js" defer></script>
-    <script src="js/translations.js?v=2" defer></script>
+    <script src="js/main.js?v=3" defer></script>
+    <script src="js/translations-es.js?v=3" defer></script>
+    <script src="js/translations-en.js?v=3" defer></script>
+    <script src="js/translations-ja.js?v=3" defer></script>
+    <script src="js/translations-tl.js?v=3" defer></script>
+    <script src="js/translations-da.js?v=3" defer></script>
+    <script src="js/translations-la.js?v=3" defer></script>
+    <script src="js/translations-fr.js?v=3" defer></script>
+    <script src="js/translations-pt.js?v=3" defer></script>
+    <script src="js/translations-sw.js?v=3" defer></script>
+    <script src="js/translations-it.js?v=3" defer></script>
+    <script src="js/translations-ln.js?v=3" defer></script>
+    <script src="js/translations-ig.js?v=3" defer></script>
+    <script src="js/translations.js?v=3" defer></script>
 </body>
 </html>

@@ -18,7 +18,7 @@ const translationsIG = {
   topics: {
     eyebrow: "Catechesis Apologetic",
     title: "Isiokwu Okwukwe",
-    subtitle: "Arụmụka siri ike iji mikwuo, ghọta na chebe okwukwe Katọlik",
+    subtitle: "Arụmụka siri ike iji mikwuo, ghọta na chebe okwukwe Katọlik"
 
   },
   article1: {
@@ -204,13 +204,42 @@ const translationsIG = {
       nav: { prevTitle: "Yukarist: Sakrament nke etiti", nextTitle: "Ndị Nsọ na arịrịọ ha" }
     },
     "recursos-recomendados": {
+      sec4: {
+        epigraph: "“N’ihe ndị dị adị, ụfọdụ na-adabere n’anyị; ụfọdụ adabereghị.”",
+        epigraphAuthor: "Epictetus",
+        eyebrow: "Site n'aka onye dere saịtị a",
+        badge: "Mbipụta akwụkwọ",
+        title: "La puerta falsa",
+        desc: "Okpukpe nzuzo na-ekwe nkwa ihe megidere ya: ikike n'ihe na-adaberoghị onye ọ bụla, n'ọnọdụ naanị otu ihe dị n'aka anyị n'ezie, bụ ikpe nke onwe anyị. Akwụkwọ a na-ewere ederede ya (akwụkwọ anwansi, Baịbụl ojii, akwụkwọ ntuziaka hermetic, tarot, astrology, “ịkpọpụta akụnụba”) ma nyochaa ha n'enweghị ọsọ ọsọ, n'akụkụ abụọ: ụbọchị ha, isi mmalite ha, na nkwụghachi okwu ha. Ọ dịghị ebo ebubo site n'okwukwe ọ bụla, ọ dịghịkwa arịọ ka a kwenye na ya; a na-egosi ebubo ọ bụla site na peeji nke ụdị akwụkwọ ahụ n'onwe ya.",
+        close: "Ọ dịghị enye ihe omimi, kama ihe siri ike karịa ma kwesịkwa ntụkwasị obi karịa: nghọta doro anya.",
+        langsLabel: "E bipụtara ya n'asụsụ asaa",
+        langs: {
+          es: "Spanish",
+          en: "Bekee",
+          pt: "Portuguese",
+          fr: "French",
+          it: "Italian",
+          de: "German",
+          ja: "Japanese"
+        },
+        cta: "Lee mbipụta mkpuchi siri ike na Amazon →",
+        note: "Njikọ a na-eduga na mbipụta mkpuchi siri ike n'asụsụ Bekee, na Amazon United States. Asụsụ ọ bụla nwekwara mbipụta mkpuchi dị nro na nke Kindle: chọọ ya n'asụsụ gị, n'ụlọ ahịa Amazon nke obodo gị.",
+        coverAlt: "Mkpuchi akwụkwọ La puerta falsa, nke M. Gabriel Castiglia dere"
+      },
+      sec5: {
+        eyebrow: "Ọkwa iwu",
+        title: "Ikike nwebisiinka",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Ikike niile echekwara.</strong> Ederede, isiokwu na ntụgharị asụsụ dị na saịtị a bụ ọrụ mbụ nke onye edemede, echekwabakwara ha site n'iwu nwebisiinka na nkwekọrịta mba ụwa gbasara ya.",
+        p2: "<strong>A machibidoro</strong> imepụta, idepụta, ikesa, ibipụta, ịtụgharị ma ọ bụ ime mgbanwe, ya niile ma ọ bụ akụkụ ya, n'ụzọ ọ bụla, na-enweghị ikike ederede sitere n'aka onye edemede tupu mgbe ahụ. A na-ekwe ka e hota obere akụkụ maka ọmụmụ ihe ma ọ bụ nkọwa, ma ọ bụrụ na akpọrọ aha onye edemede ma jikọọ na ibe a.",
+        p3: "<strong>La puerta falsa</strong> na mbipụta ya niile bụ ọrụ edebanyere aha onye edemede: ederede ya, aha ya na mkpuchi ya enweghị ike ka e megharịa ma ọ bụ jiri ya mee ihe na-enweghị ikike.",
+        p4: "Ọwa, akwụkwọ, foto na saịtị ndị a kwadoro na ibe a bụ nke ndị dere ha na ndị nwe ha. E jikọtara ha naanị dị ka nkwado, na-enweghị mmekọrịta azụmahịa ma ọ bụ ụgwọ ọ bụla."
+      },
       pageTitle: "Akụrụngwa Akwadoro | Okwukwe na Uche",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Akụrụngwa</span></div><h1>Akụrụngwa Akwadoro</h1><p>Isi mmalite ntụkwasị obi iji mikwuo, ịmụta na ịkekọrịta okwukwe Katọlik.</p><a href="index.html#temas" class="btn-outline-white">Laghachi na Isiokwu</a>`,
       sec1: { eyebrow: "Oche Dị Nsọ", title: "Ebe e si nweta ihe na Vatican", desc: "Akwụkwọ gọọmentị nke Nzukọ-nsọ, dị na webụsaịtị Oche Dị Nsọ." },
       sec2: {
         eyebrow: "Apologetics · Ọzụzụ", title: "Ndị Nchụàjà na Ndị Nkuzi", desc: "Olu kwesịrị ntụkwasị obi nye Magisterium ndị na-akụzi, na-echebe ma na-ekwusa okwukwe na omimi na ịdị uchu.",
         toro:    { desc: "Onye na-amụ banyere nkà mmụta okpukpe na apologetics. Ọ na-aza ajụjụ kachasị ike banyere okwukwe Katọlik n'ụzọ miri emi." },
-        aguilar: { desc: "Ọzụzụ siri ike, kwụ ọtọ, na nke kwesịrị ntụkwasị obi nye magisterium. Vlogs njem site na Ala Nsọ na klaasị Baịbụl." },
         olivera: { desc: "Ọkọ akụkọ ihe mere eme na apologetic nke Augustinian. Ọ na-agbaso echiche uche, ịrọ òtù na njehie ọgbara ọhụrụ site na ịdị uchu." }
       },
       sec3: {
@@ -268,5 +297,6 @@ const translationsIG = {
     ]
   },
   lang: { soon: "Ọ na-abịa" },
-  footer: { text: "&copy; 2026 Okwukwe na Uche. Ad maiorem Dei gloriam." }
+  footer: {
+    rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Ikike niile echekwara.</strong> A machibidoro imepụta ya niile ma ọ bụ akụkụ ya na-enweghị ikike ederede sitere n'aka onye edemede.", text: "&copy; 2026 Okwukwe na Uche. Ad maiorem Dei gloriam." }
 };

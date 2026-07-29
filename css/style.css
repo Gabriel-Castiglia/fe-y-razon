@@ -1476,6 +1476,29 @@ footer p {
   line-height: 1.8;
 }
 
+/* Aviso de derechos: legible y visible, no letra chica escondida */
+.footer-rights {
+  max-width: 780px;
+  margin: 18px auto 0;
+  padding: 16px 24px 0;
+  border-top: 1px solid rgba(212, 165, 116, 0.28);
+  font-size: 12.5px !important;
+  color: rgba(255, 255, 255, 0.62) !important;
+  line-height: 1.75;
+}
+
+.footer-rights strong {
+  color: var(--gold);
+  font-weight: 400;
+}
+
+@media (max-width: 600px) {
+  .footer-rights {
+    padding: 16px 20px 0;
+    font-size: 12px !important;
+  }
+}
+
 /* ────────────────────────────────────────────────────────────── */
 /* RESPONSIVE                                                      */
 /* ────────────────────────────────────────────────────────────── */
