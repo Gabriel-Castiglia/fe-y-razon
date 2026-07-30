@@ -122,15 +122,39 @@ document.addEventListener('DOMContentLoaded', function () {
     }, { rootMargin: '300px' }).observe(contactSection);
   }
 
-  // Lazy-init meditación cuando entra al viewport
+  // Lazy-init meditación cuando entra al viewport.
+  //
+  // Safari en iPhone no arranca un video que todavía no tiene datos. Como este
+  // empieza con preload="none", el primer play() se rechaza en silencio y el
+  // video se queda congelado en el póster: en Chrome se veía bien y en el
+  // teléfono no. Por eso ahora se pide la carga con load(), se marca autoplay
+  // —que es lo que Safari respeta de verdad, mejor que un play() a mano— y se
+  // reintenta cada vez que llegan datos, hasta que esté corriendo.
   const meditacionVid = document.querySelector('.meditacion-video');
   if (meditacionVid) {
+    const arrancarMeditacion = () => {
+      if (!meditacionVid.paused) return;
+      meditacionVid.play().catch(() => {});
+    };
+
     new IntersectionObserver((entries, obs) => {
       if (!entries[0].isIntersecting) return;
-      meditacionVid.preload = 'auto';
-      meditacionVid.play().catch(() => {});
       obs.disconnect();
+      meditacionVid.preload = 'auto';
+      meditacionVid.autoplay = true;
+      meditacionVid.load();
+      arrancarMeditacion();
+      ['loadeddata', 'canplay', 'canplaythrough'].forEach(ev =>
+        meditacionVid.addEventListener(ev, arrancarMeditacion)
+      );
     }, { rootMargin: '300px' }).observe(meditacionVid);
+
+    // Último recurso: con el ahorro de energía de iOS activado, el sistema
+    // bloquea todo arranque automático y solo lo permite tras un gesto. El
+    // primero que haga el visitante lo desbloquea.
+    ['touchstart', 'click'].forEach(ev =>
+      document.addEventListener(ev, arrancarMeditacion, { passive: true })
+    );
   }
 
   // Reiniciar videos activos al volver de background — iOS Safari los congela
