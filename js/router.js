@@ -156,6 +156,18 @@ function runOverlayReveal() {
 function showArticle(slug, skipHistory = false) {
   const cfg = ARTICLES[slug];
   if (!cfg) return;
+
+  // Los diccionarios se cargan de a uno (ver js/translations.js). En la práctica
+  // el del idioma activo ya está para cuando se puede hacer clic, pero si alguien
+  // llega antes —conexión lenta, clic inmediato— acá se esperaría a que llegue en
+  // vez de reventar con "translations[currentLang] is undefined".
+  if (!translations[currentLang]) {
+    if (typeof window.cargarIdioma === 'function') {
+      window.cargarIdioma(currentLang).then(() => showArticle(slug, skipHistory)).catch(() => {});
+    }
+    return;
+  }
+
   const tp = translations[currentLang].topicPages;
   const t  = tp[slug];
   if (!t) return;
@@ -252,7 +264,11 @@ function hideArticle(skipHistory = false) {
   if (mainContent) mainContent.style.display = '';
 
   document.getElementById('header').classList.remove('hero-mode');
-  document.title = 'Fé y Razón | Apologética Católica';
+  // Al cerrar el artículo se vuelve al título de la portada, EN EL IDIOMA ACTIVO:
+  // antes acá había una cadena en español fija, así que cerrar un artículo en
+  // japonés dejaba la pestaña en castellano.
+  const tActual = translations[currentLang];
+  document.title = (tActual && tActual.siteTitle) || 'Fé y Razón | Apologética Católica';
   currentSlug = null;
   if (!skipHistory) history.pushState(null, '', location.pathname);
 

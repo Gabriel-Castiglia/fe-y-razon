@@ -1,5 +1,6 @@
 const translationsLN = {
   logo: "Kondima mpe Mayele",
+  siteTitle: "Kondima mpe Mayele | Apologétique Katolike",
   nav: {
     home: "Ebandeli",
     topics: "Mitó ya makambo",
@@ -60,7 +61,7 @@ const translationsLN = {
   contact: {
     title: "Boyokani", desc: "Ozali na mituna to olingi kosala elongo na biso? Tinda biso message.",
     name: { placeholder: "Nkombo na yo" }, email: { placeholder: "Email na yo" }, subject: { placeholder: "Likambo" }, message: { placeholder: "Message na yo" },
-    submit: "Tinda message", cookieNotice: "Na kotinda formulaire oyo, ondimi ete ba données na yo ekosalelama na misala ya ba troisième mpona kosala système.",
+    submit: "Tinda message", cookieNotice: "Tango otindi formulaire, ba données na yo ekendaka na Formspree, service oyo ekomisaka biso message, mpe esalelamaka kaka mpo na koyanola yo. <a href='privacidad.html'>Ndenge tosalelaka ba données na yo</a>.",
     success: { title: "Message ezwami", desc: "Matondi mingi mpona kokomela biso. Tokopesa yo eyano noki. Ad maiorem Dei gloriam." }
   },
   topicPages: {
@@ -224,7 +225,9 @@ const translationsLN = {
         },
         cta: "Tala buku ya ezipeli makasi na Amazon →",
         note: "Lien ekei na buku ya ezipeli makasi na Angele, na Amazon ya Amerika. Monoko nyonso ezali mpe na buku ya ezipeli pɛtɛɛ mpe ya Kindle: luka yango na monoko na yo, na magazini ya Amazon ya ekolo na yo.",
-        coverAlt: "Ezipeli ya buku The False Door, ya M. Gabriel Castiglia"
+        coverAlt: "Ezipeli ya buku The False Door, ya M. Gabriel Castiglia",
+        // Sin edición propia del libro: se muestra la portada inglesa.
+        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg"
       },
       sec5: {
         eyebrow: "Liyebisi ya mibeko",
@@ -236,6 +239,17 @@ const translationsLN = {
       },
       pageTitle: "Bisaleli oyo epesami toli | Kondima mpe Mayele",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Bisaleli</span></div><h1>Bisaleli oyo epesami toli</h1><p>Biziya ya kondima mpona kokɔtisa, koyekola mpe kokabola kondima ya Katolike.</p><a href="index.html#temas" class="btn-outline-white">Zonga na Mitó ya makambo</a>`,
+      labels: {
+        bible: "Makomi Mosantu →",
+        catechism: "Katekismo →",
+        website: "Site internet →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "Na Espagnol →",
+        toroCountry: "Venezuela",
+        oliveraCountry: "Argentine · QNTLC",
+        heraldosTag: "Équateur"
+      },
       sec1: { eyebrow: "Saint-Siège", title: "Ba sources ya Vatican", desc: "Ba documents officiels ya Eklezia, ezali na site ya Saint-Siège." },
       sec2: {
         eyebrow: "Apologetiki · Mateya", title: "Banganga-nzambe mpe bateyi", desc: "Mingongo ya sembo na Magisterium oyo eteyaka, ebatelaka mpe esakolaka kondima na mozindo mpe bosikisiki.",
@@ -249,8 +263,27 @@ const translationsLN = {
         grat:     { desc: "Biblia ya Yerusalemi na Lingelesi to na Espagnol ya Amérique latine (mpona minoko mosusu tala na page officielle). Na plan d'étude ya kokamwa oyo ezali na ba explications etape na etape mpe ba graphiques, malamu mpona ba neophytes.", tag: "Biblia · Mateya" },
         ewtn:     { desc: "Réseau monene ya télévision Katolike na mokili mobimba. Misa ya mokolo na mokolo, Rosario Mosantu, ba documentaires mpe mateya ngonga 24.", tag: "Televisyo · Radio" }
       },
-      article: `<h2>Vatican</h2><p>Site internet ya leta ya Saint-Siège, wapi okoki kozwa Biblia, Katekismo ya Eklezia Katolike, ba documents papaux mpe mingi mosusu.</p><ul><li><a href="https://www.vatican.va/content/vatican/en.html" target="_blank">Site ya Leta ya Vatican (Anglais)</a></li><li><a href="https://www.vatican.va/archive/ENG0015/_INDEX.HTM" target="_blank">Katekismo ya Eklezia Katolike</a></li></ul><h2>Apologetiki mpe Mateya</h2><h3>Ascension Presents</h3><p>Mokomi ya mikanda ya Katolike oyo apesaka bisaleli ya mateya, kobakisa "Bible in a Year" (Biblia na Mobu Moko).</p><ul><li><a href="https://ascensionpress.com/" target="_blank">Ascension Press</a></li></ul>`,
       nav: { prevTitle: "Bokambi ya Petro", nextTitle: "Bonganga-nzambe na Eklezia Katolike" }
+    },
+    "privacidad": {
+      pageTitle: "Bomoi ya nkuku | Kondima mpe Mayele",
+      linkLabel: "Bomoi ya nkuku",
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Liyebisi ya mibeko</span></div><h1>Bomoi ya nkuku</h1><p>Ba données nini site oyo ezali kozwa, mpo na nini, mpe ekendaka wapi.</p><a href="index.html#temas" class="btn-outline-white">Zonga na Ba thème</a>`,
+      article: `<p>Site oyo esalelaka ba cookies te, ezali na analytique te, elakisaka publicité te, mpe ezali na ba boutons to ba traceurs ya ba réseaux sociaux te. Ba polices, ba images mpe ba vidéos ewutaka na domaine oyo moko: tango ofungoli page, navigateur na yo esengaka eloko te epai ya moto mosusu.</p>
+                <h2>Ba données nini ezali kozwama</h2>
+                <p>Kaka oyo okomaka yo moko na formulaire ya contact: <strong>nkombo, adresse email, sujet mpe message</strong>. Données mosusu ezali kozwama te, mpe formulaire mosusu ezali na site te.</p>
+                <h2>Mpo na nini ezali kosalelama</h2>
+                <p>Kaka mpo na kotanga message mpe koyanola. Etekamaka te, epesamaka te mpo na commerce, mpe esalelamaka ata mokolo moko te mpo na kotinda ba newsletters to publicité.</p>
+                <h2>Ekendaka wapi</h2>
+                <p>Formulaire etindamaka na <strong>Formspree</strong> (formspree.io), service oyo ezwaka message mpe ekomisaka yango epai ya mokomi. Soki osaleli formulaire, ba données wana ezali mpe na se ya mibeko ya service wana, oyo okoki kotanga na <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">politique na bango ya bomoi ya nkuku</a>.</p>
+                <h2>Site ebombami wapi</h2>
+                <p>Ba pages oyo ebimisami na nzela ya <strong>GitHub Pages</strong>. Lokola serveur nyonso ya web, ekomaka ba demandes oyo ezwaka mpo na kopesa ba pages mpe kobatela yango. Ba registres wana ezali na se ya bokonzi ya site oyo te.</p>
+                <h2>Eloko kaka moko ebombamaka na navigateur na yo</h2>
+                <p>Monoko oyo oponi, na se ya clé <strong>language</strong>, na stockage local ya navigateur. Ezali cookie te, etindamaka na serveur moko te mpe eyebisaka moto te: esalisaka kaka ete site efungwama na monoko na yo mbala oyo ekoya. Ekozala kolongolama soki opetoli ba données ya site oyo na navigateur na yo.</p>
+                <h2>Ba liens epai ya ba sites mosusu</h2>
+                <p>Ba pages oyo ezali na ba liens epai ya ba sites ya bato mosusu — Vatican.va, YouTube, Amazon mpe misala oyo tolobeli. Nyonso oyo ekosalema soki obimi awa etambwisami na mibeko ya ba sites wana, kasi na oyo te.</p>
+                <h2>Mokonzi mpe contact</h2>
+                <p>Mokonzi ya site oyo ezali <strong>M. Gabriel Castiglia</strong>. Mpo na motuna nyonso na ntina ya ba données na yo — ata mpe kosenga ete message oyo otindaki elongolama — koma na nzela ya <a href="index.html#contacto">formulaire ya contact</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "Na site oyo | Kondima mpe Mayele",
@@ -300,3 +333,6 @@ const translationsLN = {
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Makoki nyonso ebombami.</strong> Epekisami kokopi mobimba to ndambo soki ndingisa ya mokanda ya mokomi ezali te.", text: "&copy; 2026 Kondima mpe Mayele. Ad maiorem Dei gloriam." }
 };
+// Se expone en window para que el cargador por idioma pueda tomarlo por nombre.
+// El `const` de arriba queda igual: es lo que leen los verificadores de _TRABAJO.
+if (typeof window !== 'undefined') window.translationsLN = translationsLN;

@@ -1,5 +1,6 @@
 const translationsPT = {
   logo: "Fé e Razão",
+  siteTitle: "Fé e Razão | Apologética Católica",
   nav: {
     home: "Início",
     topics: "Temas",
@@ -60,7 +61,7 @@ const translationsPT = {
   contact: {
     title: "Contato", desc: "Você tem perguntas ou quer colaborar conosco? Envie-nos uma mensagem.",
     name: { placeholder: "Seu nome" }, email: { placeholder: "Seu e-mail" }, subject: { placeholder: "Assunto" }, message: { placeholder: "Sua mensagem" },
-    submit: "Enviar mensagem", cookieNotice: "Ao enviar este formulário, você concorda que seus dados sejam processados por serviços de terceiros para o funcionamento do sistema.",
+    submit: "Enviar mensagem", cookieNotice: "Ao enviar o formulário, os seus dados passam pelo Formspree, o serviço que nos entrega a mensagem, e são usados só para lhe responder. <a href='privacidad.html'>Como tratamos os seus dados</a>.",
     success: { title: "Mensagem recebida", desc: "Obrigado por nos escrever. Responderemos o mais breve possível. Ad maiorem Dei gloriam." }
   },
   topicPages: {
@@ -301,7 +302,8 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
         },
         cta: "Ver a capa dura na Amazon →",
         note: "O link leva à edição em capa dura em inglês, na Amazon dos Estados Unidos. Cada idioma tem também a sua edição em capa comum e em Kindle: procure-a no seu idioma, na loja Amazon do seu país.",
-        coverAlt: "Capa de A Porta Falsa, de M. Gabriel Castiglia"
+        coverAlt: "Capa de A Porta Falsa, de M. Gabriel Castiglia",
+        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-pt.jpg"
       },
       sec5: {
         eyebrow: "Aviso legal",
@@ -313,6 +315,17 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
       },
       pageTitle: "Recursos recomendados | Fé e Razão",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Recursos</span></div><h1>Recursos recomendados</h1><p>Fontes de confiança para aprofundar, formar-se e partilhar a fé católica.</p><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+      labels: {
+        bible: "Sagrada Escritura →",
+        catechism: "Catecismo →",
+        website: "Site →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "Em espanhol →",
+        toroCountry: "Venezuela",
+        oliveraCountry: "Argentina · QNTLC",
+        heraldosTag: "Equador"
+      },
       sec1: { eyebrow: "Santa Sé", title: "Fontes vaticanas", desc: "Documentos oficiais da Igreja, disponíveis no site da Santa Sé." },
       sec2: {
         eyebrow: "Apologética · Formação", title: "Sacerdotes e formadores", desc: "Vozes fiéis ao Magistério que ensinam, defendem e proclamam a fé com profundidade e rigor.",
@@ -326,8 +339,27 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
         grat:     { desc: "Bíblia de Jerusalém em inglês ou espanhol latino (para outros idiomas verifique na página oficial). Com plano de estudo único contendo explicações passo a passo e gráficos, ideal para neófitos.", tag: "Bíblia · Formação" },
         ewtn:     { desc: "A maior rede de televisão católica do mundo. Missa diária, Santo Rosário, documentários e formação 24 horas.", tag: "Televisão · Rádio" }
       },
-      article: `<h2>Vaticano</h2><p>O site oficial da Santa Sé, onde pode encontrar a Bíblia, o Catecismo da Igreja Católica, documentos papais e muito mais.</p><ul><li><a href="https://www.vatican.va/content/vatican/pt.html" target="_blank">Site Oficial do Vaticano</a></li><li><a href="https://www.vatican.va/archive/cathechism_po/index_new/prima-pagina-cic_po.html" target="_blank">Catecismo da Igreja Católica</a></li></ul><h2>Apologética e Formação</h2><h3>Padre Paulo Ricardo</h3><p>Conhecido pela sua profunda catequese e apologética, o Padre Paulo Ricardo oferece uma defesa e ensino sólidos da fé católica no Brasil.</p><ul><li><a href="https://padrepauloricardo.org/" target="_blank">Site Oficial Padre Paulo Ricardo</a></li></ul>`,
       nav: { prevTitle: "A primazia de Pedro", nextTitle: "O Sacerdócio na Igreja Católica" }
+    },
+    "privacidad": {
+      pageTitle: "Privacidade | Fé e Razão",
+      linkLabel: "Privacidade",
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Aviso legal</span></div><h1>Privacidade</h1><p>Que dados este site recolhe, para que servem e por onde passam.</p><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+      article: `<p>Este site não usa cookies, não tem analítica, não exibe publicidade e não inclui botões nem rastreadores de redes sociais. As fontes, as imagens e os vídeos são servidos deste mesmo domínio: ao abrir uma página, o seu navegador não pede nada a nenhum terceiro.</p>
+                <h2>Que dados são recolhidos</h2>
+                <p>Apenas os que você escreve no formulário de contato: <strong>nome, e-mail, assunto e mensagem</strong>. Nenhum outro dado é recolhido, e não há mais nenhum formulário no site.</p>
+                <h2>Para que servem</h2>
+                <p>Somente para ler a mensagem e respondê-la. Não são vendidos, não são cedidos para fins comerciais e nunca são usados para enviar boletins ou publicidade.</p>
+                <h2>Por onde passam</h2>
+                <p>O formulário é enviado ao <strong>Formspree</strong> (formspree.io), o serviço que recebe a mensagem e a entrega ao autor. Ao usar o formulário, esses dados ficam também sujeitos às condições desse serviço, que podem ser consultadas na <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">sua política de privacidade</a>.</p>
+                <h2>Onde o site está hospedado</h2>
+                <p>Estas páginas são publicadas através do <strong>GitHub Pages</strong>. Como qualquer servidor web, ele registra as solicitações que recebe para poder entregar as páginas e protegê-las de abusos. Esses registros não estão sob o controle deste site.</p>
+                <h2>A única coisa guardada no seu navegador</h2>
+                <p>O idioma que você escolhe, sob a chave <strong>language</strong>, no armazenamento local do navegador. Não é um cookie, não é enviado a nenhum servidor e não identifica ninguém: serve apenas para que o site abra no seu idioma da próxima vez. Você pode apagá-lo limpando os dados deste site no navegador.</p>
+                <h2>Links para outros sites</h2>
+                <p>Estas páginas remetem a sites de terceiros — Vatican.va, YouTube, Amazon e os apostolados recomendados. O que acontecer depois que você sair daqui rege-se pelas políticas desses sites, não por esta.</p>
+                <h2>Responsável e contato</h2>
+                <p>O responsável por este site é <strong>M. Gabriel Castiglia</strong>. Para qualquer questão sobre os seus dados — incluindo pedir que uma mensagem enviada seja apagada — escreva pelo <a href="index.html#contacto">formulário de contato</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "Sobre este site | Fé e Razão",
@@ -376,3 +408,6 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Todos os direitos reservados.</strong> Proibida a reprodução total ou parcial sem autorização escrita do autor.", text: "&copy; 2026 Fé e Razão. Ad maiorem Dei gloriam." }
 };
+// Se expone en window para que el cargador por idioma pueda tomarlo por nombre.
+// El `const` de arriba queda igual: es lo que leen los verificadores de _TRABAJO.
+if (typeof window !== 'undefined') window.translationsPT = translationsPT;

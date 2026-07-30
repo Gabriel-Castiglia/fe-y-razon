@@ -1,5 +1,6 @@
 const translationsJA = {
   logo: "信仰と理性",
+  siteTitle: "信仰と理性 | カトリック護教論",
   nav: {
     home: "ホーム",
     topics: "トピック",
@@ -124,7 +125,7 @@ const translationsJA = {
     subject: { placeholder: "件名" },
     message: { placeholder: "あなたのメッセージ" },
     submit: "メッセージを送る",
-    cookieNotice: "このフォームを送信することで、システムの運用のためにサードパーティサービスによってデータが処理されることに同意したことになります。",
+    cookieNotice: "フォームを送信すると、入力内容はメッセージを届けるサービスである Formspree に送られ、返信のためだけに使用されます。<a href='privacidad.html'>データの取り扱いについて</a>",
     success: {
       title: "メッセージを受け取りました",
       desc: "ご連絡ありがとうございます。できるだけ早くお返事いたします。Ad maiorem Dei gloriam."
@@ -664,7 +665,8 @@ const translationsJA = {
         },
         cta: "Amazonでハードカバーを見る →",
         note: "リンク先はAmazon米国の英語版ハードカバーです。各言語にはペーパーバック版とKindle版もあります。お住まいの国のAmazonストアで、それぞれの言語版をお探しください。",
-        coverAlt: "M. Gabriel Castiglia『偽りの扉』の表紙"
+        coverAlt: "M. Gabriel Castiglia『偽りの扉』の表紙",
+        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-ja.jpg"
       },
       sec5: {
         eyebrow: "法的告知",
@@ -682,6 +684,17 @@ const translationsJA = {
             <h1>おすすめページ</h1>
             <p>カトリックの信仰を深め、学び、分かち合うための信頼できる情報源。</p>
             <a href="index.html#temas" class="btn-outline-white">トピックに戻る</a>`,
+      labels: {
+        bible: "聖書 →",
+        catechism: "カテキズム →",
+        website: "ウェブサイト →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "スペイン語版 →",
+        toroCountry: "ベネズエラ",
+        oliveraCountry: "アルゼンチン · QNTLC",
+        heraldosTag: "エクアドル"
+      },
       sec1: { eyebrow: "聖座", title: "バチカンの資料", desc: "聖座の公式サイトで入手できる教会の公式文書。" },
       sec2: {
         eyebrow: "護教学・養成", title: "司祭と教育者", desc: "教導権に忠実な声として、深みと厳密さをもって信仰を教え、守り、宣べ伝える人々。",
@@ -695,51 +708,36 @@ const translationsJA = {
         grat:     { desc: "英語またはラテンアメリカスペイン語のエルサレム聖書（他の言語については公式ページで確認してください）。段階的な説明とグラフィックを含む独自の学習計画で、初心者に最適。", tag: "聖書・養成" },
         ewtn:     { desc: "世界最大のカトリックテレビネットワーク。毎日のミサ、聖ロザリオ、ドキュメンタリー、24時間の養成。", tag: "テレビ・ラジオ" }
       },
-      article: `<h2>バチカン</h2>
-                <p>聖座の公式ウェブサイト。聖書、カトリック教会のカテキズム、教皇文書など、多くの情報を見つけることができます。</p>
-                <ul>
-                    <li><a href="https://www.vatican.va/content/vatican/ja.html" target="_blank">バチカン公式ウェブサイト</a></li>
-                    <li><a href="https://www.vatican.va/archive/catechism_jp/index_jp.htm" target="_blank">カトリック教会のカテキズム（日本語）</a></li>
-                </ul>
-
-                <h2>弁証論と養成</h2>
-                <h3>ルイス・トロ神父</h3>
-                <p>弁証論的な講演や討論で知られるルイス・トロ神父は、カトリック信仰の確固たる擁護を提供しています。</p>
-                <ul>
-                    <li><a href="https://www.youtube.com/@PadreLuisToroOficial" target="_blank">ルイス・トロ神父公式YouTubeチャンネル</a></li>
-                </ul>
-
-
-                <h3>エクアドルの福音の使者たち</h3>
-                <p>教皇庁の権利を有する信徒の協会で、会員の聖化と福音化を目指しています。</p>
-                <ul>
-                    <li><a href="https://heraldosdelevangelio.ec/" target="_blank">エクアドルの福音の使者たち公式ウェブサイト</a></li>
-                </ul>
-
-                <h3>ケ・ノ・テ・ラ・クエンテン</h3>
-                <p>カトリック弁証論に特化したプラットフォームで、神話を暴き、養成を提供しています。</p>
-                <ul>
-                    <li><a href="https://quenotelacuenten.org/" target="_blank">ケ・ノ・テ・ラ・クエンテン公式ウェブサイト</a></li>
-                    <li><a href="https://www.youtube.com/@quenotelacuenten" target="_blank">ケ・ノ・テ・ラ・クエンテンYouTubeチャンネル</a></li>
-                </ul>
-
-                <h2>祈りと聖書研究のためのリソース</h2>
-                <h3>ラフ・ロザリオ</h3>
-                <p>軍事的な伝統と信仰に触発された、頑丈で耐久性のあるロザリオの製作。</p>
-                <ul>
-                    <li><a href="https://roughrosaries.com/" target="_blank">ラフ・ロザリオ公式ウェブサイト</a></li>
-                </ul>
-
-                <h3>アセンション・プレゼンツ</h3>
-                <p>マイク・シュミッツ神父による人気の「バイブル・イン・ア・イヤー」シリーズや「ザ・グレート・アドベンチャー・カトリック・バイブル」を含む、養成リソースを提供するカトリック出版社。</p>
-                <ul>
-                    <li><a href="https://ascensionpress.com/collections/the-great-adventure-catholic-bible" target="_blank">ザ・グレート・アドベンチャー・カトリック・バイブル</a></li>
-                    <li><a href="https://ascensionpress.com/pages/biy-registration" target="_blank">バイブル・イン・ア・イヤー（ポッドキャスト）</a></li>
-                </ul>`,
       nav: {
         prevTitle: "ペトロの首位権",
         nextTitle: "カトリック教会の司祭職"
       }
+    },
+    "privacidad": {
+      pageTitle: "プライバシー | 信仰と理性",
+      linkLabel: "プライバシー",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">法的通知</span>
+            </div>
+            <h1>プライバシー</h1>
+            <p>当サイトが取得するデータ、その利用目的、そして送信先について。</p>
+            <a href="index.html#temas" class="btn-outline-white">トピックに戻る</a>`,
+      article: `<p>当サイトはクッキーを使用せず、アクセス解析も、広告も、ソーシャルメディアのボタンやトラッカーも一切ありません。フォント、画像、動画はすべて当ドメインから配信されます。ページを開いても、ブラウザが第三者に何かを要求することはありません。</p>
+                <h2>取得するデータ</h2>
+                <p>お問い合わせフォームにご自身で入力された内容のみです。<strong>お名前、メールアドレス、件名、メッセージ</strong>。それ以外のデータは取得しておらず、サイト内に他のフォームはありません。</p>
+                <h2>利用目的</h2>
+                <p>メッセージを読み、返信するためだけに使用します。販売も、商業目的での提供も行わず、ニュースレターや広告の送信にも使用しません。</p>
+                <h2>データの送信先</h2>
+                <p>フォームは <strong>Formspree</strong>（formspree.io）に送信されます。メッセージを受け取り、著者に届けるサービスです。フォームをご利用の際は、そのデータは同サービスの条件の対象にもなります。詳細は<a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">同社のプライバシーポリシー</a>をご覧ください。</p>
+                <h2>サイトのホスティング</h2>
+                <p>当サイトは <strong>GitHub Pages</strong> で公開されています。ウェブサーバーである以上、ページの配信と不正利用の防止のために受信したリクエストが記録されます。この記録は当サイトの管理下にはありません。</p>
+                <h2>ブラウザに保存される唯一のもの</h2>
+                <p>お選びいただいた言語が、<strong>language</strong> というキーでブラウザのローカルストレージに保存されます。これはクッキーではなく、サーバーに送信されることもなく、個人を特定するものでもありません。次回も同じ言語で表示するためだけのものです。ブラウザから当サイトのデータを消去すれば削除されます。</p>
+                <h2>外部サイトへのリンク</h2>
+                <p>当サイトは第三者のサイト（Vatican.va、YouTube、Amazon、推薦する使徒活動団体など）にリンクしています。当サイトを離れた後のことは、それぞれのサイトの方針に従うものであり、本方針の対象外です。</p>
+                <h2>管理者と連絡先</h2>
+                <p>当サイトの管理者は <strong>M. Gabriel Castiglia</strong> です。ご自身のデータに関するお問い合わせ（送信されたメッセージの削除のご依頼を含む）は、<a href="index.html#contacto">お問い合わせフォーム</a>よりご連絡ください。</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "このサイトについて | 信仰と理性",
@@ -793,3 +791,6 @@ const translationsJA = {
     text: "&copy; 2026 信仰と理性。Ad maiorem Dei gloriam."
   }
 };
+// Se expone en window para que el cargador por idioma pueda tomarlo por nombre.
+// El `const` de arriba queda igual: es lo que leen los verificadores de _TRABAJO.
+if (typeof window !== 'undefined') window.translationsJA = translationsJA;

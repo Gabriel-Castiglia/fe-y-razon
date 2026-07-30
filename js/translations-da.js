@@ -1,5 +1,6 @@
 const translationsDA = {
   logo: "Tro og Fornuft",
+  siteTitle: "Tro og Fornuft | Katolsk apologetik",
   nav: {
     home: "Hjem",
     topics: "Emner",
@@ -124,7 +125,7 @@ const translationsDA = {
     subject: { placeholder: "Emne" },
     message: { placeholder: "Din besked" },
     submit: "Send besked",
-    cookieNotice: "Ved at indsende denne formular accepterer du, at dine data behandles af tredjepartstjenester for systemets drift.",
+    cookieNotice: "Når du sender formularen, går dine data til Formspree, tjenesten der leverer beskeden til os, og de bruges kun til at svare dig. <a href='privacidad.html'>Sådan behandler vi dine data</a>.",
     success: {
       title: "Besked modtaget",
       desc: "Tak fordi du skrev til os. Vi vil svare hurtigst muligt. Ad maiorem Dei gloriam."
@@ -664,7 +665,9 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
         },
         cta: "Se den indbundne udgave på Amazon →",
         note: "Linket fører til den indbundne udgave på engelsk hos Amazon USA. Hvert sprog har desuden sin egen paperback- og Kindle-udgave: søg efter den på dit eget sprog i Amazon-butikken i dit land.",
-        coverAlt: "Omslag til The False Door af M. Gabriel Castiglia"
+        coverAlt: "Omslag til The False Door af M. Gabriel Castiglia",
+        // Sin edición propia del libro: se muestra la portada inglesa.
+        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg"
       },
       sec5: {
         eyebrow: "Juridisk meddelelse",
@@ -682,6 +685,17 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
             <h1>Venlige Sider</h1>
             <p>Pålidelige kilder til at uddybe, lære og dele den katolske tro.</p>
             <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+      labels: {
+        bible: "Den Hellige Skrift →",
+        catechism: "Katekismus →",
+        website: "Websted →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "På spansk →",
+        toroCountry: "Venezuela",
+        oliveraCountry: "Argentina · QNTLC",
+        heraldosTag: "Ecuador"
+      },
       sec1: { eyebrow: "Den Hellige Stol", title: "Vatikanske kilder", desc: "Officielle kirkelige dokumenter, tilgængelige på Den Hellige Stols websted." },
       sec2: {
         eyebrow: "Apologetik · Dannelse", title: "Præster og undervisere", desc: "Stemmer, der er tro mod Læreembedet, og som underviser i, forsvarer og forkynder troen med dybde og grundighed.",
@@ -695,51 +709,36 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
         grat:     { desc: "Jerusalems Bibel på engelsk eller latinamerikansk spansk (for andre sprog, tjek den officielle side). Med en unik studieplan med trin-for-trin forklaringer og grafik, ideel til neofytter.", tag: "Bibel · Dannelse" },
         ewtn:     { desc: "Verdens største katolske tv-netværk. Daglig messe, Den hellige rosenkrans, dokumentarer og dannelse døgnet rundt.", tag: "TV · Radio" }
       },
-      article: `<h2>Vatikanet</h2>
-                <p>Det officielle websted for Den Hellige Stol, hvor du kan finde Bibelen, Den Katolske Kirkes Katekismus, pavelige dokumenter og meget mere.</p>
-                <ul>
-                    <li><a href="https://www.vatican.va/content/vatican/en.html" target="_blank">Vatikanets officielle hjemmeside</a></li>
-                    <li><a href="https://www.vatican.va/archive/ENG0015/_INDEX.HTM" target="_blank">Den Katolske Kirkes Katekismus (Engelsk)</a></li>
-                </ul>
-
-                <h2>Apologetik og dannelse</h2>
-                <h3>Fader Luis Toro</h3>
-                <p>Kendt for sine apologetiske konferencer og debatter, Fader Luis Toro tilbyder et solidt forsvar for den katolske tro.</p>
-                <ul>
-                    <li><a href="https://www.youtube.com/@PadreLuisToroOficial" target="_blank">Fader Luis Toro Officiel YouTube-kanal</a></li>
-                </ul>
-
-
-                <h3>Heraldos del Evangelio Ecuador</h3>
-                <p>En forening af troende af pavelig ret, der søger helliggørelse af sine medlemmer og evangelisering.</p>
-                <ul>
-                    <li><a href="https://heraldosdelevangelio.ec/" target="_blank">Officiel hjemmeside for Heraldos del Evangelio Ecuador</a></li>
-                </ul>
-
-                <h3>Que No Te La Cuenten</h3>
-                <p>Platform dedikeret til katolsk apologetik, afliver myter og tilbyder dannelse.</p>
-                <ul>
-                    <li><a href="https://quenotelacuenten.org/" target="_blank">Officiel hjemmeside for Que No Te La Cuenten</a></li>
-                    <li><a href="https://www.youtube.com/@quenotelacuenten" target="_blank">YouTube-kanal for Que No Te La Cuenten</a></li>
-                </ul>
-
-                <h2>Ressourcer til bøn og bibelstudie</h2>
-                <h3>Rough Rosaries</h3>
-                <p>Håndværk af robuste og holdbare rosenkranse, inspireret af militær tradition og tro.</p>
-                <ul>
-                    <li><a href="https://roughrosaries.com/" target="_blank">Officiel hjemmeside for Rough Rosaries</a></li>
-                </ul>
-
-                <h3>Ascension Presents</h3>
-                <p>Et katolsk forlag, der tilbyder dannelsesressourcer, herunder den populære serie "Bible in a Year" med fader Mike Schmitz og "The Great Adventure Catholic Bible".</p>
-                <ul>
-                    <li><a href="https://ascensionpress.com/collections/the-great-adventure-catholic-bible" target="_blank">The Great Adventure Catholic Bible</a></li>
-                    <li><a href="https://ascensionpress.com/pages/biy-registration" target="_blank">The Bible in a Year (Podcast)</a></li>
-                </ul>`,
       nav: {
         prevTitle: "Peters primat",
         nextTitle: "Præstedømmet i den katolske kirke"
       }
+    },
+    "privacidad": {
+      pageTitle: "Privatliv | Tro og Fornuft",
+      linkLabel: "Privatliv",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Juridisk meddelelse</span>
+            </div>
+            <h1>Privatliv</h1>
+            <p>Hvilke data dette websted indsamler, hvad de bruges til, og hvor de sendes hen.</p>
+            <a href="index.html#temas" class="btn-outline-white">Tilbage til Emner</a>`,
+      article: `<p>Dette websted bruger ingen cookies, har ingen analyseværktøjer, viser ingen reklamer og indeholder hverken knapper eller sporingsværktøjer fra sociale medier. Skrifttyper, billeder og videoer leveres fra dette samme domæne: når du åbner en side, beder din browser ikke om noget fra tredjepart.</p>
+                <h2>Hvilke data indsamles</h2>
+                <p>Kun det, du selv skriver i kontaktformularen: <strong>navn, e-mailadresse, emne og besked</strong>. Ingen andre data indsamles, og der findes ingen anden formular nogen steder på webstedet.</p>
+                <h2>Hvad de bruges til</h2>
+                <p>Udelukkende til at læse beskeden og svare på den. De sælges ikke, videregives ikke til kommercielle formål og bruges aldrig til nyhedsbreve eller reklamer.</p>
+                <h2>Hvor de sendes hen</h2>
+                <p>Formularen sendes til <strong>Formspree</strong> (formspree.io), tjenesten der modtager beskeden og leverer den til forfatteren. Ved at bruge formularen er disse data også omfattet af den tjenestes betingelser, som kan læses i <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">deres privatlivspolitik</a>.</p>
+                <h2>Hvor webstedet er hostet</h2>
+                <p>Siderne udgives via <strong>GitHub Pages</strong>. Som enhver webserver logger den de forespørgsler, den modtager, for at kunne levere siderne og beskytte dem mod misbrug. Disse logfiler er ikke under dette websteds kontrol.</p>
+                <h2>Det eneste, der gemmes i din browser</h2>
+                <p>Det sprog du vælger, under nøglen <strong>language</strong>, i browserens lokale lager. Det er ikke en cookie, det sendes aldrig til nogen server, og det identificerer ingen: det sørger blot for, at webstedet åbner på dit sprog næste gang. Det fjernes ved at rydde webstedets data i browseren.</p>
+                <h2>Links til andre websteder</h2>
+                <p>Disse sider linker til tredjepartswebsteder — Vatican.va, YouTube, Amazon og de anbefalede apostolater. Hvad der sker, når du har forladt dette websted, er omfattet af de pågældende websteders politikker, ikke af denne.</p>
+                <h2>Ansvarlig og kontakt</h2>
+                <p>Ansvarlig for dette websted er <strong>M. Gabriel Castiglia</strong>. Har du spørgsmål om dine data — herunder ønske om at få slettet en besked, du har sendt — så skriv via <a href="index.html#contacto">kontaktformularen</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "Om dette sted | Tro og Fornuft",
@@ -793,3 +792,6 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
     text: "&copy; 2026 Tro og Fornuft. Ad maiorem Dei gloriam."
   }
 };
+// Se expone en window para que el cargador por idioma pueda tomarlo por nombre.
+// El `const` de arriba queda igual: es lo que leen los verificadores de _TRABAJO.
+if (typeof window !== 'undefined') window.translationsDA = translationsDA;

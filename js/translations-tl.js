@@ -1,5 +1,6 @@
 const translationsTL = {
   logo: "Pananampalataya at Dahilan",
+  siteTitle: "Pananampalataya at Dahilan | Katolikong Apologetika",
   nav: {
     home: "Simula",
     topics: "Mga Paksa",
@@ -124,7 +125,7 @@ const translationsTL = {
     subject: { placeholder: "Paksa" },
     message: { placeholder: "Ang iyong mensahe" },
     submit: "Magpadala ng mensahe",
-    cookieNotice: "Sa pagpapadala ng form na ito, sumasang-ayon ka na ang iyong datos ay ipoproseso ng mga serbisyo ng third-party para sa operasyon ng system.",
+    cookieNotice: "Kapag ipinadala mo ang form, ang iyong datos ay dumadaan sa Formspree, ang serbisyong naghahatid sa amin ng mensahe, at ginagamit lamang para sagutin ka. <a href='privacidad.html'>Paano namin pinangangasiwaan ang iyong datos</a>.",
     success: {
       title: "Natanggap ang mensahe",
       desc: "Salamat sa iyong mensahe. Tutugon kami sa lalong madaling panahon. Ad maiorem Dei gloriam."
@@ -664,7 +665,9 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
         },
         cta: "Tingnan ang hardcover sa Amazon →",
         note: "Ang link ay patungo sa edisyong hardcover sa Ingles, sa Amazon Estados Unidos. May sariling edisyong paperback at Kindle ang bawat wika: hanapin ito sa inyong wika, sa tindahan ng Amazon sa inyong bansa.",
-        coverAlt: "Pabalat ng The False Door, ni M. Gabriel Castiglia"
+        coverAlt: "Pabalat ng The False Door, ni M. Gabriel Castiglia",
+        // Sin edición propia del libro: se muestra la portada inglesa.
+        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg"
       },
       sec5: {
         eyebrow: "Paunawang legal",
@@ -682,6 +685,17 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
             <h1>Mga Inirerekomendang Link</h1>
             <p>Mga pinagkakatiwalaang pinagkukunan para sa pagpapalalim, pag-aaral, at pagbabahagi ng Katolikong pananampalataya.</p>
             <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
+      labels: {
+        bible: "Banal na Kasulatan →",
+        catechism: "Katesismo →",
+        website: "Website →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "Sa Espanyol →",
+        toroCountry: "Venezuela",
+        oliveraCountry: "Argentina · QNTLC",
+        heraldosTag: "Ecuador"
+      },
       sec1: { eyebrow: "Banal na Luklukan", title: "Mga Mapagkukunan ng Vaticano", desc: "Mga opisyal na dokumento ng Simbahan, available sa website ng Holy See." },
       sec2: {
         eyebrow: "Apologetika · Pormasyon", title: "Mga Pari at Tagapagturo", desc: "Mga tinig na tapat sa Magisterium na nagtuturo, nagtatanggol, at nagpapahayag ng pananampalataya nang may kalaliman at kahusayan.",
@@ -696,51 +710,36 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
         ewtn:     { desc: "Ang pinakamalaking Katolikong television network sa mundo. Araw-araw na Misa, Banal na Rosaryo, mga dokumentaryo, at pagpapalakas ng pananampalataya nang 24 na oras.", tag: "Telebisyon · Radyo" }
       }
       ,
-      article: `<h2>Vaticano</h2>
-                <p>Ang opisyal na website ng Banal na Luklukan, kung saan makikita mo ang Biblia, ang Katesismo ng Simbahang Katoliko, mga dokumento ng papa, at marami pang iba.</p>
-                <ul>
-                    <li><a href="https://www.vatican.va/content/vatican/en.html" target="_blank">Opisyal na Website ng Vaticano</a></li>
-                    <li><a href="https://www.vatican.va/archive/ENG0015/_INDEX.HTM" target="_blank">Katesismo ng Simbahang Katoliko (Ingles)</a></li>
-                </ul>
-
-                <h2>Apologetika at Pormasyon</h2>
-                <h3>Padre Luis Toro</h3>
-                <p>Kilala sa kanyang mga kumperensya at debateng apologetiko, si Padre Luis Toro ay nag-aalok ng matibay na pagtatanggol sa pananampalatayang Katoliko.</p>
-                <ul>
-                    <li><a href="https://www.youtube.com/@PadreLuisToroOficial" target="_blank">Opisyal na YouTube Channel ni Padre Luis Toro</a></li>
-                </ul>
-
-
-                <h3>Heraldos del Evangelio Ecuador</h3>
-                <p>Isang asosasyon ng mga tapat sa karapatang pontipikal na naglalayong magpakabanal ang mga miyembro nito at mag-ebanghelyo.</p>
-                <ul>
-                    <li><a href="https://heraldosdelevangelio.ec/" target="_blank">Opisyal na Website ng Heraldos del Evangelio Ecuador</a></li>
-                </ul>
-
-                <h3>Que No Te La Cuenten</h3>
-                <p>Platapormang nakatuon sa apologetikong Katoliko, nagpapasinungaling sa mga mito at nag-aalok ng pormasyon.</p>
-                <ul>
-                    <li><a href="https://quenotelacuenten.org/" target="_blank">Opisyal na Website ng Que No Te La Cuenten</a></li>
-                    <li><a href="https://www.youtube.com/@quenotelacuenten" target="_blank">YouTube Channel ng Que No Te La Cuenten</a></li>
-                </ul>
-
-                <h2>Mga Mapagkukunan para sa Panalangin at Pag-aaral ng Biblia</h2>
-                <h3>Rough Rosaries</h3>
-                <p>Paggawa ng matitibay at matatagal na rosaryo, inspirasyon ng tradisyong militar at pananampalataya.</p>
-                <ul>
-                    <li><a href="https://roughrosaries.com/" target="_blank">Opisyal na Website ng Rough Rosaries</a></li>
-                </ul>
-
-                <h3>Ascension Presents</h3>
-                <p>Isang Katolikong publisher na nag-aalok ng mga mapagkukunan para sa pormasyon, kabilang ang sikat na seryeng "Bible in a Year" kasama si Padre Mike Schmitz at "The Great Adventure Catholic Bible".</p>
-                <ul>
-                    <li><a href="https://ascensionpress.com/collections/the-great-adventure-catholic-bible" target="_blank">The Great Adventure Catholic Bible</a></li>
-                    <li><a href="https://ascensionpress.com/pages/biy-registration" target="_blank">The Bible in a Year (Podcast)</a></li>
-                </ul>`,
       nav: {
         prevTitle: "Ang Pangunguna ni Pedro",
         nextTitle: "Ang Pagkasaserdote sa Simbahang Katoliko"
       }
+    },
+    "privacidad": {
+      pageTitle: "Privacy | Pananampalataya at Dahilan",
+      linkLabel: "Privacy",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Paunawang legal</span>
+            </div>
+            <h1>Privacy</h1>
+            <p>Anong datos ang kinokolekta ng site na ito, para saan ito ginagamit, at saan ito napupunta.</p>
+            <a href="index.html#temas" class="btn-outline-white">Bumalik sa mga Paksa</a>`,
+      article: `<p>Ang site na ito ay walang cookies, walang analytics, walang advertising, at walang mga button o tracker ng social media. Ang mga font, larawan at video ay mula sa mismong domain na ito: kapag binuksan mo ang isang pahina, walang hinihingi ang iyong browser sa kahit anong third party.</p>
+                <h2>Anong datos ang kinokolekta</h2>
+                <p>Tanging ang isinusulat mo sa contact form: <strong>pangalan, email, paksa at mensahe</strong>. Walang ibang datos na kinokolekta, at wala nang ibang form sa buong site.</p>
+                <h2>Para saan ito ginagamit</h2>
+                <p>Para lamang basahin ang mensahe at sagutin ito. Hindi ito ipinagbibili, hindi ibinabahagi para sa komersyo, at hindi kailanman ginagamit para sa newsletter o patalastas.</p>
+                <h2>Saan ito napupunta</h2>
+                <p>Ipinapadala ang form sa <strong>Formspree</strong> (formspree.io), ang serbisyong tumatanggap ng mensahe at naghahatid nito sa may-akda. Sa paggamit ng form, ang datos na iyon ay saklaw din ng mga tuntunin ng serbisyong iyon, na mababasa sa <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">kanilang patakaran sa privacy</a>.</p>
+                <h2>Saan naka-host ang site</h2>
+                <p>Ang mga pahinang ito ay inilalathala sa pamamagitan ng <strong>GitHub Pages</strong>. Tulad ng anumang web server, nagtatala ito ng mga natatanggap na kahilingan upang maihatid ang mga pahina at maprotektahan ang mga ito laban sa pang-aabuso. Ang mga talaang iyon ay wala sa kontrol ng site na ito.</p>
+                <h2>Ang tanging bagay na naiimbak sa iyong browser</h2>
+                <p>Ang wikang pinili mo, sa ilalim ng key na <strong>language</strong>, sa local storage ng browser. Hindi ito cookie, hindi ito ipinapadala sa anumang server at walang kinikilalang tao: nagsisilbi lamang ito upang bumukas ang site sa iyong wika sa susunod. Matatanggal ito sa pamamagitan ng pag-clear ng datos ng site na ito mula sa iyong browser.</p>
+                <h2>Mga link sa ibang site</h2>
+                <p>Ang mga pahinang ito ay may link sa mga third-party na site — Vatican.va, YouTube, Amazon at ang mga inirerekomendang apostolado. Anuman ang mangyari matapos kang umalis dito ay pinamamahalaan ng mga patakaran ng mga site na iyon, hindi nito.</p>
+                <h2>Sino ang may pananagutan, at paano makipag-ugnayan</h2>
+                <p>Ang site na ito ay pananagutan ni <strong>M. Gabriel Castiglia</strong>. Para sa anumang katanungan tungkol sa iyong datos — kabilang ang paghiling na burahin ang isang mensaheng ipinadala mo — sumulat sa pamamagitan ng <a href="index.html#contacto">contact form</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "Tungkol sa Site na Ito | Pananampalataya at Dahilan",
@@ -794,3 +793,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
     text: "&copy; 2026 Pananampalataya at Dahilan. Ad maiorem Dei gloriam."
   }
 };
+
+// Se expone en window para que el cargador por idioma pueda tomarlo por nombre.
+// El `const` de arriba queda igual: es lo que leen los verificadores de _TRABAJO.
+if (typeof window !== 'undefined') window.translationsTL = translationsTL;

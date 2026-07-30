@@ -94,6 +94,11 @@
   --gold-light:   #e8dcc8;
   --gold-mid:     #dab896;
   --gold-dark:    #9d7e52;
+  /* El mismo dorado, llevado hasta donde se lee sobre BLANCO. Medido sobre el
+     encabezado claro: --gold da 2,23:1 y --gold-dark 3,80:1, los dos por debajo
+     del 4,5:1 que pide la WCAG para texto normal; este da 5,2:1. Se usa solo
+     para dorado sobre fondo claro; sobre fondo oscuro sigue mandando --gold. */
+  --gold-ink:     #85683f;
   --gold-rgb:     212, 165, 116;
   --dark:         #1a1410;
   --dark-rgb:     26, 20, 16;
@@ -437,6 +442,19 @@ nav a.active::after {
   transform: scaleX(1);
 }
 
+/* Contraste del enlace activo sobre el encabezado CLARO (escritorio con scroll).
+   El dorado normal daba 2,23:1 medido, contra 6,56:1 de los demás enlaces del
+   menú. El `:not(.nav-open)` es a propósito: con el menú móvil abierto esos
+   mismos enlaces viven sobre el panel oscuro, donde el dorado normal da 8,28:1
+   y está bien. El subrayado acompaña al texto para que no queden de dos tonos. */
+header.scrolled:not(.nav-open) nav a.active {
+  color: var(--gold-ink);
+}
+
+header.scrolled:not(.nav-open) nav a.active::after {
+  background: var(--gold-ink);
+}
+
 /* ────────────────────────────────────────────────────────────── */
 /* HERO SECTION                                                    */
 /* ────────────────────────────────────────────────────────────── */
@@ -446,9 +464,14 @@ nav a.active::after {
   /* svh = alto de la ventana CON las barras del navegador a la vista. En Safari
      de iPhone, vh mide la ventana SIN la barra de direcciones, así que el bloque
      salía más alto que la pantalla y el contenido se corría. La línea con vh
-     queda de reserva para navegadores que no entienden svh. */
-  height: 100vh;
-  height: 100svh;
+     queda de reserva para navegadores que no entienden svh.
+
+     El -68px descuenta el alto del encabezado fijo, que este bloque ya se corre
+     con el margin-top de abajo. Sin él, el hero medía la ventana ENTERA y después
+     se bajaba 68 px, así que terminaba 68 px por debajo del primer pantallazo y
+     se comía el indicador «Scroll», que va a 40 px de su borde inferior. */
+  height: calc(100vh - 68px);
+  height: calc(100svh - 68px);
   min-height: 680px;
   display: flex;
   align-items: center;
@@ -1590,6 +1613,65 @@ footer p {
 .footer-rights strong {
   color: var(--gold);
   font-weight: 400;
+}
+
+/* Enlace legal del pie (privacidad). Necesita regla propia: no hay ninguna
+   regla `footer a`, así que sin esto el navegador lo pintaría azul y subrayado
+   sobre el fondo oscuro. Medido: rgba(255,255,255,.55) sobre #1a1410 da 6,1:1,
+   por encima del 4,5:1 que pide la WCAG. */
+.footer-legal {
+  margin-top: 14px;
+}
+
+.footer-legal a {
+  color: rgba(255, 255, 255, 0.55);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(212, 165, 116, 0.35);
+  padding-bottom: 2px;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.footer-legal a:hover,
+.footer-legal a:focus-visible {
+  color: var(--gold);
+  border-color: var(--gold);
+}
+
+/* Enlace a privacidad dentro del aviso del formulario. Mismo caso que el del
+   pie y por el mismo motivo: sin regla propia salía azul del navegador, y ahí
+   el fondo es el video, donde el azul no se lee. Hereda el color del párrafo
+   —que ya está calibrado para ese fondo— y se distingue por el subrayado
+   dorado, no por el color. */
+.form-notice a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(212, 165, 116, 0.5);
+  padding-bottom: 1px;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.form-notice a:hover,
+.form-notice a:focus-visible {
+  color: var(--gold);
+  border-color: var(--gold);
+}
+
+/* Enlaces sueltos dentro del cuerpo de un artículo o de la página de privacidad
+   («su política de privacidad», «formulario de contacto», los reenvíos entre
+   temas). Tercer sitio con el mismo problema: ninguna regla los alcanzaba y
+   salían en el azul del navegador, esta vez sobre el fondo blanco de la ficha.
+   Van en --gold-ink, que es el dorado llevado hasta donde se lee sobre blanco.
+   El :not([class]) deja fuera los botones, que traen su propio estilo. */
+.article-body a:not([class]) {
+  color: var(--gold-ink);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(133, 104, 63, 0.4);
+  transition: border-color 0.2s;
+}
+
+.article-body a:not([class]):hover,
+.article-body a:not([class]):focus-visible {
+  border-color: var(--gold-ink);
 }
 
 @media (max-width: 600px) {
