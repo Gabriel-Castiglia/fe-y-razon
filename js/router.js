@@ -5,6 +5,16 @@
  * =========================================================================
  */
 
+// El arranque de los videos de fondo vive en main.js (FYRVideo), que es donde
+// está explicado por qué no alcanza con un play() a secas. Esta reserva es por
+// si alguna página cargara router.js sin main.js: sin ella, un artículo abierto
+// se quedaría sin fondo.
+window.FYRVideo = window.FYRVideo || {
+  reproducir: v => { if (v) v.play().catch(() => {}); },
+  detener:    v => { if (v) v.pause(); },
+  reanudar:   () => {},
+};
+
 // 1. CONFIGURACIÓN DE RUTAS Y RECURSOS
 // Configuración de artículos: videos asociados y punteros de navegación.
 // provisional: true  → el artículo aún no está redactado en todos los idiomas.
@@ -57,7 +67,7 @@ function stopOverlayVideos() {
     if (v._ovEnded)      v.removeEventListener('ended',      v._ovEnded);
     v._ovTimeUpdate = null;
     v._ovEnded      = null;
-    v.pause();
+    window.FYRVideo.detener(v);
     v.removeAttribute('src');
     [...v.querySelectorAll('source')].forEach(s => s.remove());
     v.removeAttribute('poster');
@@ -84,11 +94,11 @@ function initOverlayVideos(count) {
     const prev     = vids[prevIdx];
     const next     = vids[ovIndex];
     next.currentTime = 0;
-    next.play().catch(() => {});
+    window.FYRVideo.reproducir(next);
     next.classList.add('active');
     setTimeout(() => {
       prev.classList.remove('active');
-      prev.pause();
+      window.FYRVideo.detener(prev);
       prev.currentTime = 0;
       ovTransitioning  = false;
     }, OV_TRANSITION);
@@ -107,7 +117,10 @@ function initOverlayVideos(count) {
     v.classList.toggle('active', i === 0);
   });
 
-  vids[0].play().catch(() => {});
+  // El arranque va por FYRVideo (main.js): estos videos se acaban de crear con
+  // load(), así que son justamente los que llegan sin datos al primer play() y
+  // los que Safari dejaba congelados en el póster.
+  window.FYRVideo.reproducir(vids[0]);
 }
 
 // 4. RENDERIZADO DINÁMICO
