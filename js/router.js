@@ -172,13 +172,17 @@ function showArticle(slug, skipHistory = false) {
     const v = all[i];
     v.poster = VIDEO_BASE + name + '-poster.webp';
     [...v.querySelectorAll('source')].forEach(s => s.remove());
-    const webm = document.createElement('source');
-    webm.src = VIDEO_BASE + name + '.webm';
-    webm.type = 'video/webm';
+    // MP4 primero: el navegador se queda con el primer formato que soporta, y
+    // Safari es justo el que peor se lleva con WebM/VP9 (de ahí los videos en
+    // negro). Además acá el WebM no ahorra nada: en 9 de los 21 videos pesa más
+    // que el MP4, y sumados los dos sets pesan lo mismo.
     const mp4 = document.createElement('source');
     mp4.src = VIDEO_BASE + name + '.mp4';
     mp4.type = 'video/mp4';
-    v.append(webm, mp4);
+    const webm = document.createElement('source');
+    webm.src = VIDEO_BASE + name + '.webm';
+    webm.type = 'video/webm';
+    v.append(mp4, webm);
     v.load();
     v.classList.toggle('active', i === 0);
   });
