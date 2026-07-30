@@ -1,5 +1,6 @@
 const translationsIG = {
   logo: "Okwukwe na Uche",
+  siteTitle: "Okwukwe na Uche | Nkwuchite Okwukwe Katọlik",
   nav: {
     home: "Isi",
     topics: "Isiokwu",
@@ -60,7 +61,7 @@ const translationsIG = {
   contact: {
     title: "Kpọtụrụ", desc: "Ị nwere ajụjụ ma ọ bụ chọọ iso anyị rụkọọ ọrụ? Ziga anyị ozi.",
     name: { placeholder: "Aha gị" }, email: { placeholder: "Email gị" }, subject: { placeholder: "Isiokwu" }, message: { placeholder: "Ozi gị" },
-    submit: "Ziga ozi", cookieNotice: "Site n'iziga fọm a, ị kwenyere na a ga-edozi data gị site na ọrụ ndị ọzọ maka ịrụ ọrụ nke usoro ahụ.",
+    submit: "Ziga ozi", cookieNotice: "Mgbe ị zigara fọm ahụ, data gị na-agafe na Formspree, ọrụ na-ebutere anyị ozi ahụ, a na-ejikwa ya naanị iji zaghachi gị. <a href='privacidad.html'>Otu anyị si ejikwa data gị</a>.",
     success: { title: "Enwetara ozi", desc: "Daalụ maka idegakwuru anyị. Anyị ga-aza gị n'oge adịghị anya. Ad maiorem Dei gloriam." }
   },
   topicPages: {
@@ -224,7 +225,9 @@ const translationsIG = {
         },
         cta: "Lee mbipụta mkpuchi siri ike na Amazon →",
         note: "Njikọ a na-eduga na mbipụta mkpuchi siri ike n'asụsụ Bekee, na Amazon United States. Asụsụ ọ bụla nwekwara mbipụta mkpuchi dị nro na nke Kindle: chọọ ya n'asụsụ gị, n'ụlọ ahịa Amazon nke obodo gị.",
-        coverAlt: "Mkpuchi akwụkwọ The False Door, nke M. Gabriel Castiglia dere"
+        coverAlt: "Mkpuchi akwụkwọ The False Door, nke M. Gabriel Castiglia dere",
+        // Sin edición propia del libro: se muestra la portada inglesa.
+        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg"
       },
       sec5: {
         eyebrow: "Ọkwa iwu",
@@ -236,6 +239,17 @@ const translationsIG = {
       },
       pageTitle: "Akụrụngwa Akwadoro | Okwukwe na Uche",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Akụrụngwa</span></div><h1>Akụrụngwa Akwadoro</h1><p>Isi mmalite ntụkwasị obi iji mikwuo, ịmụta na ịkekọrịta okwukwe Katọlik.</p><a href="index.html#temas" class="btn-outline-white">Laghachi na Isiokwu</a>`,
+      labels: {
+        bible: "Akwụkwọ Nsọ →",
+        catechism: "Katekizim →",
+        website: "Weebụsaịtị →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "N'asụsụ Spanish →",
+        toroCountry: "Venezuela",
+        oliveraCountry: "Argentina · QNTLC",
+        heraldosTag: "Ecuador"
+      },
       sec1: { eyebrow: "Oche Dị Nsọ", title: "Ebe e si nweta ihe na Vatican", desc: "Akwụkwọ gọọmentị nke Nzukọ-nsọ, dị na webụsaịtị Oche Dị Nsọ." },
       sec2: {
         eyebrow: "Apologetics · Ọzụzụ", title: "Ndị Nchụàjà na Ndị Nkuzi", desc: "Olu kwesịrị ntụkwasị obi nye Magisterium ndị na-akụzi, na-echebe ma na-ekwusa okwukwe na omimi na ịdị uchu.",
@@ -249,8 +263,27 @@ const translationsIG = {
         grat:     { desc: "Baịbụl Jerusalem na Bekee ma ọ bụ Spanish Latin American (maka asụsụ ndị ọzọ lelee ibe gọọmentị). Nwere atụmatụ ọmụmụ pụrụ iche nwere nkọwa nzọụkwụ na eserese, dị mma maka ndị ọhụrụ.", tag: "Baịbụl · Ọzụzụ" },
         ewtn:     { desc: "Netwọk telivishọn Katọlik kachasị ukwuu n'ụwa. Misa kwa ụbọchị, Rosary Dị Nsọ, ihe ngosi, na ọzụzụ awa 24.", tag: "Telivishọn · Redio" }
       },
-      article: `<h2>Vatican</h2><p>Ebe nrụọrụ weebụ gọọmentị nke Holy See, ebe ị nwere ike ịhụ Baịbụl, Catechism nke Nzukọ-nsọ Katọlik, akwụkwọ popu na ọtụtụ ndị ọzọ.</p><ul><li><a href="https://www.vatican.va/content/vatican/en.html" target="_blank">Ebe nrụọrụ weebụ gọọmentị nke Vatican (Bekee)</a></li><li><a href="https://www.vatican.va/archive/ENG0015/_INDEX.HTM" target="_blank">Catechism nke Nzukọ-nsọ Katọlik</a></li></ul><h2>Apologetics na Ọzụzụ</h2><h3>Ascension Presents</h3><p>Onye mbipụta Katọlik na-enye akụrụngwa ọzụzụ, gụnyere "Bible in a Year" (Baịbụl n'otu afọ).</p><ul><li><a href="https://ascensionpress.com/" target="_blank">Ascension Press</a></li></ul>`,
       nav: { prevTitle: "Ịbụ onye mbụ nke Pita", nextTitle: "Ọkwa Nchụàjà na Nzukọ-nsọ Katọlik" }
+    },
+    "privacidad": {
+      pageTitle: "Nzuzo | Okwukwe na Uche",
+      linkLabel: "Nzuzo",
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Ọkwa iwu</span></div><h1>Nzuzo</h1><p>Data ndị saịtị a na-anakọta, ihe a na-eji ha eme, na ebe ha na-aga.</p><a href="index.html#temas" class="btn-outline-white">Laghachi na Isiokwu</a>`,
+      article: `<p>Saịtị a anaghị eji kuki, enweghị nyocha, anaghị egosi mgbasa ozi, ma enweghị bọtịnụ ma ọ bụ ihe nchọpụta nke mgbasa ozi ọha. A na-enye mkpụrụedemede, foto na vidiyo site na otu ngalaba a: mgbe ị mepere ibe, ihe nchọgharị gị anaghị arịọ ihe ọ bụla n'aka onye ọ bụla ọzọ.</p>
+                <h2>Data ndị a na-anakọta</h2>
+                <p>Naanị ihe ị na-ede n'aka gị na fọm kọntaktị: <strong>aha, adreesị email, isiokwu na ozi</strong>. Anaghị anakọta data ọ bụla ọzọ, ọ dịkwaghị fọm ọzọ ebe ọ bụla na saịtị a.</p>
+                <h2>Ihe a na-eji ha eme</h2>
+                <p>Naanị iji gụọ ozi ahụ ma zaghachi ya. A naghị ere ha, a naghị enye ha maka azụmahịa, a naghịkwa eji ha ezipu akwụkwọ akụkọ ma ọ bụ mgbasa ozi.</p>
+                <h2>Ebe ha na-aga</h2>
+                <p>A na-eziga fọm ahụ na <strong>Formspree</strong> (formspree.io), ọrụ na-anata ozi ahụ ma buga ya onye edemede. Site n'iji fọm ahụ, data ndị ahụ dịkwa n'okpuru usoro ọrụ ahụ, nke a pụrụ ịgụ na <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">amụma nzuzo ha</a>.</p>
+                <h2>Ebe a na-ebe saịtị a</h2>
+                <p>A na-ebipụta ibe ndị a site na <strong>GitHub Pages</strong>. Dị ka sava weebụ ọ bụla, ọ na-edeba arịrịọ ndị ọ na-anata iji nwee ike nyefee ibe ndị ahụ ma chebe ha pụọ ná mmebi. Ndekọ ndị ahụ anọghị n'okpuru njikwa nke saịtị a.</p>
+                <h2>Naanị otu ihe a na-echekwa na ihe nchọgharị gị</h2>
+                <p>Asụsụ ị họọrọ, n'okpuru igodo <strong>language</strong>, na nchekwa mpaghara nke ihe nchọgharị. Ọ bụghị kuki, a naghị eziga ya na sava ọ bụla, ọ naghịkwa amata onye ọ bụla: naanị ihe ọ na-eme bụ ka saịtị meghee n'asụsụ gị oge ọzọ. A na-ehichapụ ya site n'ikpocha data saịtị a na ihe nchọgharị gị.</p>
+                <h2>Njikọ na saịtị ndị ọzọ</h2>
+                <p>Ibe ndị a na-ejikọ na saịtị ndị ọzọ — Vatican.va, YouTube, Amazon na ndị ozi a kwadoro. Ihe ọ bụla mere mgbe ị hapụrụ ebe a na-achịkwa site na amụma nke saịtị ndị ahụ, ọ bụghị nke a.</p>
+                <h2>Onye na-ahụ maka ya, na otu esi akpọtụrụ</h2>
+                <p>Onye na-ahụ maka saịtị a bụ <strong>M. Gabriel Castiglia</strong>. Maka ajụjụ ọ bụla gbasara data gị — gụnyere ịrịọ ka ehichapụ ozi ị zigara — dee site na <a href="index.html#contacto">fọm kọntaktị</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "Maka saịtị a | Okwukwe na Uche",
@@ -300,3 +333,6 @@ const translationsIG = {
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Ikike niile echekwara.</strong> A machibidoro imepụta ya niile ma ọ bụ akụkụ ya na-enweghị ikike ederede sitere n'aka onye edemede.", text: "&copy; 2026 Okwukwe na Uche. Ad maiorem Dei gloriam." }
 };
+// Se expone en window para que el cargador por idioma pueda tomarlo por nombre.
+// El `const` de arriba queda igual: es lo que leen los verificadores de _TRABAJO.
+if (typeof window !== 'undefined') window.translationsIG = translationsIG;

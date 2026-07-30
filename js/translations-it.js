@@ -1,5 +1,6 @@
 const translationsIT = {
   logo: "Fede e Ragione",
+  siteTitle: "Fede e Ragione | Apologetica Cattolica",
   nav: {
     home: "Home",
     topics: "Temi",
@@ -60,7 +61,7 @@ const translationsIT = {
   contact: {
     title: "Contatto", desc: "Hai domande o vuoi collaborare con noi? Inviaci un messaggio.",
     name: { placeholder: "Il tuo nome" }, email: { placeholder: "La tua email" }, subject: { placeholder: "Oggetto" }, message: { placeholder: "Il tuo messaggio" },
-    submit: "Invia messaggio", cookieNotice: "Inviando questo modulo, accetti che i tuoi dati vengano elaborati da servizi di terze parti per il funzionamento del sistema.",
+    submit: "Invia messaggio", cookieNotice: "Inviando il modulo, i tuoi dati passano da Formspree, il servizio che ci consegna il messaggio, e servono solo a risponderti. <a href='privacidad.html'>Come trattiamo i tuoi dati</a>.",
     success: { title: "Messaggio ricevuto", desc: "Grazie per averci scritto. Ti risponderemo al più presto. Ad maiorem Dei gloriam." }
   },
   topicPages: {
@@ -224,7 +225,8 @@ const translationsIT = {
         },
         cta: "Vedi la copertina rigida su Amazon →",
         note: "Il collegamento porta all'edizione con copertina rigida in inglese, su Amazon Stati Uniti. Ogni lingua ha anche la sua edizione in brossura e in Kindle: cercala nella tua lingua, nel negozio Amazon del tuo Paese.",
-        coverAlt: "Copertina de La falsa porta, di M. Gabriel Castiglia"
+        coverAlt: "Copertina de La falsa porta, di M. Gabriel Castiglia",
+        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-it.jpg"
       },
       sec5: {
         eyebrow: "Note legali",
@@ -236,6 +238,17 @@ const translationsIT = {
       },
       pageTitle: "Risorse consigliate | Fede e Ragione",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Risorse</span></div><h1>Risorse consigliate</h1><p>Fonti di fiducia per approfondire, formarsi e condividere la fede cattolica.</p><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
+      labels: {
+        bible: "Sacra Scrittura →",
+        catechism: "Catechismo →",
+        website: "Sito web →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "In spagnolo →",
+        toroCountry: "Venezuela",
+        oliveraCountry: "Argentina · QNTLC",
+        heraldosTag: "Ecuador"
+      },
       sec1: { eyebrow: "Santa Sede", title: "Fonti vaticane", desc: "Documenti ufficiali della Chiesa, disponibili sul sito della Santa Sede." },
       sec2: {
         eyebrow: "Apologetica · Formazione", title: "Sacerdoti e formatori", desc: "Voci fedeli al Magistero che insegnano, difendono e proclamano la fede con profondità e rigore.",
@@ -249,8 +262,27 @@ const translationsIT = {
         grat:     { desc: "Bibbia di Gerusalemme in inglese o spagnolo latino (per altre lingue verificare sulla pagina ufficiale). Con piano di studio unico contenente spiegazioni passo dopo passo e grafiche, ideale per i neofiti.", tag: "Bibbia · Formazione" },
         ewtn:     { desc: "La più grande rete televisiva cattolica del mondo. Messa quotidiana, Santo Rosario, documentari e formazione 24 ore su 24.", tag: "Televisione · Radio" }
       },
-      article: `<h2>Vaticano</h2><p>Il sito ufficiale della Santa Sede, dove puoi trovare la Bibbia, il Catechismo della Chiesa Cattolica, documenti papali e molto altro.</p><ul><li><a href="https://www.vatican.va/content/vatican/it.html" target="_blank">Sito Ufficiale del Vaticano</a></li><li><a href="https://www.vatican.va/archive/catechism_it/index_it.htm" target="_blank">Catechismo della Chiesa Cattolica</a></li></ul><h2>Apologetica e Formazione</h2><h3>Ascension Presents</h3><p>Casa editrice cattolica che offre risorse di formazione, inclusa "La Bibbia in un anno".</p><ul><li><a href="https://ascensionpress.com/" target="_blank">Ascension Press</a></li></ul>`,
       nav: { prevTitle: "Il primato di Pietro", nextTitle: "Il Sacerdozio nella Chiesa Cattolica" }
+    },
+    "privacidad": {
+      pageTitle: "Privacy | Fede e Ragione",
+      linkLabel: "Privacy",
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Note legali</span></div><h1>Privacy</h1><p>Quali dati raccoglie questo sito, a cosa servono e dove vanno.</p><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
+      article: `<p>Questo sito non usa cookie, non ha strumenti di analisi, non mostra pubblicità e non contiene pulsanti né tracciatori dei social network. I caratteri, le immagini e i video sono serviti da questo stesso dominio: aprendo una pagina, il browser non chiede nulla a terzi.</p>
+                <h2>Quali dati vengono raccolti</h2>
+                <p>Solo quelli che scrivi nel modulo di contatto: <strong>nome, indirizzo email, oggetto e messaggio</strong>. Nessun altro dato viene raccolto, e nel resto del sito non esiste alcun altro modulo.</p>
+                <h2>A cosa servono</h2>
+                <p>Solo a leggere il messaggio e rispondere. Non vengono venduti, non vengono ceduti a fini commerciali e non vengono mai usati per newsletter o pubblicità.</p>
+                <h2>Dove vanno</h2>
+                <p>Il modulo viene inviato a <strong>Formspree</strong> (formspree.io), il servizio che riceve il messaggio e lo consegna all'autore. Usando il modulo, quei dati sono soggetti anche alle condizioni di quel servizio, consultabili nella <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">sua informativa sulla privacy</a>.</p>
+                <h2>Dove è ospitato il sito</h2>
+                <p>Queste pagine sono pubblicate tramite <strong>GitHub Pages</strong>. Come qualsiasi server web, registra le richieste ricevute per poter consegnare le pagine e proteggerle dagli abusi. Quei registri non sono sotto il controllo di questo sito.</p>
+                <h2>L'unica cosa salvata nel tuo browser</h2>
+                <p>La lingua che scegli, sotto la chiave <strong>language</strong>, nella memoria locale del browser. Non è un cookie, non viene inviata ad alcun server e non identifica nessuno: serve soltanto perché il sito si apra nella tua lingua la volta successiva. Si cancella svuotando i dati del sito dal browser.</p>
+                <h2>Collegamenti ad altri siti</h2>
+                <p>Queste pagine rimandano a siti di terzi — Vatican.va, YouTube, Amazon e gli apostolati consigliati. Quello che accade dopo che hai lasciato questo sito è regolato dalle politiche di quei siti, non da questa.</p>
+                <h2>Titolare e contatti</h2>
+                <p>Il responsabile di questo sito è <strong>M. Gabriel Castiglia</strong>. Per qualsiasi domanda sui tuoi dati — compresa la richiesta di cancellare un messaggio che hai inviato — scrivi tramite il <a href="index.html#contacto">modulo di contatto</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "Su questo sito | Fede e Ragione",
@@ -299,3 +331,6 @@ const translationsIT = {
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Tutti i diritti riservati.</strong> È vietata la riproduzione totale o parziale senza autorizzazione scritta dell'autore.", text: "&copy; 2026 Fede e Ragione. Ad maiorem Dei gloriam." }
 };
+// Se expone en window para que el cargador por idioma pueda tomarlo por nombre.
+// El `const` de arriba queda igual: es lo que leen los verificadores de _TRABAJO.
+if (typeof window !== 'undefined') window.translationsIT = translationsIT;

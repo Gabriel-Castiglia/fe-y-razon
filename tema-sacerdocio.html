@@ -64,18 +64,22 @@
         "url": "https://proyectofeyrazon.com/tema-sacerdocio.html"
     }
     </script>
-    <link rel="preload" href="css/style.css?v=18" as="style">
+    <link rel="preload" href="css/style.css?v=21" as="style">
     <title data-i18n="topicPages.sacerdocio.pageTitle">El Sacerdocio | Fé y Razón</title>
     <link rel="preload" href="Recursos/Fuentes/cinzel-latin.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="Recursos/Fuentes/montserrat-latin.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="stylesheet" href="css/style.css?v=18">
+    <!-- Iconos del sitio -->
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="favicon.ico" sizes="32x32">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="stylesheet" href="css/style.css?v=21">
 </head>
 <body>
     <div id="reading-progress" role="progressbar" aria-label="Progreso de lectura"></div>
     <button id="scroll-top" aria-label="Volver arriba">↑</button>
     <header id="header" class="hero-mode">
         <div class="container">
-            <h1 class="logo"><a href="index.html" data-i18n="logo">Fé y Razón</a></h1>
+            <div class="logo"><a href="index.html" data-i18n="logo">Fé y Razón</a></div>
             <nav>
                 <ul class="nav-links">
                     <li><a href="index.html#hero" data-i18n="nav.home">Inicio</a></li>
@@ -95,54 +99,7 @@
                     </svg>
                 </button>
                 <div class="lang-dropdown-menu" role="listbox" aria-label="Seleccionar idioma">
-                    <button class="lang-option active" data-lang="es" role="option" aria-selected="true">
-                        <img src="Recursos/Im%C3%A1genes/spain-flag-png-large.webp" alt="" width="22" height="15" loading="lazy">
-                        <span>Español</span>
-                    </button>
-                    <button class="lang-option" data-lang="en" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/united-states-of-america-flag-png-large.webp" alt="" width="22" height="15" loading="lazy">
-                        <span>English</span>
-                    </button>
-                    <button class="lang-option" data-lang="ja" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/japan-flag-png-large.webp" alt="" width="22" height="15" loading="lazy">
-                        <span>日本語</span>
-                    </button>
-                    <button class="lang-option" data-lang="tl" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/philippines-flag-png-large.webp" alt="" width="22" height="15" loading="lazy">
-                        <span>Filipino</span>
-                    </button>
-                    <button class="lang-option" data-lang="da" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/denmark-flag-png-large.webp" alt="" width="22" height="15" loading="lazy">
-                        <span>Dansk</span>
-                    </button>
-                    <button class="lang-option" data-lang="la" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/vatican-city-flag-png-large.webp" alt="" width="22" height="15" loading="lazy">
-                        <span>Latina</span>
-                    </button>
-                    <button class="lang-option" data-lang="fr" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/france-flag.svg" alt="" width="22" height="15" loading="lazy">
-                        <span>Français</span>
-                    </button>
-                    <button class="lang-option" data-lang="pt" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/brazil-flag.svg" alt="" width="22" height="15" loading="lazy">
-                        <span>Português</span>
-                    </button>
-                    <button class="lang-option" data-lang="sw" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/tz-flag.svg" alt="" width="22" height="15" loading="lazy">
-                        <span>Kiswahili</span>
-                    </button>
-                    <button class="lang-option" data-lang="it" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/it-flag.svg" alt="" width="22" height="15" loading="lazy">
-                        <span>Italiano</span>
-                    </button>
-                    <button class="lang-option" data-lang="ln" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/cd-flag.svg" alt="" width="22" height="15" loading="lazy">
-                        <span>Lingala</span>
-                    </button>
-                    <button class="lang-option" data-lang="ig" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/ng-flag.svg" alt="" width="22" height="15" loading="lazy">
-                        <span>Igbo</span>
-                    </button>
+                    <!-- Las doce opciones las arma js/translations.js desde langMeta -->
                 </div>
             </div>
             <button class="hamburger" id="hamburger" aria-label="Abrir menú" aria-expanded="false">
@@ -203,20 +160,9 @@
     <footer>
         <p data-i18n="footer.text">&copy; 2026 Fé y Razón. Ad maiorem Dei gloriam.</p>
         <p class="footer-rights" data-i18n="footer.rights">&copy; 2026 M. Gabriel Castiglia. Todos los derechos reservados. Prohibida la reproducción total o parcial sin autorización escrita del autor.</p>
+        <p class="footer-legal"><a href="privacidad.html" data-i18n="topicPages.privacidad.linkLabel">Privacidad</a></p>
     </footer>
-    <script src="js/main.js?v=5" defer></script>
-    <script src="js/translations-es.js?v=5" defer></script>
-    <script src="js/translations-en.js?v=5" defer></script>
-    <script src="js/translations-ja.js?v=5" defer></script>
-    <script src="js/translations-tl.js?v=5" defer></script>
-    <script src="js/translations-da.js?v=5" defer></script>
-    <script src="js/translations-la.js?v=5" defer></script>
-    <script src="js/translations-fr.js?v=5" defer></script>
-    <script src="js/translations-pt.js?v=5" defer></script>
-    <script src="js/translations-sw.js?v=5" defer></script>
-    <script src="js/translations-it.js?v=5" defer></script>
-    <script src="js/translations-ln.js?v=5" defer></script>
-    <script src="js/translations-ig.js?v=5" defer></script>
-    <script src="js/translations.js?v=5" defer></script>
+    <script src="js/main.js?v=6" defer></script>
+    <script src="js/translations.js?v=6" defer></script>
 </body>
 </html>

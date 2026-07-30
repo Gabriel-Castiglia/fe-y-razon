@@ -29,9 +29,16 @@
     <meta property="og:url" content="https://proyectofeyrazon.com/tema-recursos-recomendados.html">
     <meta property="og:title" content="Recursos Recomendados | Fé y Razón">
     <meta property="og:description" content="Libros, sitios y apostolados recomendados para crecer en la fe católica.">
-    <meta property="og:image" content="https://proyectofeyrazon.com/Recursos/Im%C3%A1genes/banner.webp">
-    <meta property="og:image:width" content="1600">
-    <meta property="og:image:height" content="840">
+    <!-- Miniatura al compartir: la portada del libro, no el banner genérico del
+         sitio. Es la única página con og:image propio; las otras doce siguen con
+         el banner. La ruta es absoluta y con los acentos escapados
+         (Im%C3%A1genes), como el resto del sitio: sin eso la miniatura no carga.
+         Va la portada en español porque es el idioma base del HTML; el cambio de
+         idioma no lo ven los rastreadores de WhatsApp ni de las redes. -->
+    <meta property="og:image" content="https://proyectofeyrazon.com/Recursos/Im%C3%A1genes/libro-puerta-falsa-es.jpg">
+    <meta property="og:image:width" content="700">
+    <meta property="og:image:height" content="1044">
+    <meta property="og:image:alt" content="Portada de La puerta falsa, de M. Gabriel Castiglia">
     <meta property="og:site_name" content="Fé y Razón">
     <meta property="og:locale" content="es_ES">
 
@@ -39,7 +46,8 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Recursos Recomendados | Fé y Razón">
     <meta name="twitter:description" content="Libros, sitios y apostolados recomendados para crecer en la fe católica.">
-    <meta name="twitter:image" content="https://proyectofeyrazon.com/Recursos/Im%C3%A1genes/banner.webp">
+    <meta name="twitter:image" content="https://proyectofeyrazon.com/Recursos/Im%C3%A1genes/libro-puerta-falsa-es.jpg">
+    <meta name="twitter:image:alt" content="Portada de La puerta falsa, de M. Gabriel Castiglia">
 
     <!-- Datos estructurados (Schema.org) -->
     <script type="application/ld+json">
@@ -86,18 +94,22 @@
         }
     }
     </script>
-    <link rel="preload" href="css/style.css?v=18" as="style">
+    <link rel="preload" href="css/style.css?v=21" as="style">
     <title data-i18n="topicPages.recursos-recomendados.pageTitle">Recursos recomendados | Fé y Razón</title>
     <link rel="preload" href="Recursos/Fuentes/cinzel-latin.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="Recursos/Fuentes/montserrat-latin.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="stylesheet" href="css/style.css?v=18">
+    <!-- Iconos del sitio -->
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="favicon.ico" sizes="32x32">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="stylesheet" href="css/style.css?v=21">
 </head>
 <body>
     <div id="reading-progress" role="progressbar" aria-label="Progreso de lectura" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"></div>
     <button id="scroll-top" aria-label="Volver arriba">↑</button>
     <header id="header" class="hero-mode">
         <div class="container">
-            <h1 class="logo"><a href="index.html" data-i18n="logo">Fé y Razón</a></h1>
+            <div class="logo"><a href="index.html" data-i18n="logo">Fé y Razón</a></div>
             <nav>
                 <ul class="nav-links">
                     <li><a href="index.html#hero" data-i18n="nav.home">Inicio</a></li>
@@ -117,55 +129,7 @@
                     </svg>
                 </button>
                 <div class="lang-dropdown-menu" role="listbox" aria-label="Seleccionar idioma">
-                    <!-- IMPORTANTE: Al agregar nuevos idiomas, asegúrate de actualizar esta lista desplegable en TODAS las páginas estáticas (index.html, tema-*.html) -->
-                    <button class="lang-option active" data-lang="es" role="option" aria-selected="true">
-                        <img src="Recursos/Im%C3%A1genes/spain-flag-png-large.webp" alt="" width="22" height="15" loading="lazy">
-                        <span>Español</span>
-                    </button>
-                    <button class="lang-option" data-lang="en" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/united-states-of-america-flag-png-large.webp" alt="" width="22" height="15" loading="lazy">
-                        <span>English</span>
-                    </button>
-                    <button class="lang-option" data-lang="ja" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/japan-flag-png-large.webp" alt="" width="22" height="15" loading="lazy">
-                        <span>日本語</span>
-                    </button>
-                    <button class="lang-option" data-lang="tl" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/philippines-flag-png-large.webp" alt="" width="22" height="15" loading="lazy">
-                        <span>Filipino</span>
-                    </button>
-                    <button class="lang-option" data-lang="da" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/denmark-flag-png-large.webp" alt="" width="22" height="15" loading="lazy">
-                        <span>Dansk</span>
-                    </button>
-                    <button class="lang-option" data-lang="la" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/vatican-city-flag-png-large.webp" alt="" width="22" height="15" loading="lazy">
-                        <span>Latina</span>
-                    </button>
-                    <button class="lang-option" data-lang="fr" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/france-flag.svg" alt="" width="22" height="15" loading="lazy">
-                        <span>Français</span>
-                    </button>
-                    <button class="lang-option" data-lang="pt" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/brazil-flag.svg" alt="" width="22" height="15" loading="lazy">
-                        <span>Português</span>
-                    </button>
-                    <button class="lang-option" data-lang="sw" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/tz-flag.svg" alt="" width="22" height="15" loading="lazy">
-                        <span>Kiswahili</span>
-                    </button>
-                    <button class="lang-option" data-lang="it" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/it-flag.svg" alt="" width="22" height="15" loading="lazy">
-                        <span>Italiano</span>
-                    </button>
-                    <button class="lang-option" data-lang="ln" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/cd-flag.svg" alt="" width="22" height="15" loading="lazy">
-                        <span>Lingala</span>
-                    </button>
-                    <button class="lang-option" data-lang="ig" role="option" aria-selected="false">
-                        <img src="Recursos/Im%C3%A1genes/ng-flag.svg" alt="" width="22" height="15" loading="lazy">
-                        <span>Igbo</span>
-                    </button>
+                    <!-- Las doce opciones las arma js/translations.js desde langMeta -->
                 </div>
             </div>
             <button class="hamburger" id="hamburger" aria-label="Abrir menú" aria-expanded="false">
@@ -505,8 +469,8 @@
               <h2>Vatican.va</h2>
               <p data-i18n="topicPages.recursos-recomendados.sec1.desc">Documentos oficiales de la Iglesia, disponibles en el sitio de la Santa Sede.</p>
               <div class="rec-vatican-links">
-                <a href="https://www.vatican.va/archive/bible/index.htm" target="_blank" rel="noopener" class="rec-btn-gold">Sagrada Escritura →</a>
-                <a href="https://www.vatican.va/archive/catechism_sp/index_sp.html" target="_blank" rel="noopener" class="rec-btn-ghost">Catecismo →</a>
+                <a href="https://www.vatican.va/archive/bible/index.htm" target="_blank" rel="noopener" class="rec-btn-gold" data-i18n="topicPages.recursos-recomendados.labels.bible">Sagrada Escritura →</a>
+                <a href="https://www.vatican.va/archive/catechism_sp/index_sp.html" target="_blank" rel="noopener" class="rec-btn-ghost" data-i18n="topicPages.recursos-recomendados.labels.catechism">Catecismo →</a>
               </div>
             </div>
           </div>
@@ -517,9 +481,15 @@
           <div class="rec-label" data-i18n="topicPages.recursos-recomendados.sec4.eyebrow">Del autor de este sitio</div>
           <div class="rec-book">
             <div class="rec-book-cover">
-              <img src="Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg"
+              <!-- La portada cambia con el idioma: el archivo lo pone data-i18n-src
+                   desde el diccionario. El onerror es la red de contención por si
+                   faltara el archivo de un idioma: cae a la portada inglesa en vez
+                   de dejar el hueco de una imagen rota. -->
+              <img src="Recursos/Im%C3%A1genes/libro-puerta-falsa-es.jpg"
                    alt="Portada de La puerta falsa, de M. Gabriel Castiglia"
                    data-i18n-alt="topicPages.recursos-recomendados.sec4.coverAlt"
+                   data-i18n-src="topicPages.recursos-recomendados.sec4.coverSrc"
+                   onerror="this.onerror=null; this.src='Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg';"
                    width="700" height="1044" loading="lazy">
             </div>
             <div class="rec-book-body">
@@ -562,13 +532,13 @@
             <div class="rec-priest">
               <div class="rec-priest-photo">
                 <img src="Recursos/Im%C3%A1genes/toro.webp" alt="Padre Luis Toro" loading="lazy">
-                <span class="rec-priest-country">Venezuela</span>
+                <span class="rec-priest-country" data-i18n="topicPages.recursos-recomendados.labels.toroCountry">Venezuela</span>
               </div>
               <div class="rec-priest-body">
                 <h3>Padre Luis Toro</h3>
                 <p data-i18n="topicPages.recursos-recomendados.sec2.toro.desc">Apóstol del Rosario y de la devoción mariana. Formación sólida, directa y fiel al Magisterio.</p>
                 <div class="rec-priest-links">
-                  <a href="https://www.youtube.com/@padreluistoro." target="_blank" rel="noopener" class="rec-pill">YouTube →</a>
+                  <a href="https://www.youtube.com/@padreluistoro." target="_blank" rel="noopener" class="rec-pill" data-i18n="topicPages.recursos-recomendados.labels.youtube">YouTube →</a>
                 </div>
               </div>
             </div>
@@ -576,14 +546,14 @@
             <div class="rec-priest">
               <div class="rec-priest-photo">
                 <img src="Recursos/Im%C3%A1genes/qntlc.webp" alt="Padre Javier Olivera Ravasi" loading="lazy">
-                <span class="rec-priest-country">Argentina · QNTLC</span>
+                <span class="rec-priest-country" data-i18n="topicPages.recursos-recomendados.labels.oliveraCountry">Argentina · QNTLC</span>
               </div>
               <div class="rec-priest-body">
                 <h3>P. Javier Olivera Ravasi</h3>
                 <p data-i18n="topicPages.recursos-recomendados.sec2.olivera.desc">Historiador y apologeta agustino. Aborda el racionalismo, las sectas y los errores modernos con rigor.</p>
                 <div class="rec-priest-links">
-                  <a href="https://www.youtube.com/@QNTLC" target="_blank" rel="noopener" class="rec-pill">YouTube →</a>
-                  <a href="https://www.quenotelacuenten.org/" target="_blank" rel="noopener" class="rec-pill">Sitio web →</a>
+                  <a href="https://www.youtube.com/@QNTLC" target="_blank" rel="noopener" class="rec-pill" data-i18n="topicPages.recursos-recomendados.labels.youtube">YouTube →</a>
+                  <a href="https://www.quenotelacuenten.org/" target="_blank" rel="noopener" class="rec-pill" data-i18n="topicPages.recursos-recomendados.labels.website">Sitio web →</a>
                 </div>
               </div>
             </div>
@@ -602,11 +572,11 @@
                 <span class="rec-apost-name">Heraldos del Evangelio</span>
               </div>
               <div class="rec-apost-body">
-                <span class="rec-apost-tag">Ecuador</span>
+                <span class="rec-apost-tag" data-i18n="topicPages.recursos-recomendados.labels.heraldosTag">Ecuador</span>
                 <p data-i18n="topicPages.recursos-recomendados.sec3.heraldos.desc">Apostolado misionero con presencia en Ecuador. Formación, catequesis y evangelización fiel a la Tradición.</p>
                 <div class="rec-apost-links">
-                  <a href="https://www.youtube.com/@HeraldosdelEvangelio-Ecuador" target="_blank" rel="noopener" class="rec-apost-link">YouTube →</a>
-                  <a href="https://caballerosdelavirgenecuador.com/" target="_blank" rel="noopener" class="rec-apost-link">Sitio web →</a>
+                  <a href="https://www.youtube.com/@HeraldosdelEvangelio-Ecuador" target="_blank" rel="noopener" class="rec-apost-link" data-i18n="topicPages.recursos-recomendados.labels.youtube">YouTube →</a>
+                  <a href="https://caballerosdelavirgenecuador.com/" target="_blank" rel="noopener" class="rec-apost-link" data-i18n="topicPages.recursos-recomendados.labels.website">Sitio web →</a>
                 </div>
               </div>
             </div>
@@ -620,7 +590,7 @@
                 <span class="rec-apost-tag" data-i18n="topicPages.recursos-recomendados.sec3.rugged.tag">Estados Unidos</span>
                 <p data-i18n="topicPages.recursos-recomendados.sec3.rugged.desc">Rosarios resistentes para militares, misioneros y todo fiel que desee portar el Rosario con dignidad.</p>
                 <div class="rec-apost-links">
-                  <a href="https://ruggedrosaries.com/" target="_blank" rel="noopener" class="rec-apost-link">Sitio web →</a>
+                  <a href="https://ruggedrosaries.com/" target="_blank" rel="noopener" class="rec-apost-link" data-i18n="topicPages.recursos-recomendados.labels.website">Sitio web →</a>
                 </div>
               </div>
             </div>
@@ -634,8 +604,8 @@
                 <span class="rec-apost-tag" data-i18n="topicPages.recursos-recomendados.sec3.grat.tag">Biblia · Formación</span>
                 <p data-i18n="topicPages.recursos-recomendados.sec3.grat.desc">Metodología cronológica de Jeff Cavins para estudiar la Biblia. <em>Bible Timeline</em> con la Biblia de Jerusalén.</p>
                 <div class="rec-apost-links">
-                  <a href="https://ascensionpress.com/collections/the-great-adventure-bible" target="_blank" rel="noopener" class="rec-apost-link">Great Adventure →</a>
-                  <a href="https://www.bookdelivery.com/jp-en/book-the-great-adventure-la-gran-aventura-de-la-biblia-de-jerusalen/9788433031075/p/53112550" target="_blank" rel="noopener" class="rec-apost-link">En español →</a>
+                  <a href="https://ascensionpress.com/collections/the-great-adventure-bible" target="_blank" rel="noopener" class="rec-apost-link" data-i18n="topicPages.recursos-recomendados.labels.greatAdventure">Great Adventure →</a>
+                  <a href="https://www.bookdelivery.com/jp-en/book-the-great-adventure-la-gran-aventura-de-la-biblia-de-jerusalen/9788433031075/p/53112550" target="_blank" rel="noopener" class="rec-apost-link" data-i18n="topicPages.recursos-recomendados.labels.inSpanish">En español →</a>
                 </div>
               </div>
             </div>
@@ -648,7 +618,7 @@
                 <span class="rec-apost-tag" data-i18n="topicPages.recursos-recomendados.sec3.ewtn.tag">Televisión · Radio</span>
                 <p data-i18n="topicPages.recursos-recomendados.sec3.ewtn.desc">La red de televisión católica más grande del mundo. Misa diaria, Santo Rosario, documentales y formación las 24 horas.</p>
                 <div class="rec-apost-links">
-                  <a href="https://www.ewtn.com/" target="_blank" rel="noopener" class="rec-apost-link">Sitio web →</a>
+                  <a href="https://www.ewtn.com/" target="_blank" rel="noopener" class="rec-apost-link" data-i18n="topicPages.recursos-recomendados.labels.website">Sitio web →</a>
                 </div>
               </div>
             </div>
@@ -674,21 +644,10 @@
     <footer>
         <p data-i18n="footer.text">&copy; 2026 Fé y Razón. Ad maiorem Dei gloriam.</p>
         <p class="footer-rights" data-i18n="footer.rights">&copy; 2026 M. Gabriel Castiglia. Todos los derechos reservados. Prohibida la reproducción total o parcial sin autorización escrita del autor.</p>
+        <p class="footer-legal"><a href="privacidad.html" data-i18n="topicPages.privacidad.linkLabel">Privacidad</a></p>
     </footer>
     
-    <script src="js/main.js?v=5" defer></script>
-    <script src="js/translations-es.js?v=5" defer></script>
-    <script src="js/translations-en.js?v=5" defer></script>
-    <script src="js/translations-ja.js?v=5" defer></script>
-    <script src="js/translations-tl.js?v=5" defer></script>
-    <script src="js/translations-da.js?v=5" defer></script>
-    <script src="js/translations-la.js?v=5" defer></script>
-    <script src="js/translations-fr.js?v=5" defer></script>
-    <script src="js/translations-pt.js?v=5" defer></script>
-    <script src="js/translations-sw.js?v=5" defer></script>
-    <script src="js/translations-it.js?v=5" defer></script>
-    <script src="js/translations-ln.js?v=5" defer></script>
-    <script src="js/translations-ig.js?v=5" defer></script>
-    <script src="js/translations.js?v=5" defer></script>
+    <script src="js/main.js?v=6" defer></script>
+    <script src="js/translations.js?v=6" defer></script>
 </body>
 </html>

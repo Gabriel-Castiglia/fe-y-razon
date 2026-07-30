@@ -5,6 +5,7 @@
 
 const translationsLA = {
   logo: "Fides et Ratio",
+  siteTitle: "Fides et Ratio | Apologetica Catholica",
   nav: {
     home: "Initium",
     topics: "Themata",
@@ -129,7 +130,7 @@ const translationsLA = {
     subject: { placeholder: "Subiectum" },
     message: { placeholder: "Nuntius tuus" },
     submit: "Nuntium mittere",
-    cookieNotice: "Hoc formulario submisso, consentis data tua a servitiis tertiis ad systema operandum tractari.",
+    cookieNotice: "Formulario misso, data tua ad Formspree eunt, servitium quod nuntium ad nos perfert, et ad tibi respondendum tantum adhibentur. <a href='privacidad.html'>Quomodo data tua tractemus</a>.",
     success: {
       title: "Nuntius acceptus est",
       desc: "Gratias tibi agimus quod nobis scripsisti. Quam primum respondebimuus. Ad maiorem Dei gloriam."
@@ -440,7 +441,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
 
             <p>Sancti sunt qui in fide vixerunt — sicut Abel, Henoch, Noe, Abraham, Moyses, prophetae — qui post mortem sunt in civitate Dei viventis, Hierusalem caelesti. Ibi perfecte cognoscunt, sicut Deus eos in vita cognovit. Ibi Deum vident sicuti est. Ibi nulla limitatio, nulla distantia.</p>
 
-            <p>Et quod Ecclesia facit eos invocando est exacte quod Apocalypsis ostendit: preces nostras ad altare caeli deferunt easque ante thronum Agni offerunt. Non adoramus sanctos. Petimus eos ut pro nobis apud Deum intercedant, sicut ab ullo fratre petimus ut pro nobis oret. Differentia est quod illi in caelo sunt et cognoscunt sicut Deus nos cognoscit: perfecte. Ideo nos vident, nos audiunt, et intercedunt.`,
+            <p>Et quod Ecclesia facit eos invocando est exacte quod Apocalypsis ostendit: preces nostras ad altare caeli deferunt easque ante thronum Agni offerunt. Non adoramus sanctos. Petimus eos ut pro nobis apud Deum intercedant, sicut ab ullo fratre petimus ut pro nobis oret. Differentia est quod illi in caelo sunt et cognoscunt sicut Deus nos cognoscit: perfecte. Ideo nos vident, nos audiunt, et intercedunt.</p>`,
       nav: {
         prevTitle: "Transsubstantiatio: mysterium eucharisticum",
         nextTitle: "Sanctissima Trinitas"
@@ -670,7 +671,9 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         },
         cta: "Vide librum rigide compactum apud Amazon →",
         note: "Nexus ad editionem Anglicam rigide compactam apud Amazon Civitatum Foederatarum ducit. Unaquaeque lingua praeterea editionem molliter compactam et Kindle habet: eam lingua tua in taberna Amazon patriae tuae quaere.",
-        coverAlt: "Tegumentum libri The False Door, auctore M. Gabriel Castiglia"
+        coverAlt: "Tegumentum libri The False Door, auctore M. Gabriel Castiglia",
+        // Sin edición propia del libro: se muestra la portada inglesa.
+        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg"
       },
       sec5: {
         eyebrow: "Monitum iuridicum",
@@ -688,6 +691,17 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
             <h1>Subsidia Commendanda</h1>
             <p>Fontes fideles ad approfundandam, discendam et communicandam fidem catholicam.</p>
             <a href="index.html#temas" class="btn-outline-white">Ad Themata reverti</a>`,
+      labels: {
+        bible: "Sacra Scriptura →",
+        catechism: "Catechismus →",
+        website: "Situs interretialis →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "Hispanice →",
+        toroCountry: "Venetiola",
+        oliveraCountry: "Argentina · QNTLC",
+        heraldosTag: "Aequatoria"
+      },
       sec1: { eyebrow: "Sancta Sedes", title: "Fontes Vaticani", desc: "Documenta officialia Ecclesiae, in situ Sanctae Sedis praesto." },
       sec2: {
         eyebrow: "Apologetica · Formatio", title: "Sacerdotes et Formatores", desc: "Voces Magisterio fideles quae fidem cum profunditate et rigore docent, defendunt et proclamant.",
@@ -701,51 +715,36 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         grat:     { desc: "Biblia Hierosolymitana anglice vel hispanice (pro aliis linguis paginam officialem verifica). Cum unico consilio studii continente explicationes gradatim et graphica, neophytis aptissima.", tag: "Biblia · Formatio" },
         ewtn:     { desc: "Maxima retis televisificae catholicae in mundo. Missa cotidiana, Sacrum Rosarium, documenta et formatio viginti quattuor horis.", tag: "Televisio · Radio" }
       },
-      article: `<h2>Vaticanus</h2>
-                <p>Situs officialis Sanctae Sedis, ubi Bibliam, Catechismum Ecclesiae Catholicae, documenta papalia et multa alia invenire potes.</p>
-                <ul>
-                    <li><a href="https://www.vatican.va/content/vatican/es.html" target="_blank">Situs Officialis Vaticanus</a></li>
-                    <li><a href="https://www.vatican.va/archive/catechism_sp/index_sp.htm" target="_blank">Catechismus Ecclesiae Catholicae</a></li>
-                </ul>
-
-                <h2>Apologetica et Formatio</h2>
-                <h3>Pater Ludovicus Toro</h3>
-                <p>Conferentiis et disputationibus apologeticis notus, Pater Ludovicus Toro solidam fidei catholicae defensionem offert.</p>
-                <ul>
-                    <li><a href="https://www.youtube.com/@PadreLuisToroOficial" target="_blank">Canalis YouTube Patris Ludovici Toro Officialis</a></li>
-                </ul>
-
-
-                <h3>Heraldos del Evangelio Ecuador</h3>
-                <p>Consociatio fidelium iuris pontificii quae sanctificationem membrorum et evangelizationem quaerit.</p>
-                <ul>
-                    <li><a href="https://heraldosdelevangelio.ec/" target="_blank">Situs Officialis Heraldorum Evangelii Ecuador</a></li>
-                </ul>
-
-                <h3>Que No Te La Cuenten</h3>
-                <p>Plataforma apologeticae catholicae dedicata, mythis refutandis et formationi offerendae.</p>
-                <ul>
-                    <li><a href="https://quenotelacuenten.org/" target="_blank">Situs Officialis Que No Te La Cuenten</a></li>
-                    <li><a href="https://www.youtube.com/@quenotelacuenten" target="_blank">Canalis YouTube Que No Te La Cuenten</a></li>
-                </ul>
-
-                <h2>Subsidia ad Orationem et Studium Biblicum</h2>
-                <h3>Rough Rosaries</h3>
-                <p>Coronae robustae et durabiles artificiosae, traditione militari et fide inspiratae.</p>
-                <ul>
-                    <li><a href="https://roughrosaries.com/" target="_blank">Situs Officialis Rough Rosaries</a></li>
-                </ul>
-
-                <h3>Ascension Presents</h3>
-                <p>Editrix catholica subsidia formationis offerens, inclusa populari serie «Biblia per Annum» cum Patre Michaele Schmitz et «The Great Adventure Catholic Bible».</p>
-                <ul>
-                    <li><a href="https://ascensionpress.com/collections/the-great-adventure-catholic-bible" target="_blank">The Great Adventure Catholic Bible</a></li>
-                    <li><a href="https://ascensionpress.com/pages/biy-registration" target="_blank">Biblia per Annum (Podcast)</a></li>
-                </ul>`,
       nav: {
         prevTitle: "Primatus Petri",
         nextTitle: "Sacerdotium in Ecclesia Catholica"
       }
+    },
+    "privacidad": {
+      pageTitle: "De privatis | Fides et Ratio",
+      linkLabel: "De privatis",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Monitum legale</span>
+            </div>
+            <h1>De privatis</h1>
+            <p>Quae data hic situs colligat, ad quid adhibeantur, et quo mittantur.</p>
+            <a href="index.html#temas" class="btn-outline-white">Ad Themata redire</a>`,
+      article: `<p>Hic situs crustulis (cookies) non utitur, nullam analysim habet, nullam publicitatem ostendit, nec ullos bullas vel indagatores retium socialium continet. Litterarum formae, imagines et pelliculae ab hoc ipso dominio praebentur: cum paginam aperis, navigatrum nihil ab ullo tertio petit.</p>
+                <h2>Quae data colligantur</h2>
+                <p>Ea sola quae manu in formulario contactus scribuntur: <strong>nomen, inscriptio electronica, argumentum et nuntius</strong>. Nulla alia data colliguntur, neque ullum aliud formularium in situ est.</p>
+                <h2>Ad quid adhibeantur</h2>
+                <p>Ad nuntium legendum et respondendum tantum. Non venduntur, non ad negotia traduntur, neque ad epistulas circulares vel publicitatem mittendam adhibentur.</p>
+                <h2>Quo mittantur</h2>
+                <p>Formularium ad <strong>Formspree</strong> (formspree.io) mittitur, quod servitium nuntium accipit et ad auctorem perfert. Formulario utens, ea data etiam condicionibus illius servitii subiciuntur, quae in <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">eius consilio de privatis</a> legi possunt.</p>
+                <h2>Ubi situs hospitetur</h2>
+                <p>Hae paginae per <strong>GitHub Pages</strong> publicantur. Sicut omnis servitor interretialis, petitiones acceptas in commentarios refert, ut paginas tradere et ab abusu tueri possit. Ii commentarii sub potestate huius situs non sunt.</p>
+                <h2>Quod unum in navigatro tuo servatur</h2>
+                <p>Lingua quam eligis, sub clave <strong>language</strong>, in repositorio locali navigatri. Crustulum non est, ad nullum servitorem mittitur, neminem identificat: id tantum efficit ut situs proxima vice tua lingua aperiatur. Deletur si data huius situs ex ipso navigatro purgas.</p>
+                <h2>Nexus ad alios situs</h2>
+                <p>Hae paginae ad situs tertiorum ducunt — Vatican.va, YouTube, Amazon et apostolatus commendatos. Quidquid accidit postquam hinc discedis, consiliis illorum situum regitur, non hoc.</p>
+                <h2>Quis respondeat, et quomodo contingere</h2>
+                <p>Huius situs curator est <strong>M. Gabriel Castiglia</strong>. De quavis quaestione circa data tua — etiam ut nuntius a te missus deleatur — per <a href="index.html#contacto">formularium contactus</a> scribe.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "De hoc loco | Fides et Ratio",
@@ -798,3 +797,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
     text: "&copy; MMXXVI Fides et Ratio. Ad maiorem Dei gloriam."
   }
 };
+
+// Se expone en window para que el cargador por idioma pueda tomarlo por nombre.
+// El `const` de arriba queda igual: es lo que leen los verificadores de _TRABAJO.
+if (typeof window !== 'undefined') window.translationsLA = translationsLA;
