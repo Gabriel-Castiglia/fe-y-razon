@@ -146,17 +146,12 @@ document.addEventListener('DOMContentLoaded', function () {
 
   const hero = document.getElementById('hero');
 
-  const langTrigger = document.getElementById('lang-dropdown-trigger');
-
-  // Cambia la apariencia del header (transparente -> sólido) al hacer scroll
+  // Cambia la apariencia del header (transparente -> sólido) al hacer scroll.
+  // Los colores del selector de idioma se dejan al CSS a propósito: cuando se
+  // fijaban acá con estilo inline, ganaban a toda regla posterior y el selector
+  // quedaba negro sobre negro con el menú móvil abierto.
   function updateHeaderScroll() {
-    const scrolled = window.scrollY > 50;
-    header.classList.toggle('scrolled', scrolled);
-    if (langTrigger) {
-      // Ajuste dinámico de colores del selector de idioma según el fondo
-      langTrigger.style.borderColor = scrolled ? 'rgba(160, 115, 50, 0.8)' : '';
-      langTrigger.style.color = scrolled ? '#1a1410' : '';
-    }
+    header.classList.toggle('scrolled', window.scrollY > 50);
   }
 
   window.addEventListener('scroll', updateHeaderScroll, { passive: true });

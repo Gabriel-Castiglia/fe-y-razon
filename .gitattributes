@@ -7,3 +7,9 @@
 *.png  binary
 *.mp4  binary
 *.webm binary
+
+# Fuentes: binarias, git no debe normalizarles los finales de línea.
+*.woff2 binary
+*.woff  binary
+*.ttf   binary
+*.otf   binary
