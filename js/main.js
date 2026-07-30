@@ -31,6 +31,78 @@
   setTimeout(dismiss, 2200);
 })();
 
+// 1b. ARRANQUE DE LOS VIDEOS DE FONDO
+//
+// Todos los videos del sitio son de fondo, mudos y en bucle, y los arranca el
+// JavaScript: unos empiezan con preload="none" para no descargarlos en cada
+// visita, y los del crossfade se van encadenando entre sí.
+//
+// Safari en el iPhone rechaza un play() pedido cuando el archivo todavía no
+// tiene datos. El rechazo llega como una promesa fallida, fácil de tragarse con
+// un catch vacío, y el video se queda congelado en el póster. Peor: como nunca
+// empieza, tampoco dispara el 'ended' que encadenaría el siguiente, así que la
+// sección entera se queda quieta. En Chrome no se notaba porque es más
+// permisivo con el arranque automático.
+//
+// Estas funciones concentran el arranque y la parada de todos los videos del
+// sitio, acá y en router.js. reproducir() pide la carga, marca autoplay —que es
+// lo que Safari respeta de verdad, más que un play() a mano— y reintenta cada
+// vez que llegan datos, mientras ese video siga siendo el que toca mostrar.
+window.FYRVideo = (function () {
+  const gestionados = [];
+
+  function reproducir(video) {
+    if (!video) return;
+    video.dataset.fyrCorriendo = '1';
+    video.preload = 'auto';
+    video.autoplay = true;
+    // load() solo si el navegador todavía no eligió una fuente: con un video que
+    // ya está cargando, volver a llamarlo reiniciaría la descarga.
+    if (video.readyState === 0 && !video.currentSrc) video.load();
+    video.play().catch(() => {});
+
+    if (video.dataset.fyrReintento) return;
+    video.dataset.fyrReintento = '1';
+    gestionados.push(video);
+
+    // Solo se insiste con el video que debe estar sonando: los que salen del
+    // crossfade quedan marcados y no se resucitan solos.
+    const reintentar = () => {
+      if (video.dataset.fyrCorriendo === '1' && video.paused) video.play().catch(() => {});
+    };
+    ['loadeddata', 'canplay', 'canplaythrough'].forEach(ev => video.addEventListener(ev, reintentar));
+  }
+
+  function detener(video) {
+    if (!video) return;
+    video.dataset.fyrCorriendo = '0';
+    // Se le saca el autoplay además de pausarlo: los videos del overlay se
+    // reutilizan con otras fuentes al abrir el artículo siguiente, y con el
+    // autoplay puesto arrancarían los tres a la vez en cuanto tuvieran datos.
+    video.autoplay = false;
+    video.pause();
+  }
+
+  function reanudar() {
+    gestionados.forEach(v => {
+      if (v.dataset.fyrCorriendo === '1' && v.paused) v.play().catch(() => {});
+    });
+  }
+
+  // Último recurso: con el ahorro de energía de iOS activado, el sistema
+  // bloquea todo arranque automático y solo lo permite tras un gesto.
+  ['touchstart', 'click'].forEach(ev =>
+    document.addEventListener(ev, reanudar, { passive: true })
+  );
+
+  // iOS también congela los videos al volver de segundo plano.
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'visible') reanudar();
+  });
+
+  return { reproducir, detener, reanudar };
+})();
+
 document.addEventListener('DOMContentLoaded', function () {
 
   const header = document.getElementById('header');
@@ -76,14 +148,13 @@ document.addEventListener('DOMContentLoaded', function () {
       if (prevVideo === nextVideo) return;
 
       currentIndex = index;
-      nextVideo.preload = 'auto';
       nextVideo.currentTime = 0;
-      nextVideo.play().catch(() => {});
+      window.FYRVideo.reproducir(nextVideo);
       nextVideo.classList.add('active');
 
       setTimeout(() => {
         prevVideo.classList.remove('active');
-        prevVideo.pause();
+        window.FYRVideo.detener(prevVideo);
         prevVideo.currentTime = 0;
         isTransitioning = false;
       }, TRANSITION_MS);
@@ -103,7 +174,14 @@ document.addEventListener('DOMContentLoaded', function () {
       video.addEventListener('ended', advance);
     });
 
-    videos[0].play().catch(() => { setTimeout(advance, 2500); });
+    window.FYRVideo.reproducir(videos[0]);
+
+    // Si al cabo de un rato el primero sigue sin arrancar y el motivo es el
+    // archivo —no la política de autoplay—, se pasa al siguiente en vez de
+    // dejar la sección congelada.
+    setTimeout(() => {
+      if (videos.length > 1 && videos[0].paused && (videos[0].error || videos[0].readyState === 0)) advance();
+    }, 4000);
   }
 
   VideoManager('.hero-video');
@@ -122,48 +200,19 @@ document.addEventListener('DOMContentLoaded', function () {
     }, { rootMargin: '300px' }).observe(contactSection);
   }
 
-  // Lazy-init meditación cuando entra al viewport.
-  //
-  // Safari en iPhone no arranca un video que todavía no tiene datos. Como este
-  // empieza con preload="none", el primer play() se rechaza en silencio y el
-  // video se queda congelado en el póster: en Chrome se veía bien y en el
-  // teléfono no. Por eso ahora se pide la carga con load(), se marca autoplay
-  // —que es lo que Safari respeta de verdad, mejor que un play() a mano— y se
-  // reintenta cada vez que llegan datos, hasta que esté corriendo.
+  // Lazy-init meditación cuando entra al viewport. Este es el único que no
+  // forma parte de un crossfade: va solo y en bucle.
   const meditacionVid = document.querySelector('.meditacion-video');
   if (meditacionVid) {
-    const arrancarMeditacion = () => {
-      if (!meditacionVid.paused) return;
-      meditacionVid.play().catch(() => {});
-    };
-
     new IntersectionObserver((entries, obs) => {
       if (!entries[0].isIntersecting) return;
       obs.disconnect();
-      meditacionVid.preload = 'auto';
-      meditacionVid.autoplay = true;
-      meditacionVid.load();
-      arrancarMeditacion();
-      ['loadeddata', 'canplay', 'canplaythrough'].forEach(ev =>
-        meditacionVid.addEventListener(ev, arrancarMeditacion)
-      );
+      window.FYRVideo.reproducir(meditacionVid);
     }, { rootMargin: '300px' }).observe(meditacionVid);
-
-    // Último recurso: con el ahorro de energía de iOS activado, el sistema
-    // bloquea todo arranque automático y solo lo permite tras un gesto. El
-    // primero que haga el visitante lo desbloquea.
-    ['touchstart', 'click'].forEach(ev =>
-      document.addEventListener(ev, arrancarMeditacion, { passive: true })
-    );
   }
 
-  // Reiniciar videos activos al volver de background — iOS Safari los congela
-  document.addEventListener('visibilitychange', () => {
-    if (document.visibilityState !== 'visible') return;
-    document.querySelectorAll('.hero-video.active, .contact-video.active, .meditacion-video').forEach(v => {
-      if (v.paused) v.play().catch(() => {});
-    });
-  });
+  // De volver de segundo plano se encarga FYRVideo, que sabe cuáles son los
+  // videos que tienen que estar corriendo en cada momento.
 
   // 5. EFECTOS DEL HEADER AL HACER SCROLL
   // Cambia la opacidad y colores del menú según la posición del scroll.
