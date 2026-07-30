@@ -1,5 +1,6 @@
 const translationsEN = {
   logo: "Faith and Reason",
+  siteTitle: "Faith and Reason | Catholic Apologetics",
   nav: {
     home: "Home",
     topics: "Topics",
@@ -124,7 +125,7 @@ const translationsEN = {
     subject: { placeholder: "Subject" },
     message: { placeholder: "Your message" },
     submit: "Send message",
-    cookieNotice: "By submitting this form, you acknowledge that your data is processed by third-party services for system operation.",
+    cookieNotice: "When you send the form, your data travels to Formspree, the service that delivers the message to us, and is used only to reply to you. <a href='privacidad.html'>How we handle your data</a>.",
     success: {
       title: "Message received",
       desc: "Thank you for writing to us. We will respond shortly. Ad maiorem Dei gloriam."
@@ -664,7 +665,8 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
         },
         cta: "See the hardcover on Amazon →",
         note: "The link goes to the English hardcover on Amazon US. Every language also has its own paperback and Kindle edition: look for it in your own language, in your country's Amazon store.",
-        coverAlt: "Cover of The False Door, by M. Gabriel Castiglia"
+        coverAlt: "Cover of The False Door, by M. Gabriel Castiglia",
+        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg"
       },
       sec5: {
         eyebrow: "Legal notice",
@@ -682,6 +684,17 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
             <h1>Recommended Resources</h1>
             <p>Trusted sources for deepening, learning, and sharing the Catholic faith.</p>
             <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
+      labels: {
+        bible: "Sacred Scripture →",
+        catechism: "Catechism →",
+        website: "Website →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "In Spanish →",
+        toroCountry: "Venezuela",
+        oliveraCountry: "Argentina · QNTLC",
+        heraldosTag: "Ecuador"
+      },
       sec1: { eyebrow: "Holy See", title: "Vatican Sources", desc: "Official Church documents, available on the Holy See\'s website." },
       sec2: {
         eyebrow: "Apologetics · Formation", title: "Priests and Educators", desc: "Voices faithful to the Magisterium who teach, defend, and proclaim the faith with depth and rigor.",
@@ -695,51 +708,36 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
         grat:     { desc: "Jerusalem Bible in English or Latin American Spanish (for other languages check the official page). With unique study plan containing step-by-step explanations and graphics, ideal for neophytes.", tag: "Bible · Formation" },
         ewtn:     { desc: "The world's largest Catholic television network. Daily Mass, Holy Rosary, documentaries, and formation 24 hours a day.", tag: "Television · Radio" }
       },
-      article: `<h2>Vatican</h2>
-                <p>The official website of the Holy See, where you can find the Bible, the Catechism of the Catholic Church, papal documents, and much more.</p>
-                <ul>
-                    <li><a href="https://www.vatican.va/content/vatican/en.html" target="_blank">Official Vatican Website</a></li>
-                    <li><a href="https://www.vatican.va/archive/ENG0015/_INDEX.HTM" target="_blank">Catechism of the Catholic Church (English)</a></li>
-                </ul>
-
-                <h2>Apologetics and Formation</h2>
-                <h3>Father Luis Toro</h3>
-                <p>Known for his apologetic conferences and debates, Father Luis Toro offers a solid defense of the Catholic faith.</p>
-                <ul>
-                    <li><a href="https://www.youtube.com/@PadreLuisToroOficial" target="_blank">Father Luis Toro Official YouTube Channel</a></li>
-                </ul>
-
-
-                <h3>Heraldos del Evangelio Ecuador</h3>
-                <p>An association of the faithful of pontifical right that seeks the sanctification of its members and evangelization.</p>
-                <ul>
-                    <li><a href="https://heraldosdelevangelio.ec/" target="_blank">Official Heraldos del Evangelio Ecuador Website</a></li>
-                </ul>
-
-                <h3>Que No Te La Cuenten</h3>
-                <p>Platform dedicated to Catholic apologetics, debunking myths and offering formation.</p>
-                <ul>
-                    <li><a href="https://quenotelacuenten.org/" target="_blank">Official Que No Te La Cuenten Website</a></li>
-                    <li><a href="https://www.youtube.com/@quenotelacuenten" target="_blank">Que No Te La Cuenten YouTube Channel</a></li>
-                </ul>
-
-                <h2>Resources for Prayer and Bible Study</h2>
-                <h3>Rough Rosaries</h3>
-                <p>Crafting robust and durable rosaries, inspired by military tradition and faith.</p>
-                <ul>
-                    <li><a href="https://roughrosaries.com/" target="_blank">Official Rough Rosaries Website</a></li>
-                </ul>
-
-                <h3>Ascension Presents</h3>
-                <p>A Catholic publisher offering formation resources, including the popular "Bible in a Year" series with Father Mike Schmitz and "The Great Adventure Catholic Bible".</p>
-                <ul>
-                    <li><a href="https://ascensionpress.com/collections/the-great-adventure-catholic-bible" target="_blank">The Great Adventure Catholic Bible</a></li>
-                    <li><a href="https://ascensionpress.com/pages/biy-registration" target="_blank">The Bible in a Year (Podcast)</a></li>
-                </ul>`,
       nav: {
         prevTitle: "The Primacy of Peter",
         nextTitle: "The Priesthood in the Catholic Church"
       }
+    },
+    "privacidad": {
+      pageTitle: "Privacy | Faith and Reason",
+      linkLabel: "Privacy",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Legal notice</span>
+            </div>
+            <h1>Privacy</h1>
+            <p>What data this site collects, what it is used for, and where it goes.</p>
+            <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
+      article: `<p>This site uses no cookies, has no analytics, shows no advertising and includes no social media buttons or trackers. The fonts, images and videos are served from this same domain: when you open a page, your browser requests nothing from any third party.</p>
+                <h2>What data is collected</h2>
+                <p>Only what you type into the contact form: <strong>name, email address, subject and message</strong>. No other data is collected, and there is no other form anywhere on the site.</p>
+                <h2>What it is used for</h2>
+                <p>Only to read your message and reply to it. It is not sold, not shared for commercial purposes, and never used for newsletters or advertising.</p>
+                <h2>Where it goes</h2>
+                <p>The form is sent to <strong>Formspree</strong> (formspree.io), the service that receives the message and delivers it to the author. By using the form, that data is also subject to that service's terms, which you can read in <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">their privacy policy</a>.</p>
+                <h2>Where the site is hosted</h2>
+                <p>These pages are published through <strong>GitHub Pages</strong>. Like any web server, it logs the requests it receives in order to deliver the pages and protect them from abuse. Those logs are not under this site's control.</p>
+                <h2>The one thing stored in your browser</h2>
+                <p>The language you choose, under the key <strong>language</strong>, in your browser's local storage. It is not a cookie, it is never sent to any server and it identifies no one: it simply lets the site open in your language next time. You can remove it by clearing this site's data from your browser.</p>
+                <h2>Links to other sites</h2>
+                <p>These pages link to third-party sites — Vatican.va, YouTube, Amazon and the recommended apostolates. Whatever happens once you leave is governed by those sites' policies, not by this one.</p>
+                <h2>Who is responsible, and how to get in touch</h2>
+                <p>This site is the responsibility of <strong>M. Gabriel Castiglia</strong>. For any question about your data — including asking that a message you sent be deleted — write through the <a href="index.html#contacto">contact form</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "About This Site | Faith and Reason",
@@ -792,3 +790,6 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
     text: "&copy; 2026 Faith and Reason. Ad maiorem Dei gloriam."
   }
 };
+// Se expone en window para que el cargador por idioma pueda tomarlo por nombre.
+// El `const` de arriba queda igual: es lo que leen los verificadores de _TRABAJO.
+if (typeof window !== 'undefined') window.translationsEN = translationsEN;

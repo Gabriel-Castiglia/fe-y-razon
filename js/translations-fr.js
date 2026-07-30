@@ -1,5 +1,6 @@
 const translationsFR = {
   logo: "Foi et Raison",
+  siteTitle: "Foi et Raison | Apologétique catholique",
   nav: {
     home: "Accueil",
     topics: "Thèmes",
@@ -60,7 +61,7 @@ const translationsFR = {
   contact: {
     title: "Contact", desc: "Avez-vous des questions ou souhaitez-vous collaborer avec nous ? Envoyez-nous un message.",
     name: { placeholder: "Votre nom" }, email: { placeholder: "Votre adresse e-mail" }, subject: { placeholder: "Sujet" }, message: { placeholder: "Votre message" },
-    submit: "Envoyer le message", cookieNotice: "En soumettant ce formulaire, vous acceptez que vos données soient traitées par des services tiers pour le fonctionnement du système.",
+    submit: "Envoyer le message", cookieNotice: "En envoyant le formulaire, vos données passent par Formspree, le service qui nous transmet le message, et ne servent qu'à vous répondre. <a href='privacidad.html'>Comment nous traitons vos données</a>.",
     success: { title: "Message reçu", desc: "Merci de nous avoir écrit. Nous vous répondrons dans les plus brefs délais. Ad majorem Dei gloriam." }
   },
   topicPages: {
@@ -301,7 +302,8 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
         },
         cta: "Voir le livre relié sur Amazon →",
         note: "Le lien mène à l'édition reliée en anglais, sur Amazon États-Unis. Chaque langue possède également son édition brochée et son édition Kindle : cherchez-la dans votre langue, sur la boutique Amazon de votre pays.",
-        coverAlt: "Couverture de La Fausse Porte, de M. Gabriel Castiglia"
+        coverAlt: "Couverture de La Fausse Porte, de M. Gabriel Castiglia",
+        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-fr.jpg"
       },
       sec5: {
         eyebrow: "Mentions légales",
@@ -313,6 +315,17 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
       },
       pageTitle: "Ressources recommandées | Foi et Raison",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Ressources</span></div><h1>Ressources recommandées</h1><p>Sources de confiance pour approfondir, se former et partager la foi catholique.</p><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+      labels: {
+        bible: "Sainte Écriture →",
+        catechism: "Catéchisme →",
+        website: "Site web →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "En espagnol →",
+        toroCountry: "Venezuela",
+        oliveraCountry: "Argentine · QNTLC",
+        heraldosTag: "Équateur"
+      },
       sec1: { eyebrow: "Saint-Siège", title: "Sources vaticanes", desc: "Documents officiels de l'Église, disponibles sur le site du Saint-Siège." },
       sec2: {
         eyebrow: "Apologétique · Formation", title: "Prêtres et formateurs", desc: "Des voix fidèles au Magistère qui enseignent, défendent et proclament la foi avec profondeur et rigueur.",
@@ -326,8 +339,27 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
         grat:     { desc: "Bible de Jérusalem en anglais ou en espagnol latino (pour les autres langues, vérifiez sur la page officielle). Avec un plan d'étude unique contenant des explications étape par étape et des graphiques, idéal pour les néophytes.", tag: "Bible · Formation" },
         ewtn:     { desc: "Le plus grand réseau de télévision catholique au monde. Messe quotidienne, Saint Rosaire, documentaires et formation 24h/24.", tag: "Télévision · Radio" }
       },
-      article: `<h2>Vatican</h2><p>Le site officiel du Saint-Siège, où vous pouvez trouver la Bible, le Catéchisme de l'Église Catholique, des documents pontificaux et bien plus encore.</p><ul><li><a href="https://www.vatican.va/content/vatican/fr.html" target="_blank">Site Officiel du Vatican</a></li><li><a href="https://www.vatican.va/archive/FRA0013/_INDEX.HTM" target="_blank">Catéchisme de l'Église Catholique</a></li></ul><h2>Apologétique et Formation</h2><h3>Ascension Presents</h3><p>Éditeur catholique proposant des ressources de formation, y compris "La Bible en un an" (Bible in a Year).</p><ul><li><a href="https://ascensionpress.com/" target="_blank">Ascension Press</a></li></ul>`,
       nav: { prevTitle: "La primauté de Pierre", nextTitle: "Le Sacerdoce dans l'Église Catholique" }
+    },
+    "privacidad": {
+      pageTitle: "Confidentialité | Foi et Raison",
+      linkLabel: "Confidentialité",
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mentions légales</span></div><h1>Confidentialité</h1><p>Quelles données ce site recueille, à quoi elles servent et où elles vont.</p><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+      article: `<p>Ce site n'utilise pas de cookies, n'a pas d'outil de mesure d'audience, n'affiche aucune publicité et ne contient ni boutons ni traceurs de réseaux sociaux. Les polices, les images et les vidéos sont servies depuis ce même domaine : lorsque vous ouvrez une page, votre navigateur ne demande rien à aucun tiers.</p>
+                <h2>Quelles données sont recueillies</h2>
+                <p>Uniquement celles que vous saisissez vous-même dans le formulaire de contact : <strong>nom, adresse électronique, objet et message</strong>. Aucune autre donnée n'est recueillie, et il n'existe aucun autre formulaire sur le site.</p>
+                <h2>À quoi elles servent</h2>
+                <p>Uniquement à lire votre message et à y répondre. Elles ne sont ni vendues, ni cédées à des fins commerciales, et ne servent jamais à envoyer des lettres d'information ou de la publicité.</p>
+                <h2>Où elles vont</h2>
+                <p>Le formulaire est envoyé à <strong>Formspree</strong> (formspree.io), le service qui reçoit le message et le transmet à l'auteur. En utilisant le formulaire, ces données relèvent aussi des conditions de ce service, consultables dans <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">sa politique de confidentialité</a>.</p>
+                <h2>Où le site est hébergé</h2>
+                <p>Ces pages sont publiées au moyen de <strong>GitHub Pages</strong>. Comme tout serveur web, il journalise les requêtes reçues afin de servir les pages et de les protéger des abus. Ces journaux ne sont pas sous le contrôle de ce site.</p>
+                <h2>La seule chose enregistrée dans votre navigateur</h2>
+                <p>La langue que vous choisissez, sous la clé <strong>language</strong>, dans le stockage local du navigateur. Ce n'est pas un cookie, cela n'est envoyé à aucun serveur et n'identifie personne : cela sert seulement à ce que le site s'ouvre dans votre langue la prochaine fois. Vous pouvez l'effacer en vidant les données de ce site depuis votre navigateur.</p>
+                <h2>Liens vers d'autres sites</h2>
+                <p>Ces pages renvoient à des sites tiers — Vatican.va, YouTube, Amazon et les apostolats recommandés. Ce qui se passe une fois que vous avez quitté ce site relève des politiques de ces sites, non de celle-ci.</p>
+                <h2>Responsable et contact</h2>
+                <p>Le responsable de ce site est <strong>M. Gabriel Castiglia</strong>. Pour toute question concernant vos données — y compris la suppression d'un message que vous avez envoyé — écrivez via le <a href="index.html#contacto">formulaire de contact</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "À propos de ce site | Foi et Raison",
@@ -376,3 +408,6 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Tous droits réservés.</strong> Toute reproduction, totale ou partielle, est interdite sans l'autorisation écrite de l'auteur.", text: "&copy; 2026 Foi et Raison. Ad majorem Dei gloriam." }
 };
+// Se expone en window para que el cargador por idioma pueda tomarlo por nombre.
+// El `const` de arriba queda igual: es lo que leen los verificadores de _TRABAJO.
+if (typeof window !== 'undefined') window.translationsFR = translationsFR;

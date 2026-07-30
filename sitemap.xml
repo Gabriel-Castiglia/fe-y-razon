@@ -230,5 +230,24 @@
         <xhtml:link rel="alternate" hreflang="ig" href="https://proyectofeyrazon.com/sobre-este-sitio.html?lang=ig"/>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://proyectofeyrazon.com/sobre-este-sitio.html"/>
     </url>
+    <url>
+        <loc>https://proyectofeyrazon.com/privacidad.html</loc>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+        <xhtml:link rel="alternate" hreflang="es" href="https://proyectofeyrazon.com/privacidad.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://proyectofeyrazon.com/privacidad.html?lang=en"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://proyectofeyrazon.com/privacidad.html?lang=ja"/>
+        <xhtml:link rel="alternate" hreflang="tl" href="https://proyectofeyrazon.com/privacidad.html?lang=tl"/>
+        <xhtml:link rel="alternate" hreflang="da" href="https://proyectofeyrazon.com/privacidad.html?lang=da"/>
+        <xhtml:link rel="alternate" hreflang="la" href="https://proyectofeyrazon.com/privacidad.html?lang=la"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://proyectofeyrazon.com/privacidad.html?lang=fr"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://proyectofeyrazon.com/privacidad.html?lang=pt"/>
+        <xhtml:link rel="alternate" hreflang="sw" href="https://proyectofeyrazon.com/privacidad.html?lang=sw"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://proyectofeyrazon.com/privacidad.html?lang=it"/>
+        <xhtml:link rel="alternate" hreflang="ln" href="https://proyectofeyrazon.com/privacidad.html?lang=ln"/>
+        <xhtml:link rel="alternate" hreflang="ig" href="https://proyectofeyrazon.com/privacidad.html?lang=ig"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://proyectofeyrazon.com/privacidad.html"/>
+    </url>
 
 </urlset>

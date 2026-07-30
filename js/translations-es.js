@@ -5,6 +5,10 @@
 
 const translationsES = {
   logo: "Fé y Razón",
+  // Título de la pestaña en la portada. Antes se armaba en el código como
+  // `logo + " | Apologética Católica"`, con esas dos palabras en español fijas
+  // para los doce idiomas.
+  siteTitle: "Fé y Razón | Apologética Católica",
   nav: {
     home: "Inicio",
     topics: "Temas",
@@ -129,7 +133,7 @@ const translationsES = {
     subject: { placeholder: "Asunto" },
     message: { placeholder: "Tu mensaje" },
     submit: "Enviar mensaje",
-    cookieNotice: "Al enviar este formulario, aceptas que tus datos sean procesados por servicios de terceros para el funcionamiento del sistema.",
+    cookieNotice: "Al enviar el formulario, tus datos viajan a Formspree, el servicio que nos hace llegar el mensaje, y se usan sólo para responderte. <a href='privacidad.html'>Cómo tratamos tus datos</a>.",
     success: {
       title: "Mensaje recibido",
       desc: "Gracias por escribirnos. Te responderemos a la brevedad. Ad maiorem Dei gloriam."
@@ -762,7 +766,11 @@ NUNCA Reina-Valera ni traducciones protestantes.
         },
         cta: "Ver la tapa dura en Amazon →",
         note: "El enlace lleva a la edición en tapa dura en inglés, en Amazon Estados Unidos. Cada idioma tiene además su edición en tapa blanda y en Kindle: búscalas en tu idioma, en la tienda Amazon de tu país.",
-        coverAlt: "Portada de La puerta falsa, de M. Gabriel Castiglia"
+        coverAlt: "Portada de La puerta falsa, de M. Gabriel Castiglia",
+        // Portada del libro en este idioma. El libro está publicado en siete
+        // (es, en, pt, fr, it, de, ja); los idiomas del sitio que no tienen
+        // edición propia —tl, da, la, sw, ln, ig— apuntan a la inglesa a propósito.
+        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-es.jpg"
       },
       sec5: {
         eyebrow: "Aviso legal",
@@ -780,6 +788,17 @@ NUNCA Reina-Valera ni traducciones protestantes.
             <h1>Recursos recomendados</h1>
             <p>Fuentes de confianza para profundizar, formarse y compartir la fe católica.</p>
             <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
+      labels: {
+        bible: "Sagrada Escritura →",
+        catechism: "Catecismo →",
+        website: "Sitio web →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "En español →",
+        toroCountry: "Venezuela",
+        oliveraCountry: "Argentina · QNTLC",
+        heraldosTag: "Ecuador"
+      },
       sec1: { eyebrow: "Santa Sede", title: "Fuentes vaticanas", desc: "Documentos oficiales de la Iglesia, disponibles en el sitio de la Santa Sede." },
       sec2: {
         eyebrow: "Apologética · Formación", title: "Sacerdotes y formadores", desc: "Voces fieles al Magisterio que enseñan, defienden y proclaman la fe con profundidad y rigor.",
@@ -793,51 +812,36 @@ NUNCA Reina-Valera ni traducciones protestantes.
         grat:     { desc: "Biblia de Jerusalén en inglés o español latino (para otros idiomas verifique en la página oficial). Con plan de estudio único conteniendo explicaciones paso a paso y gráficas, ideal para neófitos.", tag: "Biblia · Formación" },
         ewtn:     { desc: "La red de televisión católica más grande del mundo. Misa diaria, Santo Rosario, documentales y formación las 24 horas.", tag: "Televisión · Radio" }
       },
-      article: `<h2>Vaticano</h2>
-                <p>El sitio oficial de la Santa Sede, donde puedes encontrar la Biblia, el Catecismo de la Iglesia Católica, documentos papales y mucho más.</p>
-                <ul>
-                    <li><a href="https://www.vatican.va/content/vatican/es.html" target="_blank">Sitio Oficial del Vaticano</a></li>
-                    <li><a href="https://www.vatican.va/archive/catechism_sp/index_sp.htm" target="_blank">Catecismo de la Iglesia Católica (Español)</a></li>
-                </ul>
-
-                <h2>Apologética y Formación</h2>
-                <h3>Padre Luis Toro</h3>
-                <p>Conocido por sus conferencias y debates apologéticos, el Padre Luis Toro ofrece una defensa sólida de la fe católica.</p>
-                <ul>
-                    <li><a href="https://www.youtube.com/@PadreLuisToroOficial" target="_blank">Canal de YouTube Padre Luis Toro Oficial</a></li>
-                </ul>
-
-
-                <h3>Heraldos del Evangelio Ecuador</h3>
-                <p>Una asociación de fieles de derecho pontificio que busca la santificación de sus miembros y la evangelización.</p>
-                <ul>
-                    <li><a href="https://heraldosdelevangelio.ec/" target="_blank">Sitio Oficial Heraldos del Evangelio Ecuador</a></li>
-                </ul>
-
-                <h3>Que No Te La Cuenten</h3>
-                <p>Plataforma dedicada a la apologética católica, desmintiendo mitos y ofreciendo formación.</p>
-                <ul>
-                    <li><a href="https://quenotelacuenten.org/" target="_blank">Sitio Oficial Que No Te La Cuenten</a></li>
-                    <li><a href="https://www.youtube.com/@quenotelacuenten" target="_blank">Canal de YouTube Que No Te La Cuenten</a></li>
-                </ul>
-
-                <h2>Recursos para la Oración y Estudio Bíblico</h2>
-                <h3>Rough Rosaries</h3>
-                <p>Artesanía de rosarios robustos y duraderos, inspirados en la tradición militar y la fe.</p>
-                <ul>
-                    <li><a href="https://roughrosaries.com/" target="_blank">Sitio Oficial Rough Rosaries</a></li>
-                </ul>
-
-                <h3>Ascension Presents</h3>
-                <p>Una editorial católica que ofrece recursos de formación, incluyendo la popular serie "Bible in a Year" con el Padre Mike Schmitz y "The Great Adventure Catholic Bible".</p>
-                <ul>
-                    <li><a href="https://ascensionpress.com/collections/the-great-adventure-catholic-bible" target="_blank">The Great Adventure Catholic Bible</a></li>
-                    <li><a href="https://ascensionpress.com/pages/biy-registration" target="_blank">The Bible in a Year (Podcast)</a></li>
-                </ul>`,
       nav: {
         prevTitle: "La primacía de Pedro",
         nextTitle: "El Sacerdocio en la Iglesia Católica"
       }
+    },
+    "privacidad": {
+      pageTitle: "Privacidad | Fé y Razón",
+      linkLabel: "Privacidad",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Aviso legal</span>
+            </div>
+            <h1>Privacidad</h1>
+            <p>Qué datos recoge este sitio, para qué se usan y por dónde pasan.</p>
+            <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
+      article: `<p>Este sitio no usa cookies, no tiene analítica, no muestra publicidad y no incluye botones ni rastreadores de redes sociales. Las tipografías, las imágenes y los videos se sirven desde este mismo dominio: al abrir una página, el navegador no le pide nada a ningún tercero.</p>
+                <h2>Qué datos se recogen</h2>
+                <p>Únicamente los que se escriben a mano en el formulario de contacto: <strong>nombre, correo electrónico, asunto y mensaje</strong>. No se recoge ningún otro dato, y en el resto del sitio no hay ningún otro formulario.</p>
+                <h2>Para qué se usan</h2>
+                <p>Sólo para leer el mensaje y responderlo. No se venden, no se ceden con fines comerciales y no se usan para enviar boletines ni publicidad.</p>
+                <h2>Por dónde pasan</h2>
+                <p>El formulario se envía a <strong>Formspree</strong> (formspree.io), el servicio que recibe el mensaje y lo hace llegar al autor. Al usar el formulario, esos datos quedan también sujetos a las condiciones de ese servicio, que pueden consultarse en <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">su política de privacidad</a>.</p>
+                <h2>Dónde está alojado el sitio</h2>
+                <p>Las páginas se publican mediante <strong>GitHub Pages</strong>. Como cualquier servidor web, registra las solicitudes que recibe para poder entregar las páginas y protegerlas de abusos. Ese registro no está bajo el control de este sitio.</p>
+                <h2>Lo único que se guarda en tu navegador</h2>
+                <p>El idioma que elegís, bajo la clave <strong>language</strong>, en el almacenamiento local del navegador. No es una cookie, no se envía a ningún servidor y no identifica a nadie: sirve para que el sitio se abra en tu idioma la próxima vez. Se borra vaciando los datos del sitio desde el propio navegador.</p>
+                <h2>Enlaces a otros sitios</h2>
+                <p>Estas páginas enlazan a sitios de terceros —Vatican.va, YouTube, Amazon y los apostolados recomendados—. Lo que ocurra una vez que salís de acá se rige por las políticas de esos sitios, no por esta.</p>
+                <h2>Responsable y contacto</h2>
+                <p>El responsable de este sitio es <strong>M. Gabriel Castiglia</strong>. Para cualquier consulta sobre tus datos —incluido pedir que se borre un mensaje que hayas enviado— escribí por el <a href="index.html#contacto">formulario de contacto</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "Sobre este sitio | Fé y Razón",
@@ -889,3 +893,6 @@ NUNCA Reina-Valera ni traducciones protestantes.
     text: "&copy; 2026 Fé y Razón. Ad maiorem Dei gloriam."
   }
 };
+// Se expone en window para que el cargador por idioma pueda tomarlo por nombre.
+// El `const` de arriba queda igual: es lo que leen los verificadores de _TRABAJO.
+if (typeof window !== 'undefined') window.translationsES = translationsES;

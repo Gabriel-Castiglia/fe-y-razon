@@ -1,5 +1,6 @@
 const translationsSW = {
   logo: "Imani na Akili",
+  siteTitle: "Imani na Akili | Utetezi wa Imani ya Kikatoliki",
   nav: {
     home: "Nyumbani",
     topics: "Mada",
@@ -60,7 +61,7 @@ const translationsSW = {
   contact: {
     title: "Mawasiliano", desc: "Una maswali au unataka kushirikiana nasi? Tutumie ujumbe.",
     name: { placeholder: "Jina lako" }, email: { placeholder: "Barua pepe yako" }, subject: { placeholder: "Mada" }, message: { placeholder: "Ujumbe wako" },
-    submit: "Tuma ujumbe", cookieNotice: "Kwa kutuma fomu hii, unakubali kwamba data yako inachakatwa na huduma za watu wengine kwa uendeshaji wa mfumo.",
+    submit: "Tuma ujumbe", cookieNotice: "Unapotuma fomu, data yako inapita kwa Formspree, huduma inayotufikishia ujumbe, na inatumika tu kukujibu. <a href='privacidad.html'>Jinsi tunavyoshughulikia data yako</a>.",
     success: { title: "Ujumbe umepokelewa", desc: "Asante kwa kutuandikia. Tutajibu hivi karibuni. Ad maiorem Dei gloriam." }
   },
   topicPages: {
@@ -224,7 +225,9 @@ const translationsSW = {
         },
         cta: "Tazama toleo la jalada gumu kwenye Amazon →",
         note: "Kiungo hiki kinaelekeza kwenye toleo la jalada gumu la Kiingereza, katika Amazon ya Marekani. Kila lugha ina pia toleo lake la jalada laini na la Kindle: litafute katika lugha yako, katika duka la Amazon la nchi yako.",
-        coverAlt: "Jalada la kitabu The False Door, cha M. Gabriel Castiglia"
+        coverAlt: "Jalada la kitabu The False Door, cha M. Gabriel Castiglia",
+        // Sin edición propia del libro: se muestra la portada inglesa.
+        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg"
       },
       sec5: {
         eyebrow: "Taarifa ya kisheria",
@@ -236,6 +239,17 @@ const translationsSW = {
       },
       pageTitle: "Rasilimali Zinazopendekezwa | Imani na Akili",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Rasilimali</span></div><h1>Rasilimali Zinazopendekezwa</h1><p>Vyanzo vinavyoaminika ili kuongeza kina, kujifunza na kushiriki imani ya Kikatoliki.</p><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      labels: {
+        bible: "Maandiko Matakatifu →",
+        catechism: "Katekisimu →",
+        website: "Tovuti →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "Kwa Kihispania →",
+        toroCountry: "Venezuela",
+        oliveraCountry: "Ajentina · QNTLC",
+        heraldosTag: "Ekwado"
+      },
       sec1: { eyebrow: "Makao Makuu", title: "Vyanzo vya Vatikani", desc: "Nyaraka rasmi za Kanisa, zinazopatikana kwenye tovuti ya Makao Makuu." },
       sec2: {
         eyebrow: "Apolojetiki · Malezi", title: "Mapadre na waalimu", desc: "Sauti tiifu kwa Magisterio zinazofundisha, kutetea, na kutangaza imani kwa kina na usahihi.",
@@ -249,8 +263,27 @@ const translationsSW = {
         grat:     { desc: "Biblia ya Yerusalemu kwa Kiingereza au Kihispania cha Amerika ya Kusini (kwa lugha zingine angalia ukurasa rasmi). Pamoja na mpango wa kipekee wa kujifunza wenye maelezo ya hatua kwa hatua na michoro, inafaa kwa waamini wapya.", tag: "Biblia · Malezi" },
         ewtn:     { desc: "Mtandao mkubwa zaidi wa televisheni ya Kikatoliki duniani. Misa ya kila siku, Rozari Takatifu, filamu za maandishi, na malezi masaa 24.", tag: "Televisheni · Redio" }
       },
-      article: `<h2>Vatikani</h2><p>Tovuti rasmi ya Makao Makuu (Holy See), ambapo unaweza kupata Biblia, Katekisimu ya Kanisa Katoliki, nyaraka za upapa na mengi zaidi.</p><ul><li><a href="https://www.vatican.va/content/vatican/en.html" target="_blank">Tovuti Rasmi ya Vatikani (Kiingereza)</a></li><li><a href="https://www.vatican.va/archive/ENG0015/_INDEX.HTM" target="_blank">Katekisimu ya Kanisa Katoliki</a></li></ul><h2>Apolojetiki na Malezi</h2><h3>Ascension Presents</h3><p>Mchapishaji wa Kikatoliki anayetoa rasilimali za malezi, ikiwa ni pamoja na "Bible in a Year" (Biblia katika Mwaka Mmoja).</p><ul><li><a href="https://ascensionpress.com/" target="_blank">Ascension Press</a></li></ul>`,
       nav: { prevTitle: "Ukuu wa Petro", nextTitle: "Ukuhani katika Kanisa Katoliki" }
+    },
+    "privacidad": {
+      pageTitle: "Faragha | Imani na Akili",
+      linkLabel: "Faragha",
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Ilani ya kisheria</span></div><h1>Faragha</h1><p>Data gani tovuti hii inakusanya, inatumika kwa nini, na inakwenda wapi.</p><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      article: `<p>Tovuti hii haitumii vidakuzi, haina uchanganuzi, haionyeshi matangazo, na haina vitufe wala vifuatiliaji vya mitandao ya kijamii. Fonti, picha na video zinatolewa kutoka kwenye kikoa hiki hiki: unapofungua ukurasa, kivinjari chako hakiombi chochote kwa mtu wa tatu.</p>
+                <h2>Data gani inakusanywa</h2>
+                <p>Ni yale tu unayoandika mwenyewe kwenye fomu ya mawasiliano: <strong>jina, barua pepe, mada na ujumbe</strong>. Hakuna data nyingine inayokusanywa, na hakuna fomu nyingine yoyote kwenye tovuti.</p>
+                <h2>Inatumika kwa nini</h2>
+                <p>Kwa kusoma ujumbe na kuujibu tu. Haiuzwi, haitolewi kwa madhumuni ya kibiashara, na haitumiwi kamwe kutuma majarida au matangazo.</p>
+                <h2>Inakwenda wapi</h2>
+                <p>Fomu inatumwa kwa <strong>Formspree</strong> (formspree.io), huduma inayopokea ujumbe na kuufikisha kwa mwandishi. Kwa kutumia fomu, data hiyo pia iko chini ya masharti ya huduma hiyo, yanayoweza kusomwa katika <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">sera yao ya faragha</a>.</p>
+                <h2>Tovuti inahifadhiwa wapi</h2>
+                <p>Kurasa hizi zinachapishwa kupitia <strong>GitHub Pages</strong>. Kama seva yoyote ya wavuti, inaandika maombi inayopokea ili kuweza kutoa kurasa na kuzilinda dhidi ya matumizi mabaya. Kumbukumbu hizo hazipo chini ya udhibiti wa tovuti hii.</p>
+                <h2>Kitu pekee kinachohifadhiwa kwenye kivinjari chako</h2>
+                <p>Lugha unayochagua, chini ya ufunguo <strong>language</strong>, katika hifadhi ya ndani ya kivinjari. Si kidakuzi, haitumwi kwa seva yoyote na haimtambui mtu yeyote: inasaidia tu ili tovuti ifunguke kwa lugha yako wakati ujao. Inafutwa kwa kufuta data ya tovuti hii kutoka kwenye kivinjari chako.</p>
+                <h2>Viungo kwa tovuti nyingine</h2>
+                <p>Kurasa hizi zina viungo vya tovuti za watu wengine — Vatican.va, YouTube, Amazon na utume unaopendekezwa. Kinachotokea baada ya kuondoka hapa kinatawaliwa na sera za tovuti hizo, si na hii.</p>
+                <h2>Mwenye jukumu na mawasiliano</h2>
+                <p>Mwenye jukumu la tovuti hii ni <strong>M. Gabriel Castiglia</strong>. Kwa swali lolote kuhusu data yako — ikiwa ni pamoja na kuomba ujumbe uliotuma ufutwe — andika kupitia <a href="index.html#contacto">fomu ya mawasiliano</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "Kuhusu tovuti hii | Imani na Akili",
@@ -300,3 +333,6 @@ const translationsSW = {
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Haki zote zimehifadhiwa.</strong> Ni marufuku kunakili kwa ujumla au kwa sehemu bila idhini ya maandishi ya mwandishi.", text: "&copy; 2026 Imani na Akili. Ad maiorem Dei gloriam." }
 };
+// Se expone en window para que el cargador por idioma pueda tomarlo por nombre.
+// El `const` de arriba queda igual: es lo que leen los verificadores de _TRABAJO.
+if (typeof window !== 'undefined') window.translationsSW = translationsSW;
