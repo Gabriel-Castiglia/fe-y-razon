@@ -45,16 +45,16 @@ jobs:
           # La raíz del repositorio es la raíz del sitio.
           path: '.'
 
+      # ⚠️ Este paso puede marcar el despliegue como fallido AUNQUE EL SITIO SE
+      # PUBLIQUE. Espera un máximo de 10 minutos —600000 ms, y no se puede subir:
+      # la action recorta cualquier valor mayor— y, si la publicación tarda más,
+      # aborta con «Timeout reached, aborting!» mientras GitHub la termina por su
+      # cuenta. Comprobado el 6-ago-2026: el sitio servía los archivos del commit
+      # cuyo run figuraba como «failure».
+      #
+      # ANTES DE DAR POR FALLIDO UN DESPLIEGUE, comprobar qué sirve el sitio:
+      #   curl -sI https://proyectofeyrazon.com/Recursos/Videos/entrada01.mp4
+      # y comparar el Content-Length con el archivo local.
       - name: Publicar
         id: despliegue
         uses: actions/deploy-pages@v4
-        with:
-          # 30 minutos en vez de los 10 por defecto.
-          #
-          # Con el valor de fábrica este paso se rendía y cancelaba, marcando el
-          # despliegue como fallido... mientras GitHub terminaba de publicarlo por
-          # su cuenta. El 6-ago-2026 se perdieron horas persiguiendo ese falso
-          # negativo: el sitio quedaba publicado y el registro decía «Timeout
-          # reached, aborting!». Con un sitio de decenas de MB la publicación pasa
-          # de los 10 minutos con facilidad, así que se le da margen de sobra.
-          timeout: 1800000
