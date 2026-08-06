@@ -140,17 +140,57 @@ document.addEventListener('DOMContentLoaded', function () {
 
     let currentIndex = 0;
     let isTransitioning = false;
+    let vigilante = null;
     const TRANSITION_MS = 1200; // Debe coincidir con el transition de CSS
+    const ESPERA_ARRANQUE = 8000; // margen para que un video descargue y arranque
+
+    // La rotación vivía solo de los eventos 'timeupdate' y 'ended'. Si a un video
+    // le tocaba el turno y no llegaba a reproducirse —con preload="none" hay que
+    // descargarlo justo en ese momento— no disparaba ninguno de los dos, y la
+    // cadena entera se quedaba clavada ahí. Con dos videos casi no se notaba; con
+    // cinco, tarde o temprano uno falla y la sección se para.
+    //
+    // Este vigilante se arma en cada cambio: si el video que debería estar
+    // corriendo no ha avanzado ni un fotograma pasado el margen, se salta al
+    // siguiente en vez de dejar el hero congelado.
+    function vigilar() {
+      clearTimeout(vigilante);
+      const actual = videos[currentIndex];
+      const marca = actual.currentTime;
+      vigilante = setTimeout(() => {
+        const atascado = actual.paused || actual.currentTime === marca || actual.error;
+        if (atascado && videos.length > 1) {
+          isTransitioning = false; // por si quedó a medias
+          advance();
+        }
+      }, ESPERA_ARRANQUE);
+    }
+
+    // Tener listo el siguiente evita el parón: mientras se ve uno, el que viene
+    // ya se está descargando, así que al llegarle el turno arranca en el acto.
+    function precargarSiguiente() {
+      if (videos.length < 2) return;
+      const siguiente = videos[(currentIndex + 1) % videos.length];
+      if (siguiente.preload !== 'auto') siguiente.preload = 'auto';
+      if (siguiente.readyState === 0 && !siguiente.currentSrc) siguiente.load();
+    }
 
     function show(index) {
       const prevVideo = videos[currentIndex];
       const nextVideo = videos[index];
-      if (prevVideo === nextVideo) return;
+      if (prevVideo === nextVideo) {
+        // Un solo video: no hay a dónde pasar, pero hay que soltar el cerrojo o
+        // la rotación no vuelve a moverse nunca.
+        isTransitioning = false;
+        return;
+      }
 
       currentIndex = index;
       nextVideo.currentTime = 0;
       window.FYRVideo.reproducir(nextVideo);
       nextVideo.classList.add('active');
+      vigilar();
+      precargarSiguiente();
 
       setTimeout(() => {
         prevVideo.classList.remove('active');
@@ -172,16 +212,18 @@ document.addEventListener('DOMContentLoaded', function () {
         if (this.currentTime >= this.duration - 1.3) advance();
       });
       video.addEventListener('ended', advance);
+      // Si un archivo falla del todo, no esperar al vigilante.
+      video.addEventListener('error', function () {
+        if (videos[currentIndex] === this) {
+          isTransitioning = false;
+          advance();
+        }
+      });
     });
 
     window.FYRVideo.reproducir(videos[0]);
-
-    // Si al cabo de un rato el primero sigue sin arrancar y el motivo es el
-    // archivo —no la política de autoplay—, se pasa al siguiente en vez de
-    // dejar la sección congelada.
-    setTimeout(() => {
-      if (videos.length > 1 && videos[0].paused && (videos[0].error || videos[0].readyState === 0)) advance();
-    }, 4000);
+    vigilar();
+    precargarSiguiente();
   }
 
   VideoManager('.hero-video');
