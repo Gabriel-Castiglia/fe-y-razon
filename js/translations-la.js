@@ -792,6 +792,17 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
   lang: {
     soon: "Mox veniet"
   },
+  // Textos de la página 404 (404.html).
+  notFound: {
+    pageTitle: "Pagina non inventa | Fides et Ratio",
+    eyebrow: "Error 404",
+    title: "Haec pagina<br>non <em>exstat</em>",
+    desc: "Nexus quem secutus es nusquam in hoc situ ducit. Fortasse perperam scriptus est, aut pagina nomen mutavit. Quod quaerebas, si exstat, uno digiti ictu patet.",
+    verse: "«Quaerite, et invenietis; pulsate, et aperietur vobis.»",
+    verseRef: "Matthaeus 7, 7",
+    btnHome: "Ad initium redire",
+    btnTopics: "Omnia themata videre"
+  },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Omnia iura reservantur.</strong> Vetatur reproductio tota vel partialis sine licentia auctoris scripta.",
     text: "&copy; MMXXVI Fides et Ratio. Ad maiorem Dei gloriam."

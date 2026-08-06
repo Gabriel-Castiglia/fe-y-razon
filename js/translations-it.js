@@ -328,6 +328,17 @@ const translationsIT = {
     ]
   },
   lang: { soon: "Prossimamente" },
+  // Textos de la página 404 (404.html).
+  notFound: {
+    pageTitle: "Pagina non trovata | Fede e Ragione",
+    eyebrow: "Errore 404",
+    title: "Questa pagina<br>non <em>esiste</em>",
+    desc: "Il collegamento che hai seguito non porta da nessuna parte in questo sito. Forse è scritto male, o la pagina ha cambiato nome. Ciò che cercavi, se esiste, è a un clic di distanza.",
+    verse: "«Cercate e troverete; bussate e vi sarà aperto.»",
+    verseRef: "Matteo 7, 7",
+    btnHome: "Torna alla home",
+    btnTopics: "Vedi tutti i temi"
+  },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Tutti i diritti riservati.</strong> È vietata la riproduzione totale o parziale senza autorizzazione scritta dell'autore.", text: "&copy; 2026 Fede e Ragione. Ad maiorem Dei gloriam." }
 };
