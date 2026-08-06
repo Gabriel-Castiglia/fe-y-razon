@@ -116,8 +116,15 @@
     
     <!-- Sección Hero -->
     <section id="hero" class="hero">
+        <!-- El VideoManager encadena todos los .hero-video de la sección, así que
+             la rotación crece solo agregando etiquetas. catedral01 es vertical:
+             en pantalla ancha el recorte se sube al 15% para dejar a la vista la
+             ventana con el humo, que es lo que vale del plano. -->
         <div class="hero-video-wrap">
-            <video class="hero-video active" muted autoplay playsinline preload="auto" aria-hidden="true" tabindex="-1" poster="Recursos/Videos/lectura01-poster.webp"><source src="Recursos/Videos/lectura01.mp4" type="video/mp4"><source src="Recursos/Videos/lectura01.webm" type="video/webm"></video>
+            <video class="hero-video active" muted autoplay playsinline preload="auto" aria-hidden="true" tabindex="-1" style="object-position: center 15%;" poster="Recursos/Videos/catedral01-poster.webp"><source src="Recursos/Videos/catedral01.mp4" type="video/mp4"><source src="Recursos/Videos/catedral01.webm" type="video/webm"></video>
+            <video class="hero-video" muted playsinline preload="none" aria-hidden="true" tabindex="-1" poster="Recursos/Videos/entrada01-poster.webp"><source src="Recursos/Videos/entrada01.mp4" type="video/mp4"><source src="Recursos/Videos/entrada01.webm" type="video/webm"></video>
+            <video class="hero-video" muted playsinline preload="none" aria-hidden="true" tabindex="-1" poster="Recursos/Videos/lectura01-poster.webp"><source src="Recursos/Videos/lectura01.mp4" type="video/mp4"><source src="Recursos/Videos/lectura01.webm" type="video/webm"></video>
+            <video class="hero-video" muted playsinline preload="none" aria-hidden="true" tabindex="-1" poster="Recursos/Videos/misal01-poster.webp"><source src="Recursos/Videos/misal01.mp4" type="video/mp4"><source src="Recursos/Videos/misal01.webm" type="video/webm"></video>
             <video class="hero-video" muted playsinline preload="none" aria-hidden="true" tabindex="-1" poster="Recursos/Videos/lectura02-poster.webp"><source src="Recursos/Videos/lectura02.mp4" type="video/mp4"><source src="Recursos/Videos/lectura02.webm" type="video/webm"></video>
         </div>
         <div class="hero-overlay"></div>
@@ -351,6 +358,7 @@
             <video class="hero-video active" id="ov-vid-1" muted playsinline preload="none" aria-hidden="true" tabindex="-1"></video>
             <video class="hero-video" id="ov-vid-2" muted playsinline preload="none" aria-hidden="true" tabindex="-1"></video>
             <video class="hero-video" id="ov-vid-3" muted playsinline preload="none" aria-hidden="true" tabindex="-1"></video>
+            <video class="hero-video" id="ov-vid-4" muted playsinline preload="none" aria-hidden="true" tabindex="-1"></video>
             <div class="article-hero-inner" id="overlay-hero-content"></div>
         </section>
         <main class="article-page" id="overlay-article-page">
