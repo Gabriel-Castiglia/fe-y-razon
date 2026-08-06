@@ -344,14 +344,7 @@
     </main>
     </div><!-- #main-page-content -->
 
-    <!-- 4. PIE DE PÁGINA -->
-    <footer>
-        <p data-i18n="footer.text">&copy; 2026 Fé y Razón. Ad maiorem Dei gloriam.</p>
-        <p class="footer-rights" data-i18n="footer.rights">&copy; 2026 M. Gabriel Castiglia. Todos los derechos reservados. Prohibida la reproducción total o parcial sin autorización escrita del autor.</p>
-        <p class="footer-legal"><a href="privacidad.html" data-i18n="topicPages.privacidad.linkLabel">Privacidad</a></p>
-    </footer>
-
-    <!-- 5. OVERLAY DE ARTÍCULO (SPA) -->
+    <!-- 4. OVERLAY DE ARTÍCULO (SPA) -->
     <div id="article-overlay" hidden>
         <div id="overlay-reading-progress" role="progressbar" aria-label="Progreso de lectura" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"></div>
         <section class="article-hero">
@@ -368,6 +361,17 @@
             </div>
         </main>
     </div>
+
+    <!-- 5. PIE DE PÁGINA
+         Va DESPUÉS del overlay a propósito. Al abrir un artículo se oculta
+         #main-page-content, pero el pie nunca estuvo dentro de ese contenedor:
+         si se deja antes del overlay, el aviso de derechos y el enlace de
+         privacidad aparecen encima del artículo en vez de al final. -->
+    <footer>
+        <p data-i18n="footer.text">&copy; 2026 Fé y Razón. Ad maiorem Dei gloriam.</p>
+        <p class="footer-rights" data-i18n="footer.rights">&copy; 2026 M. Gabriel Castiglia. Todos los derechos reservados. Prohibida la reproducción total o parcial sin autorización escrita del autor.</p>
+        <p class="footer-legal"><a href="privacidad.html" data-i18n="topicPages.privacidad.linkLabel">Privacidad</a></p>
+    </footer>
 
     <!-- 6. SCRIPTS -->
     <script src="js/main.js?v=8" defer></script>
