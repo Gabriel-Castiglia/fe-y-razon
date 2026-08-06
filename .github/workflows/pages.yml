@@ -1,0 +1,50 @@
+# Despliegue del sitio en GitHub Pages mediante Actions.
+#
+# Sustituye al build «legacy» (el clásico, que publica solo con detectar un push
+# en la rama). Aquel tiene un límite de 10 minutos por compilación, y el sitio lo
+# agotaba: los despliegues del 6-ago-2026 murieron los cinco a los 10 min 30 s
+# exactos sin publicar nada. Aquí el sitio se empaqueta como artefacto y se
+# despliega, con márgenes de tiempo muy superiores.
+#
+# El sitio es HTML plano: no hay nada que compilar, solo subirlo tal cual.
+
+name: Desplegar el sitio en GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  # Permite lanzarlo a mano desde la pestaña Actions.
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Un despliegue por vez. No se cancela el que está en curso: se deja terminar.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  desplegar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.despliegue.outputs.page_url }}
+    steps:
+      - name: Traer el repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Pages
+        uses: actions/configure-pages@v5
+
+      - name: Empaquetar el sitio
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # La raíz del repositorio es la raíz del sitio.
+          path: '.'
+
+      - name: Publicar
+        id: despliegue
+        uses: actions/deploy-pages@v4
