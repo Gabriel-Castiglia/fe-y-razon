@@ -198,17 +198,15 @@ function showArticle(slug, skipHistory = false) {
     const v = all[i];
     v.poster = VIDEO_BASE + name + '-poster.webp';
     [...v.querySelectorAll('source')].forEach(s => s.remove());
-    // MP4 primero: el navegador se queda con el primer formato que soporta, y
-    // Safari es justo el que peor se lleva con WebM/VP9 (de ahí los videos en
-    // negro). Además acá el WebM no ahorra nada: en 9 de los 21 videos pesa más
-    // que el MP4, y sumados los dos sets pesan lo mismo.
+    // Solo MP4. El WebM se eliminó el 6-ago-2026: no aportaba compatibilidad
+    // (H.264 lo reproduce todo, y Safari es justo el que peor se lleva con
+    // VP9), no ahorraba peso (en 9 de los 21 videos pesaba MÁS que el MP4) y
+    // en cambio duplicaba el sitio, que es lo que hacía que la compilación de
+    // GitHub Pages se pasara del límite de 10 minutos y no publicara nada.
     const mp4 = document.createElement('source');
     mp4.src = VIDEO_BASE + name + '.mp4';
     mp4.type = 'video/mp4';
-    const webm = document.createElement('source');
-    webm.src = VIDEO_BASE + name + '.webm';
-    webm.type = 'video/webm';
-    v.append(mp4, webm);
+    v.append(mp4);
     v.load();
     v.classList.toggle('active', i === 0);
   });
