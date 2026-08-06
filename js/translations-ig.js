@@ -330,6 +330,17 @@ const translationsIG = {
     ]
   },
   lang: { soon: "Ọ na-abịa" },
+  // Textos de la página 404 (404.html).
+  notFound: {
+    pageTitle: "Achọtaghị ibe a | Okwukwe na Uche",
+    eyebrow: "Njehie 404",
+    title: "Ibe a<br><em>adịghị</em>",
+    desc: "Njikọ ị gbasoro anaghị eduga ebe ọ bụla na saịtị a. Ma eleghị anya e deghị ya nke ọma, ma ọ bụ na ibe ahụ agbanwewo aha. Ihe ị na-achọ, ọ bụrụ na ọ dị, dị naanị otu pịa.",
+    verse: "«Chọọnụ, unu ga-achọta; kụọnụ aka n’ọnụ ụzọ, a ga-emeghere unu.»",
+    verseRef: "Matiu 7, 7",
+    btnHome: "Laghachi na isi",
+    btnTopics: "Lee isiokwu niile"
+  },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Ikike niile echekwara.</strong> A machibidoro imepụta ya niile ma ọ bụ akụkụ ya na-enweghị ikike ederede sitere n'aka onye edemede.", text: "&copy; 2026 Okwukwe na Uche. Ad maiorem Dei gloriam." }
 };

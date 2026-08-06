@@ -786,6 +786,17 @@ const translationsJA = {
   lang: {
     soon: "近日公開"
   },
+  // Textos de la página 404 (404.html).
+  notFound: {
+    pageTitle: "ページが見つかりません | 信仰と理性",
+    eyebrow: "エラー 404",
+    title: "このページは<br><em>存在しません</em>",
+    desc: "たどったリンクは、このサイトのどこにもつながっていません。綴りが違うか、ページの名前が変わったのだろう。お探しのものは、あるならば、あと一度のクリックの先にある。",
+    verse: "「探しなさい。そうすれば、見つかる。門をたたきなさい。そうすれば、開かれる。」",
+    verseRef: "マタイ 7章7節",
+    btnHome: "ホームに戻る",
+    btnTopics: "すべてのトピックを見る"
+  },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. 無断転載を禁じます。</strong> 著者の書面による許可なく、全部または一部を複製することを禁じます。",
     text: "&copy; 2026 信仰と理性。Ad maiorem Dei gloriam."
