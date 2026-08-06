@@ -24,7 +24,7 @@ window.FYRVideo = window.FYRVideo || {
 //                      completedLangs: ['es', 'en']
 const ARTICLES = {
   'sacerdocio':            { videos: ['sacerdote01','sacerdote02','sacerdote03','procesion01'], prev: 'la-primacia-de-pedro', next: 'por-que-creemos' },
-  'por-que-creemos':       { videos: ['rayos01','oracion01','conf01'],             prev: 'sacerdocio',           next: 'la-eucaristia' },
+  'por-que-creemos':       { videos: ['oracion01','conf01','incienso01'],             prev: 'sacerdocio',           next: 'la-eucaristia' },
   'la-eucaristia':         { videos: ['calis01','ofertorio01','misa01'],               prev: 'por-que-creemos',      next: 'transubstanciacion' },
   'transubstanciacion':    { videos: ['custodia01','altar01','misa02'],                        provisional: true, prev: 'la-eucaristia',        next: 'los-santos' },
   'los-santos':            { videos: ['rosario01','rosario02','rosario03','retablo01'],       provisional: true, completedLangs: ['es', 'en', 'ja', 'tl', 'da', 'la', 'fr', 'pt'], prev: 'transubstanciacion',   next: 'la-santisima-trinidad' },
