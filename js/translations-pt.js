@@ -405,6 +405,17 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
     ]
   },
   lang: { soon: "Em breve" },
+  // Textos de la página 404 (404.html).
+  notFound: {
+    pageTitle: "Página não encontrada | Fé e Razão",
+    eyebrow: "Erro 404",
+    title: "Esta página<br>não <em>existe</em>",
+    desc: "O link que você seguiu não leva a lugar nenhum deste site. Talvez esteja escrito errado, ou a página tenha mudado de nome. O que você procurava, se existe, está a um clique.",
+    verse: "«Buscai e achareis; batei e a porta vos será aberta.»",
+    verseRef: "Mateus 7, 7",
+    btnHome: "Voltar ao início",
+    btnTopics: "Ver todos os temas"
+  },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Todos os direitos reservados.</strong> Proibida a reprodução total ou parcial sem autorização escrita do autor.", text: "&copy; 2026 Fé e Razão. Ad maiorem Dei gloriam." }
 };

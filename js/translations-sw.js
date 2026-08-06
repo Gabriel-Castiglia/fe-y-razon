@@ -330,6 +330,17 @@ const translationsSW = {
     ]
   },
   lang: { soon: "Hivi karibuni" },
+  // Textos de la página 404 (404.html).
+  notFound: {
+    pageTitle: "Ukurasa haukupatikana | Imani na Akili",
+    eyebrow: "Hitilafu 404",
+    title: "Ukurasa huu<br><em>haupo</em>",
+    desc: "Kiungo ulichofuata hakielekei mahali popote katika tovuti hii. Labda kimeandikwa vibaya, au ukurasa umebadilisha jina. Ulichokuwa unatafuta, kama kipo, kiko umbali wa mbofyo mmoja.",
+    verse: "«Tafuteni, nanyi mtapata; bisheni, nanyi mtafunguliwa.»",
+    verseRef: "Mathayo 7, 7",
+    btnHome: "Rudi nyumbani",
+    btnTopics: "Tazama mada zote"
+  },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Haki zote zimehifadhiwa.</strong> Ni marufuku kunakili kwa ujumla au kwa sehemu bila idhini ya maandishi ya mwandishi.", text: "&copy; 2026 Imani na Akili. Ad maiorem Dei gloriam." }
 };

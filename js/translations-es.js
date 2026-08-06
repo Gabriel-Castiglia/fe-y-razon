@@ -888,6 +888,17 @@ NUNCA Reina-Valera ni traducciones protestantes.
   lang: {
     soon: "Próximamente"
   },
+  // Textos de la página 404 (404.html).
+  notFound: {
+    pageTitle: "Página no encontrada | Fé y Razón",
+    eyebrow: "Error 404",
+    title: "Esta página<br>no <em>existe</em>",
+    desc: "El enlace que seguiste no lleva a ninguna parte de este sitio. Puede que esté mal escrito, o que la página haya cambiado de nombre. Lo que buscabas, si existe, está a un clic.",
+    verse: "«Buscad y hallaréis; llamad y se os abrirá.»",
+    verseRef: "Mateo 7, 7",
+    btnHome: "Volver al inicio",
+    btnTopics: "Ver todos los temas"
+  },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Todos los derechos reservados.</strong> Prohibida la reproducción total o parcial sin autorización escrita del autor.",
     text: "&copy; 2026 Fé y Razón. Ad maiorem Dei gloriam."

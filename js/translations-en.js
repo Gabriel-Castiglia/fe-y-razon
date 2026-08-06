@@ -785,6 +785,17 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
   lang: {
     soon: "Coming soon"
   },
+  // Textos de la página 404 (404.html).
+  notFound: {
+    pageTitle: "Page not found | Faith and Reason",
+    eyebrow: "Error 404",
+    title: "This page<br>does not <em>exist</em>",
+    desc: "The link you followed does not lead anywhere on this site. It may be misspelled, or the page may have been renamed. What you were looking for, if it exists, is one click away.",
+    verse: "“Seek and you will find; knock and the door will be opened to you.”",
+    verseRef: "Matthew 7:7",
+    btnHome: "Back to home",
+    btnTopics: "See all topics"
+  },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. All rights reserved.</strong> No part of this site may be reproduced without the author's written permission.",
     text: "&copy; 2026 Faith and Reason. Ad maiorem Dei gloriam."

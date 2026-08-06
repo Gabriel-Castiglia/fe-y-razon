@@ -330,6 +330,17 @@ const translationsLN = {
     ]
   },
   lang: { soon: "Ekoya" },
+  // Textos de la página 404 (404.html).
+  notFound: {
+    pageTitle: "Lokasa emonani te | Kondima mpe Mayele",
+    eyebrow: "Libunga 404",
+    title: "Lokasa oyo<br><em>ezali te</em>",
+    desc: "Ekangiseli oyo olandaki ememi na esika moko te na site oyo. Mbala mosusu ekomami mabe, to nkombo ya lokasa ebongwani. Oyo ozalaki koluka, soki ezali, ezali kaka na kofina moko.",
+    verse: "«Bóluka mpe bokozwa; bóbeta ekuke mpe bakofungolela bino.»",
+    verseRef: "Matai 7, 7",
+    btnHome: "Zonga na ebandeli",
+    btnTopics: "Tala mitó nyonso"
+  },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Makoki nyonso ebombami.</strong> Epekisami kokopi mobimba to ndambo soki ndingisa ya mokanda ya mokomi ezali te.", text: "&copy; 2026 Kondima mpe Mayele. Ad maiorem Dei gloriam." }
 };

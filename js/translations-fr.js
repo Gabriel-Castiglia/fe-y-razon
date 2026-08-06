@@ -405,6 +405,17 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
     ]
   },
   lang: { soon: "Bientôt" },
+  // Textos de la página 404 (404.html).
+  notFound: {
+    pageTitle: "Page introuvable | Foi et Raison",
+    eyebrow: "Erreur 404",
+    title: "Cette page<br>n’<em>existe</em> pas",
+    desc: "Le lien que vous avez suivi ne mène nulle part sur ce site. Il est peut-être mal écrit, ou la page a changé de nom. Ce que vous cherchiez, s’il existe, est à un clic.",
+    verse: "« Cherchez et vous trouverez ; frappez et l’on vous ouvrira. »",
+    verseRef: "Matthieu 7, 7",
+    btnHome: "Retour à l’accueil",
+    btnTopics: "Voir tous les thèmes"
+  },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Tous droits réservés.</strong> Toute reproduction, totale ou partielle, est interdite sans l'autorisation écrite de l'auteur.", text: "&copy; 2026 Foi et Raison. Ad majorem Dei gloriam." }
 };

@@ -787,6 +787,17 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
   lang: {
     soon: "Kommer snart"
   },
+  // Textos de la página 404 (404.html).
+  notFound: {
+    pageTitle: "Siden blev ikke fundet | Tro og Fornuft",
+    eyebrow: "Fejl 404",
+    title: "Denne side<br><em>findes</em> ikke",
+    desc: "Linket, du fulgte, fører ingen steder hen på dette websted. Måske er det skrevet forkert, eller siden har skiftet navn. Det, du ledte efter, er kun ét klik væk, hvis det findes.",
+    verse: "»Søg, og I skal finde; bank på, og der skal lukkes op for jer.«",
+    verseRef: "Matthæus 7, 7",
+    btnHome: "Tilbage til forsiden",
+    btnTopics: "Se alle emner"
+  },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Alle rettigheder forbeholdes.</strong> Hel eller delvis gengivelse er forbudt uden forfatterens skriftlige tilladelse.",
     text: "&copy; 2026 Tro og Fornuft. Ad maiorem Dei gloriam."

@@ -788,6 +788,17 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
   lang: {
     soon: "Malapit na"
   },
+  // Textos de la página 404 (404.html).
+  notFound: {
+    pageTitle: "Hindi natagpuan ang pahina | Pananampalataya at Dahilan",
+    eyebrow: "Error 404",
+    title: "Ang pahinang ito<br>ay <em>wala</em>",
+    desc: "Ang link na sinundan mo ay hindi humahantong saanman sa site na ito. Maaaring mali ang pagkakasulat, o nagbago ang pangalan ng pahina. Ang hinahanap mo, kung mayroon, ay isang pindot na lamang ang layo.",
+    verse: "«Maghanap kayo, at kayo’y makatatagpo; kumatok kayo, at kayo’y pagbubuksan.»",
+    verseRef: "Mateo 7, 7",
+    btnHome: "Bumalik sa simula",
+    btnTopics: "Tingnan ang lahat ng paksa"
+  },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Nakalaan ang lahat ng karapatan.</strong> Ipinagbabawal ang pagpaparami nang buo o bahagi nang walang nakasulat na pahintulot ng may-akda.",
     text: "&copy; 2026 Pananampalataya at Dahilan. Ad maiorem Dei gloriam."
