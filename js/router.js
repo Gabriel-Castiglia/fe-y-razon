@@ -86,6 +86,34 @@ function initOverlayVideos(count) {
   const vids     = ovVids().slice(0, count);
   if (!vids.length) return;
 
+  // Mismo problema y misma cura que en el hero de main.js: la rotación dependía
+  // solo de 'timeupdate' y 'ended', así que un video que no llegaba a arrancar
+  // dejaba el fondo del artículo congelado para siempre. El vigilante salta al
+  // siguiente si el que toca no avanza, y se precarga el que viene para que no
+  // haya parón al cambiar.
+  const OV_ESPERA = 8000;
+  let ovVigilante = null;
+
+  function vigilarOv() {
+    clearTimeout(ovVigilante);
+    const actual = vids[ovIndex];
+    if (!actual) return;
+    const marca = actual.currentTime;
+    ovVigilante = setTimeout(() => {
+      const atascado = actual.paused || actual.currentTime === marca || actual.error;
+      if (atascado && vids.length > 1) {
+        ovTransitioning = false;
+        advanceOv();
+      }
+    }, OV_ESPERA);
+  }
+
+  function precargarOv() {
+    if (vids.length < 2) return;
+    const siguiente = vids[(ovIndex + 1) % vids.length];
+    if (siguiente.preload !== 'auto') siguiente.preload = 'auto';
+    if (siguiente.readyState === 0 && !siguiente.currentSrc) siguiente.load();
+  }
 
   function advanceOv() {
     if (ovTransitioning || vids.length <= 1) return;
@@ -97,6 +125,8 @@ function initOverlayVideos(count) {
     next.currentTime = 0;
     window.FYRVideo.reproducir(next);
     next.classList.add('active');
+    vigilarOv();
+    precargarOv();
     setTimeout(() => {
       prev.classList.remove('active');
       window.FYRVideo.detener(prev);
@@ -117,6 +147,9 @@ function initOverlayVideos(count) {
     v.addEventListener('ended',      advanceOv);
     v.classList.toggle('active', i === 0);
   });
+
+  vigilarOv();
+  precargarOv();
 
   // El arranque va por FYRVideo (main.js): estos videos se acaban de crear con
   // load(), así que son justamente los que llegan sin datos al primer play() y
