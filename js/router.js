@@ -100,6 +100,7 @@ function initOverlayVideos(count) {
     if (!actual) return;
     const marca = actual.currentTime;
     ovVigilante = setTimeout(() => {
+      if (!actual.classList.contains('active')) actual.classList.add('active');
       const atascado = actual.paused || actual.currentTime === marca || actual.error;
       if (atascado && vids.length > 1) {
         ovTransitioning = false;
@@ -127,10 +128,18 @@ function initOverlayVideos(count) {
     next.classList.add('active');
     vigilarOv();
     precargarOv();
+    // Apagar lo que no sea el actual EN ESTE MOMENTO (ver la nota de main.js):
+    // apagar la referencia guardada 1,2 s antes dejaba el fondo sin ningún video
+    // encendido al cerrar la vuelta.
     setTimeout(() => {
-      prev.classList.remove('active');
-      window.FYRVideo.detener(prev);
-      prev.currentTime = 0;
+      const actual = vids[ovIndex];
+      vids.forEach(v => {
+        if (v === actual) return;
+        v.classList.remove('active');
+        window.FYRVideo.detener(v);
+        v.currentTime = 0;
+      });
+      actual.classList.add('active');
       ovTransitioning  = false;
     }, OV_TRANSITION);
   }
