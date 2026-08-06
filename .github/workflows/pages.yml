@@ -48,3 +48,13 @@ jobs:
       - name: Publicar
         id: despliegue
         uses: actions/deploy-pages@v4
+        with:
+          # 30 minutos en vez de los 10 por defecto.
+          #
+          # Con el valor de fábrica este paso se rendía y cancelaba, marcando el
+          # despliegue como fallido... mientras GitHub terminaba de publicarlo por
+          # su cuenta. El 6-ago-2026 se perdieron horas persiguiendo ese falso
+          # negativo: el sitio quedaba publicado y el registro decía «Timeout
+          # reached, aborting!». Con un sitio de decenas de MB la publicación pasa
+          # de los 10 minutos con facilidad, así que se le da margen de sobra.
+          timeout: 1800000
