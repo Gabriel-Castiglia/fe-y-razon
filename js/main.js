@@ -135,7 +135,14 @@ document.addEventListener('DOMContentLoaded', function () {
   // VideoManager encapsula el crossfade infinito reutilizable para cualquier grupo de videos.
 
   function VideoManager(selector) {
-    const videos = Array.from(document.querySelectorAll(selector));
+    // Los huecos del overlay de artículo (#article-overlay) llevan la MISMA clase
+    // .hero-video, pero están vacíos hasta que se abre un tema: los rellena
+    // router.js con las fuentes del artículo. Si entran en esta rotación, al
+    // llegarles el turno no hay nada que reproducir y el hero se queda mostrando
+    // el fondo, uno tras otro, hasta volver al principio. Se quedan fuera: de
+    // ellos se ocupa el router con su propio ciclo.
+    const videos = Array.from(document.querySelectorAll(selector))
+      .filter(v => !v.closest('#article-overlay'));
     if (!videos.length) return;
 
     let currentIndex = 0;
