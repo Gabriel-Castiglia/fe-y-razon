@@ -158,6 +158,9 @@ document.addEventListener('DOMContentLoaded', function () {
       const actual = videos[currentIndex];
       const marca = actual.currentTime;
       vigilante = setTimeout(() => {
+        // Salvavidas: si por lo que sea el que toca perdió la clase, devolvérsela.
+        // Sin esto el hero se queda con el fondo a la vista y ya no vuelve.
+        if (!actual.classList.contains('active')) actual.classList.add('active');
         const atascado = actual.paused || actual.currentTime === marca || actual.error;
         if (atascado && videos.length > 1) {
           isTransitioning = false; // por si quedó a medias
@@ -192,10 +195,20 @@ document.addEventListener('DOMContentLoaded', function () {
       vigilar();
       precargarSiguiente();
 
+      // Se apaga TODO lo que no sea el video actual en este momento, en vez de
+      // apagar la referencia guardada hace 1,2 s. Al cerrar la vuelta esa
+      // referencia podía ser justo el video que acababa de volver a tocar, se le
+      // quitaba la clase y el hero se quedaba en el fondo marrón sin retomar.
+      // Así siempre queda exactamente uno encendido: el que corresponde.
       setTimeout(() => {
-        prevVideo.classList.remove('active');
-        window.FYRVideo.detener(prevVideo);
-        prevVideo.currentTime = 0;
+        const actual = videos[currentIndex];
+        videos.forEach(v => {
+          if (v === actual) return;
+          v.classList.remove('active');
+          window.FYRVideo.detener(v);
+          v.currentTime = 0;
+        });
+        actual.classList.add('active');
         isTransitioning = false;
       }, TRANSITION_MS);
     }
