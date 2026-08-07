@@ -751,7 +751,7 @@ NUNCA Reina-Valera ni traducciones protestantes.
         epigraphAuthor: "Epicteto",
         eyebrow: "Del autor de este sitio",
         badge: "Edición impresa",
-        title: "La puerta falsa",
+        title: "La puerta falsa<span class='rec-book-subtitle'>La razón contra el ocultismo moderno</span>",
         desc: "El ocultismo promete lo contrario: poder sobre lo que no depende de nadie, a cambio de lo único que sí está en nuestras manos, el propio juicio. Este libro toma sus textos (grimorios, biblias negras, manuales herméticos, el tarot, la astrología, el «manifestar») y los examina sin prisa, por sus dos caras: las fechas, las fuentes, las contradicciones. No acusa desde ninguna fe ni pide que se le crea; cada cargo se prueba con las páginas del propio género.",
         close: "No ofrece misterios, sino algo más arduo y más digno: la lucidez.",
         langsLabel: "Publicado en siete idiomas",
@@ -807,6 +807,7 @@ NUNCA Reina-Valera ni traducciones protestantes.
       },
       sec3: {
         eyebrow: "Apostolados · Medios", title: "Apostolados y medios católicos",
+        vaticannews: { desc: "El portal informativo oficial de la Santa Sede. Noticias del Papa y de la Iglesia universal, con transmisiones en directo de las celebraciones pontificias.", tag: "Santa Sede · Noticias", ytEs: "YouTube en español →", ytEn: "YouTube en inglés →" },
         heraldos: { desc: "Apostolado misionero. Formación, catequesis y evangelización fiel a la Tradición." },
         rugged:   { desc: "Hermosos rosarios hechos a mano y artículos de fe varios de gran calidad con envío internacional.", tag: "Estados Unidos" },
         grat:     { desc: "Biblia de Jerusalén en inglés o español latino (para otros idiomas verifique en la página oficial). Con plan de estudio único conteniendo explicaciones paso a paso y gráficas, ideal para neófitos.", tag: "Biblia · Formación" },
