@@ -287,7 +287,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
         epigraphAuthor: "Épictète",
         eyebrow: "De l'auteur de ce site",
         badge: "Édition imprimée",
-        title: "La Fausse Porte",
+        title: "La Fausse Porte<span class='rec-book-subtitle'>La raison contre l'occultisme moderne</span>",
         desc: "L'occultisme promet l'inverse : le pouvoir sur ce qui ne dépend de personne, en échange de la seule chose qui soit vraiment entre nos mains, notre propre jugement. Ce livre prend ses textes (grimoires, bibles noires, manuels hermétiques, le tarot, l'astrologie, le « manifester ») et les examine sans hâte, sur leurs deux faces : les dates, les sources, les contradictions. Il n'accuse au nom d'aucune foi et ne demande à personne de le croire sur parole ; chaque charge est prouvée par les pages du genre lui-même.",
         close: "Il n'offre pas de mystères, mais quelque chose de plus ardu et de plus digne : la lucidité.",
         langsLabel: "Publié en sept langues",
@@ -334,6 +334,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
       },
       sec3: {
         eyebrow: "Apostolats · Médias", title: "Apostolats et médias catholiques",
+        vaticannews: { desc: "Le portail d'information officiel du Saint-Siège. L'actualité du Pape et de l'Église universelle, avec la retransmission en direct des célébrations pontificales.", tag: "Saint-Siège · Actualités", ytEs: "YouTube en espagnol →", ytEn: "YouTube en anglais →" },
         heraldos: { desc: "Apostolat missionnaire. Formation, catéchèse et évangélisation fidèles à la Tradition." },
         rugged:   { desc: "De magnifiques chapelets faits à la main et divers articles de foi de grande qualité avec expédition internationale.", tag: "États-Unis" },
         grat:     { desc: "Bible de Jérusalem en anglais ou en espagnol latino (pour les autres langues, vérifiez sur la page officielle). Avec un plan d'étude unique contenant des explications étape par étape et des graphiques, idéal pour les néophytes.", tag: "Bible · Formation" },

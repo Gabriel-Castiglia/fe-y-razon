@@ -650,7 +650,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
         epigraphAuthor: "Epictetus",
         eyebrow: "From the author of this site",
         badge: "Print edition",
-        title: "The False Door",
+        title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
         desc: "The occult promises the opposite: power over what depends on no one, in exchange for the one thing that truly is in our hands, our own judgment. This book takes its texts (grimoires, black bibles, hermetic manuals, tarot, astrology, “manifesting”) and examines them without haste, on both faces: the dates, the sources, the contradictions. It accuses from no faith and asks no one to take its word; every charge is proven with the pages of the genre itself.",
         close: "It offers no mysteries, but something more arduous and more worthy: lucidity.",
         langsLabel: "Published in seven languages",
@@ -703,6 +703,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
       },
       sec3: {
         eyebrow: "Apostolates · Media", title: "Apostolates and Catholic Media",
+        vaticannews: { desc: "The official news portal of the Holy See. News of the Pope and of the universal Church, with live broadcasts of the papal celebrations.", tag: "Holy See · News", ytEs: "YouTube in Spanish →", ytEn: "YouTube in English →" },
         heraldos: { desc: "Missionary apostolate. Formation, catechesis, and evangelization faithful to Tradition." },
         rugged:   { desc: "Beautiful handmade rosaries and various high-quality faith articles with international shipping.", tag: "United States" },
         grat:     { desc: "Jerusalem Bible in English or Latin American Spanish (for other languages check the official page). With unique study plan containing step-by-step explanations and graphics, ideal for neophytes.", tag: "Bible · Formation" },

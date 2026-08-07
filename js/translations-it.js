@@ -210,7 +210,7 @@ const translationsIT = {
         epigraphAuthor: "Epitteto",
         eyebrow: "Dall'autore di questo sito",
         badge: "Edizione a stampa",
-        title: "La falsa porta",
+        title: "La falsa porta<span class='rec-book-subtitle'>La ragione contro l'occultismo moderno</span>",
         desc: "L'occultismo promette il contrario: potere su ciò che non dipende da nessuno, in cambio dell'unica cosa che è davvero nelle nostre mani, il proprio giudizio. Questo libro prende i suoi testi (grimori, bibbie nere, manuali ermetici, i tarocchi, l'astrologia, il «manifestare») e li esamina senza fretta, dalle sue due facce: le date, le fonti, le contraddizioni. Non accusa a partire da nessuna fede né chiede che gli si creda; ogni capo d'accusa si prova con le pagine del genere stesso.",
         close: "Non offre misteri, ma qualcosa di più arduo e più degno: la lucidità.",
         langsLabel: "Pubblicato in sette lingue",
@@ -257,6 +257,7 @@ const translationsIT = {
       },
       sec3: {
         eyebrow: "Apostolati · Media", title: "Apostolati e media cattolici",
+        vaticannews: { desc: "Il portale informativo ufficiale della Santa Sede. Notizie del Papa e della Chiesa universale, con diretta delle celebrazioni pontificie.", tag: "Santa Sede · Notizie", ytEs: "YouTube in spagnolo →", ytEn: "YouTube in inglese →" },
         heraldos: { desc: "Apostolato missionario. Formazione, catechesi ed evangelizzazione fedele alla Tradizione." },
         rugged:   { desc: "Bellissimi rosari fatti a mano e vari articoli di fede di alta qualità con spedizione internazionale.", tag: "Stati Uniti" },
         grat:     { desc: "Bibbia di Gerusalemme in inglese o spagnolo latino (per altre lingue verificare sulla pagina ufficiale). Con piano di studio unico contenente spiegazioni passo dopo passo e grafiche, ideale per i neofiti.", tag: "Bibbia · Formazione" },

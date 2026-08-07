@@ -210,7 +210,7 @@ const translationsSW = {
         epigraphAuthor: "Epikteto",
         eyebrow: "Kutoka kwa mwandishi wa tovuti hii",
         badge: "Toleo lililochapishwa",
-        title: "The False Door",
+        title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
         desc: "Uchawi na mafumbo huahidi kinyume chake: mamlaka juu ya yale yasiyomtegemea mtu yeyote, badala ya kitu pekee kilicho mikononi mwetu kweli, yaani hukumu yetu wenyewe. Kitabu hiki huchukua maandiko yake (vitabu vya uchawi, biblia nyeusi, miongozo ya kihermetiki, tarot, unajimu, “kuvuta mafanikio”) na kuyachunguza bila haraka, kwa pande zake mbili: tarehe, vyanzo, na mikanganyiko. Hakishtaki kwa jina la imani yoyote wala hakiombi mtu akiamini tu; kila shtaka huthibitishwa kwa kurasa za aina hiyo yenyewe.",
         close: "Hakitoi siri, bali kitu kigumu zaidi na chenye heshima zaidi: uangavu wa akili.",
         langsLabel: "Kimechapishwa katika lugha saba",
@@ -258,6 +258,7 @@ const translationsSW = {
       },
       sec3: {
         eyebrow: "Utume · Vyombo vya Habari", title: "Utume na Vyombo vya Habari vya Kikatoliki",
+        vaticannews: { desc: "Tovuti rasmi ya habari ya Kiti Kitakatifu. Habari za Papa na za Kanisa la ulimwengu mzima, pamoja na matangazo ya moja kwa moja ya sherehe za kipapa.", tag: "Kiti Kitakatifu · Habari", ytEs: "YouTube kwa Kihispania →", ytEn: "YouTube kwa Kiingereza →" },
         heraldos: { desc: "Utume wa kimisionari. Malezi, katekesi, na uinjilishaji wa uaminifu kwa Mapokeo." },
         rugged:   { desc: "Rozari nzuri zilizotengenezwa kwa mkono na nakala mbalimbali za imani za ubora wa juu zinazosafirishwa kimataifa.", tag: "Marekani" },
         grat:     { desc: "Biblia ya Yerusalemu kwa Kiingereza au Kihispania cha Amerika ya Kusini (kwa lugha zingine angalia ukurasa rasmi). Pamoja na mpango wa kipekee wa kujifunza wenye maelezo ya hatua kwa hatua na michoro, inafaa kwa waamini wapya.", tag: "Biblia · Malezi" },

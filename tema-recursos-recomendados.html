@@ -329,6 +329,14 @@
         filter: invert(1) brightness(1.8); transition: none;
       }
       .rec-apost-photo--logo::after { display: none; }
+      /* Vatican News: encabeza la sección a ancho completo. El banner oficial es
+         panorámico (1707×282 ≈ 6:1), así que en media columna se recortaría
+         hasta perder el logo; a ancho completo entra entero. El fondo rojo
+         cubre cualquier holgura antes de que cargue la imagen. */
+      .rec-apost-card--wide { grid-column: 1 / -1; }
+      .rec-apost-photo--banner { height: 150px; background: #c20001; }
+      .rec-apost-photo--banner img { object-position: center center; }
+      .rec-apost-photo--banner::after { display: none; }
 
       /* ── BOOK — edición impresa del autor ── */
       .rec-book {
@@ -364,6 +372,13 @@
       .rec-book-body h2 {
         font-family: 'Cinzel', serif; font-size: 2.05rem; color: #fff;
         margin: 0 0 .35rem; font-weight: 700; line-height: 1.18;
+      }
+      /* Subtítulo del libro: va dentro del h2 (lo trae la misma clave i18n
+         que el título), pero subordinado al título en cuerpo y en color. */
+      .rec-book-subtitle {
+        display: block; font-size: .95rem; color: var(--gold-light);
+        font-weight: 400; letter-spacing: .04em; line-height: 1.45;
+        margin-top: .55rem;
       }
       .rec-book-author {
         font-family: 'Montserrat', sans-serif; font-size: .72rem;
@@ -445,11 +460,14 @@
         .rec-book-cover img { max-width: 208px; }
         .rec-book-body { padding: 1.8rem 1.8rem 2.2rem; text-align: left; }
         .rec-book-body h2 { font-size: 1.6rem; }
+        .rec-book-subtitle { font-size: .84rem; margin-top: .45rem; }
+        .rec-apost-photo--banner { height: 128px; }
       }
       @media (max-width: 520px) {
         .rec-page { padding: 2.5rem 1rem 4rem; }
         .rec-priest-photo { height: 230px; }
         .rec-rights { padding: 1.5rem 1.4rem; }
+        .rec-apost-photo--banner { height: 104px; }
       }
     </style>
 
@@ -495,7 +513,7 @@
             </div>
             <div class="rec-book-body">
               <span class="rec-book-badge" data-i18n="topicPages.recursos-recomendados.sec4.badge">Edición impresa</span>
-              <h2 data-i18n="topicPages.recursos-recomendados.sec4.title">La puerta falsa</h2>
+              <h2 data-i18n="topicPages.recursos-recomendados.sec4.title">La puerta falsa<span class="rec-book-subtitle">La razón contra el ocultismo moderno</span></h2>
               <p class="rec-book-author">M. Gabriel Castiglia</p>
               <blockquote class="rec-book-epigraph">
                 <p data-i18n="topicPages.recursos-recomendados.sec4.epigraph">«De lo existente, unas cosas dependen de nosotros; otras no.»</p>
@@ -566,6 +584,25 @@
         <div>
           <div class="rec-label" data-i18n="topicPages.recursos-recomendados.sec3.eyebrow">Apostolados · Medios</div>
           <div class="rec-apost">
+
+            <!-- Vatican News abre la sección: es la fuente oficial de la Santa Sede.
+                 Ocupa las dos columnas porque su banner es panorámico. Los dos
+                 enlaces van a los canales en español e inglés; el sitio tiene
+                 doce idiomas y el canal no, así que se ofrecen ambos siempre. -->
+            <div class="rec-apost-card rec-apost-card--wide">
+              <div class="rec-apost-photo rec-apost-photo--banner">
+                <img src="Recursos/Im%C3%A1genes/vatican-news.webp" alt="Vatican News"
+                     width="1707" height="282" loading="lazy">
+              </div>
+              <div class="rec-apost-body">
+                <span class="rec-apost-tag" data-i18n="topicPages.recursos-recomendados.sec3.vaticannews.tag">Santa Sede · Noticias</span>
+                <p data-i18n="topicPages.recursos-recomendados.sec3.vaticannews.desc">El portal informativo oficial de la Santa Sede. Noticias del Papa y de la Iglesia universal, con transmisiones en directo de las celebraciones pontificias.</p>
+                <div class="rec-apost-links">
+                  <a href="https://www.youtube.com/@VaticanNewsES" target="_blank" rel="noopener" class="rec-apost-link" data-i18n="topicPages.recursos-recomendados.sec3.vaticannews.ytEs">YouTube en español →</a>
+                  <a href="https://www.youtube.com/@VaticanNewsEN" target="_blank" rel="noopener" class="rec-apost-link" data-i18n="topicPages.recursos-recomendados.sec3.vaticannews.ytEn">YouTube en inglés →</a>
+                </div>
+              </div>
+            </div>
 
             <div class="rec-apost-card">
               <div class="rec-apost-photo">

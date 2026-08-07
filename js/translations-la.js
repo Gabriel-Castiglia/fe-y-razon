@@ -656,7 +656,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         epigraphAuthor: "Epictetus",
         eyebrow: "Ab auctore huius situs",
         badge: "Editio typis impressa",
-        title: "The False Door",
+        title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
         desc: "Occultismus contrarium pollicetur: potestatem in ea quae a nemine pendent, pretio eius unius rei quae vere in manibus nostris est, iudicii proprii. Hic liber textus eius (grimoria, biblias nigras, manualia hermetica, tarot, astrologiam, illud «manifestare») sumit eosque sine festinatione utraque facie examinat: tempora, fontes, repugnantias. Ex nulla fide accusat neque petit ut sibi credatur; omne crimen ipsis generis paginis probatur.",
         close: "Non mysteria offert, sed aliquid arduius ac dignius: perspicuitatem.",
         langsLabel: "Septem linguis editus",
@@ -710,6 +710,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
       },
       sec3: {
         eyebrow: "Apostolatus · Media", title: "Apostolatus et Media Catholica",
+        vaticannews: { desc: "Portale nuntiorum officiale Sanctae Sedis. Nuntii de Summo Pontifice et de Ecclesia universali, cum celebrationum pontificalium transmissione directa.", tag: "Sancta Sedes · Nuntii", ytEs: "YouTube Hispanice →", ytEn: "YouTube Anglice →" },
         heraldos: { desc: "Apostolatus missionarius. Formatio, catechesis et evangelizatio Traditioni fidelis." },
         rugged:   { desc: "Pulcherrimae coronae pretiose factae manibus et varia fidei articulis magnae qualitatis cum missione internationali.", tag: "Civitates Foederatae" },
         grat:     { desc: "Biblia Hierosolymitana anglice vel hispanice (pro aliis linguis paginam officialem verifica). Cum unico consilio studii continente explicationes gradatim et graphica, neophytis aptissima.", tag: "Biblia · Formatio" },

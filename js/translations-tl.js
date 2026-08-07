@@ -650,7 +650,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
         epigraphAuthor: "Epicteto",
         eyebrow: "Mula sa may-akda ng sitiong ito",
         badge: "Nakalimbag na edisyon",
-        title: "The False Door",
+        title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
         desc: "Ang kabaligtaran ang ipinapangako ng okultismo: kapangyarihan sa mga bagay na hindi nakasalalay kaninuman, kapalit ng tanging bagay na talagang nasa ating mga kamay, ang sarili nating paghatol. Kinukuha ng aklat na ito ang mga teksto nito (mga grimoire, itim na bibliya, mga manwal na hermetiko, ang tarot, ang astrolohiya, ang “manifesting”) at sinusuri ang mga ito nang walang pagmamadali, sa magkabilang mukha: ang mga petsa, ang mga pinagmulan, ang mga pagsasalungatan. Hindi ito nag-aakusa mula sa alinmang pananampalataya at hindi humihingi na basta itong paniwalaan; bawat paratang ay pinatutunayan ng mismong mga pahina ng ganitong panitikan.",
         close: "Walang hiwaga itong inaalok, kundi isang bagay na mas mahirap at mas marangal: ang linaw ng isip.",
         langsLabel: "Nailathala sa pitong wika",
@@ -704,6 +704,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
       },
       sec3: {
         eyebrow: "Mga Apostolado · Media", title: "Mga Apostolado at Katolikong Media",
+        vaticannews: { desc: "Ang opisyal na portal ng balita ng Banal na Sede. Mga balita tungkol sa Santo Papa at sa pandaigdigang Simbahan, may live na pagsahimpapawid ng mga pagdiriwang ng Santo Papa.", tag: "Banal na Sede · Balita", ytEs: "YouTube sa Espanyol →", ytEn: "YouTube sa Ingles →" },
         heraldos: { desc: "Misyonaryong apostolado. Pagpapalakas ng pananampalataya, katekesis, at ebanghelisasyon na tapat sa Tradisyon." },
         rugged:   { desc: "Magagandang gawa sa kamay na mga rosaryo at iba't ibang mataas na kalidad na artikulo ng pananampalataya na may internasyonal na pagpapadala.", tag: "Estados Unidos" },
         grat:     { desc: "Biblia ng Jerusalem sa Ingles o Latin American Spanish (para sa ibang wika tingnan ang opisyal na pahina). May natatanging plano ng pag-aaral na naglalaman ng hakbang-hakbang na paliwanag at mga grapiko, perpekto para sa mga baguhan.", tag: "Biblia · Pormasyon" },

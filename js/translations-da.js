@@ -650,7 +650,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
         epigraphAuthor: "Epiktet",
         eyebrow: "Fra forfatteren af dette websted",
         badge: "Trykt udgave",
-        title: "The False Door",
+        title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
         desc: "Okkultismen lover det modsatte: magt over det, som ikke afhænger af nogen, i bytte for det eneste, der virkelig er i vore hænder, vores egen dømmekraft. Denne bog tager dens tekster (grimoirer, sorte bibler, hermetiske håndbøger, tarot, astrologi, „manifestering“) og undersøger dem uden hast, fra begge sider: datoerne, kilderne, modsigelserne. Den anklager ikke ud fra nogen tro og beder ingen om at tage den på ordet; hver anklage bevises med genrens egne sider.",
         close: "Den tilbyder ingen mysterier, men noget vanskeligere og værdigere: klarsyn.",
         langsLabel: "Udgivet på syv sprog",
@@ -704,6 +704,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
       },
       sec3: {
         eyebrow: "Apostolater · Medier", title: "Apostolater og katolske medier",
+        vaticannews: { desc: "Den Hellige Stols officielle nyhedsportal. Nyheder om paven og den universelle Kirke med direkte transmission af de pavelige liturgier.", tag: "Den Hellige Stol · Nyheder", ytEs: "YouTube på spansk →", ytEn: "YouTube på engelsk →" },
         heraldos: { desc: "Missionærsk apostolat. Dannelse, katekese og evangelisering tro mod Traditionen." },
         rugged:   { desc: "Smukke håndlavede rosenkranse og forskellige trosartikler af høj kvalitet med international forsendelse.", tag: "USA" },
         grat:     { desc: "Jerusalems Bibel på engelsk eller latinamerikansk spansk (for andre sprog, tjek den officielle side). Med en unik studieplan med trin-for-trin forklaringer og grafik, ideel til neofytter.", tag: "Bibel · Dannelse" },

@@ -210,7 +210,7 @@ const translationsLN = {
         epigraphAuthor: "Epiktete",
         eyebrow: "Uta na mokomi ya site oyo",
         badge: "Buku ya papye",
-        title: "The False Door",
+        title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
         desc: "Okiltisme elakaka bokeseni: nguya likolo ya makambo oyo etali moto moko te, na esika ya eloko kaka moko oyo ezali solo na mabɔkɔ na biso, bokati-likambo na biso moko. Buku oyo ezwi mikanda na yango (mikanda ya nkisi, babiblia ya moindo, mikanda ya ermetisme, tarot, astrolozi, “kobenda bomengo”) mpe etali yango na lombangu te, na bilongi mibale: batango, esika euti, mpe bokeseni. Efundaka na kombo ya lingomba moko te mpe esengaka te ete bandima yango kaka bongo; likambo nyonso emonisami na nkasa ya lolenge yango moko.",
         close: "Epesaka mabombami te, kasi eloko ya makasi mpe ya lokumu koleka: bososoli ya polele.",
         langsLabel: "Ebimisami na minoko sambo",
@@ -258,6 +258,7 @@ const translationsLN = {
       },
       sec3: {
         eyebrow: "Misala · Ba médias", title: "Misala mpe ba médias ya Katolike",
+        vaticannews: { desc: "Portail ya sango ya officiel ya Saint-Siège. Sango ya Papa mpe ya Lingomba ya mokili mobimba, na botalisi ya milulu ya Papa na ntango wana.", tag: "Saint-Siège · Sango", ytEs: "YouTube na Espanyol →", ytEn: "YouTube na Anglais →" },
         heraldos: { desc: "Mosala ya mission. Mateya, katekismo mpe évangélisation ya sembo na Tradition." },
         rugged:   { desc: "Banzete ya rosario ya kitoko esalemi na maboko mpe biloko ndenge na ndenge ya kondima ya qualité ya likolo na expédition internationale.", tag: "États-Unis" },
         grat:     { desc: "Biblia ya Yerusalemi na Lingelesi to na Espagnol ya Amérique latine (mpona minoko mosusu tala na page officielle). Na plan d'étude ya kokamwa oyo ezali na ba explications etape na etape mpe ba graphiques, malamu mpona ba neophytes.", tag: "Biblia · Mateya" },
