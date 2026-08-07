@@ -210,7 +210,7 @@ const translationsIG = {
         epigraphAuthor: "Epictetus",
         eyebrow: "Site n'aka onye dere saịtị a",
         badge: "Mbipụta akwụkwọ",
-        title: "The False Door",
+        title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
         desc: "Okpukpe nzuzo na-ekwe nkwa ihe megidere ya: ikike n'ihe na-adaberoghị onye ọ bụla, n'ọnọdụ naanị otu ihe dị n'aka anyị n'ezie, bụ ikpe nke onwe anyị. Akwụkwọ a na-ewere ederede ya (akwụkwọ anwansi, Baịbụl ojii, akwụkwọ ntuziaka hermetic, tarot, astrology, “ịkpọpụta akụnụba”) ma nyochaa ha n'enweghị ọsọ ọsọ, n'akụkụ abụọ: ụbọchị ha, isi mmalite ha, na nkwụghachi okwu ha. Ọ dịghị ebo ebubo site n'okwukwe ọ bụla, ọ dịghịkwa arịọ ka a kwenye na ya; a na-egosi ebubo ọ bụla site na peeji nke ụdị akwụkwọ ahụ n'onwe ya.",
         close: "Ọ dịghị enye ihe omimi, kama ihe siri ike karịa ma kwesịkwa ntụkwasị obi karịa: nghọta doro anya.",
         langsLabel: "E bipụtara ya n'asụsụ asaa",
@@ -258,6 +258,7 @@ const translationsIG = {
       },
       sec3: {
         eyebrow: "Apostolates · Mgbasa Ozi", title: "Apostolates na Mgbasa Ozi Katọlik",
+        vaticannews: { desc: "Weebụsaịtị akụkọ ọfịshịal nke Oche Nsọ. Akụkọ gbasara Poopu na Chọọchị ụwa niile, tinyere ngosi ndụ nke ememe Poopu.", tag: "Oche Nsọ · Akụkọ", ytEs: "YouTube n'asụsụ Spanish →", ytEn: "YouTube n'asụsụ Bekee →" },
         heraldos: { desc: "Ozi ndị ozi ala ọzọ. Ọzụzụ, catechesis, na izisa ozi ọma kwesịrị ntụkwasị obi nye Ọdịnala." },
         rugged:   { desc: "Rosary mara mma ejiri aka mee na ihe okwukwe dị iche iche dị elu nke a na-ezigara mba ụwa.", tag: "United States" },
         grat:     { desc: "Baịbụl Jerusalem na Bekee ma ọ bụ Spanish Latin American (maka asụsụ ndị ọzọ lelee ibe gọọmentị). Nwere atụmatụ ọmụmụ pụrụ iche nwere nkọwa nzọụkwụ na eserese, dị mma maka ndị ọhụrụ.", tag: "Baịbụl · Ọzụzụ" },

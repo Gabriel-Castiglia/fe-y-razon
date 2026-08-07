@@ -287,7 +287,7 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
         epigraphAuthor: "Epicteto",
         eyebrow: "Do autor deste site",
         badge: "Edição impressa",
-        title: "A Porta Falsa",
+        title: "A Porta Falsa<span class='rec-book-subtitle'>A razão contra o ocultismo moderno</span>",
         desc: "O ocultismo promete o contrário: poder sobre aquilo que não depende de ninguém, em troca da única coisa que de fato está em nossas mãos, o próprio juízo. Este livro toma os seus textos (grimórios, bíblias negras, manuais herméticos, o tarô, a astrologia, o “manifestar”) e os examina sem pressa, pelas suas duas faces: as datas, as fontes, as contradições. Não acusa a partir de nenhuma fé nem pede que se acredite nele; cada acusação é provada com as páginas do próprio gênero.",
         close: "Não oferece mistérios, mas algo mais árduo e mais digno: a lucidez.",
         langsLabel: "Publicado em sete idiomas",
@@ -334,6 +334,7 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
       },
       sec3: {
         eyebrow: "Apostolados · Mídia", title: "Apostolados e mídia católica",
+        vaticannews: { desc: "O portal informativo oficial da Santa Sé. Notícias do Papa e da Igreja universal, com transmissões ao vivo das celebrações pontifícias.", tag: "Santa Sé · Notícias", ytEs: "YouTube em espanhol →", ytEn: "YouTube em inglês →" },
         heraldos: { desc: "Apostolado missionário. Formação, catequese e evangelização fiel à Tradição." },
         rugged:   { desc: "Lindos terços feitos à mão e vários artigos de fé de alta qualidade com envio internacional.", tag: "Estados Unidos" },
         grat:     { desc: "Bíblia de Jerusalém em inglês ou espanhol latino (para outros idiomas verifique na página oficial). Com plano de estudo único contendo explicações passo a passo e gráficos, ideal para neófitos.", tag: "Bíblia · Formação" },
