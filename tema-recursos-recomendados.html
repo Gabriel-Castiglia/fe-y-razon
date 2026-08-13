@@ -351,8 +351,17 @@
         padding: 2.8rem 2rem; background: rgba(0,0,0,.28);
         min-width: 0;
       }
+      /* La portada es un enlace a Amazon: el ancho máximo vive en el <a> para
+         que el área clicable sea exactamente la imagen y no la caja entera. */
+      .rec-book-cover-link {
+        display: block; width: 100%; max-width: 258px;
+        border-radius: 3px; text-decoration: none;
+      }
+      .rec-book-cover-link:focus-visible {
+        outline: 2px solid var(--gold); outline-offset: 6px;
+      }
       .rec-book-cover img {
-        width: 100%; max-width: 258px; height: auto; display: block;
+        width: 100%; height: auto; display: block;
         border-radius: 3px; box-shadow: 0 16px 44px rgba(0,0,0,.6);
         transition: transform .35s ease;
       }
@@ -412,6 +421,9 @@
         width: 20px; height: 14px; object-fit: cover; border-radius: 2px;
         box-shadow: 0 0 0 1px rgba(255,255,255,.18);
       }
+      /* Botón de compra: va entre la ficha y la nota de otros idiomas. */
+      .rec-book-buy { margin: 0 0 1.2rem; }
+      .rec-book-buy .rec-btn-gold { display: inline-block; }
       .rec-book-note {
         color: rgba(255,255,255,.5); font-size: .74rem;
         line-height: 1.65; margin: 0; max-width: 46em;
@@ -478,7 +490,7 @@
         .rec-vatican-body h2 { font-size: 1.5rem; }
         .rec-book { grid-template-columns: 1fr; }
         .rec-book-cover { padding: 2.4rem 2rem 1.6rem; }
-        .rec-book-cover img { max-width: 208px; }
+        .rec-book-cover-link { max-width: 208px; }
         .rec-book-body { padding: 1.8rem 1.8rem 2.2rem; text-align: left; }
         .rec-book-body h2 { font-size: 1.6rem; }
         .rec-book-subtitle { font-size: .84rem; margin-top: .45rem; }
@@ -529,12 +541,22 @@
                páginas anuncian el libro. Sin fecha de lanzamiento a propósito. -->
           <div class="rec-book">
             <div class="rec-book-cover">
-              <img src="Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-es.jpg"
-                   alt="Portada de la segunda edición de La puerta falsa, de M. Gabriel Castiglia"
-                   data-i18n-alt="topicPages.recursos-recomendados.sec4.coverAlt"
-                   data-i18n-src="topicPages.recursos-recomendados.sec4.coverSrc"
-                   onerror="this.onerror=null; this.src='Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg';"
-                   width="700" height="1072" loading="lazy">
+              <!-- La portada lleva a la misma ficha de Amazon que el botón: la
+                   del idioma que se está mostrando (española en español, inglesa
+                   en los demás), igual que la imagen. -->
+              <a class="rec-book-cover-link"
+                 href="https://www.amazon.com/dp/B0HF1JGL9C"
+                 target="_blank" rel="noopener"
+                 data-i18n-href="topicPages.recursos-recomendados.sec4.buyUrl"
+                 aria-label="Comprar «La puerta falsa» en Amazon"
+                 data-i18n-aria-label="topicPages.recursos-recomendados.sec4.buyAria">
+                <img src="Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-es.jpg"
+                     alt="Portada de la segunda edición de La puerta falsa, de M. Gabriel Castiglia"
+                     data-i18n-alt="topicPages.recursos-recomendados.sec4.coverAlt"
+                     data-i18n-src="topicPages.recursos-recomendados.sec4.coverSrc"
+                     onerror="this.onerror=null; this.src='Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg';"
+                     width="700" height="1072" loading="lazy">
+              </a>
             </div>
             <div class="rec-book-body">
               <h2 data-i18n="topicPages.recursos-recomendados.sec4.title">La puerta falsa<span class="rec-book-subtitle">La razón contra el ocultismo moderno</span></h2>
@@ -562,6 +584,13 @@
                   </dd>
                 </div>
               </dl>
+
+              <div class="rec-book-buy">
+                <a href="https://www.amazon.com/dp/B0HF1JGL9C"
+                   target="_blank" rel="noopener" class="rec-btn-gold"
+                   data-i18n-href="topicPages.recursos-recomendados.sec4.buyUrl"
+                   data-i18n="topicPages.recursos-recomendados.sec4.buyLabel">Comprar en Amazon →</a>
+              </div>
 
               <p class="rec-book-note" data-i18n="topicPages.recursos-recomendados.sec4.otherLangs">Para ediciones en otros idiomas, escribir al autor por el <a href="index.html#contacto">formulario de contacto</a>.</p>
             </div>

@@ -666,7 +666,13 @@ const translationsJA = {
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.
         coverAlt: "M. Gabriel Castiglia『The False Door』第二版の表紙",
-        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg"
+        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg",
+        // Ficha de Amazon (USA) de la 2da edición en este idioma: la
+        // española para el sitio en español, la inglesa para los demás,
+        // igual que la portada. La usan el botón y la portada enlazada.
+        buyUrl: "https://www.amazon.com/dp/B0HF4M77S5",
+        buyLabel: "Amazonで購入 →",
+        buyAria: "『The False Door』をAmazonで購入"
       },
       sec5: {
         eyebrow: "法的告知",

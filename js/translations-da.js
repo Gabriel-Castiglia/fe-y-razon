@@ -666,7 +666,13 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.
         coverAlt: "Omslag til anden udgave af The False Door af M. Gabriel Castiglia",
-        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg"
+        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg",
+        // Ficha de Amazon (USA) de la 2da edición en este idioma: la
+        // española para el sitio en español, la inglesa para los demás,
+        // igual que la portada. La usan el botón y la portada enlazada.
+        buyUrl: "https://www.amazon.com/dp/B0HF4M77S5",
+        buyLabel: "Køb på Amazon →",
+        buyAria: "Køb The False Door på Amazon"
       },
       sec5: {
         eyebrow: "Juridisk meddelelse",
