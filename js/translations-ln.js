@@ -209,13 +209,10 @@ const translationsLN = {
         epigraph: "“Kati ya biloko oyo ezali, mosusu etali biso; mosusu te.”",
         epigraphAuthor: "Epiktete",
         eyebrow: "Uta na mokomi ya site oyo",
-        badge: "Ekobima mosika te",
         title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
         edition: "Ebimeli ya mibale, ebongisami mpe ebakisami",
         desc: "Ezali na magazini moko oyo efungwamaka na ngonga ya nsambo ya mpokwa mpo na moto oyo alongaki kolala te: etɛkaka bonkɔkɔ, sekele mpe nguya, mpe efutisaka na eloko oyo ezali te na etiketi. Buku oyo ekɔti kuna na lolenge ya pɛtɛɛ mpe oyo emonanaka mingi te: kofungola mikanda oyo magazini etɛkaka mpe kotánga yango mobimba, na batango pembeni. Mikanda ya nkisi, babiblia ya moindo, mikanda ya ermetisme, tarot, astrolozi, “kobenda bomengo”. Mpo na mokomoko, elandi nzela —ebimeli nini, mobu nini, lokasa ya nkama mibale elobi nini— mpe ekokanisami na oyo ezipeli elaki. Makambo elobami mpamba te: emonisami na maloba mpenza oyo ewuti na lolenge yango moko. Ezali buku ya lingomba te mpe elobelaka na kombo ya bokonzi moko te: ezali kobuka oyo etongami na mikanda, mpe nsima na yango bososoli oyo esalelami tii na nsuka, na bonkɔkɔ ya Epiktete, Senɛka mpe Marko Orɛlio.",
         close: "Elaki mabombami te. Epesaka eloko ya makasi mpe ya lokumu koleka: kososola.",
-        factDateLabel: "Kobima",
-        factDate: "29 Sɛtɛmbɛ 2026",
         factFormatsLabel: "Lolenge ya buku",
         factFormats: "Ezipeli pɛtɛɛ mpe ezipeli makasi",
         factLangsLabel: "Minoko",
@@ -230,27 +227,6 @@ const translationsLN = {
         // la inglesa, que es el título con el que la anuncian arriba.
         coverAlt: "Ezipeli ya ebimeli ya mibale ya buku The False Door, ya M. Gabriel Castiglia",
         coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg"
-      },
-      // Primera edición: sigue a la venta hasta septiembre de 2026. Conserva
-      // el título en el idioma de su propia edición donde esa edición existe.
-      sec4b: {
-        badge: "Ebimeli ya liboso",
-        title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
-        notice: "Oyo ezali <strong>ebimeli ya liboso</strong> ya buku, oyo ezali kotɛkama lelo. <strong>Ekotɛkama lisusu te na Sɛtɛmbɛ 2026</strong>, tango ebimeli ya mibale ekozwa esika na yango.",
-        langsLabel: "Ebimisami na minoko sambo",
-        langs: {
-          es: "Espanye",
-          en: "Angele",
-          pt: "Portuge",
-          fr: "Falanse",
-          it: "Italia",
-          de: "Alemani",
-          ja: "Japone"
-        },
-        cta: "Tala buku ya ezipeli makasi na Amazon →",
-        note: "Lien ekei na buku ya ezipeli makasi na Angele, na Amazon ya Amerika. Monoko nyonso ezali mpe na buku ya ezipeli pɛtɛɛ mpe ya Kindle: luka yango na monoko na yo, na magazini ya Amazon ya ekolo na yo.",
-        coverAlt: "Ezipeli ya ebimeli ya liboso ya buku The False Door, ya M. Gabriel Castiglia",
-        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg"
       },
       sec5: {
         eyebrow: "Liyebisi ya mibeko",

@@ -655,13 +655,10 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         epigraph: "«Eorum quae sunt, alia in nostra potestate sunt, alia non.»",
         epigraphAuthor: "Epictetus",
         eyebrow: "Ab auctore huius situs",
-        badge: "Mox proditurus",
         title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
         edition: "Editio altera, emendata et aucta",
         desc: "Est taberna quae hora septima vespertina ei aperit qui dormire non potuit: vetustatem, secretum et potentiam vendit, pretiumque exigit quod in scheda non scribitur. Hic liber eo ingreditur methodo simplici et rara: libros quos taberna vendit aperire eosque totos legere, temporibus adpositis. Grimoria, biblias nigras, manualia hermetica, tarot, astrologiam, illud «manifestare». Cuiusque vestigium premitur —quae editio, qui annus, quid pagina ducentesima dicat— et cum eo quod tegumentum pollicetur confertur. Crimina non asseruntur: ipsius generis verbis ad litteram allatis probantur. Non liber religiosus est neque ex ulla auctoritate disputat: demolitio est documentis facta, et post eam ratio ad finem usque exercita, more Epicteti, Senecae, Marci Aurelii.",
         close: "Mysteria non pollicetur. Aliquid arduius ac dignius offert: intellegere.",
-        factDateLabel: "Dies editionis",
-        factDate: "Die 29 Septembris 2026",
         factFormatsLabel: "Formae",
         factFormats: "Molliter et rigide compactus",
         factLangsLabel: "Linguae",
@@ -676,27 +673,6 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         // la inglesa, que es el título con el que la anuncian arriba.
         coverAlt: "Tegumentum editionis alterius libri The False Door, auctore M. Gabriel Castiglia",
         coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg"
-      },
-      // Primera edición: sigue a la venta hasta septiembre de 2026. Conserva
-      // el título en el idioma de su propia edición donde esa edición existe.
-      sec4b: {
-        badge: "Editio prima",
-        title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
-        notice: "Haec est <strong>editio prima</strong> libri, quae hodie venalis est. <strong>Mense Septembri anni 2026 venumdari desinet</strong>, cum editio altera eam substituet.",
-        langsLabel: "Septem linguis editus",
-        langs: {
-          es: "Hispanice",
-          en: "Anglice",
-          pt: "Lusitane",
-          fr: "Gallice",
-          it: "Italice",
-          de: "Germanice",
-          ja: "Iaponice"
-        },
-        cta: "Vide librum rigide compactum apud Amazon →",
-        note: "Nexus ad editionem Anglicam rigide compactam apud Amazon Civitatum Foederatarum ducit. Unaquaeque lingua praeterea editionem molliter compactam et Kindle habet: eam lingua tua in taberna Amazon patriae tuae quaere.",
-        coverAlt: "Tegumentum editionis primae libri The False Door, auctore M. Gabriel Castiglia",
-        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg"
       },
       sec5: {
         eyebrow: "Monitum iuridicum",

@@ -649,13 +649,10 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
         epigraph: "“Sa mga bagay na umiiral, ang ilan ay nakasalalay sa atin; ang iba ay hindi.”",
         epigraphAuthor: "Epicteto",
         eyebrow: "Mula sa may-akda ng sitiong ito",
-        badge: "Malapit nang mailathala",
         title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
         edition: "Ikalawang edisyon, binago at pinalawak",
         desc: "May isang tindahan na nagbubukas nang alas-siyete ng gabi para sa hindi nakatulog: nagbebenta ito ng kalumaan, lihim at kapangyarihan, at naniningil sa isang bagay na wala sa etiketa. Pumapasok doon ang aklat na ito na may simple at bihirang paraan: buksan ang mga aklat na ibinebenta nito at basahin nang buo, kasama ang mga petsa sa tabi. Mga grimoire, itim na bibliya, mga manwal na hermetiko, ang tarot, ang astrolohiya, ang “manifesting”. Sa bawat isa ay sinusundan ang bakas —anong edisyon, anong taon, ano ang sinasabi ng pahina dalawang daan— at inihaharap sa ipinapangako ng pabalat. Ang mga paratang ay hindi basta iginigiit: pinatutunayan ang mga ito sa pamamagitan ng tuwirang sipi mula mismo sa ganitong panitikan. Hindi ito aklat panrelihiyon at hindi nangangatwiran mula sa anumang awtoridad: isa itong paggiba na gawa sa mga dokumento, at sa likod nito ang katwirang ginagamit hanggang dulo, sa tradisyon nina Epicteto, Seneca at Marco Aurelio.",
         close: "Walang hiwagang ipinapangako ito. Isang bagay na mas mahirap at mas marangal ang inaalok: ang umunawa.",
-        factDateLabel: "Paglalathala",
-        factDate: "29 Setyembre 2026",
         factFormatsLabel: "Mga format",
         factFormats: "Paperback at hardcover",
         factLangsLabel: "Mga wika",
@@ -670,27 +667,6 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
         // la inglesa, que es el título con el que la anuncian arriba.
         coverAlt: "Pabalat ng ikalawang edisyon ng The False Door, ni M. Gabriel Castiglia",
         coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg"
-      },
-      // Primera edición: sigue a la venta hasta septiembre de 2026. Conserva
-      // el título en el idioma de su propia edición donde esa edición existe.
-      sec4b: {
-        badge: "Unang edisyon",
-        title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
-        notice: "Ito ang <strong>unang bersyon</strong> ng aklat, ang ibinebenta ngayon. <strong>Ititigil ang pagbebenta nito sa Setyembre 2026</strong>, kapag pinalitan na ito ng ikalawang edisyon.",
-        langsLabel: "Nailathala sa pitong wika",
-        langs: {
-          es: "Espanyol",
-          en: "Ingles",
-          pt: "Portuges",
-          fr: "Pranses",
-          it: "Italyano",
-          de: "Aleman",
-          ja: "Hapon"
-        },
-        cta: "Tingnan ang hardcover sa Amazon →",
-        note: "Ang link ay patungo sa edisyong hardcover sa Ingles, sa Amazon Estados Unidos. May sariling edisyong paperback at Kindle ang bawat wika: hanapin ito sa inyong wika, sa tindahan ng Amazon sa inyong bansa.",
-        coverAlt: "Pabalat ng unang edisyon ng The False Door, ni M. Gabriel Castiglia",
-        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg"
       },
       sec5: {
         eyebrow: "Paunawang legal",

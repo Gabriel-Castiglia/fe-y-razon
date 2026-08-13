@@ -209,13 +209,10 @@ const translationsIG = {
         epigraph: "“N’ihe ndị dị adị, ụfọdụ na-adabere n’anyị; ụfọdụ adabereghị.”",
         epigraphAuthor: "Epictetus",
         eyebrow: "Site n'aka onye dere saịtị a",
-        badge: "Na-abịa n'oge na-adịghị anya",
         title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
         edition: "Mbipụta nke abụọ, edeziri ma gbasaa",
         desc: "E nwere otu ụlọ ahịa na-emeghe n'elekere asaa nke abalị maka onye na-enweghị ike ịrahụ ụra: ọ na-ere ochie, nzuzo na ike, ma na-anara ụgwọ n'ihe na-adịghị na akara ya. Akwụkwọ a na-abanye ebe ahụ site n'ụzọ dị mfe ma na-adịkarị adị: imeghe akwụkwọ ndị ọ na-ere ma gụọ ha niile, tinyere ụbọchị ha n'akụkụ. Akwụkwọ anwansi, Baịbụl ojii, akwụkwọ ntuziaka hermetic, tarot, astrology, “ịkpọpụta akụnụba”. Maka nke ọ bụla, a na-eso nzọụkwụ ya —mbipụta ole, afọ ole, gịnị ka peeji nke narị abụọ na-ekwu— ma tụnyere ya ihe mkpuchi ya kwere na nkwa. A naghị ekwu ebubo efu: a na-egosi ha site n'okwu ndị e si na ụdị akwụkwọ ahụ n'onwe ya bulite kpọmkwem. Ọ bụghị akwụkwọ okpukpe, ọ dịghịkwa arụ ụka site n'ikike ọ bụla: ọ bụ mbibi e ji akwụkwọ akaebe wuo, na n'azụ ya, uche eji ruo ọgwụgwụ, n'ọdịnala Epictetus, Seneca na Marcus Aurelius.",
         close: "Ọ naghị ekwe nkwa ihe omimi. Ọ na-enye ihe siri ike karịa ma kwesị ntụkwasị obi karịa: ịghọta.",
-        factDateLabel: "Ụbọchị mbipụta",
-        factDate: "29 Septemba 2026",
         factFormatsLabel: "Ụdị",
         factFormats: "Mkpuchi dị nro na mkpuchi siri ike",
         factLangsLabel: "Asụsụ",
@@ -230,27 +227,6 @@ const translationsIG = {
         // la inglesa, que es el título con el que la anuncian arriba.
         coverAlt: "Mkpuchi mbipụta nke abụọ nke akwụkwọ The False Door, nke M. Gabriel Castiglia dere",
         coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg"
-      },
-      // Primera edición: sigue a la venta hasta septiembre de 2026. Conserva
-      // el título en el idioma de su propia edición donde esa edición existe.
-      sec4b: {
-        badge: "Mbipụta mbụ",
-        title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
-        notice: "Nke a bụ <strong>mbipụta mbụ</strong> nke akwụkwọ ahụ, nke a na-ere ugbu a. <strong>A ga-akwụsị ire ya na Septemba 2026</strong>, mgbe mbipụta nke abụọ ga-anọchi ya.",
-        langsLabel: "E bipụtara ya n'asụsụ asaa",
-        langs: {
-          es: "Spanish",
-          en: "Bekee",
-          pt: "Portuguese",
-          fr: "French",
-          it: "Italian",
-          de: "German",
-          ja: "Japanese"
-        },
-        cta: "Lee mbipụta mkpuchi siri ike na Amazon →",
-        note: "Njikọ a na-eduga na mbipụta mkpuchi siri ike n'asụsụ Bekee, na Amazon United States. Asụsụ ọ bụla nwekwara mbipụta mkpuchi dị nro na nke Kindle: chọọ ya n'asụsụ gị, n'ụlọ ahịa Amazon nke obodo gị.",
-        coverAlt: "Mkpuchi mbipụta mbụ nke akwụkwọ The False Door, nke M. Gabriel Castiglia dere",
-        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg"
       },
       sec5: {
         eyebrow: "Ọkwa iwu",
