@@ -286,10 +286,32 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
         epigraph: "« Parmi les choses qui sont, les unes dépendent de nous, les autres non. »",
         epigraphAuthor: "Épictète",
         eyebrow: "De l'auteur de ce site",
-        badge: "Édition imprimée",
+        badge: "Bientôt disponible",
+        title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
+        edition: "Deuxième édition, revue et augmentée",
+        desc: "Il y a une boutique qui ouvre à sept heures du soir pour celui qui n'a pas pu dormir : elle vend de l'ancienneté, du secret et du pouvoir, et se paie dans une monnaie qui ne figure pas sur l'étiquette. Ce livre y entre avec une méthode simple et peu fréquente : ouvrir les livres qu'elle vend et les lire en entier, les dates à côté. Grimoires, bibles noires, manuels hermétiques, le tarot, l'astrologie, le « manifester ». De chacun on suit la trace — quelle édition, quelle année, ce que dit la page deux cents — et on la confronte à ce que promet la couverture. Les charges ne s'affirment pas : elles se prouvent par des citations textuelles du genre lui-même. Ce n'est pas un livre religieux et il n'argumente au nom d'aucune autorité : c'est une démolition faite avec des documents, et derrière elle la raison exercée jusqu'au bout, dans la tradition d'Épictète, de Sénèque et de Marc Aurèle.",
+        close: "Il ne promet pas de mystères. Il offre quelque chose de plus ardu et de plus digne : comprendre.",
+        factDateLabel: "Publication",
+        factDate: "29 septembre 2026",
+        factFormatsLabel: "Formats",
+        factFormats: "Broché et relié",
+        factLangsLabel: "Langues",
+        // Los dos idiomas de la 2da edición, con bandera en la ficha.
+        langs: {
+          es: "Espagnol",
+          en: "Anglais"
+        },
+        otherLangs: "Pour des éditions dans d'autres langues, écrire à l'auteur via le <a href='index.html#contacto'>formulaire de contact</a>.",
+        // La portada de la 2da edición es la de tapa SIN texto: es la misma en
+        // todos los idiomas, por eso acá no hay coverSrc.
+        coverAlt: "Couverture de la deuxième édition de The False Door, de M. Gabriel Castiglia"
+      },
+      // Primera edición: sigue a la venta hasta septiembre de 2026. Conserva
+      // el título en el idioma de su propia edición donde esa edición existe.
+      sec4b: {
+        badge: "Première édition",
         title: "La Fausse Porte<span class='rec-book-subtitle'>La raison contre l'occultisme moderne</span>",
-        desc: "L'occultisme promet l'inverse : le pouvoir sur ce qui ne dépend de personne, en échange de la seule chose qui soit vraiment entre nos mains, notre propre jugement. Ce livre prend ses textes (grimoires, bibles noires, manuels hermétiques, le tarot, l'astrologie, le « manifester ») et les examine sans hâte, sur leurs deux faces : les dates, les sources, les contradictions. Il n'accuse au nom d'aucune foi et ne demande à personne de le croire sur parole ; chaque charge est prouvée par les pages du genre lui-même.",
-        close: "Il n'offre pas de mystères, mais quelque chose de plus ardu et de plus digne : la lucidité.",
+        notice: "Ceci est la <strong>première version</strong> du livre, celle qui est en vente aujourd'hui. <strong>Elle sera retirée de la vente en septembre 2026</strong>, quand la deuxième édition la remplacera.",
         langsLabel: "Publié en sept langues",
         langs: {
           es: "Espagnol",
@@ -302,7 +324,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
         },
         cta: "Voir le livre relié sur Amazon →",
         note: "Le lien mène à l'édition reliée en anglais, sur Amazon États-Unis. Chaque langue possède également son édition brochée et son édition Kindle : cherchez-la dans votre langue, sur la boutique Amazon de votre pays.",
-        coverAlt: "Couverture de La Fausse Porte, de M. Gabriel Castiglia",
+        coverAlt: "Couverture de la première édition de La Fausse Porte, de M. Gabriel Castiglia",
         coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-fr.jpg"
       },
       sec5: {
