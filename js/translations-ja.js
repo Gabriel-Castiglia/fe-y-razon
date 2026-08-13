@@ -665,9 +665,11 @@ const translationsJA = {
           en: "英語"
         },
         otherLangs: "他の言語での出版にご関心のある方は、<a href='index.html#contacto'>お問い合わせフォーム</a>より著者までご連絡ください。",
-        // La portada de la 2da edición es la de tapa SIN texto: es la misma en
-        // todos los idiomas, por eso acá no hay coverSrc.
-        coverAlt: "M. Gabriel Castiglia『The False Door』第二版の表紙"
+        // Portada de la 2da edición en este idioma. Solo hay dos, porque la
+        // edición sale solo en español e inglés; los demás idiomas muestran
+        // la inglesa, que es el título con el que la anuncian arriba.
+        coverAlt: "M. Gabriel Castiglia『The False Door』第二版の表紙",
+        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg"
       },
       // Primera edición: sigue a la venta hasta septiembre de 2026. Conserva
       // el título en el idioma de su propia edición donde esa edición existe.
