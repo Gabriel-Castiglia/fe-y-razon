@@ -209,10 +209,32 @@ const translationsSW = {
         epigraph: "“Miongoni mwa vitu vilivyopo, vingine vinategemea sisi; vingine havitegemei.”",
         epigraphAuthor: "Epikteto",
         eyebrow: "Kutoka kwa mwandishi wa tovuti hii",
-        badge: "Toleo lililochapishwa",
+        badge: "Kinakuja hivi karibuni",
         title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
-        desc: "Uchawi na mafumbo huahidi kinyume chake: mamlaka juu ya yale yasiyomtegemea mtu yeyote, badala ya kitu pekee kilicho mikononi mwetu kweli, yaani hukumu yetu wenyewe. Kitabu hiki huchukua maandiko yake (vitabu vya uchawi, biblia nyeusi, miongozo ya kihermetiki, tarot, unajimu, “kuvuta mafanikio”) na kuyachunguza bila haraka, kwa pande zake mbili: tarehe, vyanzo, na mikanganyiko. Hakishtaki kwa jina la imani yoyote wala hakiombi mtu akiamini tu; kila shtaka huthibitishwa kwa kurasa za aina hiyo yenyewe.",
-        close: "Hakitoi siri, bali kitu kigumu zaidi na chenye heshima zaidi: uangavu wa akili.",
+        edition: "Toleo la pili, lililorekebishwa na kupanuliwa",
+        desc: "Kuna duka linalofunguliwa saa moja jioni kwa ajili ya yule asiyeweza kulala: linauza ukale, siri na mamlaka, na hulipisha kwa kitu kisichoandikwa kwenye lebo. Kitabu hiki huingia humo kwa mbinu rahisi na isiyo ya kawaida: kufungua vitabu linavyouza na kuvisoma vyote, pamoja na tarehe kando. Vitabu vya uchawi, biblia nyeusi, miongozo ya kihermetiki, tarot, unajimu, “kuvuta mafanikio”. Kwa kila kimoja hufuatwa alama —toleo lipi, mwaka upi, ukurasa wa mia mbili unasema nini— na kulinganishwa na kile ambacho jalada huahidi. Mashtaka hayadaiwi tu: huthibitishwa kwa nukuu za neno kwa neno kutoka aina hiyo yenyewe. Si kitabu cha dini wala hakijadili kwa msingi wa mamlaka yoyote: ni ubomoaji uliojengwa kwa nyaraka, na nyuma yake akili inayotumiwa hadi mwisho, katika mapokeo ya Epikteto, Seneka na Marko Aurelio.",
+        close: "Hakiahidi siri. Hutoa kitu kigumu zaidi na chenye heshima zaidi: kuelewa.",
+        factDateLabel: "Uchapishaji",
+        factDate: "29 Septemba 2026",
+        factFormatsLabel: "Miundo",
+        factFormats: "Jalada laini na jalada gumu",
+        factLangsLabel: "Lugha",
+        // Los dos idiomas de la 2da edición, con bandera en la ficha.
+        langs: {
+          es: "Kihispania",
+          en: "Kiingereza"
+        },
+        otherLangs: "Kwa matoleo katika lugha nyingine, mwandikie mwandishi kupitia <a href='index.html#contacto'>fomu ya mawasiliano</a>.",
+        // La portada de la 2da edición es la de tapa SIN texto: es la misma en
+        // todos los idiomas, por eso acá no hay coverSrc.
+        coverAlt: "Jalada la toleo la pili la kitabu The False Door, cha M. Gabriel Castiglia"
+      },
+      // Primera edición: sigue a la venta hasta septiembre de 2026. Conserva
+      // el título en el idioma de su propia edición donde esa edición existe.
+      sec4b: {
+        badge: "Toleo la kwanza",
+        title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
+        notice: "Hili ni <strong>toleo la kwanza</strong> la kitabu, ndilo linalouzwa leo. <strong>Litakoma kuuzwa mnamo Septemba 2026</strong>, toleo la pili litakapolibadilisha.",
         langsLabel: "Kimechapishwa katika lugha saba",
         langs: {
           es: "Kihispania",
@@ -225,8 +247,7 @@ const translationsSW = {
         },
         cta: "Tazama toleo la jalada gumu kwenye Amazon →",
         note: "Kiungo hiki kinaelekeza kwenye toleo la jalada gumu la Kiingereza, katika Amazon ya Marekani. Kila lugha ina pia toleo lake la jalada laini na la Kindle: litafute katika lugha yako, katika duka la Amazon la nchi yako.",
-        coverAlt: "Jalada la kitabu The False Door, cha M. Gabriel Castiglia",
-        // Sin edición propia del libro: se muestra la portada inglesa.
+        coverAlt: "Jalada la toleo la kwanza la kitabu The False Door, cha M. Gabriel Castiglia",
         coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg"
       },
       sec5: {
