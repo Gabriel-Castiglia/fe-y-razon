@@ -655,10 +655,32 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         epigraph: "«Eorum quae sunt, alia in nostra potestate sunt, alia non.»",
         epigraphAuthor: "Epictetus",
         eyebrow: "Ab auctore huius situs",
-        badge: "Editio typis impressa",
+        badge: "Mox proditurus",
         title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
-        desc: "Occultismus contrarium pollicetur: potestatem in ea quae a nemine pendent, pretio eius unius rei quae vere in manibus nostris est, iudicii proprii. Hic liber textus eius (grimoria, biblias nigras, manualia hermetica, tarot, astrologiam, illud «manifestare») sumit eosque sine festinatione utraque facie examinat: tempora, fontes, repugnantias. Ex nulla fide accusat neque petit ut sibi credatur; omne crimen ipsis generis paginis probatur.",
-        close: "Non mysteria offert, sed aliquid arduius ac dignius: perspicuitatem.",
+        edition: "Editio altera, emendata et aucta",
+        desc: "Est taberna quae hora septima vespertina ei aperit qui dormire non potuit: vetustatem, secretum et potentiam vendit, pretiumque exigit quod in scheda non scribitur. Hic liber eo ingreditur methodo simplici et rara: libros quos taberna vendit aperire eosque totos legere, temporibus adpositis. Grimoria, biblias nigras, manualia hermetica, tarot, astrologiam, illud «manifestare». Cuiusque vestigium premitur —quae editio, qui annus, quid pagina ducentesima dicat— et cum eo quod tegumentum pollicetur confertur. Crimina non asseruntur: ipsius generis verbis ad litteram allatis probantur. Non liber religiosus est neque ex ulla auctoritate disputat: demolitio est documentis facta, et post eam ratio ad finem usque exercita, more Epicteti, Senecae, Marci Aurelii.",
+        close: "Mysteria non pollicetur. Aliquid arduius ac dignius offert: intellegere.",
+        factDateLabel: "Dies editionis",
+        factDate: "Die 29 Septembris 2026",
+        factFormatsLabel: "Formae",
+        factFormats: "Molliter et rigide compactus",
+        factLangsLabel: "Linguae",
+        // Los dos idiomas de la 2da edición, con bandera en la ficha.
+        langs: {
+          es: "Hispanice",
+          en: "Anglice"
+        },
+        otherLangs: "De editionibus aliis linguis, auctorem per <a href='index.html#contacto'>formulam epistularem</a> adire licet.",
+        // La portada de la 2da edición es la de tapa SIN texto: es la misma en
+        // todos los idiomas, por eso acá no hay coverSrc.
+        coverAlt: "Tegumentum editionis alterius libri The False Door, auctore M. Gabriel Castiglia"
+      },
+      // Primera edición: sigue a la venta hasta septiembre de 2026. Conserva
+      // el título en el idioma de su propia edición donde esa edición existe.
+      sec4b: {
+        badge: "Editio prima",
+        title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
+        notice: "Haec est <strong>editio prima</strong> libri, quae hodie venalis est. <strong>Mense Septembri anni 2026 venumdari desinet</strong>, cum editio altera eam substituet.",
         langsLabel: "Septem linguis editus",
         langs: {
           es: "Hispanice",
@@ -671,8 +693,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         },
         cta: "Vide librum rigide compactum apud Amazon →",
         note: "Nexus ad editionem Anglicam rigide compactam apud Amazon Civitatum Foederatarum ducit. Unaquaeque lingua praeterea editionem molliter compactam et Kindle habet: eam lingua tua in taberna Amazon patriae tuae quaere.",
-        coverAlt: "Tegumentum libri The False Door, auctore M. Gabriel Castiglia",
-        // Sin edición propia del libro: se muestra la portada inglesa.
+        coverAlt: "Tegumentum editionis primae libri The False Door, auctore M. Gabriel Castiglia",
         coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg"
       },
       sec5: {

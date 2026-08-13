@@ -750,10 +750,32 @@ NUNCA Reina-Valera ni traducciones protestantes.
         epigraph: "«De lo existente, unas cosas dependen de nosotros; otras no.»",
         epigraphAuthor: "Epicteto",
         eyebrow: "Del autor de este sitio",
-        badge: "Edición impresa",
+        badge: "Próximamente",
         title: "La puerta falsa<span class='rec-book-subtitle'>La razón contra el ocultismo moderno</span>",
-        desc: "El ocultismo promete lo contrario: poder sobre lo que no depende de nadie, a cambio de lo único que sí está en nuestras manos, el propio juicio. Este libro toma sus textos (grimorios, biblias negras, manuales herméticos, el tarot, la astrología, el «manifestar») y los examina sin prisa, por sus dos caras: las fechas, las fuentes, las contradicciones. No acusa desde ninguna fe ni pide que se le crea; cada cargo se prueba con las páginas del propio género.",
-        close: "No ofrece misterios, sino algo más arduo y más digno: la lucidez.",
+        edition: "Segunda edición, corregida y ampliada",
+        desc: "Hay una tienda que abre a las siete de la tarde para el que no pudo dormir: vende antigüedad, secreto y poder, y cobra en algo que no figura en la etiqueta. Este libro entra ahí con un método simple y poco frecuente: abrir los libros que vende y leerlos enteros, con las fechas al lado. Grimorios, biblias negras, manuales herméticos, el tarot, la astrología, el «manifestar». De cada uno se sigue el rastro —qué edición, qué año, qué dice la página doscientos— y se lo confronta con lo que promete la portada. Los cargos no se afirman: se prueban con citas textuales del propio género. No es un libro religioso ni argumenta desde ninguna autoridad: es una demolición hecha con documentos, y detrás de ella la razón ejercida hasta el fondo, en la tradición de Epicteto, Séneca y Marco Aurelio.",
+        close: "No promete misterios. Ofrece algo más arduo y más digno: entender.",
+        factDateLabel: "Publicación",
+        factDate: "29 de septiembre de 2026",
+        factFormatsLabel: "Formatos",
+        factFormats: "Tapa blanda y tapa dura",
+        factLangsLabel: "Idiomas",
+        // Los dos idiomas de la 2da edición, con bandera en la ficha.
+        langs: {
+          es: "Español",
+          en: "Inglés"
+        },
+        otherLangs: "Para ediciones en otros idiomas, escribir al autor por el <a href='index.html#contacto'>formulario de contacto</a>.",
+        // La portada de la 2da edición es la de tapa SIN texto: es la misma en
+        // todos los idiomas, por eso acá no hay coverSrc.
+        coverAlt: "Portada de la segunda edición de La puerta falsa, de M. Gabriel Castiglia"
+      },
+      // Primera edición: sigue a la venta hasta septiembre de 2026. Conserva
+      // el título en el idioma de su propia edición donde esa edición existe.
+      sec4b: {
+        badge: "Primera edición",
+        title: "La puerta falsa<span class='rec-book-subtitle'>La razón contra el ocultismo moderno</span>",
+        notice: "Esta es la <strong>primera versión</strong> del libro, la que está a la venta hoy. <strong>Quedará discontinuada en septiembre de 2026</strong>, cuando la reemplace la segunda edición.",
         langsLabel: "Publicado en siete idiomas",
         langs: {
           es: "Español",
@@ -766,10 +788,7 @@ NUNCA Reina-Valera ni traducciones protestantes.
         },
         cta: "Ver la tapa dura en Amazon →",
         note: "El enlace lleva a la edición en tapa dura en inglés, en Amazon Estados Unidos. Cada idioma tiene además su edición en tapa blanda y en Kindle: búscalas en tu idioma, en la tienda Amazon de tu país.",
-        coverAlt: "Portada de La puerta falsa, de M. Gabriel Castiglia",
-        // Portada del libro en este idioma. El libro está publicado en siete
-        // (es, en, pt, fr, it, de, ja); los idiomas del sitio que no tienen
-        // edición propia —tl, da, la, sw, ln, ig— apuntan a la inglesa a propósito.
+        coverAlt: "Portada de la primera edición de La puerta falsa, de M. Gabriel Castiglia",
         coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-es.jpg"
       },
       sec5: {

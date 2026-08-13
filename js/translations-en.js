@@ -649,10 +649,32 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
         epigraph: "“Of the things that are, some depend on us; others do not.”",
         epigraphAuthor: "Epictetus",
         eyebrow: "From the author of this site",
-        badge: "Print edition",
+        badge: "Coming soon",
         title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
-        desc: "The occult promises the opposite: power over what depends on no one, in exchange for the one thing that truly is in our hands, our own judgment. This book takes its texts (grimoires, black bibles, hermetic manuals, tarot, astrology, “manifesting”) and examines them without haste, on both faces: the dates, the sources, the contradictions. It accuses from no faith and asks no one to take its word; every charge is proven with the pages of the genre itself.",
-        close: "It offers no mysteries, but something more arduous and more worthy: lucidity.",
+        edition: "Second edition, revised and expanded",
+        desc: "There is a shop that opens at seven in the evening for those who could not sleep: it sells antiquity, secrecy and power, and charges in a currency that does not appear on the label. This book walks in with a simple and uncommon method: open the books it sells and read them whole, with the dates alongside. Grimoires, black bibles, hermetic manuals, tarot, astrology, “manifesting”. Each one is traced —which edition, which year, what page two hundred actually says— and set against what the cover promises. The charges are not asserted: they are proven with verbatim quotations from the genre itself. This is not a religious book and it argues from no authority: it is a demolition built out of documents, and behind it, reason exercised to the end, in the tradition of Epictetus, Seneca and Marcus Aurelius.",
+        close: "It promises no mysteries. It offers something more arduous and more worthy: to understand.",
+        factDateLabel: "Publication",
+        factDate: "29 September 2026",
+        factFormatsLabel: "Formats",
+        factFormats: "Paperback and hardcover",
+        factLangsLabel: "Languages",
+        // Los dos idiomas de la 2da edición, con bandera en la ficha.
+        langs: {
+          es: "Spanish",
+          en: "English"
+        },
+        otherLangs: "For editions in other languages, write to the author through the <a href='index.html#contacto'>contact form</a>.",
+        // La portada de la 2da edición es la de tapa SIN texto: es la misma en
+        // todos los idiomas, por eso acá no hay coverSrc.
+        coverAlt: "Cover of the second edition of The False Door, by M. Gabriel Castiglia"
+      },
+      // Primera edición: sigue a la venta hasta septiembre de 2026. Conserva
+      // el título en el idioma de su propia edición donde esa edición existe.
+      sec4b: {
+        badge: "First edition",
+        title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
+        notice: "This is the <strong>first version</strong> of the book, the one on sale today. <strong>It will be discontinued in September 2026</strong>, when the second edition replaces it.",
         langsLabel: "Published in seven languages",
         langs: {
           es: "Spanish",
@@ -665,7 +687,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
         },
         cta: "See the hardcover on Amazon →",
         note: "The link goes to the English hardcover on Amazon US. Every language also has its own paperback and Kindle edition: look for it in your own language, in your country's Amazon store.",
-        coverAlt: "Cover of The False Door, by M. Gabriel Castiglia",
+        coverAlt: "Cover of the first edition of The False Door, by M. Gabriel Castiglia",
         coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg"
       },
       sec5: {

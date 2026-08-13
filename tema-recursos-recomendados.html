@@ -430,6 +430,79 @@
         color: rgba(255,255,255,.5); font-size: .74rem;
         line-height: 1.65; margin: 0; max-width: 46em;
       }
+      .rec-book-note a { color: var(--gold-light); text-decoration: underline; text-underline-offset: 2px; }
+      .rec-book-note a:hover { color: #fff; }
+
+      /* ── SEGUNDA EDICIÓN — anuncio de lanzamiento ──
+         El badge dorado macizo queda para la edición que ya se puede comprar;
+         la que todavía no salió lleva el contorno, para no prometer con el
+         mismo peso visual una cosa disponible y una que aún no lo está. */
+      .rec-book-badge--soon {
+        background: transparent; color: var(--gold);
+        border: 1px solid rgba(212, 165, 116, .55);
+      }
+      .rec-book-edition {
+        font-family: 'Montserrat', sans-serif; font-size: .74rem;
+        color: var(--gold-light); letter-spacing: .04em;
+        margin: 0 0 1.3rem; font-style: italic;
+      }
+      /* Ficha de lanzamiento: fecha, formatos e idiomas. Es <dl> y no una lista
+         suelta porque son pares término/dato, y así el lector de pantalla los
+         anuncia emparejados. */
+      .rec-book-facts {
+        margin: 0 0 1.5rem; padding: 1.1rem 1.3rem;
+        border: 1px solid rgba(212, 165, 116, .22);
+        border-radius: 10px; background: rgba(0,0,0,.22);
+        display: grid; gap: .75rem;
+      }
+      .rec-book-facts > div {
+        display: grid; grid-template-columns: minmax(0, 8.5em) minmax(0, 1fr);
+        gap: .3rem 1rem; align-items: baseline;
+      }
+      .rec-book-facts dt {
+        font-family: 'Montserrat', sans-serif; font-size: .6rem;
+        letter-spacing: .16em; text-transform: uppercase;
+        color: rgba(255,255,255,.45);
+      }
+      .rec-book-facts dd {
+        margin: 0; font-size: .86rem; color: rgba(255,255,255,.82);
+        line-height: 1.5;
+      }
+      .rec-book-facts .rec-book-facts-hi { color: var(--gold-light); font-weight: 600; }
+      /* Los idiomas de la ficha llevan bandera, igual que los de la primera
+         edición: si abajo se ven y arriba no, parece que dice menos de lo que
+         dice. Van al cuerpo de la ficha, no al tamaño chico de las de abajo. */
+      .rec-book-flags--facts { gap: .45rem 1.1rem; }
+      .rec-book-flags--facts li { font-size: .84rem; color: rgba(255,255,255,.82); }
+
+      /* ── PRIMERA EDICIÓN — bloque secundario ──
+         Misma tarjeta, un punto por debajo: portada más chica, título más
+         chico y borde apagado. Sigue en la página porque el libro sigue a la
+         venta, pero no compite con el lanzamiento. */
+      .rec-book--first {
+        margin-top: 1.6rem;
+        grid-template-columns: minmax(0, 250px) minmax(0, 1fr);
+        background: linear-gradient(118deg, #100e0b 0%, #171310 60%, #1c1712 100%);
+        border-color: rgba(212, 165, 116, .13);
+      }
+      .rec-book--first .rec-book-cover { padding: 2.2rem 1.8rem; }
+      .rec-book--first .rec-book-cover img { max-width: 186px; }
+      .rec-book--first .rec-book-body { padding: 2.1rem 2.6rem 2rem; }
+      .rec-book--first .rec-book-body h2 { font-size: 1.5rem; }
+      .rec-book--first .rec-book-subtitle { font-size: .82rem; margin-top: .4rem; }
+      .rec-book-badge--first {
+        background: transparent; color: rgba(255,255,255,.62);
+        border: 1px solid rgba(255,255,255,.22);
+      }
+      /* Aviso de discontinuación: tiene que leerse antes de que alguien compre
+         la edición que va a quedar vieja, así que va arriba de todo y con la
+         barra al costado. */
+      .rec-book-notice {
+        border-left: 2px solid rgba(212, 165, 116, .5);
+        padding: .15rem 0 .15rem 1.1rem; margin: 0 0 1.5rem;
+        color: rgba(255,255,255,.72); font-size: .84rem; line-height: 1.7;
+      }
+      .rec-book-notice strong { color: var(--gold-light); font-weight: 600; }
 
       /* ── DERECHOS DE AUTOR ── */
       .rec-rights {
@@ -461,6 +534,14 @@
         .rec-book-body { padding: 1.8rem 1.8rem 2.2rem; text-align: left; }
         .rec-book-body h2 { font-size: 1.6rem; }
         .rec-book-subtitle { font-size: .84rem; margin-top: .45rem; }
+        .rec-book--first { grid-template-columns: 1fr; }
+        .rec-book--first .rec-book-cover { padding: 2.2rem 2rem 1.4rem; }
+        .rec-book--first .rec-book-cover img { max-width: 168px; }
+        .rec-book--first .rec-book-body { padding: 1.7rem 1.8rem 2rem; }
+        .rec-book--first .rec-book-body h2 { font-size: 1.38rem; }
+        /* En una sola columna, la etiqueta encima del dato lee mejor que dos
+           columnas estrechas partiendo las palabras. */
+        .rec-book-facts > div { grid-template-columns: 1fr; gap: .2rem; }
         .rec-apost-photo--banner { height: 128px; }
       }
       @media (max-width: 520px) {
@@ -498,23 +579,22 @@
         <!-- LIBRO DEL AUTOR -->
         <div>
           <div class="rec-label" data-i18n="topicPages.recursos-recomendados.sec4.eyebrow">Del autor de este sitio</div>
+
+          <!-- SEGUNDA EDICIÓN (29-09-2026) — por ahora hay una sola portada, la
+               española, para los doce idiomas: la inglesa todavía no existe. Por
+               eso no lleva data-i18n-src; cuando esté, se añade como en la 1ra. -->
           <div class="rec-book">
             <div class="rec-book-cover">
-              <!-- La portada cambia con el idioma: el archivo lo pone data-i18n-src
-                   desde el diccionario. El onerror es la red de contención por si
-                   faltara el archivo de un idioma: cae a la portada inglesa en vez
-                   de dejar el hueco de una imagen rota. -->
-              <img src="Recursos/Im%C3%A1genes/libro-puerta-falsa-es.jpg"
-                   alt="Portada de La puerta falsa, de M. Gabriel Castiglia"
+              <img src="Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed.jpg"
+                   alt="Portada de la segunda edición de La puerta falsa, de M. Gabriel Castiglia"
                    data-i18n-alt="topicPages.recursos-recomendados.sec4.coverAlt"
-                   data-i18n-src="topicPages.recursos-recomendados.sec4.coverSrc"
-                   onerror="this.onerror=null; this.src='Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg';"
-                   width="700" height="1044" loading="lazy">
+                   width="700" height="1072" loading="lazy">
             </div>
             <div class="rec-book-body">
-              <span class="rec-book-badge" data-i18n="topicPages.recursos-recomendados.sec4.badge">Edición impresa</span>
+              <span class="rec-book-badge rec-book-badge--soon" data-i18n="topicPages.recursos-recomendados.sec4.badge">Próximamente</span>
               <h2 data-i18n="topicPages.recursos-recomendados.sec4.title">La puerta falsa<span class="rec-book-subtitle">La razón contra el ocultismo moderno</span></h2>
               <p class="rec-book-author">M. Gabriel Castiglia</p>
+              <p class="rec-book-edition" data-i18n="topicPages.recursos-recomendados.sec4.edition">Segunda edición, corregida y ampliada</p>
               <blockquote class="rec-book-epigraph">
                 <p data-i18n="topicPages.recursos-recomendados.sec4.epigraph">«De lo existente, unas cosas dependen de nosotros; otras no.»</p>
                 <cite data-i18n="topicPages.recursos-recomendados.sec4.epigraphAuthor">Epicteto</cite>
@@ -522,23 +602,67 @@
               <p class="rec-book-desc" data-i18n="topicPages.recursos-recomendados.sec4.desc">El ocultismo promete lo contrario: poder sobre lo que no depende de nadie, a cambio de lo único que sí está en nuestras manos, el propio juicio. Este libro toma sus textos (grimorios, biblias negras, manuales herméticos, el tarot, la astrología, el «manifestar») y los examina sin prisa, por sus dos caras: las fechas, las fuentes, las contradicciones. No acusa desde ninguna fe ni pide que se le crea; cada cargo se prueba con las páginas del propio género.</p>
               <p class="rec-book-close" data-i18n="topicPages.recursos-recomendados.sec4.close">No ofrece misterios, sino algo más arduo y más digno: la lucidez.</p>
 
+              <dl class="rec-book-facts">
+                <div>
+                  <dt data-i18n="topicPages.recursos-recomendados.sec4.factDateLabel">Publicación</dt>
+                  <dd class="rec-book-facts-hi" data-i18n="topicPages.recursos-recomendados.sec4.factDate">29 de septiembre de 2026</dd>
+                </div>
+                <div>
+                  <dt data-i18n="topicPages.recursos-recomendados.sec4.factFormatsLabel">Formatos</dt>
+                  <dd data-i18n="topicPages.recursos-recomendados.sec4.factFormats">Tapa blanda y tapa dura</dd>
+                </div>
+                <div>
+                  <dt data-i18n="topicPages.recursos-recomendados.sec4.factLangsLabel">Idiomas</dt>
+                  <dd>
+                    <ul class="rec-book-flags rec-book-flags--facts">
+                      <li><img src="Recursos/Im%C3%A1genes/spain-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.es">Español</span></li>
+                      <li><img src="Recursos/Im%C3%A1genes/united-states-of-america-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.en">Inglés</span></li>
+                    </ul>
+                  </dd>
+                </div>
+              </dl>
+
+              <p class="rec-book-note" data-i18n="topicPages.recursos-recomendados.sec4.otherLangs">Para ediciones en otros idiomas, escribir al autor por el <a href="index.html#contacto">formulario de contacto</a>.</p>
+            </div>
+          </div>
+
+          <!-- PRIMERA EDICIÓN — sigue a la venta hasta septiembre de 2026. -->
+          <div class="rec-book rec-book--first">
+            <div class="rec-book-cover">
+              <!-- La portada cambia con el idioma: el archivo lo pone data-i18n-src
+                   desde el diccionario. El onerror es la red de contención por si
+                   faltara el archivo de un idioma: cae a la portada inglesa en vez
+                   de dejar el hueco de una imagen rota. -->
+              <img src="Recursos/Im%C3%A1genes/libro-puerta-falsa-es.jpg"
+                   alt="Portada de la primera edición de La puerta falsa, de M. Gabriel Castiglia"
+                   data-i18n-alt="topicPages.recursos-recomendados.sec4b.coverAlt"
+                   data-i18n-src="topicPages.recursos-recomendados.sec4b.coverSrc"
+                   onerror="this.onerror=null; this.src='Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg';"
+                   width="700" height="1044" loading="lazy">
+            </div>
+            <div class="rec-book-body">
+              <span class="rec-book-badge rec-book-badge--first" data-i18n="topicPages.recursos-recomendados.sec4b.badge">Primera edición</span>
+              <h2 data-i18n="topicPages.recursos-recomendados.sec4b.title">La puerta falsa<span class="rec-book-subtitle">La razón contra el ocultismo moderno</span></h2>
+              <p class="rec-book-author">M. Gabriel Castiglia</p>
+              <p class="rec-book-notice" data-i18n="topicPages.recursos-recomendados.sec4b.notice">Esta es la <strong>primera versión</strong> del libro, la que está a la venta hoy. <strong>Quedará discontinuada en septiembre de 2026</strong>, cuando la reemplace la segunda edición.</p>
+
               <div class="rec-book-langs">
-                <span class="rec-book-langs-label" data-i18n="topicPages.recursos-recomendados.sec4.langsLabel">Publicado en siete idiomas</span>
+                <span class="rec-book-langs-label" data-i18n="topicPages.recursos-recomendados.sec4b.langsLabel">Publicado en siete idiomas</span>
                 <ul class="rec-book-flags">
-                  <li><img src="Recursos/Im%C3%A1genes/spain-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.es">Español</span></li>
-                  <li><img src="Recursos/Im%C3%A1genes/united-states-of-america-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.en">Inglés</span></li>
-                  <li><img src="Recursos/Im%C3%A1genes/brazil-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.pt">Portugués</span></li>
-                  <li><img src="Recursos/Im%C3%A1genes/france-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.fr">Francés</span></li>
-                  <li><img src="Recursos/Im%C3%A1genes/it-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.it">Italiano</span></li>
-                  <li><img src="Recursos/Im%C3%A1genes/germany-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.de">Alemán</span></li>
-                  <li><img src="Recursos/Im%C3%A1genes/japan-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.ja">Japonés</span></li>
+                  <li><img src="Recursos/Im%C3%A1genes/spain-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4b.langs.es">Español</span></li>
+                  <li><img src="Recursos/Im%C3%A1genes/united-states-of-america-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4b.langs.en">Inglés</span></li>
+                  <li><img src="Recursos/Im%C3%A1genes/brazil-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4b.langs.pt">Portugués</span></li>
+                  <li><img src="Recursos/Im%C3%A1genes/france-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4b.langs.fr">Francés</span></li>
+                  <li><img src="Recursos/Im%C3%A1genes/it-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4b.langs.it">Italiano</span></li>
+                  <li><img src="Recursos/Im%C3%A1genes/germany-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4b.langs.de">Alemán</span></li>
+                  <li><img src="Recursos/Im%C3%A1genes/japan-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4b.langs.ja">Japonés</span></li>
                 </ul>
               </div>
 
               <div class="rec-book-links">
-                <a href="https://a.co/d/01Pm2L1y" target="_blank" rel="noopener" class="rec-btn-gold" data-i18n="topicPages.recursos-recomendados.sec4.cta">Ver la tapa dura en Amazon →</a>
+                <a href="https://a.co/d/01Pm2L1y" target="_blank" rel="noopener" class="rec-btn-gold" data-i18n="topicPages.recursos-recomendados.sec4b.cta">Ver la tapa dura en Amazon →</a>
               </div>
-              <p class="rec-book-note" data-i18n="topicPages.recursos-recomendados.sec4.note">El enlace lleva a la edición en tapa dura en inglés, en Amazon Estados Unidos. Cada idioma tiene además su edición en tapa blanda y en Kindle: búscalas en tu idioma, en la tienda Amazon de tu país.</p>
+              <p class="rec-book-note" data-i18n="topicPages.recursos-recomendados.sec4b.note">El enlace lleva a la edición en tapa dura en inglés, en Amazon Estados Unidos. Cada idioma tiene además su edición en tapa blanda y en Kindle: búscalas en tu idioma, en la tienda Amazon de tu país.</p>
             </div>
           </div>
         </div>
