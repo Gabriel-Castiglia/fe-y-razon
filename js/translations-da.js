@@ -649,13 +649,10 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
         epigraph: "„Af de ting, som er, afhænger nogle af os; andre gør ikke.“",
         epigraphAuthor: "Epiktet",
         eyebrow: "Fra forfatteren af dette websted",
-        badge: "Udkommer snart",
         title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
         edition: "Anden udgave, revideret og udvidet",
         desc: "Der findes en butik, som åbner klokken syv om aftenen for den, der ikke kunne sove: den sælger ælde, hemmelighed og magt, og tager betaling i noget, der ikke står på etiketten. Denne bog træder ind med en enkel og sjælden metode: at åbne de bøger, butikken sælger, og læse dem helt igennem, med årstallene ved siden af. Grimoirer, sorte bibler, hermetiske håndbøger, tarot, astrologi, „manifestering“. For hver enkelt følges sporet — hvilken udgave, hvilket år, hvad der faktisk står på side to hundrede — og holdes op mod det, omslaget lover. Anklagerne påstås ikke: de bevises med ordrette citater fra genren selv. Det er ikke en religiøs bog, og den argumenterer ikke ud fra nogen autoritet: den er en nedrivning bygget af dokumenter, og bag den fornuften udøvet til bunds, i traditionen fra Epiktet, Seneca og Marcus Aurelius.",
         close: "Den lover ingen mysterier. Den tilbyder noget vanskeligere og værdigere: at forstå.",
-        factDateLabel: "Udgivelse",
-        factDate: "29. september 2026",
         factFormatsLabel: "Formater",
         factFormats: "Paperback og indbundet",
         factLangsLabel: "Sprog",
@@ -670,27 +667,6 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
         // la inglesa, que es el título con el que la anuncian arriba.
         coverAlt: "Omslag til anden udgave af The False Door af M. Gabriel Castiglia",
         coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg"
-      },
-      // Primera edición: sigue a la venta hasta septiembre de 2026. Conserva
-      // el título en el idioma de su propia edición donde esa edición existe.
-      sec4b: {
-        badge: "Første udgave",
-        title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
-        notice: "Dette er bogens <strong>første udgave</strong>, den der er til salg i dag. <strong>Den udgår i september 2026</strong>, når anden udgave afløser den.",
-        langsLabel: "Udgivet på syv sprog",
-        langs: {
-          es: "Spansk",
-          en: "Engelsk",
-          pt: "Portugisisk",
-          fr: "Fransk",
-          it: "Italiensk",
-          de: "Tysk",
-          ja: "Japansk"
-        },
-        cta: "Se den indbundne udgave på Amazon →",
-        note: "Linket fører til den indbundne udgave på engelsk hos Amazon USA. Hvert sprog har desuden sin egen paperback- og Kindle-udgave: søg efter den på dit eget sprog i Amazon-butikken i dit land.",
-        coverAlt: "Omslag til første udgave af The False Door af M. Gabriel Castiglia",
-        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg"
       },
       sec5: {
         eyebrow: "Juridisk meddelelse",

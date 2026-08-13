@@ -286,13 +286,10 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
         epigraph: "“Das coisas que existem, umas dependem de nós; outras não.”",
         epigraphAuthor: "Epicteto",
         eyebrow: "Do autor deste site",
-        badge: "Em breve",
         title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
         edition: "Segunda edição, corrigida e ampliada",
         desc: "Há uma loja que abre às sete da noite para quem não conseguiu dormir: vende antiguidade, segredo e poder, e cobra em algo que não consta na etiqueta. Este livro entra ali com um método simples e pouco frequente: abrir os livros que ela vende e lê-los inteiros, com as datas ao lado. Grimórios, bíblias negras, manuais herméticos, o tarô, a astrologia, o “manifestar”. De cada um se segue o rastro —que edição, que ano, o que diz a página duzentos— e confronta-se com o que a capa promete. As acusações não se afirmam: provam-se com citações textuais do próprio gênero. Não é um livro religioso nem argumenta a partir de nenhuma autoridade: é uma demolição feita com documentos, e por trás dela a razão exercida até o fim, na tradição de Epicteto, Sêneca e Marco Aurélio.",
         close: "Não promete mistérios. Oferece algo mais árduo e mais digno: entender.",
-        factDateLabel: "Publicação",
-        factDate: "29 de setembro de 2026",
         factFormatsLabel: "Formatos",
         factFormats: "Capa comum e capa dura",
         factLangsLabel: "Idiomas",
@@ -307,27 +304,6 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
         // la inglesa, que es el título con el que la anuncian arriba.
         coverAlt: "Capa da segunda edição de The False Door, de M. Gabriel Castiglia",
         coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg"
-      },
-      // Primera edición: sigue a la venta hasta septiembre de 2026. Conserva
-      // el título en el idioma de su propia edición donde esa edición existe.
-      sec4b: {
-        badge: "Primeira edição",
-        title: "A Porta Falsa<span class='rec-book-subtitle'>A razão contra o ocultismo moderno</span>",
-        notice: "Esta é a <strong>primeira versão</strong> do livro, a que está à venda hoje. <strong>Será descontinuada em setembro de 2026</strong>, quando a segunda edição a substituir.",
-        langsLabel: "Publicado em sete idiomas",
-        langs: {
-          es: "Espanhol",
-          en: "Inglês",
-          pt: "Português",
-          fr: "Francês",
-          it: "Italiano",
-          de: "Alemão",
-          ja: "Japonês"
-        },
-        cta: "Ver a capa dura na Amazon →",
-        note: "O link leva à edição em capa dura em inglês, na Amazon dos Estados Unidos. Cada idioma tem também a sua edição em capa comum e em Kindle: procure-a no seu idioma, na loja Amazon do seu país.",
-        coverAlt: "Capa da primeira edição de A Porta Falsa, de M. Gabriel Castiglia",
-        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-pt.jpg"
       },
       sec5: {
         eyebrow: "Aviso legal",
