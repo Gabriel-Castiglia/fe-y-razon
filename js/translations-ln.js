@@ -225,9 +225,11 @@ const translationsLN = {
           en: "Angele"
         },
         otherLangs: "Mpo na mabimeli na minoko mosusu, komela mokomi na nzela ya <a href='index.html#contacto'>formilɛrɛ ya boyokani</a>.",
-        // La portada de la 2da edición es la de tapa SIN texto: es la misma en
-        // todos los idiomas, por eso acá no hay coverSrc.
-        coverAlt: "Ezipeli ya ebimeli ya mibale ya buku The False Door, ya M. Gabriel Castiglia"
+        // Portada de la 2da edición en este idioma. Solo hay dos, porque la
+        // edición sale solo en español e inglés; los demás idiomas muestran
+        // la inglesa, que es el título con el que la anuncian arriba.
+        coverAlt: "Ezipeli ya ebimeli ya mibale ya buku The False Door, ya M. Gabriel Castiglia",
+        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg"
       },
       // Primera edición: sigue a la venta hasta septiembre de 2026. Conserva
       // el título en el idioma de su propia edición donde esa edición existe.
