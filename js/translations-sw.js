@@ -209,13 +209,10 @@ const translationsSW = {
         epigraph: "“Miongoni mwa vitu vilivyopo, vingine vinategemea sisi; vingine havitegemei.”",
         epigraphAuthor: "Epikteto",
         eyebrow: "Kutoka kwa mwandishi wa tovuti hii",
-        badge: "Kinakuja hivi karibuni",
         title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
         edition: "Toleo la pili, lililorekebishwa na kupanuliwa",
         desc: "Kuna duka linalofunguliwa saa moja jioni kwa ajili ya yule asiyeweza kulala: linauza ukale, siri na mamlaka, na hulipisha kwa kitu kisichoandikwa kwenye lebo. Kitabu hiki huingia humo kwa mbinu rahisi na isiyo ya kawaida: kufungua vitabu linavyouza na kuvisoma vyote, pamoja na tarehe kando. Vitabu vya uchawi, biblia nyeusi, miongozo ya kihermetiki, tarot, unajimu, “kuvuta mafanikio”. Kwa kila kimoja hufuatwa alama —toleo lipi, mwaka upi, ukurasa wa mia mbili unasema nini— na kulinganishwa na kile ambacho jalada huahidi. Mashtaka hayadaiwi tu: huthibitishwa kwa nukuu za neno kwa neno kutoka aina hiyo yenyewe. Si kitabu cha dini wala hakijadili kwa msingi wa mamlaka yoyote: ni ubomoaji uliojengwa kwa nyaraka, na nyuma yake akili inayotumiwa hadi mwisho, katika mapokeo ya Epikteto, Seneka na Marko Aurelio.",
         close: "Hakiahidi siri. Hutoa kitu kigumu zaidi na chenye heshima zaidi: kuelewa.",
-        factDateLabel: "Uchapishaji",
-        factDate: "29 Septemba 2026",
         factFormatsLabel: "Miundo",
         factFormats: "Jalada laini na jalada gumu",
         factLangsLabel: "Lugha",
@@ -230,27 +227,6 @@ const translationsSW = {
         // la inglesa, que es el título con el que la anuncian arriba.
         coverAlt: "Jalada la toleo la pili la kitabu The False Door, cha M. Gabriel Castiglia",
         coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg"
-      },
-      // Primera edición: sigue a la venta hasta septiembre de 2026. Conserva
-      // el título en el idioma de su propia edición donde esa edición existe.
-      sec4b: {
-        badge: "Toleo la kwanza",
-        title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
-        notice: "Hili ni <strong>toleo la kwanza</strong> la kitabu, ndilo linalouzwa leo. <strong>Litakoma kuuzwa mnamo Septemba 2026</strong>, toleo la pili litakapolibadilisha.",
-        langsLabel: "Kimechapishwa katika lugha saba",
-        langs: {
-          es: "Kihispania",
-          en: "Kiingereza",
-          pt: "Kireno",
-          fr: "Kifaransa",
-          it: "Kiitaliano",
-          de: "Kijerumani",
-          ja: "Kijapani"
-        },
-        cta: "Tazama toleo la jalada gumu kwenye Amazon →",
-        note: "Kiungo hiki kinaelekeza kwenye toleo la jalada gumu la Kiingereza, katika Amazon ya Marekani. Kila lugha ina pia toleo lake la jalada laini na la Kindle: litafute katika lugha yako, katika duka la Amazon la nchi yako.",
-        coverAlt: "Jalada la toleo la kwanza la kitabu The False Door, cha M. Gabriel Castiglia",
-        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-en.jpg"
       },
       sec5: {
         eyebrow: "Taarifa ya kisheria",

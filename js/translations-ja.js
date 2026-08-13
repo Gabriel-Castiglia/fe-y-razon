@@ -649,13 +649,10 @@ const translationsJA = {
         epigraph: "「存在するもののうち、あるものは我々次第であり、あるものはそうではない。」",
         epigraphAuthor: "エピクテトス",
         eyebrow: "本サイトの著者より",
-        badge: "近日刊行",
         title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
         edition: "第二版、改訂増補",
         desc: "眠れなかった者のために、夜七時に開く店がある。売っているのは古さと秘密と力であり、値札に書かれていないもので代金を取る。本書はその店に、単純で稀な方法を携えて入る。店が売る本を開き、日付を傍らに置いて、最後まで読むという方法である。魔術書、黒い聖書、ヘルメス文書の手引き、タロット、占星術、「引き寄せ」。そのひとつひとつについて、どの版か、何年か、二百ページ目に何が書かれているかを追い、表紙が約束するものと突き合わせる。罪状は主張されるのではない。ジャンルそれ自身からの逐語引用によって立証される。本書は宗教書ではなく、いかなる権威からも論じない。文書によって組み立てられた破壊であり、その背後にあるのは、エピクテトス、セネカ、マルクス・アウレリウスの系譜に連なる、最後まで行使される理性である。",
         close: "本書は神秘を約束しない。もっと骨が折れ、もっと品位のあるものを差し出す。すなわち、理解することを。",
-        factDateLabel: "刊行",
-        factDate: "2026年9月29日",
         factFormatsLabel: "判型",
         factFormats: "ペーパーバック版・ハードカバー版",
         factLangsLabel: "言語",
@@ -670,27 +667,6 @@ const translationsJA = {
         // la inglesa, que es el título con el que la anuncian arriba.
         coverAlt: "M. Gabriel Castiglia『The False Door』第二版の表紙",
         coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg"
-      },
-      // Primera edición: sigue a la venta hasta septiembre de 2026. Conserva
-      // el título en el idioma de su propia edición donde esa edición existe.
-      sec4b: {
-        badge: "第一版",
-        title: "偽りの扉<span class='rec-book-subtitle'>理性による現代オカルティズム批判</span>",
-        notice: "こちらは現在販売中の<strong>第一版</strong>です。<strong>2026年9月に販売を終了し</strong>、第二版に切り替わります。",
-        langsLabel: "七つの言語で刊行",
-        langs: {
-          es: "スペイン語",
-          en: "英語",
-          pt: "ポルトガル語",
-          fr: "フランス語",
-          it: "イタリア語",
-          de: "ドイツ語",
-          ja: "日本語"
-        },
-        cta: "Amazonでハードカバーを見る →",
-        note: "リンク先はAmazon米国の英語版ハードカバーです。各言語にはペーパーバック版とKindle版もあります。お住まいの国のAmazonストアで、それぞれの言語版をお探しください。",
-        coverAlt: "M. Gabriel Castiglia『偽りの扉』第一版の表紙",
-        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-ja.jpg"
       },
       sec5: {
         eyebrow: "法的告知",
