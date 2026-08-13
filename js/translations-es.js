@@ -767,7 +767,13 @@ NUNCA Reina-Valera ni traducciones protestantes.
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.
         coverAlt: "Portada de la segunda edición de La puerta falsa, de M. Gabriel Castiglia",
-        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-es.jpg"
+        coverSrc: "Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-es.jpg",
+        // Ficha de Amazon (USA) de la 2da edición en este idioma: la
+        // española para el sitio en español, la inglesa para los demás,
+        // igual que la portada. La usan el botón y la portada enlazada.
+        buyUrl: "https://www.amazon.com/dp/B0HF1JGL9C",
+        buyLabel: "Comprar en Amazon →",
+        buyAria: "Comprar «La puerta falsa» en Amazon"
       },
       sec5: {
         eyebrow: "Aviso legal",

@@ -345,6 +345,28 @@ function aplicarIdioma(lang) {
     }
   });
 
+  // Enlaces que CAMBIAN con el idioma: hoy, la ficha de Amazon del libro, que
+  // tiene una edición en español y otra en inglés. Los idiomas sin edición
+  // propia apuntan todos a la inglesa, igual que la portada.
+  document.querySelectorAll('[data-i18n-href]').forEach(element => {
+    const key = element.getAttribute('data-i18n-href');
+    const value = getTranslationValue(lang, key);
+    if (value) {
+      element.setAttribute('href', value);
+    }
+  });
+
+  // Etiqueta accesible de elementos sin texto visible (la portada enlazada,
+  // por ejemplo: su nombre accesible no puede ser el alt de la portada, que
+  // describe la imagen y no adónde lleva el enlace).
+  document.querySelectorAll('[data-i18n-aria-label]').forEach(element => {
+    const key = element.getAttribute('data-i18n-aria-label');
+    const value = getTranslationValue(lang, key);
+    if (value) {
+      element.setAttribute('aria-label', value);
+    }
+  });
+
   // Mostrar/ocultar avisos provisionales según idioma completado
   document.querySelectorAll('[data-complete-for]').forEach(function(el) {
     const completedLangs = el.getAttribute('data-complete-for').split(' ');
