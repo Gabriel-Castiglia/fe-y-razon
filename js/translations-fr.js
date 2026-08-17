@@ -62,7 +62,12 @@ const translationsFR = {
     title: "Contact", desc: "Avez-vous des questions ou souhaitez-vous collaborer avec nous ? Envoyez-nous un message.",
     name: { placeholder: "Votre nom" }, email: { placeholder: "Votre adresse e-mail" }, subject: { placeholder: "Sujet" }, message: { placeholder: "Votre message" },
     submit: "Envoyer le message", cookieNotice: "En envoyant le formulaire, vos données passent par Formspree, le service qui nous transmet le message, et ne servent qu'à vous répondre. <a href='privacidad.html'>Comment nous traitons vos données</a>.",
-    success: { title: "Message reçu", desc: "Merci de nous avoir écrit. Nous vous répondrons dans les plus brefs délais. Ad majorem Dei gloriam." }
+    errors: {
+      email: "L’adresse e-mail semble incomplète : vérifiez qu’il ne manque pas la fin, comme « .com ».",
+      send: "Le message n’a pas pu être envoyé. Réessayez dans quelques minutes.",
+      offline: "Pas de connexion au serveur. Vérifiez votre connexion internet et réessayez."
+    },
+    success: { title: "Message reçu", desc: "Merci de nous avoir écrit. Nous vous répondrons dans les plus brefs délais. Ad majorem Dei gloriam.", back: "Écrire un autre message" }
   },
   topicPages: {
     common: { prevLabel: "Article précédent", nextLabel: "Article suivant", backToTopics: "Retour aux Thèmes" },

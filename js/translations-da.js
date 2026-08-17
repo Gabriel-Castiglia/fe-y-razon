@@ -126,9 +126,15 @@ const translationsDA = {
     message: { placeholder: "Din besked" },
     submit: "Send besked",
     cookieNotice: "Når du sender formularen, går dine data til Formspree, tjenesten der leverer beskeden til os, og de bruges kun til at svare dig. <a href='privacidad.html'>Sådan behandler vi dine data</a>.",
+    errors: {
+      email: "E-mailadressen ser ufuldstændig ud: tjek, at endelsen, f.eks. „.com“, ikke mangler.",
+      send: "Beskeden kunne ikke sendes. Prøv igen om et par minutter.",
+      offline: "Ingen forbindelse til serveren. Tjek din internetforbindelse, og prøv igen."
+    },
     success: {
       title: "Besked modtaget",
-      desc: "Tak fordi du skrev til os. Vi vil svare hurtigst muligt. Ad maiorem Dei gloriam."
+      desc: "Tak fordi du skrev til os. Vi vil svare hurtigst muligt. Ad maiorem Dei gloriam.",
+      back: "Skriv en ny besked"
     }
   },
   topicPages: {

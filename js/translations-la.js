@@ -131,9 +131,15 @@ const translationsLA = {
     message: { placeholder: "Nuntius tuus" },
     submit: "Nuntium mittere",
     cookieNotice: "Formulario misso, data tua ad Formspree eunt, servitium quod nuntium ad nos perfert, et ad tibi respondendum tantum adhibentur. <a href='privacidad.html'>Quomodo data tua tractemus</a>.",
+    errors: {
+      email: "Inscriptio electronica imperfecta videtur: vide ne finis, ut «.com», desit.",
+      send: "Nuntius mitti non potuit. Post pauca momenta iterum conare.",
+      offline: "Nulla est cum servitore coniunctio. Tuam interretialem coniunctionem inspice et iterum conare."
+    },
     success: {
       title: "Nuntius acceptus est",
-      desc: "Gratias tibi agimus quod nobis scripsisti. Quam primum respondebimuus. Ad maiorem Dei gloriam."
+      desc: "Gratias tibi agimus quod nobis scripsisti. Quam primum respondebimuus. Ad maiorem Dei gloriam.",
+      back: "Alium nuntium scribere"
     }
   },
 

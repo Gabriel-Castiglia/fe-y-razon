@@ -62,7 +62,12 @@ const translationsLN = {
     title: "Boyokani", desc: "Ozali na mituna to olingi kosala elongo na biso? Tinda biso message.",
     name: { placeholder: "Nkombo na yo" }, email: { placeholder: "Email na yo" }, subject: { placeholder: "Likambo" }, message: { placeholder: "Message na yo" },
     submit: "Tinda message", cookieNotice: "Tango otindi formulaire, ba données na yo ekendaka na Formspree, service oyo ekomisaka biso message, mpe esalelamaka kaka mpo na koyanola yo. <a href='privacidad.html'>Ndenge tosalelaka ba données na yo</a>.",
-    success: { title: "Message ezwami", desc: "Matondi mingi mpona kokomela biso. Tokopesa yo eyano noki. Ad maiorem Dei gloriam." }
+    errors: {
+      email: "Adresse ya email emonani lokola ekoki te: tala soki nsuka, lokola «.com», ezangi te.",
+      send: "Message etindami te. Meka lisusu nsima ya miniti moke.",
+      offline: "Boyokani na serveur ezali te. Tala boyokani na yo ya internet mpe meka lisusu."
+    },
+    success: { title: "Message ezwami", desc: "Matondi mingi mpona kokomela biso. Tokopesa yo eyano noki. Ad maiorem Dei gloriam.", back: "Koma message mosusu" }
   },
   topicPages: {
     common: { prevLabel: "Article ya liboso", nextLabel: "Article ya sima", backToTopics: "Zonga na Mitó ya makambo" },

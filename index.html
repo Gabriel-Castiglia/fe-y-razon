@@ -63,14 +63,14 @@
     
     <link rel="preload" href="Recursos/Fuentes/cinzel-latin.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="Recursos/Fuentes/montserrat-latin.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="preload" href="css/style.css?v=21" as="style">
+    <link rel="preload" href="css/style.css?v=22" as="style">
     <!-- Iconos del sitio -->
     <link rel="icon" href="favicon.ico" sizes="16x16 32x32 48x48 96x96">
     <link rel="icon" href="favicon.svg" type="image/svg+xml">
     <link rel="icon" href="icon-192.png" type="image/png" sizes="192x192">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <link rel="manifest" href="site.webmanifest">
-    <link rel="stylesheet" href="css/style.css?v=21">
+    <link rel="stylesheet" href="css/style.css?v=22">
 </head>
 <body>
     <!-- 1. COMPONENTES GLOBALES -->
@@ -331,12 +331,14 @@
                         <textarea name="message" data-i18n-placeholder="contact.message.placeholder" placeholder="Tu mensaje" rows="5" required></textarea>
                     </div>
                     <p class="form-notice" data-i18n="contact.cookieNotice" style="font-size: 0.75rem; opacity: 0.7; margin-bottom: 1.5rem; line-height: 1.4; color: rgba(255,255,255,0.8);"></p>
+                    <p class="form-error" id="contact-error" role="alert" aria-live="polite" hidden></p>
                     <button type="submit" class="btn-primary" id="contact-submit" data-i18n="contact.submit">Enviar mensaje</button>
                 </form>
                 <div class="contact-success" id="contact-success" hidden>
                     <div class="contact-success-icon" style="color:#d4a574;">✝</div>
                     <h3 data-i18n="contact.success.title" style="color:#ffffff;">Mensaje recibido</h3>
                     <p data-i18n="contact.success.desc" style="color:rgba(255,255,255,0.85);">Gracias por escribirnos. Te responderemos a la brevedad. Ad maiorem Dei gloriam.</p>
+                    <button type="button" class="contact-back" id="contact-back" data-i18n="contact.success.back">Escribir otro mensaje</button>
                 </div>
             </div>
         </section>
@@ -373,8 +375,8 @@
     </footer>
 
     <!-- 6. SCRIPTS -->
-    <script src="js/main.js?v=12" defer></script>
-    <script src="js/translations.js?v=12" defer></script>
+    <script src="js/main.js?v=13" defer></script>
+    <script src="js/translations.js?v=13" defer></script>
     <script src="js/router.js?v=12" defer></script>
 </body>
 </html>
