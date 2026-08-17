@@ -134,9 +134,15 @@ const translationsES = {
     message: { placeholder: "Tu mensaje" },
     submit: "Enviar mensaje",
     cookieNotice: "Al enviar el formulario, tus datos viajan a Formspree, el servicio que nos hace llegar el mensaje, y se usan sólo para responderte. <a href='privacidad.html'>Cómo tratamos tus datos</a>.",
+    errors: {
+      email: "La dirección de correo parece incompleta: fíjate que no le falte el final, como «.com».",
+      send: "No se pudo enviar el mensaje. Vuelve a intentarlo en unos minutos.",
+      offline: "No hay conexión con el servidor. Revisa tu conexión a internet e inténtalo de nuevo."
+    },
     success: {
       title: "Mensaje recibido",
-      desc: "Gracias por escribirnos. Te responderemos a la brevedad. Ad maiorem Dei gloriam."
+      desc: "Gracias por escribirnos. Te responderemos a la brevedad. Ad maiorem Dei gloriam.",
+      back: "Escribir otro mensaje"
     }
   },
     

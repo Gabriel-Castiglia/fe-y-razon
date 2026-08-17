@@ -126,9 +126,15 @@ const translationsJA = {
     message: { placeholder: "あなたのメッセージ" },
     submit: "メッセージを送る",
     cookieNotice: "フォームを送信すると、入力内容はメッセージを届けるサービスである Formspree に送られ、返信のためだけに使用されます。<a href='privacidad.html'>データの取り扱いについて</a>",
+    errors: {
+      email: "メールアドレスが不完全なようです。末尾の「.com」などが抜けていないかご確認ください。",
+      send: "メッセージを送信できませんでした。数分後にもう一度お試しください。",
+      offline: "サーバーに接続できません。インターネット接続をご確認のうえ、もう一度お試しください。"
+    },
     success: {
       title: "メッセージを受け取りました",
-      desc: "ご連絡ありがとうございます。できるだけ早くお返事いたします。Ad maiorem Dei gloriam."
+      desc: "ご連絡ありがとうございます。できるだけ早くお返事いたします。Ad maiorem Dei gloriam.",
+      back: "別のメッセージを書く"
     }
   },
   topicPages: {

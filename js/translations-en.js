@@ -126,9 +126,15 @@ const translationsEN = {
     message: { placeholder: "Your message" },
     submit: "Send message",
     cookieNotice: "When you send the form, your data travels to Formspree, the service that delivers the message to us, and is used only to reply to you. <a href='privacidad.html'>How we handle your data</a>.",
+    errors: {
+      email: "That email address looks incomplete: check that the ending, such as “.com”, is not missing.",
+      send: "The message could not be sent. Please try again in a few minutes.",
+      offline: "There is no connection to the server. Check your internet connection and try again."
+    },
     success: {
       title: "Message received",
-      desc: "Thank you for writing to us. We will respond shortly. Ad maiorem Dei gloriam."
+      desc: "Thank you for writing to us. We will respond shortly. Ad maiorem Dei gloriam.",
+      back: "Write another message"
     }
   },
   topicPages: {
