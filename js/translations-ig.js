@@ -62,7 +62,12 @@ const translationsIG = {
     title: "Kpọtụrụ", desc: "Ị nwere ajụjụ ma ọ bụ chọọ iso anyị rụkọọ ọrụ? Ziga anyị ozi.",
     name: { placeholder: "Aha gị" }, email: { placeholder: "Email gị" }, subject: { placeholder: "Isiokwu" }, message: { placeholder: "Ozi gị" },
     submit: "Ziga ozi", cookieNotice: "Mgbe ị zigara fọm ahụ, data gị na-agafe na Formspree, ọrụ na-ebutere anyị ozi ahụ, a na-ejikwa ya naanị iji zaghachi gị. <a href='privacidad.html'>Otu anyị si ejikwa data gị</a>.",
-    success: { title: "Enwetara ozi", desc: "Daalụ maka idegakwuru anyị. Anyị ga-aza gị n'oge adịghị anya. Ad maiorem Dei gloriam." }
+    errors: {
+      email: "Adreesi email ahụ yiri ka ọ zughị ezu: lelee ma njedebe ya, dị ka «.com», ọ̀ dịghị efu.",
+      send: "Enweghị ike izipu ozi ahụ. Nwaa ọzọ mgbe nkeji ole na ole gasịrị.",
+      offline: "Enweghị njikọ na sava. Lelee njikọ ịntanetị gị wee nwaa ọzọ."
+    },
+    success: { title: "Enwetara ozi", desc: "Daalụ maka idegakwuru anyị. Anyị ga-aza gị n'oge adịghị anya. Ad maiorem Dei gloriam.", back: "Dee ozi ọzọ" }
   },
   topicPages: {
     common: { prevLabel: "Akụkọ gara aga", nextLabel: "Akụkọ na-esote", backToTopics: "Laghachi na Isiokwu" },

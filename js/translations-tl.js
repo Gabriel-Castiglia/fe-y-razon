@@ -126,9 +126,15 @@ const translationsTL = {
     message: { placeholder: "Ang iyong mensahe" },
     submit: "Magpadala ng mensahe",
     cookieNotice: "Kapag ipinadala mo ang form, ang iyong datos ay dumadaan sa Formspree, ang serbisyong naghahatid sa amin ng mensahe, at ginagamit lamang para sagutin ka. <a href='privacidad.html'>Paano namin pinangangasiwaan ang iyong datos</a>.",
+    errors: {
+      email: "Mukhang kulang ang email address: tiyaking hindi nawawala ang dulo, gaya ng «.com».",
+      send: "Hindi naipadala ang mensahe. Subukan ulit makalipas ang ilang minuto.",
+      offline: "Walang koneksyon sa server. Suriin ang iyong koneksyon sa internet at subukan ulit."
+    },
     success: {
       title: "Natanggap ang mensahe",
-      desc: "Salamat sa iyong mensahe. Tutugon kami sa lalong madaling panahon. Ad maiorem Dei gloriam."
+      desc: "Salamat sa iyong mensahe. Tutugon kami sa lalong madaling panahon. Ad maiorem Dei gloriam.",
+      back: "Sumulat ng ibang mensahe"
     }
   },
   topicPages: {

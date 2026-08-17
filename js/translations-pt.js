@@ -62,7 +62,12 @@ const translationsPT = {
     title: "Contato", desc: "Você tem perguntas ou quer colaborar conosco? Envie-nos uma mensagem.",
     name: { placeholder: "Seu nome" }, email: { placeholder: "Seu e-mail" }, subject: { placeholder: "Assunto" }, message: { placeholder: "Sua mensagem" },
     submit: "Enviar mensagem", cookieNotice: "Ao enviar o formulário, os seus dados passam pelo Formspree, o serviço que nos entrega a mensagem, e são usados só para lhe responder. <a href='privacidad.html'>Como tratamos os seus dados</a>.",
-    success: { title: "Mensagem recebida", desc: "Obrigado por nos escrever. Responderemos o mais breve possível. Ad maiorem Dei gloriam." }
+    errors: {
+      email: "O endereço de e-mail parece incompleto: verifique se não falta o final, como «.com».",
+      send: "Não foi possível enviar a mensagem. Tente novamente daqui a alguns minutos.",
+      offline: "Não há conexão com o servidor. Verifique sua conexão de internet e tente novamente."
+    },
+    success: { title: "Mensagem recebida", desc: "Obrigado por nos escrever. Responderemos o mais breve possível. Ad maiorem Dei gloriam.", back: "Escrever outra mensagem" }
   },
   topicPages: {
     common: { prevLabel: "Artigo anterior", nextLabel: "Próximo artigo", backToTopics: "Voltar aos Temas" },

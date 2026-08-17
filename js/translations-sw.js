@@ -62,7 +62,12 @@ const translationsSW = {
     title: "Mawasiliano", desc: "Una maswali au unataka kushirikiana nasi? Tutumie ujumbe.",
     name: { placeholder: "Jina lako" }, email: { placeholder: "Barua pepe yako" }, subject: { placeholder: "Mada" }, message: { placeholder: "Ujumbe wako" },
     submit: "Tuma ujumbe", cookieNotice: "Unapotuma fomu, data yako inapita kwa Formspree, huduma inayotufikishia ujumbe, na inatumika tu kukujibu. <a href='privacidad.html'>Jinsi tunavyoshughulikia data yako</a>.",
-    success: { title: "Ujumbe umepokelewa", desc: "Asante kwa kutuandikia. Tutajibu hivi karibuni. Ad maiorem Dei gloriam." }
+    errors: {
+      email: "Anwani ya barua pepe inaonekana haijakamilika: hakikisha mwisho, kama «.com», haukosekani.",
+      send: "Ujumbe haukuweza kutumwa. Jaribu tena baada ya dakika chache.",
+      offline: "Hakuna muunganisho na seva. Angalia muunganisho wako wa intaneti kisha ujaribu tena."
+    },
+    success: { title: "Ujumbe umepokelewa", desc: "Asante kwa kutuandikia. Tutajibu hivi karibuni. Ad maiorem Dei gloriam.", back: "Andika ujumbe mwingine" }
   },
   topicPages: {
     common: { prevLabel: "Makala iliyopita", nextLabel: "Makala inayofuata", backToTopics: "Rudi kwenye Mada" },

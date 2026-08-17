@@ -396,9 +396,76 @@ document.addEventListener('DOMContentLoaded', function () {
   const contactSubmit  = document.getElementById('contact-submit');
   const contactDesc    = document.getElementById('contact-desc');
 
+  const contactError   = document.getElementById('contact-error');
+  const contactBack    = document.getElementById('contact-back');
+
+  // Texto traducido al idioma activo, con respaldo en español si la clave no existe
+  // todavía (translations.js carga solo el idioma en uso, y puede no haber cargado).
+  function textoContacto(clave, respaldo) {
+    try {
+      const lang = (typeof currentLang !== 'undefined' && currentLang) ? currentLang : 'es';
+      if (typeof getTranslationValue === 'function') {
+        return getTranslationValue(lang, clave) || respaldo;
+      }
+    } catch { /* i18n no disponible */ }
+    return respaldo;
+  }
+
+  function limpiarErrorContacto() {
+    if (contactError) {
+      contactError.hidden = true;
+      contactError.textContent = '';
+    }
+    if (contactForm) {
+      contactForm.querySelectorAll('.input-error').forEach(el => el.classList.remove('input-error'));
+    }
+  }
+
+  // Muestra el motivo junto al formulario y lleva el foco al campo culpable, que es
+  // lo que faltaba: antes el fallo se resumía en «hubo un error» y el visitante no
+  // tenía cómo saber qué corregir.
+  function mostrarErrorContacto(mensaje, nombreCampo) {
+    if (!contactError) { alert(mensaje); return; }
+    contactError.textContent = mensaje;
+    contactError.hidden = false;
+    const campo = nombreCampo && contactForm.querySelector('[name="' + nombreCampo + '"]');
+    if (campo) {
+      campo.classList.add('input-error');
+      campo.focus({ preventScroll: true });
+    }
+    contactError.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
+
+  function restaurarBotonContacto() {
+    contactSubmit.disabled = false;
+    contactSubmit.textContent = textoContacto('contact.submit', 'Enviar mensaje');
+  }
+
+  // `type="email"` da por buena una dirección sin punto final («ana@gmail»), que es
+  // válida en una intranet pero que Formspree rechaza con 422 TYPE_EMAIL. Se exige
+  // aquí el dominio con punto, para avisar antes de gastar el envío.
+  function correoCompleto(valor) {
+    return /^[^\s@]+@[^\s@.]+(\.[^\s@.]+)+$/.test(valor.trim());
+  }
+
   if (contactForm && contactSuccess) {
+    // El aviso se retira apenas el visitante corrige lo que sea que estaba mal
+    contactForm.addEventListener('input', limpiarErrorContacto);
+
     contactForm.addEventListener('submit', async function (e) {
       e.preventDefault();
+      limpiarErrorContacto();
+
+      const campoEmail = contactForm.querySelector('[name="email"]');
+      if (campoEmail && !correoCompleto(campoEmail.value)) {
+        mostrarErrorContacto(
+          textoContacto('contact.errors.email',
+            'La dirección de correo parece incompleta: fíjate que no le falte el final, como «.com».'),
+          'email'
+        );
+        return;
+      }
+
       contactSubmit.disabled = true; // Evita múltiples envíos
       contactSubmit.textContent = '...';
 
@@ -419,15 +486,61 @@ document.addEventListener('DOMContentLoaded', function () {
           // Scroll suave hacia el mensaje de éxito
           contactSuccess.scrollIntoView({ behavior: 'smooth', block: 'center' });
         } else {
-          contactSubmit.disabled = false;
-          contactSubmit.textContent = 'Enviar mensaje';
-          alert('Hubo un error al enviar. Por favor intentá de nuevo.');
+          // Formspree contestó con un error y su cuerpo dice cuál: qué campo y por qué.
+          // Se traduce al visitante en vez de descartarlo.
+          let campoMal = '';
+          let motivo = '';
+          try {
+            const datos = await res.json();
+            if (datos.errors && datos.errors.length) {
+              campoMal = datos.errors[0].field || '';
+              motivo = datos.errors.map(x => x.message).join('; ');
+            } else {
+              motivo = datos.error || '';
+            }
+          } catch { /* la respuesta no era JSON */ }
+          console.error('[contacto] Formspree respondió ' + res.status + (motivo ? ': ' + motivo : ''));
+
+          restaurarBotonContacto();
+          if (campoMal === 'email') {
+            mostrarErrorContacto(
+              textoContacto('contact.errors.email',
+                'La dirección de correo parece incompleta: fíjate que no le falte el final, como «.com».'),
+              'email'
+            );
+          } else {
+            mostrarErrorContacto(
+              textoContacto('contact.errors.send',
+                'No se pudo enviar el mensaje. Vuelve a intentarlo en unos minutos.'),
+              campoMal
+            );
+          }
         }
       } catch {
-        contactSubmit.disabled = false;
-        contactSubmit.textContent = 'Enviar mensaje';
-        alert('Sin conexión. Por favor intentá de nuevo.');
+        restaurarBotonContacto();
+        mostrarErrorContacto(
+          textoContacto('contact.errors.offline',
+            'No hay conexión con el servidor. Revisa tu conexión a internet e inténtalo de nuevo.'),
+          ''
+        );
       }
+    });
+  }
+
+  // Vuelve del acuse de recibo al formulario, en blanco y listo para otro mensaje
+  if (contactBack && contactForm && contactSuccess) {
+    contactBack.addEventListener('click', function () {
+      contactSuccess.setAttribute('hidden', '');
+      contactSuccess.style.display = 'none';
+      contactForm.reset();
+      limpiarErrorContacto();
+      contactForm.hidden = false;
+      contactForm.style.display = '';
+      if (contactDesc) { contactDesc.style.display = ''; }
+      restaurarBotonContacto();
+      contactForm.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      const primero = contactForm.querySelector('[name="name"]');
+      if (primero) { primero.focus({ preventScroll: true }); }
     });
   }
 
