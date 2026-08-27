@@ -38,6 +38,25 @@ const ARTICLES = {
 const VIDEO_BASE = 'Recursos/Videos/';
 const OV_TRANSITION = 1200;
 
+// URL de la portada tal como se cargó. Al abrir un artículo la barra del
+// navegador pasa a mostrar la URL propia del tema, así que hay que recordar a
+// dónde se vuelve: `location.pathname` ya no sirve, porque para entonces es la
+// del artículo.
+const HOME_URL = location.pathname + location.search + location.hash;
+
+/**
+ * URL compartible de un tema, con su etiqueta de idioma.
+ * Apunta a `tema-<slug>.html?lang=xx`, que es una página real del sitio: quien
+ * reciba el enlace ve ese artículo directamente, sin pasar por la portada y en
+ * el idioma en que se compartió.
+ * @param {string} slug - ID del tema.
+ * @returns {string}
+ */
+function articleUrl(slug) {
+  return 'tema-' + slug + '.html?lang=' + currentLang;
+}
+window.articleUrl = articleUrl;
+
 let currentSlug    = null;    // Identificador del artículo actual abierto
 let ovIndex        = 0;       // Índice del video en reproducción dentro del overlay
 let ovTransitioning = false;  // Flag para evitar conflictos durante el crossfade de videos
@@ -229,7 +248,7 @@ function showArticle(slug, skipHistory = false) {
   if (!t) return;
 
   currentSlug = slug;
-  if (!skipHistory) history.pushState({ article: slug }, '');
+  if (!skipHistory) history.pushState({ article: slug }, '', articleUrl(slug));
 
 
   // 5a. Configuración de recursos visuales
@@ -302,6 +321,9 @@ function showArticle(slug, skipHistory = false) {
   // Start video crossfade
   initOverlayVideos(cfg.videos.length);
 
+  // El hero se acaba de repintar: main.js vuelve a poner el botón de compartir.
+  document.dispatchEvent(new CustomEvent('articleShown', { detail: { slug: slug } }));
+
   // Scroll reveal
   setTimeout(runOverlayReveal, 120);
 }
@@ -324,7 +346,7 @@ function hideArticle(skipHistory = false) {
   const tActual = translations[currentLang];
   document.title = (tActual && tActual.siteTitle) || 'Fé y Razón | Apologética Católica';
   currentSlug = null;
-  if (!skipHistory) history.pushState(null, '', location.pathname);
+  if (!skipHistory) history.pushState(null, '', HOME_URL);
 
 }
 
@@ -353,8 +375,10 @@ document.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
-    // "Volver a Temas" button inside overlay hero
-    const backBtn = e.target.closest('#article-overlay .btn-outline-white');
+    // "Volver a Temas" button inside overlay hero.
+    // Se excluye .btn-share porque comparte la clase del botón: sin el :not(),
+    // tocar "Compartir este tema" cerraba el artículo.
+    const backBtn = e.target.closest('#article-overlay .btn-outline-white:not(.btn-share)');
     if (backBtn) {
       e.preventDefault();
       hideArticle();
@@ -398,6 +422,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
     buildOverlayNav(currentSlug);
     document.title = t.pageTitle || 'Fé y Razón';
+    // La etiqueta de idioma de la URL sigue al idioma que se está viendo, para
+    // que compartir después de cambiarlo comparta lo que el lector tiene delante.
+    history.replaceState({ article: currentSlug }, '', articleUrl(currentSlug));
+    document.dispatchEvent(new CustomEvent('articleShown', { detail: { slug: currentSlug } }));
     setTimeout(runOverlayReveal, 60);
   });
 

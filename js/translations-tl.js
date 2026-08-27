@@ -822,6 +822,11 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
     }
   },
   disclaimerHTML: "<!-- TODO: revisar disclaimer en Filipino -->Ang artikulong ito ay awtomatikong isinalin mula sa Espanyol. Ang site na ito ay isang personal na proyekto na pinananatili nang may pagsisikap at dedikasyon. Kung makahanap kayo ng mga pagkakamali sa pagsasalin, nagpapasalamat kami kung iuulat ninyo ito sa pamamagitan ng form ng pakikipag-ugnayan.",
+  share: {
+    button: "Ibahagi ang paksang ito",
+    copied: "Nakopya ang link!",
+    ariaLabel: "Ibahagi ang paksang ito"
+  },
   provisional: {
     notice: "⚠ Ang artikulong ito ay kasalukuyang isinusulat. Ang kasalukuyang nilalaman ay pansamantala at papalitan ng panghuling teksto sa lalong madaling panahon.",
     preliminaryWarning: "Ang artikulong ito ay paunang-pauna, ang apologetikong nilalaman ay ilalathala sa lalong madaling panahon"

@@ -386,6 +386,11 @@ const translationsIT = {
     }
   },
   disclaimerHTML: "Questo articolo è stato tradotto automaticamente dallo spagnolo. Questo sito è un progetto personale mantenuto con impegno e dedizione. Se trovate errori nella traduzione, vi ringraziamo per averli segnalati tramite il modulo di contatto.",
+  share: {
+    button: "Condividi questo tema",
+    copied: "Link copiato!",
+    ariaLabel: "Condividi questo tema"
+  },
   provisional: {
     notice: "⚠ Questo articolo è in fase di redazione. Il contenuto attuale è provvisorio.",
     preliminaryWarning: "Questo articolo è preliminare, il contenuto apologetico sarà pubblicato a breve."

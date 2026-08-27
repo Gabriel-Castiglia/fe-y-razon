@@ -937,6 +937,33 @@ section {
 .article-hero .btn-outline-white {
   margin-top: 36px;
 }
+
+/* Botón "Compartir este tema": va al lado de "Volver a Temas", con el mismo
+   trazo, y lo inyecta main.js en el hero de la página propia y en el overlay. */
+.btn-share {
+  font-family: inherit;
+  cursor: pointer;
+  margin-left: 12px;
+}
+.btn-share svg {
+  flex-shrink: 0;
+}
+.btn-share.copiado {
+  border-color: var(--gold);
+  color: var(--gold);
+}
+.article-hero .btn-share {
+  margin-top: 36px;
+}
+@media (max-width: 560px) {
+  .btn-share {
+    margin-left: 0;
+    margin-top: 12px;
+  }
+  .article-hero .btn-share {
+    margin-top: 12px;
+  }
+}
 .article-navigation {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
