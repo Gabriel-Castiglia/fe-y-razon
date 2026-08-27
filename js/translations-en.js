@@ -820,6 +820,11 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
     }
   },
   disclaimerHTML: "This article was automatically translated from Spanish. This site is a personal project maintained with effort and dedication. If you find any errors in the translation, we appreciate you reporting them through the contact form.",
+  share: {
+    button: "Share this topic",
+    copied: "Link copied!",
+    ariaLabel: "Share this topic"
+  },
   provisional: {
     notice: "⚠ This article is being written. The current content is provisional and will be replaced soon with the definitive text.",
     preliminaryWarning: "This article is preliminary, the apologetic content will be published shortly"

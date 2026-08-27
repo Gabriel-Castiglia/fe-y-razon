@@ -387,6 +387,11 @@ const translationsSW = {
     }
   },
   disclaimerHTML: "<!-- TODO: revisar disclaimer en Kiswahili -->Makala hii ilitafsiriwa kiotomatiki kutoka kwa Kihispania. Tovuti hii ni mradi binafsi unaodumishwa kwa bidii na uaminifu. Ikiwa utapata makosa katika tafsiri, tunashukuru ukiyaripoti kupitia fomu ya mawasiliano.",
+  share: {
+    button: "Shiriki mada hii",
+    copied: "Kiungo kimenakiliwa!",
+    ariaLabel: "Shiriki mada hii"
+  },
   provisional: {
     notice: "⚠ Makala hii inajengwa. Yaliyomo kwa sasa ni ya muda.",
     preliminaryWarning: "Makala hii ni ya awali, yaliyomo ya kiapolojetiki yatachapishwa hivi karibuni."

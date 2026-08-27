@@ -463,6 +463,11 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
     }
   },
   disclaimerHTML: "Este artigo foi traduzido automaticamente do espanhol. Este site é um projeto pessoal mantido com esforço e dedicação. Se você encontrar algum erro na tradução, agradecemos que o reporte pelo formulário de contato.",
+  share: {
+    button: "Partilhar este tema",
+    copied: "Link copiado!",
+    ariaLabel: "Partilhar este tema"
+  },
   provisional: {
     notice: "⚠ Este artigo está a ser redigido. O conteúdo atual é provisório.",
     preliminaryWarning: "Este artigo é preliminar, o conteúdo apologético será publicado em breve."
