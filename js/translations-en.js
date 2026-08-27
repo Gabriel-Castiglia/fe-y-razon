@@ -48,10 +48,10 @@ const translationsEN = {
   },
   article4: {
     category: "Doctrine",
-    date: "Coming soon",
+    date: "August 2026",
     title: "Transubstantiation",
     excerpt: "The substantial change of bread and wine into the Body and Blood of Christ during Mass.",
-    time: "9 min read",
+    time: "14 min read",
     link: "Read →"
   },
   article5: {
@@ -626,25 +626,63 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <span class="eyebrow-text">Special Topic</span>
             </div>
             <h1>Transubstantiation: the Eucharistic Mystery</h1>
-            <p>Explore how the Catholic Church understands the miracle of the Eucharist and the real transformation of bread and wine into the Body and Blood of Christ.</p>
+            <p>If his word made the world and turned water into wine, what happens when he says "this is my body"? Five passages, in order.</p>
             <div class="article-meta">
-                <span>9 min read</span>
-                <span>Published May 2026</span>
+                <span>14 min read</span>
+                <span>Published August 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
-      article: `<p>Transubstantiation is the teaching that after consecration at Mass, the substances of bread and wine become the Body and Blood of Christ, even though the physical appearances remain.</p>
-                <h2>Theological meaning</h2>
-                <p>This dogma emphasizes that the Eucharist is not merely a symbol. Christ becomes real food for our soul, maintaining his living and true presence among the faithful.</p>
-                <blockquote>"Behold the Body of Christ, received for salvation and eternal life."</blockquote>
-                <h2>Apostolic tradition</h2>
-                <p>The Church teaches this truth following the interpretation of Jesus’ words: "This is my body" and "This is my blood." Apostolic tradition supports a literal and sacred reading.</p>
+      article: `<p>Faced with the Eucharist the objection changes its shape but not its substance. Jehovah's Witnesses, Adventists, Pentecostals, Mormons and Protestants in general repeat one of these two: <em>"The bread is still bread: it looks like bread and it tastes like bread."</em> and <em>"Transubstantiation is an invented word, Greek philosophy; it is not in the Bible."</em></p>
+                <p>The second is answered in a single line: the words "Trinity" and "Bible" are not there either, and no one disputes what they name. A word does not create the fact: it names it. The first is the one that matters, and it is not answered with philosophy but with Scripture, because Scripture already recorded what happens when Christ says that one thing is another. Five passages, in order.</p>
+                <h2>The Word does not describe: it makes<br>John 1:1-3</h2>
+                <p>Before arguing about what can happen to bread, one has to know what a word of God is.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ John 1:1-3</span>
+                    <blockquote>«In the beginning was <strong class="s-hi">the Word</strong>, and the Word was with God, and <strong class="s-hi">the Word was God</strong>. He was in the beginning with God; <strong class="s-hi">all things were made through him</strong>, and without him was not anything made that was made.»</blockquote>
+                </div>
+                <p>The Word of God does not describe reality: it causes it. Nothing that exists existed before the Word spoke it, and everything that exists exists because the Word spoke it. That is the starting point, and it is no small one: to ask how bread can stop being bread is to ask, in other words, how nothing could stop being nothing. It has already happened once. It happened for the same reason.</p>
+                <h2>Cana: the water changed when they obeyed him<br>John 2:6-9</h2>
+                <p>There is one case where that Word acts before witnesses and upon a concrete substance.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ John 2:6-9</span>
+                    <blockquote>«Now six stone jars were standing there, for the Jewish rites of purification, each holding twenty or thirty gallons. Jesus said to them, <strong class="s-hi">"Fill the jars with water."</strong> And they filled them up to the brim. He said to them, "Now draw some out, and take it to the steward of the feast." <strong class="s-hi">So they took it.</strong> When the steward of the feast tasted <strong class="s-hi">the water now become wine</strong>, and did not know where it came from (<strong class="s-hi">though the servants who had drawn the water knew</strong>), the steward of the feast called the bridegroom.»</blockquote>
+                </div>
+                <p>It is worth looking at where the miracle is. Jesus does not touch the water. He makes no gesture over the jars, he pronounces no formula upon them. He gives an order — "fill", "draw" — and some servants carry it out. Between the order obeyed and the steward's cup, the water stopped being water. What changed the substance was a word obeyed.</p>
+                <p>And the evangelist pauses to note a detail that is usually passed over: the steward did not know where that wine came from, and the servants did. Those who had done what Christ commanded were the only ones who knew what had just happened. The rest drank the miracle without realising they were drinking it. At Mass exactly the same thing happens, and for the same reason.</p>
+                <h2>The same mouth, the same formula<br>John 6:47-51</h2>
+                <p>The one who ordered the jars filled goes on to say this:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ John 6:47-51</span>
+                    <blockquote>«<strong class="s-hi">Truly, truly, I say to you</strong>, whoever believes has eternal life. <strong class="s-hi">I am the bread of life.</strong> Your fathers ate the manna in the wilderness, and they died. This is the bread that comes down from heaven, so that one may eat of it and not die. I am the living bread that came down from heaven. If anyone eats of this bread, he will live forever. And the bread that I will give for the life of the world is <strong class="s-hi">my flesh</strong>.»</blockquote>
+                </div>
+                <p>"Truly, truly, I say to you" is the formula with which Christ prefaces what admits of no discussion, and what follows is not a comparison but an identification: "I am", not "I represent". If that word turned water into wine without anyone seeing the moment, this one needs no less. It is the same mouth and the same kind of word.</p>
+                <p>The full treatment of John 6 — the objection of metaphor, the disciples who walk away and the Jesus who does not hold them back with a clarification — is in the topic <a href="tema-la-eucaristia.html">The Eucharist</a>.</p>
+                <h2>Paul does not say symbol: he says participation<br>1 Corinthians 10:16</h2>
+                <p>Paul writes before the Gospel of John is composed, and he arrives at the same place on his own.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Corinthians 10:16</span>
+                    <blockquote>«The cup of blessing that we bless, is it not <strong class="s-hi">a participation in the blood of Christ</strong>? The bread that we break, is it not <strong class="s-hi">a participation in the body of Christ</strong>?»</blockquote>
+                </div>
+                <p>There are three words Paul does not use: symbol, representation, remembrance. The one he does use is <em>koinōnia</em> — participation, real sharing, effective contact, having a part in something. No one has a part in a metaphor. And it is worth looking at what he names at the end of each question: he does not say the cup is a participation in the wine, or the bread in the bread. He says the blood of Christ and the body of Christ.</p>
+                <h2>I received from the Lord — and that is why there are dead<br>1 Corinthians 11:23-30</h2>
+                <p>The decisive passage is the one that follows, and it should be read whole before it is commented on.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Corinthians 11:23-30</span>
+                    <blockquote>«For I <strong class="s-hi">received from the Lord what I also delivered to you</strong>, that the Lord Jesus on the night when he was betrayed took bread, and when he had given thanks, he broke it, and said, <strong class="s-hi">"This is my body</strong> which is for you. Do this in remembrance of me." In the same way also the cup, after supper, saying, "This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me." For as often as you eat this bread and drink the cup, you proclaim the Lord's death <strong class="s-hi">until he comes</strong>. Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner <strong class="s-hi">will be guilty of profaning the body and blood of the Lord</strong>. Let a man examine himself, and so eat of the bread and drink of the cup. For any one who eats and drinks <strong class="s-hi">without discerning the body</strong> eats and drinks judgment upon himself. That is why many of you are weak and ill, and <strong class="s-hi">some have died</strong>.»</blockquote>
+                </div>
+                <p>He begins where the critics would rather not begin: "I received from the Lord what I also delivered to you." That is the vocabulary of tradition — what is handed on and received from hand to hand. The very Paul who is quoted against Tradition rests the rite of the Eucharist upon it, and he does so in the oldest letter we possess on the subject.</p>
+                <p>He goes on: "until he comes". Not once, not twice, not only on that night: every time, always, until the end. If this were an occasional commemoration, Paul had every word available to say so. He says precisely the opposite.</p>
+                <p>And he ends where the symbolic reading runs out of room. Whoever eats unworthily is not guilty of profaning the bread or the wine: he is <em>guilty of profaning the body and blood of the Lord</em>, guilty of a crime against a person. Eating without discerning the body does not earn him a reproach: it earns him judgment. And Paul says what judgment he means, with the names of things that can be seen: the weak, the ill, the dead. No one falls sick from disrespecting a metaphor. No one dies from mishandling a memory. If in Corinth there were sick and dead from eating that bread without discerning what it was, that bread was not bread.</p>
                 <ul>
-                    <li>The real, living presence of Christ in the Eucharist.</li>
-                    <li>A sacramental act that goes beyond the symbolic plane.</li>
-                    <li>A source of unity and grace for the Church.</li>
+                    <li>The Word of God does not describe: it makes. Everything that exists exists because the Word spoke it.</li>
+                    <li>At Cana that word changed one substance into another, with no visible gesture, as soon as it was obeyed.</li>
+                    <li>Those who obeyed knew what had happened; those who merely watched did not.</li>
+                    <li>Paul does not say symbol or remembrance: he says participation in the blood and in the body of Christ.</li>
+                    <li>Eating unworthily makes one guilty of profaning the body and the blood — not the bread — and in Corinth it cost sickness and lives.</li>
                 </ul>
-                <h2>Life of faith</h2>
-                <p>Accepting this mystery strengthens Eucharistic devotion and encourages Christians to receive Communion with reverence and inner preparation.</p>`,
+                <h2>Conclusion</h2>
+                <p>Transubstantiation is the name of this: the substance of the bread and that of the wine cease to be what they were and become the Body and Blood of Christ, while everything the senses can reach remains — the appearance, the taste, the weight. It is not a theory added to Scripture to cover an uncomfortable mystery: it is the exact description of what Scripture narrates at Cana and of what Paul takes for granted at Corinth. The miracle does not consist in the appearances changing. It consists in what the thing is changing, because Christ said so.</p>
+                <p>One question remains, and it is not about the bread: it is about who is speaking. If the one who says "this is my body" is he through whom all things were made, there is nothing to argue about; there is something to believe. That is why this topic is not settled with arguments from chemistry or from Greek philosophy, but on the ground of the topic <a href="tema-por-que-creemos.html">Why We Believe</a>. If his word is the word of God, it does what it says. It always has.</p>`,
       nav: {
         prevTitle: "The Eucharist: the Central Sacrament",
         nextTitle: "The Saints and Their Intercession"

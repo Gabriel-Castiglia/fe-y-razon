@@ -48,10 +48,10 @@ const translationsTL = {
   },
   article4: {
     category: "Doktrina",
-    date: "Paparating na",
+    date: "Agosto 2026",
     title: "Transubstansiasyon",
     excerpt: "Ang mahahalagang pagbabago ng tinapay at alak sa Katawan at Dugo ni Kristo sa panahon ng Misa.",
-    time: "9 minuto",
+    time: "14 minuto",
     link: "Basahin →"
   },
   article5: {
@@ -626,25 +626,63 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
                 <span class="eyebrow-text">Espesyal na Paksa</span>
             </div>
             <h1>Transubstansiasyon: ang Misteryo ng Eukaristiya</h1>
-            <p>Tuklasin kung paano naiintindihan ng Simbahang Katoliko ang himala ng Eukaristiya at ang tunay na pagbabago ng tinapay at alak sa Katawan at Dugo ni Kristo.</p>
+            <p>Kung ang kanyang salita ang gumawa ng sanlibutan at nagpalit ng tubig sa alak, ano ang nangyayari kapag sinabi niyang "ito ang aking katawan"? Limang talata, sunod-sunod.</p>
             <div class="article-meta">
-                <span>9 minutong pagbabasa</span>
-                <span>Nailathala Mayo 2026</span>
+                <span>14 minutong pagbabasa</span>
+                <span>Nailathala Agosto 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
-      article: `<p>Ang transubstansiasyon ay ang turo na pagkatapos ng konsagrasyon sa Misa, ang mga sangkap ng tinapay at alak ay nagiging Katawan at Dugo ni Kristo, kahit na nananatili ang pisikal na anyo.</p>
-                <h2>Teolohikal na kahulugan</h2>
-                <p>Binibigyang-diin ng dogmang ito na ang Eukaristiya ay hindi lamang simbolo. Si Kristo ay nagiging tunay na pagkain para sa ating kaluluwa, pinapanatili ang Kanyang buhay at tunay na presensya sa gitna ng mga mananampalataya.</p>
-                <blockquote>"Narito ang Katawan ni Kristo, tinanggap para sa kaligtasan at buhay na walang hanggan."</blockquote>
-                <h2>Apostolikong tradisyon</h2>
-                <p>Itinuturo ng Simbahan ang katotohanang ito ayon sa interpretasyon ng mga salita ni Hesus: "Ito ang aking katawan" at "Ito ang aking dugo." Sinusuportahan ng apostolikong tradisyon ang isang literal at sagradong pagbabasa.</p>
+      article: `<p>Sa harap ng Eukaristiya, nagbabago ang anyo ng pagtutol ngunit hindi ang laman nito. Ang mga Saksi ni Jehova, mga Adventista, mga Pentekostal, mga Mormon at ang mga Protestante sa pangkalahatan ay inuulit ang isa sa dalawang ito: <em>"Tinapay pa rin ang tinapay: mukhang tinapay at lasang tinapay."</em> at <em>"Ang transubstansiasyon ay imbentong salita, pilosopiyang Griyego; wala iyon sa Biblia."</em></p>
+                <p>Ang pangalawa ay nasasagot sa isang pangungusap: wala rin sa Biblia ang mga salitang "Trinidad" at "Biblia", at walang tumututol sa kanilang tinutukoy. Hindi nililikha ng salita ang katotohanan: pinapangalanan lamang nito. Ang una ang mahalaga, at hindi ito sinasagot ng pilosopiya kundi ng Kasulatan, sapagkat isinalaysay na ng Kasulatan kung ano ang nangyayari kapag sinabi ni Kristo na ang isang bagay ay iba. Limang talata, sunod-sunod.</p>
+                <h2>Hindi naglalarawan ang Salita: gumagawa ito<br>Juan 1:1-3</h2>
+                <p>Bago pagtalunan kung ano ang maaaring mangyari sa tinapay, kailangang malaman kung ano ang isang salita ng Diyos.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Juan 1:1-3</span>
+                    <blockquote>«Nang pasimula ay naroon na <strong class="s-hi">ang Salita</strong>, at ang Salita ay kasama ng Diyos, at <strong class="s-hi">ang Salita ay Diyos</strong>. Siya ay kasama ng Diyos nang pasimula. <strong class="s-hi">Ang lahat ng bagay ay nalikha sa pamamagitan niya</strong>, at wala kahit isang bagay na nalikha nang hindi sa pamamagitan niya.»</blockquote>
+                </div>
+                <p>Hindi inilalarawan ng Salita ng Diyos ang katotohanan: ito ang nagpapairal nito. Walang umiiral na umiiral na bago pa ito sabihin ng Salita, at ang lahat ng umiiral ay umiiral dahil sinabi ito ng Salita. Iyan ang panimulang punto, at hindi ito maliit: ang itanong kung paano matitigil ang tinapay sa pagiging tinapay ay ang itanong, sa ibang salita, kung paano natigil ang wala sa pagiging wala. Nangyari na ito minsan. Nangyari ito dahil sa gayunding dahilan.</p>
+                <h2>Cana: nagbago ang tubig nang sumunod sila<br>Juan 2:6-9</h2>
+                <p>May isang pagkakataon kung saan kumikilos ang Salitang iyon sa harap ng mga saksi at sa isang tiyak na bagay.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Juan 2:6-9</span>
+                    <blockquote>«Naroon ang anim na tapayang bato na ginagamit sa seremonya ng paglilinis ng mga Judio, at ang bawat isa ay naglalaman ng dalawa o tatlong takal. Sinabi sa kanila ni Hesus: <strong class="s-hi">"Punuin ninyo ng tubig ang mga tapayan."</strong> At pinuno nila hanggang sa labi. Sinabi niya: "Sumalok kayo ngayon at dalhin ninyo sa punong-abala." <strong class="s-hi">At dinala nila.</strong> Nang matikman ng punong-abala ang <strong class="s-hi">tubig na naging alak</strong>, at hindi niya alam kung saan ito nanggaling —<strong class="s-hi">alam naman ng mga tagapaglingkod na sumalok ng tubig</strong>—, tinawag ng punong-abala ang lalaking ikinakasal.»</blockquote>
+                </div>
+                <p>Mabuting tingnan kung nasaan ang himala. Hindi hinipo ni Hesus ang tubig. Wala siyang ginawang kilos sa ibabaw ng mga tapayan at wala siyang binigkas na anumang pormula sa mga ito. Nagbigay siya ng utos —"punuin", "sumalok"— at may mga tagapaglingkod na tumupad nito. Sa pagitan ng utos na tinupad at ng kopa ng punong-abala, ang tubig ay tumigil na maging tubig. Ang nagpalit ng sangkap ay isang salitang sinunod.</p>
+                <p>At huminto ang ebanghelista upang itala ang isang detalyeng madalas laktawan: hindi alam ng punong-abala kung saan nanggaling ang alak na iyon, at alam ito ng mga tagapaglingkod. Ang mga gumawa ng iniutos ni Kristo lamang ang nakaalam kung ano ang katatapos mangyari. Ang iba ay uminom ng himala nang hindi nalalamang umiinom sila nito. Sa Misa ay gayundin ang nangyayari, at dahil din sa gayunding dahilan.</p>
+                <h2>Gayunding bibig, gayunding pananalita<br>Juan 6:47-51</h2>
+                <p>Ang nag-utos na punuin ang mga tapayan ay nagsabi pagkatapos nito:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Juan 6:47-51</span>
+                    <blockquote>«<strong class="s-hi">Katotohanan, katotohanang sinasabi Ko sa inyo</strong>, ang sumasampalataya ay may buhay na walang hanggan. <strong class="s-hi">Ako ang tinapay ng buhay.</strong> Kinain ng inyong mga ninuno ang manna sa ilang at namatay. Ito ang tinapay na bumababa mula sa langit, upang ang sinumang kumain nito ay hindi mamatay. Ako ang buhay na tinapay na bumaba mula sa langit. Kung ang sinuman ay kumain ng tinapay na ito, mabubuhay siya magpakailanman. At <strong class="s-hi">ang tinapay na ibibigay Ko ay ang Aking laman, para sa buhay ng sanlibutan.</strong>»</blockquote>
+                </div>
+                <p>Ang "katotohanan, katotohanang sinasabi Ko sa inyo" ang pormula na ipinapanimula ni Kristo sa hindi na mapagtatalunan, at ang kasunod ay hindi paghahambing kundi pagkakakilanlan: "Ako ang", hindi "kinakatawan Ko ang". Kung ang salitang iyon ay nagpalit ng tubig sa alak nang walang nakakita sa sandaling iyon, ang salitang ito ay hindi nangangailangan ng mas mababa pa. Gayunding bibig at gayunding uri ng salita.</p>
+                <p>Ang buong pagtalakay sa Juan 6 —ang pagtutol na talinghaga lamang ito, ang mga alagad na umalis at ang Hesus na hindi sila pinigil sa pamamagitan ng isang paglilinaw— ay nasa paksang <a href="tema-la-eucaristia.html">Ang Eukaristiya</a>.</p>
+                <h2>Hindi sinabi ni Pablo na simbolo: sinabi niyang pakikilahok<br>1 Corinto 10:16</h2>
+                <p>Sumulat si Pablo bago pa isinulat ang Ebanghelyo ni Juan, at nakarating siya sa gayunding lugar sa sarili niyang landas.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Corinto 10:16</span>
+                    <blockquote>«Ang kopa ng pagpapala na ating pinagpapala, hindi ba ito <strong class="s-hi">pakikilahok sa dugo ni Kristo</strong>? Ang tinapay na ating pinagpuputol-putol, hindi ba ito <strong class="s-hi">pakikilahok sa katawan ni Kristo</strong>?»</blockquote>
+                </div>
+                <p>May tatlong salitang hindi ginamit ni Pablo: simbolo, representasyon, alaala. Ang ginamit niya ay <em>koinonia</em> —tunay na pakikibahagi, totoong pagkakadikit, pagkakaroon ng bahagi sa isang bagay—. Walang nagkakaroon ng bahagi sa isang talinghaga. At tingnan kung ano ang pinangalanan niya sa dulo ng bawat tanong: hindi niya sinabing pakikilahok ang kopa sa alak, ni ang tinapay sa tinapay. Sinabi niyang dugo ni Kristo at katawan ni Kristo.</p>
+                <h2>Tinanggap ko mula sa Panginoon — at kaya may mga namatay<br>1 Corinto 11:23-30</h2>
+                <p>Ang mapagpasyang talata ang sumusunod, at nararapat itong basahing buo bago pagkumentuhan.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Corinto 11:23-30</span>
+                    <blockquote>«Sapagkat <strong class="s-hi">tinanggap ko mula sa Panginoon ang ibinigay ko naman sa inyo</strong>: na ang Panginoong Hesus, nang gabing siya ay ipagkanulo, ay dumampot ng tinapay, at matapos magpasalamat ay pinagputol-putol ito at sinabi: <strong class="s-hi">"Ito ang aking katawan</strong>, na para sa inyo; gawin ninyo ito sa pag-alaala sa akin." Gayundin naman ang kopa, pagkatapos ng hapunan, na sinasabi: "Ang kopang ito ang bagong tipan sa aking dugo. Tuwing iinumin ninyo ito, gawin ninyo sa pag-alaala sa akin." Sapagkat tuwing kakain kayo ng tinapay na ito at iinom sa kopang ito, ipinapahayag ninyo ang kamatayan ng Panginoon <strong class="s-hi">hanggang sa siya ay dumating</strong>. Kaya nga, ang sinumang kumain ng tinapay o uminom sa kopa ng Panginoon nang hindi karapat-dapat ay <strong class="s-hi">magkakasala laban sa katawan at dugo ng Panginoon</strong>. Suriin ng bawat isa ang kanyang sarili, at saka kumain ng tinapay at uminom sa kopa. Sapagkat ang kumakain at umiinom <strong class="s-hi">nang hindi kinikilala ang Katawan</strong> ay kumakain at umiinom ng hatol sa kanyang sarili. Kaya nga marami sa inyo ang mahihina at may sakit, at <strong class="s-hi">hindi kakaunti ang namatay</strong>.»</blockquote>
+                </div>
+                <p>Nagsisimula siya kung saan ayaw magsimula ng mga kritiko: "tinanggap ko mula sa Panginoon ang ibinigay ko naman sa inyo". Iyan ang bokabularyo ng tradisyon: ang ipinapasa at tinatanggap mula sa kamay patungo sa kamay. Ang mismong Pablo na sinisipi laban sa Tradisyon ang siyang nagpapatayo ng ritwal ng Eukaristiya sa ibabaw nito, at ginagawa niya iyon sa pinakamatandang sulat na taglay natin tungkol sa paksa.</p>
+                <p>Sumusunod ang "hanggang sa siya ay dumating". Hindi minsan, hindi makalawa, hindi lamang nang gabing iyon: tuwina, palagi, hanggang sa wakas. Kung isang paminsan-minsang paggunita lamang ito, may lahat ng salita si Pablo upang sabihin iyon. Ang sinabi niya ay ang eksaktong kabaligtaran.</p>
+                <p>At nagtatapos siya kung saan nauubusan ng puwang ang simbolikong pagbasa. Ang kumakain nang hindi karapat-dapat ay hindi nagkakasala laban sa tinapay ni sa alak: siya ay <em>nagkakasala laban sa katawan at dugo ng Panginoon</em>, may sala ng isang krimen laban sa isang persona. Ang kumain nang hindi kinikilala ang Katawan ay hindi lamang nagkakamit ng pagsaway: nagkakamit siya ng hatol. At sinasabi ni Pablo kung anong hatol ang tinutukoy niya, sa mga pangalan ng bagay na nakikita: mahihina, may sakit, patay. Walang nagkakasakit dahil sa panghahamak sa isang talinghaga. Walang namamatay dahil sa maling pagtrato sa isang alaala. Kung sa Corinto ay nagkaroon ng maysakit at patay dahil kinain nila ang tinapay na iyon nang hindi kinikilala kung ano ito, ang tinapay na iyon ay hindi tinapay.</p>
                 <ul>
-                    <li>Ang tunay at buhay na presensya ni Kristo sa Eukaristiya.</li>
-                    <li>Isang sakramental na kilos na lumalagpas sa simbolikong antas.</li>
-                    <li>Isang pinagmumulan ng pagkakaisa at biyaya para sa Simbahan.</li>
+                    <li>Hindi naglalarawan ang Salita ng Diyos: gumagawa ito. Ang lahat ng umiiral ay umiiral dahil sinabi ito ng Salita.</li>
+                    <li>Sa Cana ay pinalitan ng salitang iyon ang isang sangkap ng iba, nang walang nakikitang kilos, sa sandaling ito ay sinunod.</li>
+                    <li>Alam ng mga sumunod kung ano ang nangyari; hindi alam ng mga nanonood lamang.</li>
+                    <li>Hindi sinabi ni Pablo na simbolo o alaala: sinabi niyang pakikilahok sa dugo at sa katawan ni Kristo.</li>
+                    <li>Ang kumain nang hindi karapat-dapat ay nagkakasala laban sa katawan at dugo —hindi sa tinapay—, at sa Corinto ay nagbunga ito ng sakit at kamatayan.</li>
                 </ul>
-                <h2>Buhay ng pananampalataya</h2>
-                <p>Ang pagtanggap sa misteryo na ito ay nagpapatibay ng debosyon sa Eukaristiya at hinihikayat ang mga Kristiyano na tumanggap ng komunyon nang may galang at panloob na paghahanda.</p>`,
+                <h2>Konklusyon</h2>
+                <p>Transubstansiasyon ang pangalan nito: ang sangkap ng tinapay at ng alak ay tumitigil sa pagiging kung ano sila at nagiging Katawan at Dugo ni Kristo, samantalang nananatili ang lahat ng naaabot ng pandama —ang anyo, ang lasa, ang bigat—. Hindi ito isang teoryang idinagdag sa Kasulatan upang takpan ang isang hindi komportableng misteryo: ito ang tumpak na paglalarawan ng isinalaysay ng Kasulatan sa Cana at ng ipinapalagay ni Pablo sa Corinto. Ang himala ay wala sa pagbabago ng mga anyo. Nasa pagbabago ito ng kung ano ang bagay, sapagkat sinabi ito ni Kristo.</p>
+                <p>Isang tanong na lamang ang natitira, at hindi ito tungkol sa tinapay: tungkol ito sa kung sino ang nagsasalita. Kung ang nagsasabing "ito ang aking katawan" ay siyang pinagdaanan ng paglikha sa lahat ng bagay, wala nang dapat pagtalunan; may dapat paniwalaan. Kaya ang paksang ito ay hindi napagpapasyahan sa mga argumento ng kimika o ng pilosopiyang Griyego, kundi sa larangan ng paksang <a href="tema-por-que-creemos.html">Bakit tayo naniniwala?</a> Kung ang kanyang salita ay salita ng Diyos, ginagawa nito ang sinasabi nito. Palagi naman itong ganoon.</p>`,
       nav: {
         prevTitle: "Ang Eukaristiya: ang Sentral na Sakramento",
         nextTitle: "Ang mga Santo at ang Kanilang Pamamagitan"

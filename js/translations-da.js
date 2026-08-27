@@ -48,10 +48,10 @@ const translationsDA = {
   },
   article4: {
     category: "Doktrin",
-    date: "Kommer snart",
+    date: "August 2026",
     title: "Transsubstantiation",
     excerpt: "Den væsentlige forvandling af brød og vin til Kristi legeme og blod under messen.",
-    time: "9 min læsning",
+    time: "14 min læsning",
     link: "Læs →"
   },
   article5: {
@@ -428,25 +428,63 @@ const translationsDA = {
                 <span class="eyebrow-text">Specialemne</span>
             </div>
             <h1>Transsubstantiation: det eukaristiske mysterium</h1>
-            <p>Udforsk hvordan den katolske kirke forstår Eukaristiens mirakel og den virkelige forvandling af brød og vin til Kristi legeme og blod.</p>
+            <p>Hvis hans ord skabte verden og forvandlede vand til vin, hvad sker der så, når han siger "dette er mit legeme"? Fem skriftsteder, i rækkefølge.</p>
             <div class="article-meta">
-                <span>9 min læsning</span>
-                <span>Udgivet maj 2026</span>
+                <span>14 min læsning</span>
+                <span>Udgivet august 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
-      article: `<p>Transsubstantiation er læren om, at brød og vin efter indvielsen under messen i substansen bliver til Kristi legeme og blod, selv om det ydre udseende forbliver.</p>
-                <h2>Teologisk betydning</h2>
-                <p>Denne dogme understreger, at Eukaristien ikke blot er et symbol. Kristus bliver virkelig åndelig føde for vores sjæl og opretholder sin levende og sande tilstedeværelse midt iblandt de troende.</p>
-                <blockquote>"Se, Kristi legeme, modtaget til frelse og evigt liv."</blockquote>
-                <h2>Apostolsk tradition</h2>
-                <p>Kirken underviser i denne sandhed i forlængelse af fortolkningen af Jesu ord: "Dette er mit legeme" og "Dette er mit blod." Den apostolske tradition støtter en bogstavelig og hellig læsning.</p>
+      article: `<p>Over for Eukaristien skifter indvendingen form, men ikke indhold. Jehovas Vidner, adventister, pinsefolk, mormoner og protestanter i almindelighed gentager en af disse to: <em>"Brødet er stadig brød: det ser ud som brød og smager som brød."</em> og <em>"Transsubstantiation er et opfundet ord, græsk filosofi; det står ikke i Bibelen."</em></p>
+                <p>Den anden besvares på én linje: ordene "Treenighed" og "Bibel" står der heller ikke, og ingen bestrider det, de betegner. Et ord skaber ikke kendsgerningen: det navngiver den. Den første er den, der betyder noget, og den besvares ikke med filosofi, men med Skriften, for Skriften har allerede fortalt, hvad der sker, når Kristus siger, at én ting er en anden. Fem skriftsteder, i rækkefølge.</p>
+                <h2>Ordet beskriver ikke: det gør<br>Joh 1,1-3</h2>
+                <p>Før man diskuterer, hvad der kan ske med brødet, må man vide, hvad et Guds ord er.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Joh 1,1-3</span>
+                    <blockquote>«I begyndelsen var <strong class="s-hi">Ordet</strong>, og Ordet var hos Gud, og <strong class="s-hi">Ordet var Gud</strong>. Han var i begyndelsen hos Gud. <strong class="s-hi">Alt blev til ved ham</strong>, og uden ham blev intet til af det, som er.»</blockquote>
+                </div>
+                <p>Guds ord beskriver ikke virkeligheden: det forårsager den. Intet af det, der findes, fandtes, før Ordet sagde det, og alt, hvad der findes, findes, fordi Ordet sagde det. Det er udgangspunktet, og det er ikke et lille et: at spørge, hvordan brød kan ophøre med at være brød, er med andre ord at spørge, hvordan intet kunne ophøre med at være intet. Det er allerede sket én gang. Det skete af samme grund.</p>
+                <h2>Kana: vandet forandredes, da de adlød ham<br>Joh 2,6-9</h2>
+                <p>Der findes ét tilfælde, hvor dette Ord handler for øjnene af vidner og på et konkret stof.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Joh 2,6-9</span>
+                    <blockquote>«Der stod seks vandkar af sten til jødernes renselse, hvert på to eller tre spande. Jesus sagde til dem: <strong class="s-hi">"Fyld karrene med vand."</strong> Og de fyldte dem til randen. Så sagde han: "Øs nu op og bring det til skafferen." <strong class="s-hi">Og de bragte det.</strong> Da skafferen smagte <strong class="s-hi">vandet, der var blevet til vin</strong>, og han ikke vidste, hvor den kom fra —<strong class="s-hi">men det vidste de tjenere, som havde øst vandet op</strong>—, kaldte skafferen på brudgommen.»</blockquote>
+                </div>
+                <p>Det er værd at se, hvor miraklet ligger. Jesus rører ikke ved vandet. Han gør intet tegn over karrene og udtaler ingen formel over dem. Han giver en befaling —"fyld", "øs op"— og nogle tjenere udfører den. Mellem den adlydte befaling og skafferens bæger ophørte vandet med at være vand. Det, der forandrede stoffet, var et ord, der blev adlydt.</p>
+                <p>Og evangelisten standser op for at notere en enkelthed, som ofte overses: skafferen vidste ikke, hvor den vin kom fra, og det gjorde tjenerne. De, der havde gjort, hvad Kristus befalede, var de eneste, der vidste, hvad der lige var sket. De øvrige drak miraklet uden at opdage, at de drak det. Ved messen sker nøjagtig det samme, og af samme grund.</p>
+                <h2>Den samme mund, den samme vending<br>Joh 6,47-51</h2>
+                <p>Han, der befalede at fylde karrene, siger senere dette:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Joh 6,47-51</span>
+                    <blockquote>«<strong class="s-hi">Sandelig, sandelig siger jeg jer:</strong> Den, der tror, har evigt liv. <strong class="s-hi">Jeg er livets brød.</strong> Jeres fædre spiste manna i ørkenen og døde. Dette er brødet, der kommer ned fra himlen, så den, der spiser af det, ikke skal dø. Jeg er det levende brød, der kom ned fra himlen. Hvis nogen spiser af dette brød, skal han leve til evig tid. Og <strong class="s-hi">det brød, jeg vil give, er mit kød</strong>, som gives for verdens liv.»</blockquote>
+                </div>
+                <p>"Sandelig, sandelig siger jeg jer" er den vending, hvormed Kristus indleder det, der ikke tåler diskussion, og det, der følger, er ikke en sammenligning, men en identifikation: "jeg er", ikke "jeg forestiller". Hvis hint ord forvandlede vand til vin, uden at nogen så øjeblikket, kræver dette ord ikke mindre. Det er den samme mund og den samme slags ord.</p>
+                <p>Den fulde behandling af Johannes 6 —indvendingen om metaforen, disciplene, der går bort, og Jesus, som ikke holder dem tilbage med en præcisering— findes i emnet <a href="tema-la-eucaristia.html">Eukaristien</a>.</p>
+                <h2>Paulus siger ikke symbol: han siger fællesskab<br>1 Kor 10,16</h2>
+                <p>Paulus skriver, før Johannesevangeliet bliver til, og han når til det samme sted ad sin egen vej.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Kor 10,16</span>
+                    <blockquote>«Velsignelsens kalk, som vi velsigner, er den ikke <strong class="s-hi">fællesskab med Kristi blod</strong>? Brødet, som vi bryder, er det ikke <strong class="s-hi">fællesskab med Kristi legeme</strong>?»</blockquote>
+                </div>
+                <p>Der er tre ord, Paulus ikke bruger: symbol, gengivelse, erindring. Det, han bruger, er <em>koinonia</em> —virkelig delagtighed, effektiv kontakt, at have del i noget—. Man har ikke del i en metafor. Og læg mærke til, hvad han nævner til sidst i hvert spørgsmål: han siger ikke, at kalken er fællesskab med vinen, eller brødet med brødet. Han siger Kristi blod og Kristi legeme.</p>
+                <h2>Jeg har modtaget fra Herren — og derfor er der døde<br>1 Kor 11,23-30</h2>
+                <p>Det afgørende sted er det følgende, og det bør læses helt, før det kommenteres.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Kor 11,23-30</span>
+                    <blockquote>«For jeg har <strong class="s-hi">modtaget fra Herren, hvad jeg også har overleveret jer</strong>: at Herren Jesus i den nat, da han blev forrådt, tog et brød, takkede, brød det og sagde: <strong class="s-hi">"Dette er mit legeme</strong>, som gives for jer; gør dette til ihukommelse af mig." Ligeså tog han også bægeret efter måltidet og sagde: "Dette bæger er den nye pagt ved mit blod. Gør dette, hver gang I drikker det, til ihukommelse af mig." For hver gang I spiser dette brød og drikker bægeret, forkynder I Herrens død, <strong class="s-hi">indtil han kommer</strong>. Derfor: den, som spiser Herrens brød eller drikker hans bæger på uværdig vis, <strong class="s-hi">forsynder sig mod Herrens legeme og blod</strong>. Enhver skal prøve sig selv og så spise af brødet og drikke af bægeret. For den, som spiser og drikker <strong class="s-hi">uden at agte på legemet</strong>, spiser og drikker sig selv en dom til. Derfor er der mange svage og syge iblandt jer, og <strong class="s-hi">ikke få er sovet hen</strong>.»</blockquote>
+                </div>
+                <p>Han begynder dér, hvor kritikerne helst ikke ville begynde: "jeg har modtaget fra Herren, hvad jeg også har overleveret jer". Det er traditionens ordforråd — det overleverede og modtagne fra hånd til hånd. Netop den Paulus, man citerer imod Traditionen, hviler Eukaristiens ritus på den, og han gør det i det ældste brev, vi har om emnet.</p>
+                <p>Så følger "indtil han kommer". Ikke én gang, ikke to, ikke kun hin nat: hver gang, altid, indtil enden. Havde det drejet sig om en lejlighedsvis mindehøjtid, havde Paulus haft alle ord til at sige det. Han siger netop det modsatte.</p>
+                <p>Og han slutter dér, hvor den symbolske læsning ikke har mere plads. Den, der spiser uværdigt, forsynder sig ikke mod brødet eller vinen: han <em>forsynder sig mod Herrens legeme og blod</em>, skyldig i en forbrydelse mod en person. At spise uden at agte på legemet giver ham ikke en irettesættelse: det giver ham en dom. Og Paulus siger, hvilken dom han taler om, med navne på ting, man kan se: svage, syge, døde. Ingen bliver syg af at vanære en metafor. Ingen dør af at behandle et minde dårligt. Hvis der i Korinth var syge og døde, fordi de spiste dette brød uden at agte på, hvad det var, så var dette brød ikke brød.</p>
                 <ul>
-                    <li>Kristi virkelige, levende tilstedeværelse i Eukaristien.</li>
-                    <li>En sakramental handling, der går ud over det symbolske plan.</li>
-                    <li>En kilde til enhed og nåde for Kirken.</li>
+                    <li>Guds ord beskriver ikke: det gør. Alt, hvad der findes, findes, fordi Ordet sagde det.</li>
+                    <li>I Kana forvandlede dette ord ét stof til et andet, uden synligt tegn, så snart det blev adlydt.</li>
+                    <li>De, der adlød, vidste, hvad der var sket; de, der blot så på, vidste det ikke.</li>
+                    <li>Paulus siger hverken symbol eller erindring: han siger fællesskab med Kristi blod og legeme.</li>
+                    <li>At spise uværdigt gør skyldig mod legemet og blodet —ikke mod brødet—, og i Korinth kostede det sygdom og liv.</li>
                 </ul>
-                <h2>Troens liv</h2>
-                <p>At anerkende dette mysterium styrker den eukaristiske fromhed og tilskynder de kristne til at modtage kommunionen med ærefrygt og indre forberedelse.</p>`,
+                <h2>Konklusion</h2>
+                <p>Transsubstantiation er navnet på dette: brødets og vinens substans ophører med at være, hvad de var, og bliver Kristi Legeme og Blod, mens alt det, sanserne kan nå —udseendet, smagen, vægten—, forbliver. Det er ikke en teori, føjet til Skriften for at dække over et ubekvemt mysterium: det er den nøjagtige beskrivelse af det, Skriften fortæller i Kana, og af det, Paulus forudsætter i Korinth. Miraklet består ikke i, at fremtoningerne forandres. Det består i, at det, tingen er, forandres, fordi Kristus sagde det.</p>
+                <p>Ét spørgsmål står tilbage, og det handler ikke om brødet: det handler om, hvem der taler. Hvis han, der siger "dette er mit legeme", er den, ved hvem alt blev til, er der intet at diskutere; der er noget at tro. Derfor afgøres dette emne ikke med argumenter fra kemien eller fra græsk filosofi, men på emnet <a href="tema-por-que-creemos.html">Hvorfor vi tror</a>s grund. Er hans ord Guds ord, gør det, hvad det siger. Det har det altid gjort.</p>`,
       nav: {
         prevTitle: "Eukaristien: det centrale sakramente",
         nextTitle: "Helgenerne og deres forbøn"

@@ -52,4 +52,4 @@ Si tras verificar en BJL la palabra clave del argumento cambia de forma o desapa
 | la-nueva-ley | TODO — citas sin referencia completa |
 | la-primacia-de-pedro | TODO — citas sin referencia completa |
 | la-santisima-trinidad | TODO — citas sin referencia completa |
-| transubstanciacion | TODO — sin citas bíblicas aún |
+| transubstanciacion | TODO en las 5 citas (Jn 1, Jn 2, Jn 6, 1 Co 10, 1 Co 11) |

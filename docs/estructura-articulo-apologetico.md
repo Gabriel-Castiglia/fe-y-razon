@@ -76,6 +76,6 @@ Cuando falta una sección obligatoria:
 | la-nueva-ley | Esqueleto | Faltan crítica común, citas, conclusión |
 | la-primacia-de-pedro | Esqueleto | Faltan crítica común, citas, conclusión |
 | la-santisima-trinidad | Esqueleto | Faltan crítica común, citas, conclusión |
-| transubstanciacion | Esqueleto | Faltan crítica común, citas, conclusión |
+| transubstanciacion | Completo | Redactado 27-ago-2026 y traducido a los 12 idiomas |
 | recursos-recomendados | No apologético | No aplica estructura |
 | sobre-este-sitio | No apologético | No aplica estructura |

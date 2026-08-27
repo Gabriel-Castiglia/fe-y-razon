@@ -32,7 +32,7 @@ const translationsFR = {
     category: "Sacrements", date: "Mai 2026", title: "L'Eucharistie", excerpt: "Le sacrement central de l'Église catholique et sa signification dans la vie chrétienne.", time: "13 min de lecture", link: "Lire →"
   },
   article4: {
-    category: "Doctrine", date: "Bientôt", title: "Transsubstantiation", excerpt: "Le changement substantiel du pain et du vin en Corps et Sang du Christ pendant la Messe.", time: "9 min de lecture", link: "Lire →"
+    category: "Doctrine", date: "Août 2026", title: "Transsubstantiation", excerpt: "Le changement substantiel du pain et du vin en Corps et Sang du Christ pendant la Messe.", time: "14 min de lecture", link: "Lire →"
   },
   article5: {
     category: "Doctrine", date: "Mai 2026", title: "Les saints", excerpt: "L'importance des saints dans l'Église catholique et leur intercession pour nous.", time: "12 min de lecture", link: "Lire →"
@@ -282,8 +282,68 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
     },
     "transubstanciacion": {
       pageTitle: "Transsubstantiation | Foi et Raison",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>Transsubstantiation : le mystère eucharistique</h1><p>Explorez comment l'Église catholique comprend le miracle de l'Eucharistie et la transformation réelle du pain et du vin en Corps et Sang du Christ.</p><div class="article-meta"><span>9 min de lecture</span><span>Publié en mai 2026</span></div><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
-      article: `<p>La transsubstantiation est l'enseignement qui affirme que, suite à la consécration lors de la Messe, les substances du pain et du vin deviennent le Corps et le Sang du Christ, bien que les apparences physiques demeurent.</p><h2>Signification théologique</h2><p>Ce dogme souligne que l'Eucharistie n'est pas seulement un symbole. Le Christ devient une nourriture réelle pour notre âme, maintenant sa présence vivante et véritable parmi les fidèles.</p><blockquote>"Voici le Corps du Christ, reçu pour le salut et la vie éternelle."</blockquote><h2>Tradition apostolique</h2><p>L'Église enseigne cette vérité en suivant l'interprétation des paroles de Jésus : "Ceci est mon corps" et "Ceci est mon sang". La tradition apostolique soutient une lecture littérale et sacrée.</p><ul><li>Présence réelle et vivante du Christ dans l'Eucharistie.</li><li>Un acte sacramentel qui dépasse le plan symbolique.</li><li>Une source d'unité et de grâce pour l'Église.</li></ul><h2>Vie de foi</h2><p>Accepter ce mystère fortifie la dévotion eucharistique et encourage les chrétiens à recevoir la communion avec révérence et préparation intérieure.</p>`,
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Thème Spécial</span>
+            </div>
+            <h1>Transsubstantiation : le mystère eucharistique</h1>
+            <p>Si sa parole a fait le monde et changé l'eau en vin, que se passe-t-il lorsqu'il dit « ceci est mon corps » ? Cinq passages, dans l'ordre.</p>
+            <div class="article-meta">
+                <span>14 min de lecture</span>
+                <span>Publié en août 2026</span>
+            </div>
+            <a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+      article: `<p>Devant l'Eucharistie, l'objection change de forme, non de fond. Témoins de Jéhovah, adventistes, pentecôtistes, mormons et protestants en général répètent l'une de ces deux phrases : <em>« Le pain reste du pain : il a l'aspect du pain et le goût du pain. »</em> et <em>« La transsubstantiation est un mot inventé, de la philosophie grecque ; cela n'est pas dans la Bible. »</em></p>
+                <p>La seconde se règle en une ligne : les mots « Trinité » et « Bible » n'y sont pas davantage, et personne ne conteste ce qu'ils désignent. Un mot ne crée pas le fait : il le nomme. La première est celle qui compte, et elle ne se règle pas avec de la philosophie mais avec l'Écriture, car l'Écriture a déjà raconté ce qui arrive lorsque le Christ dit qu'une chose est une autre. Cinq passages, dans l'ordre.</p>
+                <h2>La Parole ne décrit pas : elle fait<br>Jean 1, 1-3</h2>
+                <p>Avant de discuter de ce qui peut arriver au pain, il faut savoir ce qu'est une parole de Dieu.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Jean 1, 1-3</span>
+                    <blockquote>«Au commencement était <strong class="s-hi">le Verbe</strong>, et le Verbe était avec Dieu, et <strong class="s-hi">le Verbe était Dieu</strong>. Il était au commencement avec Dieu. <strong class="s-hi">Tout fut par lui</strong>, et sans lui rien ne fut de ce qui est.»</blockquote>
+                </div>
+                <p>La Parole de Dieu ne décrit pas la réalité : elle la cause. Rien de ce qui existe n'existait avant qu'elle ne le dise, et tout ce qui existe existe parce qu'elle l'a dit. Voilà le point de départ, et il n'est pas mince : demander comment le pain peut cesser d'être du pain, c'est demander, en d'autres termes, comment le néant a pu cesser d'être le néant. Cela s'est déjà produit une fois. Cela s'est produit pour la même raison.</p>
+                <h2>Cana : l'eau a changé quand ils lui ont obéi<br>Jean 2, 6-9</h2>
+                <p>Il y a un cas où cette Parole agit devant témoins et sur une substance concrète.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Jean 2, 6-9</span>
+                    <blockquote>«Or il y avait là six jarres de pierre, destinées aux purifications des Juifs, contenant chacune deux ou trois mesures. Jésus leur dit : <strong class="s-hi">« Remplissez d'eau ces jarres. »</strong> Ils les remplirent jusqu'au bord. Il leur dit : « Puisez maintenant et portez-en au maître du repas. » <strong class="s-hi">Ils lui en portèrent.</strong> Lorsque le maître du repas eut goûté <strong class="s-hi">l'eau devenue vin</strong> — et il ne savait pas d'où il venait, tandis que <strong class="s-hi">les serviteurs qui avaient puisé l'eau le savaient</strong> —, le maître du repas appelle le marié.»</blockquote>
+                </div>
+                <p>Il vaut la peine de regarder où se trouve le miracle. Jésus ne touche pas l'eau. Il ne fait aucun geste sur les jarres et ne prononce sur elles aucune formule. Il donne un ordre — « remplissez », « puisez » — et des serviteurs l'exécutent. Entre l'ordre accompli et la coupe du maître du repas, l'eau a cessé d'être de l'eau. Ce qui a changé la substance, c'est une parole à laquelle on a obéi.</p>
+                <p>Et l'évangéliste s'arrête pour noter un détail que l'on passe d'ordinaire sous silence : le maître du repas ne savait pas d'où venait ce vin, et les serviteurs le savaient. Ceux qui avaient fait ce que le Christ ordonnait étaient les seuls à savoir ce qui venait d'arriver. Les autres ont bu le miracle sans s'apercevoir qu'ils le buvaient. À la Messe, il se passe exactement la même chose, et pour la même raison.</p>
+                <h2>La même bouche, la même formule<br>Jean 6, 47-51</h2>
+                <p>Celui qui a ordonné de remplir les jarres dit ensuite ceci :</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Jean 6, 47-51</span>
+                    <blockquote>«<strong class="s-hi">En vérité, en vérité, je vous le dis</strong>, celui qui croit a la vie éternelle. <strong class="s-hi">Je suis le pain de vie.</strong> Vos pères ont mangé la manne dans le désert et ils sont morts. Voici le pain qui descend du ciel, afin que celui qui en mange ne meure point. Je suis le pain vivant qui est descendu du ciel. Si quelqu'un mange de ce pain, il vivra éternellement ; et le pain que je donnerai, c'est <strong class="s-hi">ma chair</strong>, pour la vie du monde.»</blockquote>
+                </div>
+                <p>« En vérité, en vérité, je vous le dis » est la formule par laquelle le Christ introduit ce qui n'admet pas de discussion, et ce qui suit n'est pas une comparaison mais une identification : « je suis », non « je représente ». Si cette parole-là a changé l'eau en vin sans que personne n'en voie l'instant, celle-ci n'exige pas moins. C'est la même bouche et la même sorte de parole.</p>
+                <p>Le développement complet de Jean 6 — l'objection de la métaphore, les disciples qui s'en vont et le Jésus qui ne les retient pas par une précision — se trouve dans le thème <a href="tema-la-eucaristia.html">L'Eucharistie</a>.</p>
+                <h2>Paul ne dit pas symbole : il dit communion<br>1 Corinthiens 10, 16</h2>
+                <p>Paul écrit avant que l'Évangile de Jean ne soit rédigé, et il parvient au même point par son propre chemin.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Corinthiens 10, 16</span>
+                    <blockquote>«La coupe de bénédiction que nous bénissons, n'est-elle pas <strong class="s-hi">communion au sang du Christ</strong> ? Le pain que nous rompons, n'est-il pas <strong class="s-hi">communion au corps du Christ</strong> ?»</blockquote>
+                </div>
+                <p>Il y a trois mots dont Paul ne se sert pas : symbole, représentation, souvenir. Celui dont il se sert est <em>koinônia</em> — participation réelle, contact effectif, avoir part à quelque chose. On n'a pas part à une métaphore. Et il faut regarder ce qu'il nomme à la fin de chaque question : il ne dit pas que la coupe est communion au vin, ni le pain au pain. Il dit le sang du Christ et le corps du Christ.</p>
+                <h2>J'ai reçu du Seigneur — et c'est pourquoi il y a des morts<br>1 Corinthiens 11, 23-30</h2>
+                <p>Le passage décisif est celui qui suit, et il convient de le lire en entier avant de le commenter.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Corinthiens 11, 23-30</span>
+                    <blockquote>«Car <strong class="s-hi">j'ai reçu du Seigneur ce que je vous ai transmis</strong> : le Seigneur Jésus, la nuit où il était livré, prit du pain et, après avoir rendu grâce, le rompit et dit : <strong class="s-hi">« Ceci est mon corps</strong>, qui est pour vous ; faites cela en mémoire de moi. » De même pour la coupe, après le repas, en disant : « Cette coupe est la nouvelle Alliance en mon sang ; toutes les fois que vous en boirez, faites cela en mémoire de moi. » Chaque fois en effet que vous mangez ce pain et que vous buvez cette coupe, vous annoncez la mort du Seigneur, <strong class="s-hi">jusqu'à ce qu'il vienne</strong>. Ainsi donc, quiconque mange le pain ou boit la coupe du Seigneur indignement <strong class="s-hi">aura à répondre du corps et du sang du Seigneur</strong>. Que chacun donc s'éprouve soi-même, et qu'il mange alors de ce pain et boive de cette coupe. Qui mange et boit <strong class="s-hi">sans discerner le Corps</strong>, mange et boit sa propre condamnation. Voilà pourquoi il y a parmi vous beaucoup de malades et d'infirmes, et que <strong class="s-hi">bon nombre sont morts</strong>.»</blockquote>
+                </div>
+                <p>Il commence là où les critiques préféreraient ne pas commencer : « j'ai reçu du Seigneur ce que je vous ai transmis ». C'est le vocabulaire de la tradition, ce que l'on transmet et reçoit de main en main. Ce même Paul que l'on cite contre la Tradition fonde sur elle le rite de l'Eucharistie, et il le fait dans la plus ancienne lettre que nous ayons sur le sujet.</p>
+                <p>Vient ensuite « jusqu'à ce qu'il vienne ». Ni une fois, ni deux, ni seulement cette nuit-là : chaque fois, toujours, jusqu'à la fin. S'il s'agissait d'une commémoration occasionnelle, Paul avait tous les mots pour le dire. Il dit exactement le contraire.</p>
+                <p>Et il finit là où la lecture symbolique n'a plus d'issue. Celui qui mange indignement n'a pas à répondre du pain ni du vin : il <em>a à répondre du corps et du sang du Seigneur</em>, coupable d'un crime contre une personne. Manger sans discerner le Corps ne lui vaut pas un reproche : cela lui vaut une condamnation. Et Paul dit de quelle condamnation il parle, avec des noms de choses qui se voient : des malades, des infirmes, des morts. Personne ne tombe malade pour avoir manqué de respect à une métaphore. Personne ne meurt pour avoir mal traité un souvenir. Si à Corinthe il y eut des malades et des morts pour avoir mangé ce pain sans discerner ce qu'il était, ce pain n'était pas du pain.</p>
+                <ul>
+                    <li>La Parole de Dieu ne décrit pas : elle fait. Tout ce qui existe existe parce qu'elle l'a dit.</li>
+                    <li>À Cana, cette parole a changé une substance en une autre, sans geste visible, dès qu'on lui a obéi.</li>
+                    <li>Ceux qui ont obéi ont su ce qui s'était passé ; ceux qui se contentaient de regarder, non.</li>
+                    <li>Paul ne dit ni symbole ni souvenir : il dit communion au sang et au corps du Christ.</li>
+                    <li>Manger indignement rend coupable envers le corps et le sang — non envers le pain —, et à Corinthe cela a coûté des maladies et des vies.</li>
+                </ul>
+                <h2>Conclusion</h2>
+                <p>Transsubstantiation est le nom de cela : la substance du pain et celle du vin cessent d'être ce qu'elles étaient et deviennent le Corps et le Sang du Christ, tandis que demeure tout ce que les sens atteignent — l'aspect, le goût, le poids. Ce n'est pas une théorie ajoutée à l'Écriture pour couvrir un mystère gênant : c'est la description exacte de ce que l'Écriture raconte à Cana et de ce que Paul tient pour acquis à Corinthe. Le miracle ne consiste pas en ce que les apparences changent. Il consiste en ce que change ce que la chose est, parce que le Christ l'a dit.</p>
+                <p>Il reste une seule question, et elle ne porte pas sur le pain : elle porte sur celui qui parle. Si celui qui dit « ceci est mon corps » est celui par qui tout a été fait, il n'y a rien à discuter ; il y a quelque chose à croire. C'est pourquoi ce thème ne se tranche pas avec des arguments de chimie ou de philosophie grecque, mais sur le terrain du thème <a href="tema-por-que-creemos.html">Pourquoi nous croyons ?</a> Si sa parole est parole de Dieu, elle fait ce qu'elle dit. Elle l'a toujours fait.</p>`,
       nav: { prevTitle: "L'Eucharistie : le sacrement central", nextTitle: "Les saints et leur intercession" }
     },
     "recursos-recomendados": {
