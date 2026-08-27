@@ -118,7 +118,7 @@ se refieren a Cristo.
 | **la-eucaristia** | ✅ 7 citas, todas `vaticano`, cotejadas (27-ago-2026) |
 | **por-que-creemos** | ✅ 10 citas cotejadas (27-ago-2026): 8 `vaticano`, 2 `bj` (Mt 16:18 y 1 Tim 3:15) |
 | **sacerdocio** | ✅ 8 citas cotejadas (27-ago-2026) |
-| los-santos | ⚠️ Plantilla canónica, sin cotejar y **sin marcas de fuente** |
+| **los-santos** | ✅ 7 citas cotejadas (27-ago-2026): 6 `vaticano`, 1 `bj` (Ap 5:8, por el «incienso» que ata con Malaquías 1:11 en sacerdocio). Traía **dos «vosotros»** heredados de la cita, ya corregidos |
 | el-purgatorio | Esqueleto — sin citas bíblicas aún |
 | la-nueva-ley | Esqueleto — citas sin referencia completa |
 | la-primacia-de-pedro | Esqueleto — citas sin referencia completa |

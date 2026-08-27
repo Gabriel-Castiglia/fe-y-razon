@@ -14,7 +14,7 @@ import re, io, os, sys
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 JS   = os.path.join(AQUI, "..", "js", "translations-es.js")
-PUBLICADOS = ["transubstanciacion", "la-eucaristia", "por-que-creemos", "sacerdocio"]
+PUBLICADOS = ["transubstanciacion", "la-eucaristia", "por-que-creemos", "sacerdocio", "los-santos"]
 
 # (nombre del rasgo, patrón, ejemplo de lo que sí queremos)
 RASGOS = [
@@ -31,6 +31,21 @@ RASGOS = [
      r"\b(?:nuestra fe|nuestras almas|nos libera|nos salva|debemos|tenemos que)\b",
      "tercera persona: «la fe no reposa en…»"),
 ]
+
+# Rasgos que la voz de referencia SÍ tiene. Su ausencia no es un error de
+# sintaxis: es un artículo que se quedó tibio.
+COMBATE = [
+    ("nombra a los grupos", r"\b(?:Testigos de Jehov|adventist|pentecostal|mormon|protestant)"),
+    ("cita la objeción textual", r"<em>«[^»]{15,}»</em>"),
+    # Patrón amplio a propósito: un falso negativo aquí haría creer que un
+    # artículo no argumenta desde el texto cuando sí lo hace.
+    ("responde en el terreno de la Escritura",
+     r"\b(?:la Escritura|la Biblia|el texto|el versículo|el evangelista|el autor|Pablo|Pedro|Juan|Lucas|Jesús)\s+(?:\w+\s+){0,2}(?:dice|no dice|responde|escribe|anota|afirma|confirma|enseña|lo dice|se detiene|nombra|usa|ordena|lo ve)\b"),
+]
+
+# ⛔ Español neutro: el "vosotros" cuenta INCLUSO dentro de las citas, porque
+# ahí es donde se cuela (la Biblia de Jerusalén peninsular lo trae).
+VOSOTROS = r"\b(?:vosotros|os habéis|os hab|pensad|creed|mirad|habéis|vuestra|vuestro|vuestros|vuestras|sois|tenéis|podéis|sabéis|estáis|debéis)\b"
 
 def articulo(slug):
     js = io.open(JS, encoding="utf-8").read()
@@ -51,7 +66,24 @@ def prosa(art):
 # imperativo pero no lo es. ⛔ Un falso positivo se arregla ampliando ESTA
 # lista, nunca recortando el patrón (que dejaría pasar los casos reales).
 BLANCA = ["el que sigue", "que sigue,", "sigue «", "continúa siendo",
-          "quien no lee", "no lee la palabra"]
+          "quien no lee", "no lee la palabra",
+          # tercera persona de «ver» y «seguir», que coinciden con el imperativo
+          "no se ve", "se ve a dios", "lo ve en visión", "alma sigue",
+          # «hay que leer» dicho del texto que se está comentando, no de la Biblia
+          "hay que leer el verbo", "hay que leer el texto", "hay que leer la cita"]
+
+def vosotros(slug):
+    """Busca formas de vosotros en TODO el artículo, citas incluidas."""
+    art = articulo(slug)
+    t = re.sub(r"(?s)<!--.*?-->", " ", art)
+    t = re.sub(r"<[^>]+>", " ", t)
+    t = re.sub(r"\s+", " ", t)
+    return [(m.group(0), t[max(0, m.start()-40):m.end()+40].strip())
+            for m in re.finditer(VOSOTROS, t, re.I)]
+
+def combate(slug):
+    t = prosa(articulo(slug)) if False else re.sub(r"\s+", " ", re.sub(r"(?s)<!--.*?-->", " ", articulo(slug)))
+    return {nombre: bool(re.search(patron, t, re.I)) for nombre, patron in COMBATE}
 
 def medir(slug):
     t = prosa(articulo(slug))
@@ -84,7 +116,10 @@ def autotest():
     assert re.search(RASGOS[0][1], "Ve al tema de la Eucaristía", re.I), "canario"
     assert any(b in "el pasaje decisivo es el que sigue, y conviene" for b in BLANCA), \
         "autotest: la lista blanca no cubre el caso que la motivó"
-    print("AUTOTEST: OK (4 canarios positivos, voz de referencia limpia, blockquote recortado, lista blanca)")
+    assert re.search(VOSOTROS, "Sino que os habéis acercado al monte Sión", re.I), "canario de vosotros"
+    assert not re.search(VOSOTROS, "Ustedes, en cambio, se han acercado a la montaña de Sión", re.I), \
+        "falso positivo de vosotros en una frase en ustedes"
+    print("AUTOTEST: OK (4 canarios positivos, voz de referencia limpia, blockquote recortado, lista blanca, vosotros)")
 
 if __name__ == "__main__":
     autotest()
@@ -101,6 +136,21 @@ if __name__ == "__main__":
         resumen = ", ".join("%s:%d" % (k.split(" (")[0], len(v)) for k, v in h.items() if v) or "—"
         print("%-22s %7d  %d  (%s)" % (slug, pal, n, resumen))
     print("\nTOTAL de rasgos a limar: %d" % total)
+
+    print("\n%-22s %s" % ("artículo", "voz combativa: nombra / cita la objeción / responde con el texto"))
+    for slug in slugs:
+        c = combate(slug)
+        print("%-22s %s" % (slug, "  ".join(("✓" if v else "✗") + " " + k for k, v in c.items())))
+
+    print("\n%-22s %s" % ("artículo", "formas de «vosotros» (⛔ deben ser 0, también en las citas)"))
+    hay = 0
+    for slug in slugs:
+        v = vosotros(slug)
+        hay += len(v)
+        print("%-22s %d" % (slug, len(v)))
+        for w, ctx in v:
+            print("      · %-12s …%s…" % (w, ctx))
+    print("\nTOTAL de «vosotros»: %d" % hay)
     for slug, h in detalle.items():
         casos = [(k, v) for k, v in h.items() if v]
         if casos:

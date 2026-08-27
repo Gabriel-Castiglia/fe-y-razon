@@ -58,12 +58,34 @@ Se usan para consolidar los puntos demostrados, generalmente antes de la Conclus
 
 ---
 
-## La voz: expone y demuestra, no exhorta
+## La voz: combativa con la objeción, nunca con el lector
 
-La referencia es `transubstanciacion`. El artículo **muestra** el texto y deja
-que el lector saque la consecuencia; no le da instrucciones. Medidor:
-`docs/tono.py`, con autotest y lista blanca (las citas no cuentan: dentro de un
-`<blockquote>` el imperativo es de la Escritura).
+La referencia es `transubstanciacion`. El artículo **pelea** —contra el argumento
+del adversario, al que nombra y cita— y **no le da órdenes a quien lee**. Esas dos
+cosas van juntas: la fuerza sale de la demostración, no de la arenga. Medidor:
+`docs/tono.py`, con autotest y lista blanca (las citas no cuentan para los rasgos
+de voz: dentro de un `<blockquote>` el imperativo es de la Escritura).
+
+### Lo que la voz SÍ tiene (el medidor lo verifica en cada artículo)
+
+1. **Nombra a los grupos**, no habla de «algunos»: Testigos de Jehová,
+   adventistas, pentecostales, mormones, protestantes, evangélicos, bautistas.
+2. **Cita la objeción con sus palabras exactas**, en cursiva y entre comillas:
+   *«El pan sigue siendo pan: se ve pan y sabe a pan.»* Se transcribe como la
+   dicen ellos, no una versión debilitada.
+3. **Responde en el terreno de la Escritura**, no en el de la filosofía: «no se
+   responde con filosofía sino con la Escritura, porque la Escritura ya contó
+   lo que ocurre cuando...».
+4. **Despacha rápido el argumento flojo** y se queda con el que importa: «La
+   segunda se responde en una línea... La primera es la que importa».
+5. **Cierra cada tramo con un golpe corto**, después de la evidencia y no antes:
+   «Ya ocurrió una vez. Ocurrió por lo mismo.» · «aquel pan no era pan.» ·
+   «Nadie está rodeado por quienes no están.»
+6. **Devuelve la carga de la prueba** al final: «Quien dice que los muertos no
+   pueden escuchar tiene que explicar antes por qué el cielo guarda las
+   oraciones en copas de oro.»
+
+### Lo que la voz NO tiene
 
 | En vez de | Va |
 |---|---|
@@ -73,7 +95,21 @@ que el lector saque la consecuencia; no le da instrucciones. Medidor:
 | «hay que hacer lo que Dios dice» | «la fe consiste en hacer lo que Dios dice» |
 | «nuestra fe no reposa en el ministro» | «la fe no reposa en el ministro» |
 
-Los cuatro artículos publicados están en **0 rasgos** (27-ago-2026).
+⛔ **Nada de imperativos al lector, ni tuteo, ni «debemos».** La conclusión la
+saca quien lee; el artículo pone los hechos y el adversario queda sin salida.
+
+### Español neutro — el «vosotros» también cuenta dentro de las citas
+
+Es donde se cuela, porque las ediciones peninsulares lo traen. El 27-ago-2026
+había dos en `los-santos` («os habéis acercado», «Pensad... no os canséis»),
+heredados de la cita. `tono.py` los cuenta en **todo** el artículo, citas
+incluidas, y deben ser **0**.
+
+### Estado (27-ago-2026)
+
+Los **cinco** artículos con contenido —`transubstanciacion`, `la-eucaristia`,
+`por-que-creemos`, `sacerdocio` y `los-santos`— están en **0 rasgos a limar**,
+**0 «vosotros»** y con los tres marcadores de voz combativa en verde.
 
 ## Marcadores de trabajo pendiente
 
@@ -91,7 +127,7 @@ Cuando falta una sección obligatoria:
 
 | Artículo | Estado | Notas |
 |---|---|---|
-| los-santos | **Plantilla canónica** | NO modificar |
+| los-santos | Completo | Citas cotejadas y tono ajustado (27-ago-2026); sigue `provisional` en router.js |
 | la-eucaristia | Completo | Citas cotejadas y tono ajustado (27-ago-2026) |
 | por-que-creemos | Completo | Citas cotejadas y tono ajustado (27-ago-2026) |
 | sacerdocio | Completo | Citas cotejadas, crítica común agregada y tono ajustado (27-ago-2026) |

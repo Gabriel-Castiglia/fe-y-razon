@@ -40,7 +40,8 @@ LIBROS = {
 # erratas tipográficas del sitio del Vaticano, corregidas al publicar
 ERRATAS = {"memora mía": "memoria mía", "su o rigen": "su origen",
            "no profanaran": "no profanarán", "porque son los presentan": "porque son los que presentan",
-           "añadió Reciban": "añadió: Reciban"}  # Jn 20,22: el original abre la cita sin los dos puntos
+           "añadió Reciban": "añadió: Reciban",  # Jn 20,22: el original abre la cita sin los dos puntos
+           "des provistos": "desprovistos"}      # Heb 11,37
 
 def bajar(nombre):
     os.makedirs(CACHE, exist_ok=True)
@@ -97,8 +98,33 @@ def versiculos(pag, cap):
     return t, marcas
 
 def pasaje(ref):
-    """ref: 'Juan 6:47-51' | 'Salmo 119:105' -> texto del Vaticano, sin versiculado."""
-    m = re.match(r"^(.+?)\s+(\d+):(\d+)(?:-(\d+))?$", ref.strip())
+    """ref: 'Juan 6:47-51' | 'Salmo 119:105' | 'Hebreos 11:1 — 12:3'
+    -> texto del Vaticano, sin versiculado."""
+    ref = ref.strip()
+    # Rango que cruza capítulos: se arma encadenando los tramos.
+    m = re.match(r"^(.+?)\s+(\d+):(\d+)\s*[—–-]\s*(\d+):(\d+)$", ref)
+    if m:
+        libro, c1, v1, c2, v2 = m.group(1), int(m.group(2)), int(m.group(3)), int(m.group(4)), int(m.group(5))
+        ind = cargar_indice()
+        nombre = LIBROS.get(libro)
+        if not nombre or nombre not in ind:
+            raise SystemExit("ABORTA: libro sin mapear: %r" % libro)
+        trozos = []
+        for c in range(c1, c2 + 1):
+            pag = ind[nombre].get(str(c))
+            if not pag:
+                raise SystemExit("ABORTA: %s no tiene capítulo %d" % (nombre, c))
+            t, marcas = versiculos(pag, c)
+            desde = v1 if c == c1 else 1
+            hasta = v2 if c == c2 else max(marcas)
+            for v in range(desde, hasta + 1):
+                if v in marcas:
+                    trozos.append(limpio(t[marcas[v][0]:marcas[v][1]]))
+        txt = re.sub(r"\s+", " ", " ".join(x for x in trozos if x)).strip()
+        for a_, b_ in ERRATAS.items():
+            txt = txt.replace(a_, b_)
+        return txt.rstrip(".")
+    m = re.match(r"^(.+?)\s+(\d+):(\d+)(?:-(\d+))?$", ref)
     if not m:
         raise SystemExit("ABORTA: referencia ilegible: %r" % ref)
     libro, cap, v1, v2 = m.group(1), int(m.group(2)), int(m.group(3)), int(m.group(4) or m.group(3))
