@@ -17,6 +17,12 @@ Referencia: artículo "Los santos y su intercesión" (`topicPages["los-santos"]`
 
 ## Reglas de formato
 
+### Botón «Compartir este tema»
+
+No se escribe en el `hero` de los diccionarios: lo inyecta `js/main.js` junto a
+«Volver a Temas», y su texto vive en la clave `share` de cada idioma. No hay
+que tocar nada al crear un tema nuevo.
+
 ### scripture-block (citas bíblicas)
 
 ```html
