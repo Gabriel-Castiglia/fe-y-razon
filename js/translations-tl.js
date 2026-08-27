@@ -358,42 +358,42 @@ const translationsTL = {
                 <span class="eyebrow-text">Espesyal na Paksa</span>
             </div>
             <h1>Ang mga Santo at ang Kanilang Pamamagitan</h1>
-            <p>Binabanggit sila mismo ng Kasulatan: si Abel, Enoc, Noe, Abraham, Moises, ang mga propeta. Talata sa talata, ipapakita natin kung bakit maaaring marinig tayo ng mga santo at makapagdasal para sa atin.</p>
+            <p>Pinangalanan sila mismo ng Kasulatan: Abel, Enoc, Noe, Abraham, Moises, ang mga propeta. Pitong talata, isa-isa, kung bakit naririnig at namamagitan ang mga santo.</p>
             <div class="article-meta">
                 <span>12 minutong pagbabasa</span>
                 <span>Nailathala Mayo 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
-      article: `<p>May isang tutol na paulit-ulit na sinasabi: <em>«Hindi marinig ng mga patay ang iyong mga salita.»</em> Sa unang tingin ay mukhang makatuwiran. Ngunit ibang bagay ang sinasabi ng Kasulatan. Hindi sa isang hiwalay na sipi. Sa pitong magkakaibang talata, mula kay Pablo hanggang sa Apocalipsis. Isa-isahin natin ang mga ito.</p>
+      article: `<p>Ang mga Saksi ni Jehova at mga Adventista ay paulit-ulit na inuulit ang parehong pagtutol: <em>«Hindi ka naririnig ng mga patay»</em>, sapagkat ang kaluluwa —ayon sa kanila— ay natutulog hanggang sa huling paghuhukom. Sa unang tingin ay mukhang makatwiran. Ngunit iba ang sinasabi ng Kasulatan. Hindi sa isang nag-iisang talata: sa pitong magkakaibang talata, mula kay Pablo hanggang sa Pahayag. Isa-isa.</p>
 
-            <h2>Ang kaalaman ay nagiging ganap pagkatapos ng kamatayan</h2>
+            <h2>Nagiging ganap ang kaalaman pagkatapos ng kamatayan<br>1 Corinto 13:9-13</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ 1 Mga Taga-Corinto 13:9-13</span>
                 <blockquote>«Sapagkat <strong class="s-hi">bahagi lamang ang ating kaalaman at bahagi lamang ang ating hula;</strong> ngunit pagdating ng ganap, mawawala ang bahagi. Nang ako'y bata pa, nagsasalita ako tulad ng bata, nag-iisip tulad ng bata, at nagbibigay-katwiran tulad ng bata; ngunit nang ako'y lumaki na, itinakwil ko ang mga bagay na pambata. Sapagkat ngayon, nakikita natin sa pamamagitan ng salamin nang malabo; ngunit sa darating na panahon, makikita natin nang harapan. Ngayon, bahagi lamang ang aking alam; ngunit sa darating na panahon, <strong class="s-hi">malalaman ko nang buo, kung paanong nalalaman na ako ng buo.</strong> Ngunit ngayon ay nananatili ang tatlong ito: ang pananampalataya, pag-asa, at pagmamahal; at ang pinakadakila sa mga ito ay ang pagmamahal.»</blockquote>
             </div>
 
-            <p>Itinuturo ni Pablo na sa buhay na ito ay hindi tayo perpektong nakakakalam. Pagdating ng ganap — na nangyayari sa kamatayan at pagtingin sa Diyos nang harapan — malalaman natin kung paanong kilala tayo ng Diyos: nang ganap, walang tabing, walang hangganan. Kung ganyan ang kaalaman ng mga santo, walang nakatago sa kanila. Makaririnig sila. Mauunawaan nila ang ating mga kahilingan.</p>
+            <p>Itinuturo ni Pablo na sa buhay na ito ay hindi ganap ang kaalaman. Kapag dumating ang ganap —at nangyayari iyon sa kamatayan, sa pagkakita sa Diyos nang mukhaan— makikilala nang tulad ng pagkilala ng Diyos: walang talukbong at walang hangganan. Kung ganito nakakakilala ang mga santo, walang natatago sa kanila. Nakakarinig sila. Nauunawaan nila ang mga panalanging inihahain sa kanila.</p>
 
-            <h2>Pagkatapos ng kamatayan, makikita natin ang Diyos kung sino siya</h2>
+            <h2>Pagkatapos ng kamatayan, makikita natin ang Diyos kung ano siya<br>1 Juan 3:2</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ 1 Juan 3:2</span>
                 <blockquote>«Mga minamahal, tayo ngayon ay mga anak ng Diyos, at hindi pa nahayag kung ano ang ating magiging kalagayan. Ngunit nalalaman natin na pagdating niya, <strong class="s-hi">tayo ay magiging katulad niya, sapagkat makikita natin siya kung ano siya.</strong>»</blockquote>
             </div>
 
-            <p>Kinukumpirma ni Juan ang sinabi ni Pablo. Ngayon, sa buhay na ito, hindi natin nakikita: naniniwala tayo. Pagkatapos ng kamatayan, makikita natin ang Diyos kung sino siya. Nakatawid na ang mga santo sa pintuan na iyon. Nakikita na nila. Kaya hindi sila nasa kadiliman ng tinatawag na «pagtulog ng kaluluwa» na itinuturo ng ilan — nasa buong liwanag sila.</p>
+            <p>Pinagtitibay ni Juan ang sinasabi ni Pablo. Ngayon, sa buhay na ito, hindi nakikita: sinasampalatayanan. Pagkatapos ng kamatayan, nakikita ang Diyos kung ano siya. Natawid na ng mga santo ang hangganang iyon. Nakakakita na sila. At doon bumabagsak ang tinatawag na «pagtulog ng kaluluwa»: wala sila sa anumang kadiliman, nasa buong liwanag sila.</p>
 
-            <h2>Pagkatapos ng kamatayan ay darating ang langit</h2>
+            <h2>Pagkatapos ng kamatayan ay dumarating ang langit<br>Juan 14:1-4</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ Juan 14:1-4</span>
                 <blockquote>«Huwag pabalisa ang inyong puso. Manampalataya kayo sa Diyos; manampalataya rin kayo sa akin. Sa bahay ng aking Ama ay maraming tirahan. Kung hindi ganito, sinabi ko sana sa inyong ito. Pupunta ako upang maghanda ng lugar para sa inyo. At kapag ako'y pumunta at nakapaghanda na ng lugar para sa inyo, babalik ako at iuuwi kayo sa aking sarili, upang kung nasaan ako ay nandoon din kayo. Kilala na ninyo ang daan patungo sa aking pupuntahan.»</blockquote>
             </div>
 
-            <p>Walang pag-aalinlangang iniwan si Jesus: may patutunguhan pagkatapos ng kamatayan, at ang patutungang iyon ay ang pagsama sa kanya. Hindi metapora ang langit — ito ang lugar na pinuntahan ni Jesus upang ihanda para sa atin. At ang mga santong namuhay sa pananampalataya ay nandoon na, kasama siya, sa lugar na pinangako niyang dalhin sila.</p>
+            <p>Walang iniiwang puwang sa pagdududa si Hesus: may patutunguhan pagkatapos ng kamatayan, at ang patutunguhang iyon ay ang makasama siya. Ang langit ay hindi talinghaga: ito ang lugar kung saan nagpunta si Hesus upang maghanda ng puwesto. At ang mga santong nabuhay sa pananampalataya ay naroon na, kasama niya, kung saan niya ipinangakong dadalhin sila.</p>
 
-            <h2>Ang mga santo: ang dakilang hukbo ng mga saksi</h2>
+            <h2>Ang mga santo: ang malaking ulap ng mga saksi<br>Mga Hebreo 11:1 — 12:3</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ Mga Hebreo 11:1 — 12:3</span>
@@ -408,40 +408,40 @@ At ano pa ang aking sasabihin? Mauubos ang aking panahon kung magkukuwento pa ak
 Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</strong> itapon natin ang bawat pasanin at ang kasalanang madaling bumabagabag sa atin, at tumakbo tayo nang may pagtitiis sa takbuhang nakalatag sa ating harapan, na tinitigan si Jesus, ang may akda at tagaganap ng ating pananampalataya; na dahil sa kagalakang nakaatubili sa kanya ay tiniis ang krus, hinamak ang kahihiyan, at umupo sa kanan ng trono ng Diyos. Isipin ninyo kung gaano karaming pagkontra mula sa mga makasalanan ang kaniyang tiniis, <strong class="s-hi">upang hindi kayo mapagod at mawalan ng lakas ng loob.»</strong></blockquote>
             </div>
 
-            <p>Ito ang sagot sa «sino ang mga santo?» Pinangalanan sila ng Kasulatan isa-isa. Hindi imbensyon ng Simbahan. Sila ang mga bayani ng pananampalataya na nabuhay, nagdusa, at namatay na naghahanap ng bayang hindi sa mundong ito: ang bayang makalangit. At sa kanilang halimbawa, inaanyayahan tayo ng may-akda ng Mga Hebreo: «tayo rin». Ang napakalaking hukbong iyon ng mga saksi ay pumapalibot sa atin.</p>
+            <p>Ito ang sagot sa «sino ang mga santo?». Pinangalanan sila ng Kasulatan nang isa-isa. Hindi ito imbensyon ng Simbahan. Sila ang mga nabuhay, nagdusa at namatay na naghahanap ng bayang hindi sa mundong ito, at hindi sila inilagay doon bilang palamuti ng may-akda ng Mga Hebreo: sinasabi niyang pinalilibutan ng ulap na iyon ng mga saksi ang mga tumatakbo pa. Walang pinalilibutan ng mga wala roon.</p>
 
-            <h2>Hindi natutulog ang kaluluwa — si Kristo ay nangangaral sa mga espiritu</h2>
+            <h2>Hindi natutulog ang kaluluwa — nangaral si Kristo sa mga espiritu<br>1 Pedro 3:18-22</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ 1 Pedro 3:18-22</span>
                 <blockquote>«Sapagkat <strong class="s-hi">si Kristo rin ay naghirap minsan para sa mga kasalanan,</strong> ang matuwid para sa mga hindi matuwid, upang dalhin kayo sa Diyos; siya ay pinatay ayon sa laman, <strong class="s-hi">ngunit binuhay ayon sa espiritu; kung saan din ay pumunta siya at nangangaral sa mga espiritung nasa bilangguan,</strong> na minsan ay mga suwail, nang ang pagtitimpi ng Diyos ay naghihintay sa mga araw ni Noe, habang itinatatayo ang daong, kung saan ilang tao, walo sa kabuuan, ay naligtas sa pamamagitan ng tubig. Ang tubig na ito ay katumbas na ngayon ng bautismo na <strong class="s-hi">nagliligtas sa inyo,</strong> hindi bilang pag-aalis ng dumi ng katawan, kundi bilang pakiusap sa Diyos ng isang malinis na konsiyensya, sa pamamagitan ng pagkabuhay na muli ni Jesucristo; siya ay umakyat sa langit at nasa kanan ng Diyos, na pinagsamang nasailalim sa kanya ang mga anghel, mga kapangyarihan, at mga puwersa.»</blockquote>
             </div>
 
-            <p>Dito gumuguho ang argumento ng «pagtulog ng kaluluwa». Pagkatapos mamatay, hindi si Kristo nanatiling walang malay na naghihintay sa huling paghuhukom — pumunta siya upang ipahayag ang mensahe sa mga espiritung nasa bilangguan. Ang kaluluwa ay nananatiling aktibo pagkatapos ng kamatayan ng katawan. Kung ang kaluluwa ni Kristo ay ganoon, ganoon din ang kaluluwa ng mga santo. Ang kamatayan ay pambatang lamang.</p>
+            <p>Dito bumabagsak ang argumento ng «pagtulog ng kaluluwa», at bumabagsak sa pinakamasakit na bahagi. Si Kristo, pagkamatay, ay hindi nanatiling walang malay na naghihintay sa huling paghuhukom: nagpunta siya upang ipahayag ang kanyang mensahe sa mga espiritung nakabilanggo. Ang isang pahayag ay nangangailangan ng nagsasalita at ng nakikinig, at pareho silang patay. Ang kaluluwa ay nananatiling aktibo pagkatapos ng kamatayan ng katawan. Kung ganoon ang kay Kristo, ganoon din ang sa mga santo.</p>
 
-            <h2>Ang mga santo ay nasa makalangit na Jerusalem</h2>
+            <h2>Nasa makalangit na Jerusalem ang mga santo<br>Mga Hebreo 12:22-24</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ Mga Hebreo 12:22-24</span>
                 <blockquote>«Kundi kayo ay nakarating sa bundok ng Sion, <strong class="s-hi">sa lungsod ng buhay na Diyos, ang makalangit na Jerusalem,</strong> sa libu-libong mga anghel, sa maligayang pagdiriwang, sa pangkat ng mga panganay na nakatalang sa langit, sa Diyos na hukom ng lahat, <strong class="s-hi">sa mga espiritu ng mga matatuwid na ginawang ganap,</strong> at kay Jesus na tagapamagitan ng isang bagong tipan, at sa pag-aasperges ng dugo na nagsasalita ng mas maganda kaysa sa dugo ni Abel.»</blockquote>
             </div>
 
-            <p>Ang mga yumaong santo ay hindi naglalayag sa anumang limbo na naghihintay sa paghuhukom. Sila ay nasa «lungsod ng buhay na Diyos». At ang kanilang kalagayan ay hindi katulad ng mga nabubuhay: sila ay mga espiritung «ginawang ganap». Ganap. Malapit sa Diyos. Walang hadlang. Walang distansya.</p>
+            <p>Ang mga santong pumanaw ay hindi lumulutang sa anumang limbo na naghihintay ng paghuhukom. Nasa «lungsod ng Diyos na buhay» sila. At dapat basahin ang pandiwa: ang mga buhay ay <em>lumapit na</em> sa kanila, sa perpektong panahunan, hindi sa isang pangako sa hinaharap. Sila ay mga espiritu ng mga matuwid na nakarating na sa kaganapan. Ganap. Malapit sa Diyos. Walang harang at walang layo.</p>
 
-            <h2>Dinadala ng mga santo ang ating mga panalangin sa harap ng trono</h2>
+            <h2>Dinadala ng mga santo ang mga panalangin sa harap ng trono<br>Pahayag 5:8</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ Apocalipsis 5:8</span>
                 <blockquote>«At nang kunin niya ito, ang apat na nilalang na may buhay at ang dalawampu't apat na matatanda ay nagpatirapa sa harap ng Kordero; bawat isa sa kanila ay may hawak na alpa at <strong class="s-hi">gintong mangkok na puno ng kamangyan, na siyang mga panalangin ng mga banal.</strong>»</blockquote>
             </div>
 
-            <p>Nakikita ito ni Juan sa pangitain: sa langit, sa harap ng Kordero, ang mga makalangit na nilalang ay nagdadala ng mga mangkok ng kamangyan sa harap ng trono na <em>siyang</em> mga panalangin ng mga banal. Ang mga panalangin ng mga mananampalataya sa lupa ay umaabot sa altar ng langit sa pamamagitan ng mga tagapamagitan na naroon. Hindi lamang nakikinig ang mga santo — nagtatanghal sila.</p>
+            <p>Nakita ito ni Juan sa pangitain: sa langit, sa harap ng Kordero, dinadala ng mga makalangit na nilalang sa harap ng trono ang mga kopita ng insenso na <em>siyang</em> mga panalangin ng mga santo. Ang mga panalangin ng mga tapat sa lupa ay umaabot sa dambana ng langit sa pamamagitan ng mga naroroon. Hindi lamang nakikinig ang mga santo: naghahain sila.</p>
 
             <h2>Konklusyon</h2>
 
-            <p>Ang mga santo ay yaong namuhay sa pananampalataya — tulad nina Abel, Enoc, Noe, Abraham, Moises, ang mga propeta — yaong pagkatapos ng kamatayan ay nasa lungsod ng buhay na Diyos, ang makalangit na Jerusalem. Doon sila nakaaalam nang ganap, kung paanong kilala sila ng Diyos noong nabubuhay pa sila. Doon nakikita nila ang Diyos kung sino siya. Doon ay walang limitasyon at walang distansya.</p>
+            <p>Ang mga santo ay ang mga nabuhay sa pananampalataya —Abel, Enoc, Noe, Abraham, Moises, ang mga propeta—, ang mga pagkatapos ng kamatayan ay nasa lungsod ng Diyos na buhay, ang makalangit na Jerusalem. Doon ay nakakakilala sila gaya ng pagkilala sa kanila ng Diyos. Doon ay nakikita nila ang Diyos kung ano siya. Doon ay walang hangganan ni layo.</p>
 
-            <p>At ang ginagawa ng Simbahan sa pag-anyaya sa kanila ay eksakto ang ipinapakita ng Apocalipsis: dinadala nila ang ating mga panalangin sa makalangit na altar, inihaharap ang mga ito sa harap ng trono ng Kordero. Hindi natin sinasamba ang mga santo. Hinihiling natin sa kanila na mamagitan para sa atin sa harap ng Diyos, tulad ng hinihiling natin sa sinumang kapatid na manalangin para sa atin. Ang pagkakaiba ay nandoon sila sa langit at nakaaalam gaya ng pagkaalam ng Diyos sa atin: ganap. Kaya nakikita nila tayo, naririnig tayo, at nagtataglay ng pamamagitan para sa atin.</p>`,
+            <p>At ang ginagawa ng Simbahan sa pagtawag sa kanila ay eksaktong ipinapakita ng Pahayag: dinadala nila sa dambana ng langit ang mga panalangin ng mga tapat at inihaharap ang mga ito sa trono ng Kordero. Hindi sinasamba ang mga santo. Hinihiling sa kanila na mamagitan sa Diyos, gaya ng paghiling sa isang buhay na kapatid na ipanalangin tayo. Ang tanging pagkakaiba ay pabor sa kanila: nasa langit sila at nakakakilala gaya ng pagkilala ng Diyos. Kaya nakikita nila, naririnig nila at namamagitan sila. Ang nagsasabing hindi nakakarinig ang mga patay ay kailangan munang ipaliwanag kung bakit iniingatan ng langit ang mga panalangin sa mga kopitang ginto.</p>`,
       nav: {
         prevTitle: "Transubstansiasyon: ang Misteryo ng Eukaristiya",
         nextTitle: "Ang Banal na Santatlo"

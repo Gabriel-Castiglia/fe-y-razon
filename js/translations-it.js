@@ -35,7 +35,7 @@ const translationsIT = {
     category: "Dottrina", date: "Agosto 2026", title: "Transustanziazione", excerpt: "Il cambiamento sostanziale del pane e del vino nel Corpo e Sangue di Cristo durante la Messa.", time: "14 min di lettura", link: "Leggi →"
   },
   article5: {
-    category: "Dottrina", date: "Prossimamente", title: "I santi", excerpt: "L'importanza dei santi nella Chiesa cattolica e la loro intercessione per noi.", time: "7 min di lettura", link: "Leggi →"
+    category: "Dottrina", date: "Agosto 2026", title: "I santi", excerpt: "L'importanza dei santi nella Chiesa cattolica e la loro intercessione per noi.", time: "12 min di lettura", link: "Leggi →"
   },
   article6: {
     category: "Dottrina", date: "Prossimamente", title: "La Santissima Trinità", excerpt: "Comprendere il mistero centrale della fede cattolica attraverso la teologia e la ragione.", time: "10 min di lettura", link: "Leggi →"
@@ -133,8 +133,77 @@ const translationsIT = {
     },
     "los-santos": {
       pageTitle: "I santi | Fede e Ragione",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>I santi e la loro intercessione</h1><p>Una guida chiara sul ruolo dei santi nella vita cattolica e come il loro esempio ci spinge a una fede più profonda.</p><div class="article-meta"><span>7 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
-      article: `<p>I santi sono membri della Chiesa che hanno vissuto la vita cristiana con eroismo. La devozione ai santi nasce dal riconoscimento della loro unione con Cristo e dalle loro preghiere a favore degli altri.</p><h2>Esempio di santità</h2><p>Loro ci mostrano come vivere il Vangelo in situazioni reali: in famiglia, nel lavoro e nel servizio. La loro vita è un modello che ispira fiducia e speranza.</p><blockquote>"I santi sono la memoria viva della Chiesa e la testimonianza della fedeltà di Dio."</blockquote><h2>Intercessione</h2><p>La preghiera ai santi non è adorazione, ma richiesta della loro intercessione presso Dio. La Chiesa chiede che i fedeli preghino gli uni per gli altri, compresi coloro che già riposano nel Signore.</p><ul><li>I santi ci accompagnano con il loro esempio e la loro preghiera.</li><li>Sono fratelli nella comunione dei santi.</li><li>La loro vita mostra che la santità è una chiamata universale.</li></ul><h2>Vita cristiana</h2><p>Confidare nell'intercessione dei santi non indebolisce la nostra relazione con Cristo; la rafforza. Ci ricorda che la Chiesa è un solo corpo vivo che trascende il tempo.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>I santi e la loro intercessione</h1><p>La Scrittura stessa li nomina: Abele, Enoc, Noè, Abramo, Mosè, i profeti. Sette passi, uno per uno, sul perché i santi ascoltano e intercedono.</p><div class="article-meta"><span>7 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
+      article: `<p>Testimoni di Geova e avventisti ripetono la stessa obiezione senza stancarsi: <em>«I morti non possono ascoltarti»</em>, perché l'anima —dicono— dorme fino al giudizio finale. A prima vista suona ragionevole. Ma la Scrittura dice altro. Non in una citazione isolata: in sette passi distinti, da Paolo all'Apocalisse. Uno per uno.</p>
+
+            <h2>La conoscenza si perfeziona dopo la morte<br>1 Corinzi 13:9-13</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Corinzi 13:9-13</span>
+                <blockquote>«Poiché <strong class="s-hi">la nostra conoscenza è imperfetta</strong> e imperfetta è la nostra profezia. Ma quando verrà ciò che è perfetto, quello che è imperfetto scomparirà. Quand'ero bambino, parlavo da bambino, pensavo da bambino, ragionavo da bambino; divenuto uomo, ho smesso le cose da bambino. Ora vediamo come in uno specchio, in modo confuso; ma allora vedremo faccia a faccia. Ora conosco in modo imperfetto, ma allora <strong class="s-hi">conoscerò come anch'io sono conosciuto.</strong> Ora dunque rimangono queste tre cose: la fede, la speranza e la carità; ma la più grande di tutte è la carità.»</blockquote>
+            </div>
+
+            <p>Paolo insegna che in questa vita la conoscenza è imperfetta. Quando giungerà ciò che è perfetto —e questo accade morendo e vedendo Dio faccia a faccia— si conoscerà come Dio conosce: senza velo e senza limite. Se i santi conoscono così, nulla è loro nascosto. Possono ascoltare. Possono comprendere le suppliche che vengono loro rivolte.</p>
+
+            <h2>Dopo la morte, vedremo Dio così com'è<br>1 Giovanni 3:2</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Giovanni 3:2</span>
+                <blockquote>«Carissimi, noi fin d'ora siamo figli di Dio, ma ciò che saremo non è stato ancora rivelato. Sappiamo però che quando egli si sarà manifestato, <strong class="s-hi">noi saremo simili a lui, perché lo vedremo così come egli è.</strong>»</blockquote>
+            </div>
+
+            <p>Giovanni conferma ciò che dice Paolo. Ora, in questa vita, non si vede: si crede. Dopo la morte, si vede Dio così com'è. I santi hanno già varcato quella soglia. Già vedono. Ed è lì che crolla il cosiddetto «sonno dell'anima»: non sono in nessuna oscurità, sono nella luce piena.</p>
+
+            <h2>Dopo la morte viene il cielo<br>Giovanni 14:1-4</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Giovanni 14:1-4</span>
+                <blockquote>«Non sia turbato il vostro cuore. Abbiate fede in Dio e abbiate fede anche in me. <strong class="s-hi">Nella casa del Padre mio vi sono molti posti</strong>; se no, ve l'avrei detto. Io vado a prepararvi un posto; quando sarò andato e vi avrò preparato un posto, <strong class="s-hi">ritornerò e vi prenderò con me, perché siate anche voi dove sono io.</strong> E del luogo dove io vado, voi conoscete la via.»</blockquote>
+            </div>
+
+            <p>Gesù non lascia spazio a dubbi: c'è una destinazione dopo la morte, e quella destinazione è stare con lui. Il cielo non è una metafora: è il luogo dove Gesù è andato a preparare un posto. E i santi che vissero nella fede sono già là, con lui, dove egli promise di condurli.</p>
+
+            <h2>I santi: la grande nube di testimoni<br>Ebrei 11:1 — 12:3</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Ebrei 11:1 — 12:3</span>
+                <blockquote>«<strong class="s-hi">La fede è fondamento delle cose che si sperano e prova di quelle che non si vedono. Per mezzo di questa fede gli antichi ricevettero buona testimonianza.</strong><br><br>Per fede, <strong class="s-name">Abele</strong> offrì a Dio un sacrificio migliore di quello di Caino e in base ad essa fu dichiarato giusto; e per essa, benché morto, parla ancora. Per fede, <strong class="s-name">Enoc</strong> fu portato via, in modo da non vedere la morte. Per fede, <strong class="s-name">Noè</strong> costruì un'arca a salvezza della sua famiglia. Per fede, <strong class="s-name">Abramo</strong> obbedì partendo per un luogo che doveva ricevere in eredità, e partì senza sapere dove andava. Per fede anche <strong class="s-name">Sara</strong> ricevette la possibilità di diventare madre.<br><br>Nella fede morirono tutti costoro, senza aver conseguito i beni promessi, ma avendoli veduti e salutati solo da lontano, dichiarando di essere stranieri e pellegrini sulla terra. <strong class="s-hi">Essi aspiravano a una patria migliore, cioè a quella celeste.</strong><br><br>Per fede, <strong class="s-name">Mosè</strong>, divenuto adulto, rifiutò di esser chiamato figlio della figlia del faraone, preferendo essere maltrattato con il popolo di Dio. E che dirò ancora? Mi mancherebbe il tempo, se volessi narrare di <strong class="s-name">Gedeone, Barak, Sansone, Iefte, Davide, Samuele e dei profeti,</strong> i quali per fede conquistarono regni, esercitarono la giustizia, ottennero le promesse, chiusero le fauci dei leoni. Eppure, tutti costoro, pur avendo ricevuto per la loro fede una buona testimonianza, non conseguirono la promessa: Dio aveva in vista qualcosa di meglio per noi, perché essi non ottenessero la perfezione senza di noi.<br><br>Anche noi dunque, <strong class="s-hi">circondati da un così gran nugolo di testimoni,</strong> deposto tutto ciò che è di peso e il peccato che ci assedia, <strong class="s-hi">corriamo con perseveranza nella corsa che ci sta davanti,</strong> tenendo fisso lo sguardo su Gesù, autore e perfezionatore della fede.»</blockquote>
+            </div>
+
+            <p>Questa è la risposta a «chi sono i santi?». La Scrittura li nomina uno per uno. Non è un'invenzione della Chiesa. Sono quelli che vissero, soffrirono e morirono cercando una patria che non è di questo mondo, e l'autore della Lettera agli Ebrei non li mette lì come ornamento: dice che quella nube di testimoni circonda coloro che ancora corrono. Nessuno è circondato da chi non c'è.</p>
+
+            <h2>L'anima non dorme — Cristo predicò agli spiriti<br>1 Pietro 3:18-22</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Pietro 3:18-22</span>
+                <blockquote>«<strong class="s-hi">Cristo è morto</strong> una volta per sempre per i peccati, giusto per gli ingiusti, per ricondurvi a Dio; messo a morte nella carne, ma <strong class="s-hi">reso vivo nello spirito. E nello spirito andò ad annunziare la salvezza anche agli spiriti che attendevano in prigione,</strong> essi che un tempo non avevano creduto, quando Dio, nella sua pazienza, aspettava ai giorni di Noè mentre si fabbricava l'arca, nella quale poche persone, otto in tutto, furono salvate per mezzo dell'acqua. Quest'acqua era figura del battesimo, che <strong class="s-hi">ora salva voi</strong>; esso non è rimozione di sporcizia del corpo, ma invocazione di salvezza rivolta a Dio da parte di una buona coscienza, in virtù della risurrezione di Gesù Cristo, il quale è alla destra di Dio, dopo essere salito al cielo.»</blockquote>
+            </div>
+
+            <p>Qui cade l'argomento del «sonno dell'anima», e cade dove fa più male. Cristo, dopo essere morto, non rimase privo di coscienza ad attendere il giudizio finale: andò a fare il suo annuncio agli spiriti che erano prigionieri. Un annuncio suppone qualcuno che parla e qualcuno che ascolta, ed entrambi erano morti. L'anima resta attiva dopo la morte del corpo. Se lo fu quella di Cristo, lo è anche quella dei santi.</p>
+
+            <h2>I santi sono nella Gerusalemme celeste<br>Ebrei 12:22-24</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Ebrei 12:22-24</span>
+                <blockquote>«Voi vi siete invece accostati al monte di Sion e alla città del Dio vivente, <strong class="s-hi">alla Gerusalemme celeste</strong> e a miriadi di angeli, all'adunanza festosa e all'assemblea dei primogeniti iscritti nei cieli, al Dio giudice di tutti e <strong class="s-hi">agli spiriti dei giusti portati alla perfezione,</strong> al Mediatore della Nuova Alleanza, Gesù, e al sangue dell'aspersione dalla voce più eloquente di quello di Abele.»</blockquote>
+            </div>
+
+            <p>I santi defunti non fluttuano in nessun limbo in attesa del giudizio. Sono nella «città del Dio vivente». E bisogna leggere il verbo: i vivi <em>si sono avvicinati</em> a loro, al perfetto, non in una promessa futura. Sono spiriti di giusti già giunti alla perfezione. Perfetti. Vicino a Dio. Senza barriera e senza distanza.</p>
+
+            <h2>I santi portano le preghiere davanti al trono<br>Apocalisse 5:8</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Apocalisse 5:8</span>
+                <blockquote>«E quando l'ebbe preso, i quattro esseri viventi e i ventiquattro vegliardi si prostrarono davanti all'Agnello, avendo ciascuno un'arpa e <strong class="s-hi">coppe d'oro colme di profumi, che sono le preghiere dei santi.</strong>»</blockquote>
+            </div>
+
+            <p>Giovanni lo vede in visione: in cielo, davanti all'Agnello, gli esseri celesti portano davanti al trono coppe d'incenso che <em>sono</em> le preghiere dei santi. Le preghiere dei fedeli della terra giungono all'altare del cielo attraverso coloro che vi stanno. I santi non si limitano ad ascoltare: presentano.</p>
+
+            <h2>Conclusione</h2>
+
+            <p>I santi sono quelli che vissero nella fede —Abele, Enoc, Noè, Abramo, Mosè, i profeti—, quelli che dopo la morte sono nella città del Dio vivente, la Gerusalemme celeste. Là conoscono come Dio li conosce. Là vedono Dio così com'è. Là non c'è né limite né distanza.</p>
+
+            <p>E ciò che fa la Chiesa invocandoli è esattamente quello che mostra l'Apocalisse: portano all'altare del cielo le preghiere dei fedeli e le presentano davanti al trono dell'Agnello. I santi non si adorano. Si chiede loro di intercedere presso Dio, come si chiede a un fratello vivo di pregare per noi. L'unica differenza gioca a loro favore: sono in cielo e conoscono come Dio conosce. Per questo vedono, ascoltano e intercedono. Chi dice che i morti non possono ascoltare deve prima spiegare perché il cielo custodisce le preghiere in coppe d'oro.</p>`,
       nav: { prevTitle: "Transustanziazione: il mistero eucaristico", nextTitle: "La Santissima Trinità" }
     },
     "por-que-creemos": {

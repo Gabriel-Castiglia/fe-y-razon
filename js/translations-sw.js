@@ -35,7 +35,7 @@ const translationsSW = {
     category: "Mafundisho", date: "Agosti 2026", title: "Transubstansiasyoni", excerpt: "Mabadiliko ya dhati ya mkate na divai kuwa Mwili na Damu ya Kristo wakati wa Misa.", time: "Dakika 14 kusoma", link: "Soma →"
   },
   article5: {
-    category: "Mafundisho", date: "Hivi karibuni", title: "Watakatifu", excerpt: "Umuhimu wa watakatifu katika Kanisa Katoliki na maombezi yao kwa ajili yetu.", time: "Dakika 7 kusoma", link: "Soma →"
+    category: "Mafundisho", date: "Agosti 2026", title: "Watakatifu", excerpt: "Umuhimu wa watakatifu katika Kanisa Katoliki na maombezi yao kwa ajili yetu.", time: "Dakika 12 kusoma", link: "Soma →"
   },
   article6: {
     category: "Mafundisho", date: "Hivi karibuni", title: "Utatu Mtakatifu", excerpt: "Kuelewa fumbo kuu la imani ya Kikatoliki kupitia theolojia na akili.", time: "Dakika 10 kusoma", link: "Soma →"
@@ -133,8 +133,77 @@ const translationsSW = {
     },
     "los-santos": {
       pageTitle: "Watakatifu | Imani na Akili",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Watakatifu na maombezi yao</h1><p>Mwongozo wazi juu ya jukumu la watakatifu katika maisha ya Kikatoliki na jinsi mfano wao unavyotusukuma kuelekea imani yenye kina zaidi.</p><div class="article-meta"><span>Dakika 7 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
-      article: `<p>Watakatifu ni washiriki wa Kanisa ambao wameishi maisha ya Kikristo kwa ushujaa. Ibada kwa watakatifu ilitokana na kutambua muungano wao na Kristo na sala zao kwa ajili ya wengine.</p><h2>Mfano wa utakatifu</h2><p>Wanatuonyesha jinsi ya kuishi Injili katika hali halisi: katika familia, kazini na katika huduma. Maisha yao ni mfano unaovutia uaminifu na matumaini.</p><blockquote>"Watakatifu ni kumbukumbu hai ya Kanisa na ushuhuda wa uaminifu wa Mungu."</blockquote><h2>Maombezi</h2><p>Kusali kwa watakatifu sio ibada ya kuabudu, bali ni kuomba maombezi yao mbele ya Mungu. Kanisa linaomba waumini wasalie, wakiwemo wale ambao tayari wanapumzika katika Bwana.</p><ul><li>Watakatifu hutusindikiza kwa mfano wao na sala yao.</li><li>Ni ndugu katika ushirika wa watakatifu.</li><li>Maisha yao yanaonyesha kuwa utakatifu ni wito kwa wote.</li></ul><h2>Maisha ya Kikristo</h2><p>Kutumaini maombezi ya watakatifu hakudhoofishi uhusiano wetu na Kristo; inaimarisha. Inatukumbusha kuwa Kanisa ni mwili mmoja ulio hai ambao unapita wakati.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Watakatifu na maombezi yao</h1><p>Maandiko yenyewe yanawataja: Abeli, Henoko, Noa, Abrahamu, Musa, manabii. Vifungu saba, kimoja baada ya kingine, kuhusu kwa nini watakatifu husikia na kuombea.</p><div class="article-meta"><span>Dakika 7 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      article: `<p>Mashahidi wa Yehova na Waadventista hurudia pingamizi lile lile bila kuchoka: <em>«Wafu hawawezi kukusikia»</em>, kwa sababu roho —wanasema— hulala hadi hukumu ya mwisho. Kwa mtazamo wa kwanza inaonekana yenye mantiki. Lakini Maandiko yanasema jambo jingine. Si katika nukuu moja iliyotengwa: katika vifungu saba tofauti, kutoka Paulo hadi Ufunuo. Kimoja baada ya kingine.</p>
+
+            <h2>Ujuzi hukamilika baada ya kifo<br>1 Wakorintho 13:9-13</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Wakorintho 13:9-13</span>
+                <blockquote>«Maana <strong class="s-hi">tunafahamu kwa sehemu</strong>, na tunatabiri kwa sehemu; lakini ukijio ule ulio mkamilifu, ule ulio kwa sehemu utabatilika. Nilipokuwa mtoto, nalisema kama mtoto, nalifahamu kama mtoto, nalifikiri kama mtoto; tokea nilipokuwa mtu mzima nimeyabatilisha mambo ya kitoto. Maana wakati wa sasa tunaona kwa kioo kwa jinsi ya fumbo; wakati ule tutaona uso kwa uso; wakati wa sasa nafahamu kwa sehemu; wakati ule nitajua sana kama mimi <strong class="s-hi">nami nilivyojuliwa sana.</strong> Basi sasa inadumu imani, tumaini, upendo, haya matatu; na katika hayo lililo kuu ni upendo.»</blockquote>
+            </div>
+
+            <p>Paulo anafundisha kwamba katika maisha haya ujuzi haujakamilika. Kitakapokuja kilicho kamili —na hilo hutokea wakati wa kufa na kumwona Mungu uso kwa uso— mtu atajua kama Mungu ajuavyo: bila pazia na bila mpaka. Ikiwa watakatifu wanajua hivyo, hakuna kilichofichwa kwao. Wanaweza kusikia. Wanaweza kuelewa maombi yanayoelekezwa kwao.</p>
+
+            <h2>Baada ya kifo, tutamwona Mungu kama alivyo<br>1 Yohane 3:2</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Yohane 3:2</span>
+                <blockquote>«Wapenzi, sasa tu wana wa Mungu, wala haijadhihirika bado tutakavyokuwa; lakini twajua ya kuwa atakapodhihirishwa, <strong class="s-hi">tutafanana naye; kwa maana tutamwona kama alivyo.</strong>»</blockquote>
+            </div>
+
+            <p>Yohane anathibitisha analosema Paulo. Sasa, katika maisha haya, hakuna kuona: kuna kuamini. Baada ya kifo, Mungu huonwa kama alivyo. Watakatifu tayari wamevuka kizingiti hicho. Tayari wanaona. Na hapo ndipo unapoanguka ule «usingizi wa roho»: hawako gizani hata kidogo, wako katika nuru kamili.</p>
+
+            <h2>Baada ya kifo huja mbingu<br>Yohane 14:1-4</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Yohane 14:1-4</span>
+                <blockquote>«Msifadhaike mioyoni mwenu; mnamwamini Mungu, niaminini na mimi. <strong class="s-hi">Nyumbani mwa Baba yangu mna makao mengi</strong>; kama sivyo, ningeliwaambia; maana naenda kuwaandalia mahali. Basi mimi nikienda na kuwaandalia mahali, <strong class="s-hi">nitakuja tena niwakaribishe kwangu; ili nilipo mimi, nanyi mwepo.</strong> Nami niendako mwaijua njia.»</blockquote>
+            </div>
+
+            <p>Yesu haachi nafasi ya shaka: kuna mahali pa kwenda baada ya kifo, na mahali hapo ni kuwa pamoja naye. Mbingu si mfano: ni mahali alipokwenda Yesu kuandaa makao. Na watakatifu walioishi katika imani tayari wako huko, pamoja naye, alipoahidi kuwapeleka.</p>
+
+            <h2>Watakatifu: wingu kubwa la mashahidi<br>Waebrania 11:1 — 12:3</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Waebrania 11:1 — 12:3</span>
+                <blockquote>«<strong class="s-hi">Basi imani ni kuwa na hakika ya mambo yatarajiwayo, ni bayana ya mambo yasiyoonekana. Maana kwa hiyo wazee walishuhudiwa.</strong><br><br>Kwa imani, <strong class="s-name">Abeli</strong> alimtolea Mungu dhabihu iliyo bora kuliko Kaini, akashuhudiwa kuwa ni mwenye haki; na kwa hiyo, ingawa amekufa, angali akinena. Kwa imani, <strong class="s-name">Henoko</strong> alihamishwa asione mauti. Kwa imani, <strong class="s-name">Noa</strong> alitengeneza safina, apate kuokoa nyumba yake. Kwa imani, <strong class="s-name">Abrahamu</strong> alipoitwa alitii, akatoka kwenda mahali pale atakapopapata kuwa urithi; akatoka asijue aendako. Kwa imani, na <strong class="s-name">Sara</strong> mwenyewe alipata uweza wa kuchukua mimba.<br><br>Hawa wote walikufa katika imani, wasijazipokea ahadi, bali wakaziona tokea mbali na kuzishangilia, na kukiri kwamba walikuwa wageni na wasafiri juu ya nchi. <strong class="s-hi">Wanaitamani nchi iliyo bora, yaani, ya mbinguni.</strong><br><br>Kwa imani, <strong class="s-name">Musa</strong> alipokuwa mtu mzima, akakataa kuitwa mwana wa binti Farao; akaona ni afadhali kupata mateso pamoja na watu wa Mungu. Nami niseme nini tena? Maana wakati usingenitosha kuwapa habari za <strong class="s-name">Gideoni, Baraka, Samsoni, Yeftha, Daudi, Samweli na manabii,</strong> ambao kwa imani walishinda milki, walitenda haki, walipata ahadi, walifunga vinywa vya simba. Na watu hawa wote, wakiisha kushuhudiwa kwa sababu ya imani yao, hawakuipokea ile ahadi, kwa kuwa Mungu alikuwa ametangulia kutuwekea sisi kitu kilicho bora, ili wao wasikamilishwe pasipo sisi.<br><br>Basi na sisi pia, <strong class="s-hi">kwa kuwa tunazungukwa na wingu kubwa la mashahidi namna hii,</strong> na tuweke kando kila mzigo mzito, na dhambi ile ituzingayo kwa upesi; <strong class="s-hi">tupige mbio kwa saburi katika yale mashindano yaliyowekwa mbele yetu,</strong> tukimtazama Yesu, mwenye kuanzisha na mwenye kutimiza imani yetu.»</blockquote>
+            </div>
+
+            <p>Hili ndilo jibu la swali «watakatifu ni akina nani?». Maandiko yanawataja mmoja mmoja. Si uvumbuzi wa Kanisa. Ni wale walioishi, wakateseka na kufa wakitafuta nchi isiyo ya ulimwengu huu, na mwandishi wa Waebrania hawaweki pale kama pambo: anasema kwamba wingu hilo la mashahidi linawazunguka wale wanaokimbia bado. Hakuna azungukwaye na wasiokuwapo.</p>
+
+            <h2>Roho hailali — Kristo aliwahubiria roho<br>1 Petro 3:18-22</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Petro 3:18-22</span>
+                <blockquote>«Kwa maana <strong class="s-hi">Kristo naye aliteswa</strong> mara moja kwa ajili ya dhambi, mwenye haki kwa ajili yao wasio haki, ili atulete kwa Mungu; mwili wake akauawa, bali roho yake akahuishwa, <strong class="s-hi">ambayo kwa hiyo aliwaendea roho waliokaa kifungoni, akawahubiri;</strong> watu wasiotii hapo zamani, uvumilivu wa Mungu ulipokuwa ukingoja, siku za Noa, safina ilipokuwa ikitengenezwa; ambamo ndani yake wachache, yaani, watu wanane, waliokolewa kwa maji. Mfano wa mambo hayo ni ubatizo, <strong class="s-hi">unaowaokoa ninyi pia siku hizi</strong>; siyo kuwekea mbali uchafu wa mwili, bali jibu la dhamiri safi mbele za Mungu, kwa kufufuka kwake Yesu Kristo; aliyekwenda zake mbinguni, yuko mkono wa kuume wa Mungu, malaika na enzi na nguvu zikiisha kutiishwa chini yake.»</blockquote>
+            </div>
+
+            <p>Hapa unaanguka hoja ya «usingizi wa roho», na unaanguka pale paumizapo zaidi. Kristo, baada ya kufa, hakubaki bila fahamu akingoja hukumu ya mwisho: alikwenda kuwahubiri roho zilizokuwa kifungoni. Tangazo lahitaji mtu asemaye na mtu asikiaye, nao wote wawili walikuwa wamekufa. Roho huendelea kuwa hai baada ya kifo cha mwili. Ikiwa ya Kristo ilikuwa hivyo, na ya watakatifu pia.</p>
+
+            <h2>Watakatifu wako katika Yerusalemu ya mbinguni<br>Waebrania 12:22-24</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Waebrania 12:22-24</span>
+                <blockquote>«Bali ninyi mmeufikilia mlima Sayuni, na mji wa Mungu aliye hai, <strong class="s-hi">Yerusalemu wa mbinguni</strong>, na majeshi mengi ya malaika, mkutano wa hodhi, na kanisa la wazaliwa wa kwanza walioandikwa mbinguni, na Mungu mwamuzi wa watu wote, na <strong class="s-hi">roho za watu wenye haki waliokamilishwa,</strong> na Yesu mjumbe wa agano jipya, na damu ya kunyunyizwa, inenayo mema kuliko ile ya Habili.»</blockquote>
+            </div>
+
+            <p>Watakatifu waliofariki hawaelei katika mahali popote pa kungoja hukumu. Wako katika «mji wa Mungu aliye hai». Na inafaa kulisoma tendo: walio hai <em>wamekaribia</em> kwao, kwa wakati uliotimia, si kwa ahadi ya baadaye. Ni roho za wenye haki waliokwisha kufikia ukamilifu. Wakamilifu. Karibu na Mungu. Bila kizuizi na bila umbali.</p>
+
+            <h2>Watakatifu hupeleka maombi mbele ya kiti cha enzi<br>Ufunuo 5:8</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Ufunuo 5:8</span>
+                <blockquote>«Hata alipokitwaa kile kitabu, hivyo viumbe vinne vyenye uhai na wale wazee ishirini na wanne wakaanguka mbele za Mwana-Kondoo, kila mmoja wao ana kinubi, na <strong class="s-hi">vitasa vya dhahabu vimejaa manukato, ambayo ni maombi ya watakatifu.</strong>»</blockquote>
+            </div>
+
+            <p>Yohane anaona hilo katika maono: mbinguni, mbele ya Mwana-Kondoo, viumbe vya mbinguni hupeleka mbele ya kiti cha enzi vitasa vya uvumba ambavyo <em>ni</em> maombi ya watakatifu. Maombi ya waamini wa duniani hufika madhabahuni mbinguni kupitia wale waliopo huko. Watakatifu hawasikii tu: wanawasilisha.</p>
+
+            <h2>Hitimisho</h2>
+
+            <p>Watakatifu ni wale walioishi katika imani —Abeli, Henoko, Noa, Abrahamu, Musa, manabii—, wale ambao baada ya kifo wako katika mji wa Mungu aliye hai, Yerusalemu ya mbinguni. Huko wanajua kama Mungu awajuavyo. Huko wanamwona Mungu kama alivyo. Huko hakuna mpaka wala umbali.</p>
+
+            <p>Na alifanyalo Kanisa kwa kuwaomba ni hasa lile lionyeshwalo na Ufunuo: hupeleka madhabahuni mbinguni maombi ya waamini na kuyawasilisha mbele ya kiti cha enzi cha Mwana-Kondoo. Watakatifu hawaabudiwi. Huombwa waombee mbele za Mungu, kama vile aombwavyo ndugu aliye hai kuombea mtu. Tofauti pekee iko upande wao: wako mbinguni na wanajua kama Mungu ajuavyo. Ndiyo maana wanaona, wanasikia na wanaombea. Asemaye kwamba wafu hawawezi kusikia ni lazima kwanza aeleze kwa nini mbingu huhifadhi maombi katika vitasa vya dhahabu.</p>`,
       nav: { prevTitle: "Transubstansiasyoni: fumbo la Ekaristi", nextTitle: "Utatu Mtakatifu" }
     },
     "por-que-creemos": {
