@@ -53,10 +53,10 @@ const translationsLA = {
   },
   article4: {
     category: "Doctrina",
-    date: "Mox veniet",
+    date: "Augusto MMXXVI",
     title: "Transsubstantiatio",
     excerpt: "Mutatio substantialis panis et vini in Corpus et Sanguinem Christi durante Missa.",
-    time: "IX min lectura",
+    time: "XIV min lectura",
     link: "Lege →"
   },
   article5: {
@@ -632,25 +632,63 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
                 <span class="eyebrow-text">Thema Speciale</span>
             </div>
             <h1>Transsubstantiatio: mysterium eucharisticum</h1>
-            <p>Quomodo Ecclesia catholica miraculum Eucharistiae et veram transformationem panis et vini in Corpus et Sanguinem Christi intellegat.</p>
+            <p>Si verbum eius mundum fecit et aquam in vinum convertit, quid fit cum dicit «hoc est corpus meum»? Quinque loci, ordine.</p>
             <div class="article-meta">
-                <span>IX min lectura</span>
-                <span>Editus Maio MMXXVI</span>
+                <span>XIV min lectura</span>
+                <span>Editus Augusto MMXXVI</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Ad Themata reverti</a>`,
-      article: `<p>Transsubstantiatio est doctrina quae affirmat post consecrationem in Missa substantias panis et vini in Corpus et Sanguinem Christi converti, quamvis species physicae maneant.</p>
-                <h2>Significatio theologica</h2>
-                <p>Hoc dogma sublineat Eucharistiam non esse solum symbolum. Christus fit verus cibus animae nostrae, praesentiam suam vivam et veram inter fideles conservans.</p>
-                <blockquote>"Ecce Corpus Christi, ad salutem et vitam aeternam acceptum."</blockquote>
-                <h2>Traditio apostolica</h2>
-                <p>Ecclesia hanc veritatem docet sequens interpretationem verborum Iesu: «Hoc est corpus meum» et «Hic est sanguis meus». Traditio apostolica lecturam litteram et sacram sustinet.</p>
+      article: `<p>Coram Eucharistia obiectio formam mutat, non rem. Testes Iehovae, Adventistae, Pentecostales, Mormones et Protestantes in universum alterutrum repetunt: <em>«Panis adhuc panis est: panis videtur et panem sapit.»</em> et <em>«Transsubstantiatio verbum est excogitatum, philosophia Graeca; in Bibliis non invenitur.»</em></p>
+                <p>Alterum una linea solvitur: neque verba «Trinitas» neque «Biblia» ibi inveniuntur, et nemo id quod significant in dubium vocat. Verbum rem non creat: rem nominat. Prius illud est quod interest, neque philosophia sed Scriptura respondetur, quia Scriptura iam narravit quid fiat cum Christus rem aliam esse dicit. Quinque loci, ordine.</p>
+                <h2>Verbum non describit: facit<br>Io 1, 1-3</h2>
+                <p>Antequam disputetur quid pani accidere possit, sciendum est quid sit verbum Dei.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Io 1, 1-3</span>
+                    <blockquote>«In principio erat <strong class="s-hi">Verbum</strong>, et Verbum erat apud Deum, et <strong class="s-hi">Deus erat Verbum</strong>. Hoc erat in principio apud Deum. <strong class="s-hi">Omnia per ipsum facta sunt</strong>, et sine ipso factum est nihil quod factum est.»</blockquote>
+                </div>
+                <p>Verbum Dei rem non describit: rem efficit. Nihil eorum quae sunt erat antequam Verbum illud diceret, et quidquid est ideo est quia Verbum illud dixit. Hoc est initium, neque parvum: quaerere quomodo panis panis esse desinere possit idem est ac quaerere, aliis verbis, quomodo nihil nihil esse desierit. Semel iam factum est. Eadem de causa factum est.</p>
+                <h2>Cana: aqua mutata est cum ei paruerunt<br>Io 2, 6-9</h2>
+                <p>Est unus casus ubi illud Verbum coram testibus et in re concreta operatur.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Io 2, 6-9</span>
+                    <blockquote>«Erant autem ibi lapideae hydriae sex positae secundum purificationem Iudaeorum, capientes singulae metretas binas vel ternas. Dicit eis Iesus: <strong class="s-hi">«Implete hydrias aqua.»</strong> Et impleverunt eas usque ad summum. Et dicit eis: «Haurite nunc et ferte architriclino.» <strong class="s-hi">Illi autem tulerunt.</strong> Ut autem gustavit architriclinus <strong class="s-hi">aquam vinum factam</strong>, et non sciebat unde esset, <strong class="s-hi">ministri autem sciebant, qui hauserant aquam</strong>, vocat sponsum architriclinus.»</blockquote>
+                </div>
+                <p>Videndum est ubi sit miraculum. Iesus aquam non tangit. Nullum signum super hydrias facit, nullam formulam super eas pronuntiat. Iussum dat —«implete», «haurite»— et ministri illud implent. Inter iussum impletum et poculum architriclini aqua aqua esse desiit. Quod substantiam mutavit, verbum fuit cui paritum est.</p>
+                <p>Et evangelista consistit ut notet quod plerumque praeteritur: architriclinus unde vinum illud esset nesciebat, ministri autem sciebant. Qui fecerant quod Christus iusserat, soli sciebant quid modo accidisset. Ceteri miraculum biberunt neque se illud bibere senserunt. In Missa idem prorsus fit, et eadem de causa.</p>
+                <h2>Idem os, eadem formula<br>Io 6, 47-51</h2>
+                <p>Qui hydrias impleri iussit, postea haec dicit:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Io 6, 47-51</span>
+                    <blockquote>«<strong class="s-hi">Amen amen dico vobis</strong>, qui credit in me habet vitam aeternam. <strong class="s-hi">Ego sum panis vitae.</strong> Patres vestri manducaverunt in deserto manna et mortui sunt. Hic est panis de caelo descendens ut si quis ex ipso manducaverit non moriatur. Ego sum panis vivus qui de caelo descendi. Si quis manducaverit ex hoc pane vivet in aeternum; et <strong class="s-hi">panis quem ego dabo caro mea est</strong> pro mundi vita.»</blockquote>
+                </div>
+                <p>«Amen amen dico vobis» formula est qua Christus praemittit quod disputationem non admittit, et quod sequitur non comparatio est sed identitas: «ego sum», non «ego significo». Si illud verbum aquam in vinum convertit nemine momentum videnti, hoc verbum non minus poscit. Idem os est et idem verbi genus.</p>
+                <p>Plena tractatio capitis sexti Ioannis —obiectio metaphorae, discipuli qui abeunt et Iesus qui eos declaratione non retinet— in themate <a href="tema-la-eucaristia.html">Eucharistia</a> invenitur.</p>
+                <h2>Paulus non dicit symbolum: dicit communicationem<br>1 Cor 10, 16</h2>
+                <p>Paulus scribit antequam Evangelium Ioannis conscribatur, et suo itinere ad eundem locum pervenit.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Cor 10, 16</span>
+                    <blockquote>«Calix benedictionis cui benedicimus nonne <strong class="s-hi">communicatio sanguinis Christi</strong> est? Et panis quem frangimus nonne <strong class="s-hi">participatio corporis Domini</strong> est?»</blockquote>
+                </div>
+                <p>Tria sunt verba quibus Paulus non utitur: symbolum, repraesentatio, memoria. Quo utitur est <em>κοινωνία</em> —communicatio vera, contactus efficax, partem in re habere—. Nemo in metaphora partem habet. Et videndum quid in fine utriusque interrogationis nominet: non dicit calicem communicationem vini esse neque panem panis. Dicit sanguinem Christi et corpus Domini.</p>
+                <h2>Accepi a Domino — et ideo mortui sunt<br>1 Cor 11, 23-30</h2>
+                <p>Locus decretorius sequitur, et totus legendus est antequam explicetur.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Cor 11, 23-30</span>
+                    <blockquote>«Ego enim <strong class="s-hi">accepi a Domino quod et tradidi vobis</strong>, quoniam Dominus Iesus, in qua nocte tradebatur, accepit panem et gratias agens fregit et dixit: <strong class="s-hi">«Hoc est corpus meum</strong>, quod pro vobis est; hoc facite in meam commemorationem.» Similiter et calicem, postquam cenatum est, dicens: «Hic calix novum testamentum est in meo sanguine; hoc facite, quotienscumque bibetis, in meam commemorationem.» Quotienscumque enim manducabitis panem hunc et calicem bibetis, mortem Domini annuntiatis, <strong class="s-hi">donec veniat</strong>. Itaque quicumque manducaverit panem vel biberit calicem Domini indigne, <strong class="s-hi">reus erit corporis et sanguinis Domini</strong>. Probet autem seipsum homo, et sic de pane illo edat et de calice bibat; qui enim manducat et bibit <strong class="s-hi">non diiudicans corpus</strong>, iudicium sibi manducat et bibit. Ideo inter vos multi infirmi et imbecilles et <strong class="s-hi">dormiunt multi</strong>.»</blockquote>
+                </div>
+                <p>Incipit unde critici incipere nollent: «accepi a Domino quod et tradidi vobis». Haec traditionis verba sunt: quod de manu in manum traditur et accipitur. Idem ille Paulus qui contra Traditionem citatur, ritum Eucharistiae in ea fundat, idque in vetustissima quam de hac re habemus epistula.</p>
+                <p>Sequitur «donec veniat». Non semel, non bis, non illa tantum nocte: quotienscumque, semper, usque ad finem. Si de commemoratione interdum facienda ageretur, Paulo omnia verba ad id dicendum suppetebant. Contrarium prorsus dicit.</p>
+                <p>Et desinit ubi lectio symbolica locum non habet. Qui indigne manducat non panis neque vini reus est: <em>reus est corporis et sanguinis Domini</em>, criminis in personam admissi. Manducare non diiudicando corpus non reprehensionem parit sed iudicium. Et Paulus dicit de quo iudicio loquatur, rerum nominibus quae videri possunt: infirmi, imbecilles, mortui. Nemo aegrotat quia metaphoram contumelia affecit. Nemo moritur quia memoriam male tractavit. Si Corinthi infirmi et mortui fuerunt quia panem illum manducaverunt non diiudicantes quid esset, panis ille panis non erat.</p>
                 <ul>
-                    <li>Praesentia realis et viva Christi in Eucharistia.</li>
-                    <li>Actus sacramentalis qui planum symbolicum superat.</li>
-                    <li>Fons unitatis et gratiae pro Ecclesia.</li>
+                    <li>Verbum Dei non describit: facit. Quidquid est ideo est quia Verbum illud dixit.</li>
+                    <li>In Cana verbum illud unam substantiam in aliam mutavit, nullo signo visibili, statim ac ei paritum est.</li>
+                    <li>Qui paruerunt sciverunt quid factum esset; qui tantum spectabant, nescierunt.</li>
+                    <li>Paulus neque symbolum neque memoriam dicit: dicit communicationem sanguinis et corporis Christi.</li>
+                    <li>Qui indigne manducat reus fit corporis et sanguinis —non panis—, et Corinthi id morbos et mortes constitit.</li>
                 </ul>
-                <h2>Vita fidei</h2>
-                <p>Hoc mysterium acceptare devotionem eucharisticam corroborat et christianos incitat ut communionem cum reverentia et praeparatione interiori accipiant.</p>`,
+                <h2>Conclusio</h2>
+                <p>Transsubstantiatio huius rei nomen est: substantia panis et vini id esse desinit quod erat et fit Corpus et Sanguis Christi, manentibus omnibus quae sensus attingunt —species, sapor, pondus—. Non est theoria Scripturae addita ut mysterium molestum tegeretur: est accurata descriptio eorum quae Scriptura in Cana narrat et quae Paulus Corinthi pro concessis habet. Miraculum non in speciebus mutandis consistit. In eo consistit quod res id esse desinit quod erat, quia Christus dixit.</p>
+                <p>Una quaestio manet, neque de pane est: de eo est qui loquitur. Si is qui dicit «hoc est corpus meum» ille est per quem omnia facta sunt, nihil est de quo disputetur; est quod credatur. Ideo hoc thema non chemiae neque philosophiae Graecae argumentis diiudicatur, sed in campo thematis <a href="tema-por-que-creemos.html">Cur credimus</a>. Si verbum eius verbum Dei est, facit quod dicit. Semper fecit.</p>`,
       nav: {
         prevTitle: "Eucharistia: Sacramentum centrale",
         nextTitle: "Sancti et eorum intercessio"

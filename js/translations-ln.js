@@ -32,7 +32,7 @@ const translationsLN = {
     category: "Basakramentu", date: "Sanza ya mitano 2026", title: "Eukarisiti", excerpt: "Sakramentu ya ntina ya Eklezia Katolike mpe ndimbola na yango na bomoi ya mokristo.", time: "Min 13 botangi", link: "Tanga →"
   },
   article4: {
-    category: "Mateya", date: "Ekoya", title: "Transsubstantiation", excerpt: "Mbongwana ya monene ya limpa mpe vinyo na Nzoto mpe Makila ya Klisto na ntango ya Misa.", time: "Min 9 botangi", link: "Tanga →"
+    category: "Mateya", date: "Sanza ya mwambe 2026", title: "Transsubstantiation", excerpt: "Mbongwana ya monene ya limpa mpe vinyo na Nzoto mpe Makila ya Klisto na ntango ya Misa.", time: "Min 14 botangi", link: "Tanga →"
   },
   article5: {
     category: "Mateya", date: "Ekoya", title: "Basantu", excerpt: "Ntina ya basantu na Eklezia Katolike mpe libondeli na bango mpona biso.", time: "Min 7 botangi", link: "Tanga →"
@@ -205,8 +205,68 @@ const translationsLN = {
     },
     "transubstanciacion": {
       pageTitle: "Transsubstantiation | Kondima mpe Mayele",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Liséki Monene</span></div><h1>Transsubstantiation: sekele ya eukarisiti</h1><p>Gundua jinsi Kanisa Katoliki linavyoelewa muujiza wa Ekaristi na mabadiliko halisi ya mkate na divai kuwa Mwili na Damu ya Kristo.</p><div class="article-meta"><span>Min 9 botangi</span><span>Ebimisami na Sanza ya mitano 2026</span></div><a href="index.html#temas" class="btn-outline-white">Zonga na Mitó ya makambo</a>`,
-      article: `<p>Transsubstantiation ezali mateya oyo elobaka ete, sima ya kozwa pambweli na Misa, esengo ya limpa mpe vinyo ekomaka Nzoto mpe Makila ya Klisto, atako elilingi ya libanda etikalaka.</p><h2>Ndimbola ya teoloji</h2><p>Mateya oyo e betaka nsete ete Eukarisiti ezali kaka elembo te. Klisto a komaka bilei ya solo mpona molimo na biso, kobatela présence na ye ya bomoi mpe ya solo na kati ya bandimi.</p><blockquote>"Tala Nzoto ya Klisto, ezwami mpona lobiko mpe bomoi ya seko."</blockquote><h2>Tradition apostolique</h2><p>Eklezia eteyaka bosolo oyo na kolanda ndimbola ya maloba ya Yesu: "Oyo ezali nzoto na ngai" mpe "Oyo ezali makila na ngai". Tradition apostolique e sungaka botangi ya solo mpe ya bulɛɛ.</p><ul><li>Présence ya solo mpe ya bomoi ya Klisto na Eukarisiti.</li><li>Mosala ya sakramentu oyo eleki etando ya elembo.</li><li>Liziya ya bomoko mpe ngolu mpona Eklezia.</li></ul><h2>Bomoi ya kondima</h2><p>Kondima sekele oyo epesaka makasi na bolingo ya Eukarisiti mpe elendisaka bakristo ba zwa communion na limemya mpe bolengeli ya kati.</p>`,
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Liséki Monene</span>
+            </div>
+            <h1>Transsubstantiation: sekele ya eukarisiti</h1>
+            <p>Soki liloba na ye esalaki mokili mpe ebongolaki mai vinyo, nini ekosalema tango alobi «oyo ezali nzoto na ngai»? Bavɛrsɛ mitano, na molɔngɔ.</p>
+            <div class="article-meta">
+                <span>Min 14 botangi</span>
+                <span>Ebimisami na sanza ya mwambe 2026</span>
+            </div>
+            <a href="index.html#temas" class="btn-outline-white">Zonga na Mitó ya makambo</a>`,
+      article: `<p>Liboso ya Eukarisiti, kotɛmɛla ebongolaka lolenge kasi ebongolaka ntina te. Batatoli ya Yehova, Baadventiste, Bapantekote, Bamormon mpe Baprotestanti na mobimba bazongelaka moko ya maloba oyo mibale: <em>«Limpa ezali kaka limpa: emonanaka lokola limpa mpe ezali elɛngi ya limpa.»</em> mpe <em>«Transsubstantiation ezali liloba oyo bato basalaki, filozofi ya Bagreki; ezali na Biblia te.»</em></p>
+                <p>Ya mibale eyanolami na molɔngɔ moko: maloba «Trinité» mpe «Biblia» mpe ezali na Biblia te, mpe moto moko te atɛmɛli oyo yango elakisi. Liloba esalaka likambo te: epesaka yango nkombo. Ya liboso nde ezali na ntina, mpe eyanolami na filozofi te kasi na Makomi, mpo Makomi esilaki koyebisa nini esalemaka tango Klisto alobi ete eloko moko ezali eloko mosusu. Bavɛrsɛ mitano, na molɔngɔ.</p>
+                <h2>Liloba elimbolaka te: esalaka<br>Yoane 1:1-3</h2>
+                <p>Liboso ya kotuna nini ekoki kokomela limpa, esengeli koyeba liloba ya Nzambe ezali nini.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Yoane 1:1-3</span>
+                    <blockquote>«Na ebandeli <strong class="s-hi">Liloba</strong> azalaki, mpe Liloba azalaki elongo na Nzambe, mpe <strong class="s-hi">Liloba azalaki Nzambe</strong>. Ye azalaki na ebandeli elongo na Nzambe. <strong class="s-hi">Biloko nyonso esalemaki na nzela na ye</strong>, mpe soki ye te, eloko moko te esalemaki kati na oyo esalemaki.»</blockquote>
+                </div>
+                <p>Liloba ya Nzambe elimbolaka bomoi te: ebimisaka yango. Eloko moko te oyo ezali ezalaki liboso ete Liloba eloba yango, mpe nyonso oyo ezali, ezali mpo Liloba elobaki yango. Wana nde ebandeli, mpe ezali ebandeli ya moke te: kotuna ndenge nini limpa ekoki kotika kozala limpa ezali kotuna, na maloba mosusu, ndenge nini eloko moko te etikaki kozala eloko moko te. Yango esilaki kosalema mbala moko. Esalemaki mpo na ntina se moko.</p>
+                <h2>Kana: mai ebongwanaki tango batosaki ye<br>Yoane 2:6-9</h2>
+                <p>Ezali na likambo moko epai wapi Liloba yango esalaka liboso ya batatoli mpe likolo ya eloko ya solo.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Yoane 2:6-9</span>
+                    <blockquote>«Bambeki motoba ya mabanga ezalaki kuna, oyo etiamaki mpo na komipetola ya Bayuda, mbeki moko na moko ezalaki kokota bameseleti mibale to misato. Yesu alobaki na bango: <strong class="s-hi">«Botondisa bambeki na mai.»</strong> Mpe batondisaki yango kino na monoko. Alobaki na bango: «Botoka sikoyo mpe bomema epai ya mokambi ya feti.» <strong class="s-hi">Mpe bamemaki.</strong> Tango mokambi ya feti amekaki <strong class="s-hi">mai oyo ekomaki vinyo</strong>, mpe ayebaki te esika ewutaki —<strong class="s-hi">kasi basali oyo batokaki mai bayebaki</strong>—, mokambi ya feti abengaki mobali ya libala.»</blockquote>
+                </div>
+                <p>Esengeli kotala esika likamwisi ezali. Yesu asimbi mai te. Asali elembo moko te likolo ya bambeki mpe alobi maloba ya sekele moko te likolo na yango. Apesi mitindo —«botondisa», «botoka»— mpe basali batosi yango. Kati ya mitindo oyo etosami mpe kopo ya mokambi ya feti, mai etikaki kozala mai. Oyo ebongolaki eloko yango ezalaki liloba oyo batosaki.</p>
+                <p>Mpe mokomi ya Evanzile atɛlɛmi mpo na kokoma likambo moko oyo mingi baleki likolo na yango: mokambi ya feti ayebaki te esika vinyo yango ewutaki, kasi basali bayebaki. Bato oyo basalaki oyo Klisto atindaki bango, bango kaka nde bayebaki nini euti kosalema. Bamosusu bamelaki likamwisi kasi bayebaki te ete bazali komela yango. Na Misa esalemaka ndenge moko kaka, mpe mpo na ntina se moko.</p>
+                <h2>Monoko se moko, maloba se moko<br>Yoane 6:47-51</h2>
+                <p>Ye oyo atindaki batondisa bambeki, na nsima alobi boye:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Yoane 6:47-51</span>
+                    <blockquote>«<strong class="s-hi">Ya solo, ya solo nazali koloba na bino</strong>, moto oyo andimaka azali na bomoi ya seko. <strong class="s-hi">Ngai nazali limpa ya bomoi.</strong> Batata na bino baliaki manna na esobe mpe bakufaki. Oyo ezali limpa oyo euti na lola, mpo moto nionso oyo akolia yango akufa te. Ngai nazali limpa ya bomoi oyo euti na lola. Soki moto alei limpa oyo, akobika libela na libela; mpe <strong class="s-hi">limpa oyo ngai nakopesa ezali nzoto na ngai</strong> mpona bomoi ya mokili.»</blockquote>
+                </div>
+                <p>«Ya solo, ya solo nazali koloba na bino» ezali maloba oyo Klisto abandaka na yango likambo oyo ekoki kotiama na ntembe te, mpe oyo elandi ezali komekisa te kasi kolakisa ete ezali eloko moko: «ngai nazali», kasi «ngai nazali elilingi ya» te. Soki liloba wana ebongolaki mai vinyo mpe moto moko te amonaki ngonga yango, liloba oyo esengeli na moke te. Ezali monoko se moko mpe lolenge se moko ya liloba.</p>
+                <p>Limbisi mobimba ya Yoane 6 —kotɛmɛla ete ezali kaka elembo, bayekoli oyo bakei mpe Yesu oyo apekisi bango te na limbisi moko— ezali na liséki <a href="tema-la-eucaristia.html">Eukarisiti</a>.</p>
+                <h2>Paulo alobi elembo te: alobi bomoko<br>1 Bakorinti 10:16</h2>
+                <p>Paulo akomaki liboso ete Evanzile ya Yoane ekomama, mpe akomi na esika se moko na nzela na ye moko.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Bakorinti 10:16</span>
+                    <blockquote>«Kopo ya lipamboli oyo topambolaka, ezali <strong class="s-hi">bomoko ya makila ya Klisto</strong> te? Limpa oyo tokabolaka, ezali <strong class="s-hi">bomoko ya nzoto ya Klisto</strong> te?»</blockquote>
+                </div>
+                <p>Ezali na maloba misato oyo Paulo asaleli te: elembo, elilingi, bokundoli. Oyo asaleli ezali <em>koinonia</em> —kozala na eteni ya solo, kokutana ya solo, kozala na ndambo na eloko moko—. Moto akoki kozala na ndambo na elembo te. Mpe esengeli kotala nini atangi na nsuka ya motuna moko na moko: alobi te ete kopo ezali bomoko ya vinyo to limpa ezali bomoko ya limpa. Alobi makila ya Klisto mpe nzoto ya Klisto.</p>
+                <h2>Nazwaki epai ya Nkolo — mpe yango wana bato bakufi<br>1 Bakorinti 11:23-30</h2>
+                <p>Vɛrsɛ ya ntina mingi ezali oyo elandi, mpe esengeli kotanga yango mobimba liboso ya kolimbola.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Bakorinti 11:23-30</span>
+                    <blockquote>«Mpo ngai <strong class="s-hi">nazwaki epai ya Nkolo oyo napesaki bino</strong>: ete Nkolo Yesu, na butu oyo bakabaki ye, azwaki limpa mpe sima ya kotonda matondi, akataki yango mpe alobaki: <strong class="s-hi">«Oyo ezali nzoto na ngai</strong>, oyo ezali mpo na bino; bosala boye mpo na kokanisa ngai.» Ndenge moko mpe kopo, sima ya kolia, alobaki: «Kopo oyo ezali boyokani ya sika kati na makila na ngai; mbala nyonso oyo bokomela yango, bosala boye mpo na kokanisa ngai.» Mpo mbala nyonso oyo bokolia limpa oyo mpe bokomela kopo oyo, bozali kosakola liwa ya Nkolo, <strong class="s-hi">kino akoya</strong>. Yango wana, moto oyo akolia limpa to akomela kopo ya Nkolo na lolenge oyo ebongi te, <strong class="s-hi">akozala na ngambo ya nzoto mpe ya makila ya Nkolo</strong>. Tika ete moto na moto amitala, mpe boye alia limpa mpe amela kopo. Mpo oyo alie mpe ameli <strong class="s-hi">kososola nzoto te</strong>, alie mpe ameli etumbu na ye moko. Yango wana bato mingi kati na bino bazali na bolɛmbu mpe na maladi, mpe <strong class="s-hi">bato mingi bakufi</strong>.»</blockquote>
+                </div>
+                <p>Abandi na esika oyo batɛmɛli balingi kobanda te: «nazwaki epai ya Nkolo oyo napesaki bino». Wana ezali maloba ya bonkɔkɔ: oyo epesami mpe ezwami na lobɔkɔ na lobɔkɔ. Kaka Paulo oyo batangaka mpo na kotɛmɛla Bonkɔkɔ, atie molulu ya Eukarisiti likolo na yango, mpe asali bongo na mokanda ya kala koleka oyo tozali na yango na likambo oyo.</p>
+                <p>Na nsima elandi «kino akoya». Mbala moko te, mbala mibale te, butu wana kaka te: mbala nyonso, ntango nyonso, kino nsuka. Soki elingaki kozala kokanisa ya mbala na mbala kaka, Paulo azalaki na maloba nyonso ya koloba yango. Alobi nde bokeseni na yango mpenza.</p>
+                <p>Mpe asukisi na esika oyo botangi ya elembo ezali na nzela lisusu te. Moto oyo alie na lolenge oyo ebongi te azali na ngambo ya limpa to ya vinyo te: azali na <em>ngambo ya nzoto mpe ya makila ya Nkolo</em>, na ngambo ya likambo mabe likolo ya moto. Kolia kozanga kososola nzoto epesaka ye pamela te: epesaka ye etumbu. Mpe Paulo alobi etumbu nini alingi koloba, na nkombo ya biloko oyo bato bamonaka: bato ya bolɛmbu, ba oyo bazali na maladi, bakufi. Moto moko te akomaka na maladi mpo atiolaki elembo. Moto moko te akufaka mpo asalelaki bokundoli mabe. Soki na Korinti bato bazalaki na maladi mpe bakufaki mpo baliaki limpa yango kozanga kososola ezalaki nini, limpa yango ezalaki limpa te.</p>
+                <ul>
+                    <li>Liloba ya Nzambe elimbolaka te: esalaka. Nyonso oyo ezali, ezali mpo Liloba elobaki yango.</li>
+                    <li>Na Kana liloba yango ebongolaki eloko moko na eloko mosusu, na elembo ya komonana te, mbala moko tango batosaki yango.</li>
+                    <li>Ba oyo batosaki bayebaki nini esalemaki; ba oyo bazalaki kaka kotala, bayebaki te.</li>
+                    <li>Paulo alobi elembo te mpe bokundoli te: alobi bomoko ya makila mpe ya nzoto ya Klisto.</li>
+                    <li>Kolia na lolenge oyo ebongi te epesaka ngambo ya nzoto mpe ya makila —ya limpa te—, mpe na Korinti yango ememaki maladi mpe liwa.</li>
+                </ul>
+                <h2>Nsuka</h2>
+                <p>Transsubstantiation ezali nkombo ya likambo oyo: eloko ya limpa mpe ya vinyo etikaka kozala oyo ezalaki mpe ekomaka Nzoto mpe Makila ya Klisto, kasi nyonso oyo miso mpe monoko ekoki koyeba —elilingi, elɛngi, kilo— etikalaka. Ezali te teoria oyo babakisaki na Makomi mpo na kozipa sekele ya mpasi: ezali limbisi ya solo ya oyo Makomi eyebisi na Kana mpe ya oyo Paulo andimi lokola likambo ya polele na Korinti. Likamwisi ezali te na kobongwana ya elilingi. Ezali na kobongwana ya oyo eloko ezali, mpo Klisto alobaki bongo.</p>
+                <p>Etikali motuna moko kaka, mpe ezali te likolo ya limpa: ezali likolo ya nani azali koloba. Soki ye oyo alobi «oyo ezali nzoto na ngai» azali ye oyo na nzela na ye biloko nyonso esalemaki, likambo ya kotia ntembe ezali te; ezali likambo ya kondima. Yango wana liséki oyo esilaka na maloba ya chimie to ya filozofi ya Bagreki te, kasi na esika ya liséki <a href="tema-por-que-creemos.html">Mpo na nini tondimaka?</a> Soki liloba na ye ezali liloba ya Nzambe, esalaka oyo elobi. Ntango nyonso esalaki bongo.</p>`,
       nav: { prevTitle: "Eukarisiti: sakramentu monene", nextTitle: "Basantu mpe libondeli na bango" }
     },
     "recursos-recomendados": {

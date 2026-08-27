@@ -26,7 +26,7 @@ const ARTICLES = {
   'sacerdocio':            { videos: ['sacerdote01','procesion01'], prev: 'la-primacia-de-pedro', next: 'por-que-creemos' },
   'por-que-creemos':       { videos: ['oracion01','conf01'],             prev: 'sacerdocio',           next: 'la-eucaristia' },
   'la-eucaristia':         { videos: ['calis01','ofertorio01'],               prev: 'por-que-creemos',      next: 'transubstanciacion' },
-  'transubstanciacion':    { videos: ['custodia01','altar01'],                        provisional: true, prev: 'la-eucaristia',        next: 'los-santos' },
+  'transubstanciacion':    { videos: ['custodia01','altar01'],                        prev: 'la-eucaristia',        next: 'los-santos' },
   'los-santos':            { videos: ['rosario01','retablo01'],       provisional: true, completedLangs: ['es', 'en', 'ja', 'tl', 'da', 'la', 'fr', 'pt'], prev: 'transubstanciacion',   next: 'la-santisima-trinidad' },
   'la-santisima-trinidad': { videos: ['crucifijo01','roseton01'], provisional: true, prev: 'los-santos',           next: 'el-purgatorio' },
   'el-purgatorio':         { videos: ['velas01','cirio01'],             provisional: true, prev: 'la-santisima-trinidad',next: 'la-nueva-ley' },
