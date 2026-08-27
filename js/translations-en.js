@@ -358,42 +358,42 @@ const translationsEN = {
                 <span class="eyebrow-text">Special Topic</span>
             </div>
             <h1>The Saints and Their Intercession</h1>
-            <p>Scripture names them: Abel, Enoch, Noah, Abraham, Moses, the prophets. Passage by passage, we will demonstrate why the saints can hear us and intercede for us.</p>
+            <p>Scripture names them one by one: Abel, Enoch, Noah, Abraham, Moses, the prophets. Seven passages, one at a time, on why the saints hear and intercede.</p>
             <div class="article-meta">
                 <span>12 min read</span>
                 <span>Published May 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
-      article: `<p>There is an objection repeated tirelessly: <em>"The dead cannot hear you."</em> At first glance it sounds reasonable. But Scripture says something else — not in one isolated verse, but in seven distinct passages, from Paul to Revelation. Let us go through them one by one.</p>
+      article: `<p>Jehovah's Witnesses and Adventists repeat the same objection tirelessly: <em>«The dead cannot hear you»</em>, because the soul —they say— sleeps until the final judgement. At first glance it sounds reasonable. But Scripture says something else. Not in one isolated verse: in seven distinct passages, from Paul to the Book of Revelation. One at a time.</p>
 
-            <h2>Knowledge is perfected after death</h2>
+            <h2>Knowledge is perfected after death<br>1 Corinthians 13:9-13</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ 1 Corinthians 13:9-13</span>
                 <blockquote>«For <strong class="s-hi">we know in part and we prophesy in part;</strong> but when the perfect comes, the partial will pass away. When I was a child, I used to talk as a child, think as a child, reason as a child; when I became a man, I put aside childish things. At present we see indistinctly, as in a mirror, but then face to face. At present I know partially; then <strong class="s-hi">I shall know fully, as I am fully known.</strong> So faith, hope, love remain, these three; but the greatest of these is love.»</blockquote>
             </div>
 
-            <p>Paul teaches that in this life we know imperfectly. When the perfect comes — which happens at death, when we see God face to face — we shall know as God himself has known us: perfectly, without veil, without limit. If the saints know in this way, nothing is hidden from them. They can hear. They can understand our prayers.</p>
+            <p>Paul teaches that in this life knowledge is imperfect. When the perfect comes —and that happens at death, on seeing God face to face— one knows as God knows: without veil and without limit. If the saints know like that, nothing is hidden from them. They can hear. They can understand the pleas addressed to them.</p>
 
-            <h2>After death, we shall see God as he is</h2>
+            <h2>After death, we shall see God as he is<br>1 John 3:2</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ 1 John 3:2</span>
                 <blockquote>«Beloved, we are God’s children now; what we shall be has not yet been revealed. We do know that when it is revealed <strong class="s-hi">we shall be like him, for we shall see him as he is.</strong>»</blockquote>
             </div>
 
-            <p>John confirms what Paul says. Now, in this life, we do not see: we believe. After death, we shall see God as he is. The saints have already crossed that threshold. They already see. This is why they are not in the darkness of the so-called "soul sleep" taught by some — they are in full light.</p>
+            <p>John confirms what Paul says. Now, in this life, one does not see: one believes. After death, God is seen as he is. The saints have already crossed that threshold. They already see. And there the so-called «soul sleep» collapses: they are in no darkness at all, they are in full light.</p>
 
-            <h2>After death comes heaven</h2>
+            <h2>After death comes heaven<br>John 14:1-4</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ John 14:1-4</span>
                 <blockquote>«Do not let your hearts be troubled. You have faith in God; have faith also in me. In my Father’s house there are many dwelling places. If there were not, would I have told you that I am going to prepare a place for you? And if I go and prepare a place for you, I will come back again and take you to myself, so that where I am you also may be. Where I am going you know the way.»</blockquote>
             </div>
 
-            <p>Jesus leaves no room for doubt: there is a destiny after death, and that destiny is to be with him. Heaven is not a metaphor — it is the place Jesus went to prepare for us. And the saints who lived in faith are already there, with him, where he promised to bring them.</p>
+            <p>Jesus leaves no room for doubt: there is a destination after death, and that destination is to be with him. Heaven is not a metaphor: it is the place where Jesus went to prepare a room. And the saints who lived in faith are already there, with him, where he promised to take them.</p>
 
-            <h2>The saints: the great cloud of witnesses</h2>
+            <h2>The saints: the great cloud of witnesses<br>Hebrews 11:1 — 12:3</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ Hebrews 11:1 — 12:3</span>
@@ -408,40 +408,40 @@ What more shall I say? I have not time to tell of <strong class="s-name">Gideon,
 Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of witnesses,</strong> let us rid ourselves of every burden and sin that clings to us and persevere in running the race that lies before us while keeping our eyes fixed on Jesus, the leader and perfecter of faith. For the sake of the joy that lay before him he endured the cross, despising its shame, and has taken his seat at the right of the throne of God. Consider how he endured such opposition from sinners, in order that <strong class="s-hi">you may not grow weary and lose heart.</strong>»</blockquote>
             </div>
 
-            <p>This is the answer to "who are the saints?" Scripture names them one by one. This is not an invention of the Church. They are the heroes of faith who lived, suffered, and died seeking a homeland not of this world — the heavenly one. And following their example, the author of Hebrews invites us: "we too." That immense cloud of witnesses surrounds us.</p>
+            <p>This is the answer to «who are the saints?». Scripture names them one by one. It is no invention of the Church. They are those who lived, suffered and died seeking a homeland that is not of this world, and the author of Hebrews does not set them there as decoration: he says that this cloud of witnesses surrounds those who are still running. No one is surrounded by those who are not there.</p>
 
-            <h2>The soul does not sleep — Christ preached to the spirits</h2>
+            <h2>The soul does not sleep — Christ preached to the spirits<br>1 Peter 3:18-22</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ 1 Peter 3:18-22</span>
                 <blockquote>«For <strong class="s-hi">Christ also suffered for sins once,</strong> the righteous for the sake of the unrighteous, that he might lead you to God. Put to death in the flesh, <strong class="s-hi">he was brought to life in the spirit. In it he also went to preach to the spirits in prison,</strong> who had once been disobedient while God patiently waited in the days of Noah during the building of the ark, in which a few persons, eight in all, were saved through water. This prefigured baptism, which <strong class="s-hi">saves you now.</strong> It is not a removal of dirt from the body but an appeal to God for a clear conscience, through the resurrection of Jesus Christ, who has gone into heaven and is at the right hand of God, with angels, authorities, and powers subject to him.»</blockquote>
             </div>
 
-            <p>Here the "soul sleep" argument collapses. Christ, after dying, did not remain unconscious awaiting the final judgment — he went to proclaim the message to the imprisoned spirits. The soul remains active after the death of the body. If Christ’s soul was active, so are the souls of the saints. Death belongs only to the body.</p>
+            <p>Here the «soul sleep» argument falls, and it falls where it hurts most. Christ, after dying, did not lie unconscious awaiting the final judgement: he went to make his proclamation to the spirits in prison. A proclamation requires someone who speaks and someone who hears, and both were dead. The soul remains active after the death of the body. If Christ's was, so is that of the saints.</p>
 
-            <h2>The saints are in the heavenly Jerusalem</h2>
+            <h2>The saints are in the heavenly Jerusalem<br>Hebrews 12:22-24</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ Hebrews 12:22-24</span>
                 <blockquote>«No, you have approached <strong class="s-hi">Mount Zion and the city of the living God, the heavenly Jerusalem,</strong> and countless angels in festal gathering, and the assembly of the firstborn enrolled in heaven, and God the judge of all, <strong class="s-hi">and the spirits of the just made perfect,</strong> and Jesus, the mediator of a new covenant, and the sprinkled blood that speaks more eloquently than that of Abel.»</blockquote>
             </div>
 
-            <p>The departed saints do not float in some limbo awaiting judgment. They are in "the city of the living God." And their condition is not like that of the living — they are spirits who "have been made perfect." Perfect. Close to God. Without barrier. Without distance.</p>
+            <p>The departed saints do not float in any limbo awaiting judgement. They are in «the city of the living God». And the verb is worth reading: the living <em>have drawn near</em> to them, in the perfect tense, not in some future promise. They are spirits of the just who have already reached perfection. Perfected. Close to God. With no barrier and no distance.</p>
 
-            <h2>The saints bring our prayers before the throne</h2>
+            <h2>The saints carry the prayers before the throne<br>Revelation 5:8</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ Revelation 5:8</span>
                 <blockquote>«When he took it, the four living creatures and the twenty-four elders fell down before the Lamb. Each of the elders held a harp and <strong class="s-hi">gold bowls filled with incense, which are the prayers of the holy ones.</strong>»</blockquote>
             </div>
 
-            <p>John sees it in a vision: in heaven, before the Lamb, the heavenly beings carry before the throne bowls of incense that <em>are</em> the prayers of the saints. The prayers of the faithful on earth reach the altar of heaven through the intercessors there. The saints do not only hear — they present.</p>
+            <p>John sees it in vision: in heaven, before the Lamb, the heavenly beings carry to the throne bowls of incense which <em>are</em> the prayers of the saints. The prayers of the faithful on earth reach the altar of heaven through those who stand there. The saints do not merely hear: they present.</p>
 
             <h2>Conclusion</h2>
 
-            <p>The saints are those who lived in faith — like Abel, Enoch, Noah, Abraham, Moses, the prophets — those who after death are in the city of the living God, the heavenly Jerusalem. There they know perfectly, as God knew them in life. There they see God as he is. There is no limitation, no distance.</p>
+            <p>The saints are those who lived in faith —Abel, Enoch, Noah, Abraham, Moses, the prophets—, those who after death are in the city of the living God, the heavenly Jerusalem. There they know as God knows them. There they see God as he is. There is neither limitation nor distance.</p>
 
-            <p>What the Church does in invoking them is exactly what Revelation shows: they bring our prayers to the heavenly altar, presenting them before the throne of the Lamb. We do not worship the saints. We ask them to intercede for us before God, just as we ask any brother to pray for us. The difference is that they are in heaven and know as God knows us — perfectly. That is why they see us, hear us, and intercede.</p>`,
+            <p>And what the Church does in invoking them is exactly what Revelation shows: they carry the prayers of the faithful to the altar of heaven and present them before the throne of the Lamb. The saints are not worshipped. They are asked to intercede before God, just as a living brother is asked to pray for someone. The only difference runs in their favour: they are in heaven and they know as God knows. That is why they see, they hear and they intercede. Whoever says the dead cannot hear has first to explain why heaven keeps the prayers in bowls of gold.</p>`,
       nav: {
         prevTitle: "Transubstantiation: the Eucharistic Mystery",
         nextTitle: "The Holy Trinity"

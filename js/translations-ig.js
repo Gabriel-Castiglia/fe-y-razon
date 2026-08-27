@@ -35,7 +35,7 @@ const translationsIG = {
     category: "Ozizi", date: "Ọgọst 2026", title: "Transubstantiation", excerpt: "Ngbanwe dị ukwuu nke achịcha na mmanya ịghọ Ahụ na Ọbara nke Kraịst n'oge Oriri Nsọ.", time: "Nkeji 14 ịgụ", link: "Gụọ →"
   },
   article5: {
-    category: "Ozizi", date: "Ọ na-abịa", title: "Ndị Nsọ", excerpt: "Uru ndị nsọ bara na Nzukọ-nsọ Katọlik na arịrịọ ha na-arịọchitere anyị.", time: "Nkeji 7 ịgụ", link: "Gụọ →"
+    category: "Ozizi", date: "Ọgọst 2026", title: "Ndị Nsọ", excerpt: "Uru ndị nsọ bara na Nzukọ-nsọ Katọlik na arịrịọ ha na-arịọchitere anyị.", time: "Nkeji 12 ịgụ", link: "Gụọ →"
   },
   article6: {
     category: "Ozizi", date: "Ọ na-abịa", title: "Atọ n'Ime Otu Dị Nsọ", excerpt: "Ịghọta isi ihe omimi nke okwukwe Katọlik site na nkà mmụta okpukpe na uche.", time: "Nkeji 10 ịgụ", link: "Gụọ →"
@@ -133,8 +133,77 @@ const translationsIG = {
     },
     "los-santos": {
       pageTitle: "Ndị Nsọ | Okwukwe na Uche",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Isiokwu Pụrụ Iche</span></div><h1>Ndị Nsọ na arịrịọ ha</h1><p>Nduzi doro anya banyere ọrụ ndị nsọ na ndụ Katọlik yana etu ihe nlereanya ha si akpali anyị n'okwukwe miri emi.</p><div class="article-meta"><span>Nkeji 7 ịgụ</span><span>Ebipụtara na Mee 2026</span></div><a href="index.html#temas" class="btn-outline-white">Laghachi na Isiokwu</a>`,
-      article: `<p>Ndị nsọ bụ ndị òtù Nzukọ-nsọ ndị biri ndụ Ndị Kraịst na dike. Nkwanye ùgwù nye ndị nsọ sitere n'ịghọta njikọ ha na Kraịst na ekpere ha maka ndị ọzọ.</p><h2>Ihe nlereanya nke ịdị nsọ</h2><p>Ha na-egosi anyị etu esi ebi ndụ Oziọma n'ọnọdụ dị adị: na ezinụlọ, n'ọrụ na n'ozi. Ndụ ha bụ ihe nlereanya nke na-akpali ntụkwasị obi na olileanya.</p><blockquote>"Ndị nsọ bụ ncheta dị ndụ nke Nzukọ-nsọ na ihe akaebe nke ikwesị ntụkwasị obi Chineke."</blockquote><h2>Arịrịọ</h2><p>Ekpere a na-ekpe ndị nsọ abụghị ofufe, kama ọ bụ ịrịọ ka ha rịọchitere Chineke. Nzukọ-nsọ na-arịọ ndị kwere ekwe ka ha kpeere ibe ha ekpere, gụnyere ndị na-ezu ike na Onyenwe anyị.</p><ul><li>Ndị nsọ na-esochi anyị na ihe nlereanya ha na ekpere ha.</li><li>Ha bụ ụmụnne na njikọkọ nke ndị nsọ.</li><li>Ndụ ha na-egosi na ịdị nsọ bụ ọkpụkpọ maka onye ọ bụla.</li></ul><h2>Ndụ Onye Kraịst</h2><p>Ịtụkwasị obi na arịrịọ ndị nsọ anaghị ebelata mmekọrịta anyị na Kraịst; ọ na-eme ka ọ sie ike. Ọ na-echetara anyị na Nzukọ-nsọ bụ otu ahụ dị ndụ nke gafere oge.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Isiokwu Pụrụ Iche</span></div><h1>Ndị Nsọ na arịrịọ ha</h1><p>Akwụkwọ Nsọ n'onwe ya kpọrọ aha ha: Ebel, Inọk, Noa, Ebreham, Mosis, ndị amụma. Akụkụ asaa, otu otu, ihe kpatara ndị nsọ ji anụ ma na-arịọchitere anyị.</p><div class="article-meta"><span>Nkeji 7 ịgụ</span><span>Ebipụtara na Mee 2026</span></div><a href="index.html#temas" class="btn-outline-white">Laghachi na Isiokwu</a>`,
+      article: `<p>Ndịàmà Jehova na ndị Advent na-ekwughachi otu mmegide ahụ n'ike n'ike: <em>«Ndị nwụrụ anwụ apụghị ịnụ olu gị»</em>, n'ihi na mkpụrụ obi —ka ha na-ekwu— na-arahụ ụra ruo ikpe ikpeazụ. Na nleba anya mbụ ọ dị ka ihe ezi uche dị na ya. Ma Akwụkwọ Nsọ na-ekwu ihe ọzọ. Ọ bụghị n'otu amaokwu dịpụrụ adịpụ: n'akụkụ asaa dị iche iche, site na Pọl ruo na Mkpughe. Otu otu.</p>
+
+            <h2>Ihe ọmụma na-ezu oke mgbe ọnwụ gasịrị<br>1 Ndị Kọrịnt 13:9-13</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Ndị Kọrịnt 13:9-13</span>
+                <blockquote>«N'ihi na <strong class="s-hi">ihe ọmụma anyị ezughị oke</strong>, amụma anyị ezukwaghị oke. Ma mgbe ihe zuru oke ga-abịa, ihe na-ezughị oke ga-akwụsị. Mgbe m bụ nwatakịrị, m na-ekwu okwu dị ka nwatakịrị, na-eche echiche dị ka nwatakịrị; mgbe m tolitere, m hapụrụ ihe nwatakịrị. Ugbu a anyị na-ele anya dị ka n'enyo, n'ụzọ na-edoghị anya; mgbe ahụ anyị ga-ele ihu na ihu. Ugbu a amaara m ihe na-ezughị oke; mgbe ahụ <strong class="s-hi">m ga-amata dịka Chineke si mata m.</strong> Ugbu a, ihe atọ na-adịgide: okwukwe, olileanya na ịhụnanya; ma nke kacha n'ime ha bụ ịhụnanya.»</blockquote>
+            </div>
+
+            <p>Pọl na-akụzi na na ndụ a ihe ọmụma ezughị oke. Mgbe nke zuru oke ga-abịa —nke ahụ na-eme mgbe mmadụ nwụrụ ma hụ Chineke ihu na ihu— a ga-amata dịka Chineke si amata: n'enweghị ákwà mkpuchi na n'enweghị oke. Ọ bụrụ na ndị nsọ na-amata otú ahụ, ọ dịghị ihe zoro ezo n'ebe ha nọ. Ha nwere ike ịnụ. Ha nwere ike ịghọta arịrịọ e ziga ha.</p>
+
+            <h2>Mgbe ọnwụ gasịrị, anyị ga-ahụ Chineke dịka ọ dị<br>1 Jọn 3:2</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Jọn 3:2</span>
+                <blockquote>«Ndị m hụrụ n'anya, ugbu a anyị bụ ụmụ Chineke, e gosipụtabeghịkwa ihe anyị ga-abụ. Ma anyị maara na mgbe e gosipụtara ya, <strong class="s-hi">anyị ga-adị ka ya, n'ihi na anyị ga-ahụ ya dịka ọ dị.</strong>»</blockquote>
+            </div>
+
+            <p>Jọn na-akwado ihe Pọl kwuru. Ugbu a, na ndụ a, a naghị ahụ: a na-ekwere. Mgbe ọnwụ gasịrị, a na-ahụ Chineke dịka ọ dị. Ndị nsọ agafeela ọnụ ụzọ ahụ. Ha na-ahụzi. Ọ bụkwa ebe ahụ ka «ụra mkpụrụ obi» dara: ha anọghị n'ọchịchịrị ọ bụla, ha nọ n'ìhè zuru ezu.</p>
+
+            <h2>Mgbe ọnwụ gasịrị, eluigwe na-abịa<br>Jọn 14:1-4</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Jọn 14:1-4</span>
+                <blockquote>«Ka obi ghara ilu unu. Kwerenụ na Chineke, kwerekwanụ na m. <strong class="s-hi">N'ụlọ Nna m e nwere ọtụtụ ebe obibi</strong>; ọ bụrụ na ọ bụghị otú ahụ, m gaara agwa unu. Ana m aga ịkwadebere unu ebe. Ma ọ bụrụ na m gaa kwadebere unu ebe, <strong class="s-hi">m ga-alọghachi kpọrọ unu ka unu nọnyere m, ka unu wee nọrọ ebe m nọ.</strong> Unu makwaara ụzọ ebe m na-aga.»</blockquote>
+            </div>
+
+            <p>Jizọs ahapụghị ohere obi abụọ: e nwere ebe a na-aga mgbe ọnwụ gasịrị, ebe ahụ bụkwa iso ya nọrọ. Eluigwe abụghị ilu: ọ bụ ebe Jizọs gara kwadebe ọnọdụ. Ndị nsọ biri na okwukwe nọkwa ebe ahụ ugbu a, ya na ha, ebe o kwere nkwa ịkpọga ha.</p>
+
+            <h2>Ndị nsọ: nnukwu ígwé ojii nke ndị àmà<br>Ndị Hibru 11:1 — 12:3</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Ndị Hibru 11:1 — 12:3</span>
+                <blockquote>«<strong class="s-hi">Okwukwe bụ ntụkwasị obi n'ihe ndị a na-atụ anya ha, na ihe àmà nke ihe ndị a na-adịghị ahụ anya. Ọ bụ site na ya ka ndị mgbe ochie ji nweta àmà ọma.</strong><br><br>Site n'okwukwe, <strong class="s-name">Ebel</strong> chụụrụ Chineke àjà ka nke Ken mma, e wee gbaa ya àmà na ọ bụ onye ezi omume; site na ya, ọ bụ ezie na ọ nwụrụ, ọ ka na-ekwu okwu. Site n'okwukwe, <strong class="s-name">Inọk</strong> ka e buliri ka ọ ghara ịhụ ọnwụ. Site n'okwukwe, <strong class="s-name">Noa</strong> wuru ụgbọ mmiri iji zọpụta ezinụlọ ya. Site n'okwukwe, <strong class="s-name">Ebreham</strong>, mgbe a kpọrọ ya, rubere isi wee pụọ gaa ebe ọ ga-anata dị ka ihe nketa; ọ pụrụ n'amaghị ebe ọ na-aga. Site n'okwukwe, <strong class="s-name">Sera</strong> nwetara ike ịtụrụ ime.<br><br>Ha niile nwụrụ n'okwukwe, na-anatabeghị nkwa ndị ahụ, kama ha hụrụ ha n'ebe dị anya ma kelee ha, na-ekwupụta na ha bụ ndị ọbịa na ndị njem n'ụwa. <strong class="s-hi">Ha na-achọsi ike obodo ka mma, ya bụ nke eluigwe.</strong><br><br>Site n'okwukwe, <strong class="s-name">Mosis</strong>, mgbe o toro, jụrụ ka a kpọọ ya nwa ada Fero; ọ họọrọ ka ya na ndị Chineke tara ahụhụ. Gịnị ka m ga-ekwukwa? Oge agaghị ezuru m ịkọ akụkọ <strong class="s-name">Gidiọn, Barak, Samsin, Jefta, Devid, Samuel na ndị amụma,</strong> ndị site n'okwukwe meriri alaeze, mere ezi omume, nwetara nkwa, mechiri ọnụ ọdụm. Ma ha niile, ọ bụ ezie na e gbara ha àmà ọma n'ihi okwukwe ha, anataghị nkwa ahụ, n'ihi na Chineke ekwadobeere anyị ihe ka mma, ka ha ghara izu oke ma anyị esoghị.<br><br>Ya mere anyị onwe anyị, <strong class="s-hi">ebe ọ bụ na ígwé ojii buru ibu nke ndị àmà gbara anyị gburugburu,</strong> ka anyị tụfuo ibu ọ bụla na mmehie nke na-ekedo anyị, <strong class="s-hi">ka anyị jiri ntachi obi na-agba ọsọ e dobere anyị,</strong> na-elekwasị anya na Jizọs, onye mmalite na onye mmezu nke okwukwe.»</blockquote>
+            </div>
+
+            <p>Nke a bụ azịza ajụjụ «ònye ka ndị nsọ bụ?». Akwụkwọ Nsọ kpọrọ aha ha otu otu. Ọ bụghị ihe Nzukọ-nsọ chepụtara. Ha bụ ndị biri, tara ahụhụ ma nwụọ na-achọ obodo nke na-abụghị nke ụwa a, onye dere Ndị Hibru etinyeghịkwa ha ebe ahụ ka ihe ịchọ mma: ọ na-ekwu na ígwé ojii ahụ nke ndị àmà gbara ndị ka na-agba ọsọ gburugburu. Ọ dịghị onye ndị na-anọghị ebe ahụ gbara gburugburu.</p>
+
+            <h2>Mkpụrụ obi anaghị ehi ụra — Kraịst kwusaara mmụọ ndị ahụ<br>1 Pita 3:18-22</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Pita 3:18-22</span>
+                <blockquote>«N'ihi na <strong class="s-hi">Kraịst nwụrụ</strong> otu ugboro maka mmehie, onye ezi omume nʼọnọdụ ndị ajọ omume, iji dute anyị bịakwute Chineke; e gburu ya n'anụ ahụ, ma <strong class="s-hi">e mere ya ka ọ dị ndụ na mmụọ, o wee gaa kwusaa ozi nye mmụọ ndị nọ n'ụlọ mkpọrọ,</strong> bụ ndị jụrụ ikwere n'oge gara aga, mgbe Chineke ji ndidi na-eche, n'ụbọchị Noa, mgbe a na-ewu ụgbọ mmiri; nʼime ya ka mmadụ ole na ole, asatọ n'ọnụ, si na mmiri nweta nzọpụta. Nke a bụ ihe atụ nke baptizim nke <strong class="s-hi">na-azọpụta unu ugbu a</strong>; ọ bụghị iwepụ unyi nke anụ ahụ, kama ọ bụ arịrịọ e ziga Chineke maka akọnuche dị ọcha, site na mbilite n'ọnwụ nke Jizọs Kraịst, onye nọ n'aka nri Chineke, ebe ọ rịgooro n'eluigwe.»</blockquote>
+            </div>
+
+            <p>Ebe a ka arụmụka «ụra mkpụrụ obi» dara, ọ dakwara ebe ọ kacha ewute. Kraịst, mgbe ọ nwụsịrị, adịghị na-atụ ụra na-eche ikpe ikpeazụ: ọ gara kwusaa ozi ya nye mmụọ ndị nọ n'ụlọ mkpọrọ. Ọkwa chọrọ onye na-ekwu okwu na onye na-ege ntị, ha abụọ nwụkwara anwụ. Mkpụrụ obi na-anọgide na-arụ ọrụ mgbe ahụ nwụsịrị. Ọ bụrụ na nke Kraịst mere otú ahụ, nke ndị nsọ mekwara.</p>
+
+            <h2>Ndị nsọ nọ na Jerusalem nke eluigwe<br>Ndị Hibru 12:22-24</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Ndị Hibru 12:22-24</span>
+                <blockquote>«Kama unu abịaruola ugwu Zayọn nso, na obodo Chineke dị ndụ, <strong class="s-hi">Jerusalem nke eluigwe</strong>, na ọtụtụ puku ndị mmụọ ozi, na mmemme ọṅụ, na nzukọ ndị e buru ụzọ mụọ ndị e dere aha ha n'eluigwe, na Chineke onye ikpe nke mmadụ niile, na <strong class="s-hi">mmụọ ndị ezi omume ndị e mere ka ha zuo oke,</strong> na Jizọs onye ogbugbo nke Ọgbụgba Ndụ Ọhụrụ, na ọbara ịfesa nke na-ekwu okwu ka nke Ebel mma.»</blockquote>
+            </div>
+
+            <p>Ndị nsọ nwụrụ anwụ anaghị ese n'elu ebe ọ bụla na-eche ikpe. Ha nọ n'«obodo Chineke dị ndụ». A ga-agụkwa ngwaa ahụ: ndị dị ndụ <em>abịaruola</em> ha nso, n'oge zuru ezu, ọ bụghị na nkwa nke ọdịnihu. Ha bụ mmụọ ndị ezi omume ndị ruruworị na izu oke. Ndị zuru oke. Nso Chineke. N'enweghị mgbochi na n'enweghị anya.</p>
+
+            <h2>Ndị nsọ na-ebuga ekpere n'ihu ocheeze<br>Mkpughe 5:8</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Mkpughe 5:8</span>
+                <blockquote>«Mgbe o weere akwụkwọ ahụ, anụ anọ ahụ dị ndụ na iri ndị okenye abụọ na anọ dara n'ala n'ihu Nwa Atụrụ; onye ọ bụla nwere ụbọ akwara, na <strong class="s-hi">iko ọlaedo jupụtara na ihe na-esi ísì ụtọ, nke bụ ekpere ndị nsọ.</strong>»</blockquote>
+            </div>
+
+            <p>Jọn hụrụ ya n'ọhụụ: n'eluigwe, n'ihu Nwa Atụrụ, ihe e kere eke nke eluigwe na-ebuga n'ihu ocheeze iko ọlaedo jupụtara na ihe na-esi ísì ụtọ nke <em>bụ</em> ekpere ndị nsọ. Ekpere ndị kwere ekwe n'ụwa na-eru ebe ịchụàjà nke eluigwe site na ndị nọ ebe ahụ. Ndị nsọ anaghị anụ naanị: ha na-eweta.</p>
+
+            <h2>Mmechi</h2>
+
+            <p>Ndị nsọ bụ ndị biri na okwukwe —Ebel, Inọk, Noa, Ebreham, Mosis, ndị amụma—, ndị nọ mgbe ọnwụ gasịrị n'obodo Chineke dị ndụ, Jerusalem nke eluigwe. Ebe ahụ ha na-amata dịka Chineke si amata ha. Ebe ahụ ha na-ahụ Chineke dịka ọ dị. Ebe ahụ enweghị oke ma ọ bụ anya.</p>
+
+            <p>Ihe Nzukọ-nsọ na-eme mgbe ọ na-akpọku ha bụ kpọmkwem ihe Mkpughe na-egosi: ha na-ebuga ekpere ndị kwere ekwe n'ebe ịchụàjà nke eluigwe ma weta ha n'ihu ocheeze Nwa Atụrụ. A naghị efe ndị nsọ ofufe. A na-arịọ ha ka ha rịọchitere anyị n'ihu Chineke, dịka a na-arịọ nwanne dị ndụ ka o kpeere anyị ekpere. Naanị ihe dị iche na-akwado ha: ha nọ n'eluigwe ma na-amata dịka Chineke si amata. Ọ bụ ya mere ha ji ahụ, nụ ma rịọchitere anyị. Onye na-ekwu na ndị nwụrụ anwụ apụghị ịnụ ihe ga-ebu ụzọ kọwaa ihe kpatara eluigwe ji echekwa ekpere n'iko ọlaedo.</p>`,
       nav: { prevTitle: "Transubstantiation: ihe omimi nke Yukarist", nextTitle: "Atọ n'Ime Otu Dị Nsọ" }
     },
     "por-que-creemos": {

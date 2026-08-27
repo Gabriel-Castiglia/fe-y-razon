@@ -133,37 +133,37 @@ const translationsPT = {
     },
     "los-santos": {
       pageTitle: "Os santos | Fé e Razão",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>Os santos e sua intercessão</h1><p>A própria Escritura os nomeia: Abel, Enoque, Noé, Abraão, Moisés, os profetas. Passagem a passagem, demonstraremos por que os santos podem nos ouvir e interceder por nós.</p><div class="article-meta"><span>12 min leitura</span><span>Publicado em maio de 2026</span></div><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
-      article: `<p>Há uma objeção repetida sem cansaço: <em>«Os mortos não podem te ouvir.»</em> À primeira vista parece razoável. Mas a Escritura diz outra coisa. Não em uma única citação isolada. Em sete passagens distintas, de Paulo até o Apocalipse. Vamos uma a uma.</p>
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>Os santos e sua intercessão</h1><p>A própria Escritura nomeia-os: Abel, Henoc, Noé, Abraão, Moisés, os profetas. Sete passagens, uma a uma, sobre por que os santos ouvem e intercedem.</p><div class="article-meta"><span>12 min leitura</span><span>Publicado em maio de 2026</span></div><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+      article: `<p>Testemunhas de Jeová e adventistas repetem a mesma objeção sem se cansar: <em>«Os mortos não podem ouvir-te»</em>, porque a alma —dizem— dorme até ao juízo final. À primeira vista soa razoável. Mas a Escritura diz outra coisa. Não numa citação isolada: em sete passagens distintas, de Paulo ao Apocalipse. Uma a uma.</p>
 
-            <h2>O conhecimento se aperfeiçoa após a morte</h2>
+            <h2>O conhecimento aperfeiçoa-se depois da morte<br>1 Coríntios 13:9-13</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ 1 Co 13, 9-13</span>
                 <blockquote>«Porque, em parte, conhecemos, e, em parte, profetizamos. Mas, quando vier o que é perfeito, então o que é em parte será removido. Quando eu era menino, falava como menino, sentia como menino, discorria como menino; mas, logo que me tornei homem, <strong class="s-hi">acabei com as coisas de menino.</strong> Porque agora vemos por espelho em enigma, mas então veremos face a face; agora conheço em parte, mas então <strong class="s-hi">conhecerei como também sou conhecido.</strong> Agora, pois, permanecem a fé, a esperança e o amor, estes três; mas o maior destes é o amor.»</blockquote>
             </div>
 
-            <p>Paulo ensina que nesta vida conhecemos de forma imperfeita. Quando vier o perfeito — o que acontece ao morrer e ver a Deus face a face — conheceremos como Deus nos conheceu: perfeitamente, sem véu, sem limite. Se os santos conhecem assim, nada lhes é oculto. Podem ouvir. Podem entender nossas súplicas.</p>
+            <p>Paulo ensina que nesta vida o conhecimento é imperfeito. Quando chegar o que é perfeito —e isso acontece ao morrer e ver Deus face a face— conhecer-se-á como Deus conhece: sem véu e sem limite. Se os santos conhecem assim, nada lhes é oculto. Podem ouvir. Podem entender as súplicas que lhes são dirigidas.</p>
 
-            <h2>Após a morte, veremos a Deus tal como ele é</h2>
+            <h2>Depois da morte, veremos Deus tal como é<br>1 João 3:2</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ 1 Jo 3, 2</span>
                 <blockquote>«Amados, agora somos filhos de Deus, e ainda não foi manifestado o que haveremos de ser. Mas sabemos que, quando ele se manifestar, <strong class="s-hi">seremos semelhantes a ele; porque o veremos como ele é.</strong>»</blockquote>
             </div>
 
-            <p>João confirma o que Paulo diz. Agora, nesta vida, não vemos: cremos. Após a morte, veremos a Deus tal como ele é. Os santos já cruzaram esse limiar. Já veem. Por isso não estão nas trevas do chamado «sono da alma» ensinado por alguns — estão na plena luz.</p>
+            <p>João confirma o que diz Paulo. Agora, nesta vida, não se vê: crê-se. Depois da morte, vê-se Deus tal como é. Os santos já atravessaram esse limiar. Já veem. E é aí que cai o chamado «sono da alma»: não estão em escuridão nenhuma, estão em plena luz.</p>
 
-            <h2>Após a morte vem o céu</h2>
+            <h2>Depois da morte vem o céu<br>João 14:1-4</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ Jo 14, 1-4</span>
                 <blockquote>«Não se turbe o vosso coração; credes em Deus, crede também em mim. Na casa de meu Pai há muitas moradas; se assim não fosse, eu vo-lo teria dito; vou preparar-vos um lugar. E quando eu for e vos preparar um lugar, virei outra vez e vos receberei para mim mesmo, para que onde eu estiver estejais vós também. E sabeis para onde eu vou, e conheceis o caminho.»</blockquote>
             </div>
 
-            <p>Jesus não deixa margem para dúvida: há um destino após a morte, e esse destino é estar com ele. O céu não é uma metáfora: é o lugar aonde Jesus foi nos preparar. E os santos que viveram na fé já estão lá, com ele, onde ele prometeu levá-los.</p>
+            <p>Jesus não deixa lugar a dúvidas: há um destino depois da morte, e esse destino é estar com ele. O céu não é uma metáfora: é o lugar onde Jesus foi preparar sítio. E os santos que viveram na fé já lá estão, com ele, onde ele prometeu levá-los.</p>
 
-            <h2>Os santos: a grande nuvem de testemunhas</h2>
+            <h2>Os santos: a grande nuvem de testemunhas<br>Hebreus 11:1 — 12:3</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ Hb 11, 1 — 12, 3</span>
@@ -178,40 +178,40 @@ E que mais direi? Porque me faltaria o tempo contando de <strong class="s-name">
 Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tão grande nuvem de testemunhas,</strong> deixemos todo o embaraço e o pecado que tão de perto nos rodeia, e corramos com paciência a carreira que nos está proposta; olhando para Jesus, autor e consumador da fé, o qual pelo gozo que lhe estava proposto, suportou a cruz, desprezando a afronta, e assentou-se à direita do trono de Deus. Considerai, pois, aquele que suportou dos pecadores tão grande contradição contra si mesmo, para que não vos fatigueis, <strong class="s-hi">desfalecendo em vossos ânimos.»</strong></blockquote>
             </div>
 
-            <p>Essa é a resposta a «quem são os santos?» A Escritura os nomeia um por um. Não é invenção da Igreja. São os heróis da fé que viveram, sofreram e morreram buscando uma pátria que não é deste mundo: a celestial. E ao exemplo deles, o autor dos Hebreus nos convida: «também nós». Aquela imensa nuvem de testemunhas nos rodeia.</p>
+            <p>Esta é a resposta a «quem são os santos?». A Escritura nomeia-os um a um. Não é invenção da Igreja. São os que viveram, sofreram e morreram procurando uma pátria que não é deste mundo, e o autor de Hebreus não os põe ali como ornamento: diz que essa nuvem de testemunhas rodeia os que ainda correm. Ninguém é rodeado por quem não está.</p>
 
-            <h2>A alma não dorme — Cristo pregou aos espíritos</h2>
+            <h2>A alma não dorme — Cristo pregou aos espíritos<br>1 Pedro 3:18-22</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ 1 Pe 3, 18-22</span>
                 <blockquote>«Porque também <strong class="s-hi">Cristo morreu uma vez pelos pecados,</strong> o justo pelos injustos, para nos apresentar a Deus; sendo mortificado na carne, mas vivificado no espírito; <strong class="s-hi">no qual também foi, e pregou aos espíritos em prisão,</strong> os quais noutro tempo foram desobedientes, quando a longanimidade de Deus esperava nos dias de Noé, enquanto se preparava a arca; na qual poucas pessoas, a saber, oito almas, foram salvas pela água. O que também, como uma figura, agora vos salva, o batismo, <strong class="s-hi">não o tirar a imundícia da carne,</strong> mas a indagação de uma boa consciência para com Deus, pela ressurreição de Jesus Cristo; que está à direita de Deus, tendo subido ao céu, e estando-lhe sujeitos os anjos, e os principados, e as potestades.»</blockquote>
             </div>
 
-            <p>Aqui cai o argumento do «sono da alma». Cristo, após morrer, não ficou inconsciente esperando o juízo final: foi pregar a mensagem aos espíritos que estavam em prisão. A alma permanece ativa depois da morte do corpo. Se a de Cristo assim o foi, a dos santos também. A morte é apenas do corpo.</p>
+            <p>Aqui cai o argumento do «sono da alma», e cai por onde mais dói. Cristo, depois de morrer, não ficou inconsciente à espera do juízo final: foi fazer o seu anúncio aos espíritos que estavam presos. Um anúncio supõe alguém que fala e alguém que ouve, e ambos estavam mortos. A alma continua ativa depois da morte do corpo. Se a de Cristo esteve, a dos santos também.</p>
 
-            <h2>Os santos estão na Jerusalém celestial</h2>
+            <h2>Os santos estão na Jerusalém celeste<br>Hebreus 12:22-24</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ Hb 12, 22-24</span>
                 <blockquote>«Antes, vos chegastes ao monte Sião, <strong class="s-hi">à cidade do Deus vivo, a Jerusalém celestial,</strong> a miríades de anjos, à solene assembleia e à congregação dos primogênitos que estão inscritos nos céus, a Deus, o Juiz de todos, <strong class="s-hi">e aos espíritos dos justos já feitos perfeitos,</strong> a Jesus, o Mediador da nova aliança, e ao sangue da aspersão, que fala melhor do que o de Abel.»</blockquote>
             </div>
 
-            <p>Os santos falecidos não flutuam em nenhum limbo esperando o juízo. Estão na «cidade do Deus vivo». E sua condição não é a dos vivos: são espíritos que «foram feitos perfeitos». Perfeitos. Perto de Deus. Sem barreira. Sem distância.</p>
+            <p>Os santos falecidos não flutuam em limbo nenhum à espera do juízo. Estão na «cidade do Deus vivo». E há que ler o verbo: os vivos <em>aproximaram-se</em> deles, em tempo perfeito, não numa promessa futura. São espíritos de justos que já chegaram à perfeição. Perfeitos. Perto de Deus. Sem barreira e sem distância.</p>
 
-            <h2>Os santos levam nossas orações ante o trono</h2>
+            <h2>Os santos levam as orações ante o trono<br>Apocalipse 5:8</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ Ap 5, 8</span>
                 <blockquote>«E quando tomou o livro, os quatro animais e os vinte e quatro anciãos prostraram-se diante do Cordeiro, tendo cada um deles harpas e <strong class="s-hi">taças de ouro cheias de incenso, que são as orações dos santos.</strong>»</blockquote>
             </div>
 
-            <p>João o vê em visão: no céu, diante do Cordeiro, os seres celestiais levam ante o trono taças de incenso que <em>são</em> as orações dos santos. As orações dos fiéis na terra chegam ao altar do céu através dos intercessores que lá se encontram. Os santos não apenas ouvem: apresentam.</p>
+            <p>João vê-o em visão: no céu, diante do Cordeiro, os seres celestes levam ante o trono taças de incenso que <em>são</em> as orações dos santos. As orações dos fiéis da terra chegam ao altar do céu através dos que ali estão. Os santos não só ouvem: apresentam.</p>
 
             <h2>Conclusão</h2>
 
-            <p>Os santos são os que viveram na fé — como Abel, Enoque, Noé, Abraão, Moisés, os profetas — os que após a morte estão na cidade do Deus vivo, a Jerusalém celestial. Lá conhecem perfeitamente, como Deus os conheceu em vida. Lá veem a Deus tal como ele é. Lá não há limitação nem distância.</p>
+            <p>Os santos são os que viveram na fé —Abel, Henoc, Noé, Abraão, Moisés, os profetas—, os que depois da morte estão na cidade do Deus vivo, a Jerusalém celeste. Ali conhecem como Deus os conhece. Ali veem Deus tal como é. Ali não há limitação nem distância.</p>
 
-            <p>E o que a Igreja faz ao invocá-los é exatamente o que o Apocalipse mostra: eles levam nossas orações ao altar do céu, apresentando-as ante o trono do Cordeiro. Não adoramos os santos. Pedimos que intercedam por nós perante Deus, como pedimos a qualquer irmão que reze por nós. A diferença é que eles estão no céu e conhecem como Deus nos conhece: perfeitamente. Por isso nos veem, nos ouvem e interceden.»</p>`,
+            <p>E o que a Igreja faz ao invocá-los é exatamente o que mostra o Apocalipse: levam ao altar do céu as orações dos fiéis e apresentam-nas diante do trono do Cordeiro. Aos santos não se lhes presta adoração. Pede-se-lhes que intercedam junto de Deus, tal como se pede a um irmão vivo que reze por nós. A única diferença corre a favor deles: estão no céu e conhecem como Deus conhece. Por isso veem, ouvem e intercedem. Quem diz que os mortos não podem ouvir tem de explicar primeiro por que o céu guarda as orações em taças de ouro.</p>`,
       nav: { prevTitle: "Transubstanciação: o mistério eucarístico", nextTitle: "A Santíssima Trindade" }
     },
     "por-que-creemos": {
