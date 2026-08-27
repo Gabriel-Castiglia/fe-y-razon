@@ -58,6 +58,23 @@ Se usan para consolidar los puntos demostrados, generalmente antes de la Conclus
 
 ---
 
+## La voz: expone y demuestra, no exhorta
+
+La referencia es `transubstanciacion`. El artículo **muestra** el texto y deja
+que el lector saque la consecuencia; no le da instrucciones. Medidor:
+`docs/tono.py`, con autotest y lista blanca (las citas no cuentan: dentro de un
+`<blockquote>` el imperativo es de la Escritura).
+
+| En vez de | Va |
+|---|---|
+| «Fíjese en quién funda esa santidad» | «Conviene ver en quién se funda esa santidad» |
+| «ve al tema ¿Por qué creemos?» | «en el tema ¿Por qué creemos?» |
+| «Hay que leer la Palabra de Dios» (título) | «El enemigo pelea contra su lectura» |
+| «hay que hacer lo que Dios dice» | «la fe consiste en hacer lo que Dios dice» |
+| «nuestra fe no reposa en el ministro» | «la fe no reposa en el ministro» |
+
+Los cuatro artículos publicados están en **0 rasgos** (27-ago-2026).
+
 ## Marcadores de trabajo pendiente
 
 Cuando falta una sección obligatoria:
@@ -75,9 +92,9 @@ Cuando falta una sección obligatoria:
 | Artículo | Estado | Notas |
 |---|---|---|
 | los-santos | **Plantilla canónica** | NO modificar |
-| la-eucaristia | Completo | Reestructurado en Fase 1 |
-| por-que-creemos | Completo | Reestructurado en Fase 1 |
-| sacerdocio | Completo | Reestructurado en Fase 1 |
+| la-eucaristia | Completo | Citas cotejadas y tono ajustado (27-ago-2026) |
+| por-que-creemos | Completo | Citas cotejadas y tono ajustado (27-ago-2026) |
+| sacerdocio | Completo | Citas cotejadas, crítica común agregada y tono ajustado (27-ago-2026) |
 | el-purgatorio | Esqueleto | Faltan crítica común, citas, conclusión |
 | la-nueva-ley | Esqueleto | Faltan crítica común, citas, conclusión |
 | la-primacia-de-pedro | Esqueleto | Faltan crítica común, citas, conclusión |

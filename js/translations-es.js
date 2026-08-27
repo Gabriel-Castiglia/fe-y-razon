@@ -207,68 +207,69 @@ NUNCA Reina-Valera ni traducciones protestantes.
             </div>
             <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
       article: `<!--
-REGLA: Todas las citas bíblicas en español deben provenir de la
-"Biblia de Jerusalén Latinoamericana" (sin "vosotros"). Si no está
-disponible para un versículo, usar la versión oficial en vatican.va.
+REGLA: Todas las citas bíblicas en español provienen de "El Libro del Pueblo
+de Dios" (traducción argentina, 1990), que es la Biblia en español publicada
+libremente por la Santa Sede en vatican.va/archive/ESL0506/. Usa "ustedes".
 NUNCA Reina-Valera ni traducciones protestantes.
+Las siete citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2026.
 -->
 <p>Pentecostales, adventistas, Testigos de Jehová y protestantes en general responden lo mismo cuando alguien menciona la Eucaristía: <em>«Es solo un símbolo.»</em> ¿Es la Eucaristía un símbolo o es real? La respuesta está en San Juan 6. No hay texto más claro, más directo ni más desafiante en todo el Evangelio sobre este tema. Y Jesús no cede. Pero Juan 6 no es el único testigo: Pablo lo confirma de manera independiente, y los primeros discípulos de los apóstoles lo entendieron sin ambigüedad. Hay tres líneas de evidencia. Ninguna tiene respuesta en la interpretación simbólica.</p>
-                <h2>Yo soy el pan de vida<br>Juan 6:47-51</h2>
-                <p>Jesús no dice «represento el pan de vida» ni «soy como el pan de vida». Dice:</p>
-                <!-- TODO: verificar Juan 6:47-51 en BJL -->
+                <h2>Yo soy el pan de Vida<br>Juan 6:47-51</h2>
+                <p>Jesús no dice «represento el pan de Vida» ni «soy como el pan de Vida». Dice:</p>
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Juan 6:47-51</span>
-                    <blockquote>«<strong class="s-hi">Les aseguro que el que cree tiene vida eterna. Yo soy el pan de vida.</strong> Sus padres comieron el maná en el desierto, y murieron. Este es el pan que baja del cielo, para que quien lo coma no muera. <strong class="s-hi">Yo soy el pan vivo bajado del cielo;</strong> y el pan que yo daré es <strong class="s-hi">mi carne</strong>, para la vida del mundo.»</blockquote>
+                    <blockquote>«<strong class="s-hi">Les aseguro que el que cree, tiene Vida eterna. Yo soy el pan de Vida.</strong> Sus padres, en el desierto, comieron el maná y murieron. Pero este es el pan que desciende del cielo, para que aquel que lo coma no muera. <strong class="s-hi">Yo soy el pan vivo bajado del cielo.</strong> El que coma de este pan vivirá eternamente, y el pan que yo daré es <strong class="s-hi">mi carne</strong> para la Vida del mundo.»</blockquote>
                 </div>
                 <p>El verbo «soy» no indica representación: indica identidad. Y lo que viene después no deja lugar a interpretaciones simbólicas:</p>
-                <!-- TODO: verificar Juan 6:53-55 en BJL -->
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Juan 6:53-55</span>
-                    <blockquote>«Les aseguro que <strong class="s-hi">si no comen la carne del Hijo del Hombre y no beben su sangre, no tienen vida en ustedes</strong>. El que come mi carne y bebe mi sangre tiene vida eterna, y yo lo resucitaré en el último día. Porque <strong class="s-hi">mi carne es verdadera comida y mi sangre es verdadera bebida.</strong>»</blockquote>
+                    <blockquote>«Jesús les respondió: «Les aseguro que <strong class="s-hi">si no comen la carne del Hijo del hombre y no beben su sangre, no tendrán Vida en ustedes</strong>. El que come mi carne y bebe mi sangre tiene Vida eterna, y yo lo resucitaré en el último día. Porque <strong class="s-hi">mi carne es la verdadera comida y mi sangre, la verdadera bebida.</strong>»</blockquote>
                 </div>
-                <p>No dice «si no recuerdan» ni «si no contemplan». Dice <em>comer</em> y <em>beber</em>. Y lo repite con distintas palabras para que no haya confusión: <em>verdadera comida</em> y <em>verdadera bebida</em>. El adjetivo «verdadera» excluye expresamente lo simbólico.</p>
+                <p>No dice «si no recuerdan» ni «si no contemplan». Dice <em>comer</em> y <em>beber</em>. Y lo repite con distintas palabras para que no haya confusión: <em>la verdadera comida</em> y <em>la verdadera bebida</em>. El adjetivo «verdadera» excluye expresamente lo simbólico.</p>
                 <h2>La objeción de la metáfora<br>Juan 15:1</h2>
-                <p>La respuesta habitual es: «Es una metáfora, como cuando dice "Yo soy la vid" o "Yo soy la puerta".» Hay que ir a la Biblia. Cuando Jesús dijo <em>«Yo soy la vid verdadera»</em> (Jn 15:1), nadie se fue. Cuando dijo «coman mi carne», muchos se fueron. La diferencia es decisiva:</p>
-                <!-- TODO: verificar Juan 6:60 en BJL -->
+                <p>La respuesta habitual es: «Es una metáfora, como cuando dice "Yo soy la vid" o "Yo soy la puerta".» Hay que ir a la Biblia. Cuando Jesús dijo <em>«Yo soy la verdadera vid»</em> (Jn 15:1), nadie se fue. Cuando dijo «coman mi carne», muchos se fueron. La diferencia es decisiva:</p>
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Juan 6:60</span>
-                    <blockquote>«Al oír esto, muchos de sus discípulos dijeron: <strong class="s-hi">«Este mensaje es muy difícil. ¿Quién puede aceptarlo?»</strong>»</blockquote>
+                    <blockquote>«Después de oírlo, muchos de sus discípulos decían: <strong class="s-hi">«¡Es duro este lenguaje! ¿Quién puede escucharlo?».</strong>»</blockquote>
                 </div>
-                <p>Jesús no los corrige diciendo «malentendieron, era una metáfora». Los deja partir. Esa es la prueba más contundente: si fuera simbólico, el buen pastor los hubiera retenido con una aclaración. No lo hace.</p>
+                <p>Jesús no los corrige diciendo «malentendieron, era una metáfora». Los deja partir. Esa es la prueba más contundente: si fuera simbólico, el buen pastor los hubiera retenido con una aclaración. No lo hace. Y hay que oír de qué se quejan: no dicen que sea difícil de entender, dicen que es duro de escuchar. Habían entendido perfectamente.</p>
                 <h2>Esto genera división<br>Juan 6:66-67</h2>
-                <!-- TODO: verificar Juan 6:66-67 en BJL -->
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Juan 6:66-67</span>
-                    <blockquote>«<strong class="s-hi">Desde ese momento, muchos de sus discípulos se echaron atrás y dejaron de acompañarlo.</strong> Entonces Jesús dijo a los Doce: <strong class="s-hi">«¿También ustedes quieren irse?»</strong>»</blockquote>
+                    <blockquote>«<strong class="s-hi">Desde ese momento, muchos de sus discípulos se alejaron de él y dejaron de acompañarlo.</strong> Jesús preguntó entonces a los Doce: <strong class="s-hi">«¿También ustedes quieren irse?».</strong>»</blockquote>
                 </div>
                 <p>No cede. No suaviza. No negocia el significado. Jesús es el buen pastor que no dejaría que ninguna oveja se perdiera por un malentendido —pero en esto es inflexible.</p>
                 <h2>No hay interpretación posible<br>Juan 6:68</h2>
-                <!-- TODO: verificar Juan 6:68 en BJL -->
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Juan 6:68</span>
-                    <blockquote>Simón Pedro le respondió: <strong class="s-hi">«Señor, ¿a quién vamos a ir? Tú tienes palabras de vida eterna.»</strong></blockquote>
+                    <blockquote>Simón Pedro le respondió: <strong class="s-hi">«Señor, ¿a quién iremos? Tú tienes palabras de Vida eterna.»</strong></blockquote>
                 </div>
                 <p>Pedro no dice que entiende todo. Dice que confía. Eso es la fe: no tener todas las respuestas, sino saber en Quién se cree.</p>
                 <ul>
                     <li>«Yo soy» — no representa, es.</li>
-                    <li>«Verdadera comida, verdadera bebida» — no simbólica.</li>
+                    <li>«La verdadera comida, la verdadera bebida» — no simbólica.</li>
                     <li>Jesús no corrige a quienes lo entendieron literalmente: los deja ir.</li>
                     <li>Pedro no lo entiende del todo, pero confía. Eso es la fe.</li>
                 </ul>
                 <h2>Pablo lo confirma — testigo independiente<br>1 Corintios 10:16 y 11:27-29</h2>
                 <p>Pablo escribe su primera carta a los Corintios antes de que se redacte el Evangelio de Juan. Son dos testigos completamente independientes. Pablo dice:</p>
-                <!-- TODO: verificar 1 Corintios 10:16 en BJL -->
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ 1 Corintios 10:16</span>
-                    <blockquote>«<strong class="s-hi">El cáliz de bendición que bendecimos, ¿no es la comunión de la sangre de Cristo? El pan que partimos, ¿no es la comunión del cuerpo de Cristo?</strong>»</blockquote>
+                    <blockquote>«<strong class="s-hi">La copa de bendición que bendecimos, ¿no es acaso comunión con la Sangre de Cristo? Y el pan que partimos, ¿no es comunión con el Cuerpo de Cristo?</strong>»</blockquote>
                 </div>
                 <p>No dice «recuerdo». Dice <em>comunión</em> —participación real, contacto efectivo. Y luego:</p>
-                <!-- TODO: verificar 1 Corintios 11:27-29 en BJL -->
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ 1 Corintios 11:27-29</span>
-                    <blockquote>«<strong class="s-hi">Así pues, quien coma el pan o beba el cáliz del Señor indignamente, será reo del cuerpo y de la sangre del Señor.</strong> Que cada cual se examine, pues, a sí mismo, y coma así el pan y beba el cáliz. Porque <strong class="s-hi">quien come y bebe sin discernir el Cuerpo</strong>, come y bebe su propia condenación.»</blockquote>
+                    <blockquote>«<strong class="s-hi">Por eso, el que coma el pan o beba la copa del Señor indignamente tendrá que dar cuenta del Cuerpo y de la Sangre del Señor.</strong> Que cada uno se examine a sí mismo antes de comer este pan y beber esta copa; porque <strong class="s-hi">si come y bebe sin discernir el Cuerpo del Señor</strong>, come y bebe su propia condenación.»</blockquote>
                 </div>
-                <p>La palabra griega ἔνοχος —reo— implica culpabilidad por un crimen real. No se puede ser reo de atentar contra un símbolo. Pablo dice además: «sin discernir el Cuerpo». Si fuera solo pan, ¿qué Cuerpo habría que discernir?</p>
+                <p>Hay que fijarse ante quién se responde. No se da cuenta del pan ni de la copa: se da cuenta <em>del Cuerpo y de la Sangre del Señor</em>. El griego que hay detrás es ἔνοχος, el término del que queda sujeto a juicio, el que tiene que responder ante un tribunal; nadie responde ante un tribunal por haber tratado mal un símbolo. Pablo dice además: «sin discernir el Cuerpo del Señor». Si fuera solo pan, ¿qué Cuerpo habría que discernir?</p>
                 <h2>Los primeros cristianos — testigos formados por los apóstoles</h2>
                 <p>Ignacio de Antioquía fue discípulo directo del apóstol Juan. Murió mártir alrededor del año 107 d.C. Escribió en su Carta a los Esmirniotas:</p>
                 <blockquote>«<strong class="s-hi">Se abstienen de la Eucaristía y de la oración, porque no confiesan que la Eucaristía es la carne de nuestro Salvador Jesucristo</strong>, la que padeció por nuestros pecados, la que el Padre resucitó por su bondad.» — Ignacio de Antioquía, Carta a los Esmirniotas 6-7 (~107 d.C.)</blockquote>
@@ -276,8 +277,8 @@ NUNCA Reina-Valera ni traducciones protestantes.
                 <blockquote>«<strong class="s-hi">No recibimos esto como pan común ni como bebida común</strong>... así también se nos ha enseñado que ese alimento eucaristizado es <strong class="s-hi">la carne y la sangre del Jesús encarnado.</strong>» — Justino Mártir, Primera Apología 66 (~150 d.C.)</blockquote>
                 <p>Si los primeros cristianos —formados por los apóstoles mismos— creyeron en la Presencia Real, la pregunta que merece respuesta honesta es: ¿quién cambió eso? ¿Cuándo? ¿Con qué autoridad?</p>
                 <h2>Conclusión</h2>
-                <p>Jesús afirma la presencia real con la frase más directa posible: «mi carne es verdadera comida». Ante la objeción de los que se escandalizan, no aclara ninguna metáfora: los deja irse. Pablo lo confirma desde afuera del relato joánico. Y los primeros discípulos de los apóstoles lo creyeron sin sombra de duda. Tres líneas de evidencia independientes. Ninguna tiene respuesta en la interpretación simbólica.</p>
-                <p>Para entender cómo esta realidad se hace presente en la Misa, continúa en el tema <a href="tema-transubstanciacion.html">Transubstanciación</a>, desde 1 Corintios 10:16. Y para entender por qué aceptamos estas palabras como verdad de Dios, ve al tema <a href="tema-por-que-creemos.html">¿Por qué creemos?</a></p>`,
+                <p>Jesús afirma la presencia real con la frase más directa posible: «mi carne es la verdadera comida». Ante la objeción de los que se escandalizan, no aclara ninguna metáfora: los deja irse. Pablo lo confirma desde afuera del relato joánico. Y los primeros discípulos de los apóstoles lo creyeron sin sombra de duda. Tres líneas de evidencia independientes. Ninguna tiene respuesta en la interpretación simbólica.</p>
+                <p>Cómo esta realidad se hace presente en la Misa está en el tema <a href="tema-transubstanciacion.html">Transubstanciación</a>, desde 1 Corintios 10:16. Y por qué estas palabras se aceptan como verdad de Dios, en el tema <a href="tema-por-que-creemos.html">¿Por qué creemos?</a></p>`,
       nav: {
         prevTitle: "Por qué creemos en la fe católica",
         nextTitle: "Transubstanciación: el misterio eucarístico"
@@ -522,93 +523,95 @@ Por tanto, <strong class="s-hi">también nosotros,</strong> rodeados de una nube
             </div>
             <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
       article: `<!--
-REGLA: Todas las citas bíblicas en español deben provenir de la
-"Biblia de Jerusalén Latinoamericana" (sin "vosotros"). Si no está
-disponible para un versículo, usar la versión oficial en vatican.va.
+REGLA: Las citas bíblicas en español salen de "El Libro del Pueblo de Dios"
+(vatican.va/archive/ESL0506/) o de la Biblia de Jerusalén Latinoamericana,
+según cuál sirva mejor al argumento; cada cita declara la suya con
+la marca "fuente:" que la precede. Ambas usan "ustedes".
 NUNCA Reina-Valera ni traducciones protestantes.
+Cotejadas el 27-ago-2026: 8 del Vaticano, 2 de Jerusalén (Mt 16:18 y 1 Tim 3:15).
 -->
-<p>¿Por qué creemos? No por tradición ciega ni por costumbre familiar. Creemos porque la Palabra de Dios fue atestiguada, transmitida fielmente y continúa siendo verdad. San Lucas lo dice desde el principio: investigó todo desde el comienzo para que conozcamos la verdad (Lc 1:1-4). Eso es lo que haremos aquí.</p>
+<p>¿Por qué creemos? No por tradición ciega ni por costumbre familiar. Creemos porque la Palabra de Dios fue atestiguada, transmitida fielmente y continúa siendo verdad. San Lucas lo dice desde el principio: se informó cuidadosamente de todo desde los orígenes para que conozcamos la verdad (Lc 1:1-4). Eso es lo que haremos aquí.</p>
                 <h2>La Palabra fue atestiguada<br>Lucas 1:1-4 y Juan 11:25-27</h2>
-                <p>Lucas nos dice que muchos se propusieron relatar los hechos cumplidos entre nosotros, <em>«tal como nos los transmitieron quienes desde el principio fueron testigos oculares y servidores de la Palabra»</em> (Lc 1:2). No son leyendas: son testimonios. Lo que Jesús dijo, vivió y enseñó fue visto y transmitido por testigos reales.</p>
-                <p>Marta, ante la tumba de su hermano, lo reconoce sin dudarlo: <em>«Sí, Señor, yo creo que tú eres el Mesías, el Hijo de Dios, el que tenía que venir al mundo»</em> (Jn 11:27). La fe no es irracional: es la respuesta a una revelación verificada por quienes la vivieron.</p>
-                <!-- TODO: verificar Lucas 1:4 en BJL -->
+                <p>Lucas nos dice que muchos trataron de relatar ordenadamente los acontecimientos cumplidos entre nosotros, <em>«tal como nos fueron transmitidos por aquellos que han sido desde el comienzo testigos oculares y servidores de la Palabra»</em> (Lc 1:2). No son leyendas: son testimonios. Lo que Jesús dijo, vivió y enseñó fue visto y transmitido por testigos reales.</p>
+                <p>Marta, ante la tumba de su hermano, lo reconoce sin dudarlo: <em>«Sí, Señor, creo que tú eres el Mesías, el Hijo de Dios, el que debía venir al mundo»</em> (Jn 11:27). La fe no es irracional: es la respuesta a una revelación verificada por quienes la vivieron.</p>
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Lucas 1:4</span>
-                    <blockquote>«Para que <strong class="s-hi">conozcas la solidez</strong> de las enseñanzas que has recibido.»</blockquote>
+                    <blockquote>«a fin de que <strong class="s-hi">conozcas bien la solidez</strong> de las enseñanzas que has recibido.»</blockquote>
                 </div>
-                <h2>Hay que leer la Palabra de Dios<br>Lucas 8:5-8, 8:11-12 y Salmo 119</h2>
-                <p>La parábola del sembrador lo deja claro: <em>«La semilla es la Palabra de Dios»</em> (Lc 8:11). El diablo sabe que la Palabra de Dios hace brotar la salvación, por eso la arrebata, la ahoga y la aplasta (Lc 8:12). No es casualidad que el enemigo luche contra su lectura.</p>
-                <p>El Salmo 119:72 afirma que la ley de Dios vale más que miles de monedas de oro y plata. Y si alguien pregunta qué gana leyendo la Biblia, San Pablo responde: <em>«Desde tu niñez conoces las Sagradas Escrituras, que pueden darte la sabiduría que lleva a la salvación mediante la fe en Cristo Jesús»</em> (2 Tim 3:15).</p>
-                <p>El Salmo 119:103-105 da la imagen más hermosa: <em>«¡Qué dulces son a mi paladar tus palabras! Más que la miel en mi boca... Tu palabra es una lámpara para mis pies, una luz en mi camino.»</em> Quien no lee la Palabra de Dios camina en la oscuridad.</p>
-                <!-- TODO: verificar Salmo 119:105 en BJL -->
+                <h2>El enemigo pelea contra su lectura<br>Lucas 8:5-8, 8:11-12 y Salmo 119</h2>
+                <p>La parábola del sembrador lo deja claro: <em>«La semilla es la Palabra de Dios»</em> (Lc 8:11). El demonio sabe que la Palabra de Dios hace brotar la salvación, y por eso <em>«arrebata la Palabra de sus corazones, para que no crean y se salven»</em> (Lc 8:12). No es casualidad que el enemigo luche contra su lectura.</p>
+                <p>El Salmo 119:72 afirma que la ley de los labios de Dios vale más que todo el oro y la plata. Y si alguien pregunta qué gana leyendo la Biblia, San Pablo responde: <em>«desde la niñez conoces las Sagradas Escrituras: ellas pueden darte la sabiduría que conduce a la salvación, mediante la fe en Cristo Jesús»</em> (2 Tim 3:15).</p>
+                <p>El Salmo 119:103-105 da la imagen más hermosa: <em>«¡Qué dulce es tu palabra para mi boca, es más dulce que la miel!... Tu palabra es una lámpara para mis pasos, y una luz en mi camino.»</em> Quien no lee la Palabra de Dios camina en la oscuridad.</p>
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Salmo 119:105</span>
-                    <blockquote>«<strong class="s-hi">Tu palabra es una lámpara para mis pies, una luz en mi camino.</strong>»</blockquote>
+                    <blockquote>«<strong class="s-hi">Tu palabra es una lámpara para mis pasos, y una luz en mi camino.</strong>»</blockquote>
                 </div>
                 <h2>La Palabra es de Dios<br>2 Pedro 1:19 y Juan 17:17</h2>
-                <p>Esto no es opinión humana. San Pedro lo afirma: la palabra de los profetas es la palabra de Dios (2 Pe 1:19). Y el mismo Jesús, en su oración al Padre, lo confirma: <em>«Tu palabra es verdad»</em> (Jn 17:17). Y Jesús mismo lo dijo: <em>«Dichosos los que escuchan la Palabra de Dios y la cumplen»</em> (Lc 11:28). No dijo los que la conocen o los que la citan; dijo los que la <strong class="s-hi">cumplen</strong>.</p>
+                <p>Esto no es opinión humana. San Pedro llama a la palabra de los profetas <em>«una lámpara que brilla en un lugar oscuro»</em>, y manda prestarle atención (2 Pe 1:19). Y el mismo Jesús, en su oración al Padre, lo confirma: <em>«tu palabra es verdad»</em> (Jn 17:17). Y Jesús mismo lo dijo: <em>«Felices más bien los que escuchan la Palabra de Dios y la practican»</em> (Lc 11:28). No dijo los que la conocen ni los que la citan; dijo los que la <strong class="s-hi">practican</strong>.</p>
                 <h2>La fe es hacer lo que Él dice<br>Lucas 5:5 y Juan 2:5</h2>
-                <p>Pedro había pescado toda la noche y no había sacado nada. Por su experiencia humana, echar las redes de día no tenía ningún sentido. Pero dijo algo que resume toda la fe: <em>«Maestro, hemos trabajado toda la noche y no hemos pescado nada; pero, porque tú lo dices, echaré las redes»</em> (Lc 5:5). Y por eso, precisamente, Jesús lo hizo pescador de hombres, a él y no a los demás (Lc 5:10).</p>
-                <p>En Caná, la Virgen María da la instrucción definitiva a los sirvientes: <em>«Hagan lo que él les diga»</em> (Jn 2:5). Los cántaros se llenaron de agua, pero se convirtieron en vino cuando los sirvientes cumplieron sus órdenes hasta el final (Jn 2:8). La fe no es solo creer: es cumplir. Véase el tema de la Eucaristía desde Mateo 8:5 y el de la Transubstanciación desde 1 Corintios 10:16.</p>
-                <!-- TODO: verificar Lucas 5:5 en BJL -->
+                <p>Pedro había pescado toda la noche y no había sacado nada. Por su experiencia humana, echar las redes de día no tenía ningún sentido. Pero dijo algo que resume toda la fe: <em>«Maestro, hemos trabajado la noche entera y no hemos sacado nada, pero si tú lo dices, echaré las redes»</em> (Lc 5:5). Y por eso, precisamente, Jesús lo hizo pescador de hombres, a él y no a los demás (Lc 5:10).</p>
+                <p>En Caná, la Virgen María da la instrucción definitiva a los sirvientes: <em>«Hagan todo lo que él les diga»</em> (Jn 2:5). Las tinajas se llenaron de agua, y el agua se convirtió en vino cuando los sirvientes cumplieron sus órdenes hasta el final: <em>«Así lo hicieron»</em> (Jn 2:8). La fe no es solo creer: es cumplir. El desarrollo de esto está en los temas de <a href="tema-la-eucaristia.html">La Eucaristía</a> y de <a href="tema-transubstanciacion.html">Transubstanciación</a>.</p>
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Lucas 5:5</span>
-                    <blockquote>«<strong class="s-hi">Porque tú lo dices, echaré las redes.</strong>»</blockquote>
+                    <blockquote>«Simón le respondió: Maestro, hemos trabajado la noche entera y no hemos sacado nada, <strong class="s-hi">pero si tú lo dices, echaré las redes.</strong>»</blockquote>
                 </div>
                 <h2>¿De dónde viene tu Biblia?<br>El sola scriptura y sus problemas</h2>
                 <p>Hay quienes dicen: «Solo la Biblia es la regla de fe. La Biblia es suficiente.» Bien. Vamos a la Biblia.</p>
-                <!-- TODO: verificar 2 Timoteo 3:16-17 en BJL -->
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ 2 Timoteo 3:16-17</span>
-                    <blockquote>«<strong class="s-hi">Toda Escritura es inspirada por Dios y útil para enseñar, para reprender, para corregir, para instruir en la justicia</strong>, a fin de que el hombre de Dios esté perfectamente equipado para toda obra buena.»</blockquote>
+                    <blockquote>«<strong class="s-hi">Toda la Escritura está inspirada por Dios, y es útil para enseñar y para argüir, para corregir y para educar en la justicia</strong>, a fin de que el hombre de Dios sea perfecto y esté preparado para hacer siempre el bien.»</blockquote>
                 </div>
                 <p>La palabra que usa Pablo es «útil» —en griego ὠφέλιμος— no «exclusiva» ni «única regla de fe». El versículo nunca dice que la Escritura sola es suficiente para todo. Y hay algo más importante: si el único criterio de verdad fuera «lo que dice la Biblia», entonces el sola scriptura tendría que estar en la Biblia para ser válido. Y no está. El argumento se destruye a sí mismo con su propio criterio.</p>
                 <h2>¿Quién fijó el canon?<br>El problema que el sola scriptura no puede responder</h2>
                 <p>El Nuevo Testamento no llegó con un índice. Durante los primeros siglos, distintas comunidades usaban distintos textos. ¿Cómo se decidió qué es Palabra de Dios y qué no lo es? La Iglesia Católica, en los concilios de Hipona (393 d.C.) y Cartago (397 d.C.), determinó el canon bíblico que el mundo cristiano usa hasta hoy. El que rechaza la autoridad de la Iglesia Católica para enseñar doctrina está confiando en esa misma Iglesia para saber qué libros leer. No es posible tener coherencia de otra manera.</p>
                 <h2>La Tradición oral es bíblica<br>2 Tesalonicenses 2:15 y 2 Timoteo 2:2</h2>
                 <p>Pablo no enseñó solo por carta. Ordenó guardar también la tradición oral:</p>
-                <!-- TODO: verificar 2 Tesalonicenses 2:15 en BJL -->
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ 2 Tesalonicenses 2:15</span>
-                    <blockquote>«Así pues, hermanos, <strong class="s-hi">manténganse firmes y conserven las tradiciones que aprendieron de nosotros, ya sea de viva voz o por carta.</strong>»</blockquote>
+                    <blockquote>«Por lo tanto, hermanos, <strong class="s-hi">manténganse firmes y conserven fielmente las tradiciones que aprendieron de nosotros, sea oralmente o por carta.</strong>»</blockquote>
                 </div>
                 <p>Y encargó que esa tradición se transmitiera de generación en generación:</p>
-                <!-- TODO: verificar 2 Timoteo 2:2 en BJL -->
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ 2 Timoteo 2:2</span>
-                    <blockquote>«<strong class="s-hi">Lo que me has oído decir en presencia de muchos testigos, confíalo a hombres fidedignos que sean capaces de enseñar a otros.</strong>»</blockquote>
+                    <blockquote>«<strong class="s-hi">Lo que oíste de mí y está corroborado por numerosos testigos, confíalo a hombres responsables que sean capaces de enseñar a otros.</strong>»</blockquote>
                 </div>
-                <p>Cuatro generaciones de transmisión en un solo versículo: Pablo → Timoteo → hombres fidedignos → otros. Y el mismo Juan lo reconoce al final de su Evangelio:</p>
-                <!-- TODO: verificar Juan 21:25 en BJL -->
+                <p>Cuatro generaciones de transmisión en un solo versículo: Pablo → Timoteo → hombres responsables → otros. Y el mismo Juan lo reconoce al final de su Evangelio:</p>
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Juan 21:25</span>
-                    <blockquote>«<strong class="s-hi">Hay también otras muchas cosas que hizo Jesús; si se escribieran una por una, pienso que ni el mundo entero bastaría para contener los libros que se escribirían.</strong>»</blockquote>
+                    <blockquote>«<strong class="s-hi">Jesús hizo también muchas otras cosas. Si se las relata detalladamente, pienso que no bastaría todo el mundo para contener los libros que se escribirían.</strong>»</blockquote>
                 </div>
                 <p>Jesús mismo no escribió una sola línea. Envió apóstoles a predicar, no a escribir.</p>
                 <h2>La interpretación privada está prohibida por la Biblia<br>2 Pedro 1:20-21</h2>
                 <p>Pedro lo dice con claridad:</p>
-                <!-- TODO: verificar 2 Pedro 1:20-21 en BJL -->
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ 2 Pedro 1:20-21</span>
-                    <blockquote>«<strong class="s-hi">Tengan esto en cuenta ante todo: ninguna profecía de la Escritura es de interpretación personal</strong>, pues la profecía nunca ha venido por la voluntad humana, sino que hombres movidos por el Espíritu Santo hablaron de parte de Dios.»</blockquote>
+                    <blockquote>«Pero tengan presente, ante todo, que <strong class="s-hi">nadie puede interpretar por cuenta propia una profecía de la Escritura</strong>. Porque ninguna profecía ha sido anunciada por voluntad humana, sino que los hombres han hablado de parte de Dios, impulsados por el Espíritu Santo.»</blockquote>
                 </div>
-                <p>Desde 1517, hay más de 45.000 denominaciones distintas que leen la misma Biblia y llegan a conclusiones opuestas sobre el bautismo, la Eucaristía, la salvación y la moral. Jesús oró por algo diferente: <em>«<strong class="s-hi">para que todos sean uno</strong>»</em> (Jn 17:21). La pregunta que se impone: ¿puede el Espíritu Santo guiar simultáneamente a todas esas posiciones contradictorias?</p>
+                <p>Desde 1517, hay más de 45.000 denominaciones distintas que leen la misma Biblia y llegan a conclusiones opuestas sobre el bautismo, la Eucaristía, la salvación y la moral. Jesús oró por algo diferente: <em>«<strong class="s-hi">Que todos sean uno</strong>»</em> (Jn 17:21). La pregunta que se impone: ¿puede el Espíritu Santo guiar simultáneamente a todas esas posiciones contradictorias?</p>
                 <h2>La Iglesia es la columna de la verdad<br>1 Timoteo 3:15 y Mateo 16:18</h2>
                 <p>La Biblia no se llama a sí misma columna de la verdad. Llama a la Iglesia:</p>
-                <!-- TODO: verificar 1 Timoteo 3:15 en BJL -->
+                <!-- fuente: bj -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ 1 Timoteo 3:15</span>
                     <blockquote>«La Iglesia del Dios vivo, <strong class="s-hi">columna y fundamento de la verdad.</strong>»</blockquote>
                 </div>
                 <p>Y Jesús hizo una promesa institucional sobre ella:</p>
-                <!-- TODO: verificar Mateo 16:18 en BJL -->
+                <!-- fuente: bj -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Mateo 16:18</span>
                     <blockquote>«Y yo a mi vez te digo que tú eres Pedro, y sobre esta roca edificaré mi Iglesia, <strong class="s-hi">y las puertas del infierno no prevalecerán contra ella.</strong>»</blockquote>
                 </div>
-                <p>Esa promesa protege el Magisterio —la enseñanza oficial de la Iglesia— de enseñar error definitivamente. No significa que cada miembro sea impecable. Significa que la verdad que Cristo confió a su Iglesia no puede ser destruida.</p>
+                <p>Esa promesa protege el Magisterio —la enseñanza oficial de la Iglesia— de enseñar error definitivamente. No significa que cada miembro sea impecable. Significa que la verdad que Cristo confió a su Iglesia no puede ser destruida: en el griego, las πύλαι ᾅδου, el poder de la muerte y del sepulcro, no se la llevan por delante.</p>
                 <h2>Conclusión: creer y cumplir</h2>
-                <p>La Palabra de los profetas es de Dios. Los apóstoles la atestiguaron. Hay que leerla toda —incluyendo lo que dice sobre la Tradición oral, sobre quién interpreta y sobre la Iglesia que Cristo fundó. Y hay que hacer lo que Dios dice: eso es la fe. No el que dice «Señor, Señor» se salvará, sino el que cumple la voluntad del Padre (Mt 7:21). La Biblia, leída entera y con honestidad, señala hacia la misma Iglesia que Jesús fundó. Creer es confiar en Jesucristo aunque la experiencia humana diga lo contrario, como hizo Pedro en el lago. Y ese acto de confianza lo cambia todo.</p>`,
+                <p>La Palabra de los profetas es de Dios. Los apóstoles la atestiguaron. Hay que leerla toda —incluyendo lo que dice sobre la Tradición oral, sobre quién interpreta y sobre la Iglesia que Cristo fundó. Y la fe consiste en hacer lo que Dios dice. No entran en el Reino los que dicen «Señor, Señor», sino los que cumplen la voluntad del Padre (Mt 7:21). La Biblia, leída entera y con honestidad, señala hacia la misma Iglesia que Jesús fundó. Creer es confiar en Jesucristo aunque la experiencia humana diga lo contrario, como hizo Pedro en el lago. Y ese acto de confianza lo cambia todo.</p>`,
       nav: {
         prevTitle: "El Sacerdocio en la Iglesia Católica",
         nextTitle: "La Eucaristía: el sacramento central"
@@ -628,16 +631,18 @@ NUNCA Reina-Valera ni traducciones protestantes.
             </div>
             <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
       article: `<!--
-REGLA: Todas las citas bíblicas en español deben provenir de la
-"Biblia de Jerusalén Latinoamericana" (sin "vosotros"). Si no está
-disponible para un versículo, usar la versión oficial en vatican.va.
+REGLA: Las citas bíblicas en español salen de "El Libro del Pueblo de Dios"
+(vatican.va/archive/ESL0506/) o de la Biblia de Jerusalén Latinoamericana,
+según cuál sirva mejor al argumento; cada cita declara la suya con
+la marca "fuente:" que la precede. Ambas usan "ustedes".
 NUNCA Reina-Valera ni traducciones protestantes.
+Cotejadas el 27-ago-2026: 6 del Vaticano, 2 de Jerusalén (Heb 5:1-2 y 5:4).
 -->
-<p>Hay una pregunta que no puede quedar sin respuesta: Jesús dijo <em>«A quienes les perdonen los pecados, les serán perdonados; a quienes se los retengan, les serán retenidos»</em> (Jn 20:22-23). ¿A quién le habló? ¿Y cómo se retienen los pecados de alguien sin saber cuáles son? Eso exige confesión. Eso exige un sacerdote con autoridad para perdonar. Pero primero hay que responder la objeción.</p>
-                <!-- TODO: agregar [Crítica común] — mencionar explícitamente que Testigos de Jehová, adventistas y pentecostales niegan el sacerdocio ordenado y citan 1 Pe 2:9 para argumentar que "todos somos sacerdotes" sin distinción -->
+<p>Hay una pregunta que no puede quedar sin respuesta: Jesús dijo <em>«Los pecados serán perdonados a los que ustedes se los perdonen, y serán retenidos a los que ustedes se los retengan»</em> (Jn 20:23). ¿A quién le habló? ¿Y cómo se retienen los pecados de alguien sin saber cuáles son? Eso exige confesión. Eso exige un sacerdote con autoridad para perdonar. Pero primero hay que responder la objeción.</p>
+                <p>Testigos de Jehová, adventistas y pentecostales la formulan casi con las mismas palabras: <em>«Todos los creyentes somos sacerdotes; no hace falta ningún intermediario.»</em> Y citan para eso 1 Pedro 2:9. La respuesta no consiste en negar ese versículo —es verdadero y está en la Biblia— sino en leer los otros, que están en la misma Biblia y hablan de un segundo sacerdocio que nadie se toma por su cuenta.</p>
                 <h2>Un hombre tomado de entre los hombres<br>Hebreos 5:1-2</h2>
                 <p>La carta a los Hebreos es clara desde el principio:</p>
-                <!-- TODO: verificar Hebreos 5:1-2 en BJL -->
+                <!-- fuente: bj -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Hebreos 5:1-2</span>
                     <blockquote>«<strong class="s-hi">Todo sumo sacerdote es tomado de entre los hombres</strong> y puesto al servicio de Dios en favor de ellos, para ofrecer dones y sacrificios por los pecados. Puede compadecerse de los ignorantes y extraviados, ya que él mismo está rodeado de debilidad.»</blockquote>
@@ -645,58 +650,58 @@ NUNCA Reina-Valera ni traducciones protestantes.
                 <p>El sacerdote no está por encima de la condición humana. Comparte las mismas luchas, tentaciones y debilidades de cualquier creyente. Esta es la base de la compasión pastoral: nadie puede acompañar genuinamente al otro en lo que no conoce. El sacerdote puede compadecerse porque también él lucha.</p>
                 <h2>Santo por Dios, no por mérito propio<br>Levítico 21:6-8</h2>
                 <p>En el Levítico, Dios establece que los sacerdotes deben ser considerados santos. Pero la santidad que se les pide no es perfección moral absoluta, sino consagración: están apartados para Dios y su servicio:</p>
-                <!-- TODO: verificar Levítico 21:6-8 en BJL -->
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Levítico 21:6-8</span>
-                    <blockquote>«Serán santos para su Dios y no profanarán el nombre de su Dios... <strong class="s-hi">Lo considerarán como santo, porque yo, el Señor que los santifico, soy santo.</strong>»</blockquote>
+                    <blockquote>«<strong class="s-hi">Estarán consagrados a su Dios y no profanarán el nombre de su Dios</strong>... <strong class="s-hi">Deberás considerarlo santo</strong>, porque él ofrece el alimento de tu Dios. <strong class="s-hi">Será santo para ti, porque yo, el Señor que te santifico, soy santo.</strong>»</blockquote>
                 </div>
-                <p>El pueblo debe considerar santo al sacerdote no por méritos propios, sino por Dios. La santidad del ministerio viene de Quien lo instituyó. Esto nos libera de una expectativa equivocada: nuestra fe no reposa en la virtud del ministro, sino en la fidelidad de Dios.</p>
+                <p>Conviene ver en quién se funda esa santidad. No dice «será santo porque se lo ha ganado»: dice <em>porque yo, el Señor que te santifico, soy santo</em>. Al pueblo se le manda considerarlo santo por Dios, no por los méritos del hombre. Esto libera de una expectativa equivocada: la fe no reposa en la virtud del ministro, sino en la fidelidad de Dios.</p>
                 <h2>«Todos somos sacerdotes» — la objeción y su límite<br>1 Pedro 2:9 y Hebreos 5:4</h2>
                 <p>San Pedro lo dice con claridad:</p>
-                <!-- TODO: verificar 1 Pedro 2:9 en BJL -->
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ 1 Pedro 2:9</span>
-                    <blockquote>«<strong class="s-hi">Ustedes son una raza elegida, un sacerdocio real, una nación santa</strong>, un pueblo adquirido para anunciar las alabanzas de Aquel que los llamó de las tinieblas a su admirable luz.»</blockquote>
+                    <blockquote>«Ustedes, en cambio, son <strong class="s-hi">una raza elegida, un sacerdocio real, una nación santa</strong>, un pueblo adquirido para anunciar las maravillas de aquel que los llamó de las tinieblas a su admirable luz:»</blockquote>
                 </div>
                 <p>El sacerdocio bautismal es real. Nadie lo niega. Pero hay dos sacerdocios en el Nuevo Testamento, no uno. La misma carta a los Hebreos lo distingue con precisión:</p>
-                <!-- TODO: verificar Hebreos 5:4 en BJL -->
+                <!-- fuente: bj -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Hebreos 5:4</span>
                     <blockquote>«<strong class="s-hi">Nadie se apropia este honor, sino que es llamado por Dios, como lo fue Aarón.</strong>»</blockquote>
                 </div>
-                <p>Hay un sacerdocio que se recibe en el bautismo, y hay otro que requiere llamado y consagración específica. Esto no es una invención tardía. Cuando Coré y su gente argumentaron que <em>«toda la comunidad es santa, todos y cada uno, y el Señor está en medio de ellos»</em> (Núm 16:3) —reclamando acceso al sacerdocio ministerial sin vocación— Dios respondió abriéndose la tierra bajo sus pies. Y está en el Nuevo Testamento:</p>
-                <!-- TODO: verificar Hechos 14:23 en BJL -->
+                <p>Hay un sacerdocio que se recibe en el bautismo, y hay otro que requiere llamado y consagración específica. Esto no es una invención tardía. Cuando Coré y su gente argumentaron que <em>«Toda la comunidad es sagrada, y el Señor está en medio de ella»</em> (Núm 16:3) —reclamando acceso al sacerdocio ministerial sin vocación— Dios respondió abriéndose la tierra bajo sus pies. Y está en el Nuevo Testamento:</p>
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Hechos 14:23</span>
-                    <blockquote>«<strong class="s-hi">En cada iglesia nombraron presbíteros</strong>, y después de orar y ayunar, los encomendaron al Señor en quien habían puesto su fe.»</blockquote>
+                    <blockquote>«<strong class="s-hi">En cada comunidad establecieron presbíteros</strong>, y con oración y ayuno, los encomendaron al Señor en el que habían creído.»</blockquote>
                 </div>
-                <p>Pablo le ordena a Tito: <em>«Te dejé en Creta para que terminaras de organizar lo que faltaba, y para que <strong class="s-hi">establecieras presbíteros en cada ciudad</strong>»</em> (Tit 1:5). A Timoteo le recuerda: <em>«No descuides el don que tienes, que te fue concedido mediante una profecía, con la <strong class="s-hi">imposición de manos de los presbíteros</strong>»</em> (1 Tim 4:14). Esto es estructura, no metáfora.</p>
+                <p>Pablo le ordena a Tito: <em>«Te he dejado en Creta, para que terminaras de organizarlo todo y <strong class="s-hi">establecieras presbíteros en cada ciudad</strong> de acuerdo con mis instrucciones»</em> (Tit 1:5). A Timoteo le recuerda: <em>«No malogres el don espiritual que hay en ti y que te fue conferido mediante una intervención profética, por la <strong class="s-hi">imposición de las manos del presbiterio</strong>»</em> (1 Tim 4:14). Presbiterio: un cuerpo constituido, con manos que se imponen y un don que se transmite. Esto es estructura, no metáfora.</p>
                 <h2>«No llames a nadie padre» — respuesta bíblica<br>Mateo 23:9</h2>
-                <p>Jesús dice en Mateo 23:9: <em>«<strong class="s-hi">No llamen a nadie padre vuestro en la tierra</strong>, porque uno solo es vuestro Padre, el que está en los cielos.»</em> El que usa este versículo contra el sacerdocio católico tiene un problema: la misma Biblia lo contradice en varios pasajes.</p>
-                <p>San Pablo se llama a sí mismo padre: <em>«Pues aunque tuviesen diez mil pedagogos en Cristo, no tienen muchos padres: <strong class="s-hi">fui yo quien los engendré en Cristo Jesús por medio del Evangelio</strong>»</em> (1 Cor 4:15). Esteban, ante quienes lo apedrearían, los llama: <em>«<strong class="s-hi">Hermanos y padres</strong>, escúchenme»</em> (Hch 7:2). Abraham es llamado repetidamente <em>«padre de la circuncisión»</em> (Rom 4:12). El propio Jesús habla del padre de cada uno (Mt 7:11, Lc 15:11-32).</p>
+                <p>Jesús dice en Mateo 23:9: <em>«<strong class="s-hi">Nadie en el mundo llamen "padre"</strong>, porque no tienen sino uno, el Padre celestial.»</em> El que usa este versículo contra el sacerdocio católico tiene un problema: la misma Biblia lo contradice en varios pasajes.</p>
+                <p>San Pablo se llama a sí mismo padre: <em>«aunque tengan diez mil preceptores en Cristo, no tienen muchos padres: <strong class="s-hi">soy yo el que los ha engendrado en Cristo Jesús</strong>, mediante la predicación de la Buena Noticia»</em> (1 Cor 4:15). Esteban, ante quienes lo apedrearían, los llama: <em>«<strong class="s-hi">Hermanos y padres</strong>, escuchen»</em> (Hch 7:2). De Abraham se dice que es <em>«padre de los que se circuncidan»</em> y <em>«nuestro padre Abraham»</em> (Rom 4:12). El propio Jesús habla del padre de cada uno (Mt 7:11, Lc 15:11-32).</p>
                 <p>Mateo 23:9 no prohíbe el uso gramatical de la palabra: prohíbe la idolatría de la autoridad humana, colocar a un hombre en el lugar de Dios. El contexto lo dice: Jesús habla contra los fariseos que buscan honores y títulos para sí mismos.</p>
                 <h2>El perdón de los pecados — Juan 20:22-23</h2>
-                <p>Volvamos al punto de partida. Jesús resucitado se aparece a los apóstoles, sopla sobre ellos —el mismo gesto que en el Génesis 2:7 cuando dio vida al hombre de barro— y les dice:</p>
-                <!-- TODO: verificar Juan 20:22-23 en BJL -->
+                <p>Volvamos al punto de partida. Jesús resucitado se aparece a los apóstoles y sopla sobre ellos —el mismo gesto del Génesis, cuando <em>«sopló en su nariz un aliento de vida»</em> y el hombre de arcilla se convirtió en un ser viviente (Gn 2:7)—:</p>
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Juan 20:22-23</span>
-                    <blockquote>«Reciban el Espíritu Santo. <strong class="s-hi">A quienes les perdonen los pecados, les serán perdonados; a quienes se los retengan, les serán retenidos.</strong>»</blockquote>
+                    <blockquote>«Al decirles esto, sopló sobre ellos y añadió: <strong class="s-hi">«Reciban al Espíritu Santo. Los pecados serán perdonados a los que ustedes se los perdonen, y serán retenidos a los que ustedes se los retengan.»</strong>»</blockquote>
                 </div>
-                <p>¿Cómo se retienen los pecados de alguien sin saber cuáles son? No se puede. Este versículo exige que el penitente declare sus pecados. Eso es la confesión sacramental, instituida por Cristo mismo.</p>
+                <p>Hay que detenerse en el verbo que nadie cita: <em>retener</em>. ¿Cómo se retienen los pecados de alguien sin saber cuáles son? No se puede. Este versículo exige que el penitente declare sus pecados, porque sin oírlos no hay nada que perdonar ni que retener. Eso es la confesión sacramental, instituida por Cristo mismo.</p>
                 <h2>El altar y el sacrificio en el Nuevo Testamento<br>Hebreos 13:10 y Malaquías 1:11</h2>
                 <p>Si no hay sacerdocio ni sacrificio en el Nuevo Testamento, ¿por qué la carta a los Hebreos dice esto?</p>
-                <!-- TODO: verificar Hebreos 13:10 en BJL -->
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Hebreos 13:10</span>
-                    <blockquote>«<strong class="s-hi">Tenemos un altar</strong> del que no tienen derecho a comer los que sirven al tabernáculo.»</blockquote>
+                    <blockquote>«<strong class="s-hi">Nosotros tenemos un altar</strong> del que no tienen derecho a comer los ministros de la Antigua Alianza.»</blockquote>
                 </div>
                 <p>Y el profeta Malaquías, siglos antes de Cristo, anunció:</p>
-                <!-- TODO: verificar Malaquías 1:11 en BJL -->
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Malaquías 1:11</span>
-                    <blockquote>«Desde el oriente hasta el poniente mi nombre es grande entre las naciones, y <strong class="s-hi">en todo lugar se ofrece a mi nombre incienso y una ofrenda pura</strong>, porque mi nombre es grande entre las naciones —dice el Señor de los ejércitos—.»</blockquote>
+                    <blockquote>«Pero desde la salida del sol hasta su ocaso, mi Nombre es grande entre las naciones y <strong class="s-hi">en todo lugar se presenta a mi Nombre un sacrificio de incienso y una ofrenda pura</strong>; porque mi Nombre es grande entre las naciones, dice el Señor de los ejércitos.»</blockquote>
                 </div>
-                <p>Una ofrenda pura en todo lugar de la tierra. Los Padres de los primeros siglos reconocieron en esto la Eucaristía —el único sacrificio que cumple esa profecía.</p>
+                <p>Un sacrificio y una ofrenda pura, en todo lugar de la tierra, y anunciados por un profeta cuando el único altar legítimo estaba en Jerusalén. Los Padres de los primeros siglos reconocieron en esto la Eucaristía —el único sacrificio que cumple esa profecía—. Y si hay sacrificio, hay quien lo ofrece.</p>
                 <h2>Lo que la Escritura nos enseña</h2>
                 <ul>
                     <li>El sacerdote es un hombre como todos, que puede luchar y fallar.</li>
@@ -735,6 +740,7 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
                 <p>La segunda se responde en una línea: tampoco están las palabras «Trinidad» ni «Biblia», y nadie discute lo que nombran. Una palabra no crea el hecho: lo nombra. La primera es la que importa, y no se responde con filosofía sino con la Escritura, porque la Escritura ya contó lo que ocurre cuando Cristo dice que una cosa es otra. Cinco pasajes, en orden.</p>
                 <h2>La Palabra no describe: hace<br>Juan 1:1-3</h2>
                 <p>Antes de discutir qué puede pasarle al pan hay que saber qué es una palabra de Dios.</p>
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Juan 1:1-3</span>
                     <blockquote>«Al principio existía <strong class="s-hi">la Palabra</strong>, y la Palabra estaba junto a Dios, y <strong class="s-hi">la Palabra era Dios</strong>. Al principio estaba junto a Dios. <strong class="s-hi">Todas las cosas fueron hechas por medio de la Palabra</strong> y sin ella no se hizo nada de todo lo que existe.»</blockquote>
@@ -742,6 +748,7 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
                 <p>La Palabra de Dios no describe la realidad: la causa. Nada de lo que existe existía antes de que ella lo dijera, y todo lo que existe existe porque ella lo dijo. Ese es el punto de partida, y no es menor: preguntar cómo el pan puede dejar de ser pan es preguntar, con otras palabras, cómo la nada pudo dejar de ser nada. Ya ocurrió una vez. Ocurrió por lo mismo.</p>
                 <h2>Caná: el agua cambió cuando le obedecieron<br>Juan 2:6-9</h2>
                 <p>Hay un caso donde esa Palabra actúa delante de testigos y sobre una sustancia concreta.</p>
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Juan 2:6-9</span>
                     <blockquote>«Había allí seis tinajas de piedra destinadas a los ritos de purificación de los judíos, que contenían unos cien litros cada una. Jesús dijo a los sirvientes: <strong class="s-hi">«Llenen de agua estas tinajas».</strong> Y las llenaron hasta el borde. «Saquen ahora, agregó Jesús, y lleven al encargado del banquete». <strong class="s-hi">Así lo hicieron.</strong> El encargado probó <strong class="s-hi">el agua cambiada en vino</strong> y como ignoraba su origen, <strong class="s-hi">aunque lo sabían los sirvientes que habían sacado el agua</strong>, llamó al esposo.»</blockquote>
@@ -750,6 +757,7 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
                 <p>Y el evangelista se detiene a anotar un detalle que suele pasarse por alto: el encargado del banquete ignoraba el origen de aquel vino, y los sirvientes lo sabían. Los que habían hecho lo que Cristo mandó eran los únicos que sabían qué acababa de ocurrir. Los demás bebieron el milagro sin enterarse de que lo estaban bebiendo. En la Misa sucede exactamente lo mismo, y por la misma razón.</p>
                 <h2>La misma boca, la misma fórmula<br>Juan 6:47-51</h2>
                 <p>El que mandó llenar las tinajas dice después esto:</p>
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Juan 6:47-51</span>
                     <blockquote>«<strong class="s-hi">Les aseguro</strong> que el que cree, tiene Vida eterna. <strong class="s-hi">Yo soy el pan de Vida.</strong> Sus padres, en el desierto, comieron el maná y murieron. Pero este es el pan que desciende del cielo, para que aquel que lo coma no muera. Yo soy el pan vivo bajado del cielo. El que coma de este pan vivirá eternamente, y <strong class="s-hi">el pan que yo daré es mi carne</strong> para la Vida del mundo.»</blockquote>
@@ -758,6 +766,7 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
                 <p>El desarrollo completo de Juan 6 —la objeción de la metáfora, los discípulos que se marchan y Jesús que no los retiene con una aclaración— está en el tema <a href="tema-la-eucaristia.html">La Eucaristía</a>.</p>
                 <h2>Pablo no dice símbolo: dice comunión<br>1 Corintios 10:16</h2>
                 <p>Pablo escribe antes de que se redacte el Evangelio de Juan, y llega al mismo lugar por su cuenta.</p>
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ 1 Corintios 10:16</span>
                     <blockquote>«La copa de bendición que bendecimos, ¿no es acaso <strong class="s-hi">comunión con la Sangre de Cristo</strong>? Y el pan que partimos, ¿no es <strong class="s-hi">comunión con el Cuerpo de Cristo</strong>?»</blockquote>
@@ -765,6 +774,7 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
                 <p>Hay tres palabras que Pablo no usa: símbolo, representación, recuerdo. La que sí usa es <em>comunión</em> —en griego κοινωνία: participación real, contacto efectivo, tener parte en algo—. No se tiene parte en una metáfora. Y hay que mirar lo que nombra al final de cada pregunta: no dice que la copa sea comunión con el vino ni que el pan lo sea con el pan. Dice Sangre de Cristo y Cuerpo de Cristo.</p>
                 <h2>Lo que recibí del Señor — y por eso hay muertos<br>1 Corintios 11:23-30</h2>
                 <p>El pasaje decisivo es el que sigue, y conviene leerlo entero antes de comentarlo.</p>
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ 1 Corintios 11:23-30</span>
                     <blockquote>«<strong class="s-hi">Lo que yo recibí del Señor, y a mi vez les he transmitido</strong>, es lo siguiente: El Señor Jesús, la noche en que fue entregado, tomó el pan, dio gracias, lo partió y dijo: <strong class="s-hi">«Esto es mi Cuerpo</strong>, que se entrega por ustedes. Hagan esto en memoria mía». De la misma manera, después de cenar, tomó la copa, diciendo: «Esta copa es la Nueva Alianza que se sella con mi Sangre. Siempre que la beban, háganlo en memoria mía». Y así, siempre que coman este pan y beban esta copa, proclamarán la muerte del Señor <strong class="s-hi">hasta que él vuelva</strong>. Por eso, el que coma el pan o beba la copa del Señor indignamente <strong class="s-hi">tendrá que dar cuenta del Cuerpo y de la Sangre del Señor</strong>. Que cada uno se examine a sí mismo antes de comer este pan y beber esta copa; porque si come y bebe <strong class="s-hi">sin discernir el Cuerpo del Señor, come y bebe su propia condenación</strong>. Por eso, entre ustedes hay muchos enfermos y débiles, y <strong class="s-hi">son muchos los que han muerto</strong>.»</blockquote>
