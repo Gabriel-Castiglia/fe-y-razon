@@ -463,6 +463,11 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
     }
   },
   disclaimerHTML: "Cet article a été traduit automatiquement depuis l'espagnol. Ce site est un projet personnel maintenu avec effort et dévouement. Si vous trouvez des erreurs dans la traduction, nous vous remercions de les signaler via le formulaire de contact.",
+  share: {
+    button: "Partager ce thème",
+    copied: "Lien copié !",
+    ariaLabel: "Partager ce thème"
+  },
   provisional: {
     notice: "⚠ Cet article est en cours de rédaction. Le contenu actuel est provisoire.",
     preliminaryWarning: "Cet article est préliminaire, le contenu apologétique sera publié prochainement."

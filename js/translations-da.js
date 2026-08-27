@@ -821,6 +821,11 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
     }
   },
   disclaimerHTML: "<!-- TODO: revisar disclaimer en Dansk -->Denne artikel er automatisk oversat fra spansk. Dette websted er et personligt projekt, der vedligeholdes med indsats og dedikation. Hvis du finder fejl i oversættelsen, er vi taknemmelige, hvis du indberetter dem via kontaktformularen.",
+  share: {
+    button: "Del dette emne",
+    copied: "Link kopieret!",
+    ariaLabel: "Del dette emne"
+  },
   provisional: {
     notice: "⚠ Denne artikel er ved at blive skrevet. Det nuværende indhold er foreløbigt og vil snart blive erstattet af den endelige tekst.",
     preliminaryWarning: "Denne artikel er foreløbig, det apologetiske indhold vil blive offentliggjort snart"

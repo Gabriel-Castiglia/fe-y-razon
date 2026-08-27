@@ -596,7 +596,130 @@ document.addEventListener('DOMContentLoaded', function () {
     }, { passive: true });
   }
 
-  // 12. BOTÓN "VOLVER ARRIBA"
+  // 12. BOTÓN "COMPARTIR ESTE TEMA"
+  //
+  // Va al lado de "Volver a Temas", tanto en la página propia del tema como en
+  // el overlay que se abre desde la portada. Se inyecta por JS y NO desde los
+  // diccionarios a propósito: si el texto viviera en el `hero` de cada tema,
+  // habría que escribirlo 11 temas x 12 idiomas. Así vive en una sola clave
+  // `share` por idioma.
+  //
+  // La URL que comparte es la del tema con su etiqueta de idioma
+  // (tema-<slug>.html?lang=xx), que es una página real del sitio: quien la
+  // abra ve el artículo directamente, sin pasar por la portada.
+
+  function textoCompartir(clave, porDefecto) {
+    const t = translations[currentLang];
+    return (t && t.share && t.share[clave]) || porDefecto;
+  }
+
+  function urlParaCompartir() {
+    // Dentro del overlay la barra ya muestra la URL del tema (la pone
+    // router.js), así que en los dos casos alcanza con la ruta actual; lo único
+    // que se fuerza es que el idioma quede escrito.
+    const u = new URL(location.href);
+    u.hash = '';
+    u.searchParams.set('lang', currentLang);
+    return u.toString();
+  }
+
+  async function copiarAlPortapapeles(texto) {
+    try {
+      if (navigator.clipboard && window.isSecureContext) {
+        await navigator.clipboard.writeText(texto);
+        return true;
+      }
+    } catch (err) { /* sigue por el camino viejo */ }
+    // Respaldo para navegadores sin Clipboard API o fuera de HTTPS
+    try {
+      const ta = document.createElement('textarea');
+      ta.value = texto;
+      ta.setAttribute('readonly', '');
+      ta.style.position = 'fixed';
+      ta.style.opacity = '0';
+      document.body.appendChild(ta);
+      ta.select();
+      const ok = document.execCommand('copy');
+      document.body.removeChild(ta);
+      return ok;
+    } catch (err) {
+      return false;
+    }
+  }
+
+  async function alCompartir(btn) {
+    const url = urlParaCompartir();
+    const titulo = document.title;
+    if (navigator.share) {
+      try {
+        await navigator.share({ title: titulo, url: url });
+        return;
+      } catch (err) {
+        // El usuario canceló el diálogo del sistema: no se copia nada.
+        if (err && err.name === 'AbortError') return;
+      }
+    }
+    const copiado = await copiarAlPortapapeles(url);
+    if (!copiado) return;
+    const etiqueta = btn.querySelector('.share-label');
+    if (!etiqueta || btn.dataset.avisando === '1') return;
+    const original = etiqueta.textContent;
+    btn.dataset.avisando = '1';
+    etiqueta.textContent = textoCompartir('copied', 'Enlace copiado');
+    btn.classList.add('copiado');
+    setTimeout(() => {
+      etiqueta.textContent = original;
+      btn.classList.remove('copiado');
+      btn.dataset.avisando = '0';
+    }, 2200);
+  }
+
+  const ICONO_COMPARTIR =
+    '<svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" ' +
+    'stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+    '<circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle>' +
+    '<circle cx="18" cy="19" r="3"></circle><line x1="8.6" y1="10.5" x2="15.4" y2="6.5"></line>' +
+    '<line x1="8.6" y1="13.5" x2="15.4" y2="17.5"></line></svg>';
+
+  function montarBotonCompartir() {
+    // Un botón por hero: el de la página propia y el del overlay.
+    document.querySelectorAll('.article-hero-inner, #overlay-hero-content').forEach(hero => {
+      const volver = hero.querySelector('.btn-outline-white');
+      if (!volver) return;              // el overlay vacío, antes de abrir nada
+
+      // Solo en los temas: las páginas tema-*.html y el overlay. Privacidad y
+      // "Sobre este sitio" tienen el mismo hero pero no son temas, y ahí un
+      // botón que dice "Compartir este tema" no querría decir nada.
+      const esTema = hero.id === 'overlay-hero-content' ||
+                     /(^|\/)tema-[^/]*\.html$/.test(location.pathname);
+      if (!esTema) return;
+
+      let btn = hero.querySelector('.btn-share');
+      if (!btn) {
+        btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'btn-outline-white btn-share';
+        btn.innerHTML = ICONO_COMPARTIR + '<span class="share-label"></span>';
+        btn.addEventListener('click', e => {
+          e.preventDefault();
+          alCompartir(btn);
+        });
+        volver.insertAdjacentElement('afterend', btn);
+      }
+      if (btn.dataset.avisando !== '1') {
+        btn.querySelector('.share-label').textContent = textoCompartir('button', 'Compartir este tema');
+      }
+      btn.setAttribute('aria-label', textoCompartir('ariaLabel', 'Compartir este tema'));
+    });
+  }
+
+  montarBotonCompartir();
+  // El hero se vuelve a pintar al cambiar de idioma y al abrir un artículo en
+  // el overlay: en los dos casos el botón hay que volver a ponerlo.
+  document.addEventListener('langChange', () => setTimeout(montarBotonCompartir, 30));
+  document.addEventListener('articleShown', montarBotonCompartir);
+
+  // 13. BOTÓN "VOLVER ARRIBA"
   const scrollTopBtn = document.getElementById('scroll-top');
   if (scrollTopBtn) {
     window.addEventListener('scroll', () => {

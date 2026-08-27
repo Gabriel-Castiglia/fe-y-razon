@@ -387,6 +387,11 @@ const translationsIG = {
     }
   },
   disclaimerHTML: "<!-- TODO: revisar disclaimer en Igbo -->Edetuo akụkọ a n'ụzọ akpaaka site na Spen. Saịtị a bụ ọrụ onye ọ bụla, a na-elekọta ya n'iji mbọ na inye onwe ya. Ọ bụrụ na ị chọta njehie ndị ọ bụla n'ntụgharị asụsụ, anyị na-ekele gị maka ịkọ ha site n'ụdị kọntaktị.",
+  share: {
+    button: "Kesaa isiokwu a",
+    copied: "Adepụtala njikọ ahụ!",
+    ariaLabel: "Kesaa isiokwu a"
+  },
   provisional: {
     notice: "⚠ A na-ede akụkọ a ugbu a. Ọdịnaya dị ugbu a bụ nke nwa oge.",
     preliminaryWarning: "Akụkọ a bụ nke mbido, a ga-ebipụta ọdịnaya apologetic n'oge na-adịghị anya."

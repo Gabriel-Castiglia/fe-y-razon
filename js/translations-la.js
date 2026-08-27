@@ -826,6 +826,11 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
     }
   },
   disclaimerHTML: "Hic articulus automatice ex Hispanica lingua translatus est. Hoc situm interretiale opus personale est, studio et diligentia sustentatum. Si quid in translatione erraveris, per formulam contactus id significare roga.",
+  share: {
+    button: "Hoc thema communicare",
+    copied: "Nexus exscriptus est!",
+    ariaLabel: "Hoc thema communicare"
+  },
   provisional: {
     notice: "⚠ Hic articulus scribitur. Contentum praesens est provisorium et propediem textum definitivum habebit.",
     preliminaryWarning: "Hic articulus est praecursor; contentum apologeticum brevi publicabitur"

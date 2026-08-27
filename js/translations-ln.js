@@ -387,6 +387,11 @@ const translationsLN = {
     }
   },
   disclaimerHTML: "<!-- TODO: revisar disclaimer en Lingala -->Sango oyo etradui automatikament uta na Espanyoli. Site oyo ezali mosala ya moto moko, ezali kobatelama na maboko mpe motema mobimba. Soki omoni mabunga na traduction, tosakola yo soki okebisi biso na formulaire ya contact.",
+  share: {
+    button: "Kabola liséki oyo",
+    copied: "Lien esili kokopiama!",
+    ariaLabel: "Kabola liséki oyo"
+  },
   provisional: {
     notice: "⚠ Article oyo ezali kokomama. Makambo ya sikoyo ezali ya mwa ntango.",
     preliminaryWarning: "Article oyo ezali ya ebandeli, mateya ya apologetiki ekobimisama noki."
