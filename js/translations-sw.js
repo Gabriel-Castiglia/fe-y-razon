@@ -32,7 +32,7 @@ const translationsSW = {
     category: "Sakramenti", date: "Mei 2026", title: "Ekaristi", excerpt: "Sakramenti kuu ya Kanisa Katoliki na maana yake katika maisha ya Kikristo.", time: "Dakika 13 kusoma", link: "Soma →"
   },
   article4: {
-    category: "Mafundisho", date: "Hivi karibuni", title: "Transubstansiasyoni", excerpt: "Mabadiliko ya dhati ya mkate na divai kuwa Mwili na Damu ya Kristo wakati wa Misa.", time: "Dakika 9 kusoma", link: "Soma →"
+    category: "Mafundisho", date: "Agosti 2026", title: "Transubstansiasyoni", excerpt: "Mabadiliko ya dhati ya mkate na divai kuwa Mwili na Damu ya Kristo wakati wa Misa.", time: "Dakika 14 kusoma", link: "Soma →"
   },
   article5: {
     category: "Mafundisho", date: "Hivi karibuni", title: "Watakatifu", excerpt: "Umuhimu wa watakatifu katika Kanisa Katoliki na maombezi yao kwa ajili yetu.", time: "Dakika 7 kusoma", link: "Soma →"
@@ -205,8 +205,68 @@ const translationsSW = {
     },
     "transubstanciacion": {
       pageTitle: "Transubstansiasyoni | Imani na Akili",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Transubstansiasyoni: fumbo la Ekaristi</h1><p>Gundua jinsi Kanisa Katoliki linavyoelewa muujiza wa Ekaristi na mabadiliko halisi ya mkate na divai kuwa Mwili na Damu ya Kristo.</p><div class="article-meta"><span>Dakika 9 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
-      article: `<p>Transubstansiasyoni ni fundisho linalosema kwamba, baada ya kuwekwa wakfu katika Misa, asili ya mkate na divai hugeuka kuwa Mwili na Damu ya Kristo, ingawa sura ya kimwili inabaki.</p><h2>Maana ya kitheolojia</h2><p>Dogma hii inasisitiza kwamba Ekaristi si mfano tu. Kristo anakuwa chakula halisi kwa roho zetu, akidumisha uwepo wake ulio hai na wa kweli kati ya waumini.</p><blockquote>"Tazama Mwili wa Kristo, uliopokelewa kwa wokovu na uzima wa milele."</blockquote><h2>Mapokeo ya kitume</h2><p>Kanisa linafundisha ukweli huu likifuata tafsiri ya maneno ya Yesu: "Huu ndio mwili wangu" na "Hii ndiyo damu yangu". Mapokeo ya kitume yanaunga mkono usomaji halisi na mtakatifu.</p><ul><li>Uwepo halisi na ulio hai wa Kristo katika Ekaristi.</li><li>Tendo la kisakramenti ambalo linapita kiwango cha mfano.</li><li>Chanzo cha umoja na neema kwa Kanisa.</li></ul><h2>Maisha ya imani</h2><p>Kukubali fumbo hili huimarisha ibada ya Ekaristi na kuwahimiza Wakristo kupokea ushirika kwa heshima na maandalizi ya ndani.</p>`,
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Mada Maalum</span>
+            </div>
+            <h1>Transubstansiasyoni: fumbo la Ekaristi</h1>
+            <p>Ikiwa neno lake liliumba ulimwengu na kugeuza maji kuwa divai, hutokea nini anaposema "huu ni mwili wangu"? Vifungu vitano, kwa mpangilio.</p>
+            <div class="article-meta">
+                <span>Dakika 14 kusoma</span>
+                <span>Imechapishwa Agosti 2026</span>
+            </div>
+            <a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      article: `<p>Mbele ya Ekaristi pingamizi hubadilisha sura lakini si kiini chake. Mashahidi wa Yehova, Waadventista, Wapentekoste, Wamormoni na Waprotestanti kwa ujumla hurudia mojawapo ya haya mawili: <em>"Mkate bado ni mkate: unaonekana kama mkate na una ladha ya mkate."</em> na <em>"Transubstansiasyoni ni neno lililobuniwa, falsafa ya Kigiriki; halimo katika Biblia."</em></p>
+                <p>La pili hujibiwa kwa mstari mmoja: maneno "Utatu" na "Biblia" nayo hayamo, wala hakuna anayebisha yale wanayoyataja. Neno haliumbi jambo: hulipa jina. La kwanza ndilo lenye maana, nalo halijibiwi kwa falsafa bali kwa Maandiko, kwa sababu Maandiko yamekwisha kusimulia kinachotokea Kristo anaposema kwamba kitu kimoja ni kingine. Vifungu vitano, kwa mpangilio.</p>
+                <h2>Neno halielezi: hufanya<br>Yohane 1:1-3</h2>
+                <p>Kabla ya kubishana juu ya kinachoweza kuupata mkate, ni lazima kujua neno la Mungu ni nini.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Yohane 1:1-3</span>
+                    <blockquote>«Hapo mwanzo alikuwako <strong class="s-hi">Neno</strong>, naye Neno alikuwako kwa Mungu, naye <strong class="s-hi">Neno alikuwa Mungu</strong>. Huyo mwanzo alikuwako kwa Mungu. <strong class="s-hi">Vitu vyote vilifanyika kwa huyo</strong>, wala pasipo yeye hakikufanyika chochote kilichofanyika.»</blockquote>
+                </div>
+                <p>Neno la Mungu halielezi uhalisia: hulisababisha. Hakuna kilichopo kilichokuwako kabla Neno halijakisema, na kila kilichopo kipo kwa sababu Neno lilikisema. Hicho ndicho kianzio, wala si kidogo: kuuliza jinsi mkate unavyoweza kuacha kuwa mkate ni kuuliza, kwa maneno mengine, jinsi utupu ulivyoweza kuacha kuwa utupu. Jambo hilo limekwisha kutokea mara moja. Lilitokea kwa sababu ile ile.</p>
+                <h2>Kana: maji yalibadilika walipolitii<br>Yohane 2:6-9</h2>
+                <p>Kuna tukio moja ambapo Neno hilo hutenda mbele ya mashahidi na juu ya kitu halisi.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Yohane 2:6-9</span>
+                    <blockquote>«Basi kulikuwako huko mitungi sita ya mawe, iliyowekwa kwa desturi ya Wayahudi ya kutawadha, kila mmoja ukichukua vipimo viwili au vitatu. Yesu akawaambia: <strong class="s-hi">"Jazeni mitungi maji."</strong> Nao wakaijaza mpaka juu. Akawaambia: "Sasa tekeni, mkampelekee mkuu wa karamu." <strong class="s-hi">Nao wakampelekea.</strong> Naye mkuu wa karamu alipoonja <strong class="s-hi">yale maji yaliyokuwa divai</strong>, wala hakujua ilikotoka —<strong class="s-hi">lakini watumishi walijua, wale walioyateka yale maji</strong>—, mkuu wa karamu akamwita bwana arusi.»</blockquote>
+                </div>
+                <p>Inafaa kuangalia muujiza ulipo. Yesu hayagusi maji. Hafanyi ishara yoyote juu ya mitungi wala hatamki maneno yoyote juu yake. Anatoa amri —"jazeni", "tekeni"— na watumishi wanaitekeleza. Kati ya amri iliyotiiwa na kikombe cha mkuu wa karamu, maji yaliacha kuwa maji. Kilichobadilisha asili ya kitu ni neno lililotiiwa.</p>
+                <p>Na mwinjilisti anasimama ili kuandika jambo dogo linalopita bila kutambuliwa: mkuu wa karamu hakujua divai ile ilikotoka, na watumishi walijua. Wale waliotenda alilolisema Kristo ndio peke yao waliojua kilichotokea. Wengine walikunywa muujiza bila kutambua kwamba wanaunywa. Katika Misa hutokea vivyo hivyo, na kwa sababu ile ile.</p>
+                <h2>Kinywa kile kile, msemo ule ule<br>Yohane 6:47-51</h2>
+                <p>Yule aliyeamuru mitungi ijazwe, baadaye anasema haya:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Yohane 6:47-51</span>
+                    <blockquote>«<strong class="s-hi">Amin, amin, nawaambia</strong>, yeye aaminiye anao uzima wa milele. <strong class="s-hi">Mimi ndimi chakula cha uzima.</strong> Baba zenu walikula mana jangwani, wakafa. Hiki ni chakula kishukacho kutoka mbinguni, kwamba mtu akile asife. Mimi ndimi chakula kishukacho kutoka mbinguni; mtu akila chakula hiki, ataishi milele. Na chakula nitakachotoa mimi ni <strong class="s-hi">mwili wangu</strong>, kwa ajili ya uzima wa ulimwengu.»</blockquote>
+                </div>
+                <p>"Amin, amin, nawaambia" ni msemo ambao Kristo huutangulia mbele ya kile kisichokubali mabishano, na kinachofuata si mlinganisho bali ni utambulisho: "mimi ndimi", si "mimi nawakilisha". Kama neno lile liligeuza maji kuwa divai bila mtu kuona wakati wenyewe, neno hili halihitaji kidogo kuliko hilo. Ni kinywa kile kile na ni aina ile ile ya neno.</p>
+                <p>Ufafanuzi kamili wa Yohane 6 —pingamizi la mfano, wanafunzi wanaoondoka na Yesu asiyewazuia kwa ufafanuzi— uko katika mada ya <a href="tema-la-eucaristia.html">Ekaristi</a>.</p>
+                <h2>Paulo hasemi mfano: anasema ushirika<br>1 Wakorintho 10:16</h2>
+                <p>Paulo anaandika kabla Injili ya Yohane haijaandikwa, naye anafika mahali pale pale kwa njia yake mwenyewe.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Wakorintho 10:16</span>
+                    <blockquote>«Kikombe cha baraka tukibarikicho, je! Si <strong class="s-hi">ushirika wa damu ya Kristo</strong>? Mkate tuumegao, je! Si <strong class="s-hi">ushirika wa mwili wa Kristo</strong>?»</blockquote>
+                </div>
+                <p>Kuna maneno matatu ambayo Paulo hayatumii: mfano, kiwakilishi, ukumbusho. Analotumia ni <em>koinonia</em> —kushiriki kwa kweli, kugusana kwa hakika, kuwa na fungu katika jambo—. Hakuna mtu awaye yote aliye na fungu katika mfano. Na inafaa kuangalia analolitaja mwishoni mwa kila swali: hasemi kwamba kikombe ni ushirika wa divai, wala mkate ni ushirika wa mkate. Anasema damu ya Kristo na mwili wa Kristo.</p>
+                <h2>Nilipokea kwa Bwana — na ndiyo maana wamekufa<br>1 Wakorintho 11:23-30</h2>
+                <p>Kifungu cha maamuzi ni kifuatacho, nacho kinapaswa kusomwa chote kabla ya kufafanuliwa.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Wakorintho 11:23-30</span>
+                    <blockquote>«Kwa maana mimi <strong class="s-hi">nalipokea kwa Bwana niliyowapa nanyi</strong>: ya kuwa Bwana Yesu usiku ule aliotolewa alitwaa mkate, naye akiisha kushukuru akaumega, akasema: <strong class="s-hi">"Huu ndio mwili wangu</strong> ulio kwa ajili yenu; fanyeni hivi kwa ukumbusho wangu." Na vivi hivi kikombe nacho baada ya kula, akisema: "Kikombe hiki ni agano jipya katika damu yangu; fanyeni hivi kila mnywapo, kwa ukumbusho wangu." Maana kila mlapo mkate huu na kukinywea kikombe hiki, mwaitangaza mauti ya Bwana <strong class="s-hi">hata ajapo</strong>. Basi kila aulaye mkate huu au kukinywea kikombe cha Bwana isivyostahili, <strong class="s-hi">atakuwa na hatia ya mwili na damu ya Bwana</strong>. Lakini mtu ajihoji nafsi yake, ndivyo aule mkate na kukinywea kikombe. Maana alaye na kunywa, hula na kunywa hukumu ya nafsi yake, <strong class="s-hi">asipoupambanua mwili wa Bwana</strong>. Kwa sababu hiyo wako wengi kwenu walio hawawezi na wagonjwa, na <strong class="s-hi">watu si wachache waliolala</strong>.»</blockquote>
+                </div>
+                <p>Anaanza mahali ambapo wakosoaji hawangependa kuanza: "nalipokea kwa Bwana niliyowapa nanyi". Hayo ni maneno ya mapokeo, yale yanayokabidhiwa na kupokewa toka mkono hadi mkono. Paulo yule yule anayenukuliwa dhidi ya Mapokeo anaisimamisha ibada ya Ekaristi juu yao, naye anafanya hivyo katika barua kongwe kuliko zote tulizonazo juu ya jambo hili.</p>
+                <p>Kisha yanafuata maneno "hata ajapo". Si mara moja, wala mbili, wala usiku ule tu: kila mara, sikuzote, hata mwisho. Kama jambo hili lingekuwa ukumbusho wa mara kwa mara tu, Paulo alikuwa na maneno yote ya kulisema hivyo. Anasema kinyume chake kabisa.</p>
+                <p>Naye anamalizia mahali ambapo usomaji wa kimfano hauna pa kwenda. Yule alaye isivyostahili hana hatia ya mkate wala ya divai: ana <em>hatia ya mwili na damu ya Bwana</em>, ana hatia ya kosa dhidi ya mtu. Kula bila kuutambua Mwili hakumletei lawama: kunamletea hukumu. Na Paulo anasema hukumu anayoinena ni ipi, kwa majina ya vitu vinavyoonekana: walio hawawezi, wagonjwa, waliokufa. Hakuna anayeugua kwa kuidharau sitiari. Hakuna anayekufa kwa kuutendea vibaya ukumbusho. Ikiwa huko Korintho walikuwako wagonjwa na waliokufa kwa kula mkate ule bila kutambua ulivyokuwa, mkate ule haukuwa mkate.</p>
+                <ul>
+                    <li>Neno la Mungu halielezi: hufanya. Kila kilichopo kipo kwa sababu Neno lilikisema.</li>
+                    <li>Huko Kana neno hilo liligeuza kitu kimoja kuwa kingine, bila ishara ionekanayo, mara tu lilipotiiwa.</li>
+                    <li>Waliotii walijua kilichotokea; waliotazama tu hawakujua.</li>
+                    <li>Paulo hasemi mfano wala ukumbusho: anasema ushirika wa damu na wa mwili wa Kristo.</li>
+                    <li>Kula isivyostahili humfanya mtu awe na hatia ya mwili na damu —si ya mkate—, na huko Korintho jambo hilo liligharimu magonjwa na maisha.</li>
+                </ul>
+                <h2>Hitimisho</h2>
+                <p>Transubstansiasyoni ni jina la jambo hili: asili ya mkate na ya divai huacha kuwa ilivyokuwa nayo huwa Mwili na Damu ya Kristo, huku kila kinachofikiwa na hisi —sura, ladha, uzito— kikibaki. Si nadharia iliyoongezwa kwenye Maandiko ili kufunika fumbo linalosumbua: ni maelezo kamili ya yale Maandiko yanayosimulia huko Kana na ya yale Paulo anayoyachukulia kuwa dhahiri huko Korintho. Muujiza haumo katika kubadilika kwa sura. Umo katika kubadilika kwa kile kitu kilicho, kwa sababu Kristo alisema hivyo.</p>
+                <p>Linabaki swali moja tu, nalo si juu ya mkate: ni juu ya nani anayesema. Ikiwa yule asemaye "huu ni mwili wangu" ndiye yule ambaye kwa yeye vitu vyote vilifanyika, hakuna la kubishania; kuna la kuamini. Ndiyo maana mada hii haiamuliwi kwa hoja za kemia wala za falsafa ya Kigiriki, bali katika uwanja wa mada <a href="tema-por-que-creemos.html">Kwa nini Tunaamini?</a> Ikiwa neno lake ni neno la Mungu, hufanya lisemalo. Sikuzote limefanya hivyo.</p>`,
       nav: { prevTitle: "Ekaristi: sakramenti kuu", nextTitle: "Watakatifu na maombezi yao" }
     },
     "recursos-recomendados": {

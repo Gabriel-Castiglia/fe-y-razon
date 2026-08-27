@@ -32,7 +32,7 @@ const translationsPT = {
     category: "Sacramentos", date: "Maio 2026", title: "A Eucaristia", excerpt: "O sacramento central da Igreja Católica e o seu significado na vida cristã.", time: "13 min leitura", link: "Ler →"
   },
   article4: {
-    category: "Doutrina", date: "Em breve", title: "Transubstanciação", excerpt: "A mudança substancial do pão e do vinho no Corpo e Sangue de Cristo durante a Missa.", time: "9 min leitura", link: "Ler →"
+    category: "Doutrina", date: "Agosto 2026", title: "Transubstanciação", excerpt: "A mudança substancial do pão e do vinho no Corpo e Sangue de Cristo durante a Missa.", time: "14 min leitura", link: "Ler →"
   },
   article5: {
     category: "Doutrina", date: "Maio 2026", title: "Os santos", excerpt: "A importância dos santos na Igreja Católica e a sua intercessão por nós.", time: "12 min leitura", link: "Ler →"
@@ -282,8 +282,68 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
     },
     "transubstanciacion": {
       pageTitle: "Transubstanciação | Fé e Razão",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>Transubstanciação: o mistério eucarístico</h1><p>Explore como a Igreja Católica entende o milagre da Eucaristia e a transformação real do pão e do vinho no Corpo e Sangue de Cristo.</p><div class="article-meta"><span>9 min leitura</span><span>Publicado em maio de 2026</span></div><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
-      article: `<p>A transubstanciação é o ensinamento que afirma que, após a consagração na Missa, as substâncias do pão e do vinho se convertem no Corpo e Sangue de Cristo, embora as aparências físicas permaneçam.</p><h2>Significado teológico</h2><p>Este dogma sublinha que a Eucaristia não é apenas um símbolo. Cristo torna-se real alimento para a nossa alma, mantendo a sua presença viva e verdadeira entre os fiéis.</p><blockquote>"Eis o Corpo de Cristo, recebido para salvação e vida eterna."</blockquote><h2>Tradição apostólica</h2><p>A Igreja ensina esta verdade seguindo a interpretação das palavras de Jesus: "Isto é o meu corpo" e "Este é o meu sangue". A tradição apostólica apoia uma leitura literal e sagrada.</p><ul><li>Presença real e viva de Cristo na Eucaristia.</li><li>Um ato sacramental que supera o plano simbólico.</li><li>Uma fonte de unidade e graça para a Igreja.</li></ul><h2>Vida de fé</h2><p>Aceitar este mistério fortalece a devoção eucarística e anima os cristãos a receberem a comunhão com reverência e preparação interior.</p>`,
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Tema Especial</span>
+            </div>
+            <h1>Transubstanciação: o mistério eucarístico</h1>
+            <p>Se a sua palavra fez o mundo e transformou a água em vinho, o que acontece quando diz «isto é o meu corpo»? Cinco passagens, em ordem.</p>
+            <div class="article-meta">
+                <span>14 min leitura</span>
+                <span>Publicado em agosto de 2026</span>
+            </div>
+            <a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+      article: `<p>Diante da Eucaristia a objeção muda de forma, mas não de fundo. Testemunhas de Jeová, adventistas, pentecostais, mórmons e protestantes em geral repetem uma destas duas: <em>«O pão continua sendo pão: parece pão e tem gosto de pão.»</em> e <em>«Transubstanciação é uma palavra inventada, filosofia grega; não está na Bíblia.»</em></p>
+                <p>À segunda responde-se em uma linha: também não estão as palavras «Trindade» nem «Bíblia», e ninguém discute o que elas nomeiam. Uma palavra não cria o fato: nomeia-o. A primeira é a que importa, e não se responde com filosofia, e sim com a Escritura, porque a Escritura já contou o que acontece quando Cristo diz que uma coisa é outra. Cinco passagens, em ordem.</p>
+                <h2>A Palavra não descreve: faz<br>Jo 1, 1-3</h2>
+                <p>Antes de discutir o que pode acontecer ao pão é preciso saber o que é uma palavra de Deus.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Jo 1, 1-3</span>
+                    <blockquote>«No princípio era <strong class="s-hi">o Verbo</strong>, e o Verbo estava junto de Deus e <strong class="s-hi">o Verbo era Deus</strong>. Ele estava no princípio junto de Deus. <strong class="s-hi">Tudo foi feito por ele</strong>, e sem ele nada foi feito de tudo o que existe.»</blockquote>
+                </div>
+                <p>A Palavra de Deus não descreve a realidade: causa-a. Nada do que existe existia antes que ela o dissesse, e tudo o que existe existe porque ela o disse. Esse é o ponto de partida, e não é pouco: perguntar como o pão pode deixar de ser pão é perguntar, com outras palavras, como o nada pôde deixar de ser nada. Já aconteceu uma vez. Aconteceu pela mesma razão.</p>
+                <h2>Caná: a água mudou quando lhe obedeceram<br>Jo 2, 6-9</h2>
+                <p>Há um caso em que essa Palavra age diante de testemunhas e sobre uma substância concreta.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Jo 2, 6-9</span>
+                    <blockquote>«Ora, achavam-se ali seis talhas de pedra para as purificações dos judeus, cada uma com duas ou três medidas. Jesus disse-lhes: <strong class="s-hi">«Enchei as talhas de água.»</strong> Encheram-nas até em cima. «Tirai agora, disse-lhes ele, e levai ao chefe dos serventes.» <strong class="s-hi">E levaram.</strong> Logo que o chefe dos serventes provou <strong class="s-hi">a água tornada vinho</strong>, não sabendo de onde viera — se bem que <strong class="s-hi">o soubessem os serventes que tinham tirado a água</strong> —, chamou o esposo.»</blockquote>
+                </div>
+                <p>Convém olhar onde está o milagre. Jesus não toca a água. Não faz um gesto sobre as talhas nem pronuncia uma fórmula sobre elas. Dá uma ordem — «enchei», «tirai» — e uns serventes a cumprem. Entre a ordem cumprida e a taça do chefe dos serventes, a água deixou de ser água. O que mudou a substância foi uma palavra obedecida.</p>
+                <p>E o evangelista detém-se a anotar um detalhe que costuma passar despercebido: o chefe dos serventes não sabia de onde vinha aquele vinho, e os serventes sabiam. Os que tinham feito o que Cristo mandou eram os únicos que sabiam o que acabava de acontecer. Os demais beberam o milagre sem perceber que o estavam bebendo. Na Missa acontece exatamente o mesmo, e pela mesma razão.</p>
+                <h2>A mesma boca, a mesma fórmula<br>Jo 6, 47-51</h2>
+                <p>Aquele que mandou encher as talhas diz depois isto:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Jo 6, 47-51</span>
+                    <blockquote>«<strong class="s-hi">Em verdade, em verdade vos digo</strong>: quem crê em mim tem a vida eterna. <strong class="s-hi">Eu sou o pão da vida.</strong> Vossos pais comeram o maná no deserto e morreram. Este é o pão que desce do céu, para que não morra aquele que dele comer. Eu sou o pão vivo que desceu do céu. Quem comer deste pão viverá eternamente. E o pão que eu hei de dar é <strong class="s-hi">a minha carne</strong> para a salvação do mundo.»</blockquote>
+                </div>
+                <p>«Em verdade, em verdade vos digo» é a fórmula com que Cristo encabeça o que não admite discussão, e atrás não vem uma comparação, e sim uma identificação: «eu sou», não «eu represento». Se aquela palavra transformou a água em vinho sem que ninguém visse o momento, esta não precisa de menos. É a mesma boca e é a mesma espécie de palavra.</p>
+                <p>O desenvolvimento completo de João 6 — a objeção da metáfora, os discípulos que vão embora e Jesus que não os retém com um esclarecimento — está no tema <a href="tema-la-eucaristia.html">A Eucaristia</a>.</p>
+                <h2>Paulo não diz símbolo: diz comunhão<br>1 Co 10, 16</h2>
+                <p>Paulo escreve antes de que se redija o Evangelho de João, e chega ao mesmo lugar por conta própria.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Co 10, 16</span>
+                    <blockquote>«O cálice de bênção, que benzemos, não é <strong class="s-hi">a comunhão do sangue de Cristo</strong>? E o pão, que partimos, não é <strong class="s-hi">a comunhão do corpo de Cristo</strong>?»</blockquote>
+                </div>
+                <p>Há três palavras que Paulo não usa: símbolo, representação, lembrança. A que usa é <em>comunhão</em> — em grego κοινωνία: participação real, contato efetivo, ter parte em algo. Não se tem parte em uma metáfora. E é preciso olhar o que ele nomeia no fim de cada pergunta: não diz que o cálice seja comunhão com o vinho nem que o pão o seja com o pão. Diz sangue de Cristo e corpo de Cristo.</p>
+                <h2>Recebi do Senhor — e por isso há mortos<br>1 Co 11, 23-30</h2>
+                <p>A passagem decisiva é a que segue, e convém lê-la inteira antes de comentá-la.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Co 11, 23-30</span>
+                    <blockquote>«Porque eu <strong class="s-hi">recebi do Senhor o que também vos transmiti</strong>: que o Senhor Jesus, na noite em que foi traído, tomou o pão e, tendo dado graças, partiu-o e disse: <strong class="s-hi">«Isto é o meu corpo</strong>, que é entregue por vós; fazei isto em memória de mim.» Do mesmo modo, depois de haver ceado, tomou também o cálice, dizendo: «Este cálice é a nova aliança no meu sangue; todas as vezes que dele beberdes, fazei-o em memória de mim.» Assim, todas as vezes que comerdes deste pão e beberdes deste cálice, anunciais a morte do Senhor, <strong class="s-hi">até que ele venha</strong>. Portanto, todo aquele que comer o pão ou beber o cálice do Senhor indignamente <strong class="s-hi">será réu do corpo e do sangue do Senhor</strong>. Examine-se, pois, cada um a si mesmo, e assim coma deste pão e beba deste cálice. Aquele que o come e bebe <strong class="s-hi">sem distinguir o corpo do Senhor</strong>, come e bebe a sua própria condenação. Esta é a razão por que entre vós há muitos adoentados e fracos, e <strong class="s-hi">muitos mortos</strong>.»</blockquote>
+                </div>
+                <p>Começa por onde os críticos preferiam não começar: «recebi do Senhor o que também vos transmiti». Esse é o vocabulário da tradição, o que se entrega e se recebe de mão em mão. O mesmo Paulo que se cita contra a Tradição apoia nela o rito da Eucaristia, e o faz na carta mais antiga que temos sobre o assunto.</p>
+                <p>Segue com «até que ele venha». Não uma vez, nem duas, nem somente naquela noite: cada vez, sempre, até o fim. Se se tratasse de uma comemoração ocasional, Paulo tinha todas as palavras para dizê-lo. Diz justamente o contrário.</p>
+                <p>E termina onde a leitura simbólica fica sem saída. Quem come indignamente não é réu do pão nem do vinho: é <em>réu do corpo e do sangue do Senhor</em>, culpado de um crime contra uma pessoa. Comer sem distinguir o corpo não lhe acarreta uma repreensão: acarreta-lhe condenação. E Paulo diz de que condenação fala, com nomes de coisas que se veem: adoentados, fracos, mortos. Ninguém adoece por faltar com o respeito a uma metáfora. Ninguém morre por tratar mal uma lembrança. Se em Corinto houve doentes e mortos por comer aquele pão sem distinguir o que era, aquele pão não era pão.</p>
+                <ul>
+                    <li>A Palavra de Deus não descreve: faz. Tudo o que existe existe porque ela o disse.</li>
+                    <li>Em Caná essa palavra mudou uma substância em outra, sem gesto visível, assim que foi obedecida.</li>
+                    <li>Os que obedeceram souberam o que tinha acontecido; os que apenas olhavam, não.</li>
+                    <li>Paulo não diz símbolo nem lembrança: diz comunhão do sangue e do corpo de Cristo.</li>
+                    <li>Comer indignamente torna réu do corpo e do sangue — não do pão —, e em Corinto custou doenças e mortes.</li>
+                </ul>
+                <h2>Conclusão</h2>
+                <p>Transubstanciação é o nome disto: a substância do pão e a do vinho deixam de ser o que eram e passam a ser o Corpo e o Sangue de Cristo, enquanto permanece tudo aquilo que os sentidos alcançam — o aspecto, o sabor, o peso. Não é uma teoria acrescentada à Escritura para tapar um mistério incômodo: é a descrição exata do que a Escritura narra em Caná e do que Paulo dá por suposto em Corinto. O milagre não consiste em que mudem as aparências. Consiste em que mude o que a coisa é, porque Cristo o disse.</p>
+                <p>Resta uma só pergunta, e não é sobre o pão: é sobre quem fala. Se aquele que diz «isto é o meu corpo» é aquele por quem tudo foi feito, não há nada a discutir; há algo a crer. Por isso este tema não se decide com argumentos de química nem de filosofia grega, e sim no terreno do tema <a href="tema-por-que-creemos.html">Por que cremos</a>. Se a sua palavra é palavra de Deus, faz o que diz. Sempre fez.</p>`,
       nav: { prevTitle: "A Eucaristia: o sacramento central", nextTitle: "Os santos e sua intercessão" }
     },
     "recursos-recomendados": {
