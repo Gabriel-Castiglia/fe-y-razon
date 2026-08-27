@@ -35,7 +35,7 @@ const translationsLN = {
     category: "Mateya", date: "Sanza ya mwambe 2026", title: "Transsubstantiation", excerpt: "Mbongwana ya monene ya limpa mpe vinyo na Nzoto mpe Makila ya Klisto na ntango ya Misa.", time: "Min 14 botangi", link: "Tanga →"
   },
   article5: {
-    category: "Mateya", date: "Ekoya", title: "Basantu", excerpt: "Ntina ya basantu na Eklezia Katolike mpe libondeli na bango mpona biso.", time: "Min 7 botangi", link: "Tanga →"
+    category: "Mateya", date: "Sanza ya mwambe 2026", title: "Basantu", excerpt: "Ntina ya basantu na Eklezia Katolike mpe libondeli na bango mpona biso.", time: "Min 12 botangi", link: "Tanga →"
   },
   article6: {
     category: "Mateya", date: "Ekoya", title: "Trinité Mosantu", excerpt: "Kososola sekele ya monene ya kondima ya Katolike na nzela ya teoloji mpe mayele.", time: "Min 10 botangi", link: "Tanga →"
@@ -133,8 +133,77 @@ const translationsLN = {
     },
     "los-santos": {
       pageTitle: "Basantu | Kondima mpe Mayele",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Liséki Monene</span></div><h1>Basantu mpe libondeli na bango</h1><p>Litambwisi ya polele likolo ya mosala ya basantu na bomoi ya Katolike mpe ndenge nini ndakisa na bango etindaka biso na kondima ya mozindo.</p><div class="article-meta"><span>Min 7 botangi</span><span>Ebimisami na Sanza ya mitano 2026</span></div><a href="index.html#temas" class="btn-outline-white">Zonga na Mitó ya makambo</a>`,
-      article: `<p>Basantu ezali bandeko ya Eklezia oyo babikaki bomoi ya mokristo na bilombe. Bolingo na basantu euti na kondima bomoko na bango na Klisto mpe mabondeli na bango mpona bamosusu.</p><h2>Ndakisa ya bosantu</h2><p>Bamonisi biso ndenge ya kobika Evanzile na makambo ya solo: na libota, na mosala mpe na misala ya bolamu. Bomoi na bango ezali ndakisa oyo epesaka elikya.</p><blockquote>"Basantu bazali ekaniseli ya bomoi ya Eklezia mpe litatoli ya bosembo ya Nzambe."</blockquote><h2>Libondeli</h2><p>Kobondela basantu ezali losambo te, kasi kosenga libondeli na bango liboso ya Nzambe. Eklezia asengi bandimi babondelana, ata mpe baoyo bapemi na Nkolo.</p><ul><li>Basantu basungaka biso na ndakisa na bango mpe libondeli na bango.</li><li>Bazali bandeko na bomoko ya basantu.</li><li>Bomoi na bango emonisi ete bosantu ezali libiangi ya bato nionso.</li></ul><h2>Bomoi ya mokristo</h2><p>Kotia elikya na libondeli ya basantu elembisaka bondeko na biso na Klisto te; epesaka makasi. Ekanisaka biso ete Eklezia ezali nzoto moko ya bomoi oyo eleki tango.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Liséki Monene</span></div><h1>Basantu mpe libondeli na bango</h1><p>Makomi yango moko etangi bakombo na bango: Abele, Enoke, Noa, Abrayama, Moize, basakoli. Bavɛrsɛ sambo, moko moko, mpo na nini basantu bayokaka mpe babondelaka.</p><div class="article-meta"><span>Min 7 botangi</span><span>Ebimisami na Sanza ya mitano 2026</span></div><a href="index.html#temas" class="btn-outline-white">Zonga na Mitó ya makambo</a>`,
+      article: `<p>Batatoli ya Yehova mpe Baadventiste bazongelaka kotɛmɛla se moko na kolɛmba te: <em>«Bakufi bakoki koyoka yo te»</em>, mpo molimo —balobaka— elalaka tii na kosambisama ya suka. Na ebandeli emonanaka lokola likambo ya mayele. Kasi Makomi elobi likambo mosusu. Na vɛrsɛ moko kaka te: na bavɛrsɛ sambo ekeseni, banda Paulo tii na Apokalise. Moko moko.</p>
+
+            <h2>Boyebi ekokoka nsima ya liwa<br>1 Bakorinti 13:9-13</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Bakorinti 13:9-13</span>
+                <blockquote>«Mpo <strong class="s-hi">toyebi na ndambo</strong> mpe tosakolaka na ndambo; kasi tango oyo ekoka ekoya, oyo ya ndambo ekosila. Tango nazalaki mwana moke, nazalaki koloba lokola mwana moke, nazalaki kokanisa lokola mwana moke; tango nakomaki mokolo, natikaki makambo ya bomwana. Sikoyo tomonaka lokola na talatala, na molili; kasi tango wana tokomona elongi na elongi. Sikoyo nayebi na ndambo; kasi tango wana <strong class="s-hi">nakoyeba ndenge Nzambe ayebi ngai.</strong> Sikoyo etikali makambo misato: kondima, elikya mpe bolingo; kasi eleki monene kati na yango ezali bolingo.»</blockquote>
+            </div>
+
+            <p>Paulo ateyaka ete na bomoi oyo boyebi ezali ya kokoka te. Tango oyo ekoka ekoya —mpe yango esalemaka na liwa, tango bakomona Nzambe elongi na elongi— moto akoyeba ndenge Nzambe ayebaka: na elamba te mpe na ndelo te. Soki basantu bayebi bongo, eloko moko te ebombami mpo na bango. Bakoki koyoka. Bakoki kososola mabondeli oyo batindeli bango.</p>
+
+            <h2>Nsima ya liwa, tokomona Nzambe ndenge azali<br>1 Yoane 3:2</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Yoane 3:2</span>
+                <blockquote>«Balingami, sikoyo tozali bana ya Nzambe, mpe oyo tokozala emonisami naino te; kasi toyebi ete tango akomonana, <strong class="s-hi">tokozala lokola ye, mpo tokomona ye ndenge azali.</strong>»</blockquote>
+            </div>
+
+            <p>Yoane andimisi oyo Paulo alobi. Sikoyo, na bomoi oyo, tomonaka te: tondimaka. Nsima ya liwa, Nzambe amonanaka ndenge azali. Basantu basili koleka porte wana. Basili komona. Mpe kuna nde «mpongi ya molimo» ekweyi: bazali na molili moko te, bazali na pole ya mobimba.</p>
+
+            <h2>Nsima ya liwa, lola eyaka<br>Yoane 14:1-4</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Yoane 14:1-4</span>
+                <blockquote>«Tika ete mitema na bino etungisama te. Bondima Nzambe, bondima mpe ngai. <strong class="s-hi">Na ndako ya Tata na ngai bisika ya kofanda ezali mingi</strong>; soki ezalaki bongo te, nalingaki koyebisa bino. Nakei kobongisela bino esika. Mpe soki nakei mpe nabongiseli bino esika, <strong class="s-hi">nakoya lisusu mpe nakozwa bino epai na ngai, mpo ete epai nazali, bino mpe bozala.</strong> Mpe boyebi nzela ya esika nakei.»</blockquote>
+            </div>
+
+            <p>Yesu atiki esika ya ntembe te: ezali na esika ya kokende nsima ya liwa, mpe esika yango ezali kozala elongo na ye. Lola ezali elembo te: ezali esika oyo Yesu akendeki kobongisa esika. Mpe basantu oyo bazalaki na kondima bazali kuna, elongo na ye, epai alakaki komema bango.</p>
+
+            <h2>Basantu: lipata monene ya batatoli<br>Baebele 11:1 — 12:3</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Baebele 11:1 — 12:3</span>
+                <blockquote>«<strong class="s-hi">Kondima ezali kondimela makambo oyo tozali kolikya, mpe kondimisa makambo oyo tomonaka te. Mpo na yango bakoko na biso batatolamaki.</strong><br><br>Na kondima, <strong class="s-name">Abele</strong> apesaki Nzambe mbeka oyo eleki ya Kaina, mpe na yango atatolamaki ete azali moyengebene; mpe na yango, atako akufi, azali naino koloba. Na kondima, <strong class="s-name">Enoke</strong> amemamaki mpo amona liwa te. Na kondima, <strong class="s-name">Noa</strong> atongaki masuwa mpo abikisa ndako na ye. Na kondima, <strong class="s-name">Abrayama</strong> tango babengaki ye, atosaki mpe abimaki mpo akende na esika oyo asengelaki kozwa lokola libula; abimaki kasi ayebaki te esika akei. Na kondima, <strong class="s-name">Sara</strong> mpe azwaki nguya ya kozwa zemi.<br><br>Bango nyonso bakufaki na kondima, kozwa bilaka te, kasi bamonaki yango mosika mpe bapesaki yango mbote, mpe bandimaki ete bazali bapaya mpe baleki nzela na mokili. <strong class="s-hi">Bazalaki koluka mboka oyo eleki malamu, elingi koloba ya likolo.</strong><br><br>Na kondima, <strong class="s-name">Moize</strong>, tango akomaki mokolo, aboyaki ete babenga ye mwana ya mwana mwasi ya Farao; aponaki konyokwama elongo na bato ya Nzambe. Mpe naloba lisusu nini? Ntango ekokoka ngai te mpo na kolobela <strong class="s-name">Gedeon, Barak, Samson, Yefte, Davidi, Samuele mpe basakoli,</strong> oyo na kondima balongaki bikolo, basalaki bosembo, bazwaki bilaka, bakangaki minoko ya bankosi. Mpe bango nyonso, atako batatolamaki mpo na kondima na bango, bazwaki elaka te, mpo Nzambe abongiselaki biso eloko oyo eleki malamu, mpo bakoka te kozwa bokoki soki biso tozali te.<br><br>Yango wana biso mpe, <strong class="s-hi">lokola tozingami na lipata monene boye ya batatoli,</strong> tobwaka mokumba nyonso ya kilo mpe lisumu oyo ezingi biso, <strong class="s-hi">mpe tokima mbangu na molende na etumba oyo ezali liboso na biso,</strong> na kotala Yesu, oyo abandisi mpe akokisi kondima.»</blockquote>
+            </div>
+
+            <p>Oyo nde eyano ya motuna «basantu bazali banani?». Makomi etangi bakombo na bango moko moko. Ezali likanisi ya Eklezia te. Ezali bato oyo bazalaki, banyokwamaki mpe bakufaki na koluka mboka oyo ezali ya mokili oyo te, mpe mokomi ya Baebele atie bango kuna lokola bonzenga te: alobi ete lipata yango ya batatoli ezingi bato oyo bazali naino kokima mbangu. Moto moko te azingami na ba oyo bazali kuna te.</p>
+
+            <h2>Molimo elalaka te — Klisto asakolaki na milimo<br>1 Petro 3:18-22</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ 1 Petro 3:18-22</span>
+                <blockquote>«Mpo <strong class="s-hi">Klisto mpe akufaki</strong> mbala moko mpo na masumu, moyengebene mpo na baoyo bazangi bosembo, mpo amema biso epai ya Nzambe; abomamaki na nzoto, kasi <strong class="s-hi">azongisamaki na bomoi na Molimo, mpe na yango akendeki kosakola epai ya milimo oyo ezalaki na boloko,</strong> baoyo kala baboyaki kondima, tango Nzambe azalaki kozela na motema molai, na mikolo ya Noa, tango masuwa ezalaki kotongama; kati na yango bato moke, mwambe kaka, babikaki na nzela ya mai. Mai wana ezalaki elilingi ya libatisi oyo <strong class="s-hi">ebikisi bino sikoyo</strong>; ezali kolongola bosoto ya nzoto te, kasi ezali kosenga epai ya Nzambe motema ya peto, na nzela ya lisekwa ya Yesu Klisto, oyo akei na lola mpe azali na loboko ya mobali ya Nzambe.»</blockquote>
+            </div>
+
+            <p>Awa nde likanisi ya «mpongi ya molimo» ekweyi, mpe ekweyi na esika oyo esalaka mpasi mingi. Klisto, nsima ya kokufa, atikalaki na mayele te azali kozela kosambisama ya suka: akendeki kosakola epai ya milimo oyo ezalaki na boloko. Kosakola esengeli na moto oyo alobaka mpe moto oyo ayokaka, mpe bango mibale bakufaki. Molimo etikalaka na mosala nsima ya liwa ya nzoto. Soki oyo ya Klisto ezalaki bongo, oyo ya basantu mpe.</p>
+
+            <h2>Basantu bazali na Yeruzalemi ya likolo<br>Baebele 12:22-24</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Baebele 12:22-24</span>
+                <blockquote>«Kasi bino bopusani na ngomba Siona, mpe na engumba ya Nzambe ya bomoi, <strong class="s-hi">Yeruzalemi ya likolo</strong>, mpe na ebele ya banzelu, na lisanga ya feti, mpe na lingomba ya bana ya liboso oyo bakombo na bango ekomami na lola, mpe na Nzambe mosambisi ya bato nyonso, mpe na <strong class="s-hi">milimo ya bayengebene oyo bakomi na bokoki,</strong> mpe na Yesu, moyokanisi ya boyokani ya sika, mpe na makila ya kosopa oyo elobaka malamu koleka oyo ya Abele.»</blockquote>
+            </div>
+
+            <p>Basantu oyo bakufa bazali kotambola te na esika moko ya kozela kosambisama. Bazali na «engumba ya Nzambe ya bomoi». Mpe esengeli kotanga verbe: bato ya bomoi <em>bapusani</em> epai na bango, na ntango oyo esili, kasi na elaka ya mikolo ekoya te. Bazali milimo ya bayengebene oyo basili kokoma na bokoki. Bakoki. Pene na Nzambe. Na ekangeli te mpe na ntaka te.</p>
+
+            <h2>Basantu bamemaka mabondeli liboso ya kiti ya bokonzi<br>Apokalise 5:8</h2>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝ Apokalise 5:8</span>
+                <blockquote>«Mpe tango azwaki buku yango, bikelamu minei ya bomoi mpe bakolo ntuku mibale na minei bakweyaki liboso ya Mwana-Meme; moko na moko azalaki na lindanda, mpe <strong class="s-hi">bakopo ya wolo etonda na malasi, oyo ezali mabondeli ya basantu.</strong>»</blockquote>
+            </div>
+
+            <p>Yoane amoni yango na emonaneli: na lola, liboso ya Mwana-Meme, bikelamu ya lola bamemaka liboso ya kiti ya bokonzi bakopo ya malasi oyo <em>ezali</em> mabondeli ya basantu. Mabondeli ya bandimi ya mabele ekomaka na etumbelo ya lola na nzela ya baoyo bazali kuna. Basantu bayokaka kaka te: bapesaka.</p>
+
+            <h2>Nsuka</h2>
+
+            <p>Basantu bazali baoyo bazalaki na kondima —Abele, Enoke, Noa, Abrayama, Moize, basakoli—, baoyo nsima ya liwa bazali na engumba ya Nzambe ya bomoi, Yeruzalemi ya likolo. Kuna bayebi ndenge Nzambe ayebi bango. Kuna bamoni Nzambe ndenge azali. Kuna ndelo ezali te mpe ntaka ezali te.</p>
+
+            <p>Mpe oyo Eklezia esalaka na kobelela bango ezali kaka oyo Apokalise elakisi: bamemaka na etumbelo ya lola mabondeli ya bandimi mpe bapesaka yango liboso ya kiti ya bokonzi ya Mwana-Meme. Basantu bakumisami te. Basengami ete babondela epai ya Nzambe, ndenge basengaka ndeko ya bomoi ete abondela mpo na moto. Bokeseni kaka moko ezali na litomba na bango: bazali na lola mpe bayebi ndenge Nzambe ayebi. Yango wana bamonaka, bayokaka mpe babondelaka. Moto oyo alobi ete bakufi bakoki koyoka te asengeli liboso kolimbola mpo na nini lola ebombaka mabondeli na bakopo ya wolo.</p>`,
       nav: { prevTitle: "Transsubstantiation: sekele ya eukarisiti", nextTitle: "Trinité Mosantu" }
     },
     "por-que-creemos": {

@@ -133,37 +133,37 @@ const translationsFR = {
     },
     "los-santos": {
       pageTitle: "Les saints | Foi et Raison",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>Les saints et leur intercession</h1><p>L'Écriture elle-même les nomme : Abel, Hénoch, Noé, Abraham, Moïse, les prophètes. Passage après passage, nous démontrerons pourquoi les saints peuvent nous entendre et intercéder pour nous.</p><div class="article-meta"><span>12 min de lecture</span><span>Publié en mai 2026</span></div><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
-      article: `<p>Il y a une objection que l'on répète sans relâche : <em>« Les morts ne peuvent pas vous entendre. »</em> Au premier abord, cela semble raisonnable. Mais l'Écriture dit autre chose. Non pas dans un seul passage isolé, mais dans sept passages distincts, de Paul jusqu'à l'Apocalypse. Parcourons-les un par un.</p>
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>Les saints et leur intercession</h1><p>L'Écriture elle-même les nomme : Abel, Hénoch, Noé, Abraham, Moïse, les prophètes. Sept passages, un par un, sur les raisons pour lesquelles les saints entendent et intercèdent.</p><div class="article-meta"><span>12 min de lecture</span><span>Publié en mai 2026</span></div><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+      article: `<p>Les Témoins de Jéhovah et les adventistes répètent la même objection sans se lasser : <em>« Les morts ne peuvent pas vous entendre »</em>, parce que l'âme —disent-ils— dort jusqu'au jugement dernier. Au premier abord, cela semble raisonnable. Mais l'Écriture dit autre chose. Pas dans une citation isolée : dans sept passages distincts, de Paul à l'Apocalypse. Un par un.</p>
 
-            <h2>La connaissance se perfectionne après la mort</h2>
+            <h2>La connaissance s'achève après la mort<br>1 Corinthiens 13, 9-13</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ 1 Co 13, 9-13</span>
                 <blockquote>« Car <strong class="s-hi">nous connaissons en partie et nous prophétisons en partie ;</strong> mais quand viendra ce qui est parfait, ce qui est partiel disparaîtra. Lorsque j'étais enfant, je parlais comme un enfant, je pensais comme un enfant, je raisonnais comme un enfant ; une fois devenu homme, j'ai mis fin à ce qui était de l'enfant. Car nous voyons à présent dans un miroir, en énigme, mais alors ce sera face à face. Dès à présent, je connais en partie, mais alors <strong class="s-hi">je connaîtrai comme je suis connu.</strong> Maintenant donc ces trois-là demeurent : la foi, l'espérance, la charité ; mais la plus grande, c'est la charité. »</blockquote>
             </div>
 
-            <p>Paul enseigne qu'en cette vie nous ne connaissons qu'en partie. Quand viendra ce qui est parfait — ce qui se produit en mourant et en voyant Dieu face à face — nous connaîtrons comme Dieu nous a connus : parfaitement, sans voile, sans limite. Si les saints connaissent ainsi, rien ne leur est caché. Ils peuvent entendre. Ils peuvent comprendre nos supplications.</p>
+            <p>Paul enseigne qu'en cette vie la connaissance est imparfaite. Quand viendra ce qui est parfait —et cela arrive à la mort, en voyant Dieu face à face— on connaîtra comme Dieu connaît : sans voile et sans limite. Si les saints connaissent ainsi, rien ne leur est caché. Ils peuvent entendre. Ils peuvent comprendre les supplications qu'on leur adresse.</p>
 
-            <h2>Après la mort, nous verrons Dieu tel qu'il est</h2>
+            <h2>Après la mort, nous verrons Dieu tel qu'il est<br>1 Jean 3, 2</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ 1 Jn 3, 2</span>
                 <blockquote>« Bien-aimés, nous sommes dès maintenant enfants de Dieu, et ce que nous serons n'a pas encore été manifesté. Nous savons que lors de cette manifestation <strong class="s-hi">nous lui serons semblables, parce que nous le verrons tel qu'il est.</strong> »</blockquote>
             </div>
 
-            <p>Jean confirme ce que dit Paul. Maintenant, en cette vie, nous ne voyons pas : nous croyons. Après la mort, nous verrons Dieu tel qu'il est. Les saints ont déjà franchi ce seuil. Ils voient déjà. C'est pourquoi ils ne se trouvent pas dans les ténèbres de ce qu'on appelle le « sommeil de l'âme » qu'enseignent certains — ils sont dans la pleine lumière.</p>
+            <p>Jean confirme ce que dit Paul. Maintenant, en cette vie, on ne voit pas : on croit. Après la mort, on voit Dieu tel qu'il est. Les saints ont déjà franchi ce seuil. Ils voient déjà. Et c'est là que tombe le prétendu « sommeil de l'âme » : ils ne sont dans aucune obscurité, ils sont en pleine lumière.</p>
 
-            <h2>Après la mort vient le ciel</h2>
+            <h2>Après la mort vient le ciel<br>Jean 14, 1-4</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ Jn 14, 1-4</span>
                 <blockquote>« Que votre cœur ne se trouble pas. Vous croyez en Dieu, croyez aussi en moi. Dans la maison de mon Père, il y a de nombreuses demeures ; sinon, vous aurais-je dit que je vais vous préparer une place ? Quand je serai allé vous préparer une place, je reviendrai et je vous prendrai avec moi, afin que là où je suis, vous aussi vous soyez. Et là où je vais, vous savez le chemin. »</blockquote>
             </div>
 
-            <p>Jésus ne laisse aucun doute : il y a une destination après la mort, et cette destination c'est être avec lui. Le ciel n'est pas une métaphore : c'est le lieu où Jésus est allé nous préparer une place. Et les saints qui ont vécu dans la foi sont déjà là, avec lui, là où il avait promis de les conduire.</p>
+            <p>Jésus ne laisse aucune place au doute : il y a une destination après la mort, et cette destination est d'être avec lui. Le ciel n'est pas une métaphore : c'est le lieu où Jésus est allé préparer une place. Et les saints qui ont vécu dans la foi y sont déjà, avec lui, là où il a promis de les emmener.</p>
 
-            <h2>Les saints : la grande nuée de témoins</h2>
+            <h2>Les saints : la grande nuée de témoins<br>Hébreux 11, 1 — 12, 3</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ He 11, 1 — 12, 3</span>
@@ -178,40 +178,40 @@ Et que dirai-je encore ? Le temps me manquerait pour parler de <strong class="s-
 Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande nuée de témoins,</strong> nous devons, nous débarrassant de tout fardeau et du péché qui nous enveloppe, courir avec endurance l'épreuve qui nous est proposée, les yeux fixés sur Jésus, qui est l'auteur et le consommateur de la foi ; lequel, en vue de la joie qui lui était proposée, a souffert la croix, au mépris de la honte, et s'est assis à la droite du trône de Dieu. Pensez à celui qui a supporté de la part des pécheurs une telle hostilité, afin <strong class="s-hi">que vous ne vous lassiez pas et que vous ne vous découragiez pas dans vos âmes. »</strong></blockquote>
             </div>
 
-            <p>Voilà la réponse à « qui sont les saints ? » L'Écriture les nomme un par un. Ce n'est pas une invention de l'Église. Ce sont les héros de la foi qui ont vécu, souffert et sont morts en cherchant une patrie qui n'est pas de ce monde : la céleste. Et à leur exemple, l'auteur des Hébreux nous invite : « nous aussi ». Cette immense nuée de témoins nous entoure.</p>
+            <p>Voilà la réponse à « qui sont les saints ? ». L'Écriture les nomme un par un. Ce n'est pas une invention de l'Église. Ce sont ceux qui ont vécu, souffert et sont morts en cherchant une patrie qui n'est pas de ce monde, et l'auteur des Hébreux ne les met pas là en ornement : il dit que cette nuée de témoins entoure ceux qui courent encore. Personne n'est entouré par ceux qui ne sont pas là.</p>
 
-            <h2>L'âme ne dort pas — le Christ a prêché aux esprits</h2>
+            <h2>L'âme ne dort pas — le Christ a prêché aux esprits<br>1 Pierre 3, 18-22</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ 1 P 3, 18-22</span>
                 <blockquote>« Car <strong class="s-hi">le Christ aussi a souffert pour les péchés, une fois pour toutes,</strong> lui, le juste, pour des injustes, afin de vous mener à Dieu ; mis à mort selon la chair, <strong class="s-hi">il a été rendu vivant selon l'Esprit. Dans cet état, il est allé proclamer sa victoire aux esprits en prison,</strong> à ceux qui avaient refusé d'obéir jadis, quand la patience de Dieu se prolongeait, au temps de Noé, pendant la construction de l'arche, dans laquelle un petit nombre, soit huit personnes, furent sauvées à travers l'eau. Ce qui vous sauve, c'est un baptême correspondant à cela, <strong class="s-hi">non pas l'enlèvement de la souillure de la chair, mais la requête à Dieu d'une bonne conscience,</strong> par la résurrection de Jésus Christ, qui est à la droite de Dieu, après avoir monté au ciel, les anges, les dominations et les puissances lui ayant été soumis. »</blockquote>
             </div>
 
-            <p>Ici s'effondre l'argument du « sommeil de l'âme ». Le Christ, après sa mort, ne resta pas inconscient à attendre le jugement dernier — il alla proclamer le message aux esprits en prison. L'âme demeure active après la mort du corps. Si celle du Christ l'était, celle des saints l'est aussi. La mort n'appartient qu'au corps.</p>
+            <p>Ici tombe l'argument du « sommeil de l'âme », et il tombe là où cela fait le plus mal. Le Christ, après sa mort, n'est pas resté inconscient à attendre le jugement dernier : il est allé faire son annonce aux esprits en prison. Une annonce suppose quelqu'un qui parle et quelqu'un qui entend, et tous deux étaient morts. L'âme reste active après la mort du corps. Si celle du Christ l'a été, celle des saints aussi.</p>
 
-            <h2>Les saints sont dans la Jérusalem céleste</h2>
+            <h2>Les saints sont dans la Jérusalem céleste<br>Hébreux 12, 22-24</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ He 12, 22-24</span>
                 <blockquote>« Non, vous vous êtes approchés de la montagne de Sion, <strong class="s-hi">de la cité du Dieu vivant, la Jérusalem céleste,</strong> et de myriades d'anges en fête, de l'assemblée des premiers-nés inscrits dans les cieux, et de Dieu, le juge de tous, et <strong class="s-hi">des esprits des justes parvenus à la perfection,</strong> et de Jésus, le médiateur d'une alliance nouvelle, et du sang de l'aspersion qui parle mieux que celui d'Abel. »</blockquote>
             </div>
 
-            <p>Les saints défunts ne flottent pas dans quelque limbe en attendant le jugement. Ils sont dans « la cité du Dieu vivant ». Et leur condition n'est pas celle des vivants : ce sont des esprits qui « sont parvenus à la perfection ». Parfaits. Proches de Dieu. Sans barrière. Sans distance.</p>
+            <p>Les saints défunts ne flottent dans aucune limbe en attendant le jugement. Ils sont dans « la cité du Dieu vivant ». Et il faut lire le verbe : les vivants <em>se sont approchés</em> d'eux, au parfait, non dans une promesse à venir. Ce sont des esprits de justes déjà parvenus à la perfection. Parfaits. Près de Dieu. Sans barrière et sans distance.</p>
 
-            <h2>Les saints portent nos prières devant le trône</h2>
+            <h2>Les saints portent les prières devant le trône<br>Apocalypse 5, 8</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ Ap 5, 8</span>
                 <blockquote>« Quand il l'eut pris, les quatre Vivants et les vingt-quatre Anciens se prosternèrent devant l'Agneau, tenant chacun une cithare et des <strong class="s-hi">coupes d'or remplies de parfums, qui sont les prières des saints.</strong> »</blockquote>
             </div>
 
-            <p>Jean le voit en vision : dans le ciel, devant l'Agneau, les êtres célestes portent devant le trône des coupes d'encens qui <em>sont</em> les prières des saints. Les prières des fidèles sur terre atteignent l'autel du ciel par les intercesseurs qui s'y trouvent. Les saints ne font pas qu'entendre : ils présentent.</p>
+            <p>Jean le voit en vision : au ciel, devant l'Agneau, les êtres célestes portent devant le trône des coupes d'encens qui <em>sont</em> les prières des saints. Les prières des fidèles de la terre parviennent à l'autel du ciel par ceux qui s'y tiennent. Les saints ne se contentent pas d'entendre : ils présentent.</p>
 
             <h2>Conclusion</h2>
 
-            <p>Les saints sont ceux qui ont vécu dans la foi — comme Abel, Hénoch, Noé, Abraham, Moïse, les prophètes — ceux qui après la mort sont dans la cité du Dieu vivant, la Jérusalem céleste. Là ils connaissent parfaitement, comme Dieu les a connus de leur vivant. Là ils voient Dieu tel qu'il est. Là il n'y a ni limitation ni distance.</p>
+            <p>Les saints sont ceux qui ont vécu dans la foi —Abel, Hénoch, Noé, Abraham, Moïse, les prophètes—, ceux qui après la mort sont dans la cité du Dieu vivant, la Jérusalem céleste. Là ils connaissent comme Dieu les connaît. Là ils voient Dieu tel qu'il est. Là il n'y a ni limite ni distance.</p>
 
-            <p>Et ce que fait l'Église en les invoquant est exactement ce que montre l'Apocalypse : ils portent nos prières à l'autel du ciel et les présentent devant le trône de l'Agneau. Nous n'adorons pas les saints. Nous leur demandons d'intercéder pour nous auprès de Dieu, comme nous demandons à n'importe quel frère de prier pour nous. La différence, c'est qu'ils sont au ciel et qu'ils connaissent comme Dieu nous connaît : parfaitement. C'est pourquoi ils nous voient, nous entendent et intercèdent.</p>`,
+            <p>Et ce que fait l'Église en les invoquant est exactement ce que montre l'Apocalypse : ils portent à l'autel du ciel les prières des fidèles et les présentent devant le trône de l'Agneau. On n'adore pas les saints. On leur demande d'intercéder auprès de Dieu, comme on demande à un frère vivant de prier pour soi. La seule différence joue en leur faveur : ils sont au ciel et connaissent comme Dieu connaît. C'est pourquoi ils voient, ils entendent et ils intercèdent. Celui qui dit que les morts ne peuvent pas entendre doit d'abord expliquer pourquoi le ciel garde les prières dans des coupes d'or.</p>`,
       nav: { prevTitle: "Transsubstantiation : le mystère eucharistique", nextTitle: "La Sainte Trinité" }
     },
     "por-que-creemos": {

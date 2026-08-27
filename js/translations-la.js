@@ -364,42 +364,42 @@ const translationsLA = {
                 <span class="eyebrow-text">Thema Speciale</span>
             </div>
             <h1>Sancti et eorum intercessio</h1>
-            <p>Scriptura ipsa eos nominat: Abel, Henoch, Noe, Abraham, Moyses, prophetae. Locum ex loco demonstrabimus cur sancti nos audire et intercedere possint.</p>
+            <p>Ipsa Scriptura eos nominat: Abel, Henoch, Noe, Abraham, Moyses, prophetae. Septem loci, singillatim, cur sancti audiant et intercedant.</p>
             <div class="article-meta">
                 <span>XII min lectura</span>
                 <span>Editus Maio MMXXVI</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Ad Themata reverti</a>`,
-      article: `<p>Obiectio saepe repetita: <em>«Mortui te audire non possunt.»</em> Prima facie rationabilis videtur. Sed Scriptura aliud dicit. Non in uno loco separato. In septem locis diversis, a Paulo usque ad Apocalypsim. Singulos percurramus.</p>
+      article: `<p>Testes Iehovae et Adventistae eandem obiectionem indefesse repetunt: <em>«Mortui te audire non possunt»</em>, quia anima —ut aiunt— dormit usque ad iudicium ultimum. Primo aspectu rationi consentaneum videtur. Sed Scriptura aliud dicit. Non uno loco seiuncto: septem locis distinctis, a Paulo usque ad Apocalypsim. Singillatim.</p>
 
-            <h2>Post mortem cognitio perficitur</h2>
+            <h2>Cognitio post mortem perficitur<br>I Cor 13:9-13</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ I Cor 13:9-13</span>
                 <blockquote>«<strong class="s-hi">Ex parte enim cognoscimus, et ex parte prophetamus.</strong> Cum autem venerit quod perfectum est, evacuabitur quod ex parte est. Cum essem parvulus, loquebar ut parvulus, sapiebam ut parvulus, cogitabam ut parvulus. Quando autem factus sum vir, evacuavi quae erant parvuli. Videmus nunc per speculum in aenigmate: tunc autem facie ad faciem. Nunc cognosco ex parte: tunc autem <strong class="s-hi">cognoscam sicut et cognitus sum.</strong> Nunc autem manent fides, spes, caritas, tria haec: maior autem horum est caritas.»</blockquote>
             </div>
 
-            <p>Paulus docet nos in hac vita ex parte tantum cognoscere. Cum venerit perfectum — quod fit moriendo et Deum facie ad faciem videndo — cognoscemus sicut Deus nos cognovit: perfecte, sine velo, sine limite. Si sancti ita cognoscunt, nihil eis occultum est. Audire possunt. Preces nostras intellegere possunt.</p>
+            <p>Paulus docet in hac vita cognitionem imperfectam esse. Cum venerit quod perfectum est —id quod in morte fit, Deo facie ad faciem viso— cognoscetur sicut Deus cognoscit: sine velo et sine termino. Si sancti ita cognoscunt, nihil eis occultum est. Audire possunt. Preces ad se directas intellegere possunt.</p>
 
-            <h2>Post mortem Deum videbimus sicuti est</h2>
+            <h2>Post mortem Deum sicuti est videbimus<br>I Io 3:2</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ I Io 3:2</span>
                 <blockquote>«Carissimi, nunc filii Dei sumus: et nondum apparuit quid erimus. Scimus quoniam cum apparuerit, <strong class="s-hi">similes ei erimus: quoniam videbimus eum sicuti est.</strong>»</blockquote>
             </div>
 
-            <p>Ioannes confirmat quod Paulus dicit. Nunc, in hac vita, non videmus: credimus. Post mortem Deum videbimus sicuti est. Sancti iam illum limen transierunt. Iam vident. Ideo non sunt in tenebris illius quam quidam docent «somnii animae» — in plena luce sunt.</p>
+            <p>Ioannes confirmat quod Paulus dicit. Nunc, in hac vita, non videtur: creditur. Post mortem Deus videtur sicuti est. Sancti illud limen iam transierunt. Iam vident. Atque ibi cadit ille «somnus animae»: in nullis tenebris sunt, in plena luce sunt.</p>
 
-            <h2>Post mortem venit caelum</h2>
+            <h2>Post mortem caelum venit<br>Io 14:1-4</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ Io 14:1-4</span>
                 <blockquote>«Non turbetur cor vestrum. Creditis in Deum, et in me credite. In domo Patris mei mansiones multae sunt. Si quo minus, dixissem vobis: quia vado parare vobis locum. Et si abiero, et praeparavero vobis locum, iterum venio, et accipiam vos ad meipsum: ut ubi sum ego, et vos sitis. Et quo ego vado scitis, et viam scitis.»</blockquote>
             </div>
 
-            <p>Iesus nullum dubium relinquit: post mortem destinatio est, et illa destinatio est esse cum eo. Caelum non est metaphora: est locus quem Iesus nobis paratum ivit. Et sancti qui in fide vixerunt iam illic sunt, cum eo, ubi eos ducere promisit.</p>
+            <p>Iesus dubitationi locum non relinquit: est terminus post mortem, et ille terminus est cum illo esse. Caelum metaphora non est: est locus quo Iesus ivit ut sedem praepararet. Et sancti qui in fide vixerunt iam ibi sunt, cum illo, quo eos ducturum se promisit.</p>
 
-            <h2>Sancti: magna nubes testium</h2>
+            <h2>Sancti: magna nubes testium<br>Heb 11:1 — 12:3</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ Heb 11:1 — 12:3</span>
@@ -414,40 +414,40 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
 <strong class="s-hi">Ideoque et nos tantam habentes impositam nubem testium,</strong> deponentes omne pondus et circumstans nos peccatum, per patientiam curramus ad propositum nobis certamen: aspicientes in auctorem fidei et consummatorem Iesum, qui proposito sibi gaudio sustinuit crucem, confusione contempta, atque in dextera sedis Dei sedet. Recogitate enim eum qui talem sustinuit a peccatoribus adversum semetipsum contradictionem: <strong class="s-hi">ut ne fatigemini, animis vestris deficientes.»</strong></blockquote>
             </div>
 
-            <p>Haec est responsio ad «qui sunt sancti?» Scriptura eos nominatim enumerat. Non est inventum Ecclesiae. Sunt heroes fidei qui vixerunt, passi sunt et mortui sunt patriam quaerentes quae non est huius mundi: caelestem. Et ad eorum exemplum auctor ad Hebraeos nos invitat: «et nos». Illa ingens nubes testium nos circumdat.</p>
+            <p>Haec est responsio ad illud «qui sunt sancti?». Scriptura eos singillatim nominat. Non est Ecclesiae inventum. Sunt qui vixerunt, passi sunt et mortui sunt patriam quaerentes quae huius mundi non est, neque auctor ad Hebraeos eos ornamenti causa ibi ponit: dicit hanc testium nubem circumdare eos qui adhuc currunt. Nemo circumdatur ab iis qui absunt.</p>
 
-            <h2>Anima non dormit — Christus spiritibus praedicavit</h2>
+            <h2>Anima non dormit — Christus spiritibus praedicavit<br>I Petr 3:18-22</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ I Petr 3:18-22</span>
                 <blockquote>«Quia et <strong class="s-hi">Christus semel pro peccatis mortuus est,</strong> iustus pro iniustis, ut nos offerret Deo, mortificatus quidem carne, <strong class="s-hi">vivificatus autem spiritu. In quo et his qui in carcere erant spiritibus veniens praedicavit:</strong> qui increduli fuerant aliquando, quando expectabant Dei patientiam in diebus Noe, cum fabricaretur arca: in qua pauci, id est octo animae salvae factae sunt per aquam. Quod et vos nunc similis formae <strong class="s-hi">salvos facit baptisma:</strong> non carnis depositio sordium, sed conscientiae bonae interrogatio in Deum per resurrectionem Iesu Christi: qui est in dextera Dei, deglutiens mortem ut vitae aeternae heredes efficeremur: profectus in caelum, subiectis sibi angelis et potestatibus et virtutibus.»</blockquote>
             </div>
 
-            <p>Hic cadit argumentum «somnii animae». Christus post mortem non mansit inscius ultimum iudicium expectans: ivit praedicare spiritibus qui in carcere erant. Anima activa manet post mortem corporis. Si anima Christi ita erat, ita et animae sanctorum. Mors solius corporis est.</p>
+            <p>Hic cadit argumentum de «somno animae», et ibi cadit ubi maxime dolet. Christus, post mortem, non iacuit sine sensu iudicium ultimum exspectans: ivit ut spiritibus in carcere nuntium faceret. Nuntius supponit aliquem qui loquitur et aliquem qui audit, et uterque mortuus erat. Anima post corporis mortem viva manet. Si Christi vixit, et sanctorum vivit.</p>
 
-            <h2>Sancti sunt in Hierusalem caelesti</h2>
+            <h2>Sancti in Ierusalem caelesti sunt<br>Heb 12:22-24</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ Heb 12:22-24</span>
                 <blockquote>«Sed accessistis ad <strong class="s-hi">Sion montem, et civitatem Dei viventis, Hierusalem caelestem,</strong> et multorum millium angelorum frequentiam, et Ecclesiam primitivorum qui conscripti sunt in caelis, et iudicem omnium Deum, <strong class="s-hi">et spiritus iustorum perfectorum,</strong> et Iesum mediatorem novi testamenti, et sanguinem aspersionis melius loquentem quam Abel.»</blockquote>
             </div>
 
-            <p>Sancti defuncti non vagantur in aliquo limbo iudicium expectantes. Sunt in «civitate Dei viventis». Et condicio eorum non est viventium: sunt spiritus qui «iusti perfecti» facti sunt. Perfecti. Prope Deum. Sine obstaculo. Sine distantia.</p>
+            <p>Sancti defuncti in nullo limbo iudicium exspectantes fluitant. In «civitate Dei viventis» sunt. Et verbum legendum est: viventes ad eos <em>accesserunt</em>, tempore perfecto, non in promissione futura. Sunt spiritus iustorum qui iam ad perfectionem pervenerunt. Perfecti. Prope Deum. Sine claustro et sine intervallo.</p>
 
-            <h2>Sancti preces nostras ante thronum deferunt</h2>
+            <h2>Sancti preces ante thronum ferunt<br>Apoc 5:8</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝ Apoc 5:8</span>
                 <blockquote>«Et cum aperuisset librum, quattuor animalia et viginti quattuor seniores ceciderunt coram Agno, habentes singuli citharas et <strong class="s-hi">phialas aureas plenas odoramentorum, quae sunt orationes sanctorum.</strong>»</blockquote>
             </div>
 
-            <p>Ioannes hoc in visione videt: in caelo, coram Agno, caelestes phialas thuris ante thronum deferunt quae <em>sunt</em> orationes sanctorum. Orationes fidelium in terra per intercessores ibi praesentes ad altare caeli perveniunt. Sancti non solum audiunt: offerunt.</p>
+            <p>Ioannes id in visione videt: in caelo, ante Agnum, caelestia animalia ante thronum ferunt phialas incensi quae <em>sunt</em> orationes sanctorum. Fidelium terrae orationes ad caeli altare perveniunt per eos qui ibi stant. Sancti non solum audiunt: offerunt.</p>
 
             <h2>Conclusio</h2>
 
-            <p>Sancti sunt qui in fide vixerunt — sicut Abel, Henoch, Noe, Abraham, Moyses, prophetae — qui post mortem sunt in civitate Dei viventis, Hierusalem caelesti. Ibi perfecte cognoscunt, sicut Deus eos in vita cognovit. Ibi Deum vident sicuti est. Ibi nulla limitatio, nulla distantia.</p>
+            <p>Sancti sunt qui in fide vixerunt —Abel, Henoch, Noe, Abraham, Moyses, prophetae—, qui post mortem in civitate Dei viventis sunt, in Ierusalem caelesti. Ibi cognoscunt sicut Deus eos cognoscit. Ibi Deum sicuti est vident. Ibi neque terminus neque intervallum est.</p>
 
-            <p>Et quod Ecclesia facit eos invocando est exacte quod Apocalypsis ostendit: preces nostras ad altare caeli deferunt easque ante thronum Agni offerunt. Non adoramus sanctos. Petimus eos ut pro nobis apud Deum intercedant, sicut ab ullo fratre petimus ut pro nobis oret. Differentia est quod illi in caelo sunt et cognoscunt sicut Deus nos cognoscit: perfecte. Ideo nos vident, nos audiunt, et intercedunt.</p>`,
+            <p>Et quod Ecclesia eos invocando facit id ipsum est quod Apocalypsis ostendit: fidelium orationes ad caeli altare ferunt et ante Agni thronum offerunt. Sancti non adorantur. Ab eis petitur ut apud Deum intercedant, sicut a fratre vivo petitur ut pro aliquo oret. Sola differentia in eorum favorem cedit: in caelo sunt et cognoscunt sicut Deus cognoscit. Ideo vident, audiunt et intercedunt. Qui dicit mortuos audire non posse prius explicare debet cur caelum orationes in phialis aureis servet.</p>`,
       nav: {
         prevTitle: "Transsubstantiatio: mysterium eucharisticum",
         nextTitle: "Sanctissima Trinitas"

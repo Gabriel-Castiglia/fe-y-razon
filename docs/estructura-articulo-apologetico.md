@@ -127,7 +127,7 @@ Cuando falta una sección obligatoria:
 
 | Artículo | Estado | Notas |
 |---|---|---|
-| los-santos | Completo | Citas cotejadas y tono ajustado (27-ago-2026); sigue `provisional` en router.js |
+| los-santos | **Completo y publicado** | Citas cotejadas, tono ajustado y traducido a los 12 idiomas (27-ago-2026) |
 | la-eucaristia | Completo | Citas cotejadas y tono ajustado (27-ago-2026) |
 | por-que-creemos | Completo | Citas cotejadas y tono ajustado (27-ago-2026) |
 | sacerdocio | Completo | Citas cotejadas, crítica común agregada y tono ajustado (27-ago-2026) |
