@@ -74,10 +74,10 @@ const translationsTL = {
   },
   article7: {
     category: "Doktrina",
-    date: "Paparating na",
+    date: "Setyembre 2026",
     title: "Ang Purgatoryo",
-    excerpt: "Ang huling pagdadalisay bago pumasok sa presensya ng Diyos.",
-    time: "6 minuto",
+    excerpt: "Isang bilangguang nilalabasan at mga kasalanang pinatatawad sa panahong darating: ang itinuturo ni Cristo tungkol sa paglilinis.",
+    time: "8 minuto",
     link: "Basahin →"
   },
   article8: {
@@ -106,6 +106,7 @@ const translationsTL = {
   },
   mission: {
     title: "Ang Aming Misyon",
+    intro: "Patuloy na ina-update ang site na ito ng mga bagong paksang apologetiko. Kung may nais kang partikular na paksa, sumulat sa amin sa pamamagitan ng contact form at isasama namin ito hangga't maaari.",
     teach: {
       title: "Turuan",
       desc: "Palalimin ang doktrinang Katoliko sa pamamagitan ng matatatag na argumento batay sa Banal na Kasulatan, ang magisterium ng Simbahan at ang dahilan."
@@ -152,25 +153,67 @@ const translationsTL = {
                 <span class="eyebrow-text">Espesyal na Paksa</span>
             </div>
             <h1>Ang Purgatoryo at Awa ng Diyos</h1>
-            <p>Isang malinaw na paliwanag ng purgatoryo bilang proseso ng pagdadalisay at pag-asa tungo sa panghuling pakikiisa sa Diyos.</p>
+            <p>Isang bilangguang nilalabasan at mga kasalanang pinatatawad sa panahong darating: ang itinuturo ni Cristo tungkol sa paglilinis pagkamatay, bawat talata.</p>
             <div class="article-meta">
-                <span>6 minutong pagbabasa</span>
-                <span>Nailathala Mayo 2026</span>
+                <span>8 minutong pagbabasa</span>
+                <span>Nailathala Setyembre 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
-      article: `<p>Ang purgatoryo ay ang yugto kung saan ang mga kaluluwa ay nadalisay bago makapasok sa buong presensya ng Diyos. Hindi ito panghuling parusa, kundi isang proseso ng mapagpagalingang pagmamahal.</p>
-                <h2>Ano ang ibig sabihin ng pagdadalisay?</h2>
-                <p>Tinatanggal ng pagdadalisay ang mga kahihinatnan ng maliliit na kasalanan at nagpapagaling ng mga sugat ng kalayaan. Ito ang kinakailangang paghahanda para sa banal na pagninilay.</p>
-                <blockquote>"Ang Diyos ay makatarungan at pati na rin ang pinaka-mahabagin. Ang Kanyang katarungan ay nagdadalisay, ang Kanyang awa ay sumasamahan."</blockquote>
-                <h2>Kristiyanong pag-asa</h2>
-                <p>Ang purgatoryo ay hindi hatol, kundi gawa ng pagtubos. Ang bawat kaluluwa ay tinatawag sa kasaganaan ng pagmamahal ng Diyos, at ang pagdadalisay ay bahagi ng landas na iyon.</p>
+      article: `<p>Maraming sektang Protestante ang nanghahawak sa erehiyang walang purgatoryo, at ipinagtatanggol nila ito sa dalawang paraan. Ang una ay inuulit ng halos lahat sa kanila: <em>«Wala sa Bibliya ang salitang purgatoryo. Imbento iyan ng Roma: nililinis tayo ng dugo ni Cristo sa lahat ng kasalanan, at ang namamatay ay tuloy-tuloy sa langit o sa impiyerno.»</em> Ang ikalawa ay sa mga Adventista at sa mga Saksi ni Jehova, na itinatangging nananatiling buhay ang kaluluwa pagkamatay: <em>«Walang alam ang mga patay (Ec 9:5). Walang dapat linisin at walang dapat ipanalangin.»</em></p>
+                <p>Ang una ay nasasagot sa isang linya. Wala sa Bibliya ang salitang purgatoryo, wala rin ang salitang Trinidad, at ang Trinidad ay nasa bawat pahina. Ang mahalaga ay kung itinuturo ng Kasulatan na may lugar na hindi impiyerno, sapagkat sa impiyerno ay walang nakalalabas, kung saan binabayaran ang utang ng kasalanan hanggang sa huli at saka lumalabas. Itinuturo iyon ng Kasulatan, at si Cristo ang nagtuturo nito.</p>
+                <p>Ang purgatoryo ay gawa ng awa. Para itong pagbubuhos ng alkohol sa sugat na may impeksiyon: mahapdi at masakit, pero nililinis ito ng amang nagmamahal sa kanyang anak, dahil hindi niya hahayaang mabulok ang braso dahil lang sa isang galos. Iyan ang ginagawa ng purgatoryo: nililinis nito ang iniwan ng kasalanan, upang makapasok ang kaluluwa sa harapan ng Diyos.</p>
+                <h2>«Hanggang sa mabayaran niya ang buong utang»<br>Mateo 18:23-35</h2>
+                <p>Ipinaliliwanag ni Jesus ang Kaharian ng Langit sa talinghaga ng aliping hindi nagpatawad.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mateo 18:23-35</span>
+                    <blockquote>«Kaya't <strong class="s-hi">ang paghahari ng Diyos ay katulad ng isang hari na nagpasyang singilin ang kanyang mga alipin</strong>. … Sa galit ng hari, <strong class="s-hi">ipinabilanggo niya ang alipin hanggang sa mabayaran nito ang buong utang. Ganyan din ang gagawin sa inyo ng aking Amang nasa langit</strong> kung hindi ninyo patatawarin nang taos sa puso ang inyong kapatid.»</blockquote>
+                </div>
+                <p>May hangganan ang parusa: tumatagal ito hanggang mabayaran ng alipin ang lahat ng kanyang utang. Una siyang nagbabayad, saka lumalabas. Walang nakalalabas sa impiyerno, kaya ang bilangguang iyon ay hindi impiyerno. At hindi iniiwan ni Jesus ang talinghaga bilang kuwento ng kung sinong hari: <em>«Ganyan din ang gagawin sa inyo ng aking Amang nasa langit.»</em> Hindi ito interpretasyon ng Simbahan ni hula. Si Cristo ang nagsabi nito.</p>
+                <h2>Ang bilangguang nilalabasan<br>Mateo 5:25-26</h2>
+                <p>Sa Sermon sa Bundok, ginagamit ni Jesus ang parehong larawan.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mateo 5:25-26</span>
+                    <blockquote>«Kung may magsakdal sa iyo, makipag-ayos ka sa kanya habang may panahon pa, bago ka niya iharap sa hukuman, <strong class="s-hi">sapagkat baka ibigay ka niya sa hukom, at ibigay ka ng hukom sa bantay, at ikaw ay ibilanggo</strong>. Tandaan mo: <strong class="s-hi">hindi ka makalalabas doon hangga't hindi mo nababayaran ang huling sentimo</strong>.»</blockquote>
+                </div>
+                <p>Ang hukom ay ang Diyos, ang bantay ay ang kanyang mga anghel, at ang bilangguan ay ang purgatoryo. Ang «hangga't hindi mo nababayaran» ay nangangahulugang may sandaling natatapos ang utang at bumubukas ang pinto. Hindi walang hanggan ang bilangguang iyon. Ang impiyerno ay walang hanggan.</p>
+                <h2>Kapatawaran sa daigdig na darating<br>Mateo 12:32</h2>
+                <p>Sa pagsasalita tungkol sa kasalanan laban sa Espiritu Santo, dalawang panahon ang binabanggit ni Jesus.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mateo 12:32</span>
+                    <blockquote>«Ang magsalita laban sa Anak ng Tao ay mapapatawad; ngunit ang magsalita laban sa Espiritu Santo ay <strong class="s-hi">hindi mapapatawad, maging sa panahong ito o sa panahong darating</strong>.»</blockquote>
+                </div>
+                <p>Kung walang kasalanang pinatatawad pagkamatay, walang saysay na sabihing ang kasalanang ito ay hindi mapapatawad «sa panahong darating». Ipinalalagay ni Jesus na may mga kasalanang pinatatawad sa daigdig na ito at iba pa sa darating. Hindi ang isang ito; ang iba, oo. Sa langit ay walang dapat patawarin, at sa impiyerno ay walang kapatawaran. Ang kapatawarang iyon sa darating na panahon ay nangyayari sa ibang lugar.</p>
+                <h2>Hindi lahat ng kasalanan ay humahantong sa kamatayan<br>1 Juan 5:16-17</h2>
+                <p>Dalawang uri ng kasalanan ang ipinagkakaiba ni Juan.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Juan 5:16-17</span>
+                    <blockquote>«Kung makita ninuman na ang kanyang kapatid ay gumagawa ng <strong class="s-hi">kasalanang hindi humahantong sa kamatayan</strong>, <strong class="s-hi">dapat niya itong ipanalangin, at bibigyan ito ng Diyos ng buhay</strong>. Ito'y para sa mga gumagawa ng kasalanang hindi humahantong sa kamatayan. May kasalanang humahantong sa kamatayan; <strong class="s-hi">hindi ko sinasabing ipanalangin ninyo ang tungkol doon</strong>. Lahat ng masamang gawa ay kasalanan, ngunit <strong class="s-hi">may kasalanang hindi humahantong sa kamatayan</strong>.»</blockquote>
+                </div>
+                <p>May mga kasalanang humahantong sa kamatayan at may hindi. Tinatawag ito ng Simbahan na mortal at benyal. Ipinapanalangin ang kapatid na nagkakasala nang hindi humahantong sa kamatayan, at binibigyan siya ng Diyos ng buhay. Ang namamatay na may mga kasalanang hindi humahantong sa kamatayan ay hindi napapahamak, pero hindi rin siya malinis. Sa pagitan ng kapahamakan at ng harapan ng Diyos ay iyon mismo ang natitira: ang paglilinis.</p>
+                <h2>Buhay ang mga patay<br>Juan 11:21-27</h2>
+                <p>Sa mga Adventista at sa mga Saksi ni Jehova, sumasagot si Jesus sa harap ng libingan ni Lazaro.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Juan 11:21-27</span>
+                    <blockquote>«Sinabi ni Marta kay Jesus: «Panginoon, kung narito lamang kayo, hindi sana namatay ang aking kapatid. Ngunit alam kong kahit ngayon ay ibibigay sa inyo ng Diyos ang anumang hingin ninyo sa kanya.» Sinabi sa kanya ni Jesus: «Muling mabubuhay ang iyong kapatid.» Sumagot si Marta: «Alam ko pong siya'y muling mabubuhay sa muling pagkabuhay sa huling araw.» Sinabi sa kanya ni Jesus: «Ako ang muling pagkabuhay at ang buhay. Ang sumasampalataya sa akin, <strong class="s-hi">kahit mamatay ay mabubuhay</strong>; at ang bawat nabubuhay at sumasampalataya sa akin ay <strong class="s-hi">hindi na mamamatay kailanman</strong>. Naniniwala ka ba rito?» Sumagot siya: «Opo, Panginoon, naniniwala akong kayo ang Cristo, ang Anak ng Diyos, ang paparito sa sanlibutan.»»</blockquote>
+                </div>
+                <p>Nagsasalita si Marta tungkol sa muling pagkabuhay sa huling araw, at humihigit pa si Jesus: ang sumasampalataya sa kanya, kahit mamatay, ay nabubuhay, at hindi na mamamatay kailanman. Hindi pinapatay ng kamatayan ng katawan ang buhay ng sumasampalataya. Ang mga namatay kay Cristo ay hindi natutulog sa kawalan habang hinihintay ang katapusan ng mundo. Buhay sila.</p>
+                <h2>Bumabalik sa Diyos ang espiritu<br>Eclesiastes 12:7</h2>
+                <p>Ang mismong aklat na pinagmumulan ng pagtutol ang nagsasabi kung ano ang nangyayari kapag may namatay.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Eclesiastes 12:7</span>
+                    <blockquote>«at ang alabok ay bumalik sa lupang pinagmulan nito, at <strong class="s-hi">ang espiritu ay bumalik sa Diyos</strong> na nagbigay nito.»</blockquote>
+                </div>
+                <p>Bumabalik sa lupa ang katawan at bumabalik sa Diyos ang espiritu. Ang salitang Hebreo ay <em>ruach</em>, na isinasalin ding hininga; alinman sa dalawa, ang bumabalik sa Diyos ay ang ibinigay niya. Ang pangungusap mula sa Eclesiastes 9:5 na sinisipi ng mga Adventista ay nakukumpleto sa kasunod na talata: ang mga patay ay <em>«wala nang bahagi kailanman sa anumang nangyayari sa ilalim ng araw»</em> (Ec 9:6). Wala silang alam sa nangyayari sa mundong ito. Hindi nito sinasabing hindi na sila umiiral.</p>
+                <p>At sa pagbabalik sa Diyos, dapat malinis ang espiritu, sapagkat ang may bahid ng kasalanan ay hindi makahaharap sa kanya. Iyan ang dahilan ng purgatoryo.</p>
                 <ul>
-                    <li>Ang Simbahan ay nagdarasal para sa mga kaluluwa sa purgatoryo.</li>
-                    <li>Ang mga sakramento at mabuting gawa ay tumutulong sa pagdadalisay.</li>
-                    <li>Ito ay isang pagpapakita ng banal na awa.</li>
+                    <li>Nagsasalita si Jesus tungkol sa utang na binabayaran hanggang sa huli at sa bilangguang nilalabasan.</li>
+                    <li>May mga kasalanang pinatatawad sa panahong darating.</li>
+                    <li>Hindi lahat ng kasalanan ay humahantong sa kamatayan, at ipinapanalangin ang nagkakasala nang hindi humahantong sa kamatayan.</li>
+                    <li>Ang mga namamatay kay Cristo ay buhay, at ang kanilang espiritu ay bumabalik sa Diyos.</li>
                 </ul>
-                <h2>Pamumuhay sa pananampalataya</h2>
-                <p>Ang pag-unawa sa misteryo na ito ay nagpapaanyaya sa atin na mamuhay nang may mas dakilang kabanalan, humingi ng kapatawaran, at mag-alay ng mga panalangin para sa mga yumaon, nagtitiwala sa gawain ng kaligtasan ni Kristo.</p>`,
+                <h2>Konklusyon</h2>
+                <p>Ang purgatoryo ay hindi imbento ng Roma ni lihim na pintuan para makatakas sa impiyerno. Ito ang inilalarawan ni Cristo kapag nagsasalita siya tungkol sa bilangguang nilalabasan pagkatapos bayaran ang huling sentimo, at tungkol sa mga kasalanang pinatatawad sa panahong darating. Ang dugo ni Cristo ang naglilinis, doon din: ang purgatoryo ay ang dugong iyon na inilalapat sa namatay sa grasya ngunit may bahid pa.</p>
+                <p>Tama ang mga Adventista at ang mga Saksi ni Jehova na walang bahagi ang mga patay sa nangyayari sa ilalim ng araw. Mali sila sa kanilang hinuhinuha mula rito. Ang sumasampalataya kay Cristo, kahit mamatay, ay mabubuhay, at ang kanyang espiritu ay bumabalik sa Diyos na nagbigay nito.</p>`,
       nav: {
         prevTitle: "Ang mga Santo at ang Kanilang Pamamagitan",
         nextTitle: "Ang Bagong Kautusan kay Kristo"
@@ -298,7 +341,7 @@ const translationsTL = {
                 <span>Nailathala Setyembre 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
-      article: `<p>Laban sa pagkapapa, dalawa ang anyo ng pagtutol. Ang una ay inuulit ng mga Protestante ng halos lahat ng denominasyon, ng mga Adventist at ng mga Saksi ni Jehova: <em>"Si Cristo ang bato, hindi si Pedro. Maliit na bato lamang si Pedro; ang bato ay ang pananampalatayang ipinahayag niya."</em> Ang ikalawa ay likas sa mundo ng mga ebanghelikal: <em>"Hindi nakikita ang tunay na Simbahan: wala itong herarkiya, walang obispo at walang papa. Imbento lahat iyan ng Roma."</em></p>
+      article: `<p>Laban sa pagkapapa, dalawa ang anyo ng pagtutol. Ang una ay inuulit ng mga Protestante ng halos lahat ng denominasyon, kasama ang mga Adventist at ang mga Saksi ni Jehova: <em>"Si Cristo ang bato, hindi si Pedro. Maliit na bato lamang si Pedro; ang bato ay ang pananampalatayang ipinahayag niya."</em> Ang ikalawa ay likas sa mundo ng mga ebanghelikal: <em>"Hindi nakikita ang tunay na Simbahan: wala itong herarkiya, walang obispo at walang papa. Imbento lahat iyan ng Roma."</em></p>
                 <p>Kapwa sinasagot ang mga ito ng Kasulatan. Una, kung saan nakatayo ang Simbahan at kung sino ang may hawak ng mga susi. Ikalawa, kung may pamamahala ang Simbahang iyon at kung umiiral na ito bago pa may nag-organisa nito. At panghuli, kung kanino ipinagkatiwala ni Cristo ang tungkuling alalayan ang iba.</p>
                 <h2>Si Cristo ang batong-panulukan, at may mga saligan<br>Efeso 2:20-22</h2>
                 <p>Bago pagtalunan kung bato si Pedro, kailangang tingnan kung paano ginagamit ni Pablo ang larawang iyon.</p>
@@ -788,7 +831,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
                 <span>Nailathala Agosto 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
-      article: `<p>Sa harap ng Eukaristiya, nagbabago ang anyo ng pagtutol ngunit hindi ang laman nito. Ang mga Saksi ni Jehova, mga Adventista, mga Pentekostal, mga Mormon at ang mga Protestante sa pangkalahatan ay inuulit ang isa sa dalawang ito: <em>"Tinapay pa rin ang tinapay: mukhang tinapay at lasang tinapay."</em> at <em>"Ang transubstansiasyon ay imbentong salita, pilosopiyang Griyego; wala iyon sa Biblia."</em></p>
+      article: `<p>Sa harap ng Eukaristiya, nagbabago ang anyo ng pagtutol ngunit hindi ang laman nito. Ang mga Protestante ng lahat ng sangay, kasama ang mga Pentekostal, mga Adventista, mga Saksi ni Jehova at mga Mormon, ay inuulit ang isa sa dalawang ito: <em>"Tinapay pa rin ang tinapay: mukhang tinapay at lasang tinapay."</em> at <em>"Ang transubstansiasyon ay imbentong salita, pilosopiyang Griyego; wala iyon sa Biblia."</em></p>
                 <p>Ang pangalawa ay nasasagot sa isang pangungusap: wala rin sa Biblia ang mga salitang "Trinidad" at "Biblia", at walang tumututol sa kanilang tinutukoy. Hindi nililikha ng salita ang katotohanan: pinapangalanan lamang nito. Ang una ang mahalaga, at hindi ito sinasagot ng pilosopiya kundi ng Kasulatan, sapagkat isinalaysay na ng Kasulatan kung ano ang nangyayari kapag sinabi ni Kristo na ang isang bagay ay iba. Limang talata, sunod-sunod.</p>
                 <h2>Hindi naglalarawan ang Salita: gumagawa ito<br>Juan 1:1-3</h2>
                 <p>Bago pagtalunan kung ano ang maaaring mangyari sa tinapay, kailangang malaman kung ano ang isang salita ng Diyos.</p>
@@ -956,7 +999,8 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
             </div>
             <h1>Tungkol sa Site na Ito</h1>
             <p>Isang paglalakbay mula sa mga pilosopiyang hindi tumagal — hanggang sa Simbahang tumagal.</p>
-            <a href="temas.html" class="btn-outline-white">Bumalik sa mga Paksa</a>`,
+            <a href="temas.html" class="btn-outline-white">Bumalik sa mga Paksa</a>
+            <a href="privacidad.html" class="btn-outline-white btn-hero-extra">Privacy</a>`,
       article: `<p>Nakarating ako sa Katolisismo pagkatapos ng mahabang paglalakbay. Nabasa ko ang lahat: okultismo at esoterisismo, ang tinatawag na Emerald Tablets, ang mga pilosopiyang Silangan, si Nietzsche, ang mga Epicurean. Naghanap ako ng mga sagot sa lahat ng dako ngunit wala akong nahanap na anumang tumayo. Ang Stoicismo ang huli na nag-alok sa akin ng isang bagay na seryoso bago si Kristo — itinuturo sa akin nina Seneca, Marcus Aurelius, at Epictetus na tumingin sa katotohanan nang walang pagkukubling. At tinitigan ang katotohanan nang walang pagkukubling, nagtapos ako kung saan hindi ko inaasahan: sa harap ng Simbahang Katoliko.</p>
 
             <p>Ang site na ito ay para sa iyo kung nasa isa sa mga lugar na ito ka: nagdududa ka sa pananampalatayang tinanggap mo at hindi mo alam kung kanino ka tatanong; naghahanap ka sa gitna ng mga tradisyon at walang nagbibigay sa iyo ng sagot na kaya ng timbang; katatapos mo lang mag-convert at nararamdaman mong nag-iisa, walang gabay, inuusig mula sa lahat ng panig. Kilala ko ang lugar na iyon. Naroroon na ako. At alam ko kung ano ang nakapalibot: mga tradisyonal na Katoliko na minsan ay inaakala na tama ang dapat pa nilang patunayan at hindi nila ito maipaliwanag; at mas masahol pa, mga maligamgam na Katoliko — ang mga pumupunta sa Misa dahil sa ugali, hindi alam kung ano ang kanilang pinaniniwalaan, walang ipinagtatanggol, at sila ang unang nag-aatubili kung ang pananampalataya ay inaatake sa harap nila.</p>
@@ -969,7 +1013,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
 
             <p>Ang isang maligamgam ay walang ipinagtatatanggol, walang ipinaliwanag, walang nakukumbinsi. Kahit ang naniniwala sa maling bagay ay may maiaalok.</p>
 
-            <p>At ang mga Protestante ay laging nagpapakita. Laging nagpapakita sila. Ang mga Saksi ni Jehova, mga Pentecostal, mga Adventista, mga Mormon, bawat <!-- TODO: verificar terminología "secta" en Filipino -->sekta may sariling pinutol na bersyon ng Kasulatan at hiniram na katiyakan. Dito mahahanap mo ang sagot sa mga sektang iyon, sa sarili nilang lupain, gamit ang sarili nilang sandata: ang buong Bibliya — kabilang ang mga <!-- TODO: verificar terminología "deuterocanónicos" en Filipino -->deuterocanonical na aklat na kinuha nila mula sa kanilang mga salin nang wala silang awtoridad para gawin iyon. Sa tamang pagbabasa ng Bibliya, ang mga Ama ng Simbahan, ang <!-- TODO: verificar terminología Magisterio en Filipino -->Magisterium, ang <!-- TODO: verificar terminología Catecismo en Filipino -->Catechism, at ang katuwiran na ibinigay sa atin ng Diyos bilang kaloob.</p>
+            <p>At ang mga Protestante ay laging nagpapakita. Laging nagpapakita sila. Ang mga Saksi ni Jehova, mga Pentecostal, mga Adventista, mga Mormon, bawat <!-- TODO: verificar terminología "secta" en Filipino -->sekta may sariling pinutol na bersyon ng Kasulatan at hiniram na katiyakan. Dito mahahanap mo ang sagot sa mga sektang iyon, sa sarili nilang lupain, gamit ang sarili nilang sandata: ang Bibliya. Ang mga aklat na deuterokanoniko, na inalis nila sa kanilang mga salin nang walang awtoridad, ay Salita ng Diyos gaya ng iba. Ngunit kapag sinasagot ko sila, hindi ko sinisipi ang mga iyon: ginagamit ko lamang ang mga aklat na sila mismo ang tumatanggap, upang walang makapagsabing «wala iyan sa Bibliya» o «idinagdag iyan ng mga Katoliko». Sa tamang pagbabasa ng Bibliya, ang mga Ama ng Simbahan, ang <!-- TODO: verificar terminología Magisterio en Filipino -->Magisterium, ang <!-- TODO: verificar terminología Catecismo en Filipino -->Catechism, at ang katuwiran na ibinigay sa atin ng Diyos bilang kaloob.</p>
 
             <p>Ang pangunahing inspirasyon ko sa gawaing ito ay si Padre Luis Toro. Ang ginagawa niya sa pamamagitan ng pagsasalita, sinisikap kong gawin sa pamamagitan ng pagsulat, sa mga wika at para sa mga mambabasa na hindi niya naaabot.</p>
 

@@ -63,14 +63,14 @@
     
     <link rel="preload" href="Recursos/Fuentes/cinzel-latin.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="Recursos/Fuentes/montserrat-latin.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="preload" href="css/style.css?v=24" as="style">
+    <link rel="preload" href="css/style.css?v=26" as="style">
     <!-- Iconos del sitio -->
-    <link rel="icon" href="favicon.ico" sizes="16x16 32x32 48x48 96x96">
-    <link rel="icon" href="favicon.svg" type="image/svg+xml">
-    <link rel="icon" href="icon-192.png" type="image/png" sizes="192x192">
-    <link rel="apple-touch-icon" href="apple-touch-icon.png">
-    <link rel="manifest" href="site.webmanifest">
-    <link rel="stylesheet" href="css/style.css?v=24">
+    <link rel="icon" href="favicon.ico?v=2" sizes="16x16 32x32 48x48 96x96">
+    <link rel="icon" href="favicon.svg?v=2" type="image/svg+xml">
+    <link rel="icon" href="icon-192.png?v=2" type="image/png" sizes="192x192">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png?v=2">
+    <link rel="manifest" href="site.webmanifest?v=2">
+    <link rel="stylesheet" href="css/style.css?v=26">
 </head>
 <body>
     <!-- Los temas pasaron a temas.html (28-sep-2026). Un enlace viejo a
@@ -164,9 +164,15 @@
         <section id="mision" class="mission-section">
             <div class="mission-inner">
                 <h2 class="section-title reveal" data-i18n="mission.title">Nuestra Misión</h2>
+                <p class="mission-intro reveal" data-i18n="mission.intro">Este sitio se actualiza constantemente con nuevos temas apologéticos. Si quieres que se trate uno en particular, escríbenos por el formulario de contacto y lo incluiremos en la medida de lo posible.</p>
                 <div class="mission-grid">
                     <div class="mission-card reveal-left">
-                        <div class="mission-icon">✝️</div>
+                        <div class="mission-icon">🛡️</div>
+                        <h3 data-i18n="mission.defend.title">Defender</h3>
+                        <p data-i18n="mission.defend.desc">Ofrecer argumentos apologéticos para entender y defender la fe católica frente a objeciones, dudas y todo tipo de herejías modernas, sectas y corrientes anticatólicas.</p>
+                    </div>
+                    <div class="mission-card reveal-left">
+                        <div class="mission-icon"><svg viewBox="0 0 100 100" width="40" height="40" aria-hidden="true" focusable="false"><path fill="#9e1b1b" d="M31 5 Q50 11 69 5 L57 43 L95 31 Q89 50 95 69 L57 57 L69 95 Q50 89 31 95 L43 57 L5 69 Q11 50 5 31 L43 43 Z"/></svg></div>
                         <h3 data-i18n="mission.teach.title">Enseñar</h3>
                         <p data-i18n="mission.teach.desc">Profundizar en la doctrina católica con argumentos sólidos basados en la Sagrada Escritura, el magisterio de la iglesia y la razón.</p>
                     </div>
@@ -174,11 +180,6 @@
                         <div class="mission-icon">💡</div>
                         <h3 data-i18n="mission.illuminate.title">Iluminar</h3>
                         <p data-i18n="mission.illuminate.desc">Proporcionar respuestas claras que ayuden a los fieles a comprender mejor su fe y responder preguntas difíciles de diferentes corrientes heréticas o sectas.</p>
-                    </div>
-                    <div class="mission-card reveal-left">
-                        <div class="mission-icon">🛡️</div>
-                        <h3 data-i18n="mission.defend.title">Defender</h3>
-                        <p data-i18n="mission.defend.desc">Ofrecer argumentos apologéticos para entender y defender la fe católica frente a objeciones, dudas y todo tipo de herejías modernas, sectas y corrientes anticatólicas.</p>
                     </div>
                 </div>
             </div>
@@ -236,6 +237,6 @@
 
     <!-- 6. SCRIPTS -->
     <script src="js/main.js?v=17" defer></script>
-    <script src="js/translations.js?v=23" defer></script>
+    <script src="js/translations.js?v=24" defer></script>
 </body>
 </html>

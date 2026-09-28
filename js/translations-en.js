@@ -74,10 +74,10 @@ const translationsEN = {
   },
   article7: {
     category: "Doctrine",
-    date: "Coming soon",
+    date: "September 2026",
     title: "Purgatory",
-    excerpt: "The final purification before entering God's presence.",
-    time: "6 min read",
+    excerpt: "A prison one leaves and sins forgiven in the age to come: what Christ teaches about purification.",
+    time: "8 min read",
     link: "Read →"
   },
   article8: {
@@ -106,6 +106,7 @@ const translationsEN = {
   },
   mission: {
     title: "Our Mission",
+    intro: "This site is constantly updated with new apologetic topics. If you would like a particular one to be covered, write to us through the contact form and we will include it as far as possible.",
     teach: {
       title: "Teach",
       desc: "Deepen Catholic doctrine with solid arguments based on Sacred Scripture, the Magisterium of the Church, and reason."
@@ -152,25 +153,67 @@ const translationsEN = {
                 <span class="eyebrow-text">Special Topic</span>
             </div>
             <h1>Purgatory and God’s Mercy</h1>
-            <p>A clear explanation of purgatory as a process of purification and hope toward final union with God.</p>
+            <p>A prison one leaves and sins forgiven in the age to come: what Christ teaches about purification after death, passage by passage.</p>
             <div class="article-meta">
-                <span>6 min read</span>
-                <span>Published May 2026</span>
+                <span>8 min read</span>
+                <span>Published September 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
-      article: `<p>Purgatory is the stage in which souls are purified before entering the full presence of God. It is not final punishment, but a process of healing love.</p>
-                <h2>What does purification mean?</h2>
-                <p>Purification removes the effects of venial sin and heals the wounds of freedom. It is the preparation needed for divine contemplation.</p>
-                <blockquote>"God is just and also the most merciful. His justice purifies, his mercy accompanies."</blockquote>
-                <h2>Christian hope</h2>
-                <p>Purgatory is not condemnation, but a work of redemption. Every soul is called to the fullness of God’s love, and purification is part of that path.</p>
+      article: `<p>Several Protestant sects hold the heresy that purgatory does not exist, and they defend it in two ways. The first is repeated by nearly all of them: <em>"The word purgatory is not in the Bible. It is an invention of Rome: the blood of Christ cleanses us from all sin, and whoever dies goes straight to heaven or to hell."</em> The second belongs to the Adventists and the Jehovah's Witnesses, who deny that the soul lives on after death: <em>"The dead know nothing (Eccl 9:5). There is no one to purify and no one to pray for."</em></p>
+                <p>The first is answered in one line. The word purgatory is not in the Bible, and neither is the word Trinity, and the Trinity is on every page. What matters is whether Scripture teaches that there is a place that is not hell, because no one leaves hell, where the debt of sin is paid to the end and from which one then goes out. Scripture teaches it, and Christ teaches it.</p>
+                <p>Purgatory is a work of mercy. It is like pouring alcohol on an infected wound: it stings and it hurts, but a father who loves his son cleans it for him, because he will not let the arm turn gangrenous over a scrape. That is what purgatory does: it cleanses what sin left behind, so that the soul can enter the presence of God.</p>
+                <h2>"Till he should pay all his debt"<br>Matthew 18:23-35</h2>
+                <p>Jesus explains the Kingdom of Heaven with the parable of the servant who would not forgive.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matthew 18:23-35</span>
+                    <blockquote>«Therefore <strong class="s-hi">the kingdom of heaven may be compared to a king who wished to settle accounts with his servants</strong>. … And in anger his lord <strong class="s-hi">delivered him to the jailers, till he should pay all his debt. So also my heavenly Father will do to every one of you</strong>, if you do not forgive your brother from your heart.»</blockquote>
+                </div>
+                <p>The punishment has a limit: it lasts until the servant pays all he owes. First he pays, then he goes out. No one leaves hell, so that prison is not hell. And Jesus does not leave the parable as a story about some king: <em>"So also my heavenly Father will do to every one of you."</em> It is not an interpretation of the Church or a supposition. Christ said it.</p>
+                <h2>The prison one leaves<br>Matthew 5:25-26</h2>
+                <p>In the Sermon on the Mount, Jesus uses the same image.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matthew 5:25-26</span>
+                    <blockquote>«Make friends quickly with your accuser, while you are going with him to court, <strong class="s-hi">lest your accuser hand you over to the judge, and the judge to the guard, and you be put in prison</strong>; truly, I say to you, <strong class="s-hi">you will never get out till you have paid the last penny</strong>.»</blockquote>
+                </div>
+                <p>The judge is God, the guard is his angels and the prison is purgatory. "Till you have paid" means there is a moment when the debt ends and the door opens. The prison is not eternal. Hell is.</p>
+                <h2>Forgiveness in the age to come<br>Matthew 12:32</h2>
+                <p>Speaking of the sin against the Holy Spirit, Jesus distinguishes two times.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matthew 12:32</span>
+                    <blockquote>«And whoever says a word against the Son of man will be forgiven; but whoever speaks against the Holy Spirit <strong class="s-hi">will not be forgiven, either in this age or in the age to come</strong>.»</blockquote>
+                </div>
+                <p>If no sin were forgiven after death, saying that this one will not be forgiven "in the age to come" would make no sense. Jesus takes for granted that some sins are forgiven in this world and others in the next. Not this one; others, yes. In heaven there is nothing to forgive, and in hell there is no forgiveness. That forgiveness in the age to come happens somewhere else.</p>
+                <h2>Not all sin is deadly<br>1 John 5:16-17</h2>
+                <p>John distinguishes two kinds of sin.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 John 5:16-17</span>
+                    <blockquote>«If any one sees his brother committing <strong class="s-hi">what is not a mortal sin</strong>, <strong class="s-hi">he will ask, and God will give him life</strong> for those whose sin is not mortal. There is sin which is mortal; <strong class="s-hi">I do not say that one is to pray for that</strong>. All wrongdoing is sin, but <strong class="s-hi">there is sin which is not mortal</strong>.»</blockquote>
+                </div>
+                <p>There are sins that lead to death and sins that do not. The Church calls them mortal and venial. For the brother who sins without reaching death one prays, and God gives him life. Whoever dies with sins that do not lead to death is not condemned, but neither is he clean. Between condemnation and the presence of God there remains exactly that: purification.</p>
+                <h2>The dead are alive<br>John 11:21-27</h2>
+                <p>Jesus answers the Adventists and the Jehovah's Witnesses at the tomb of Lazarus.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ John 11:21-27</span>
+                    <blockquote>«Martha said to Jesus, "Lord, if you had been here, my brother would not have died. And even now I know that whatever you ask from God, God will give you." Jesus said to her, "Your brother will rise again." Martha said to him, "I know that he will rise again in the resurrection at the last day." Jesus said to her, "I am the resurrection and the life; he who believes in me, <strong class="s-hi">though he die, yet shall he live</strong>, and whoever lives and believes in me <strong class="s-hi">shall never die</strong>. Do you believe this?" She said to him, "Yes, Lord; I believe that you are the Christ, the Son of God, he who is coming into the world."»</blockquote>
+                </div>
+                <p>Martha speaks of the resurrection on the last day, and Jesus goes further: whoever believes in him, though he die, lives, and never dies. The death of the body does not put out the life of the one who believes. The dead in Christ are not asleep in nothingness waiting for the end of the world. They are alive.</p>
+                <h2>The spirit returns to God<br>Ecclesiastes 12:7</h2>
+                <p>The same book the objection comes from says what happens when someone dies.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ecclesiastes 12:7</span>
+                    <blockquote>«and the dust returns to the earth as it was, and <strong class="s-hi">the spirit returns to God</strong> who gave it.»</blockquote>
+                </div>
+                <p>The body returns to the earth and the spirit returns to God. The Hebrew word is <em>ruach</em>, which is also translated as breath; either way, what returns to God is what he gave. The line from Ecclesiastes 9:5 that the Adventists quote is completed in the next verse: the dead <em>"have no more for ever any share in all that is done under the sun"</em> (Eccl 9:6). They know nothing of what happens in this world. That does not say they have ceased to exist.</p>
+                <p>And in returning to God, the spirit has to be clean, because something stained by sin cannot stand before him. That is what purgatory is for.</p>
                 <ul>
-                    <li>The Church prays for the souls in purgatory.</li>
-                    <li>The sacraments and good works help purification.</li>
-                    <li>It is a manifestation of divine mercy.</li>
+                    <li>Jesus speaks of a debt paid to the end and of a prison one leaves.</li>
+                    <li>There are sins that are forgiven in the age to come.</li>
+                    <li>Not all sin leads to death, and for the one who sins without reaching death, one prays.</li>
+                    <li>Those who die in Christ live, and their spirit returns to God.</li>
                 </ul>
-                <h2>Living the faith</h2>
-                <p>Understanding this mystery invites us to live with greater holiness, ask for forgiveness, and offer prayers for the deceased, trusting in Christ’s saving work.</p>`,
+                <h2>Conclusion</h2>
+                <p>Purgatory is not an invention of Rome or a back door for escaping hell. It is what Christ describes when he speaks of the prison one leaves after paying the last penny, and of the sins that are forgiven in the age to come. It is the blood of Christ that cleanses, there too: purgatory is that blood applied to the one who died in grace but still stained.</p>
+                <p>The Adventists and the Jehovah's Witnesses are right that the dead have no share in what is done under the sun. They are wrong in what they conclude from it. Whoever believes in Christ, though he die, yet shall he live, and his spirit returns to God who gave it.</p>`,
       nav: {
         prevTitle: "The Saints and Their Intercession",
         nextTitle: "The New Law in Christ"
@@ -298,7 +341,7 @@ const translationsEN = {
                 <span>Published September 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
-      article: `<p>Against the papacy the objection comes in two forms. The first is repeated by Protestants of nearly every denomination, by Adventists and by Jehovah's Witnesses: <em>"The rock is Christ, not Peter. Peter is just a little stone; the rock is the faith he confessed."</em> The second belongs to the evangelical world: <em>"The true Church is invisible: it has no hierarchy, no bishops, no pope. Rome invented all that."</em></p>
+      article: `<p>Against the papacy the objection comes in two forms. The first is repeated by Protestants of nearly every denomination, Adventists and Jehovah's Witnesses included: <em>"The rock is Christ, not Peter. Peter is just a little stone; the rock is the faith he confessed."</em> The second belongs to the evangelical world: <em>"The true Church is invisible: it has no hierarchy, no bishops, no pope. Rome invented all that."</em></p>
                 <p>Both are answered from Scripture. First, what the Church is built on and who holds the keys. Then, whether that Church has a government and whether it existed before anyone organized it. And finally, whom Christ charged with holding up the rest.</p>
                 <h2>Christ is the cornerstone, and there are foundations<br>Ephesians 2:20-22</h2>
                 <p>Before arguing over whether Peter is a rock, it helps to see how Paul uses that image.</p>
@@ -788,7 +831,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <span>Published August 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
-      article: `<p>Faced with the Eucharist the objection changes its shape but not its substance. Jehovah's Witnesses, Adventists, Pentecostals, Mormons and Protestants in general repeat one of these two: <em>"The bread is still bread: it looks like bread and it tastes like bread."</em> and <em>"Transubstantiation is an invented word, Greek philosophy; it is not in the Bible."</em></p>
+      article: `<p>Faced with the Eucharist the objection changes its shape but not its substance. Protestants of every branch, Pentecostals, Adventists, Jehovah's Witnesses and Mormons included, repeat one of these two: <em>"The bread is still bread: it looks like bread and it tastes like bread."</em> and <em>"Transubstantiation is an invented word, Greek philosophy; it is not in the Bible."</em></p>
                 <p>The second is answered in a single line: the words "Trinity" and "Bible" are not there either, and no one disputes what they name. A word does not create the fact: it names it. The first is the one that matters, and it is not answered with philosophy but with Scripture, because Scripture already recorded what happens when Christ says that one thing is another. Five passages, in order.</p>
                 <h2>The Word does not describe: it makes<br>John 1:1-3</h2>
                 <p>Before arguing about what can happen to bread, one has to know what a word of God is.</p>
@@ -955,7 +998,8 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
             </div>
             <h1>About This Site</h1>
             <p>A journey through philosophies that didn't hold up — until the Church that did.</p>
-            <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
+            <a href="temas.html" class="btn-outline-white">Back to Topics</a>
+            <a href="privacidad.html" class="btn-outline-white btn-hero-extra">Privacy</a>`,
       article: `<p>I arrived at Catholicism after a long journey. I read everything: occultism and esotericism, the so-called Emerald Tablets, Eastern philosophies, Nietzsche, the Epicureans. I tried answers everywhere and couldn't find any that held up. Stoicism was the last thing that offered me something serious before Christ — Seneca, Marcus Aurelius, Epictetus taught me to look at truth without flinching. And looking at truth without flinching, I ended up where I didn't expect: before the Catholic Church.</p>
 
             <p>This site is for you if you're in one of these places: you doubt the faith you received and don't know who to ask; you're searching among traditions and no one gives you an answer that can bear the weight; you just converted and feel alone, without a guide, assailed from all sides. I know that place. I was there. And I know what's around it: traditional Catholics who sometimes take for granted what they ought to demonstrate and can't explain it; and worse, lukewarm Catholics — those who go to Mass out of habit, don't know what they believe, defend nothing, and are the first to shrug their shoulders when someone attacks the faith in front of them.</p>
@@ -967,7 +1011,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
 
             <p>A lukewarm Catholic defends nothing, explains nothing, convinces no one. At least the one who believes something wrong has something to offer.</p>
 
-            <p>And the Protestants show up. They always show up. Jehovah's Witnesses, Pentecostals, Adventists, Mormons, every sect with its truncated version of Scripture and its borrowed certainty. Here you will find an answer to those sects, on their own ground, with their own weapon: the whole Bible — including the deuterocanonical books they tore from their translations without the authority to do so. With the Bible properly read, the Church Fathers, the Magisterium, the Catechism, and the reason God gave us as a gift.</p>
+            <p>And the Protestants show up. They always show up. Jehovah's Witnesses, Pentecostals, Adventists, Mormons, every sect with its truncated version of Scripture and its borrowed certainty. Here you will find an answer to those sects, on their own ground, with their own weapon: the Bible. The deuterocanonical books, which they tore from their translations without the authority to do so, are the Word of God as much as the rest. But when I answer them I do not quote those books: I use only the books they themselves accept, so that no one can come back with “that’s not in the Bible” or “the Catholics added that.” With the Bible properly read, the Church Fathers, the Magisterium, the Catechism, and the reason God gave us as a gift.</p>
 
             <p>My main inspiration in this work is Father Luis Toro. What he does by speaking, I try to do by writing, in the languages and for the readers he doesn't reach.</p>
 

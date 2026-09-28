@@ -79,10 +79,10 @@ const translationsLA = {
   },
   article7: {
     category: "Doctrina",
-    date: "Mox veniet",
+    date: "Septembri MMXXVI",
     title: "Purgatorium",
-    excerpt: "Purgatio finalis ante ingressum in praesentiam Dei.",
-    time: "VI min lectura",
+    excerpt: "Carcer ex quo exitur et peccata in futuro saeculo remissa: quid Christus de purificatione doceat.",
+    time: "VIII min lectura",
     link: "Lege →"
   },
   article8: {
@@ -111,6 +111,7 @@ const translationsLA = {
   },
   mission: {
     title: "Nostra Missio",
+    intro: "Hic situs novis thematibus apologeticis assidue augetur. Si vis aliquod thema peculiare tractari, per formulam contactus nobis scribe, et quantum fieri poterit id addemus.",
     teach: {
       title: "Docere",
       desc: "Doctrinam catholicam approfundare argumentis solidis ex Sacra Scriptura, Magisterio Ecclesiae et ratione fundatis."
@@ -158,25 +159,67 @@ const translationsLA = {
                 <span class="eyebrow-text">Thema Speciale</span>
             </div>
             <h1>Purgatorium et misericordia Dei</h1>
-            <p>Explicatio clara purgatorii ut processus purgationis et spei versus unionem finalem cum Deo.</p>
+            <p>Carcer ex quo exitur et peccata in futuro saeculo remissa: quid Christus de purificatione post mortem doceat, locus post locum.</p>
             <div class="article-meta">
-                <span>VI min lectura</span>
-                <span>Editus Maio MMXXVI</span>
+                <span>VIII min lectura</span>
+                <span>Editus Septembri MMXXVI</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
-      article: `<p>Purgatorium est status in quo animae purgantur antequam in plenam Dei praesentiam intrent. Non est poena finalis, sed processus amoris sanantis.</p>
-                <h2>Quid significat purgatio?</h2>
-                <p>Purgatio aufert effectus peccati venialis et sanat vulnera libertatis. Est praeparatio necessaria ad contemplationem divinam.</p>
-                <blockquote>"Deus iustus est et misericordissimus. Eius iustitia purgat, eius misericordia comitatur."</blockquote>
-                <h2>Spes christiana</h2>
-                <p>Purgatorium non est condemnatio, sed opus redemptionis. Omnis anima vocatur ad plenitudinem amoris Dei, et purgatio pars est illius itineris.</p>
+      article: `<p>Plures sectae protestantes haeresim tenent purgatorium non esse, eamque duobus modis defendunt. Priorem fere omnes iterant: <em>«Verbum purgatorium in Biblia non est. Inventum Romae est: sanguis Christi nos mundat ab omni peccato, et qui moritur recta in caelum aut in infernum it.»</em> Altera propria est Adventistarum et Testium Iehovae, qui negant animam post mortem vivere: <em>«Mortui nihil noverunt (Eccl 9, 5). Nemo est purgandus, nemo pro quo oremus.»</em></p>
+                <p>Prior una linea solvitur. Verbum purgatorium in Biblia non est, neque verbum Trinitas, et Trinitas in omni pagina est. Id refert, num Scriptura doceat esse locum qui infernus non sit, quia ex inferno non exitur, ubi debitum peccati usque ad finem solvitur et unde postea exitur. Docet, et Christus docet.</p>
+                <p>Purgatorium opus misericordiae est. Simile est alcoholo vulneri infecto infuso: urit et dolet, sed pater qui filium amat illud purgat, quia non sinet bracchium ob scalpturam gangraena corrumpi. Hoc facit purgatorium: purgat quod peccatum reliquit, ut anima in conspectum Dei intrare possit.</p>
+                <h2>«Quoadusque redderet universum debitum»<br>Matthaeus 18, 23-35</h2>
+                <p>Iesus regnum caelorum parabola servi non ignoscentis explicat.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matthaeus 18, 23-35</span>
+                    <blockquote>«Ideo <strong class="s-hi">assimilatum est regnum caelorum homini regi, qui voluit rationem ponere cum servis suis</strong>. … Et iratus dominus eius <strong class="s-hi">tradidit eum tortoribus, quoadusque redderet universum debitum. Sic et Pater meus caelestis faciet vobis</strong>, si non remiseritis unusquisque fratri suo de cordibus vestris.»</blockquote>
+                </div>
+                <p>Poena finem habet: durat donec servus universum debitum reddat. Primum solvit, deinde exit. Ex inferno non exitur, ergo carcer ille infernus non est. Neque Iesus parabolam relinquit quasi fabulam de rege quodam: <em>«Sic et Pater meus caelestis faciet vobis.»</em> Non est interpretatio Ecclesiae neque coniectura. Christus dixit.</p>
+                <h2>Carcer ex quo exitur<br>Matthaeus 5, 25-26</h2>
+                <p>In sermone montano Iesus eadem imagine utitur.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matthaeus 5, 25-26</span>
+                    <blockquote>«Esto consentiens adversario tuo cito, dum es in via cum eo, <strong class="s-hi">ne forte tradat te adversarius iudici, et iudex tradat te ministro, et in carcerem mittaris</strong>. Amen dico tibi: <strong class="s-hi">Non exies inde, donec reddas novissimum quadrantem</strong>!»</blockquote>
+                </div>
+                <p>Iudex Deus est, minister angeli eius, carcer purgatorium. «Donec reddas» significat esse tempus quo debitum finitur et porta aperitur. Carcer aeternus non est. Infernus est.</p>
+                <h2>Remissio in futuro saeculo<br>Matthaeus 12, 32</h2>
+                <p>De peccato in Spiritum Sanctum loquens, Iesus duo tempora distinguit.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matthaeus 12, 32</span>
+                    <blockquote>«Et quicumque dixerit verbum contra Filium hominis, remittetur ei; qui autem dixerit contra Spiritum Sanctum, <strong class="s-hi">non remittetur ei neque in hoc saeculo neque in futuro</strong>.»</blockquote>
+                </div>
+                <p>Si nullum peccatum post mortem remitteretur, dicere hoc non remissum iri «in futuro» nihil significaret. Iesus pro certo habet quaedam peccata in hoc saeculo remitti, alia in venturo. Hoc non; alia sic. In caelo nihil est remittendum, in inferno nulla remissio. Remissio illa futuri saeculi alibi fit.</p>
+                <h2>Non omne peccatum ad mortem<br>1 Ioannis 5, 16-17</h2>
+                <p>Ioannes duo genera peccati distinguit.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Ioannis 5, 16-17</span>
+                    <blockquote>«Si quis viderit fratrem suum peccare <strong class="s-hi">peccatum non ad mortem</strong>, <strong class="s-hi">petet, et dabit ei vitam</strong>, peccantibus non ad mortem. Est peccatum ad mortem; <strong class="s-hi">non pro illo dico ut roget</strong>. Omnis iniquitas peccatum est, et <strong class="s-hi">est peccatum non ad mortem</strong>.»</blockquote>
+                </div>
+                <p>Sunt peccata ad mortem et peccata non ad mortem. Ecclesia ea mortalia et venialia appellat. Pro fratre qui peccat non ad mortem oratur, et Deus ei vitam dat. Qui moritur cum peccatis non ad mortem damnatus non est, sed neque mundus est. Inter damnationem et conspectum Dei id ipsum manet: purificatio.</p>
+                <h2>Mortui vivunt<br>Ioannes 11, 21-27</h2>
+                <p>Adventistis et Testibus Iehovae Iesus apud sepulcrum Lazari respondet.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ioannes 11, 21-27</span>
+                    <blockquote>«Dixit ergo Martha ad Iesum: «Domine, si fuisses hic, frater meus non esset mortuus! Sed et nunc scio quia quaecumque poposceris a Deo, dabit tibi Deus». Dicit illi Iesus: «Resurget frater tuus». Dicit ei Martha: «Scio quia resurget in resurrectione in novissimo die». Dixit ei Iesus: «Ego sum resurrectio et vita. Qui credit in me, <strong class="s-hi">etsi mortuus fuerit, vivet</strong>; et omnis, qui vivit et credit in me, <strong class="s-hi">non morietur in aeternum</strong>. Credis hoc?». Ait illi: «Utique, Domine; ego credidi quia tu es Christus Filius Dei, qui in mundum venisti».»</blockquote>
+                </div>
+                <p>Martha de resurrectione novissimi diei loquitur, et Iesus ultra progreditur: qui credit in eum, etsi mortuus fuerit, vivit, et non morietur in aeternum. Mors corporis vitam credentis non exstinguit. Mortui in Christo non dormiunt in nihilo finem mundi exspectantes. Vivunt.</p>
+                <h2>Spiritus redit ad Deum<br>Ecclesiastes 12, 7</h2>
+                <p>Idem liber unde obiectio venit dicit quid fiat cum quis moritur.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ecclesiastes 12, 7</span>
+                    <blockquote>«et revertatur pulvis in terram suam, unde erat, et <strong class="s-hi">spiritus redeat ad Deum</strong>, qui dedit illum.»</blockquote>
+                </div>
+                <p>Corpus in terram redit et spiritus ad Deum. Verbum Hebraicum est <em>ruah</em>, quod et flatus vertitur; utroque modo, quod ad Deum redit id est quod ipse dedit. Sententia Ecclesiastis 9, 5 quam Adventistae afferunt versu sequenti perficitur: mortui <em>«nec habent partem in saeculo et in omni opere, quod sub sole geritur»</em> (Eccl 9, 6). Nihil sciunt de iis quae in hoc mundo fiunt. Hoc non dicit eos esse desiisse.</p>
+                <p>Et ad Deum rediens spiritus mundus esse debet, quia quod peccato maculatum est coram eo stare non potest. Ad hoc est purgatorium.</p>
                 <ul>
-                    <li>Ecclesia orat pro animabus in purgatorio.</li>
-                    <li>Sacramenta et bona opera purgationem adiuvant.</li>
-                    <li>Manifestatio est misericordiae divinae.</li>
+                    <li>Iesus loquitur de debito usque ad finem soluto et de carcere ex quo exitur.</li>
+                    <li>Sunt peccata quae in futuro saeculo remittuntur.</li>
+                    <li>Non omne peccatum est ad mortem, et pro eo qui peccat non ad mortem oratur.</li>
+                    <li>Qui in Christo moriuntur vivunt, et spiritus eorum ad Deum redit.</li>
                 </ul>
-                <h2>Vita fidei</h2>
-                <p>Hoc mysterium intellegere nos invitat ad maiorem sanctitatem vivendam, veniam petendam et orationes pro defunctis offerendas, in opere salvifici Christi confidentes.</p>`,
+                <h2>Conclusio</h2>
+                <p>Purgatorium non est inventum Romae neque posticum ad infernum effugiendum. Id est quod Christus describit cum de carcere loquitur ex quo exitur reddito novissimo quadrante, et de peccatis quae in futuro saeculo remittuntur. Sanguis Christi est qui mundat, etiam illic: purgatorium est ille sanguis ei applicatus qui in gratia mortuus est sed adhuc maculatus.</p>
+                <p>Adventistae et Testes Iehovae recte dicunt mortuos partem non habere in iis quae sub sole geruntur. Errant in eo quod inde concludunt. Qui credit in Christum, etsi mortuus fuerit, vivet, et spiritus eius redit ad Deum, qui dedit illum.</p>`,
       nav: {
         prevTitle: "Sancti et eorum intercessio",
         nextTitle: "Nova Lex in Christo"
@@ -304,7 +347,7 @@ const translationsLA = {
                 <span>Editus Septembri MMXXVI</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
-      article: `<p>Contra papatum obiectio duplicem formam habet. Priorem iterant Protestantes fere omnium denominationum, Adventistae et Testes Iehovae: <em>«Petra Christus est, non Petrus. Petrus lapillus tantum est; petra est fides quam confessus est.»</em> Altera propria est mundi evangelici: <em>«Vera Ecclesia invisibilis est: nec hierarchiam habet, nec episcopos, nec papam. Haec omnia Roma excogitavit.»</em></p>
+      article: `<p>Contra papatum obiectio duplicem formam habet. Priorem iterant Protestantes fere omnium denominationum, Adventistis et Testibus Iehovae non exceptis: <em>«Petra Christus est, non Petrus. Petrus lapillus tantum est; petra est fides quam confessus est.»</em> Altera propria est mundi evangelici: <em>«Vera Ecclesia invisibilis est: nec hierarchiam habet, nec episcopos, nec papam. Haec omnia Roma excogitavit.»</em></p>
                 <p>Utraque Scriptura solvitur. Primum, super quid aedificata sit Ecclesia et quis claves habeat. Deinde, num Ecclesia illa regimen habeat et num exstiterit antequam quisquam eam ordinaret. Postremo, cui Christus mandaverit ut ceteros sustineret.</p>
                 <h2>Christus lapis angularis est, et fundamenta sunt<br>Eph 2, 20-22</h2>
                 <p>Antequam disputetur utrum Petrus petra sit, videndum est quomodo Paulus hac imagine utatur.</p>
@@ -794,7 +837,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
                 <span>Editus Augusto MMXXVI</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
-      article: `<p>Coram Eucharistia obiectio formam mutat, non rem. Testes Iehovae, Adventistae, Pentecostales, Mormones et Protestantes in universum alterutrum repetunt: <em>«Panis adhuc panis est: panis videtur et panem sapit.»</em> et <em>«Transsubstantiatio verbum est excogitatum, philosophia Graeca; in Bibliis non invenitur.»</em></p>
+      article: `<p>Coram Eucharistia obiectio formam mutat, non rem. Protestantes omnium ramorum, Pentecostalibus, Adventistis, Testibus Iehovae et Mormonibus non exceptis, alterutrum repetunt: <em>«Panis adhuc panis est: panis videtur et panem sapit.»</em> et <em>«Transsubstantiatio verbum est excogitatum, philosophia Graeca; in Bibliis non invenitur.»</em></p>
                 <p>Alterum una linea solvitur: neque verba «Trinitas» neque «Biblia» ibi inveniuntur, et nemo id quod significant in dubium vocat. Verbum rem non creat: rem nominat. Prius illud est quod interest, neque philosophia sed Scriptura respondetur, quia Scriptura iam narravit quid fiat cum Christus rem aliam esse dicit. Quinque loci, ordine.</p>
                 <h2>Verbum non describit: facit<br>Io 1, 1-3</h2>
                 <p>Antequam disputetur quid pani accidere possit, sciendum est quid sit verbum Dei.</p>
@@ -961,7 +1004,8 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
             </div>
             <h1>De hoc loco</h1>
             <p>Iter per philosophias quae non steterunt — ad Ecclesiam quae stetit.</p>
-            <a href="temas.html" class="btn-outline-white">Ad Themata Redire</a>`,
+            <a href="temas.html" class="btn-outline-white">Ad Themata Redire</a>
+            <a href="privacidad.html" class="btn-outline-white btn-hero-extra">De privatis</a>`,
       article: `<p>Ad catholicismum perveni post longum iter. Omnia legi: occultismum et esotericismum, tabulas dictas Smaragdinas, philosophias Orientis, Nietzsche, Epicuraeos. Ubique responsa quaesivi nec ullum inveni quod staret. Stoicismus ultimum erat quod aliquid grave ante Christum mihi obtulit — Seneca, Marcus Aurelius, Epictetus me docuerunt veritatem sine nictitione intueri. Et veritatem sine nictitione intuendo illuc perveni ubi non exspectabam: ante Ecclesiam Catholicam.</p>
 
             <p>Hic locus tibi est si in uno horum locorum versaris: dubitas de fide quam accepisti et nescis quem roges; quaeris inter traditiones nec quisquam tibi responsum dat quod pondus ferre possit; modo conversus es et solum te sentis, sine duce, undique oppugnatum. Illum locum cognosco. Ibi fui. Et scio quid circum eum sit: catholici traditionales qui interdum id pro concesso habent quod demonstrare deberent nec id explicare sciunt; et quod peius est, catholici tepidi — qui ad Missam ex more adeunt, nesciunt quid credant, nihil defendunt, et primi humeros movent cum quis fidem coram eis impugnat.</p>
@@ -973,7 +1017,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
 
             <p>Tepidus nihil defendit, nihil explicat, neminem persuadet. Saltem qui aliquid falsum credit, aliquid offerre potest.</p>
 
-            <p>Et protestantes adsunt. Semper adsunt. Testes Iehovae, Pentecostales, Adventistae, Mormones, quaeque secta cum sua versione truncata Scripturae et sua certitudine mutuata. Hic responsum ad illas sectas invenies, in ipso earum agro, ipsa earum arma utens: Biblia integra — inclusis libris deuterocanonicos quos ex suis translationibus absque auctoritate eripuerunt. Biblia recte lecta, Patribus Ecclesiae, Magisterio, Catechismo, et ratione quam Deus nobis donum dedit.</p>
+            <p>Et protestantes adsunt. Semper adsunt. Testes Iehovae, Pentecostales, Adventistae, Mormones, quaeque secta cum sua versione truncata Scripturae et sua certitudine mutuata. Hic responsum ad illas sectas invenies, in ipso earum agro, ipsa earum arma utens: Biblia. Libri deuterocanonici, quos ex suis translationibus absque auctoritate eripuerunt, verbum Dei sunt non minus quam ceteri. Sed cum eis respondeo, eos non affero: solis libris utor quos ipsi accipiunt, ne quis obiciat «hoc in Biblia non est» aut «hoc catholici addiderunt». Biblia recte lecta, Patribus Ecclesiae, Magisterio, Catechismo, et ratione quam Deus nobis donum dedit.</p>
 
             <p>Praecipua mea inspiratio in hoc opere est Pater Ludovicus Toro. Quod ille loquendo facit, ego scribendo facere conor, in linguis et pro lectoribus quos ille non attingit.</p>
 

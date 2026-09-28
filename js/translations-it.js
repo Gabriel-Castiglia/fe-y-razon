@@ -43,7 +43,7 @@ const translationsIT = {
     category: "Dottrina", date: "Settembre 2026", title: "La Santissima Trinità", excerpt: "Tre Persone e un solo Dio: ciò che la Scrittura risponde ai pentecostali uniti, passo per passo.", time: "11 min di lettura", link: "Leggi →"
   },
   article7: {
-    category: "Dottrina", date: "Prossimamente", title: "Il purgatorio", excerpt: "La purificazione finale prima di entrare alla presenza di Dio.", time: "6 min di lettura", link: "Leggi →"
+    category: "Dottrina", date: "Settembre 2026", title: "Il purgatorio", excerpt: "Un carcere da cui si esce e peccati perdonati nel mondo futuro: ciò che Cristo insegna sulla purificazione.", time: "8 min di lettura", link: "Leggi →"
   },
   article8: {
     category: "Dottrina", date: "Prossimamente", title: "La nuova legge", excerpt: "La legge di Cristo che sostituisce l'Antica Legge e guida i cristiani.", time: "8 min di lettura", link: "Leggi →"
@@ -56,6 +56,7 @@ const translationsIT = {
   },
   mission: {
     title: "La Nostra Missione",
+    intro: "Questo sito si aggiorna costantemente con nuovi temi apologetici. Se vuoi che se ne tratti uno in particolare, scrivici attraverso il modulo di contatto e lo includeremo nella misura del possibile.",
     teach: { title: "Insegnare", desc: "Approfondire la dottrina cattolica con argomenti solidi basati sulle Sacre Scritture, il magistero della Chiesa e la ragione." },
     illuminate: { title: "Illuminare", desc: "Fornire risposte chiare che aiutino i fedeli a comprendere meglio la loro fede e a rispondere a domande difficili di correnti eretiche o sette." },
     defend: { title: "Difendere", desc: "Offrire argomenti apologetici per comprendere e difendere la fede cattolica da obiezioni, dubbi e ogni sorta di eresie moderne, sette e correnti anticattoliche." }
@@ -75,8 +76,62 @@ const translationsIT = {
     common: { prevLabel: "Articolo precedente", nextLabel: "Prossimo articolo", backToTopics: "Torna ai Temi" },
     "el-purgatorio": {
       pageTitle: "Il purgatorio | Fede e Ragione",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>Il purgatorio e la misericordia di Dio</h1><p>Una spiegazione chiara del purgatorio come processo di purificazione e speranza verso l'unione definitiva con Dio.</p><div class="article-meta"><span>6 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
-      article: `<p>Il purgatorio è la fase in cui le anime si purificano prima di entrare nella piena presenza di Dio. Non è una punizione finale, ma un processo di amore risanatore.</p><h2>Cosa significa purificazione?</h2><p>La purificazione rimuove le conseguenze del peccato veniale e guarisce le ferite della libertà. È la preparazione necessaria per la contemplazione divina.</p><blockquote>"Dio è giusto e anche il più misericordioso. La sua giustizia purifica, la sua misericordia accompagna."</blockquote><h2>Speranza cristiana</h2><p>Il purgatorio non è una condanna, ma un'opera di redenzione. Ogni anima è chiamata alla pienezza dell'amore di Dio, e la purificazione fa parte di quel cammino.</p><ul><li>La Chiesa prega per le anime del purgatorio.</li><li>I sacramenti e le buone opere aiutano la purificazione.</li><li>È una manifestazione della misericordia divina.</li></ul><h2>Vivere la fede</h2><p>Comprendere questo mistero invita a vivere con maggiore santità, a chiedere perdono e a offrire preghiere per i defunti, confidando nell'opera salvifica di Cristo.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>Il purgatorio e la misericordia di Dio</h1><p>Un carcere da cui si esce e peccati perdonati nel mondo futuro: ciò che Cristo insegna sulla purificazione dopo la morte, passo per passo.</p><div class="article-meta"><span>8 min di lettura</span><span>Pubblicato a settembre 2026</span></div><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
+      article: `<p>Diverse sette protestanti sostengono l'eresia secondo cui il purgatorio non esiste, e la difendono in due modi. Il primo lo ripetono quasi tutte: <em>«La parola purgatorio non è nella Bibbia. È un'invenzione di Roma: il sangue di Cristo ci purifica da ogni peccato, e chi muore va dritto in paradiso o all'inferno.»</em> Il secondo è proprio degli avventisti e dei Testimoni di Geova, che negano che l'anima resti viva dopo la morte: <em>«I morti non sanno nulla (Qo 9, 5). Non c'è nessuno da purificare né per cui pregare.»</em></p>
+                <p>Il primo si risolve in una riga. La parola purgatorio non è nella Bibbia, e nemmeno la parola Trinità, e la Trinità è in ogni pagina. Ciò che conta è se la Scrittura insegna che esiste un luogo che non è l'inferno, perché dall'inferno non si esce, dove si paga il debito del peccato fino in fondo e da cui poi si esce. Lo insegna, e lo insegna Cristo.</p>
+                <p>Il purgatorio è opera della misericordia. È come versare alcol su una ferita infetta: brucia e fa male, ma un padre che ama suo figlio gliela pulisce, perché non lascerà che per un graffio il braccio vada in cancrena. Questo fa il purgatorio: pulisce ciò che il peccato ha lasciato, perché l'anima possa entrare alla presenza di Dio.</p>
+                <h2>«Finché non avesse restituito tutto il dovuto»<br>Matteo 18, 23-35</h2>
+                <p>Gesù spiega il Regno dei cieli con la parabola del servo che non perdonò.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matteo 18, 23-35</span>
+                    <blockquote>«Per questo, <strong class="s-hi">il regno dei cieli è simile a un re che volle regolare i conti con i suoi servi</strong>. … Sdegnato, il padrone <strong class="s-hi">lo diede in mano agli aguzzini, finché non avesse restituito tutto il dovuto. Così anche il Padre mio celeste farà con voi</strong> se non perdonerete di cuore, ciascuno al proprio fratello.»</blockquote>
+                </div>
+                <p>Il castigo ha un limite: dura finché il servo non paga tutto il dovuto. Prima paga, poi esce. Dall'inferno non si esce, dunque quel carcere non è l'inferno. E Gesù non lascia la parabola come la storia di un re qualunque: <em>«Così anche il Padre mio celeste farà con voi.»</em> Non è un'interpretazione della Chiesa né una supposizione. Lo ha detto Cristo.</p>
+                <h2>Il carcere da cui si esce<br>Matteo 5, 25-26</h2>
+                <p>Nel Discorso della montagna, Gesù usa la stessa immagine.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matteo 5, 25-26</span>
+                    <blockquote>«Mettiti presto d'accordo con il tuo avversario mentre sei in cammino con lui, perché <strong class="s-hi">l'avversario non ti consegni al giudice e il giudice alla guardia, e tu venga gettato in prigione</strong>. In verità io ti dico: <strong class="s-hi">non uscirai di là finché non avrai pagato fino all'ultimo spicciolo</strong>!»</blockquote>
+                </div>
+                <p>Il giudice è Dio, la guardia sono i suoi angeli e il carcere è il purgatorio. «Finché non avrai pagato» vuol dire che c'è un momento in cui il debito finisce e la porta si apre. Il carcere non è eterno. L'inferno sì.</p>
+                <h2>Il perdono nel mondo futuro<br>Matteo 12, 32</h2>
+                <p>Parlando del peccato contro lo Spirito Santo, Gesù distingue due tempi.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matteo 12, 32</span>
+                    <blockquote>«A chi parlerà contro il Figlio dell'uomo, sarà perdonato; ma a chi parlerà contro lo Spirito Santo, <strong class="s-hi">non sarà perdonato, né in questo mondo né in quello futuro</strong>.»</blockquote>
+                </div>
+                <p>Se nessun peccato fosse perdonato dopo la morte, dire che questo non sarà perdonato «in quello futuro» non avrebbe senso. Gesù dà per scontato che alcuni peccati si perdonano in questo mondo e altri in quello che viene. Questo no; altri sì. In cielo non c'è nulla da perdonare, e all'inferno non c'è perdono. Quel perdono del mondo futuro avviene in un altro luogo.</p>
+                <h2>Non ogni peccato conduce alla morte<br>1 Giovanni 5, 16-17</h2>
+                <p>Giovanni distingue due specie di peccato.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Giovanni 5, 16-17</span>
+                    <blockquote>«Se uno vede il proprio fratello commettere un <strong class="s-hi">peccato che non conduce alla morte</strong>, <strong class="s-hi">preghi, e Dio gli darà la vita</strong>: a coloro cioè che commettono un peccato che non conduce alla morte. C'è infatti un peccato che conduce alla morte; <strong class="s-hi">non dico di pregare riguardo a questo peccato</strong>. Ogni iniquità è peccato, ma <strong class="s-hi">c'è il peccato che non conduce alla morte</strong>.»</blockquote>
+                </div>
+                <p>Ci sono peccati che conducono alla morte e peccati che non vi conducono. La Chiesa li chiama mortali e veniali. Per il fratello che pecca senza giungere alla morte si prega, e Dio gli dà la vita. Chi muore con peccati che non conducono alla morte non è condannato, ma non è nemmeno puro. Tra la condanna e la presenza di Dio resta proprio questo: la purificazione.</p>
+                <h2>I morti vivono<br>Giovanni 11, 21-27</h2>
+                <p>Agli avventisti e ai Testimoni di Geova risponde Gesù davanti alla tomba di Lazzaro.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Giovanni 11, 21-27</span>
+                    <blockquote>«Marta disse a Gesù: «Signore, se tu fossi stato qui, mio fratello non sarebbe morto! Ma anche ora so che qualunque cosa tu chiederai a Dio, Dio te la concederà». Gesù le disse: «Tuo fratello risorgerà». Gli rispose Marta: «So che risorgerà nella risurrezione dell'ultimo giorno». Gesù le disse: «Io sono la risurrezione e la vita; chi crede in me, <strong class="s-hi">anche se muore, vivrà</strong>; chiunque vive e crede in me, <strong class="s-hi">non morirà in eterno</strong>. Credi questo?». Gli rispose: «Sì, o Signore, io credo che tu sei il Cristo, il Figlio di Dio, colui che viene nel mondo».»</blockquote>
+                </div>
+                <p>Marta parla della risurrezione dell'ultimo giorno, e Gesù va oltre: chi crede in lui, anche se muore, vive, e non morirà in eterno. La morte del corpo non spegne la vita di chi crede. I morti in Cristo non dormono nel nulla aspettando la fine del mondo. Sono vivi.</p>
+                <h2>Lo spirito ritorna a Dio<br>Qoèlet 12, 7</h2>
+                <p>Lo stesso libro da cui viene l'obiezione dice che cosa accade quando qualcuno muore.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Qoèlet 12, 7</span>
+                    <blockquote>«e ritorni la polvere alla terra, com'era prima, e <strong class="s-hi">il soffio vitale ritorni a Dio</strong>, che lo ha dato.»</blockquote>
+                </div>
+                <p>Il corpo ritorna alla terra e il soffio vitale ritorna a Dio. La parola ebraica è <em>ruah</em>, la stessa che si traduce con spirito, e per questo altre versioni dicono «lo spirito ritorna a Dio». La frase di Qoèlet 9, 5 che citano gli avventisti si completa nel versetto seguente: i morti <em>«non avranno più alcuna parte in tutto ciò che accade sotto il sole»</em> (Qo 9, 6). Non sanno nulla di ciò che accade in questo mondo. Questo non dice che abbiano cessato di esistere.</p>
+                <p>E ritornando a Dio, lo spirito deve essere puro, perché ciò che è macchiato dal peccato non può presentarsi davanti a lui. Per questo c'è il purgatorio.</p>
+                <ul>
+                    <li>Gesù parla di un debito che si paga fino in fondo e di un carcere da cui si esce.</li>
+                    <li>Ci sono peccati che vengono perdonati nel mondo futuro.</li>
+                    <li>Non ogni peccato conduce alla morte, e per chi pecca senza giungere alla morte si prega.</li>
+                    <li>Quelli che muoiono in Cristo vivono, e il loro spirito ritorna a Dio.</li>
+                </ul>
+                <h2>Conclusione</h2>
+                <p>Il purgatorio non è un'invenzione di Roma né una porta di servizio per sfuggire all'inferno. È ciò che Cristo descrive quando parla del carcere da cui si esce dopo aver pagato fino all'ultimo spicciolo, e dei peccati che si perdonano nel mondo futuro. È il sangue di Cristo che purifica, anche lì: il purgatorio è quel sangue applicato a chi è morto nella grazia ma ancora macchiato.</p>
+                <p>Gli avventisti e i Testimoni di Geova hanno ragione nel dire che i morti non hanno parte in ciò che accade sotto il sole. Sbagliano in ciò che ne deducono. Chi crede in Cristo, anche se muore, vivrà, e il suo spirito ritorna a Dio, che lo ha dato.</p>`,
       nav: { prevTitle: "I santi e la loro intercessione", nextTitle: "La nuova legge in Cristo" }
     },
     "la-eucaristia": {
@@ -118,7 +173,7 @@ const translationsIT = {
     "la-primacia-de-pedro": {
       pageTitle: "Il primato di Pietro | Fede e Ragione",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>Il primato di Pietro</h1><p>Cristo ha edificato la sua Chiesa su Pietro, gli ha dato le chiavi del Regno e lo ha incaricato di confermare i suoi fratelli. Ciò che dice la Scrittura, passo per passo.</p><div class="article-meta"><span>14 min di lettura</span><span>Pubblicato a settembre 2026</span></div><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
-      article: `<p>Contro il papato l'obiezione ha due forme. La prima la ripetono protestanti di quasi tutte le denominazioni, avventisti e Testimoni di Geova: <em>«La roccia è Cristo, non Pietro. Pietro è appena un sassolino; la roccia è la fede che ha confessato.»</em> La seconda è propria del mondo evangelicale: <em>«La vera Chiesa è invisibile: non ha gerarchia, né vescovi, né papa. Tutto questo l'ha inventato Roma.»</em></p>
+      article: `<p>Contro il papato l'obiezione ha due forme. La prima la ripetono i protestanti di quasi tutte le denominazioni, avventisti e Testimoni di Geova compresi: <em>«La roccia è Cristo, non Pietro. Pietro è appena un sassolino; la roccia è la fede che ha confessato.»</em> La seconda è propria del mondo evangelicale: <em>«La vera Chiesa è invisibile: non ha gerarchia, né vescovi, né papa. Tutto questo l'ha inventato Roma.»</em></p>
                 <p>A tutte e due si risponde con la Scrittura. Prima, su che cosa è edificata la Chiesa e chi ne ha le chiavi. Poi, se quella Chiesa ha un governo e se esisteva prima che qualcuno la organizzasse. Infine, a chi Cristo ha affidato il compito di sostenere gli altri.</p>
                 <h2>Cristo è la pietra d'angolo, e ci sono fondamenta<br>Efesini 2,20-22</h2>
                 <p>Prima di discutere se Pietro sia pietra bisogna vedere come Paolo usa quell'immagine.</p>
@@ -465,7 +520,7 @@ const translationsIT = {
                 <span>Pubblicato ad agosto 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
-      article: `<p>Davanti all'Eucaristia l'obiezione cambia forma, ma non sostanza. Testimoni di Geova, avventisti, pentecostali, mormoni e protestanti in generale ripetono una di queste due: <em>«Il pane resta pane: sembra pane e sa di pane.»</em> e <em>«Transustanziazione è una parola inventata, filosofia greca; non sta nella Bibbia.»</em></p>
+      article: `<p>Davanti all'Eucaristia l'obiezione cambia forma, ma non sostanza. I protestanti di ogni ramo, pentecostali, avventisti, Testimoni di Geova e mormoni compresi, ripetono una di queste due: <em>«Il pane resta pane: sembra pane e sa di pane.»</em> e <em>«Transustanziazione è una parola inventata, filosofia greca; non sta nella Bibbia.»</em></p>
                 <p>Alla seconda si risponde in una riga: non ci sono nemmeno le parole «Trinità» e «Bibbia», e nessuno discute ciò che esse nominano. Una parola non crea il fatto: lo nomina. È la prima che conta, e non si risponde con la filosofia ma con la Scrittura, perché la Scrittura ha già raccontato che cosa accade quando Cristo dice che una cosa è un'altra. Cinque passi, in ordine.</p>
                 <h2>La Parola non descrive: fa<br>Giovanni 1,1-3</h2>
                 <p>Prima di discutere che cosa possa accadere al pane bisogna sapere che cos'è una parola di Dio.</p>
@@ -614,7 +669,8 @@ const translationsIT = {
             </div>
             <h1>Su questo sito</h1>
             <p>Un percorso attraverso le filosofie che non hanno retto — fino alla Chiesa che ha retto.</p>
-            <a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
+            <a href="temas.html" class="btn-outline-white">Torna ai Temi</a>
+            <a href="privacidad.html" class="btn-outline-white btn-hero-extra">Privacy</a>`,
       article: `<p>Sono arrivato al cattolicesimo dopo un lungo percorso. Ho letto di tutto: occultismo ed esoterismo, le cosiddette Tavole di Smeraldo, le filosofie orientali, Nietzsche, gli epicurei. Ho cercato risposte ovunque e non ne trovavo nessuna che reggesse. Lo stoicismo è stato l'ultima cosa che mi ha offerto qualcosa di serio prima di Cristo — Seneca, Marco Aurelio, Epitteto mi hanno insegnato a guardare la verità senza battere ciglio. E guardando la verità senza battere ciglio, sono finito dove non mi aspettavo: di fronte alla Chiesa Cattolica.</p>
 
             <p>Questo sito è per te se ti trovi in uno di questi posti: dubiti della fede che hai ricevuto e non sai a chi chiederlo; stai cercando tra le tradizioni e nessuno ti dà una risposta che regga il peso; ti sei appena convertito e ti senti solo, senza guida, assediato da ogni parte. Conosco quel posto. Ci sono stato. E so cos'c'è intorno: cattolici tradizionali che a volte danno per scontato ciò che dovrebbero dimostrare e non sanno spiegarlo; e peggio ancora, cattolici tiepidi — quelli che vanno a Messa per abitudine, non sanno cosa credono, non difendono nulla, e sono i primi ad alzare le spalle quando qualcuno attacca la fede davanti a loro.</p>
@@ -626,7 +682,7 @@ const translationsIT = {
 
             <p>Un tiepido non difende nulla, non spiega nulla, non convince nessuno. Almeno chi crede in qualcosa di sbagliato ha qualcosa da offrire.</p>
 
-            <p>E i protestanti si fanno vivi. Si fanno sempre vivi. Testimoni di Geova, pentecostali, avventisti, mormoni, ogni setta con la sua versione troncata della Scrittura e la sua certezza in prestito. Qui troverai risposta a quelle sette, sul loro terreno, con la loro stessa arma: tutta la Bibbia — compresi i libri deuterocanonici che hanno strappato dalle loro traduzioni senza averne l'autorità. Con la Bibbia ben letta, i Padri della Chiesa, il Magistero, il Catechismo, e la ragione che Dio ci ha dato come dono.</p>
+            <p>E i protestanti si fanno vivi. Si fanno sempre vivi. Testimoni di Geova, pentecostali, avventisti, mormoni, ogni setta con la sua versione troncata della Scrittura e la sua certezza in prestito. Qui troverai risposta a quelle sette, sul loro terreno, con la loro stessa arma: la Bibbia. I libri deuterocanonici, che hanno strappato dalle loro traduzioni senza averne l'autorità, sono Parola di Dio quanto gli altri. Ma quando rispondo a loro non li cito: uso soltanto i libri che loro stessi accettano, perché nessuno possa ribattere «questo non è nella Bibbia» o «questo l'hanno aggiunto i cattolici». Con la Bibbia ben letta, i Padri della Chiesa, il Magistero, il Catechismo, e la ragione che Dio ci ha dato come dono.</p>
 
             <p>La mia principale ispirazione in questo lavoro è Padre Luis Toro. Quello che lui fa parlando, io cerco di farlo scrivendo, nelle lingue e per i lettori che lui non raggiunge.</p>
 

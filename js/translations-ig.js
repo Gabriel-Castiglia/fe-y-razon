@@ -43,7 +43,7 @@ const translationsIG = {
     category: "Ozizi", date: "Septemba 2026", title: "Atọ n'Ime Otu Dị Nsọ", excerpt: "Mmadụ atọ na otu Chineke: azịza Akwụkwọ Nsọ nyere ndị United Pentecostal, n'otu n'otu.", time: "Nkeji 11 ịgụ", link: "Gụọ →"
   },
   article7: {
-    category: "Ozizi", date: "Ọ na-abịa", title: "Pọgatọrị", excerpt: "Ịdị ọcha ikpeazụ tupu ịbanye n'ihu Chineke.", time: "Nkeji 6 ịgụ", link: "Gụọ →"
+    category: "Ozizi", date: "Septemba 2026", title: "Pọgatọrị", excerpt: "Ụlọ mkpọrọ a na-esi apụta na mmehie a na-agbaghara n'ụwa na-abịa: ihe Kraịst kụziri banyere nsacha.", time: "Nkeji 8 ịgụ", link: "Gụọ →"
   },
   article8: {
     category: "Ozizi", date: "Ọ na-abịa", title: "Iwu Ọhụrụ", excerpt: "Iwu Kraịst nke na-anọchi Iwu Ochie ma na-eduzi Ndị Kraịst.", time: "Nkeji 8 ịgụ", link: "Gụọ →"
@@ -56,6 +56,7 @@ const translationsIG = {
   },
   mission: {
     title: "Ozi anyị",
+    intro: "A na-emelite saịtị a mgbe niile site n'isiokwu apọlọjetik ọhụrụ. Ọ bụrụ na ịchọrọ ka a kọwaa otu isiokwu, dee anyị site n'akwụkwọ kọntaktị, anyị ga-etinye ya dị ka o kwere mee.",
     teach: { title: "Ikuzi", desc: "Mee ka ozizi Katọlik mikwuo emikwuo site na arụmụka siri ike nke dabeere na Akwụkwọ Nsọ, Magisterium nke Nzukọ-nsọ na uche." },
     illuminate: { title: "Imee ka o doo anya", desc: "Nye azịza doro anya nke na-enyere ndị kwere ekwe aka ịghọta okwukwe ha nke ọma ma zaa ajụjụ siri ike sitere na òtù ndị na-akụzi ozizi ụgha ma ọ bụ ịrọ òtù dị iche iche." },
     defend: { title: "Ichebe", desc: "Nye arụmụka apologetics iji ghọta ma chebe okwukwe Katọlik pụọ n'ajụjụ, obi abụọ na ụdị ozizi ụgha ọgbara ọhụrụ, ịrọ òtù na òtù na-emegide Katọlik." }
@@ -75,8 +76,62 @@ const translationsIG = {
     common: { prevLabel: "Akụkọ gara aga", nextLabel: "Akụkọ na-esote", backToTopics: "Laghachi na Isiokwu" },
     "el-purgatorio": {
       pageTitle: "Pọgatọrị | Okwukwe na Uche",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Isiokwu Pụrụ Iche</span></div><h1>Pọgatọrị na Ebere Chineke</h1><p>Nkọwa doro anya nke pọgatọrị dị ka usoro ịdị ọcha na olileanya maka njikọ ikpeazụ na Chineke.</p><div class="article-meta"><span>Nkeji 6 ịgụ</span><span>Ebipụtara na Mee 2026</span></div><a href="temas.html" class="btn-outline-white">Laghachi na Isiokwu</a>`,
-      article: `<p>Pọgatọrị bụ ọkwa ebe a na-asacha mkpụrụ obi tupu ha abanye n'ihu Chineke n'ụzọ zuru ezu. Ọ bụghị ntaramahụhụ ikpeazụ, kama ọ bụ usoro ịhụnanya na-agwọ ọrịa.</p><h2>Gịnị ka ịdị ọcha pụtara?</h2><p>Ịdị ọcha na-ewepụ nsonaazụ nke mmehie venial ma na-agwọ ọnya nke nnwere onwe. Ọ bụ nkwadebe dị mkpa maka ịtụgharị uche na Chineke.</p><blockquote>"Chineke bụ ezi omume nakwa onye ebere kachasị. Ikpe nkwụmọtọ ya na-asacha, ebere ya na-eso ya."</blockquote><h2>Olileanya Onye Kraịst</h2><p>Pọgatọrị abụghị mmadụ ịma ikpe, kama ọ bụ ọrụ mgbapụta. A na-akpọ mkpụrụ obi ọ bụla ka ọ banye n'izu oke nke ịhụnanya Chineke, ịdị ọcha bụkwa akụkụ nke ụzọ ahụ.</p><ul><li>Nzukọ-nsọ na-ekpe ekpere maka mkpụrụ obi dị na pọgatọrị.</li><li>Sakrament na ezi ọrụ na-enyere aka na ịdị ọcha.</li><li>Ọ bụ ngosipụta nke ebere Chineke.</li></ul><h2>Ibi ndụ okwukwe</h2><p>Ịghọta ihe omimi a na-akpọ anyị ka anyị bie ndụ n'ịdị nsọ ka ukwuu, rịọ mgbaghara ma kpee ekpere maka ndị nwụrụ anwụ, na-atụkwasị obi n'ọrụ nzọpụta Kraịst.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Isiokwu Pụrụ Iche</span></div><h1>Pọgatọrị na Ebere Chineke</h1><p>Ụlọ mkpọrọ a na-esi apụta na mmehie a na-agbaghara n'ụwa na-abịa: ihe Kraịst kụziri banyere nsacha mgbe ọnwụ gasịrị, n'otu n'otu.</p><div class="article-meta"><span>Nkeji 8 ịgụ</span><span>Ebipụtara na Septemba 2026</span></div><a href="temas.html" class="btn-outline-white">Laghachi na Isiokwu</a>`,
+      article: `<p>Ọtụtụ òtù Protestant na-ejide ozizi ụgha na purgatori adịghị, ha na-agbachitekwa ya n'ụzọ abụọ. Nke mbụ bụ nke ihe fọrọ nke nta ka ọ bụrụ ha niile na-ekwughachi: <em>«Okwu purgatori adịghị na Baịbụl. Ọ bụ ihe Rom chepụtara: ọbara Kraịst na-asachapụ anyị na mmehie niile, onye nwụrụ na-agakwa ozugbo n'eluigwe ma ọ bụ n'ọkụ mmụọ.»</em> Nke abụọ bụ nke ndị Adventist na Ndịàmà Jehova, ndị na-agọnahụ na mkpụrụ obi na-adị ndụ mgbe ọnwụ gasịrị: <em>«Ndị nwụrụ anwụ amaghị ihe ọ bụla (Ekl 9:5). Ọ dịghị onye a ga-asacha, ọ dịghịkwa onye a ga-ekpere ekpere.»</em></p>
+                <p>A na-aza nke mbụ n'otu ahịrị. Okwu purgatori adịghị na Baịbụl, okwu Atọ n'Ime Otu adịghịkwa, ma Atọ n'Ime Otu dị na peeji ọ bụla. Ihe dị mkpa bụ ma Akwụkwọ Nsọ ọ na-akụzi na e nwere ebe na-abụghị ọkụ mmụọ, n'ihi na a naghị esi n'ọkụ mmụọ apụta, ebe a na-akwụ ụgwọ mmehie ruo na njedebe, mgbe e mesịrị, a na-apụta. Ọ na-akụzi ya, ọ bụkwa Kraịst na-akụzi ya.</p>
+                <p>Purgatori bụ ọrụ ebere. Ọ dị ka ịwụsa mmanya ọgwụ n'ọnya rere ure: ọ na-ere ọkụ, na-egbu mgbu, ma nna hụrụ nwa ya n'anya na-asacha ya, n'ihi na ọ gaghị ekwe ka aka ya ree ure maka obere ọnya. Nke ahụ ka purgatori na-eme: ọ na-asacha ihe mmehie hapụrụ, ka mkpụrụ obi wee nwee ike ịbata n'ihu Chineke.</p>
+                <h2>«Ruo mgbe ọ ga-akwụ ụgwọ ya niile»<br>Matiu 18:23-35</h2>
+                <p>Jizọs ji ilu nke ohu na-agbaghịghị mgbaghara kọwaa alaeze eluigwe.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matiu 18:23-35</span>
+                    <blockquote>«N'ihi ya, <strong class="s-hi">alaeze eluigwe dị ka eze nke chọrọ ka ya na ndị ohu ya dozie akaụntụ</strong>. … Iwe wee were onyenwe ya, <strong class="s-hi">o nyefee ya n'aka ndị na-ata ahụhụ, ruo mgbe ọ ga-akwụ ụgwọ ya niile. Otu a ka Nna m nke eluigwe ga-emekwa unu</strong>, ọ bụrụ na onye ọ bụla n'ime unu agbaghaghị nwanne ya site n'obi ya.»</blockquote>
+                </div>
+                <p>Ntaramahụhụ ahụ nwere njedebe: ọ na-adịru mgbe ohu ahụ kwụrụ ihe niile o ji. Mbụ ọ na-akwụ ụgwọ, emesịa ọ na-apụta. A naghị esi n'ọkụ mmụọ apụta, ya mere ụlọ mkpọrọ ahụ abụghị ọkụ mmụọ. Jizọs ahapụghịkwa ilu ahụ dị ka akụkọ banyere eze ọ bụla: <em>«Otu a ka Nna m nke eluigwe ga-emekwa unu.»</em> Ọ bụghị nkọwa Nzukọ-nsọ, ọ bụghịkwa echiche efu. Kraịst kwuru ya.</p>
+                <h2>Ụlọ mkpọrọ a na-esi apụta<br>Matiu 5:25-26</h2>
+                <p>N'Ozizi n'Elu Ugwu, Jizọs ji otu ihe atụ ahụ.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matiu 5:25-26</span>
+                    <blockquote>«Gị na onye na-ebo gị ebubo dozie okwu ngwa ngwa mgbe gị na ya ka nọ n'ụzọ, <strong class="s-hi">ka onye na-ebo gị ebubo ghara inyefe gị n'aka onyeikpe, onyeikpe enyefee gị n'aka onye nche, e wee tụba gị n'ụlọ mkpọrọ</strong>. N'ezie, a sị m gị: <strong class="s-hi">ị gaghị esi ebe ahụ pụta ruo mgbe ị kwụrụ kobo ikpeazụ</strong>.»</blockquote>
+                </div>
+                <p>Onyeikpe bụ Chineke, onye nche bụ ndị mmụọ ozi ya, ụlọ mkpọrọ bụkwa purgatori. «Ruo mgbe ị kwụrụ» pụtara na e nwere oge ụgwọ ahụ na-agwụ, ọnụ ụzọ emeghe. Ụlọ mkpọrọ ahụ adịghị ebighị ebi. Ọkụ mmụọ bụ ebighị ebi.</p>
+                <h2>Mgbaghara n'ụwa na-abịa<br>Matiu 12:32</h2>
+                <p>Mgbe ọ na-ekwu banyere mmehie megide Mmụọ Nsọ, Jizọs kewara oge abụọ.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matiu 12:32</span>
+                    <blockquote>«Onye ọ bụla kwuru okwu megide Nwa nke Mmadụ, a ga-agbaghara ya; ma onye ọ bụla kwuru okwu megide Mmụọ Nsọ, <strong class="s-hi">a gaghị agbaghara ya, ma n'ụwa a ma n'ụwa na-abịa</strong>.»</blockquote>
+                </div>
+                <p>Ọ bụrụ na a gaghị agbaghara mmehie ọ bụla mgbe ọnwụ gasịrị, ikwu na a gaghị agbaghara nke a «n'ụwa na-abịa» agaghị enwe isi. Jizọs na-ewere ya na a na-agbaghara ụfọdụ mmehie n'ụwa a, ụfọdụ n'ụwa na-abịa. Nke a, mba; ndị ọzọ, ee. N'eluigwe, ọ dịghị ihe a ga-agbaghara, n'ọkụ mmụọ, mgbaghara adịghị. Mgbaghara ahụ nke ụwa na-abịa na-eme n'ebe ọzọ.</p>
+                <h2>Ọ bụghị mmehie niile na-eduga n'ọnwụ<br>1 Jọn 5:16-17</h2>
+                <p>Jọn kewara ụdị mmehie abụọ.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Jọn 5:16-17</span>
+                    <blockquote>«Ọ bụrụ na onye ọ bụla ahụ nwanne ya ka ọ na-eme <strong class="s-hi">mmehie na-adịghị eduga n'ọnwụ</strong>, <strong class="s-hi">ya rịọ, Chineke ga-enyekwa ya ndụ</strong>, nye ndị na-eme mmehie na-adịghị eduga n'ọnwụ. E nwere mmehie na-eduga n'ọnwụ; <strong class="s-hi">asịghị m ka a rịọ maka nke ahụ</strong>. Ajọ omume niile bụ mmehie, ma <strong class="s-hi">e nwere mmehie na-adịghị eduga n'ọnwụ</strong>.»</blockquote>
+                </div>
+                <p>E nwere mmehie na-eduga n'ọnwụ na mmehie na-adịghị eduga ya. Nzukọ-nsọ na-akpọ ha mmehie ọnwụ na obere mmehie. A na-ekpe ekpere maka nwanne na-eme mmehie na-adịghị eduga n'ọnwụ, Chineke na-enyekwa ya ndụ. Onye nwụrụ na mmehie na-adịghị eduga n'ọnwụ amaghị ikpe ọnwụ ebighị ebi, ma ọ dịghịkwa ọcha. N'etiti ikpe ahụ na ihu Chineke, nke ahụ kpọmkwem fọdụrụ: nsacha.</p>
+                <h2>Ndị nwụrụ anwụ dị ndụ<br>Jọn 11:21-27</h2>
+                <p>Jizọs na-aza ndị Adventist na Ndịàmà Jehova n'ili Lazarọs.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Jọn 11:21-27</span>
+                    <blockquote>«Mata sịrị Jizọs: «Onyenwe anyị, a sị na ị nọ ebe a, nwanne m nwoke agaraghị anwụ. Ma ugbu a, amaara m na ihe ọ bụla ị rịọrọ Chineke, Chineke ga-enye gị.» Jizọs sịrị ya: «Nwanne gị ga-ebili.» Mata sịrị ya: «Amaara m na ọ ga-ebili na mbilite n'ọnwụ n'ụbọchị ikpeazụ.» Jizọs sịrị ya: «Mụ onwe m bụ mbilite n'ọnwụ na ndụ. Onye kwere na m, <strong class="s-hi">ọ bụrụgodị na ọ nwụọ, ọ ga-adị ndụ</strong>; onye ọ bụla dị ndụ ma kwere na m <strong class="s-hi">agaghị anwụ ma ọlị</strong>. Ì kwere nke a?» Ọ sịrị ya: «Ee, Onyenwe anyị, ekwere m na ị bụ Kraịst ahụ, Ọkpara Chineke, onye na-abịa n'ụwa.»»</blockquote>
+                </div>
+                <p>Mata na-ekwu banyere mbilite n'ọnwụ n'ụbọchị ikpeazụ, Jizọs agafee karịa: onye kwere na ya, ọ bụrụgodị na ọ nwụọ, na-adị ndụ, agaghịkwa anwụ ma ọlị. Ọnwụ nke ahụ anaghị emenyụ ndụ onye kwere ekwe. Ndị nwụrụ n'ime Kraịst anọghị na-arahụ ụra n'efu na-eche njedebe ụwa. Ha dị ndụ.</p>
+                <h2>Mmụọ na-alaghachi n'ebe Chineke nọ<br>Ekliziastis 12:7</h2>
+                <p>Otu akwụkwọ ahụ mmegide ahụ si na ya na-ekwu ihe na-eme mgbe mmadụ nwụrụ.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ekliziastis 12:7</span>
+                    <blockquote>«ma ájá alaghachi n'ala dị ka ọ dị na mbụ, <strong class="s-hi">mmụọ alaghachikwa n'ebe Chineke nọ</strong>, bụ onye nyere ya.»</blockquote>
+                </div>
+                <p>Ahụ na-alaghachi n'ala, mmụọ na-alaghachikwa n'ebe Chineke nọ. Okwu Hibru bụ <em>ruach</em>, nke a na-atụgharịkwa dị ka ume; n'ụzọ ọ bụla, ihe na-alaghachi n'ebe Chineke nọ bụ ihe o nyere. Ahịrịokwu Ekliziastis 9:5 nke ndị Adventist na-ehota na-ezu oke n'amaokwu na-esote: ndị nwụrụ anwụ <em>«enweghị òkè ọzọ ruo mgbe ebighị ebi n'ihe ọ bụla a na-eme n'okpuru anyanwụ»</em> (Ekl 9:6). Ha amaghị ihe ọ bụla na-eme n'ụwa a. Nke ahụ ekwughị na ha akwụsịla ịdị adị.</p>
+                <p>Mgbe mmụọ na-alaghachi n'ebe Chineke nọ, ọ ga-adị ọcha, n'ihi na ihe mmehie metọrọ enweghị ike iguzo n'ihu ya. Ọ bụ ya mere purgatori ji dị.</p>
+                <ul>
+                    <li>Jizọs na-ekwu banyere ụgwọ a na-akwụ ruo na njedebe na ụlọ mkpọrọ a na-esi apụta.</li>
+                    <li>E nwere mmehie a na-agbaghara n'ụwa na-abịa.</li>
+                    <li>Ọ bụghị mmehie niile na-eduga n'ọnwụ, a na-ekpekwa ekpere maka onye na-eme mmehie na-adịghị eduga n'ọnwụ.</li>
+                    <li>Ndị nwụrụ n'ime Kraịst dị ndụ, mmụọ ha na-alaghachikwa n'ebe Chineke nọ.</li>
+                </ul>
+                <h2>Nchịkọta</h2>
+                <p>Purgatori abụghị ihe Rom chepụtara, ọ bụghịkwa ọnụ ụzọ azụ iji gbanahụ ọkụ mmụọ. Ọ bụ ihe Kraịst kọwara mgbe ọ na-ekwu banyere ụlọ mkpọrọ a na-esi apụta mgbe a kwụrụ kobo ikpeazụ, na banyere mmehie a na-agbaghara n'ụwa na-abịa. Ọ bụ ọbara Kraịst na-asacha, ọbụna n'ebe ahụ: purgatori bụ ọbara ahụ e tinyere n'ahụ onye nwụrụ n'amara ma ka nwere ntụpọ.</p>
+                <p>Ndị Adventist na Ndịàmà Jehova kwuru eziokwu na ndị nwụrụ anwụ enweghị òkè n'ihe a na-eme n'okpuru anyanwụ. Ha na-ehie ụzọ n'ihe ha si na ya wepụta. Onye kwere na Kraịst, ọ bụrụgodị na ọ nwụọ, ọ ga-adị ndụ, mmụọ ya na-alaghachikwa n'ebe Chineke nọ, bụ onye nyere ya.</p>`,
       nav: { prevTitle: "Ndị Nsọ na arịrịọ ha", nextTitle: "Iwu Ọhụrụ n'ime Kraịst" }
     },
     "la-eucaristia": {
@@ -118,7 +173,7 @@ const translationsIG = {
     "la-primacia-de-pedro": {
       pageTitle: "Ịbụ onye mbụ nke Pita | Okwukwe na Uche",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Isiokwu Pụrụ Iche</span></div><h1>Ịbụ onye mbụ nke Pita</h1><p>Kraịst wuru Nzukọ-nsọ ya n'elu Pita, nye ya mkpịsị igodo nke alaeze ma nye ya ọrụ ime ka ụmụnna ya guzosie ike. Ihe Akwụkwọ Nsọ kwuru, n'otu n'otu.</p><div class="article-meta"><span>Nkeji 14 ịgụ</span><span>Ebipụtara na Septemba 2026</span></div><a href="temas.html" class="btn-outline-white">Laghachi na Isiokwu</a>`,
-      article: `<p>Megide ọchịchị Popu, mmegide ahụ nwere ụdị abụọ. Nke mbụ bụ nke ndị Protestant nke ihe fọrọ nke nta ka ọ bụrụ ụka niile, ndị Adventist na Ndịàmà Jehova na-ekwughachi: <em>"Okwute ahụ bụ Kraịst, ọ bụghị Pita. Pita bụ naanị obere okwute; okwute ahụ bụ okwukwe o kwupụtara."</em> Nke abụọ bụ nke ụwa ndị Ivanjelikal: <em>"Nzukọ-nsọ n'ezie bụ nke a na-adịghị ahụ anya: o nweghị usoro ndịisi, o nweghị ndị bishọp, o nweghịkwa Popu. Rom chepụtara ihe ndị ahụ niile."</em></p>
+      article: `<p>Megide ọchịchị Popu, mmegide ahụ nwere ụdị abụọ. Nke mbụ bụ nke ndị Protestant nke ihe fọrọ nke nta ka ọ bụrụ ụka niile na-ekwughachi, gụnyere ndị Adventist na Ndịàmà Jehova: <em>"Okwute ahụ bụ Kraịst, ọ bụghị Pita. Pita bụ naanị obere okwute; okwute ahụ bụ okwukwe o kwupụtara."</em> Nke abụọ bụ nke ụwa ndị Ivanjelikal: <em>"Nzukọ-nsọ n'ezie bụ nke a na-adịghị ahụ anya: o nweghị usoro ndịisi, o nweghị ndị bishọp, o nweghịkwa Popu. Rom chepụtara ihe ndị ahụ niile."</em></p>
                 <p>E ji Akwụkwọ Nsọ aza ha abụọ. Nke mbụ, n'elu gịnị ka e wuru Nzukọ-nsọ, onye ka o jikwa mkpịsị igodo. Nke abụọ, ma Nzukọ-nsọ ahụ ọ nwere ọchịchị, ma ọ dịkwa tupu onye ọ bụla hazie ya. Nke ikpeazụ, onye ka Kraịst nyere ọrụ ịkwagide ndị ọzọ.</p>
                 <h2>Kraịst bụ okwute isi nkuku, e nwekwara ntọala<br>Ndị Efesọs 2:20-22</h2>
                 <p>Tupu a rụọ ụka ma Pita ọ bụ okwute, ọ dị mkpa ịhụ otú Pọl si eji onyinyo ahụ.</p>
@@ -465,7 +520,7 @@ const translationsIG = {
                 <span>Ebipụtara na Ọgọst 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Laghachi na Isiokwu</a>`,
-      article: `<p>N'ihu Yukarist, mmegide na-agbanwe ụdị ma ọ dịghị agbanwe isi ya. Ndịàmà Jehova, ndị Adventist, ndị Pentikọstal, ndị Mọmọn na ndị Protestant n'ozuzu na-ekwughachi otu n'ime abụọ ndị a: <em>"Achịcha ka bụ achịcha: ọ dị ka achịcha ma na-atọ ka achịcha."</em> na <em>"Transubstantiation bụ okwu e chepụtara, nkà ihe ọmụma Grik; ọ dịghị na Baịbụl."</em></p>
+      article: `<p>N'ihu Yukarist, mmegide na-agbanwe ụdị ma ọ dịghị agbanwe isi ya. Ndị Protestant nke alaka niile, gụnyere ndị Pentikọstal, ndị Adventist, Ndịàmà Jehova na ndị Mọmọn, na-ekwughachi otu n'ime abụọ ndị a: <em>"Achịcha ka bụ achịcha: ọ dị ka achịcha ma na-atọ ka achịcha."</em> na <em>"Transubstantiation bụ okwu e chepụtara, nkà ihe ọmụma Grik; ọ dịghị na Baịbụl."</em></p>
                 <p>A na-aza nke abụọ n'otu ahịrị: okwu "Atọ n'Ime Otu" na "Baịbụl" adịghịkwa na Baịbụl, ma ọ dịghị onye na-agọ ihe ha na-akọwa. Okwu adịghị eke ihe: ọ na-akpọ ya aha. Nke mbụ bụ nke dị mkpa, a naghịkwa eji nkà ihe ọmụma aza ya kama e ji Akwụkwọ Nsọ, n'ihi na Akwụkwọ Nsọ akọọlarị ihe na-eme mgbe Kraịst kwuru na otu ihe bụ ihe ọzọ. Akụkụ ise, n'usoro.</p>
                 <h2>Okwu ahụ anaghị akọwa: ọ na-eme<br>Jọn 1:1-3</h2>
                 <p>Tupu a rụọ ụka banyere ihe nwere ike ime achịcha, a ga-ebu ụzọ mara ihe okwu Chineke bụ.</p>
@@ -614,7 +669,8 @@ const translationsIG = {
             </div>
             <h1>Maka saịtị a</h1>
             <p>Njem site n'ime ihe ọmụmụ ndị enweghị ike ịdọ aka ná ntị — ruo n'Ọhabara nke ịdọ aka ná ntị.</p>
-            <a href="temas.html" class="btn-outline-white">Laghachi na Isiokwu</a>`,
+            <a href="temas.html" class="btn-outline-white">Laghachi na Isiokwu</a>
+            <a href="privacidad.html" class="btn-outline-white btn-hero-extra">Nzuzo</a>`,
       article: `<p>Ọ bụ mgbe m tọọrọ ije ogologo ka m ruo Katọlịsizm. M gụọrọ ihe niile: okultizm na esoterisizm, nke a na-akpọ <!-- TODO: verificar terminología "Tablas Esmeralda" en Igbo -->Taabụl Emerald, ihe ọmụmụ ọdịdị ọwụwa anyanwụ, Nietzsche, ndị Epicurean. M chọọrọ azịza n'ebe niile ma enweghị otu o bụla m chọtara nke ịdọ aka ná ntị. Stoicism bụ ihe ikpeazụ nke nyere m ihe dị serious tupu Kraịst — Seneka, Makọs Ọwrịlịọs, Epiktetos kụziiri m ịlele eziokwu n'anya n'anya. Ma ka m na-elenye eziokwu anya n'anya, m kwuchiri ebe m echeghị: n'ihu Nzukọ-nsọ Katọlik.</p>
 
             <p>Saịtị a bụ maka gị ma ọ bụrụ na ị nọ n'otu n'ime ebe ndị a: ị na-enwe ọchịchọ ike maka okwukwe i nwetara ma ị maghị onye ị ga-ajụ; ị na-achọ n'etiti ọdịnala ma onye ọ bụla anaghị enye gị azịza nke nwere ike ibu ibu; ị mara ọhụrụ ọhụrụ ụmụọgụ ma ị nọrọ naanị gị, n'enweghị nduzi, a na-asó gị n'akụkụ niile. M maara ebe ahụ. M nọọrọ ebe ahụ. Ma m maara ihe dị gburugburu: ndị Katọlik ọchịchọ ndị mgbe ụfọdụ na-ewere ihe ha kwesịrị igosipụta dị ka ihe a maara ma ha enweghị ike kọwaa ya; na ihe na-adị njọ karịa, ndị Katọlik <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Igbo -->jụrụ — ndị na-aga Misa n'ihi omenala, ha amaghị ihe ha kwere, ha anaghị agbachitere ihe ọ bụla, ha bụ ndị mbụ ga-awịda ụjọ mgbe mmadụ na-awa okwukwe n'ihu ha.</p>
@@ -627,7 +683,7 @@ const translationsIG = {
 
             <p>Onye Katọlik jụrụ anaghị agbachitere ihe ọ bụla, anaghị akọwapụta ihe ọ bụla, anaghị ato onye ọ bụla n'uche. Opekata mpe onye kwere n'ihe ọjọọ nwere ihe ọ nwere ike inye.</p>
 
-            <p>Na ndị Prọtestant na-apụta. Ha na-apụta mgbe niile. Ndị Ịchọcha Jehovah, ndị Pentikọst, ndị Adventist, ndị Mormon, <!-- TODO: verificar terminología "secta" en Igbo -->sekta ọ bụla nwere ụdị ya nke Akwụkwọ Nsọ a kpọchasịrị ma ọbụ nkwado nke a kọkọrọ. Ebe a i ga-ahụ azịza maka sekta ndị ahụ, n'ala ha onwe ha, site n'ọgụ ha onwe ha: Bayibụl niile — gụnyere akwụkwọ <!-- TODO: verificar terminología "deuterocanónicos" en Igbo -->Deuterokanonịkal ndị ha zụọrọ n'ntụgharị ha n'enweghị ike ime ya. Site n'Bayibụl a gụọrọ nke ọma, <!-- TODO: verificar terminología "Padres de la Iglesia" en Igbo -->ndị Nna Nzukọ-nsọ, <!-- TODO: verificar terminología Magisterio en Igbo -->Magistirium, <!-- TODO: verificar terminología Catecismo en Igbo -->Katekizm, na uche Chineke nyere anyị dị ka ọnụ ọhụụ.</p>
+            <p>Na ndị Prọtestant na-apụta. Ha na-apụta mgbe niile. Ndị Ịchọcha Jehovah, ndị Pentikọst, ndị Adventist, ndị Mormon, <!-- TODO: verificar terminología "secta" en Igbo -->sekta ọ bụla nwere ụdị ya nke Akwụkwọ Nsọ a kpọchasịrị ma ọbụ nkwado nke a kọkọrọ. Ebe a i ga-ahụ azịza maka sekta ndị ahụ, n'ala ha onwe ha, site n'ọgụ ha onwe ha: Bayibụl. Akwụkwọ Deuterokanonịkal, ndị ha wepụrụ n'ntụgharị ha n'enweghị ikike ime ya, bụ Okwu Chineke dị ka ndị ọzọ. Ma mgbe m na-aza ha, anaghị m ehota ha: m na-eji naanị akwụkwọ ndị ha onwe ha nabatara, ka onye ọ bụla ghara ịsị «nke ahụ adịghị na Bayibụl» ma ọ bụ «ndị Katọlik tinyere ya». Site n'Bayibụl a gụọrọ nke ọma, <!-- TODO: verificar terminología "Padres de la Iglesia" en Igbo -->ndị Nna Nzukọ-nsọ, <!-- TODO: verificar terminología Magisterio en Igbo -->Magistirium, <!-- TODO: verificar terminología Catecismo en Igbo -->Katekizm, na uche Chineke nyere anyị dị ka ọnụ ọhụụ.</p>
 
             <p>Ihe ndụzị m dị isi na ọrụ a bụ Padre Luis Toro. Ihe ọ na-eme n'okwu, m na-anwa ime ya n'ide, n'asụsụ na maka ndị ọgụgụ ọ anaghị eru.</p>
 

@@ -1,8 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Fé y Razón">
-  <!-- Fondo oscuro del sitio (#1a1410) y cruz en el dorado del sitio (#d4a574).
-       Cruz y no las iniciales «FR»: a 16 px dos letras en Cinzel se vuelven una
-       mancha, y una cruz se reconoce entera. Dibujada como un solo trazo, sin
-       depender de ninguna tipografía instalada. -->
-  <rect width="64" height="64" rx="10" fill="#1a1410"/>
-  <path d="M28.6 8h6.8v14.4H50v6.8H35.4V56h-6.8V29.2H14v-6.8h14.6z" fill="#d4a574"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Fé y Razón">
+  <!-- Cruz templaria (pattée) roja sobre blanco, la misma de «Enseñar» en la
+       portada (28-sep-2026). Reemplaza la cruz latina dorada sobre negro, que
+       Gabriel veía «muy protestante». Un solo contorno: sin costuras a 16 px. -->
+  <rect width="100" height="100" rx="16" fill="#ffffff"/>
+  <path transform="translate(8 8) scale(0.84)" fill="#9e1b1b" d="M31 5 Q50 11 69 5 L57 43 L95 31 Q89 50 95 69 L57 57 L69 95 Q50 89 31 95 L43 57 L5 69 Q11 50 5 31 L43 43 Z"/>
 </svg>

@@ -74,10 +74,10 @@ const translationsDA = {
   },
   article7: {
     category: "Doktrin",
-    date: "Kommer snart",
+    date: "September 2026",
     title: "Skærsilden",
-    excerpt: "Den endelige renselse før indgangen i Guds nærvær.",
-    time: "6 min læsning",
+    excerpt: "Et fængsel, man kommer ud af, og synder, der tilgives i den kommende verden: hvad Kristus lærer om renselsen.",
+    time: "8 min læsning",
     link: "Læs →"
   },
   article8: {
@@ -106,6 +106,7 @@ const translationsDA = {
   },
   mission: {
     title: "Vores Mission",
+    intro: "Dette websted opdateres løbende med nye apologetiske emner. Hvis du ønsker, at et bestemt emne bliver behandlet, så skriv til os via kontaktformularen, og vi medtager det, så vidt det er muligt.",
     teach: {
       title: "Undervise",
       desc: "Uddybe den katolske doktrin med solide argumenter baseret på den hellige skrift, kirkens læreembede og fornuften."
@@ -152,25 +153,67 @@ const translationsDA = {
                 <span class="eyebrow-text">Specialemne</span>
             </div>
             <h1>Skærsilden og Guds barmhjertighed</h1>
-            <p>En klar forklaring på skærsilden som en proces af renselse og håb mod den endelige forening med Guds kærlighed.</p>
+            <p>Et fængsel, man kommer ud af, og synder, der tilgives i den kommende verden: hvad Kristus lærer om renselsen efter døden, skriftsted for skriftsted.</p>
             <div class="article-meta">
-                <span>6 min læsning</span>
-                <span>Udgivet maj 2026</span>
+                <span>8 min læsning</span>
+                <span>Udgivet september 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
-      article: `<p>Skærsilden er stadiet, hvor sjæle renses, før de træder ind i Guds fulde nærvær. Det er ikke en endelig straf, men en proces af helbredende kærlighed.</p>
-                <h2>Hvad betyder renselse?</h2>
-                <p>Renselsen fjerner følgerne af daglig synd og heler frihedens sår. Det er den nødvendige forberedelse til guddommelig beskuelse.</p>
-                <blockquote>"Gud er retfærdig og også den mest barmhjertige. Hans retfærdighed renser, hans barmhjertighed ledsager."</blockquote>
-                <h2>Kristent håb</h2>
-                <p>Skærsilden er ikke fordømmelse, men et værk af forløsning. Enhver sjæl er kaldet til fylden af Guds kærlighed, og renselsen er en del af den vej.</p>
+      article: `<p>Flere protestantiske sekter holder fast i den vranglære, at skærsilden ikke findes, og de forsvarer den på to måder. Den første gentager næsten alle: <em>»Ordet skærsild står ikke i Bibelen. Det er en opfindelse fra Rom: Kristi blod renser os for al synd, og den, der dør, kommer direkte i himlen eller i helvede.«</em> Den anden hører adventisterne og Jehovas Vidner til, som benægter, at sjælen lever videre efter døden: <em>»De døde ved ingenting (Præd 9,5). Der er ingen at rense og ingen at bede for.«</em></p>
+                <p>Den første besvares på én linje. Ordet skærsild står ikke i Bibelen, og det gør ordet treenighed heller ikke, og Treenigheden står på hver side. Det afgørende er, om Skriften lærer, at der er et sted, som ikke er helvede, for fra helvede kommer man ikke ud, hvor syndens gæld betales til sidste øre, og hvorfra man bagefter kommer ud. Det lærer den, og det er Kristus, der lærer det.</p>
+                <p>Skærsilden er barmhjertighedens værk. Det er som at hælde sprit i et betændt sår: det svier og gør ondt, men en far, der elsker sin søn, renser det, for han lader ikke armen gå i koldbrand på grund af en skramme. Det er det, skærsilden gør: den renser det, synden efterlod, så sjælen kan træde frem for Guds ansigt.</p>
+                <h2>»Indtil han havde betalt alt, hvad han skyldte«<br>Matthæusevangeliet 18,23-35</h2>
+                <p>Jesus forklarer Himmeriget med lignelsen om tjeneren, der ikke ville tilgive.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matthæusevangeliet 18,23-35</span>
+                    <blockquote>«Derfor <strong class="s-hi">ligner Himmeriget en konge, der ville gøre regnskab op med sine tjenere</strong>. … Og i vrede <strong class="s-hi">overgav hans herre ham til fangevogterne, indtil han havde betalt alt, hvad han skyldte. Sådan vil også min himmelske fader gøre mod jer</strong>, hvis ikke hver af jer tilgiver sin broder af hjertet.»</blockquote>
+                </div>
+                <p>Straffen har en grænse: den varer, indtil tjeneren har betalt alt, hvad han skyldte. Først betaler han, så kommer han ud. Fra helvede kommer man ikke ud, altså er det fængsel ikke helvede. Og Jesus lader ikke lignelsen blive en historie om en hvilken som helst konge: <em>»Sådan vil også min himmelske fader gøre mod jer.«</em> Det er hverken en fortolkning fra Kirken eller en formodning. Kristus har sagt det.</p>
+                <h2>Fængslet, man kommer ud af<br>Matthæusevangeliet 5,25-26</h2>
+                <p>I Bjergprædikenen bruger Jesus det samme billede.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matthæusevangeliet 5,25-26</span>
+                    <blockquote>«Skynd dig at blive forligt med din modpart, mens du er på vej sammen med ham, for at <strong class="s-hi">din modpart ikke skal overgive dig til dommeren og dommeren til fangevogteren, så du bliver kastet i fængsel</strong>. Sandelig siger jeg dig: <strong class="s-hi">Du slipper ikke ud, før du har betalt den sidste øre</strong>.»</blockquote>
+                </div>
+                <p>Dommeren er Gud, fangevogteren er hans engle, og fængslet er skærsilden. »Før du har betalt« betyder, at der kommer et øjeblik, hvor gælden er betalt, og døren åbnes. Fængslet er ikke evigt. Det er helvede.</p>
+                <h2>Tilgivelse i den kommende verden<br>Matthæusevangeliet 12,32</h2>
+                <p>Om synden mod Helligånden skelner Jesus mellem to tider.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matthæusevangeliet 12,32</span>
+                    <blockquote>«Den, der siger et ord imod Menneskesønnen, skal få tilgivelse; men den, der taler imod Helligånden, <strong class="s-hi">skal ikke få tilgivelse, hverken i denne verden eller i den kommende</strong>.»</blockquote>
+                </div>
+                <p>Hvis ingen synd blev tilgivet efter døden, ville det være meningsløst at sige, at denne ikke tilgives »i den kommende«. Jesus går ud fra, at nogle synder tilgives i denne verden og andre i den kommende. Ikke denne; andre, ja. I himlen er der intet at tilgive, og i helvede er der ingen tilgivelse. Den tilgivelse i den kommende verden sker et andet sted.</p>
+                <h2>Ikke al synd fører til døden<br>Første Johannesbrev 5,16-17</h2>
+                <p>Johannes skelner mellem to slags synd.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Første Johannesbrev 5,16-17</span>
+                    <blockquote>«Hvis nogen ser sin broder begå <strong class="s-hi">en synd, der ikke fører til døden</strong>, <strong class="s-hi">skal han bede, og Gud vil give ham liv</strong>, det vil sige dem, der ikke synder til døden. Der findes synd, der fører til døden; <strong class="s-hi">det er ikke om den, jeg siger, at han skal bede</strong>. Al uret er synd, men <strong class="s-hi">der er synd, som ikke fører til døden</strong>.»</blockquote>
+                </div>
+                <p>Der er synder, der fører til døden, og synder, der ikke gør. Kirken kalder dem dødssynder og tilgivelige synder. For broderen, der synder uden at det fører til døden, beder man, og Gud giver ham liv. Den, der dør med synder, som ikke fører til døden, er ikke fordømt, men han er heller ikke ren. Mellem fordømmelsen og Guds ansigt står netop det tilbage: renselsen.</p>
+                <h2>De døde lever<br>Johannesevangeliet 11,21-27</h2>
+                <p>Adventisterne og Jehovas Vidner får deres svar af Jesus ved Lazarus' grav.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Johannesevangeliet 11,21-27</span>
+                    <blockquote>«Martha sagde til Jesus: »Herre, havde du været her, var min bror ikke død. Men selv nu ved jeg, at hvad du beder Gud om, vil Gud give dig.« Jesus sagde til hende: »Din bror skal opstå.« Martha sagde til ham: »Jeg ved, at han skal opstå ved opstandelsen på den yderste dag.« Jesus sagde til hende: »Jeg er opstandelsen og livet. Den, der tror på mig, <strong class="s-hi">skal leve, om han end dør</strong>; og enhver, som lever og tror på mig, <strong class="s-hi">skal aldrig i evighed dø</strong>. Tror du det?« Hun sagde til ham: »Ja, Herre, jeg tror, at du er Kristus, Guds søn, han, der kommer til verden.«»</blockquote>
+                </div>
+                <p>Martha taler om opstandelsen på den yderste dag, og Jesus går videre: den, der tror på ham, lever, om han end dør, og skal aldrig dø. Legemets død slukker ikke livet i den, der tror. De døde i Kristus sover ikke i intetheden og venter på verdens ende. De lever.</p>
+                <h2>Ånden vender tilbage til Gud<br>Prædikerens Bog 12,7</h2>
+                <p>Den samme bog, som indvendingen kommer fra, siger, hvad der sker, når nogen dør.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Prædikerens Bog 12,7</span>
+                    <blockquote>«og støvet vender tilbage til jorden, som det var, og <strong class="s-hi">ånden vender tilbage til Gud</strong>, som gav den.»</blockquote>
+                </div>
+                <p>Legemet vender tilbage til jorden, og ånden vender tilbage til Gud. Det hebraiske ord er <em>ruach</em>, som også oversættes med ånde; på den ene eller den anden måde er det, der vender tilbage til Gud, det, han gav. Sætningen fra Prædikeren 9,5, som adventisterne citerer, fuldendes i det næste vers: de døde <em>»har aldrig mere del i noget af det, der sker under solen«</em> (Præd 9,6). De ved intet om det, der sker i denne verden. Det siger ikke, at de er holdt op med at eksistere.</p>
+                <p>Og når ånden vender tilbage til Gud, må den være ren, for det, der er plettet af synd, kan ikke stå frem for ham. Det er det, skærsilden er til for.</p>
                 <ul>
-                    <li>Kirken beder for sjælene i skærsilden.</li>
-                    <li>Sakramenterne og gode gerninger hjælper renselsen.</li>
-                    <li>Det er en manifestation af guddommelig barmhjertighed.</li>
+                    <li>Jesus taler om en gæld, der betales til sidste øre, og om et fængsel, man kommer ud af.</li>
+                    <li>Der er synder, som tilgives i den kommende verden.</li>
+                    <li>Ikke al synd fører til døden, og for den, der synder uden at det fører til døden, beder man.</li>
+                    <li>De, der dør i Kristus, lever, og deres ånd vender tilbage til Gud.</li>
                 </ul>
-                <h2>At leve troen</h2>
-                <p>Forståelsen af dette mysterium inviterer os til at leve med større hellighed, bede om tilgivelse og ofre bønner for de afdøde, idet vi stoler på Kristi frelsende værk.</p>`,
+                <h2>Konklusion</h2>
+                <p>Skærsilden er hverken en opfindelse fra Rom eller en bagdør til at slippe for helvede. Den er det, Kristus beskriver, når han taler om fængslet, man kommer ud af efter at have betalt den sidste øre, og om de synder, der tilgives i den kommende verden. Det er Kristi blod, der renser, også dér: skærsilden er det blod anvendt på den, der døde i nåden, men stadig var plettet.</p>
+                <p>Adventisterne og Jehovas Vidner har ret i, at de døde ikke har del i det, der sker under solen. De tager fejl i det, de slutter deraf. Den, der tror på Kristus, skal leve, om han end dør, og hans ånd vender tilbage til Gud, som gav den.</p>`,
       nav: {
         prevTitle: "Helgenerne og deres forbøn",
         nextTitle: "Den nye lov i Kristus"
@@ -436,7 +479,7 @@ const translationsDA = {
                 <span>Udgivet august 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
-      article: `<p>Over for Eukaristien skifter indvendingen form, men ikke indhold. Jehovas Vidner, adventister, pinsefolk, mormoner og protestanter i almindelighed gentager en af disse to: <em>"Brødet er stadig brød: det ser ud som brød og smager som brød."</em> og <em>"Transsubstantiation er et opfundet ord, græsk filosofi; det står ikke i Bibelen."</em></p>
+      article: `<p>Over for Eukaristien skifter indvendingen form, men ikke indhold. Protestanter af alle retninger, pinsefolk, adventister, Jehovas Vidner og mormoner medregnet, gentager en af disse to: <em>"Brødet er stadig brød: det ser ud som brød og smager som brød."</em> og <em>"Transsubstantiation er et opfundet ord, græsk filosofi; det står ikke i Bibelen."</em></p>
                 <p>Den anden besvares på én linje: ordene "Treenighed" og "Bibel" står der heller ikke, og ingen bestrider det, de betegner. Et ord skaber ikke kendsgerningen: det navngiver den. Den første er den, der betyder noget, og den besvares ikke med filosofi, men med Skriften, for Skriften har allerede fortalt, hvad der sker, når Kristus siger, at én ting er en anden. Fem skriftsteder, i rækkefølge.</p>
                 <h2>Ordet beskriver ikke: det gør<br>Joh 1,1-3</h2>
                 <p>Før man diskuterer, hvad der kan ske med brødet, må man vide, hvad et Guds ord er.</p>
@@ -744,7 +787,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                 <span>Udgivet september 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
-      article: `<p>Mod pavedømmet har indvendingen to former. Den første gentages af protestanter fra næsten alle kirkesamfund, af adventister og af Jehovas Vidner: <em>"Klippen er Kristus, ikke Peter. Peter er bare en lille sten; klippen er den tro, han bekendte."</em> Den anden hører til i den evangelikale verden: <em>"Den sande kirke er usynlig: den har intet hierarki, ingen biskopper og ingen pave. Det har Rom opfundet."</em></p>
+      article: `<p>Mod pavedømmet har indvendingen to former. Den første gentages af protestanter fra næsten alle kirkesamfund, adventister og Jehovas Vidner medregnet: <em>"Klippen er Kristus, ikke Peter. Peter er bare en lille sten; klippen er den tro, han bekendte."</em> Den anden hører til i den evangelikale verden: <em>"Den sande kirke er usynlig: den har intet hierarki, ingen biskopper og ingen pave. Det har Rom opfundet."</em></p>
                 <p>Begge besvares med Skriften. Først, hvad Kirken er bygget på, og hvem der har nøglerne. Dernæst, om denne Kirke har en ledelse, og om den fandtes, før nogen organiserede den. Og til sidst, hvem Kristus gav til opgave at holde de andre oppe.</p>
                 <h2>Kristus er hovedhjørnestenen, og der er en grundvold<br>Ef 2,20-22</h2>
                 <p>Før man diskuterer, om Peter er en klippe, må man se, hvordan Paulus bruger det billede.</p>
@@ -955,7 +998,8 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
             </div>
             <h1>Om dette sted</h1>
             <p>En rejse gennem filosofier, der ikke holdt — til den Kirke, der gjorde.</p>
-            <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
+            <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>
+            <a href="privacidad.html" class="btn-outline-white btn-hero-extra">Privatliv</a>`,
       article: `<p>Jeg kom til katolicismen efter en lang rejse. Jeg læste alt: okkultisme og esoterisme, de såkaldte Smaragdtavler, østlige filosofier, Nietzsche, epikuræerne. Jeg søgte svar overalt og fandt ikke ét, der holdt. Stoicismen var det sidste, der tilbød mig noget alvorligt, inden Kristus — Seneca, Marcus Aurelius, Epiktet lærte mig at se sandheden uden at blinke. Og idet jeg betragtede sandheden uden at blinke, endte jeg der, hvor jeg ikke forventede det: over for den Katolske Kirke.</p>
 
             <p>Dette sted er for dig, hvis du befinder dig ét af disse steder: du tvivler på den tro, du har modtaget, og ved ikke, hvem du skal spørge; du søger iblandt traditioner, og ingen giver dig et svar, der kan bære vægten; du er netop konverteret og føler dig alene, uden vejledning, belejret fra alle sider. Jeg kender det sted. Jeg har været der. Og jeg ved, hvad der er rundt om det: traditionelle katolikker, der nogle gange tager for givet, hvad de burde bevise, og ikke kan forklare det; og endnu værre, lunken <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Dansk -->katolikker — dem, der går til messe af vane, ikke ved, hvad de tror, forsvarer ingenting, og er de første til at trække på skuldrene, når nogen angriber troen foran dem.</p>
@@ -968,7 +1012,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
 
             <p>En lunken katolik forsvarer ingenting, forklarer ingenting, overbeviser ingen. I det mindste har den, der tror på noget forkert, noget at byde på.</p>
 
-            <p>Og protestanterne dukker op. De dukker altid op. Jehovas Vidner, pinsebevægelsen, adventister, mormoner, hvert <!-- TODO: verificar terminología "secta" en Dansk -->sekt med sin afkortede version af Skriften og sin lånte overbevisning. Her finder du svar på disse sekter, på deres eget enemærke, med deres eget våben: hele Bibelen — inklusive de <!-- TODO: verificar terminología "deuterocanónicos" en Dansk -->deuterokanoniske bøger, som de rev ud af deres oversættelser uden autoritet til at gøre det. Med Bibelen godt læst, <!-- TODO: verificar terminología "Padres de la Iglesia" en Dansk -->Kirkefædrene, <!-- TODO: verificar terminología Magisterio en Dansk -->Læreembedet, <!-- TODO: verificar terminología Catecismo en Dansk -->Katekismen og den fornuft, Gud gav os som gave.</p>
+            <p>Og protestanterne dukker op. De dukker altid op. Jehovas Vidner, pinsebevægelsen, adventister, mormoner, hvert <!-- TODO: verificar terminología "secta" en Dansk -->sekt med sin afkortede version af Skriften og sin lånte overbevisning. Her finder du svar på disse sekter, på deres eget enemærke, med deres eget våben: Bibelen. De deuterokanoniske bøger, som de rev ud af deres oversættelser uden autoritet til at gøre det, er Guds ord lige så meget som de andre. Men når jeg svarer dem, citerer jeg dem ikke: jeg bruger kun de bøger, de selv anerkender, så ingen kan komme med »det står ikke i Bibelen« eller »det har katolikkerne føjet til«. Med Bibelen godt læst, <!-- TODO: verificar terminología "Padres de la Iglesia" en Dansk -->Kirkefædrene, <!-- TODO: verificar terminología Magisterio en Dansk -->Læreembedet, <!-- TODO: verificar terminología Catecismo en Dansk -->Katekismen og den fornuft, Gud gav os som gave.</p>
 
             <p>Min vigtigste inspiration i dette arbejde er Padre Luis Toro. Det, han gør ved at tale, forsøger jeg at gøre ved at skrive, i de sprog og for de læsere, han ikke når.</p>
 
