@@ -47,7 +47,7 @@ const translationsSW = {
     category: "Mafundisho", date: "Hivi karibuni", title: "Sheria Mpya", excerpt: "Sheria ya Kristo inayochukua nafasi ya Sheria ya Kale na kuwaongoza Wakristo.", time: "Dakika 8 kusoma", link: "Soma →"
   },
   article9: {
-    category: "Apologetiki", date: "Hivi karibuni", title: "Ukuu wa Petro", excerpt: "Kwa nini tuna Papa: urithi wa kitume na ukuu wa Petro.", time: "Dakika 11 kusoma", link: "Soma →"
+    category: "Apologetiki", date: "Septemba 2026", title: "Ukuu wa Petro", excerpt: "Funguo za Ufalme, mwamba na kazi ya kuwaimarisha ndugu: yale ambayo Maandiko yanampa Petro.", time: "Dakika 14 kusoma", link: "Soma →"
   },
   article10: {
     category: "Rasilimali", date: "Mei 2026", title: "Rasilimali Zinazopendekezwa", excerpt: "Uchaguzi wa rasilimali za Kikatoliki ili kuongeza kina katika imani na malezi yako.", time: "Dakika 5 kusoma", link: "Gundua →"
@@ -115,11 +115,102 @@ const translationsSW = {
     },
     "la-primacia-de-pedro": {
       pageTitle: "Ukuu wa Petro | Imani na Akili",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Ukuu wa Petro</h1><p>Uchambuzi wazi kuhusu kwa nini Kanisa Katoliki linamtambua Papa kama mrithi wa Mtakatifu Petro na kiongozi anayeonekana wa umoja wa kanisa.</p><div class="article-meta"><span>Dakika 11 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
-      article: `<p>Ukuu wa Petro ni fundisho muhimu kwa kuelewa muundo wa Kanisa. Yesu alimkabidhi Petro jukumu la kipekee kama mchungaji na mdhamini wa umoja wa mitume.</p><h2>Msingi wa Biblia</h2><p>Katika injili, Kristo anamtangaza Petro kuwa mwamba na kumkabidhi jukumu la kulisha kondoo wake. Agizo hili linaonyesha mamlaka maalum katika uongozi wa jamii ya Kikristo.</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Mathayo 16:18</span>
-                    <blockquote>«<strong class="s-hi">Wewe ndiye Petro, na juu ya mwamba huu nitalijenga Kanisa langu</strong>»</blockquote>
-                </div><h2>Urithi wa kitume</h2><p>Papa ni mrithi wa Mtakatifu Petro katika misheni ya kuwaimarisha ndugu. Uendelevu huu unahakikisha uaminifu kwa amana ya imani na kulinda umoja wa Kanisa.</p><ul><li>Papa wa kwanza alipokea jukumu la mamlaka ya kichungaji.</li><li>Urithi wa kitume unalinda mafundisho na ushirika.</li><li>Papa hufanya kazi kama ishara inayoonekana ya umoja kwa waumini wote.</li></ul><h2>Umoja wa Kanisa</h2><p>Kutambua ukuu wa Petro si uongozi wa kiholela, bali ni njia ya kuliweka Kanisa katika umoja katika imani, matumaini na upendo.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Ukuu wa Petro</h1><p>Kristo alilijenga Kanisa lake juu ya Petro, akampa funguo za Ufalme na kumkabidhi kazi ya kuwaimarisha ndugu zake. Yanayosemwa na Maandiko, kifungu kwa kifungu.</p><div class="article-meta"><span>Dakika 14 kusoma</span><span>Imechapishwa Septemba 2026</span></div><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      article: `<p>Dhidi ya upapa pingamizi lina sura mbili. La kwanza linarudiwa na Waprotestanti wa karibu madhehebu yote, Waadventista na Mashahidi wa Yehova: <em>«Mwamba ni Kristo, si Petro. Petro ni kijiwe tu; mwamba ni imani aliyoikiri.»</em> La pili ni la ulimwengu wa Wainjilisti: <em>«Kanisa la kweli halionekani: halina daraja za uongozi, wala maaskofu, wala papa. Hayo yote yamebuniwa na Roma.»</em></p>
+                <p>Zote mbili zinajibiwa kwa Maandiko. Kwanza, Kanisa limejengwa juu ya nini na nani anashika funguo. Kisha, kama Kanisa hilo lina uongozi na kama lilikuwepo kabla mtu yeyote hajalipanga. Na mwisho, Kristo alimkabidhi nani kazi ya kuwategemeza wengine.</p>
+                <h2>Kristo ni jiwe kuu la pembeni, na kuna msingi<br>Waefeso 2:20-22</h2>
+                <p>Kabla ya kubishana kama Petro ni mwamba, inafaa kuona jinsi Paulo anavyoitumia picha hiyo.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Waefeso 2:20-22</span>
+                    <blockquote>«Mmejengwa juu ya msingi uliowekwa na mitume na manabii, naye <strong>Kristo Yesu mwenyewe ni jiwe kuu la pembeni</strong>. Katika yeye <strong>jengo lote</strong> limeshikamanishwa pamoja, na <strong>linakua</strong> kuwa hekalu takatifu katika Bwana. Katika yeye nanyi pia mnajengwa pamoja kuwa makao ya Mungu kwa njia ya Roho.»</blockquote>
+                </div>
+                <p>Paulo hamshindanishi Kristo na mitume: anawaweka katika jengo lilelile. Kristo ni jiwe kuu la pembeni, lile linalobeba na kunyoosha kila kitu kingine; mitume na manabii ni msingi, na ni msingi ndani yake. Kwamba mitume ni msingi hakumpunguzii Kristo chochote. Na jengo halijakamilika: linakua, huku mawe yakiongezwa juu ya yale ya kwanza. Pingamizi linalazimisha kuchagua kati ya Kristo na mitume. Paulo hachagui.</p>
+                <h2>«Wewe ni Petro»: funguo za Ufalme<br>Mathayo 16:16-19</h2>
+                <p>Kifungu kikuu ni jibu la Yesu kwa ungamo la Petro.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mathayo 16:16-19</span>
+                    <blockquote>«Simoni Petro akajibu, «Wewe ndiwe Kristo, Mwana wa Mungu aliye hai.» Yesu akamwambia, «Heri wewe Simoni mwana wa Yona, kwa sababu hakuna binadamu aliyekufunulia jambo hili, ila Baba yangu aliye mbinguni. Nami nakuambia: <strong class="s-hi">wewe ni Petro, na juu ya mwamba huu nitalijenga Kanisa langu</strong><strong>, na nguvu za kifo hazitaweza kulishinda</strong>. <strong class="s-hi">Nitakupa</strong> <strong>funguo za Ufalme wa mbinguni; lolote utakalolifunga duniani litafungwa mbinguni, na lolote utakalolifungua duniani litafunguliwa mbinguni</strong>.»»</blockquote>
+                </div>
+                <p>Yesu alizungumza Kiaramu, na kwa Kiaramu neno ni moja tu: <em>kefa</em>, mwamba. Injili ya Yohane inahifadhi jina la asili katika mkutano wa kwanza: <em>«Wewe ni Simoni mwana wa Yohane; utaitwa Kefa»</em>, maana yake Petro (Yohane 1:42), na Paulo anaendelea kumwita Kefa katika barua zake. Kwa Kigiriki, <em>petra</em> ni neno la jinsia ya kike na haliwezi kutumika kama jina la mwanamume, kwa hiyo likapewa kiishio cha kiume: <em>Petros</em>. Tofauti kati ya kijiwe na mwamba haimo katika yale aliyosema Yesu. Imo katika sarufi ya mtafsiri.</p>
+                <p>Kisha, funguo. Mathayo anawaandikia Wayahudi, na Myahudi alijua maana ya kupokea funguo kutoka kwa mfalme. Isaya anasimulia: Mungu anatangaza kwamba atamwondoa Shebna, msimamizi wa ikulu, katika cheo chake, na kumweka Eliakimu mahali pake: <em>«Nitaweka begani mwake ufunguo wa nyumba ya Daudi; atakachofungua hakuna atakayefunga, na atakachofunga hakuna atakayefungua»</em> (Isaya 22:22). Ufunguo ulikuwa mamlaka ya mfalme yaliyowekwa mikononi mwa msimamizi, aliyefungua na kufunga kwa jina lake. Yesu anachukua picha hiyo na kumkabidhi Petro, kwa jozi ileile ya vitenzi (kufunga na kufungua) na kwa hakikisho ambalo Eliakimu hakuwa nalo: lolote Petro atakalolifunga duniani limefungwa mbinguni.</p>
+                <p>Na yote yamesemwa kwa umoja. Kufunga na kufungua watapewa baadaye mitume wote (Mathayo 18:18). Funguo, Petro peke yake.</p>
+                <h2>Mawe yaliyo hai: hakuna anayechukua nafasi ya Kristo<br>1 Petro 2:3-8</h2>
+                <p>Anayejibu vizuri zaidi pingamizi kuhusu mwamba ni Petro mwenyewe.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Petro 2:3-8</span>
+                    <blockquote>«…kwa maana mmeonja kwamba <strong>Bwana</strong> ni mwema. Mjieni <strong>yeye, jiwe lililo hai</strong>, lililokataliwa na watu lakini lililochaguliwa na Mungu na lenye thamani mbele yake. <strong>Nanyi pia</strong>, kama <strong>mawe yaliyo hai</strong>, mjengwe kuwa nyumba ya kiroho, mkawe ukuhani mtakatifu wa kutolea dhabihu za kiroho zinazompendeza Mungu kwa njia ya Yesu Kristo. Kwa maana Maandiko yasema: «Tazama, naweka katika Sion jiwe kuu la pembeni, teule na la thamani; na yeyote atakayemwamini hataaibishwa.» Basi kwenu ninyi mnaoamini, jiwe hilo lina thamani; lakini kwa wale wasioamini, «Jiwe walilolikataa waashi limekuwa jiwe kuu la pembeni», na «jiwe la kujikwaa na mwamba wa kuwaangusha.» <strong class="s-hi">Wanajikwaa kwa sababu hawaliamini neno; na hivyo ndivyo walivyowekwa</strong>.»</blockquote>
+                </div>
+                <p>Mtu yule ambaye Kristo alimwita mwamba hajichukulii nafasi ya Kristo. Anamwita Kristo «jiwe lililo hai», jiwe kuu la pembeni lililochaguliwa na Mungu, na waamini wote «mawe yaliyo hai» yanayojengwa juu yake. Maandiko yanatumia picha ya jiwe kwa Kristo, kwa mitume na kwa waamini, kila mmoja mahali pake, na hakuna mahali popote katika Agano Jipya ambapo hilo linaonekana kama mashindano. Petro hashindani na Kristo juu ya nafasi yake: anaionyesha.</p>
+                <p>Na anafunga kwa onyo ambalo halilainishi. Kujikwaa hakumo katika jiwe bali katika kutoliamini neno, na hivyo ndivyo alivyowekwa asiyeamini. Neno hilo, katika Mathayo 16, linasema linalosema.</p>
+                <h2>Nyumba ya Mungu ni Kanisa<br>1 Timotheo 3:15</h2>
+                <p>Paulo anamwandikia Timotheo jinsi inavyopasa kuenenda, na anasema wapi:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Timotheo 3:15</span>
+                    <blockquote>«…ujue jinsi watu wanavyopaswa kuenenda katika <strong>nyumba ya Mungu</strong>, ambayo ni <strong>Kanisa</strong> la Mungu aliye hai, <strong>nguzo na msingi wa ukweli</strong>.»</blockquote>
+                </div>
+                <p>Paulo hasemi kwamba Maandiko ndiyo nguzo na msingi wa ukweli. Anasema ni Kanisa, na analiita nyumba ya Mungu aliye hai. Hakuna la kuongeza, isipokuwa jambo moja: nyumba ina mwenyewe, ina milango, na ina mtu anayetunza funguo.</p>
+                <h2>Nyumba yenye mtu wa kuiongoza<br>1 Timotheo 3:1-5 na 3:8</h2>
+                <p>Mistari michache kabla, Paulo anaeleza ni nani anayeiongoza nyumba hiyo.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Timotheo 3:1-5</span>
+                    <blockquote>«Msemo huu ni wa kweli: Mtu akitamani <strong>kuwa askofu</strong>, anatamani kazi njema. Basi, <strong>askofu</strong> anapaswa kuwa mtu asiye na lawama, mume wa mke mmoja, mwenye kiasi, mwenye busara, mwenye utaratibu, mkarimu, anayeweza kufundisha; asiwe mlevi wala mgomvi, bali mpole, asiwe mpenda ugomvi wala mpenda fedha. <strong>Anapaswa kuiongoza vema</strong> nyumba yake mwenyewe, akiwaweka watoto wake katika utii kwa heshima yote. Kwa maana mtu asiyejua kuiongoza nyumba yake mwenyewe, atawezaje kulitunza Kanisa la Mungu?»</blockquote>
+                </div>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Timotheo 3:8</span>
+                    <blockquote>«Vivyo hivyo, <strong>mashemasi</strong> nao wanapaswa kuwa watu wa heshima, wasio na ndimi mbili, wasiopenda kunywa divai nyingi, wala kutafuta faida ya aibu.»</blockquote>
+                </div>
+                <p>Maneno ya Kigiriki anayotumia Paulo ni <em>episkopé</em> na <em>epískopos</em>: kutoka hapo ndipo linapotoka, herufi kwa herufi, neno askofu. Na <em>diákonos</em> ni shemasi. Kanisa la Kristo lina maaskofu na mashemasi, yaani daraja za uongozi na mamlaka, na Paulo anaweka masharti ya kila cheo. Jumuiya ambayo hakuna anayesimamia wala kuongoza inaweza kuwa na Biblia mkononi na nia njema, lakini haina sura ya Kanisa analolieleza Paulo. Ni kazi ya wanadamu.</p>
+                <p>«Mume wa mke mmoja» kunaweka mpaka, si sharti: kunamwondoa aliyeoa tena, si yule ambaye hakuoa, na Paulo mwenyewe hakuwa ameoa (1 Wakorintho 7:7-8). Ndiyo maana useja wa mapadre ni nidhamu ya Kanisa na si fundisho la imani lisilobadilika. Katika Kanisa la Kilatini mapadre hawaoi na hutoa maisha yao yote kwa Mungu; katika Makanisa Katoliki ya Mashariki kuna mapadre walio na wake, na kila mahali mwanamume aliyeoa anaweza kupewa daraja ya ushemasi.<sup>*</sup></p>
+                <h2>Mbwa mwitu hutoka ndani<br>Matendo 20:29-30</h2>
+                <p>Paulo anaagana na wazee wa Efeso kwa onyo.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matendo 20:29-30</span>
+                    <blockquote>«Najua kwamba baada ya kuondoka kwangu <strong>mbwa mwitu wakali</strong> wataingia kati yenu, wala hawatalihurumia kundi. Hata <strong>kutoka miongoni mwenu wenyewe</strong> watainuka watu <strong>watakaofundisha mambo potovu</strong>, ili wawavute wanafunzi wawafuate wao.»</blockquote>
+                </div>
+                <p>Paulo anatangaza hatari mbili: mbwa mwitu watakaoingia kutoka nje, na watu watakaoinuka kutoka ndani, kutoka miongoni mwa wachungaji wenyewe, wakiwavuta wanafunzi nyuma yao. Hatari ya pili ndiyo ambayo historia iliirudia. Mfarakano wa karne ya kumi na sita haukuanzishwa na wageni: Luther alikuwa mtawa wa Kiagostino na padre, na Zwingli alikuwa padre huko Zürich. Wote wawili walikuwa wamelelewa ndani ya Kanisa ambalo baadaye walitoka. Na onyo hilo linadhania kile ambacho pingamizi linakikana: kundi lenye mipaka, ambalo mtu anaweza kulitoka na ambalo wengine wanaweza kuvutwa nje yake.</p>
+                <h2>Kanisa lilikuwepo tayari, na Saulo alikuwa akilidhulumu<br>Matendo 8:1-3</h2>
+                <p>Kabla ya kuongoka, Paulo alijua vizuri sana Kanisa lilikuwa wapi.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matendo 8:1-3</span>
+                    <blockquote>«<strong><strong class="s-hi">Saulo</strong> naye alikubali kuuawa kwake Stefano. Siku hiyo kukaanza <strong class="s-hi">dhuluma kubwa dhidi ya Kanisa</strong> la Yerusalemu; wote, isipokuwa mitume, wakatawanyika katika sehemu za Yudea na Samaria. Watu wacha Mungu walimzika Stefano na kumwombolezea sana. Lakini <strong class="s-hi">Saulo</strong> alikuwa <strong class="s-hi">akijaribu kuliangamiza Kanisa</strong>; akiingia nyumba kwa nyumba, akawaburuta wanaume na wanawake na kuwatia gerezani.</strong>»</blockquote>
+                </div>
+                <p>Miaka kadhaa kabla ya kuandikwa kwa barua ya kwanza ya Agano Jipya, Kanisa lilikuwa tayari na jina, mji na wadhulumu. Saulo hakuwa akidhulumu wazo wala ushirika usioonekana wa roho: aliingia nyumba kwa nyumba na kuwapeleka gerezani wanaume na wanawake. Mtu hudhulumu kile anachoweza kukipata. Kanisa la Kristo lilikuwepo, lilionekana, na wanachama wake walikuwa na majina na makazi. Roma haikulibuni: Saulo alijua tayari mahali pa kulitafuta.</p>
+                <h2>Kulidhulumu Kanisa ni kumdhulumu Kristo<br>Matendo 9:3-5</h2>
+                <p>Njiani kwenda Damasko, Kristo anamwambia Saulo ni nani aliyekuwa akimdhulumu.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matendo 9:3-5</span>
+                    <blockquote>«Alipokuwa njiani, karibu kufika Damasko, ghafla mwanga kutoka mbinguni ukamwangazia pande zote. Akaanguka chini, akasikia sauti ikimwambia, «Saulo, Saulo, <strong class="s-hi">kwa nini unanidhulumu?</strong>» Naye akauliza, «Ni nani wewe, Bwana?» Sauti ikajibu, «<strong class="s-hi">Mimi ni Yesu ambaye wewe unamdhulumu</strong>.»»</blockquote>
+                </div>
+                <p>Saulo hakuwa amewahi kumwona Yesu wala kumtia mkono. Alikuwa amewafunga Wakristo gerezani. Na Yesu hamwulizi kwa nini anawadhulumu wafuasi wake: anamwuliza kwa nini anamdhulumu yeye. Kristo na Kanisa lake ni kitu kimoja, kiasi kwamba pigo linalompata mmoja linampata na mwingine. Kumtenganisha Kristo na Kanisa lake ni jambo ambalo Kristo mwenyewe hakulikubali njiani kwenda Damasko.</p>
+                <h2>«Uwaimarishe ndugu zako»<br>Luka 22:31-32</h2>
+                <p>Usiku wa Karamu ya Mwisho, Yesu anamwita Petro kwa jina lake.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Luka 22:31-32</span>
+                    <blockquote>«Simoni, Simoni! Sikiliza! Shetani amewadai ninyi ili awapepete kama ngano. Lakini <strong class="s-hi">mimi nimekuombea wewe</strong> ili imani yako isififie; nawe utakapokwisha kurudi, <strong class="s-hi">uwaimarishe ndugu zako</strong>.»</blockquote>
+                </div>
+                <p>Shetani aliwadai wote: «ninyi», kwa wingi. Yesu anasema alimwombea mmoja tu, «wewe», kwa umoja, na yule mmoja anamkabidhi kazi ya kuwaimarisha wengine. Kazi hiyo haipewi aliye na nguvu kuliko wote. Mistari miwili baadaye anamwambia kwamba usiku huohuo atamkana mara tatu. Petro ni mtu dhaifu na mwenye dhambi, na hata hivyo kazi ya kuwaimarisha ndugu zake katika imani anakabidhiwa yeye peke yake. Uthabiti hautoki kwa Petro: unatoka katika sala ya Kristo kwa ajili ya Petro.</p>
+                <h2>Mara tatu: «Lisha kondoo wangu»<br>Yohane 21:15-17</h2>
+                <p>Baada ya ufufuko, ufuoni mwa ziwa, Yesu anarudia kazi ile.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Yohane 21:15-17</span>
+                    <blockquote>«Walipokwisha kula, Yesu akamwuliza Simoni Petro, «Simoni mwana wa Yohane, <strong class="s-hi">je, unanipenda kuliko hawa?</strong>» Akamjibu, «Naam, Bwana; wewe wajua kwamba nakupenda.» Yesu akamwambia, «<strong class="s-hi">Lisha wana-kondoo wangu</strong>.» Akamwuliza tena mara ya pili, «Simoni mwana wa Yohane, je, unanipenda?» Akamjibu, «Naam, Bwana; wewe wajua kwamba nakupenda.» Yesu akamwambia, «<strong class="s-hi">Chunga kondoo wangu</strong>.» Akamwuliza mara ya tatu, «Simoni mwana wa Yohane, je, unanipenda?» Petro akahuzunika kwa sababu alimwuliza mara ya tatu, «Je, unanipenda?» Akamwambia, «Bwana, wewe wajua yote; wewe wajua kwamba nakupenda.» Yesu akamwambia, «<strong class="s-hi">Lisha kondoo wangu</strong>.»»</blockquote>
+                </div>
+                <p>Petro alimkana mara tatu na Yesu anamwuliza mara tatu. Hamlaumu kwa usaliti: anamwomba upendo na, baada ya kila jibu, anamkabidhi kundi. «Kuliko hawa» kunamlinganisha na wanafunzi wengine waliokuwa ufuoni, na kazi ni yake peke yake. Lakini kundi si mali ya Petro. Kristo anasema «wana-kondoo wangu», «kondoo wangu»: Petro anachunga kilicho cha mwingine, kwa kukabidhiwa, kama msimamizi anayetunza funguo za nyumba isiyo yake. Kristo anamchagua mwenye dhambi kuchunga kondoo wake, na nguvu ya kazi hiyo imo kwa yule anayeitoa.</p>
+                <ul>
+                    <li>Kristo ni jiwe kuu la pembeni, na mitume ni msingi ndani yake: Maandiko hayalazimishi kuchagua.</li>
+                    <li>Kwa Kiaramu, Petro na mwamba ni neno moja, <em>kefa</em>.</li>
+                    <li>Funguo ni mamlaka ya mfalme yaliyowekwa mikononi mwa msimamizi wake, na zinapewa Petro peke yake.</li>
+                    <li>Kanisa ni nguzo na msingi wa ukweli, na lina maaskofu na mashemasi wanaoliongoza.</li>
+                    <li>Lilikuwepo na lilidhulumiwa kabla Agano Jipya halijaandikwa, na kulidhulumu ni kumdhulumu Kristo.</li>
+                    <li>Kwa Petro, dhaifu na mwenye dhambi, Kristo anakabidhi kazi ya kuwaimarisha ndugu zake na kulisha kondoo wake.</li>
+                </ul>
+                <h2>Hitimisho</h2>
+                <p>Maandiko hayaweki uchaguzi kati ya Kristo na Petro. Kristo ni jiwe kuu la pembeni na Petro ni mwamba ambao Kristo anajenga juu yake; Kristo ni mwenye nyumba na Petro ndiye anayetunza funguo zake; Kristo ni mchungaji na Petro analisha kondoo wake kwa kukabidhiwa. Kanisa linaloelezwa na vifungu hivi lina msingi, uongozi na mipaka, na lilikuwepo kabla haijaandikwa hata barua moja ya Agano Jipya. Hilo halikubuniwa na Roma. Waliliandika Mathayo, Luka, Paulo na Petro mwenyewe.</p>
+                <p>Katika Isaya ufunguo unapita kutoka kwa Shebna kwenda kwa Eliakimu: msimamizi anabadilika na cheo kinabaki, kwa sababu nyumba ya Daudi bado imesimama. Petro alikufa shahidi huko Roma, na ahadi kwamba nguvu za kifo hazitaweza kulishinda Kanisa haikufa pamoja naye.</p>
+                <div class="article-footnote">
+                    <p><sup>*</sup> Padre Mkatoliki akiamua kwamba anataka kuoa, anaweza kuomba hivyo, lakini hawezi kuamua peke yake. Anapaswa kuomba rasmi ruhusa ya kuondolewa katika wajibu wa useja, ambayo hutolewa na Papa peke yake (Sheria za Kanisa, kan. 291), pamoja na kupoteza hali ya ukleri, inayojulikana kama kurudishwa katika hali ya walei. Akishaipokea, haendelei tena na huduma: haadhimishi Misa, hahubiri wala hatoi sakramenti, na anajitoa kikamilifu kwa maisha yake ya ndoa na familia. Tofauti pekee ni hatari ya kifo, ambapo anaweza kumwondolea dhambi yeyote anayehitaji (kan. 976).</p>
+                    <p>Asichopoteza ni ukuhani. Daraja takatifu huacha alama isiyofutika (kan. 1008): yeye ni kuhani «milele, kwa mfano wa Melkisedeki» (Waebrania 5:6), na Kanisa linatambua kwamba alikuwa padre na anabaki padre. Anachopoteza ni hali ya ukleri pamoja na haki na wajibu wake: hahesabiwi tena kisheria kuwa sehemu ya wakleri, anakuwa mlei mbele ya sheria ya Kanisa, na anaachiwa huru kutoka kwa useja ili aweze kufunga ndoa halali Kanisani.</p>
+                </div>`,
       nav: { prevTitle: "Sheria Mpya katika Kristo", nextTitle: "Ukuhani katika Kanisa Katoliki" }
     },
     "la-santisima-trinidad": {

@@ -47,7 +47,7 @@ const translationsIT = {
     category: "Dottrina", date: "Prossimamente", title: "La nuova legge", excerpt: "La legge di Cristo che sostituisce l'Antica Legge e guida i cristiani.", time: "8 min di lettura", link: "Leggi →"
   },
   article9: {
-    category: "Apologetica", date: "Prossimamente", title: "Il primato di Pietro", excerpt: "Perché abbiamo un Papa: la successione apostolica e il primato di Pietro.", time: "11 min di lettura", link: "Leggi →"
+    category: "Apologetica", date: "Settembre 2026", title: "Il primato di Pietro", excerpt: "Le chiavi del Regno, la pietra e l'incarico di confermare i fratelli: ciò che la Scrittura dà a Pietro.", time: "14 min di lettura", link: "Leggi →"
   },
   article10: {
     category: "Risorse", date: "Maggio 2026", title: "Risorse consigliate", excerpt: "Una selezione di risorse cattoliche per approfondire la tua fede e formazione.", time: "5 min di lettura", link: "Esplora →"
@@ -115,11 +115,102 @@ const translationsIT = {
     },
     "la-primacia-de-pedro": {
       pageTitle: "Il primato di Pietro | Fede e Ragione",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>Il primato di Pietro</h1><p>Un'analisi chiara sul perché la Chiesa cattolica riconosce il Papa come successore di San Pietro e guida visibile dell'unità ecclesiale.</p><div class="article-meta"><span>11 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
-      article: `<p>Il primato di Pietro è un insegnamento essenziale per comprendere la struttura della Chiesa. Gesù ha affidato a Pietro un ruolo unico come pastore e garante dell'unità apostolica.</p><h2>Fondamento biblico</h2><p>Nel Vangelo, Cristo dichiara Pietro come roccia e lo incarica di pascere le sue pecore. Questo mandato riflette un'autorità speciale nella guida della comunità cristiana.</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Matteo 16:18</span>
-                    <blockquote>«<strong class="s-hi">Tu sei Pietro, e su questa pietra edificherò la mia Chiesa</strong>»</blockquote>
-                </div><h2>Successione apostolica</h2><p>Il Papa è il successore di San Pietro nella missione di confermare i fratelli. Questa continuità assicura la fedeltà al deposito della fede e protegge l'unità della Chiesa.</p><ul><li>Il primo Papa ricevette un incarico di autorità pastorale.</li><li>La successione apostolica protegge la dottrina e la comunione.</li><li>Il Papa agisce come segno visibile di unità per tutti i credenti.</li></ul><h2>Unità della Chiesa</h2><p>Riconoscere il primato di Pietro non è una gerarchia arbitraria, ma un modo per mantenere la Chiesa unita nella fede, nella speranza e nell'amore.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>Il primato di Pietro</h1><p>Cristo ha edificato la sua Chiesa su Pietro, gli ha dato le chiavi del Regno e lo ha incaricato di confermare i suoi fratelli. Ciò che dice la Scrittura, passo per passo.</p><div class="article-meta"><span>14 min di lettura</span><span>Pubblicato a settembre 2026</span></div><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
+      article: `<p>Contro il papato l'obiezione ha due forme. La prima la ripetono protestanti di quasi tutte le denominazioni, avventisti e Testimoni di Geova: <em>«La roccia è Cristo, non Pietro. Pietro è appena un sassolino; la roccia è la fede che ha confessato.»</em> La seconda è propria del mondo evangelicale: <em>«La vera Chiesa è invisibile: non ha gerarchia, né vescovi, né papa. Tutto questo l'ha inventato Roma.»</em></p>
+                <p>A tutte e due si risponde con la Scrittura. Prima, su che cosa è edificata la Chiesa e chi ne ha le chiavi. Poi, se quella Chiesa ha un governo e se esisteva prima che qualcuno la organizzasse. Infine, a chi Cristo ha affidato il compito di sostenere gli altri.</p>
+                <h2>Cristo è la pietra d'angolo, e ci sono fondamenta<br>Efesini 2,20-22</h2>
+                <p>Prima di discutere se Pietro sia pietra bisogna vedere come Paolo usa quell'immagine.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Efesini 2,20-22</span>
+                    <blockquote>«…edificati sopra il fondamento degli apostoli e dei profeti, avendo come <strong>pietra d'angolo lo stesso Cristo Gesù</strong>. In lui <strong>tutta la costruzione</strong> <strong>cresce</strong> ben ordinata per essere tempio santo nel Signore; in lui anche voi venite edificati insieme per diventare abitazione di Dio per mezzo dello Spirito.»</blockquote>
+                </div>
+                <p>Paolo non mette Cristo e gli apostoli in concorrenza: li mette nello stesso edificio. Cristo è la pietra d'angolo, quella che regge e allinea tutto il resto; gli apostoli e i profeti sono il fondamento, e lo sono in lui. Che gli apostoli siano fondamento non toglie nulla a Cristo. E l'edificio non è finito: cresce, con pietre che si aggiungono sopra le prime. L'obiezione costringe a scegliere tra Cristo e gli apostoli. Paolo non sceglie.</p>
+                <h2>«Tu sei Pietro»: le chiavi del Regno<br>Matteo 16,16-19</h2>
+                <p>Il passo centrale è la risposta di Gesù alla confessione di Pietro.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matteo 16,16-19</span>
+                    <blockquote>«Rispose Simon Pietro: «Tu sei il Cristo, il Figlio del Dio vivente». E Gesù gli disse: «Beato sei tu, Simone, figlio di Giona, perché né carne né sangue te lo hanno rivelato, ma il Padre mio che è nei cieli. E io a te dico: <strong class="s-hi">tu sei Pietro e su questa pietra edificherò la mia Chiesa</strong><strong> e le potenze degli inferi non prevarranno su di essa</strong>. <strong class="s-hi">A te darò</strong> <strong>le chiavi del regno dei cieli: tutto ciò che legherai sulla terra sarà legato nei cieli, e tutto ciò che scioglierai sulla terra sarà sciolto nei cieli</strong>».»</blockquote>
+                </div>
+                <p>Gesù parlava aramaico, e in aramaico la parola è una sola: <em>kefa</em>, pietra. Il Vangelo di Giovanni conserva il nome originale nel primo incontro: <em>«Tu sei Simone, il figlio di Giovanni; sarai chiamato Cefa»</em>, che significa Pietro (Gv 1,42), e Paolo continua a chiamarlo Cefa nelle sue lettere. In greco <em>petra</em> è una parola femminile e non può servire da nome di uomo, così le fu data la desinenza maschile: <em>Petros</em>. La differenza tra sassolino e roccia non sta in ciò che Gesù ha detto. Sta nella grammatica del traduttore. L'italiano, del resto, conserva intatto il gioco di parole: Pietro, e questa pietra.</p>
+                <p>Poi, le chiavi. Matteo scrive per ebrei, e un ebreo sapeva che cosa significasse ricevere le chiavi da un re. Isaia lo racconta: Dio annuncia che toglierà dal suo incarico Sebna, il maggiordomo del palazzo, e metterà al suo posto Eliakìm: <em>«Gli porrò sulla spalla la chiave della casa di Davide: se egli apre, nessuno chiuderà; se egli chiude, nessuno potrà aprire»</em> (Is 22,22). La chiave era l'autorità del re posta nelle mani di un amministratore, che apriva e chiudeva a suo nome. Gesù riprende quell'immagine e la consegna a Pietro, con la stessa coppia di verbi (legare e sciogliere, aprire e chiudere) e con una garanzia che Eliakìm non aveva: ciò che Pietro lega sulla terra resta legato nei cieli.</p>
+                <p>E tutto è detto al singolare. Legare e sciogliere lo riceveranno più avanti tutti gli apostoli (Mt 18,18). Le chiavi, soltanto Pietro.</p>
+                <h2>Pietre vive: nessuno toglie il posto a Cristo<br>1 Pietro 2,3-8</h2>
+                <p>Chi risponde meglio all'obiezione della roccia è Pietro stesso.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Pietro 2,3-8</span>
+                    <blockquote>«…se davvero avete gustato che buono è <strong>il Signore</strong>. Avvicinandovi <strong>a lui, pietra viva</strong>, rifiutata dagli uomini ma scelta e preziosa davanti a Dio, quali <strong>pietre vive</strong> siete costruiti <strong>anche voi</strong> come edificio spirituale, per un sacerdozio santo e per offrire sacrifici spirituali graditi a Dio, mediante Gesù Cristo. Si legge infatti nella Scrittura: Ecco, io pongo in Sion una pietra d'angolo, scelta, preziosa, e chi crede in essa non resterà deluso. Onore dunque a voi che credete; ma per quelli che non credono la pietra che i costruttori hanno scartato è diventata pietra d'angolo e sasso d'inciampo, pietra di scandalo. <strong class="s-hi">Essi v'inciampano perché non obbediscono alla Parola. A questo erano destinati</strong>.»</blockquote>
+                </div>
+                <p>L'uomo che Cristo chiamò pietra non si attribuisce il posto di Cristo. Chiama Cristo «pietra viva», la pietra d'angolo scelta da Dio, e tutti i credenti «pietre vive» edificate su di essa. La Scrittura usa l'immagine della pietra per Cristo, per gli apostoli e per i fedeli, ciascuno al suo posto, e in nessuna pagina del Nuovo Testamento questo appare come una rivalità. Pietro non contende a Cristo il posto: lo indica.</p>
+                <p>E chiude con un avvertimento che non addolcisce. L'inciampo non sta nella pietra ma nel non obbedire alla Parola, e a questo è destinato chi non crede. La Parola, in Matteo 16, dice quello che dice.</p>
+                <h2>La casa di Dio è la Chiesa<br>1 Timoteo 3,15</h2>
+                <p>Paolo scrive a Timoteo come ci si deve comportare, e dice dove:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Timoteo 3,15</span>
+                    <blockquote>«…perché tu sappia come comportarti nella <strong>casa di Dio</strong>, che è <strong>la Chiesa</strong> del Dio vivente, <strong>colonna e sostegno della verità</strong>.»</blockquote>
+                </div>
+                <p>Paolo non dice che la Scrittura sia la colonna e il sostegno della verità. Dice che lo è la Chiesa, e la chiama casa del Dio vivente. Non c'è altro da aggiungere, tranne una cosa: una casa ha un padrone, ha delle porte e ha qualcuno che custodisce le chiavi.</p>
+                <h2>Una casa con chi la governi<br>1 Timoteo 3,1-5 e 3,8</h2>
+                <p>Poche righe prima, Paolo descrive chi governa quella casa.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Timoteo 3,1-5</span>
+                    <blockquote>«Questa parola è degna di fede: se uno aspira <strong>all'episcopato</strong>, desidera un nobile lavoro. Bisogna dunque che <strong>il vescovo</strong> sia irreprensibile, marito di una sola donna, sobrio, prudente, dignitoso, ospitale, capace di insegnare, non dedito al vino, non violento ma benevolo, non litigioso, non attaccato al denaro. <strong>Sappia guidare bene</strong> la propria famiglia e abbia figli sottomessi e rispettosi, perché, se uno non sa guidare la propria famiglia, come potrà aver cura della Chiesa di Dio?»</blockquote>
+                </div>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Timoteo 3,8</span>
+                    <blockquote>«Allo stesso modo <strong>i diaconi</strong> siano persone degne, non doppi nel parlare, non dediti al molto vino né avidi di guadagni disonesti…»</blockquote>
+                </div>
+                <p>Le parole greche che Paolo usa sono <em>episkopé</em> ed <em>epískopos</em>: da lì viene, lettera per lettera, la parola vescovo. E <em>diákonos</em> è diacono. La Chiesa di Cristo ha vescovi e diaconi, cioè gerarchia e autorità, e Paolo fissa i requisiti di ciascun incarico. Una comunità dove nessuno presiede né governa potrà avere la Bibbia in mano e buona volontà, ma non ha la forma della Chiesa che Paolo descrive. È un'opera di uomini.</p>
+                <p>Il «marito di una sola donna» pone un limite, non un obbligo: esclude chi si è risposato, non chi non si è sposato, e Paolo stesso non era sposato (1 Cor 7,7-8). Per questo il celibato dei sacerdoti è una disciplina della Chiesa e non un dogma. Nella Chiesa latina i sacerdoti non si sposano e danno tutta la vita a Dio; nelle Chiese cattoliche orientali ci sono sacerdoti sposati, e ovunque un uomo sposato può essere ordinato diacono.<sup>*</sup></p>
+                <h2>I lupi vengono da dentro<br>Atti 20,29-30</h2>
+                <p>Paolo si congeda dagli anziani di Efeso con un avvertimento.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Atti 20,29-30</span>
+                    <blockquote>«Io so che dopo la mia partenza verranno fra voi <strong>lupi rapaci</strong>, che non risparmieranno il gregge; perfino <strong>in mezzo a voi</strong> sorgeranno alcuni a parlare di <strong>cose perverse</strong>, per attirare i discepoli dietro di sé.»</blockquote>
+                </div>
+                <p>Paolo annuncia due minacce: i lupi che entreranno da fuori e gli uomini che sorgeranno da dentro, di mezzo agli stessi pastori, trascinando discepoli dietro di sé. La seconda è quella che la storia ha ripetuto. La rottura del XVI secolo non l'hanno cominciata degli estranei: Lutero era frate agostiniano e sacerdote, e Zwingli era sacerdote a Zurigo. Tutti e due si erano formati nella Chiesa che poi lasciarono. E l'avvertimento presuppone ciò che l'obiezione nega: un gregge con dei confini, da cui si può uscire e fuori dal quale si possono trascinare altri.</p>
+                <h2>La Chiesa esisteva già, e Saulo la perseguitava<br>Atti 8,1-3</h2>
+                <p>Prima di convertirsi, Paolo sapeva molto bene dove fosse la Chiesa.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Atti 8,1-3</span>
+                    <blockquote>«<strong><strong class="s-hi">Saulo</strong> approvava la sua uccisione. In quel giorno scoppiò <strong class="s-hi">una violenta persecuzione contro la Chiesa</strong> di Gerusalemme; tutti, ad eccezione degli apostoli, si dispersero nelle regioni della Giudea e della Samaria. Uomini pii seppellirono Stefano e fecero un grande lutto per lui. <strong class="s-hi">Saulo</strong> intanto <strong class="s-hi">cercava di distruggere la Chiesa</strong>: entrava nelle case, prendeva uomini e donne e li faceva mettere in carcere.</strong>»</blockquote>
+                </div>
+                <p>Anni prima che fosse scritta la prima lettera del Nuovo Testamento, la Chiesa aveva già un nome, una città e dei persecutori. Saulo non perseguitava un'idea né una comunione invisibile di anime: entrava nelle case e portava in carcere uomini e donne. Si perseguita ciò che si può trovare. La Chiesa di Cristo esisteva, era visibile, e i suoi membri avevano nome e indirizzo. Roma non l'ha inventata: Saulo sapeva già dove cercarla.</p>
+                <h2>Perseguitare la Chiesa è perseguitare Cristo<br>Atti 9,3-5</h2>
+                <p>Sulla via di Damasco, Cristo dice a Saulo chi stava perseguitando.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Atti 9,3-5</span>
+                    <blockquote>«E avvenne che, mentre era in viaggio e stava per avvicinarsi a Damasco, all'improvviso lo avvolse una luce dal cielo e, cadendo a terra, udì una voce che gli diceva: «Saulo, Saulo, <strong class="s-hi">perché mi perseguiti?</strong>». Rispose: «Chi sei, o Signore?». Ed egli: «<strong class="s-hi">Io sono Gesù, che tu perseguiti!</strong>».»</blockquote>
+                </div>
+                <p>Saulo non aveva mai visto Gesù né gli aveva messo le mani addosso. Aveva imprigionato dei cristiani. E Gesù non gli chiede perché perseguiti i suoi seguaci: gli chiede perché perseguiti lui. Cristo e la sua Chiesa sono una cosa sola, al punto che il colpo ricevuto dall'una lo riceve l'altro. Separare Cristo dalla sua Chiesa è un'operazione che Cristo stesso non accettò sulla via di Damasco.</p>
+                <h2>«Conferma i tuoi fratelli»<br>Luca 22,31-32</h2>
+                <p>La notte dell'Ultima Cena, Gesù si rivolge a Pietro chiamandolo per nome.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Luca 22,31-32</span>
+                    <blockquote>«Simone, Simone, ecco: Satana vi ha cercati per vagliarvi come il grano; ma <strong class="s-hi">io ho pregato per te</strong>, perché la tua fede non venga meno. E tu, una volta convertito, <strong class="s-hi">conferma i tuoi fratelli</strong>.»</blockquote>
+                </div>
+                <p>Satana li ha cercati tutti: «vi», al plurale. Gesù dice di aver pregato per uno solo, «per te», al singolare, e a quell'uno affida il compito di confermare gli altri. L'incarico non lo dà al più forte. Due versetti dopo gli annuncia che quella stessa notte lo rinnegherà tre volte. Pietro è un uomo debole e peccatore, e tuttavia il compito di confermare i suoi fratelli nella fede è affidato a lui solo. La fermezza non viene da Pietro: viene dalla preghiera di Cristo per Pietro.</p>
+                <h2>Tre volte: «Pasci»<br>Giovanni 21,15-17</h2>
+                <p>Dopo la risurrezione, sulla riva del lago, Gesù torna su quell'incarico.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Giovanni 21,15-17</span>
+                    <blockquote>«Quand'ebbero mangiato, Gesù disse a Simon Pietro: «Simone, figlio di Giovanni, <strong class="s-hi">mi ami più di costoro?</strong>». Gli rispose: «Certo, Signore, tu lo sai che ti voglio bene». Gli disse: «<strong class="s-hi">Pasci i miei agnelli</strong>». Gli disse di nuovo, per la seconda volta: «Simone, figlio di Giovanni, mi ami?». Gli rispose: «Certo, Signore, tu lo sai che ti voglio bene». Gli disse: «<strong class="s-hi">Pascola le mie pecore</strong>». Gli disse per la terza volta: «Simone, figlio di Giovanni, mi vuoi bene?». Pietro rimase addolorato che per la terza volta gli domandasse: «Mi vuoi bene?», e gli disse: «Signore, tu conosci tutto; tu sai che ti voglio bene». Gli rispose Gesù: «<strong class="s-hi">Pasci le mie pecore</strong>».»</blockquote>
+                </div>
+                <p>Pietro lo rinnegò tre volte e Gesù lo interroga tre volte. Non gli rimprovera il tradimento: gli chiede amore e, dopo ogni risposta, gli consegna il gregge. «Più di costoro» lo confronta con gli altri discepoli presenti sulla riva, e l'incarico è per lui solo. Ma il gregge non è di Pietro. Cristo dice «i miei agnelli», «le mie pecore»: Pietro pasce ciò che è di un altro, per incarico, come il maggiordomo che custodisce le chiavi di una casa che non è sua. Cristo sceglie un peccatore per pascere le sue pecore, e la forza dell'incarico sta in chi lo dà.</p>
+                <ul>
+                    <li>Cristo è la pietra d'angolo, e gli apostoli sono fondamento in lui: la Scrittura non costringe a scegliere.</li>
+                    <li>In aramaico Pietro e la pietra sono la stessa parola, <em>kefa</em>.</li>
+                    <li>Le chiavi sono l'autorità del re posta nelle mani del suo maggiordomo, e sono date soltanto a Pietro.</li>
+                    <li>La Chiesa è colonna e sostegno della verità, e ha vescovi e diaconi che la governano.</li>
+                    <li>Esisteva ed era perseguitata prima che si scrivesse il Nuovo Testamento, e perseguitarla è perseguitare Cristo.</li>
+                    <li>A Pietro, debole e peccatore, Cristo affida il compito di confermare i fratelli e di pascere le sue pecore.</li>
+                </ul>
+                <h2>Conclusione</h2>
+                <p>La Scrittura non pone la scelta tra Cristo e Pietro. Cristo è la pietra d'angolo e Pietro la pietra su cui Cristo edifica; Cristo è il padrone di casa e Pietro colui che ne custodisce le chiavi; Cristo è il pastore e Pietro pasce le sue pecore per incarico. La Chiesa che questi passi descrivono ha fondamenta, governo e confini, ed esisteva prima che si scrivesse una sola lettera del Nuovo Testamento. Questo non l'ha inventato Roma. L'hanno scritto Matteo, Luca, Paolo e Pietro stesso.</p>
+                <p>In Isaia la chiave passa da Sebna a Eliakìm: cambia il maggiordomo e l'incarico resta, perché la casa di Davide rimane in piedi. Pietro morì martire a Roma, e la promessa che le potenze degli inferi non avrebbero prevalso sulla Chiesa non morì con lui.</p>
+                <div class="article-footnote">
+                    <p><sup>*</sup> Se un sacerdote cattolico decide di volersi sposare, può chiederlo, ma non può deciderlo da sé. Deve chiedere formalmente la dispensa dal celibato, che concede soltanto il Papa (Codice di Diritto Canonico, can. 291), insieme alla perdita dello stato clericale, nota come riduzione allo stato laicale. Una volta ricevuta, non esercita più il ministero: non celebra la Messa, non predica e non amministra i sacramenti, e si dedica interamente alla sua vita coniugale e familiare. L'unica eccezione è il pericolo di morte, nel quale può assolvere chiunque ne abbia bisogno (can. 976).</p>
+                    <p>Ciò che non perde è il sacerdozio. L'ordinazione imprime un carattere indelebile (can. 1008): è sacerdote «per sempre, secondo l'ordine di Melchìsedek» (Ebrei 5,6), e la Chiesa riconosce che sacerdote fu e sacerdote rimane. Ciò che perde è lo stato clericale, con i suoi diritti e doveri: cessa di appartenere giuridicamente al clero, diventa un laico davanti alla legge della Chiesa ed è libero dal celibato per potersi sposare validamente in Chiesa.</p>
+                </div>`,
       nav: { prevTitle: "La nuova legge in Cristo", nextTitle: "Il Sacerdozio nella Chiesa Cattolica" }
     },
     "la-santisima-trinidad": {

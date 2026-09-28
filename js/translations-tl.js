@@ -88,10 +88,10 @@ const translationsTL = {
   },
   article9: {
     category: "Apologetika",
-    date: "Paparating na",
+    date: "Setyembre 2026",
     title: "Ang Pangunguna ni Pedro",
-    excerpt: "Bakit mayroon tayong Papa: ang apostolikong paghalili at ang pangunguna ni Pedro.",
-    time: "11 minuto",
+    excerpt: "Ang mga susi ng Kaharian, ang bato at ang tungkuling patatagin ang mga kapatid: ang ibinibigay ng Kasulatan kay Pedro.",
+    time: "14 minuto",
     link: "Basahin →"
   },
   article10: {
@@ -290,28 +290,107 @@ const translationsTL = {
                 <span class="eyebrow-text">Espesyal na Paksa</span>
             </div>
             <h1>Ang Pangunguna ni Pedro</h1>
-            <p>Isang malinaw na pagsusuri kung bakit kinikilala ng Simbahang Katoliko ang Papa bilang kahalili ni San Pedro at nakikitang gabay ng pagkakaisa ng simbahan.</p>
+            <p>Itinayo ni Cristo ang kanyang Simbahan kay Pedro, ibinigay sa kanya ang mga susi ng Kaharian at ipinagkatiwala sa kanya ang pagpapatatag sa kanyang mga kapatid. Ang sinasabi ng Kasulatan, bawat talata.</p>
             <div class="article-meta">
-                <span>11 minutong pagbabasa</span>
-                <span>Nailathala Mayo 2026</span>
+                <span>14 minutong pagbabasa</span>
+                <span>Nailathala Setyembre 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
-      article: `<p>Ang pangunguna ni Pedro ay isang mahalagang turo para maunawaan ang istraktura ng Simbahan. Ipinagkatiwala ni Hesus kay Pedro ang natatanging papel bilang pastol at tagagarantiya ng apostolikong pagkakaisa.</p>
-                <h2>Pundasyon ng Bibliya</h2>
-                <p>Sa Ebanghelyo, ipinahayag ni Kristo si Pedro bilang bato at ipinagkatiwala sa kanya ang pag-alagaan ang Kanyang mga tupa. Ang utos na ito ay nagpapakita ng espesyal na awtoridad sa pamumuno ng Kristiyanong komunidad.</p>
+      article: `<p>Laban sa pagkapapa, dalawa ang anyo ng pagtutol. Ang una ay inuulit ng mga Protestante ng halos lahat ng denominasyon, ng mga Adventist at ng mga Saksi ni Jehova: <em>"Si Cristo ang bato, hindi si Pedro. Maliit na bato lamang si Pedro; ang bato ay ang pananampalatayang ipinahayag niya."</em> Ang ikalawa ay likas sa mundo ng mga ebanghelikal: <em>"Hindi nakikita ang tunay na Simbahan: wala itong herarkiya, walang obispo at walang papa. Imbento lahat iyan ng Roma."</em></p>
+                <p>Kapwa sinasagot ang mga ito ng Kasulatan. Una, kung saan nakatayo ang Simbahan at kung sino ang may hawak ng mga susi. Ikalawa, kung may pamamahala ang Simbahang iyon at kung umiiral na ito bago pa may nag-organisa nito. At panghuli, kung kanino ipinagkatiwala ni Cristo ang tungkuling alalayan ang iba.</p>
+                <h2>Si Cristo ang batong-panulukan, at may mga saligan<br>Efeso 2:20-22</h2>
+                <p>Bago pagtalunan kung bato si Pedro, kailangang tingnan kung paano ginagamit ni Pablo ang larawang iyon.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Mateo 16:18</span>
-                    <blockquote>«<strong class="s-hi">Ikaw ay Pedro, at sa ibabaw ng batong ito ay itatayo ko ang aking Simbahan</strong>»</blockquote>
+                    <span class="scripture-ref">✝ Efeso 2:20-22</span>
+                    <blockquote>«Kayo'y itinayo sa saligang inilagay ng mga apostol at ng mga propeta, at <strong>si Cristo Jesus mismo ang batong-panulukan</strong>. Sa pamamagitan niya, <strong>ang buong gusali</strong> ay pinagdudugtong-dugtong at <strong>lumalaki</strong> upang maging isang banal na templo ng Panginoon. Dahil din sa kanya, kayo'y kasama sa pagtatayo upang maging tahanan ng Diyos sa pamamagitan ng Espiritu.»</blockquote>
                 </div>
-                <h2>Apostolikong paghalili</h2>
-                <p>Ang Papa ay kahalili ni Pedro sa misyon ng pagpapatibay sa mga kapatid. Ang pagpapatuloy na ito ay tinitiyak ang katapatan sa deposito ng pananampalataya at pinoprotektahan ang pagkakaisa ng Simbahan.</p>
+                <p>Hindi pinaglalaban ni Pablo si Cristo at ang mga apostol: inilalagay niya sila sa iisang gusali. Si Cristo ang batong-panulukan, ang batong sumusuporta at nagtutuwid sa lahat ng iba; ang mga apostol at mga propeta ang saligan, at saligan sila sa kanya. Walang nababawas kay Cristo dahil saligan ang mga apostol. At hindi pa tapos ang gusali: lumalaki ito, habang may mga batong idinaragdag sa ibabaw ng mga una. Pinipilit ng pagtutol na pumili sa pagitan ni Cristo at ng mga apostol. Hindi pumipili si Pablo.</p>
+                <h2>"Ikaw ay Pedro": ang mga susi ng Kaharian<br>Mateo 16:16-19</h2>
+                <p>Ang pangunahing talata ay ang sagot ni Jesus sa pagpapahayag ni Pedro.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mateo 16:16-19</span>
+                    <blockquote>«Sumagot si Simon Pedro, "Kayo po ang Cristo, ang Anak ng Diyos na buháy." Sinabi naman sa kanya ni Jesus, "Pinagpala ka, Simon, anak ni Jonas! Sapagkat ang katotohanang ito'y hindi inihayag sa iyo ng tao kundi ng aking Amang nasa langit. At sinasabi ko sa iyo, <strong class="s-hi">ikaw ay Pedro, at sa ibabaw ng batong ito ay itatayo ko ang aking iglesya</strong><strong>, at hindi mananaig sa kanya kahit ang kapangyarihan ng kamatayan</strong>. <strong class="s-hi">Ibibigay ko sa iyo</strong> <strong>ang mga susi ng kaharian ng langit. Ang ipagbawal mo sa lupa ay ipagbabawal sa langit, at ang ipahintulot mo sa lupa ay ipahihintulot sa langit</strong>."»</blockquote>
+                </div>
+                <p>Aramaiko ang wika ni Jesus, at sa Aramaiko iisa lamang ang salita: <em>kefa</em>, bato. Iniingatan ng Ebanghelyo ni Juan ang orihinal na pangalan sa unang pagtatagpo: <em>"Ikaw si Simon na anak ni Juan. Tatawagin kang Cefas"</em>, na ang ibig sabihin ay Pedro (Juan 1:42), at patuloy siyang tinatawag ni Pablo na Cefas sa kanyang mga sulat. Sa Griyego, pambabaeng salita ang <em>petra</em> at hindi magagamit na pangalan ng lalaki, kaya binigyan ito ng panlalaking hulapi: <em>Petros</em>. Wala sa sinabi ni Jesus ang pagkakaiba ng maliit na bato at malaking bato. Nasa balarila ito ng tagasalin.</p>
+                <p>Ikalawa, ang mga susi. Para sa mga Judio sumulat si Mateo, at alam ng isang Judio kung ano ang kahulugan ng pagtanggap ng mga susi mula sa isang hari. Isinasalaysay ito ni Isaias: ipinahahayag ng Diyos na aalisin niya sa tungkulin si Sebna, ang katiwala ng palasyo, at ilalagay sa kanyang puwesto si Eliakim: <em>"Ipapasan ko sa kanyang balikat ang susi ng sambahayan ni David; ang kanyang buksan ay walang makapagsasara, at ang kanyang isara ay walang makapagbubukas"</em> (Isaias 22:22). Ang susi ay ang kapangyarihan ng hari na inilagay sa kamay ng isang katiwala, na nagbubukas at nagsasara sa kanyang pangalan. Kinukuha ni Jesus ang larawang iyon at iniaabot kay Pedro, sa parehong pares ng pandiwa (magbawal at magpahintulot, magbukas at magsara) at may garantiyang wala kay Eliakim: ang ipagbawal ni Pedro sa lupa ay ipagbabawal sa langit.</p>
+                <p>At lahat ng ito ay sinabi sa isahan. Ang magbawal at magpahintulot ay tatanggapin kalaunan ng lahat ng apostol (Mateo 18:18). Ang mga susi, si Pedro lamang.</p>
+                <h2>Mga batong buháy: walang umaagaw sa lugar ni Cristo<br>1 Pedro 2:3-8</h2>
+                <p>Ang pinakamahusay na sumasagot sa pagtutol tungkol sa bato ay si Pedro mismo.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Pedro 2:3-8</span>
+                    <blockquote>«…sapagkat natikman na ninyo ang kabutihan ng <strong>Panginoon</strong>. Lumapit kayo <strong>sa kanya, ang batong buháy</strong> na itinakwil ng mga tao ngunit pinili ng Diyos at mahalaga sa kanyang paningin. <strong>Kayo rin</strong>, bilang mga <strong>batong buháy</strong>, ay itayo bilang isang espirituwal na tahanan, upang maging banal na mga pari na maghahandog ng mga espirituwal na handog na kalugud-lugod sa Diyos sa pamamagitan ni Jesu-Cristo. Sapagkat sinasabi sa kasulatan, "Tingnan ninyo, inilalagay ko sa Zion ang isang batong-panulukang pinili at mahalaga, at ang sinumang sumasampalataya sa kanya ay hindi mapapahiya." Kaya't para sa inyo na sumasampalataya, siya'y mahalaga; ngunit para sa mga hindi sumasampalataya, "Ang batong itinakwil ng mga tagapagtayo ang siyang naging batong-panulukan," at "Isang batong katitisuran, at malaking batong kabubuwalan." <strong class="s-hi">Natisod sila sapagkat hindi nila sinunod ang salita ng Diyos, at iyan ang itinakda para sa kanila</strong>.»</blockquote>
+                </div>
+                <p>Hindi inaangkin ng taong tinawag ni Cristo na bato ang lugar ni Cristo. Tinatawag niya si Cristo na "batong buháy", ang batong-panulukang pinili ng Diyos, at ang lahat ng sumasampalataya na "mga batong buháy" na itinatayo sa ibabaw nito. Ginagamit ng Kasulatan ang larawan ng bato para kay Cristo, sa mga apostol at sa mga mananampalataya, bawat isa sa kanyang lugar, at wala saanman sa Bagong Tipan na lumilitaw ito bilang tunggalian. Hindi inaagawan ni Pedro si Cristo ng lugar: itinuturo niya ito.</p>
+                <p>At nagtatapos siya sa isang babalang hindi niya pinalalambot. Wala sa bato ang pagkatisod kundi sa hindi pagsunod sa salita ng Diyos, at iyan ang itinakda sa hindi sumasampalataya. Ang salita ng Diyos, sa Mateo 16, ay nagsasabi ng sinasabi nito.</p>
+                <h2>Ang sambahayan ng Diyos ay ang Simbahan<br>1 Timoteo 3:15</h2>
+                <p>Isinusulat ni Pablo kay Timoteo kung paano dapat kumilos, at sinasabi kung saan:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Timoteo 3:15</span>
+                    <blockquote>«…malalaman mo kung paano dapat kumilos sa <strong>sambahayan ng Diyos</strong>, na siyang <strong>iglesya</strong> ng Diyos na buháy, <strong>ang haligi at saligan ng katotohanan</strong>.»</blockquote>
+                </div>
+                <p>Hindi sinasabi ni Pablo na ang Kasulatan ang haligi at saligan ng katotohanan. Sinasabi niyang ang Simbahan iyon, at tinatawag niya itong sambahayan ng Diyos na buháy. Wala nang maidaragdag pa, maliban sa isang bagay: ang isang bahay ay may may-ari, may mga pinto, at may nag-iingat ng mga susi.</p>
+                <h2>Isang bahay na may namamahala<br>1 Timoteo 3:1-5 at 3:8</h2>
+                <p>Ilang linya bago nito, inilalarawan ni Pablo kung sino ang namamahala sa bahay na iyon.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Timoteo 3:1-5</span>
+                    <blockquote>«Totoo ang kasabihang ito: Kung may nagnanais na <strong>maging obispo</strong>, isang marangal na gawain ang kanyang hinahangad. Kaya't <strong>ang obispo</strong> ay dapat walang kapintasan, iisa ang asawa, mapagpigil sa sarili, matino ang isip, kagalang-galang, bukas ang tahanan sa mga panauhin, at mahusay magturo. Hindi siya dapat lasenggo o basag-ulo, kundi mahinahon at hindi palaaway, at hindi maibigin sa salapi. <strong>Dapat ay mahusay siyang mamahala</strong> sa sariling sambahayan at iginagalang at sinusunod ng kanyang mga anak. Sapagkat kung hindi siya marunong mamahala sa sariling sambahayan, paano niya mapangangalagaan ang iglesya ng Diyos?»</blockquote>
+                </div>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Timoteo 3:8</span>
+                    <blockquote>«Gayundin naman, <strong>ang mga diyakono</strong> ay dapat kagalang-galang, tapat magsalita, hindi malakas uminom ng alak, at hindi sakim sa salapi.»</blockquote>
+                </div>
+                <p>Ang mga salitang Griyego na ginagamit ni Pablo ay <em>episkopé</em> at <em>epískopos</em>: dito nagmula, titik sa titik, ang salitang obispo. At ang <em>diákonos</em> ay diyakono. May mga obispo at diyakono ang Simbahan ni Cristo, ibig sabihin ay herarkiya at kapangyarihan, at itinatakda ni Pablo ang mga katangiang kailangan sa bawat tungkulin. Ang isang pamayanang walang namumuno at walang namamahala ay maaaring may hawak na Biblia at mabuting kalooban, ngunit wala itong anyo ng Simbahang inilalarawan ni Pablo. Gawa ito ng tao.</p>
+                <p>Ang "iisa ang asawa" ay naglalagay ng hangganan, hindi ng obligasyon: hindi kasama rito ang muling nag-asawa, hindi ang hindi nag-asawa, at si Pablo mismo ay walang asawa (1 Corinto 7:7-8). Kaya ang pagkabinata ng mga pari ay isang disiplina ng Simbahan at hindi isang dogma. Sa Simbahang Latino, hindi nag-aasawa ang mga pari at inaalay nila ang buong buhay nila sa Diyos; sa mga Simbahang Katoliko ng Silangan ay may mga paring may asawa, at saanman ay maaaring ordenahang diyakono ang isang lalaking may asawa.<sup>*</sup></p>
+                <h2>Mula sa loob nanggagaling ang mga lobo<br>Mga Gawa 20:29-30</h2>
+                <p>Nagpapaalam si Pablo sa matatanda ng Efeso sa pamamagitan ng isang babala.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mga Gawa 20:29-30</span>
+                    <blockquote>«Alam kong pag-alis ko'y may darating na <strong>mababangis na lobo</strong> na papasok sa inyong kalagitnaan, at hindi nila patatawarin ang kawan. At <strong>mula rin sa inyong mga sarili</strong> ay may lilitaw na mga taong <strong>magtuturo ng mga kasinungalingan</strong> upang mahikayat ang mga alagad na sumunod sa kanila.»</blockquote>
+                </div>
+                <p>Dalawang panganib ang ipinahahayag ni Pablo: ang mga lobong papasok mula sa labas, at ang mga taong lilitaw mula sa loob, mula mismo sa mga pastol, na hihila ng mga alagad sa likuran nila. Ang ikalawa ang inulit ng kasaysayan. Hindi mga dayuhan ang nagsimula ng pagkakahati noong ika-16 na siglo: si Luther ay isang prayleng Agustino at pari, at si Zwingli ay pari sa Zürich. Kapwa sila hinubog sa Simbahang iniwan nila pagkatapos. At ipinapalagay ng babala ang itinatanggi ng pagtutol: isang kawang may hangganan, na maaaring lisanin at kung saan maaaring hilahin palabas ang iba.</p>
+                <h2>Umiiral na ang Simbahan, at inuusig ito ni Saulo<br>Mga Gawa 8:1-3</h2>
+                <p>Bago siya nagbalik-loob, alam na alam ni Pablo kung nasaan ang Simbahan.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mga Gawa 8:1-3</span>
+                    <blockquote>«<strong>At sang-ayon si <strong class="s-hi">Saulo</strong> sa pagpatay kay Esteban. Nang araw ding iyon ay nagsimula ang isang <strong class="s-hi">mahigpit na pag-uusig laban sa iglesya</strong> sa Jerusalem, at maliban sa mga apostol, ang lahat ay nagkawatak-watak sa buong lupain ng Judea at Samaria. Inilibing ng ilang taong may takot sa Diyos si Esteban at labis nila itong ipinagluksa. Ngunit <strong class="s-hi">sinikap ni Saulo na wasakin ang iglesya</strong>; pinasok niya ang bawat bahay at kinaladkad ang mga lalaki at mga babae at ipinabilanggo.</strong>»</blockquote>
+                </div>
+                <p>Ilang taon bago naisulat ang unang sulat ng Bagong Tipan, may pangalan na ang Simbahan, may lungsod at may mga umuusig. Hindi isang ideya o isang hindi nakikitang pagkakaisa ng mga kaluluwa ang inuusig ni Saulo: pinapasok niya ang bawat bahay at ipinabibilanggo ang mga lalaki at mga babae. Ang inuusig ay ang natatagpuan. Umiiral ang Simbahan ni Cristo, nakikita ito, at may pangalan at tirahan ang mga kasapi nito. Hindi ito inimbento ng Roma: alam na ni Saulo kung saan ito hahanapin.</p>
+                <h2>Ang pag-usig sa Simbahan ay pag-usig kay Cristo<br>Mga Gawa 9:3-5</h2>
+                <p>Sa daan patungong Damasco, sinasabi ni Cristo kay Saulo kung sino ang inuusig nito.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mga Gawa 9:3-5</span>
+                    <blockquote>«Nang malapit na siya sa Damasco, biglang kumislap sa paligid niya ang isang liwanag mula sa langit. Siya'y nabuwal sa lupa at narinig niya ang isang tinig na nagsasabi sa kanya, "Saulo, Saulo! <strong class="s-hi">Bakit mo ako inuusig?</strong>" "Sino po kayo, Panginoon?" tanong niya. "<strong class="s-hi">Ako si Jesus na iyong inuusig</strong>," tugon ng tinig.»</blockquote>
+                </div>
+                <p>Hindi pa kailanman nakita ni Saulo si Jesus ni napagbuhatan ng kamay. Mga Kristiyano ang ipinabilanggo niya. At hindi siya tinatanong ni Jesus kung bakit niya inuusig ang mga tagasunod nito: tinatanong siya kung bakit si Jesus mismo ang inuusig niya. Iisa si Cristo at ang kanyang Simbahan, anupa't ang dagok na tinatanggap ng isa ay tinatanggap din ng isa pa. Ang paghihiwalay kay Cristo at sa kanyang Simbahan ay isang bagay na hindi tinanggap ni Cristo mismo sa daan patungong Damasco.</p>
+                <h2>"Patatagin mo ang iyong mga kapatid"<br>Lucas 22:31-32</h2>
+                <p>Sa gabi ng Huling Hapunan, kinakausap ni Jesus si Pedro sa kanyang pangalan.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Lucas 22:31-32</span>
+                    <blockquote>«Simon, Simon! Makinig ka! Hiniling ni Satanas na kayong lahat ay subukin, gaya ng pagtahip sa trigo. Ngunit <strong class="s-hi">ipinanalangin kita</strong> na huwag manghina ang iyong pananampalataya. At kapag nagbalik-loob ka na, <strong class="s-hi">patatagin mo ang iyong mga kapatid</strong>.»</blockquote>
+                </div>
+                <p>Hiniling ni Satanas na subukin silang lahat: "kayong lahat", maramihan. Sinasabi ni Jesus na isa lamang ang ipinanalangin niya, "kita", isahan, at sa iisang iyon ipinagkakatiwala ang tungkuling patatagin ang iba. Hindi sa pinakamalakas ibinibigay ang tungkulin. Makalipas ang dalawang talata, sinasabi niya kay Pedro na sa gabi ring iyon ay tatlong beses siya nitong ikakaila. Mahina at makasalanang tao si Pedro, at gayunman sa kanya lamang ipinagkakatiwala ang tungkuling patatagin ang kanyang mga kapatid sa pananampalataya. Hindi kay Pedro nagmumula ang katatagan: nagmumula ito sa panalangin ni Cristo para kay Pedro.</p>
+                <h2>Tatlong beses: "Pakainin mo ang aking mga tupa"<br>Juan 21:15-17</h2>
+                <p>Pagkatapos ng muling pagkabuhay, sa pampang ng lawa, binabalikan ni Jesus ang tungkuling iyon.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Juan 21:15-17</span>
+                    <blockquote>«Pagkatapos nilang mag-almusal, tinanong ni Jesus si Simon Pedro, "Simon, anak ni Juan, <strong class="s-hi">iniibig mo ba ako nang higit kaysa sa mga ito?</strong>" "Opo, Panginoon, alam ninyong mahal ko kayo," tugon niya. Sinabi ni Jesus, "<strong class="s-hi">Pakainin mo ang aking mga kordero</strong>." Muling nagtanong si Jesus, "Simon, anak ni Juan, iniibig mo ba ako?" "Opo, Panginoon, alam ninyong mahal ko kayo," tugon niya. Sinabi ni Jesus, "<strong class="s-hi">Alagaan mo ang aking mga tupa</strong>." Sa ikatlong pagkakataon ay tinanong siya ni Jesus, "Simon, anak ni Juan, mahal mo ba ako?" Nalungkot si Pedro sapagkat makaitlong tinanong siya, "Mahal mo ba ako?" Kaya't sumagot siya, "Panginoon, alam ninyo ang lahat ng bagay; alam ninyong mahal ko kayo." Sinabi sa kanya ni Jesus, "<strong class="s-hi">Pakainin mo ang aking mga tupa</strong>."»</blockquote>
+                </div>
+                <p>Tatlong beses siyang ikinaila ni Pedro at tatlong beses siyang tinatanong ni Jesus. Hindi niya sinusumbatan si Pedro sa pagtataksil: humihingi siya ng pag-ibig at, pagkatapos ng bawat sagot, ipinagkakatiwala sa kanya ang kawan. Inihahambing siya ng "higit kaysa sa mga ito" sa ibang mga alagad na nasa pampang, at sa kanya lamang ang tungkulin. Ngunit hindi kay Pedro ang kawan. "Aking mga kordero", "aking mga tupa" ang sabi ni Cristo: inaalagaan ni Pedro ang pag-aari ng iba, bilang katiwala, gaya ng katiwalang nag-iingat ng mga susi ng bahay na hindi kanya. Pumipili si Cristo ng isang makasalanan upang magpastol sa kanyang mga tupa, at ang lakas ng tungkulin ay nasa nagbibigay nito.</p>
                 <ul>
-                    <li>Ang unang Papa ay nakatanggap ng utos ng pastoral na awtoridad.</li>
-                    <li>Pinoprotektahan ng apostolikong paghalili ang doktrina at komunyon.</li>
-                    <li>Ang Papa ay kumikilos bilang nakikitang tanda ng pagkakaisa para sa lahat ng mananampalataya.</li>
+                    <li>Si Cristo ang batong-panulukan, at saligan sa kanya ang mga apostol: hindi pinipilit ng Kasulatan na pumili.</li>
+                    <li>Sa Aramaiko, iisang salita si Pedro at ang bato, <em>kefa</em>.</li>
+                    <li>Ang mga susi ay ang kapangyarihan ng hari na inilagay sa kamay ng kanyang katiwala, at kay Pedro lamang ibinibigay ang mga ito.</li>
+                    <li>Ang Simbahan ang haligi at saligan ng katotohanan, at may mga obispo at diyakono itong namamahala rito.</li>
+                    <li>Umiiral na ito at inuusig bago pa naisulat ang Bagong Tipan, at ang pag-usig dito ay pag-usig kay Cristo.</li>
+                    <li>Kay Pedro, mahina at makasalanan, ipinagkakatiwala ni Cristo ang tungkuling patatagin ang kanyang mga kapatid at pakainin ang kanyang mga tupa.</li>
                 </ul>
-                <h2>Pagkakaisa ng Simbahan</h2>
-                <p>Ang pagkilala sa pangunguna ni Pedro ay hindi isang arbitraryong hierarchy, kundi isang paraan ng pagpapanatili ng Simbahan na magkaisa sa pananampalataya, pag-asa, at pagmamahal.</p>`,
+                <h2>Konklusyon</h2>
+                <p>Hindi ipinapapili ng Kasulatan sa pagitan ni Cristo at ni Pedro. Si Cristo ang batong-panulukan at si Pedro ang batong pinagtatayuan ni Cristo; si Cristo ang may-ari ng bahay at si Pedro ang nag-iingat ng mga susi nito; si Cristo ang pastol at si Pedro ang nagpapakain sa kanyang mga tupa bilang katiwala. Ang Simbahang inilalarawan ng mga talatang ito ay may saligan, pamamahala at hangganan, at umiiral na ito bago pa naisulat ang kahit isang sulat ng Bagong Tipan. Hindi iyan inimbento ng Roma. Isinulat iyan nina Mateo, Lucas, Pablo at ni Pedro mismo.</p>
+                <p>Sa Isaias, ang susi ay lumilipat mula kay Sebna patungo kay Eliakim: napapalitan ang katiwala at nananatili ang tungkulin, sapagkat nakatayo pa rin ang sambahayan ni David. Namatay si Pedro bilang martir sa Roma, at ang pangakong hindi mananaig sa Simbahan kahit ang kapangyarihan ng kamatayan ay hindi namatay kasama niya.</p>
+                <div class="article-footnote">
+                    <p><sup>*</sup> Kung magpasya ang isang paring Katoliko na nais niyang mag-asawa, maaari niya itong hilingin, ngunit hindi niya ito mapagpapasyahan nang mag-isa. Kailangan niyang pormal na humiling ng dispensa mula sa pagkabinata, na ang Papa lamang ang nagkakaloob (Kodigo ng Batas Kanoniko, kan. 291), kasabay ng pagkawala ng estadong klerikal, na kilala bilang pagbabalik sa estadong laiko. Kapag natanggap na niya ito, hindi na niya ginagampanan ang ministeryo: hindi na siya nagdiriwang ng Misa, hindi nangangaral at hindi nangangasiwa ng mga sakramento, at iniuukol niya nang buo ang sarili sa kanyang buhay may-asawa at pampamilya. Ang tanging eksepsiyon ay ang panganib ng kamatayan, kung saan maaari niyang patawarin ang sinumang nangangailangan (kan. 976).</p>
+                    <p>Ang hindi niya nawawala ay ang pagkapari. Nag-iiwan ang ordenasyon ng tatak na hindi nabubura (kan. 1008): siya ay pari "magpakailanman, ayon sa pagkapari ni Melquisedec" (Hebreo 5:6), at kinikilala ng Simbahan na pari siya noon at pari pa rin siya ngayon. Ang nawawala sa kanya ay ang estadong klerikal, kasama ang mga karapatan at tungkulin nito: hindi na siya legal na kabilang sa klero, nagiging laiko siya sa harap ng batas ng Simbahan, at malaya na siya sa pagkabinata upang makapag-asawa nang may bisa sa Simbahan.</p>
+                </div>`,
       nav: {
         prevTitle: "Ang Bagong Kautusan kay Kristo",
         nextTitle: "Ang Pagkasaserdote sa Simbahang Katoliko"

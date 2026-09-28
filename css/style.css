@@ -1165,6 +1165,21 @@ html[lang="pt"] [data-complete-for~="pt"] {
 .article-body li {
   margin-bottom: 14px;
 }
+/* Nota al pie del artículo: dato aparte que no corta la argumentación */
+.article-body sup {
+  color: var(--gold);
+  font-weight: 700;
+}
+.article-body .article-footnote {
+  margin-top: 48px;
+  padding-top: 20px;
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+}
+.article-body .article-footnote p {
+  font-size: 14px;
+  line-height: 1.75;
+  margin-top: 12px;
+}
 
 /* ──────────────────────────────────────────────────────────────── */
 /* SCRIPTURE CITATION BLOCKS                                        */

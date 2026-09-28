@@ -93,10 +93,10 @@ const translationsLA = {
   },
   article9: {
     category: "Apologetica",
-    date: "Mox veniet",
+    date: "Septembri MMXXVI",
     title: "Primatus Petri",
-    excerpt: "Cur Papam habemus: successio apostolica et primatus Petri.",
-    time: "XI min lectura",
+    excerpt: "Claves regni, petra et mandatum confirmandi fratres: quid Scriptura Petro tribuat.",
+    time: "XIV min lectura",
     link: "Lege →"
   },
   article10: {
@@ -296,28 +296,107 @@ const translationsLA = {
                 <span class="eyebrow-text">Thema Speciale</span>
             </div>
             <h1>Primatus Petri</h1>
-            <p>Analysis clara cur Ecclesia catholica Papam agnoscat ut successorem Sancti Petri et visibilem ducem unitatis ecclesialis.</p>
+            <p>Christus Ecclesiam suam super Petrum aedificavit, ei claves regni dedit et mandavit ut fratres confirmaret. Quid Scriptura dicat, locus post locum.</p>
             <div class="article-meta">
-                <span>XI min lectura</span>
-                <span>Editus Maio MMXXVI</span>
+                <span>XIV min lectura</span>
+                <span>Editus Septembri MMXXVI</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Ad Themata reverti</a>`,
-      article: `<p>Primatus Petri est doctrina essentialis ad intellegendam structuram Ecclesiae. Iesus Petro munus peculiare concredidit ut pastoris et garanti unitatis apostolicae.</p>
-                <h2>Fundamentum biblicum</h2>
-                <p>In Evangelio, Christus Petrum petram declarat eique mandat ut oves suas pascat. Hoc mandatum auctoritatem specialem in ducendo communitatem christianam reflectit.</p>
+      article: `<p>Contra papatum obiectio duplicem formam habet. Priorem iterant Protestantes fere omnium denominationum, Adventistae et Testes Iehovae: <em>«Petra Christus est, non Petrus. Petrus lapillus tantum est; petra est fides quam confessus est.»</em> Altera propria est mundi evangelici: <em>«Vera Ecclesia invisibilis est: nec hierarchiam habet, nec episcopos, nec papam. Haec omnia Roma excogitavit.»</em></p>
+                <p>Utraque Scriptura solvitur. Primum, super quid aedificata sit Ecclesia et quis claves habeat. Deinde, num Ecclesia illa regimen habeat et num exstiterit antequam quisquam eam ordinaret. Postremo, cui Christus mandaverit ut ceteros sustineret.</p>
+                <h2>Christus lapis angularis est, et fundamenta sunt<br>Eph 2, 20-22</h2>
+                <p>Antequam disputetur utrum Petrus petra sit, videndum est quomodo Paulus hac imagine utatur.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Mt 16, 18</span>
-                    <blockquote>«<strong class="s-hi">Tu es Petrus, et super hanc petram aedificabo Ecclesiam meam</strong>»</blockquote>
+                    <span class="scripture-ref">✝ Eph 2, 20-22</span>
+                    <blockquote>«…superaedificati super fundamentum apostolorum et prophetarum, <strong>ipso summo angulari lapide Christo Iesu</strong>, in quo <strong>omnis aedificatio</strong> compacta <strong>crescit</strong> in templum sanctum in Domino, in quo et vos coaedificamini in habitaculum Dei in Spiritu.»</blockquote>
                 </div>
-                <h2>Successio apostolica</h2>
-                <p>Papa est successor Sancti Petri in missione confirmandi fratres. Haec continuitas fidelitatem ad depositum fidei assecurat et unitatem Ecclesiae tutatur.</p>
+                <p>Paulus Christum et apostolos non inter se opponit: eos in eodem aedificio collocat. Christus est lapis angularis, qui cetera omnia sustinet et dirigit; apostoli et prophetae sunt fundamentum, et in ipso sunt. Quod apostoli fundamentum sint, nihil Christo detrahit. Neque aedificium perfectum est: crescit, lapidibus super primos additis. Obiectio cogit ut inter Christum et apostolos eligatur. Paulus non eligit.</p>
+                <h2>«Tu es Petrus»: claves regni<br>Mt 16, 16-19</h2>
+                <p>Locus praecipuus est responsio Iesu ad confessionem Petri.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mt 16, 16-19</span>
+                    <blockquote>«Respondens Simon Petrus dixit: «Tu es Christus, Filius Dei vivi». Respondens autem Iesus dixit ei: «Beatus es, Simon Bar Iona, quia caro et sanguis non revelavit tibi, sed Pater meus, qui in caelis est. Et ego dico tibi: <strong class="s-hi">Tu es Petrus, et super hanc petram aedificabo Ecclesiam meam</strong><strong>; et portae inferi non praevalebunt adversum eam</strong>. <strong class="s-hi">Tibi dabo</strong> <strong>claves regni caelorum; et quodcumque ligaveris super terram, erit ligatum in caelis, et quodcumque solveris super terram, erit solutum in caelis</strong>».»</blockquote>
+                </div>
+                <p>Iesus lingua Aramaica loquebatur, et Aramaice unum tantum verbum est: <em>kepha</em>, petra. Evangelium Ioannis nomen originale in primo occursu servat: <em>«Tu es Simon filius Ioannis; tu vocaberis Cephas»</em>, quod interpretatur Petrus (Io 1, 42), et Paulus eum in epistulis suis Cepham appellare pergit. Graece <em>petra</em> vocabulum femininum est neque viri nomen esse potest, itaque terminationem masculinam accepit: <em>Petros</em>, sicut Latine Petrus. Discrimen inter lapillum et petram non est in eo quod Iesus dixit. Est in grammatica interpretis.</p>
+                <p>Deinde, de clavibus. Matthaeus Iudaeis scribit, et Iudaeus sciebat quid esset claves a rege accipere. Isaias narrat: Deus nuntiat se Sobnam, praepositum domus regiae, ab officio remoturum et Eliacim in eius locum substituturum: <em>«Et dabo clavem domus David super umerum eius; et aperiet, et non erit qui claudat; et claudet, et non erit qui aperiat»</em> (Is 22, 22). Clavis erat auctoritas regis in manus administratoris tradita, qui eius nomine aperiebat et claudebat. Iesus hanc imaginem sumit et Petro tradit, eodem verborum pari (ligare et solvere, aperire et claudere) et cum cautione quam Eliacim non habebat: quod Petrus ligaverit super terram, ligatum est in caelis.</p>
+                <p>Et omnia numero singulari dicuntur. Ligare et solvere postea omnes apostoli accipient (Mt 18, 18). Claves, solus Petrus.</p>
+                <h2>Lapides vivi: nemo locum Christi aufert<br>1 Pet 2, 3-8</h2>
+                <p>Qui obiectioni de petra optime respondet, ipse Petrus est.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Pet 2, 3-8</span>
+                    <blockquote>«…si gustastis quoniam dulcis <strong>Dominus</strong>. Ad quem accedentes, <strong>lapidem vivum</strong>, ab hominibus quidem reprobatum, coram Deo autem electum, pretiosum, <strong>et ipsi</strong> tamquam <strong>lapides vivi</strong> aedificamini domus spiritalis in sacerdotium sanctum offerre spiritales hostias acceptabiles Deo per Iesum Christum. Propter quod continet Scriptura: «Ecce pono in Sion lapidem summum angularem, electum, pretiosum; et qui crediderit in eo, non confundetur». Vobis igitur honor credentibus; non credentibus autem «lapis, quem reprobaverunt aedificantes, hic factus est in caput anguli» et «lapis offensionis et petra scandali»; <strong class="s-hi">qui offendunt verbo non credentes, in quod et positi sunt</strong>.»</blockquote>
+                </div>
+                <p>Vir quem Christus petram appellavit locum Christi sibi non vindicat. Christum «lapidem vivum» vocat, lapidem angularem a Deo electum, et omnes credentes «lapides vivos» super eum aedificatos. Scriptura imagine lapidis utitur de Christo, de apostolis et de fidelibus, unoquoque suo loco, et nusquam in Novo Testamento hoc ut aemulatio apparet. Petrus locum cum Christo non contendit: eum demonstrat.</p>
+                <p>Et monitione concludit quam non mitigat. Offensio non est in lapide sed in eo quod verbo non creditur, et in hoc positus est qui non credit. Verbum, apud Matthaeum 16, dicit quod dicit.</p>
+                <h2>Domus Dei est Ecclesia<br>1 Tim 3, 15</h2>
+                <p>Paulus Timotheo scribit quomodo conversari oporteat, et dicit ubi:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Tim 3, 15</span>
+                    <blockquote>«…scias quomodo oporteat in <strong>domo Dei</strong> conversari, quae est <strong>ecclesia</strong> Dei vivi, <strong>columna et firmamentum veritatis</strong>.»</blockquote>
+                </div>
+                <p>Paulus non dicit Scripturam esse columnam et firmamentum veritatis. Dicit Ecclesiam esse, eamque domum Dei vivi appellat. Nihil addendum est, praeter unum: domus dominum habet, ianuas habet, et aliquem qui claves custodit.</p>
+                <h2>Domus cum eo qui eam regat<br>1 Tim 3, 1-5 et 3, 8</h2>
+                <p>Paucis versibus ante, Paulus describit quis domum illam regat.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Tim 3, 1-5</span>
+                    <blockquote>«Fidelis sermo: Si quis <strong>episcopatum</strong> appetit, bonum opus desiderat. Oportet ergo <strong>episcopum</strong> irreprehensibilem esse, unius uxoris virum, sobrium, prudentem, ornatum, hospitalem, doctorem, non vinolentum, non percussorem, sed modestum, non litigiosum, non cupidum, <strong>suae domui bene praepositum</strong>, filios habentem in subiectione cum omni castitate; si quis autem domui suae praeesse nescit, quomodo ecclesiae Dei curam habebit?»</blockquote>
+                </div>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Tim 3, 8</span>
+                    <blockquote>«<strong>Diaconos</strong> similiter pudicos, non bilingues, non multo vino deditos, non turpe lucrum sectantes…»</blockquote>
+                </div>
+                <p>Verba Graeca quibus Paulus utitur sunt <em>episkopé</em> et <em>epískopos</em>, unde Latine episcopatus et episcopus; et <em>diákonos</em> est diaconus. Ecclesia Christi episcopos et diaconos habet, id est hierarchiam et auctoritatem, et Paulus condiciones cuiusque officii statuit. Communitas in qua nemo praeest nec regit Biblia in manu et bonam voluntatem habere potest, sed formam Ecclesiae quam Paulus describit non habet. Opus hominum est.</p>
+                <p>Illud «unius uxoris virum» limitem ponit, non obligationem: excludit eum qui iterum nupsit, non eum qui non nupsit, et ipse Paulus uxorem non habebat (1 Cor 7, 7-8). Quapropter caelibatus sacerdotum disciplina Ecclesiae est, non dogma. In Ecclesia Latina sacerdotes non nubunt et totam vitam Deo tradunt; in Ecclesiis catholicis orientalibus sunt sacerdotes coniugati, et ubique vir coniugatus diaconus ordinari potest.<sup>*</sup></p>
+                <h2>Lupi ex interiore veniunt<br>Act 20, 29-30</h2>
+                <p>Paulus presbyteris Ephesi valedicit cum monitione.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Act 20, 29-30</span>
+                    <blockquote>«Ego scio quoniam intrabunt post discessionem meam <strong>lupi graves</strong> in vos non parcentes gregi; et <strong>ex vobis ipsis</strong> exsurgent viri <strong>loquentes perversa</strong>, ut abstrahant discipulos post se.»</blockquote>
+                </div>
+                <p>Paulus duo pericula nuntiat: lupos qui ab exteriore intrabunt, et viros qui ab interiore exsurgent, ex ipsis pastoribus, discipulos post se trahentes. Alterum est quod historia iteravit. Scissionem saeculi XVI non incohaverunt alieni: Lutherus frater Augustinianus et sacerdos erat, et Zwinglius sacerdos Turici. Ambo in Ecclesia formati erant quam postea reliquerunt. Et monitio id praesupponit quod obiectio negat: gregem cum finibus, ex quo exire licet et extra quem alii abstrahi possunt.</p>
+                <h2>Ecclesia iam exstabat, et Saulus eam persequebatur<br>Act 8, 1-3</h2>
+                <p>Ante conversionem suam Paulus optime sciebat ubi esset Ecclesia.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Act 8, 1-3</span>
+                    <blockquote>«<strong><strong class="s-hi">Saulus</strong> autem erat consentiens neci eius. Facta est autem in illa die <strong class="s-hi">persecutio magna in ecclesiam</strong>, quae erat Hierosolymis; et omnes dispersi sunt per regiones Iudaeae et Samariae praeter apostolos. Sepelierunt autem Stephanum viri timorati et fecerunt planctum magnum super illum. <strong class="s-hi">Saulus</strong> vero <strong class="s-hi">devastabat ecclesiam</strong> per domos intrans et trahens viros ac mulieres tradebat in custodiam.</strong>»</blockquote>
+                </div>
+                <p>Annis antequam prima epistula Novi Testamenti scriberetur, Ecclesia iam nomen, urbem et persecutores habebat. Saulus non ideam neque invisibilem animarum communionem persequebatur: per domos intrabat et viros ac mulieres in custodiam tradebat. Persequitur quis id quod invenire potest. Ecclesia Christi exstabat, visibilis erat, et membra eius nomen et domicilium habebant. Roma eam non excogitavit: Saulus iam sciebat ubi eam quaereret.</p>
+                <h2>Ecclesiam persequi est Christum persequi<br>Act 9, 3-5</h2>
+                <p>In via Damasci Christus Saulo dicit quem persequeretur.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Act 9, 3-5</span>
+                    <blockquote>«Et cum iter faceret, contigit ut appropinquaret Damasco, et subito circumfulsit eum lux de caelo, et cadens in terram audivit vocem dicentem sibi: «Saul, Saul, <strong class="s-hi">quid me persequeris?</strong>». Qui dixit: «Quis es, Domine?». Et ille: «<strong class="s-hi">Ego sum Iesus, quem tu persequeris!</strong>».»</blockquote>
+                </div>
+                <p>Saulus Iesum numquam viderat neque manum ei iniecerat. Christianos in custodiam tradiderat. Et Iesus eum non interrogat cur discipulos suos persequatur: interrogat cur ipsum persequatur. Christus et Ecclesia eius unum sunt, adeo ut ictus quem altera accipit alter accipiat. Christum ab Ecclesia sua separare est opus quod ipse Christus in via Damasci non admisit.</p>
+                <h2>«Confirma fratres tuos»<br>Lc 22, 31-32</h2>
+                <p>Nocte Cenae Domini Iesus Petrum nomine alloquitur.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Lc 22, 31-32</span>
+                    <blockquote>«Simon, Simon, ecce Satanas expetivit vos, ut cribraret sicut triticum; <strong class="s-hi">ego autem rogavi pro te</strong>, ut non deficiat fides tua. Et tu, aliquando conversus, <strong class="s-hi">confirma fratres tuos</strong>.»</blockquote>
+                </div>
+                <p>Satanas omnes expetivit: «vos», numero plurali. Iesus dicit se pro uno tantum rogasse, «pro te», numero singulari, et illi uni mandat ut ceteros confirmet. Munus non fortissimo datur. Duobus versibus post ei praedicit eum eadem nocte se ter negaturum esse. Petrus homo infirmus et peccator est, et tamen munus confirmandi fratres in fide ei soli committitur. Firmitas non a Petro oritur: oritur ab oratione Christi pro Petro.</p>
+                <h2>Ter: «Pasce»<br>Io 21, 15-17</h2>
+                <p>Post resurrectionem, ad litus lacus, Iesus ad illud munus redit.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Io 21, 15-17</span>
+                    <blockquote>«Cum ergo prandissent, dicit Simoni Petro Iesus: «Simon Ioannis, <strong class="s-hi">diligis me plus his?</strong>». Dicit ei: «Etiam, Domine, tu scis quia amo te». Dicit ei: «<strong class="s-hi">Pasce agnos meos</strong>». Dicit ei iterum secundo: «Simon Ioannis, diligis me?». Ait illi: «Etiam, Domine, tu scis quia amo te». Dicit ei: «<strong class="s-hi">Pasce oves meas</strong>». Dicit ei tertio: «Simon Ioannis, amas me?». Contristatus est Petrus quia dixit ei tertio: «Amas me?», et dicit ei: «Domine, tu omnia scis, tu cognoscis quia amo te». Dicit ei Iesus: «<strong class="s-hi">Pasce oves meas</strong>».»</blockquote>
+                </div>
+                <p>Petrus eum ter negavit, et Iesus eum ter interrogat. Proditionem ei non exprobrat: amorem petit et, post unamquamque responsionem, gregem ei tradit. «Plus his» eum cum ceteris discipulis in litore praesentibus comparat, et munus ei soli datur. Sed grex Petri non est. Christus dicit «agnos meos», «oves meas»: Petrus alienum pascit, ex mandato, sicut praepositus qui claves domus non suae custodit. Christus peccatorem eligit ut oves suas pascat, et vis muneris in eo est qui dat.</p>
                 <ul>
-                    <li>Primus Papa mandatum auctoritatis pastoralis accepit.</li>
-                    <li>Successio apostolica doctrinam et communionem tuetur.</li>
-                    <li>Papa ut signum visibile unitatis pro omnibus fidelibus agit.</li>
+                    <li>Christus est lapis angularis, et apostoli fundamentum in eo: Scriptura non cogit eligere.</li>
+                    <li>Aramaice Petrus et petra idem verbum sunt, <em>kepha</em>.</li>
+                    <li>Claves sunt auctoritas regis in manus praepositi eius tradita, et soli Petro dantur.</li>
+                    <li>Ecclesia est columna et firmamentum veritatis, et episcopos ac diaconos habet qui eam regunt.</li>
+                    <li>Exstabat et persecutionem patiebatur antequam Novum Testamentum scriberetur, et eam persequi est Christum persequi.</li>
+                    <li>Petro, infirmo et peccatori, Christus mandat ut fratres confirmet et oves suas pascat.</li>
                 </ul>
-                <h2>Unitas Ecclesiae</h2>
-                <p>Primatum Petri agnoscere non est hierarchia arbitraria, sed modus Ecclesiam in fide, spe et caritate unitam conservandi.</p>`,
+                <h2>Conclusio</h2>
+                <p>Scriptura electionem inter Christum et Petrum non proponit. Christus est lapis angularis et Petrus petra super quam Christus aedificat; Christus est dominus domus et Petrus qui claves eius custodit; Christus est pastor et Petrus oves eius ex mandato pascit. Ecclesia quam hi loci describunt fundamenta, regimen et fines habet, et exstabat antequam una Novi Testamenti epistula scriberetur. Hoc Roma non excogitavit. Scripserunt Matthaeus, Lucas, Paulus et ipse Petrus.</p>
+                <p>Apud Isaiam clavis a Sobna ad Eliacim transit: mutatur praepositus et officium manet, quia domus David stat. Petrus Romae martyr mortuus est, et promissio portas inferi non praevalituras adversus Ecclesiam cum eo non est mortua.</p>
+                <div class="article-footnote">
+                    <p><sup>*</sup> Si sacerdos catholicus nubere statuit, id petere potest, sed non suo arbitrio decernere. Dispensationem a caelibatu formaliter petere debet, quam solus Romanus Pontifex concedit (Codex Iuris Canonici, can. 291), una cum amissione status clericalis, quae reductio ad statum laicalem appellatur. Ea accepta, ministerium iam non exercet: Missam non celebrat, non praedicat, sacramenta non ministrat, et vitae coniugali ac familiari se totum dedicat. Una exceptio est periculum mortis, in quo quemlibet paenitentem absolvere potest (can. 976).</p>
+                    <p>Quod non amittit, sacerdotium est. Ordinatio characterem indelebilem imprimit (can. 1008): sacerdos est «in aeternum secundum ordinem Melchisedech» (Heb 5, 6), et Ecclesia agnoscit eum sacerdotem fuisse et sacerdotem manere. Quod amittit, status clericalis est cum iuribus et obligationibus suis: iuridice ad clerum iam non pertinet, laicus fit coram lege Ecclesiae et a caelibatu liberatur, ut valide in Ecclesia matrimonium ineat.</p>
+                </div>`,
       nav: {
         prevTitle: "Nova Lex in Christo",
         nextTitle: "Sacerdotium in Ecclesia Catholica"

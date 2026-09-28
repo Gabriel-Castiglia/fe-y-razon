@@ -31,7 +31,7 @@ const ARTICLES = {
   'la-santisima-trinidad': { videos: ['crucifijo01','roseton01'], provisional: true, prev: 'los-santos',           next: 'el-purgatorio' },
   'el-purgatorio':         { videos: ['velas01','cirio01'],             provisional: true, prev: 'la-santisima-trinidad',next: 'la-nueva-ley' },
   'la-nueva-ley':          { videos: ['breviario01','conf02'],             provisional: true, prev: 'el-purgatorio',        next: 'la-primacia-de-pedro' },
-  'la-primacia-de-pedro':  { videos: ['vaticano01','conf03'],                         provisional: true, prev: 'la-nueva-ley',         next: 'sacerdocio' },
+  'la-primacia-de-pedro':  { videos: ['vaticano01','conf03'],                         prev: 'la-nueva-ley',         next: 'sacerdocio' },
   'recursos-recomendados': { videos: [],                                          prev: 'la-primacia-de-pedro', next: 'sacerdocio' },
 };
 

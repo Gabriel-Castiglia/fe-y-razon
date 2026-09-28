@@ -47,7 +47,7 @@ const translationsFR = {
     category: "Doctrine", date: "Bientôt", title: "La loi nouvelle", excerpt: "La loi du Christ qui remplace l'Ancienne Loi et guide les chrétiens.", time: "8 min de lecture", link: "Lire →"
   },
   article9: {
-    category: "Apologétique", date: "Bientôt", title: "La primauté de Pierre", excerpt: "Pourquoi avons-nous un Pape : la succession apostolique et la primauté de Pierre.", time: "11 min de lecture", link: "Lire →"
+    category: "Apologétique", date: "Septembre 2026", title: "La primauté de Pierre", excerpt: "Les clés du Royaume, la pierre et la charge d'affermir les frères : ce que l'Écriture donne à Pierre.", time: "14 min de lecture", link: "Lire →"
   },
   article10: {
     category: "Ressources", date: "Mai 2026", title: "Ressources recommandées", excerpt: "Une sélection de ressources catholiques pour approfondir votre foi et votre formation.", time: "5 min de lecture", link: "Explorer →"
@@ -115,11 +115,102 @@ const translationsFR = {
     },
     "la-primacia-de-pedro": {
       pageTitle: "La primauté de Pierre | Foi et Raison",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>La primauté de Pierre</h1><p>Une analyse claire sur les raisons pour lesquelles l'Église catholique reconnaît le Pape comme successeur de Saint Pierre et guide visible de l'unité ecclésiale.</p><div class="article-meta"><span>11 min de lecture</span><span>Publié en mai 2026</span></div><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
-      article: `<p>La primauté de Pierre est un enseignement essentiel pour comprendre la structure de l'Église. Jésus a confié à Pierre un rôle unique de pasteur et de garant de l'unité apostolique.</p><h2>Fondement biblique</h2><p>Dans l'Évangile, le Christ déclare Pierre comme le roc et le charge de paître ses brebis. Ce mandat reflète une autorité spéciale dans la direction de la communauté chrétienne.</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Matthieu 16, 18</span>
-                    <blockquote>«<strong class="s-hi">Tu es Pierre, et sur cette pierre je bâtirai mon Église</strong>»</blockquote>
-                </div><h2>Succession apostolique</h2><p>Le Pape est le successeur de Saint Pierre dans la mission de confirmer ses frères. Cette continuité assure la fidélité au dépôt de la foi et protège l'unité de l'Église.</p><ul><li>Le premier Pape a reçu une charge d'autorité pastorale.</li><li>La succession apostolique protège la doctrine et la communion.</li><li>Le Pape agit comme signe visible d'unité pour tous les croyants.</li></ul><h2>Unité de l'Église</h2><p>Reconnaître la primauté de Pierre n'est pas une hiérarchie arbitraire, mais un moyen de maintenir l'Église unie dans la foi, l'espérance et l'amour.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>La primauté de Pierre</h1><p>Le Christ a bâti son Église sur Pierre, lui a donné les clés du Royaume et l'a chargé d'affermir ses frères. Ce que dit l'Écriture, passage par passage.</p><div class="article-meta"><span>14 min de lecture</span><span>Publié en septembre 2026</span></div><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+      article: `<p>Contre la papauté, l'objection prend deux formes. La première est répétée par des protestants de presque toutes les dénominations, par les adventistes et par les Témoins de Jéhovah : <em>« Le roc, c'est le Christ, pas Pierre. Pierre n'est qu'un petit caillou ; le roc, c'est la foi qu'il a confessée. »</em> La seconde est propre au monde évangélique : <em>« La véritable Église est invisible : elle n'a ni hiérarchie, ni évêques, ni pape. Tout cela, Rome l'a inventé. »</em></p>
+                <p>Les deux se règlent avec l'Écriture. D'abord, sur quoi l'Église est bâtie et qui en a les clés. Ensuite, si cette Église a un gouvernement et si elle existait avant que quiconque ne l'organise. Enfin, à qui le Christ a confié de soutenir les autres.</p>
+                <h2>Le Christ est la pierre angulaire, et il y a des fondations<br>Éphésiens 2, 20-22</h2>
+                <p>Avant de discuter pour savoir si Pierre est une pierre, il faut voir comment Paul emploie cette image.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Éphésiens 2, 20-22</span>
+                    <blockquote>«Car vous avez été intégrés dans la construction qui a pour fondations les Apôtres et les prophètes ; et <strong>la pierre angulaire, c'est le Christ Jésus lui-même</strong>. En lui, <strong>toute la construction</strong> <strong>s'élève</strong> harmonieusement pour devenir un temple saint dans le Seigneur. En lui, vous êtes, vous aussi, les éléments d'une même construction pour devenir une demeure de Dieu par l'Esprit Saint.»</blockquote>
+                </div>
+                <p>Paul ne met pas le Christ et les apôtres en concurrence : il les met dans le même édifice. Le Christ est la pierre angulaire, celle qui porte et aligne tout le reste ; les apôtres et les prophètes sont les fondations, et ils le sont en lui. Que les apôtres soient fondement n'enlève rien au Christ. Et l'édifice n'est pas achevé : il s'élève, avec des pierres qui s'ajoutent sur les premières. L'objection oblige à choisir entre le Christ et les apôtres. Paul ne choisit pas.</p>
+                <h2>« Tu es Pierre » : les clés du Royaume<br>Matthieu 16, 16-19</h2>
+                <p>Le passage central est la réponse de Jésus à la confession de Pierre.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matthieu 16, 16-19</span>
+                    <blockquote>«Alors Simon-Pierre prit la parole et dit : « Tu es le Christ, le Fils du Dieu vivant ! » Prenant la parole à son tour, Jésus lui dit : « Heureux es-tu, Simon fils de Yonas : ce n'est pas la chair et le sang qui t'ont révélé cela, mais mon Père qui est aux cieux. Et moi, je te le déclare : <strong class="s-hi">Tu es Pierre, et sur cette pierre je bâtirai mon Église</strong><strong> ; et la puissance de la Mort ne l'emportera pas sur elle</strong>. <strong class="s-hi">Je te donnerai</strong> <strong>les clés du royaume des Cieux : tout ce que tu auras lié sur la terre sera lié dans les cieux, et tout ce que tu auras délié sur la terre sera délié dans les cieux</strong>. »»</blockquote>
+                </div>
+                <p>Jésus parlait araméen, et en araméen il n'y a qu'un seul mot : <em>kèpha</em>, pierre. L'Évangile de Jean garde le nom original lors de la première rencontre : <em>« Tu es Simon, fils de Jean ; tu t'appelleras Kèphas »</em>, ce qui veut dire Pierre (Jn 1, 42), et Paul continue de l'appeler Céphas dans ses lettres. En grec, <em>petra</em> est un mot féminin et ne peut servir de nom d'homme ; on lui a donc donné la terminaison masculine : <em>Petros</em>. La différence entre le caillou et le roc n'est pas dans ce que Jésus a dit. Elle est dans la grammaire du traducteur. Le français, lui, a gardé intact le jeu de mots : Pierre, et cette pierre.</p>
+                <p>Ensuite, les clés. Matthieu écrit pour des Juifs, et un Juif savait ce que signifiait recevoir les clés d'un roi. Isaïe le raconte : Dieu annonce qu'il va démettre de sa charge Shebna, le maître du palais, et mettre Éliakim à sa place : <em>« Je mettrai sur son épaule la clef de la maison de David : s'il ouvre, personne ne fermera ; s'il ferme, personne n'ouvrira »</em> (Is 22, 22). La clé était l'autorité du roi remise entre les mains d'un administrateur, qui ouvrait et fermait en son nom. Jésus reprend cette image et la remet à Pierre, avec la même paire de verbes (lier et délier, ouvrir et fermer) et avec une garantie qu'Éliakim n'avait pas : ce que Pierre lie sur la terre est lié dans les cieux.</p>
+                <p>Et tout est dit au singulier. Lier et délier sera donné plus tard à tous les apôtres (Mt 18, 18). Les clés, à Pierre seul.</p>
+                <h2>Pierres vivantes : personne ne prend la place du Christ<br>1 Pierre 2, 3-8</h2>
+                <p>Celui qui répond le mieux à l'objection du roc, c'est Pierre lui-même.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Pierre 2, 3-8</span>
+                    <blockquote>«…si vraiment vous avez goûté combien <strong>le Seigneur</strong> est bon. Approchez-vous <strong>de lui : il est la pierre vivante</strong> rejetée par les hommes, mais choisie et précieuse devant Dieu. <strong>Vous aussi</strong>, comme <strong>pierres vivantes</strong>, entrez dans la construction de la demeure spirituelle, pour devenir le sacerdoce saint et présenter des sacrifices spirituels, agréables à Dieu, par Jésus Christ. En effet, il y a ceci dans l'Écriture : Je vais poser en Sion une pierre angulaire, une pierre choisie, précieuse ; celui qui met en elle sa foi ne saurait connaître la honte. Ainsi donc, honneur à vous les croyants, mais, pour ceux qui refusent de croire, il est écrit : La pierre qu'ont rejetée les bâtisseurs est devenue la pierre d'angle, une pierre d'achoppement, un rocher sur lequel on trébuche. <strong class="s-hi">Ils achoppent, ceux qui refusent d'obéir à la Parole, et c'est bien ce qui devait leur arriver</strong>.»</blockquote>
+                </div>
+                <p>L'homme que le Christ a appelé pierre ne s'attribue pas la place du Christ. Il appelle le Christ « la pierre vivante », la pierre angulaire choisie par Dieu, et tous les croyants « pierres vivantes » bâties sur elle. L'Écriture emploie l'image de la pierre pour le Christ, pour les apôtres et pour les fidèles, chacun à sa place, et nulle part dans le Nouveau Testament cela n'apparaît comme une rivalité. Pierre ne dispute pas au Christ sa place : il la désigne.</p>
+                <p>Et il conclut par un avertissement qu'il n'adoucit pas. L'achoppement n'est pas dans la pierre mais dans le refus d'obéir à la Parole, et c'est ce qui attend celui qui refuse de croire. La Parole, en Matthieu 16, dit ce qu'elle dit.</p>
+                <h2>La maison de Dieu, c'est l'Église<br>1 Timothée 3, 15</h2>
+                <p>Paul écrit à Timothée comment il faut se conduire, et il dit où :</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Timothée 3, 15</span>
+                    <blockquote>«…tu sauras comment il faut se conduire dans <strong>la maison de Dieu</strong>, c'est-à-dire <strong>l'Église</strong> du Dieu vivant, <strong>colonne et fondement de la vérité</strong>.»</blockquote>
+                </div>
+                <p>Paul ne dit pas que l'Écriture est la colonne et le fondement de la vérité. Il dit que c'est l'Église, et il l'appelle maison du Dieu vivant. Il n'y a rien à ajouter, sinon une chose : une maison a un maître, elle a des portes et elle a quelqu'un qui garde les clés.</p>
+                <h2>Une maison, avec quelqu'un pour la gouverner<br>1 Timothée 3, 1-5 et 3, 8</h2>
+                <p>Quelques lignes plus haut, Paul décrit qui gouverne cette maison.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Timothée 3, 1-5</span>
+                    <blockquote>«Voici une parole digne de foi : si quelqu'un aspire à <strong>la responsabilité d'épiscope</strong>, c'est une belle tâche qu'il désire. Il faut donc que <strong>l'épiscope</strong> soit irréprochable, qu'il n'ait été marié qu'une seule fois, qu'il soit sobre, raisonnable, équilibré, accueillant, capable d'enseigner, ni buveur ni brutal, mais bienveillant, ni querelleur ni cupide. <strong>Il faut qu'il mène bien</strong> sa propre maison, qu'il obtienne de ses enfants l'obéissance et un respect parfait ; car si quelqu'un ne sait pas mener sa propre maison, comment pourrait-il prendre soin d'une Église de Dieu ?»</blockquote>
+                </div>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Timothée 3, 8</span>
+                    <blockquote>«<strong>Les diacres</strong>, eux aussi, doivent être dignes, n'avoir qu'une parole, ne pas s'adonner à la boisson, ne pas rechercher des profits malhonnêtes.»</blockquote>
+                </div>
+                <p>Les mots grecs qu'emploie Paul sont <em>episkopè</em> et <em>episkopos</em> : de là vient, lettre par lettre, le mot évêque. Et <em>diakonos</em>, c'est diacre. L'Église du Christ a des évêques et des diacres, c'est-à-dire une hiérarchie et une autorité, et Paul fixe les conditions de chaque charge. Une communauté où personne ne préside ni ne gouverne peut avoir la Bible en main et de la bonne volonté, mais elle n'a pas la forme de l'Église que décrit Paul. C'est une œuvre d'hommes.</p>
+                <p>« Marié une seule fois » pose une limite, non une obligation : cela exclut celui qui s'est remarié, non celui qui ne s'est pas marié, et Paul lui-même n'était pas marié (1 Co 7, 7-8). C'est pourquoi le célibat des prêtres est une discipline de l'Église et non un dogme. Dans l'Église latine, les prêtres ne se marient pas et donnent leur vie entière à Dieu ; dans les Églises catholiques orientales, il y a des prêtres mariés, et partout un homme marié peut être ordonné diacre.<sup>*</sup></p>
+                <h2>Les loups sortent de l'intérieur<br>Actes 20, 29-30</h2>
+                <p>Paul prend congé des anciens d'Éphèse par un avertissement.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Actes 20, 29-30</span>
+                    <blockquote>«Moi, je sais qu'après mon départ, <strong>des loups redoutables</strong> s'introduiront chez vous et n'épargneront pas le troupeau. Même <strong>du milieu de vous</strong> surgiront des hommes qui tiendront <strong>des discours pervers</strong> pour entraîner les disciples à leur suite.»</blockquote>
+                </div>
+                <p>Paul annonce deux menaces : les loups qui entreront du dehors, et les hommes qui surgiront du dedans, du milieu même des pasteurs, entraînant des disciples à leur suite. La seconde est celle que l'histoire a répétée. La rupture du XVIe siècle n'a pas été commencée par des étrangers : Luther était religieux augustin et prêtre, et Zwingli était prêtre à Zurich. Tous deux avaient été formés dans l'Église qu'ils ont ensuite quittée. Et l'avertissement suppose ce que l'objection nie : un troupeau avec des limites, dont on peut sortir et hors duquel on peut entraîner d'autres.</p>
+                <h2>L'Église existait déjà, et Saul la persécutait<br>Actes 8, 1-3</h2>
+                <p>Avant sa conversion, Paul savait très bien où était l'Église.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Actes 8, 1-3</span>
+                    <blockquote>«<strong>Quant à <strong class="s-hi">Saul</strong>, il approuvait ce meurtre. Ce jour-là, éclata <strong class="s-hi">une violente persécution contre l'Église</strong> de Jérusalem. Tous, sauf les Apôtres, se dispersèrent dans les campagnes de Judée et de Samarie. Des hommes religieux ensevelirent Étienne et célébrèrent pour lui un grand deuil. Quant à <strong class="s-hi">Saul</strong>, <strong class="s-hi">il ravageait l'Église</strong>, il pénétrait dans les maisons, pour en arracher hommes et femmes, et les jeter en prison.</strong>»</blockquote>
+                </div>
+                <p>Des années avant que soit écrite la première lettre du Nouveau Testament, l'Église avait déjà un nom, une ville et des persécuteurs. Saul ne persécutait pas une idée ni une communion invisible des âmes : il pénétrait dans les maisons et emmenait en prison hommes et femmes. On persécute ce que l'on peut trouver. L'Église du Christ existait, elle était visible, et ses membres avaient un nom et une adresse. Rome ne l'a pas inventée : Saul savait déjà où la chercher.</p>
+                <h2>Persécuter l'Église, c'est persécuter le Christ<br>Actes 9, 3-5</h2>
+                <p>Sur le chemin de Damas, le Christ dit à Saul qui il persécutait.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Actes 9, 3-5</span>
+                    <blockquote>«Comme il était en route et approchait de Damas, soudain une lumière venant du ciel l'enveloppa de sa clarté. Il tomba par terre et il entendit une voix qui lui disait : « Saul, Saul, <strong class="s-hi">pourquoi me persécuter ?</strong> » Il demanda : « Qui es-tu, Seigneur ? » La voix répondit : « <strong class="s-hi">Je suis Jésus, celui que tu persécutes</strong>. »»</blockquote>
+                </div>
+                <p>Saul n'avait jamais vu Jésus ni porté la main sur lui. Il avait emprisonné des chrétiens. Et Jésus ne lui demande pas pourquoi il persécute ses disciples : il lui demande pourquoi il le persécute, lui. Le Christ et son Église ne font qu'un, au point que le coup reçu par l'une est reçu par l'autre. Séparer le Christ de son Église est une opération que le Christ lui-même n'a pas acceptée sur le chemin de Damas.</p>
+                <h2>« Affermis tes frères »<br>Luc 22, 31-32</h2>
+                <p>Le soir de la Dernière Cène, Jésus s'adresse à Pierre par son nom.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Luc 22, 31-32</span>
+                    <blockquote>«Simon, Simon, Satan vous a réclamés pour vous passer au crible comme le blé. Mais <strong class="s-hi">j'ai prié pour toi</strong>, afin que ta foi ne défaille pas. Toi donc, quand tu seras revenu, <strong class="s-hi">affermis tes frères</strong>.»</blockquote>
+                </div>
+                <p>Satan les a réclamés tous : « vous », au pluriel. Jésus dit qu'il a prié pour un seul, « pour toi », au singulier, et c'est à celui-là qu'il confie d'affermir les autres. Il ne donne pas cette charge au plus fort. Deux versets plus loin, il lui annonce que cette nuit même il le reniera trois fois. Pierre est un homme faible et pécheur, et pourtant la tâche d'affermir ses frères dans la foi est confiée à lui seul. La fermeté ne vient pas de Pierre : elle vient de la prière du Christ pour Pierre.</p>
+                <h2>Trois fois : « Sois le berger »<br>Jean 21, 15-17</h2>
+                <p>Après la résurrection, au bord du lac, Jésus revient sur cette charge.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Jean 21, 15-17</span>
+                    <blockquote>«Quand ils eurent mangé, Jésus dit à Simon-Pierre : « Simon, fils de Jean, <strong class="s-hi">m'aimes-tu vraiment, plus que ceux-ci ?</strong> » Il lui répond : « Oui, Seigneur ! Toi, tu le sais : je t'aime. » Jésus lui dit : « <strong class="s-hi">Sois le berger de mes agneaux</strong>. » Il lui dit une deuxième fois : « Simon, fils de Jean, m'aimes-tu vraiment ? » Il lui répond : « Oui, Seigneur ! Toi, tu le sais : je t'aime. » Jésus lui dit : « <strong class="s-hi">Sois le pasteur de mes brebis</strong>. » Il lui dit, pour la troisième fois : « Simon, fils de Jean, m'aimes-tu ? » Pierre fut peiné parce que, la troisième fois, Jésus lui demandait : « M'aimes-tu ? » Il lui répond : « Seigneur, toi, tu sais tout : tu sais bien que je t'aime. » Jésus lui dit : « <strong class="s-hi">Sois le berger de mes brebis</strong>. »»</blockquote>
+                </div>
+                <p>Pierre l'a renié trois fois, et Jésus l'interroge trois fois. Il ne lui reproche pas sa trahison : il lui demande de l'amour et, après chaque réponse, lui confie le troupeau. « Plus que ceux-ci » le compare aux autres disciples présents sur le rivage, et la charge est pour lui seul. Mais le troupeau n'est pas à Pierre. Le Christ dit « mes agneaux », « mes brebis » : Pierre fait paître le bien d'un autre, par mandat, comme l'intendant qui garde les clés d'une maison qui n'est pas la sienne. Le Christ choisit un pécheur pour faire paître ses brebis, et la force de la charge est dans celui qui la donne.</p>
+                <ul>
+                    <li>Le Christ est la pierre angulaire, et les apôtres sont fondations en lui : l'Écriture n'oblige pas à choisir.</li>
+                    <li>En araméen, Pierre et la pierre sont le même mot, <em>kèpha</em>.</li>
+                    <li>Les clés sont l'autorité du roi remise entre les mains de son intendant, et elles sont données à Pierre seul.</li>
+                    <li>L'Église est colonne et fondement de la vérité, et elle a des évêques et des diacres qui la gouvernent.</li>
+                    <li>Elle existait et on la persécutait avant que le Nouveau Testament soit écrit, et la persécuter, c'est persécuter le Christ.</li>
+                    <li>À Pierre, faible et pécheur, le Christ confie d'affermir ses frères et de faire paître ses brebis.</li>
+                </ul>
+                <h2>Conclusion</h2>
+                <p>L'Écriture ne pose pas le choix entre le Christ et Pierre. Le Christ est la pierre angulaire et Pierre la pierre sur laquelle le Christ bâtit ; le Christ est le maître de la maison et Pierre celui qui en garde les clés ; le Christ est le pasteur et Pierre fait paître ses brebis par mandat. L'Église que décrivent ces passages a des fondations, un gouvernement et des limites, et elle existait avant qu'une seule lettre du Nouveau Testament soit écrite. Cela, Rome ne l'a pas inventé. Matthieu, Luc, Paul et Pierre lui-même l'ont écrit.</p>
+                <p>Chez Isaïe, la clé passe de Shebna à Éliakim : l'intendant change et la charge demeure, parce que la maison de David reste debout. Pierre est mort martyr à Rome, et la promesse que la puissance de la Mort ne l'emporterait pas sur l'Église n'est pas morte avec lui.</p>
+                <div class="article-footnote">
+                    <p><sup>*</sup> Si un prêtre catholique décide qu'il veut se marier, il peut le demander, mais il ne peut pas en décider seul. Il doit solliciter formellement la dispense du célibat, que seul le Pape accorde (Code de droit canonique, c. 291), en même temps que la perte de l'état clérical, appelée réduction à l'état laïc. Une fois qu'il l'a reçue, il n'exerce plus le ministère : il ne célèbre plus la messe, ne prêche pas et n'administre pas les sacrements, et il se consacre entièrement à sa vie conjugale et familiale. La seule exception est le danger de mort, dans lequel il peut absoudre quiconque en a besoin (c. 976).</p>
+                    <p>Ce qu'il ne perd pas, c'est le sacerdoce. L'ordination imprime un caractère indélébile (c. 1008) : il est prêtre « pour l'éternité selon l'ordre de Melkisédek » (Hébreux 5, 6), et l'Église reconnaît que prêtre il a été et prêtre il demeure. Ce qu'il perd, c'est l'état clérical, avec ses droits et ses obligations : il cesse d'appartenir juridiquement au clergé, devient un laïc au regard du droit de l'Église et se trouve libéré du célibat pour pouvoir se marier validement à l'Église.</p>
+                </div>`,
       nav: { prevTitle: "La loi nouvelle dans le Christ", nextTitle: "Le Sacerdoce dans l'Église Catholique" }
     },
     "la-santisima-trinidad": {
