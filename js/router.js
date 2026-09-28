@@ -23,16 +23,16 @@ window.FYRVideo = window.FYRVideo || {
 //                      Para marcar un nuevo idioma como completo, agregar su código:
 //                      completedLangs: ['es', 'en']
 const ARTICLES = {
-  'sacerdocio':            { videos: ['sacerdote01','procesion01'], prev: 'la-primacia-de-pedro', next: 'por-que-creemos' },
-  'por-que-creemos':       { videos: ['oracion01','conf01'],             prev: 'sacerdocio',           next: 'la-eucaristia' },
-  'la-eucaristia':         { videos: ['calis01','ofertorio01'],               prev: 'por-que-creemos',      next: 'transubstanciacion' },
-  'transubstanciacion':    { videos: ['custodia01','altar01'],                        prev: 'la-eucaristia',        next: 'los-santos' },
-  'los-santos':            { videos: ['rosario01','retablo01'],       prev: 'transubstanciacion',   next: 'la-santisima-trinidad' },
-  'la-santisima-trinidad': { videos: ['crucifijo01','roseton01'], provisional: true, prev: 'los-santos',           next: 'el-purgatorio' },
-  'el-purgatorio':         { videos: ['velas01','cirio01'],             provisional: true, prev: 'la-santisima-trinidad',next: 'la-nueva-ley' },
-  'la-nueva-ley':          { videos: ['breviario01','conf02'],             provisional: true, prev: 'el-purgatorio',        next: 'la-primacia-de-pedro' },
-  'la-primacia-de-pedro':  { videos: ['vaticano01','conf03'],                         prev: 'la-nueva-ley',         next: 'sacerdocio' },
-  'recursos-recomendados': { videos: [],                                          prev: 'la-primacia-de-pedro', next: 'sacerdocio' },
+  'sacerdocio':            { videos: ['sacerdote01','procesion01'], prev: 'transubstanciacion', next: 'los-santos' },
+  'por-que-creemos':       { videos: ['oracion01','conf01'],             prev: 'la-santisima-trinidad',           next: 'la-primacia-de-pedro' },
+  'la-eucaristia':         { videos: ['calis01','ofertorio01'],               prev: 'la-primacia-de-pedro',      next: 'transubstanciacion' },
+  'transubstanciacion':    { videos: ['custodia01','altar01'],                        prev: 'la-eucaristia',        next: 'sacerdocio' },
+  'los-santos':            { videos: ['rosario01','retablo01'],       prev: 'sacerdocio',   next: 'el-purgatorio' },
+  'la-santisima-trinidad': { videos: ['crucifijo01','roseton01'], provisional: true, prev: 'la-nueva-ley',           next: 'por-que-creemos' },
+  'el-purgatorio':         { videos: ['velas01','cirio01'],             provisional: true, prev: 'los-santos',next: 'la-nueva-ley' },
+  'la-nueva-ley':          { videos: ['breviario01','conf02'],             provisional: true, prev: 'el-purgatorio',        next: 'la-santisima-trinidad' },
+  'la-primacia-de-pedro':  { videos: ['vaticano01','conf03'],                         prev: 'por-que-creemos',         next: 'la-eucaristia' },
+  'recursos-recomendados': { videos: [],                                          prev: 'la-santisima-trinidad', next: 'por-que-creemos' },
 };
 
 const VIDEO_BASE = 'Recursos/Videos/';

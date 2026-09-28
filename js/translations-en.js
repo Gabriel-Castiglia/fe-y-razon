@@ -170,7 +170,7 @@ const translationsEN = {
                 <h2>Living the faith</h2>
                 <p>Understanding this mystery invites us to live with greater holiness, ask for forgiveness, and offer prayers for the deceased, trusting in Christ’s saving work.</p>`,
       nav: {
-        prevTitle: "The Holy Trinity",
+        prevTitle: "The Saints and Their Intercession",
         nextTitle: "The New Law in Christ"
       }
     },
@@ -245,7 +245,7 @@ const translationsEN = {
                 <p>If the first Christians — formed by the apostles themselves — believed in the Real Presence, the question that deserves an honest answer is this: who changed that? When? By what authority?</p>
                 <p>To understand how this reality is made present in the Mass, continue to the topic <a href="tema-transubstanciacion.html">Transubstantiation</a>, from 1 Corinthians 10:16. And to understand why we accept these words as God's truth, see the topic <a href="tema-por-que-creemos.html">Why We Believe</a>.</p>`,
       nav: {
-        prevTitle: "Why We Believe in the Catholic Faith",
+        prevTitle: "The Primacy of Peter",
         nextTitle: "Transubstantiation: the Eucharistic Mystery"
       }
     },
@@ -280,7 +280,7 @@ const translationsEN = {
                 <p>The new law becomes concrete life when we cultivate humility, justice, and compassion. The Eucharist and prayer help us live it daily.</p>`,
       nav: {
         prevTitle: "Purgatory and God’s Mercy",
-        nextTitle: "The Primacy of Peter"
+        nextTitle: "The Holy Trinity"
       }
     },
     "la-primacia-de-pedro": {
@@ -392,8 +392,8 @@ const translationsEN = {
                     <p>What he does not lose is the priesthood. Ordination imprints an indelible character (c. 1008): he is a priest "for ever, after the order of Melchizedek" (Hebrews 5:6), and the Church recognizes that a priest he was and a priest he remains. What he loses is the clerical state, with its rights and obligations: he no longer belongs juridically to the clergy, he becomes a layman under the law of the Church, and he is freed from celibacy so that he can marry validly in the Church.</p>
                 </div>`,
       nav: {
-        prevTitle: "The New Law in Christ",
-        nextTitle: "The Priesthood in the Catholic Church"
+        prevTitle: "Why We Believe in the Catholic Faith",
+        nextTitle: "The Eucharist: the Central Sacrament"
       }
     },
     "la-santisima-trinidad": {
@@ -426,8 +426,8 @@ const translationsEN = {
                 <h2>Implications for life</h2>
                 <p>Trinitarian doctrine invites us to live in communion, transparency, and service. We are made in the image of a God who is community.</p>`,
       nav: {
-        prevTitle: "The Saints and Their Intercession",
-        nextTitle: "Purgatory and God’s Mercy"
+        prevTitle: "The New Law in Christ",
+        nextTitle: "Why We Believe in the Catholic Faith"
       }
     },
     "los-santos": {
@@ -522,8 +522,8 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
 
             <p>And what the Church does in invoking them is exactly what Revelation shows: they carry the prayers of the faithful to the altar of heaven and present them before the throne of the Lamb. The saints are not worshipped. They are asked to intercede before God, just as a living brother is asked to pray for someone. The only difference runs in their favour: they are in heaven and they know as God knows. That is why they see, they hear and they intercede. Whoever says the dead cannot hear has first to explain why heaven keeps the prayers in bowls of gold.</p>`,
       nav: {
-        prevTitle: "Transubstantiation: the Eucharistic Mystery",
-        nextTitle: "The Holy Trinity"
+        prevTitle: "The Priesthood in the Catholic Church",
+        nextTitle: "Purgatory and God’s Mercy"
       }
     },
     "por-que-creemos": {
@@ -612,8 +612,8 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <h2>Conclusion: believe and obey</h2>
                 <p>The word of the prophets is from God. The apostles witnessed it. We must read all of it — including what it says about oral tradition, about who interprets it, and about the Church Christ founded. And we must do what God says: that is faith. Not everyone who says "Lord, Lord" will be saved, but the one who does the will of the Father (Mt 7:21). The Bible, read in its entirety and with honesty, points to the same Church that Jesus founded. To believe is to trust in Jesus Christ even when human experience says otherwise, as Peter did on the lake. And that act of trust changes everything.</p>`,
       nav: {
-        prevTitle: "The Priesthood in the Catholic Church",
-        nextTitle: "The Eucharist: the Central Sacrament"
+        prevTitle: "The Holy Trinity",
+        nextTitle: "The Primacy of Peter"
       }
     },
     "sacerdocio": {
@@ -694,8 +694,8 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 </ul>
                 <p>Take the whole Bible — not isolated passages — and you find ordained priesthood, confession, sacrifice, and altar. The question is not whether it is in the Bible. It is. The question is whether one is willing to read all of it.</p>`,
       nav: {
-        prevTitle: "The Primacy of Peter",
-        nextTitle: "Why We Believe in the Catholic Faith"
+        prevTitle: "Transubstantiation: the Eucharistic Mystery",
+        nextTitle: "The Saints and Their Intercession"
       }
     },
     "transubstanciacion": {
@@ -764,7 +764,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <p>One question remains, and it is not about the bread: it is about who is speaking. If the one who says "this is my body" is he through whom all things were made, there is nothing to argue about; there is something to believe. That is why this topic is not settled with arguments from chemistry or from Greek philosophy, but on the ground of the topic <a href="tema-por-que-creemos.html">Why We Believe</a>. If his word is the word of God, it does what it says. It always has.</p>`,
       nav: {
         prevTitle: "The Eucharist: the Central Sacrament",
-        nextTitle: "The Saints and Their Intercession"
+        nextTitle: "The Priesthood in the Catholic Church"
       }
     },
     "recursos-recomendados": {

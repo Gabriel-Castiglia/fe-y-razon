@@ -75,7 +75,7 @@ const translationsSW = {
       pageTitle: "Toharani | Imani na Akili",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Toharani na Huruma ya Mungu</h1><p>Ufafanuzi wazi wa toharani kama mchakato wa utakaso na matumaini kuelekea muungano wa mwisho na Mungu.</p><div class="article-meta"><span>Dakika 6 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
       article: `<p>Toharani ni hatua ambayo roho hutakaswa kabla ya kuingia katika uwepo kamili wa Mungu. Sio adhabu ya mwisho, bali ni mchakato wa upendo unaoponya.</p><h2>Utakaso unamaanisha nini?</h2><p>Utakaso huondoa matokeo ya dhambi nyepesi na kuponya majeraha ya uhuru. Ni maandalizi muhimu kwa tafakari ya kimungu.</p><blockquote>"Mungu ni mwenye haki na pia mwenye huruma zaidi. Haki yake hutakasa, huruma yake huambatana."</blockquote><h2>Matumaini ya Kikristo</h2><p>Toharani sio laana, bali ni kazi ya ukombozi. Kila roho inaitwa kwenye ukamilifu wa upendo wa Mungu, na utakaso ni sehemu ya njia hiyo.</p><ul><li>Kanisa linasali kwa ajili ya roho za toharani.</li><li>Sakramenti na matendo mema husaidia katika utakaso.</li><li>Ni dhihirisho la huruma ya kimungu.</li></ul><h2>Kuishi imani</h2><p>Kuelewa fumbo hili kunatualika kuishi kwa utakatifu zaidi, kuomba msamaha na kutoa sala kwa ajili ya marehemu, tukitumainia kazi ya ukombozi ya Kristo.</p>`,
-      nav: { prevTitle: "Utatu Mtakatifu", nextTitle: "Sheria Mpya katika Kristo" }
+      nav: { prevTitle: "Watakatifu na maombezi yao", nextTitle: "Sheria Mpya katika Kristo" }
     },
     "la-eucaristia": {
       pageTitle: "Ekaristi | Imani na Akili",
@@ -102,7 +102,7 @@ const translationsSW = {
                     <span class="scripture-ref">✝ 1 Wakorintho 11:27-29</span>
                     <blockquote>«<strong class="s-hi">Basi kila aulaye mkate huo, au kukinywea kikombe hicho cha Bwana isivyostahili, atakuwa amejipatia hatia ya mwili na damu ya Bwana.</strong> Lakini mtu ajihoji mwenyewe, na hivyo aule mkate, na kukinywea kikombe. Maana alaye na kunywa, <strong class="s-hi">hula na kunywa hukumu ya nafsi yake, kwa maana haupambanui mwili wa Bwana.</strong>»</blockquote>
                 </div><p>Neno la Kigiriki ἔνοχος — hatia/mkosaji — linamaanisha hatia kwa uhalifu wa kweli. Huwezi kuwa na hatia ya uhalifu dhidi ya mfano. Paulo pia anasema: «haupambanui Mwili». Kama ingekuwa mkate tu, ni Mwili gani ambao ungepambanuliwa?</p><h2>Wakristo wa kwanza — mashahidi walioundwa na mitume</h2><p>Ignatius wa Antiokia alikuwa mwanafunzi wa moja kwa moja wa mtume Yohane. Alikufa shahidi karibu mwaka 107 B.K. Aliandika katika Barua yake kwa Wasmirna:</p><blockquote>«<strong>Wanajiepusha na Ekaristi na sala, kwa sababu hawakiri kwamba Ekaristi ni mwili wa Mwokozi wetu Yesu Kristo</strong>, ulioteswa kwa ajili ya dhambi zetu, ambao Baba kwa wema wake aliufufua.» — Ignatius wa Antiokia, Barua kwa Wasmirna 6-7 (~107 B.K.)</blockquote><p>Justin Martyr aliandika karibu mwaka 150 B.K., miaka sabini baada ya vifo vya mitume:</p><blockquote>«<strong>Hatuipokei hii kama mkate wa kawaida wala kama kinywaji cha kawaida</strong>... hivyo pia tumefundishwa kwamba chakula hiki kilichofanywa Ekaristi ni <strong>mwili na damu ya huyo Yesu aliyefanyika mwili.</strong>» — Justin Martyr, Apologia ya Kwanza 66 (~150 B.K.)</blockquote><p>Kama Wakristo wa kwanza — walioundwa na mitume wenyewe — waliamini katika Uwepo Halisi, swali linalostahili jibu la uaminifu ni: nani alibadilisha hilo? Lini? Kwa mamlaka gani?</p><p>Ili kuelewa jinsi ukweli huu unavyofanyika katika Misa, endelea kwenye mada ya <a href="tema-transubstanciacion.html">Transubstansiasyoni</a>, kutoka 1 Wakorintho 10:16. Na ili kuelewa kwa nini tunakubali maneno haya kama ukweli wa Mungu, nenda kwenye mada <a href="tema-por-que-creemos.html">Kwa nini Tunaamini?</a></p>`,
-      nav: { prevTitle: "Kwa nini Tunaamini", nextTitle: "Transubstansiasyoni: fumbo la Ekaristi" }
+      nav: { prevTitle: "Ukuu wa Petro", nextTitle: "Transubstansiasyoni: fumbo la Ekaristi" }
     },
     "la-nueva-ley": {
       pageTitle: "Sheria Mpya | Imani na Akili",
@@ -111,7 +111,7 @@ const translationsSW = {
                     <span class="scripture-ref">✝ Mathayo 22:37-38</span>
                     <blockquote>«<strong class="s-hi">Mpende Bwana Mungu wako kwa moyo wako wote, na jirani yako kama nafsi yako</strong>»</blockquote>
                 </div><h2>Kukamilisha sheria ya kale</h2><p>Manabii walitangaza sheria mpya ambayo ingeishi moyoni. Mafundisho ya Kristo yanafunua kwamba utii wa kweli wa Sheria haupunguzwi kwa matendo ya nje, bali kwa mtazamo wa kweli wa ndani.</p><ul><li>Sheria mpya inatuita kuwa chumvi ya dunia na nuru ya ulimwengu.</li><li>Msamaha na huruma ni usemi wake wa kweli zaidi.</li><li>Tunaishi sheria ya Kristo kwa kujitoa kwa upendo.</li></ul><h2>Mazoezi ya Kikristo</h2><p>Sheria mpya inakuwa maisha halisi tunapokuza unyenyekevu, haki na huruma. Ekaristi na sala hutusaidia kuiishi kila siku.</p>`,
-      nav: { prevTitle: "Toharani na Huruma ya Mungu", nextTitle: "Ukuu wa Petro" }
+      nav: { prevTitle: "Toharani na Huruma ya Mungu", nextTitle: "Utatu Mtakatifu" }
     },
     "la-primacia-de-pedro": {
       pageTitle: "Ukuu wa Petro | Imani na Akili",
@@ -211,7 +211,7 @@ const translationsSW = {
                     <p><sup>*</sup> Padre Mkatoliki akiamua kwamba anataka kuoa, anaweza kuomba hivyo, lakini hawezi kuamua peke yake. Anapaswa kuomba rasmi ruhusa ya kuondolewa katika wajibu wa useja, ambayo hutolewa na Papa peke yake (Sheria za Kanisa, kan. 291), pamoja na kupoteza hali ya ukleri, inayojulikana kama kurudishwa katika hali ya walei. Akishaipokea, haendelei tena na huduma: haadhimishi Misa, hahubiri wala hatoi sakramenti, na anajitoa kikamilifu kwa maisha yake ya ndoa na familia. Tofauti pekee ni hatari ya kifo, ambapo anaweza kumwondolea dhambi yeyote anayehitaji (kan. 976).</p>
                     <p>Asichopoteza ni ukuhani. Daraja takatifu huacha alama isiyofutika (kan. 1008): yeye ni kuhani «milele, kwa mfano wa Melkisedeki» (Waebrania 5:6), na Kanisa linatambua kwamba alikuwa padre na anabaki padre. Anachopoteza ni hali ya ukleri pamoja na haki na wajibu wake: hahesabiwi tena kisheria kuwa sehemu ya wakleri, anakuwa mlei mbele ya sheria ya Kanisa, na anaachiwa huru kutoka kwa useja ili aweze kufunga ndoa halali Kanisani.</p>
                 </div>`,
-      nav: { prevTitle: "Sheria Mpya katika Kristo", nextTitle: "Ukuhani katika Kanisa Katoliki" }
+      nav: { prevTitle: "Kwa nini tunaamini katika imani ya Kikatoliki", nextTitle: "Ekaristi: sakramenti kuu" }
     },
     "la-santisima-trinidad": {
       pageTitle: "Utatu Mtakatifu | Imani na Akili",
@@ -220,7 +220,7 @@ const translationsSW = {
                     <span class="scripture-ref">✝ Mathayo 28:19</span>
                     <blockquote>«<strong class="s-hi">Kwa jina la Baba, na la Mwana, na la Roho Mtakatifu</strong>»</blockquote>
                 </div><h2>Hatua ya pamoja</h2><p>Baba anamtuma Mwana, Mwana anakomboa, na Roho hutakasa. Hatua hii ya pamoja inaonyesha kuwa wokovu ni kazi ya Utatu mzima.</p><ul><li>Mungu ni upendo wa ushirika.</li><li>Utatu ni msingi wa maisha ya Kikristo katika Kanisa.</li><li>Uwepo wa Mungu hufunuliwa katika historia kama uhusiano.</li></ul><h2>Athari kwa maisha</h2><p>Fundisho la Utatu linatualika kuishi katika ushirika, uwazi na huduma. Tumeumbwa kwa mfano wa Mungu ambaye ni jamii.</p>`,
-      nav: { prevTitle: "Watakatifu na maombezi yao", nextTitle: "Toharani na Huruma ya Mungu" }
+      nav: { prevTitle: "Sheria Mpya katika Kristo", nextTitle: "Kwa nini tunaamini katika imani ya Kikatoliki" }
     },
     "los-santos": {
       pageTitle: "Watakatifu | Imani na Akili",
@@ -295,7 +295,7 @@ const translationsSW = {
             <p>Watakatifu ni wale walioishi katika imani —Abeli, Henoko, Noa, Abrahamu, Musa, manabii—, wale ambao baada ya kifo wako katika mji wa Mungu aliye hai, Yerusalemu ya mbinguni. Huko wanajua kama Mungu awajuavyo. Huko wanamwona Mungu kama alivyo. Huko hakuna mpaka wala umbali.</p>
 
             <p>Na alifanyalo Kanisa kwa kuwaomba ni hasa lile lionyeshwalo na Ufunuo: hupeleka madhabahuni mbinguni maombi ya waamini na kuyawasilisha mbele ya kiti cha enzi cha Mwana-Kondoo. Watakatifu hawaabudiwi. Huombwa waombee mbele za Mungu, kama vile aombwavyo ndugu aliye hai kuombea mtu. Tofauti pekee iko upande wao: wako mbinguni na wanajua kama Mungu ajuavyo. Ndiyo maana wanaona, wanasikia na wanaombea. Asemaye kwamba wafu hawawezi kusikia ni lazima kwanza aeleze kwa nini mbingu huhifadhi maombi katika vitasa vya dhahabu.</p>`,
-      nav: { prevTitle: "Transubstansiasyoni: fumbo la Ekaristi", nextTitle: "Utatu Mtakatifu" }
+      nav: { prevTitle: "Ukuhani katika Kanisa Katoliki", nextTitle: "Toharani na Huruma ya Mungu" }
     },
     "por-que-creemos": {
       pageTitle: "Kwa nini Tunaamini | Imani na Akili",
@@ -331,7 +331,7 @@ const translationsSW = {
                     <span class="scripture-ref">✝ Mathayo 16:18</span>
                     <blockquote>«Nami nakuambia, Wewe ndiwe Petro, na juu ya mwamba huu nitalijenga kanisa langu; <strong class="s-hi">wala milango ya kuzimu haitalishinda.</strong>»</blockquote>
                 </div><p>Ahadi hiyo inalinda Mamlaka ya Kufundisha (Magisterium) — ufundishaji rasmi wa Kanisa — isifundishe makosa kikamilifu. Haimaanishi kwamba kila mshiriki hawezi kutenda dhambi. Inamaanisha kwamba ukweli alioukabidhi Kristo kwa Kanisa lake hauwezi kuharibiwa.</p><h2>Hitimisho: kuamini na kutimiza</h2><p>Neno la manabii linatoka kwa Mungu. Mitume walishuhudia. Lazima isomwe yote — ikiwa ni pamoja na kile inachosema kuhusu Mapokeo ya mdomo, kuhusu nani anayetafsiri na kuhusu Kanisa ambalo Kristo alilianzisha. Na lazima tufanye kile Mungu anasema: hiyo ndiyo imani. Siyo yeye asemaye «Bwana, Bwana» ataokolewa, bali yeye afanyaye mapenzi ya Baba (Mathayo 7:21). Biblia, inaposomwa yote na kwa uaminifu, inaelekeza kwenye Kanisa lile lile alilolianzisha Yesu. Kuamini ni kumtumaini Yesu Kristo hata kama uzoefu wa kibinadamu unasema kinyume, kama Petro alivyofanya ziwani. Na tendo hilo la kutumaini linabadilisha kila kitu.</p>`,
-      nav: { prevTitle: "Ukuhani katika Kanisa Katoliki", nextTitle: "Ekaristi: sakramenti kuu" }
+      nav: { prevTitle: "Utatu Mtakatifu", nextTitle: "Ukuu wa Petro" }
     },
     "sacerdocio": {
       pageTitle: "Ukuhani | Imani na Akili",
@@ -361,7 +361,7 @@ const translationsSW = {
                     <span class="scripture-ref">✝ Malaki 1:11</span>
                     <blockquote>«Kwa maana tokea maawio ya jua hata machweo yake jina langu ni kuu katika Mataifa; na <strong class="s-hi">katika kila mahali uvumba hutolewa kwa jina langu, na dhabihu safi</strong>; kwa maana jina langu ni kuu katika Mataifa, asema Bwana wa majeshi.»</blockquote>
                 </div><p>Dhabihu safi katika kila mahali duniani. Mababa wa karne za kwanza walitambua katika hili Ekaristi — dhabihu pekee inayotimiza unabii huo.</p><h2>Nini Maandiko yanatufundisha</h2><ul><li>Kuhani ni mwanadamu kama wengine wote, anayeweza kupambana na kushindwa.</li><li>Mamlaka yake na utakatifu wake hutoka kwa Mungu, si kutokana na sifa zake binafsi.</li><li>Uhalali wa sakramenti hautegemei utakatifu binafsi wa mtumishi.</li><li>Ukuhani wa huduma ulioamriwa upo katika Agano Jipya: Matendo 14:23, Tito 1:5, 1 Timotheo 4:14.</li><li>Msamaha wa kisakramenti ulianzishwa na Kristo katika Yohane 20:22-23.</li></ul><p>Kama Biblia inachukuliwa nzima — si vifungu vilivyotengwa — utapata ukuhani ulioamriwa, maungamo, dhabihu na madhabahu. Swali si kwamba ipo katika Biblia. Ipo. Swali ni kama uko tayari kusoma yote.</p>`,
-      nav: { prevTitle: "Ukuu wa Petro", nextTitle: "Kwa nini tunaamini katika imani ya Kikatoliki" }
+      nav: { prevTitle: "Transubstansiasyoni: fumbo la Ekaristi", nextTitle: "Watakatifu na maombezi yao" }
     },
     "transubstanciacion": {
       pageTitle: "Transubstansiasyoni | Imani na Akili",
@@ -427,7 +427,7 @@ const translationsSW = {
                 <h2>Hitimisho</h2>
                 <p>Transubstansiasyoni ni jina la jambo hili: asili ya mkate na ya divai huacha kuwa ilivyokuwa nayo huwa Mwili na Damu ya Kristo, huku kila kinachofikiwa na hisi —sura, ladha, uzito— kikibaki. Si nadharia iliyoongezwa kwenye Maandiko ili kufunika fumbo linalosumbua: ni maelezo kamili ya yale Maandiko yanayosimulia huko Kana na ya yale Paulo anayoyachukulia kuwa dhahiri huko Korintho. Muujiza haumo katika kubadilika kwa sura. Umo katika kubadilika kwa kile kitu kilicho, kwa sababu Kristo alisema hivyo.</p>
                 <p>Linabaki swali moja tu, nalo si juu ya mkate: ni juu ya nani anayesema. Ikiwa yule asemaye "huu ni mwili wangu" ndiye yule ambaye kwa yeye vitu vyote vilifanyika, hakuna la kubishania; kuna la kuamini. Ndiyo maana mada hii haiamuliwi kwa hoja za kemia wala za falsafa ya Kigiriki, bali katika uwanja wa mada <a href="tema-por-que-creemos.html">Kwa nini Tunaamini?</a> Ikiwa neno lake ni neno la Mungu, hufanya lisemalo. Sikuzote limefanya hivyo.</p>`,
-      nav: { prevTitle: "Ekaristi: sakramenti kuu", nextTitle: "Watakatifu na maombezi yao" }
+      nav: { prevTitle: "Ekaristi: sakramenti kuu", nextTitle: "Ukuhani katika Kanisa Katoliki" }
     },
     "recursos-recomendados": {
       sec4: {

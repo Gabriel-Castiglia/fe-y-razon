@@ -75,7 +75,7 @@ const translationsFR = {
       pageTitle: "Le purgatoire | Foi et Raison",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>Le purgatoire et la miséricorde de Dieu</h1><p>Une explication claire du purgatoire comme processus de purification et d'espérance vers l'union définitive avec Dieu.</p><div class="article-meta"><span>6 min de lecture</span><span>Publié en mai 2026</span></div><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
       article: `<p>Le purgatoire est l'étape où les âmes se purifient avant d'entrer dans la pleine présence de Dieu. Ce n'est pas une punition finale, mais un processus d'amour guérisseur.</p><h2>Que signifie la purification ?</h2><p>La purification enlève les conséquences du péché véniel et guérit les blessures de la liberté. C'est la préparation nécessaire à la contemplation divine.</p><blockquote>"Dieu est juste et aussi le plus miséricordieux. Sa justice purifie, sa miséricorde accompagne."</blockquote><h2>Espérance chrétienne</h2><p>Le purgatoire n'est pas une condamnation, mais une œuvre de rédemption. Chaque âme est appelée à la plénitude de l'amour de Dieu, et la purification fait partie de ce chemin.</p><ul><li>L'Église prie pour les âmes du purgatoire.</li><li>Les sacrements et les bonnes œuvres aident à la purification.</li><li>C'est une manifestation de la miséricorde divine.</li></ul><h2>Vivre la foi</h2><p>Comprendre ce mystère invite à vivre avec plus de sainteté, à demander pardon et à offrir des prières pour les défunts, en confiant dans l'œuvre salvatrice du Christ.</p>`,
-      nav: { prevTitle: "La Sainte Trinité", nextTitle: "La loi nouvelle dans le Christ" }
+      nav: { prevTitle: "Les saints et leur intercession", nextTitle: "La loi nouvelle dans le Christ" }
     },
     "la-eucaristia": {
       pageTitle: "L'Eucharistie | Foi et Raison",
@@ -102,7 +102,7 @@ const translationsFR = {
                     <span class="scripture-ref">✝ 1 Corinthiens 11, 27-29</span>
                     <blockquote>«<strong class="s-hi">C'est pourquoi, celui qui mangera le pain ou boira la coupe du Seigneur indignement, sera coupable envers le corps et le sang du Seigneur.</strong> Que chacun donc s'éprouve soi-même, et qu'ainsi il mange du pain et boive de la coupe ; car <strong class="s-hi">celui qui mange et boit sans discerner le corps du Seigneur</strong>, mange et boit un jugement contre lui-même.»</blockquote>
                 </div><p>Le mot grec ἔνοχος — coupable — implique la culpabilité d'un crime réel. On ne peut être coupable d'attenter à un symbole. Paul dit en outre : « sans discerner le corps ». S'il ne s'agissait que de pain, quel Corps y aurait-il à discerner ?</p><h2>Les premiers chrétiens — témoins formés par les apôtres</h2><p>Ignace d'Antioche était un disciple direct de l'apôtre Jean. Il est mort martyr vers l'an 107 après J.-C. Il a écrit dans sa Lettre aux Smyrniotes :</p><blockquote>« <strong>Ils s'abstiennent de l'Eucharistie et de la prière, parce qu'ils ne confessent pas que l'Eucharistie est la chair de notre Sauveur Jésus-Christ</strong>, celle qui a souffert pour nos péchés, celle que le Père a ressuscitée par sa bonté. » — Ignace d'Antioche, Lettre aux Smyrniotes 6-7 (~107 ap. J.-C.)</blockquote><p>Justin Martyr a écrit vers l'an 150 ap. J.-C., soixante-dix ans après la mort des apôtres :</p><blockquote>« <strong>Nous ne recevons pas ces choses comme un pain commun ni comme une boisson commune</strong>... ainsi on nous a enseigné que cet aliment eucharistié est <strong>la chair et le sang de ce Jésus incarné.</strong> » — Justin Martyr, Première Apologie 66 (~150 ap. J.-C.)</blockquote><p>Si les premiers chrétiens — formés par les apôtres eux-mêmes — croyaient en la Présence Réelle, la question qui mérite une réponse honnête est : qui a changé cela ? Quand ? Avec quelle autorité ?</p><p>Pour comprendre comment cette réalité se rend présente à la Messe, passez au thème de la <a href="tema-transubstanciacion.html">Transsubstantiation</a>, à partir de 1 Corinthiens 10, 16. Et pour comprendre pourquoi nous acceptons ces mots comme vérité de Dieu, allez au thème <a href="tema-por-que-creemos.html">Pourquoi nous croyons ?</a></p>`,
-      nav: { prevTitle: "Pourquoi nous croyons en la foi catholique", nextTitle: "Transsubstantiation : le mystère eucharistique" }
+      nav: { prevTitle: "La primauté de Pierre", nextTitle: "Transsubstantiation : le mystère eucharistique" }
     },
     "la-nueva-ley": {
       pageTitle: "La loi nouvelle | Foi et Raison",
@@ -111,7 +111,7 @@ const translationsFR = {
                     <span class="scripture-ref">✝ Matthieu 22, 37-38</span>
                     <blockquote>«<strong class="s-hi">Tu aimeras le Seigneur ton Dieu de tout ton cœur et ton prochain comme toi-même</strong>»</blockquote>
                 </div><h2>Accomplir l'Ancienne Loi</h2><p>Les prophètes ont annoncé une loi nouvelle qui vivrait dans le cœur. L'enseignement du Christ révèle que l'accomplissement authentique de la Loi ne se réduit pas à des actions extérieures, mais à une véritable disposition intérieure.</p><ul><li>La nouvelle loi nous appelle à être le sel de la terre et la lumière du monde.</li><li>Le pardon et la miséricorde en sont l'expression la plus authentique.</li><li>Nous vivons la loi du Christ en nous donnant par amour.</li></ul><h2>Pratique chrétienne</h2><p>La nouvelle loi devient une vie concrète lorsque nous cultivons l'humilité, la justice et la compassion. L'Eucharistie et la prière nous aident à la vivre au jour le jour.</p>`,
-      nav: { prevTitle: "Le purgatoire et la miséricorde de Dieu", nextTitle: "La primauté de Pierre" }
+      nav: { prevTitle: "Le purgatoire et la miséricorde de Dieu", nextTitle: "La Sainte Trinité" }
     },
     "la-primacia-de-pedro": {
       pageTitle: "La primauté de Pierre | Foi et Raison",
@@ -211,7 +211,7 @@ const translationsFR = {
                     <p><sup>*</sup> Si un prêtre catholique décide qu'il veut se marier, il peut le demander, mais il ne peut pas en décider seul. Il doit solliciter formellement la dispense du célibat, que seul le Pape accorde (Code de droit canonique, c. 291), en même temps que la perte de l'état clérical, appelée réduction à l'état laïc. Une fois qu'il l'a reçue, il n'exerce plus le ministère : il ne célèbre plus la messe, ne prêche pas et n'administre pas les sacrements, et il se consacre entièrement à sa vie conjugale et familiale. La seule exception est le danger de mort, dans lequel il peut absoudre quiconque en a besoin (c. 976).</p>
                     <p>Ce qu'il ne perd pas, c'est le sacerdoce. L'ordination imprime un caractère indélébile (c. 1008) : il est prêtre « pour l'éternité selon l'ordre de Melkisédek » (Hébreux 5, 6), et l'Église reconnaît que prêtre il a été et prêtre il demeure. Ce qu'il perd, c'est l'état clérical, avec ses droits et ses obligations : il cesse d'appartenir juridiquement au clergé, devient un laïc au regard du droit de l'Église et se trouve libéré du célibat pour pouvoir se marier validement à l'Église.</p>
                 </div>`,
-      nav: { prevTitle: "La loi nouvelle dans le Christ", nextTitle: "Le Sacerdoce dans l'Église Catholique" }
+      nav: { prevTitle: "Pourquoi nous croyons en la foi catholique", nextTitle: "L'Eucharistie : le sacrement central" }
     },
     "la-santisima-trinidad": {
       pageTitle: "La Sainte Trinité | Foi et Raison",
@@ -220,7 +220,7 @@ const translationsFR = {
                     <span class="scripture-ref">✝ Matthieu 28, 19</span>
                     <blockquote>«<strong class="s-hi">Au nom du Père, et du Fils, et du Saint-Esprit</strong>»</blockquote>
                 </div><h2>Action commune</h2><p>Le Père envoie le Fils, le Fils rachète, et l'Esprit sanctifie. Cette action conjointe montre que le salut est l'œuvre de la Trinité tout entière.</p><ul><li>Dieu est amour communionnel.</li><li>La Trinité est le fondement de la vie chrétienne dans l'Église.</li><li>La présence de Dieu se révèle dans l'histoire comme relation.</li></ul><h2>Implications pour la vie</h2><p>La doctrine trinitaire nous invite à vivre dans la communion, la transparence et le service. Nous sommes créés à l'image d'un Dieu qui est communauté.</p>`,
-      nav: { prevTitle: "Les saints et leur intercession", nextTitle: "Le purgatoire et la miséricorde de Dieu" }
+      nav: { prevTitle: "La loi nouvelle dans le Christ", nextTitle: "Pourquoi nous croyons en la foi catholique" }
     },
     "los-santos": {
       pageTitle: "Les saints | Foi et Raison",
@@ -303,7 +303,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
             <p>Les saints sont ceux qui ont vécu dans la foi —Abel, Hénoch, Noé, Abraham, Moïse, les prophètes—, ceux qui après la mort sont dans la cité du Dieu vivant, la Jérusalem céleste. Là ils connaissent comme Dieu les connaît. Là ils voient Dieu tel qu'il est. Là il n'y a ni limite ni distance.</p>
 
             <p>Et ce que fait l'Église en les invoquant est exactement ce que montre l'Apocalypse : ils portent à l'autel du ciel les prières des fidèles et les présentent devant le trône de l'Agneau. On n'adore pas les saints. On leur demande d'intercéder auprès de Dieu, comme on demande à un frère vivant de prier pour soi. La seule différence joue en leur faveur : ils sont au ciel et connaissent comme Dieu connaît. C'est pourquoi ils voient, ils entendent et ils intercèdent. Celui qui dit que les morts ne peuvent pas entendre doit d'abord expliquer pourquoi le ciel garde les prières dans des coupes d'or.</p>`,
-      nav: { prevTitle: "Transsubstantiation : le mystère eucharistique", nextTitle: "La Sainte Trinité" }
+      nav: { prevTitle: "Le Sacerdoce dans l'Église Catholique", nextTitle: "Le purgatoire et la miséricorde de Dieu" }
     },
     "por-que-creemos": {
       pageTitle: "Pourquoi nous croyons | Foi et Raison",
@@ -339,7 +339,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
                     <span class="scripture-ref">✝ Matthieu 16, 18</span>
                     <blockquote>«Et moi, je te dis que tu es Pierre, et que sur cette pierre je bâtirai mon Église, <strong class="s-hi">et que les portes du séjour des morts ne prévaudront point contre elle.</strong>»</blockquote>
                 </div><p>Cette promesse protège le Magistère — l'enseignement officiel de l'Église — d'enseigner l'erreur de manière définitive. Cela ne signifie pas que chaque membre est impeccable. Cela signifie que la vérité que le Christ a confiée à son Église ne peut être détruite.</p><h2>Conclusion : croire et accomplir</h2><p>La Parole des prophètes vient de Dieu. Les apôtres l'ont attestée. Il faut la lire tout entière — y compris ce qu'elle dit sur la Tradition orale, sur qui interprète et sur l'Église que le Christ a fondée. Et il faut faire ce que Dieu dit : c'est cela la foi. Ce n'est pas celui qui dit « Seigneur, Seigneur » qui sera sauvé, mais celui qui fait la volonté du Père (Mt 7, 21). La Bible, lue en entier et avec honnêteté, pointe vers la même Église que Jésus a fondée. Croire, c'est faire confiance à Jésus-Christ même si l'expérience humaine dit le contraire, comme Pierre l'a fait sur le lac. Et cet acte de confiance change tout.</p>`,
-      nav: { prevTitle: "Le Sacerdoce dans l'Église Catholique", nextTitle: "L'Eucharistie : le sacrement central" }
+      nav: { prevTitle: "La Sainte Trinité", nextTitle: "La primauté de Pierre" }
     },
     "sacerdocio": {
       pageTitle: "Le Sacerdoce | Foi et Raison",
@@ -369,7 +369,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
                     <span class="scripture-ref">✝ Malachie 1, 11</span>
                     <blockquote>«Car depuis le lever du soleil jusqu'à son couchant, mon nom est grand parmi les nations, et <strong class="s-hi">en tout lieu on brûle de l'encens en l'honneur de mon nom et l'on présente des offrandes pures</strong> ; car grand est mon nom parmi les nations, dit l'Éternel des armées.»</blockquote>
                 </div><p>Une offrande pure en tout lieu de la terre. Les Pères des premiers siècles ont reconnu là l'Eucharistie — le seul sacrifice qui accomplit cette prophétie.</p><h2>Ce que l'Écriture nous enseigne</h2><ul><li>Le prêtre est un homme comme les autres, qui peut lutter et faillir.</li><li>Son autorité et sa sainteté viennent de Dieu, non de ses mérites personnels.</li><li>La validité des sacrements ne dépend pas de la sainteté personnelle du ministre.</li><li>Le sacerdoce ministériel ordonné est dans le Nouveau Testament : Actes 14, 23, Tite 1, 5, 1 Tim 4, 14.</li><li>Le pardon sacramentel a été institué par le Christ dans Jean 20, 22-23.</li></ul><p>Si l'on prend la Bible entière — et non des passages isolés — on trouve le sacerdoce ordonné, la confession, le sacrifice et l'autel. La question n'est pas de savoir si c'est dans la Bible. Ça y est. La question est de savoir si l'on est prêt à tout lire.</p>`,
-      nav: { prevTitle: "La primauté de Pierre", nextTitle: "Pourquoi nous croyons en la foi catholique" }
+      nav: { prevTitle: "Transsubstantiation : le mystère eucharistique", nextTitle: "Les saints et leur intercession" }
     },
     "transubstanciacion": {
       pageTitle: "Transsubstantiation | Foi et Raison",
@@ -435,7 +435,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
                 <h2>Conclusion</h2>
                 <p>Transsubstantiation est le nom de cela : la substance du pain et celle du vin cessent d'être ce qu'elles étaient et deviennent le Corps et le Sang du Christ, tandis que demeure tout ce que les sens atteignent — l'aspect, le goût, le poids. Ce n'est pas une théorie ajoutée à l'Écriture pour couvrir un mystère gênant : c'est la description exacte de ce que l'Écriture raconte à Cana et de ce que Paul tient pour acquis à Corinthe. Le miracle ne consiste pas en ce que les apparences changent. Il consiste en ce que change ce que la chose est, parce que le Christ l'a dit.</p>
                 <p>Il reste une seule question, et elle ne porte pas sur le pain : elle porte sur celui qui parle. Si celui qui dit « ceci est mon corps » est celui par qui tout a été fait, il n'y a rien à discuter ; il y a quelque chose à croire. C'est pourquoi ce thème ne se tranche pas avec des arguments de chimie ou de philosophie grecque, mais sur le terrain du thème <a href="tema-por-que-creemos.html">Pourquoi nous croyons ?</a> Si sa parole est parole de Dieu, elle fait ce qu'elle dit. Elle l'a toujours fait.</p>`,
-      nav: { prevTitle: "L'Eucharistie : le sacrement central", nextTitle: "Les saints et leur intercession" }
+      nav: { prevTitle: "L'Eucharistie : le sacrement central", nextTitle: "Le Sacerdoce dans l'Église Catholique" }
     },
     "recursos-recomendados": {
       sec4: {
