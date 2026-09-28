@@ -43,7 +43,7 @@ const translationsSW = {
     category: "Mafundisho", date: "Septemba 2026", title: "Utatu Mtakatifu", excerpt: "Nafsi tatu na Mungu mmoja: jibu la Maandiko kwa Wapentekoste wa Muungano, kifungu kwa kifungu.", time: "Dakika 11 kusoma", link: "Soma →"
   },
   article7: {
-    category: "Mafundisho", date: "Hivi karibuni", title: "Toharani", excerpt: "Utakaso wa mwisho kabla ya kuingia mbele ya Mungu.", time: "Dakika 6 kusoma", link: "Soma →"
+    category: "Mafundisho", date: "Septemba 2026", title: "Toharani", excerpt: "Gereza ambalo mtu hutoka na dhambi zinazosamehewa katika ulimwengu ujao: anachofundisha Kristo juu ya utakaso.", time: "Dakika 8 kusoma", link: "Soma →"
   },
   article8: {
     category: "Mafundisho", date: "Hivi karibuni", title: "Sheria Mpya", excerpt: "Sheria ya Kristo inayochukua nafasi ya Sheria ya Kale na kuwaongoza Wakristo.", time: "Dakika 8 kusoma", link: "Soma →"
@@ -56,6 +56,7 @@ const translationsSW = {
   },
   mission: {
     title: "Misheni Yetu",
+    intro: "Tovuti hii inasasishwa kila wakati kwa mada mpya za kiapolojetiki. Ikiwa unataka mada fulani ishughulikiwe, tuandikie kupitia fomu ya mawasiliano nasi tutaiongeza kadiri inavyowezekana.",
     teach: { title: "Kufundisha", desc: "Kuongeza kina katika mafundisho ya Kikatoliki kwa hoja thabiti zinazotokana na Maandiko Matakatifu, Magisterio ya Kanisa na akili." },
     illuminate: { title: "Kuangaza", desc: "Kutoa majibu wazi yanayosaidia waamini kuelewa vizuri imani yao na kujibu maswali magumu kutoka kwa mikondo tofauti ya uzushi au madhehebu." },
     defend: { title: "Kutetea", desc: "Kutoa hoja za kiapolojetiki kuelewa na kutetea imani ya Kikatoliki dhidi ya pingamizi, mashaka na kila aina ya uzushi wa kisasa, madhehebu na mikondo inayopinga Ukatoliki." }
@@ -75,8 +76,62 @@ const translationsSW = {
     common: { prevLabel: "Makala iliyopita", nextLabel: "Makala inayofuata", backToTopics: "Rudi kwenye Mada" },
     "el-purgatorio": {
       pageTitle: "Toharani | Imani na Akili",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Toharani na Huruma ya Mungu</h1><p>Ufafanuzi wazi wa toharani kama mchakato wa utakaso na matumaini kuelekea muungano wa mwisho na Mungu.</p><div class="article-meta"><span>Dakika 6 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
-      article: `<p>Toharani ni hatua ambayo roho hutakaswa kabla ya kuingia katika uwepo kamili wa Mungu. Sio adhabu ya mwisho, bali ni mchakato wa upendo unaoponya.</p><h2>Utakaso unamaanisha nini?</h2><p>Utakaso huondoa matokeo ya dhambi nyepesi na kuponya majeraha ya uhuru. Ni maandalizi muhimu kwa tafakari ya kimungu.</p><blockquote>"Mungu ni mwenye haki na pia mwenye huruma zaidi. Haki yake hutakasa, huruma yake huambatana."</blockquote><h2>Matumaini ya Kikristo</h2><p>Toharani sio laana, bali ni kazi ya ukombozi. Kila roho inaitwa kwenye ukamilifu wa upendo wa Mungu, na utakaso ni sehemu ya njia hiyo.</p><ul><li>Kanisa linasali kwa ajili ya roho za toharani.</li><li>Sakramenti na matendo mema husaidia katika utakaso.</li><li>Ni dhihirisho la huruma ya kimungu.</li></ul><h2>Kuishi imani</h2><p>Kuelewa fumbo hili kunatualika kuishi kwa utakatifu zaidi, kuomba msamaha na kutoa sala kwa ajili ya marehemu, tukitumainia kazi ya ukombozi ya Kristo.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Toharani na Huruma ya Mungu</h1><p>Gereza ambalo mtu hutoka na dhambi zinazosamehewa katika ulimwengu ujao: anachofundisha Kristo juu ya utakaso baada ya kifo, kifungu kwa kifungu.</p><div class="article-meta"><span>Dakika 8 kusoma</span><span>Imechapishwa Septemba 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      article: `<p>Madhehebu kadhaa ya Kiprotestanti yanashikilia uzushi kwamba toharani haipo, na yanautetea kwa njia mbili. Ya kwanza inarudiwa na karibu yote: <em>«Neno toharani halimo katika Biblia. Ni uvumbuzi wa Roma: damu ya Kristo inatutakasa na dhambi yote, na anayekufa huenda moja kwa moja mbinguni au motoni.»</em> Ya pili ni ya Waadventista na Mashahidi wa Yehova, wanaokana kwamba roho inaendelea kuishi baada ya kifo: <em>«Wafu hawajui neno lolote (Mhu 9:5). Hakuna wa kutakaswa wala wa kuombewa.»</em></p>
+                <p>Ya kwanza inajibiwa kwa mstari mmoja. Neno toharani halimo katika Biblia, wala neno Utatu halimo, na Utatu umo katika kila ukurasa. Kinachojalisha ni kama Maandiko yanafundisha kwamba kuna mahali ambapo si motoni, kwa sababu motoni hakuna anayetoka, ambapo deni la dhambi hulipwa mpaka mwisho na baadaye mtu hutoka. Yanafundisha hivyo, na anayefundisha ni Kristo.</p>
+                <p>Toharani ni kazi ya huruma. Ni kama kumimina spiriti juu ya jeraha lililooza: linauma na kuwasha, lakini baba anayempenda mwanawe hulisafisha, kwa sababu hatakubali mkono uoze kwa ajili ya mkwaruzo. Hivyo ndivyo toharani inavyofanya: inasafisha kile ambacho dhambi iliacha, ili roho iweze kuingia mbele ya uso wa Mungu.</p>
+                <h2>«Hata atakapolipa deni lote»<br>Mathayo 18:23-35</h2>
+                <p>Yesu anaueleza Ufalme wa Mbinguni kwa mfano wa mtumwa asiyesamehe.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mathayo 18:23-35</span>
+                    <blockquote>«Kwa hiyo <strong class="s-hi">ufalme wa mbinguni umefanana na mfalme mmoja aliyetaka kufanya hesabu na watumwa wake</strong>. … Bwana wake akaghadhibika, <strong class="s-hi">akamtia mikononi mwa watesaji, hata atakapolipa deni lote. Na Baba yangu wa mbinguni atawafanya ninyi vivyo hivyo</strong>, msipowasamehe kila mtu ndugu yake kwa mioyo yenu.»</blockquote>
+                </div>
+                <p>Adhabu ina mwisho: inadumu mpaka mtumwa alipe yote aliyodaiwa. Kwanza analipa, kisha anatoka. Motoni hakuna anayetoka, kwa hiyo gereza hilo si motoni. Na Yesu hauachi mfano kama hadithi ya mfalme yeyote tu: <em>«Na Baba yangu wa mbinguni atawafanya ninyi vivyo hivyo.»</em> Si tafsiri ya Kanisa wala dhana. Kristo ndiye aliyesema.</p>
+                <h2>Gereza ambalo mtu hutoka<br>Mathayo 5:25-26</h2>
+                <p>Katika Mahubiri ya Mlimani, Yesu anatumia picha ileile.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mathayo 5:25-26</span>
+                    <blockquote>«Patana na mshitaki wako upesi, wakati uwapo pamoja naye njiani; <strong class="s-hi">mshitaki wako asije akakupeleka kwa mwamuzi, na mwamuzi akakupeleka kwa askari, ukatupwa gerezani</strong>. Amin, nakuambia, <strong class="s-hi">hutoki humo kamwe, hata uilipe senti ya mwisho</strong>.»</blockquote>
+                </div>
+                <p>Mwamuzi ni Mungu, askari ni malaika zake, na gereza ni toharani. «Hata uilipe» maana yake kuna wakati deni linaisha na mlango unafunguliwa. Gereza hilo si la milele. Moto wa milele ndio wa milele.</p>
+                <h2>Msamaha katika ulimwengu ujao<br>Mathayo 12:32</h2>
+                <p>Akizungumzia dhambi dhidi ya Roho Mtakatifu, Yesu anatofautisha nyakati mbili.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mathayo 12:32</span>
+                    <blockquote>«Na mtu yeyote atakayenena neno juu ya Mwana wa Adamu, atasamehewa; bali yeyote atakayenena neno juu ya Roho Mtakatifu, <strong class="s-hi">hatasamehewa, katika ulimwengu huu, wala katika ule ujao</strong>.»</blockquote>
+                </div>
+                <p>Kama hakuna dhambi ingesamehewa baada ya kifo, kusema kwamba hii haitasamehewa «katika ule ujao» kungekuwa bure. Yesu anachukulia kwamba dhambi nyingine husamehewa katika ulimwengu huu na nyingine katika ule ujao. Hii hapana; nyingine ndiyo. Mbinguni hakuna cha kusamehewa, na motoni hakuna msamaha. Msamaha huo wa ulimwengu ujao hutokea mahali pengine.</p>
+                <h2>Si kila dhambi ni ya mauti<br>1 Yohane 5:16-17</h2>
+                <p>Yohane anatofautisha aina mbili za dhambi.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Yohane 5:16-17</span>
+                    <blockquote>«Mtu akimwona ndugu yake akitenda <strong class="s-hi">dhambi isiyo ya mauti</strong>, <strong class="s-hi">ataomba, naye atampa uzima</strong>, yaani wale wanaotenda dhambi isiyo ya mauti. Iko dhambi iliyo ya mauti; <strong class="s-hi">sisemi kwamba ataomba kwa ajili ya hiyo</strong>. Kila lisilo la haki ni dhambi; lakini <strong class="s-hi">iko dhambi isiyo ya mauti</strong>.»</blockquote>
+                </div>
+                <p>Kuna dhambi za mauti na dhambi zisizo za mauti. Kanisa huziita dhambi za mauti na dhambi nyepesi. Kwa ajili ya ndugu anayetenda dhambi isiyo ya mauti mtu huomba, na Mungu humpa uzima. Anayekufa na dhambi zisizo za mauti hajahukumiwa, lakini pia si safi. Kati ya hukumu na uso wa Mungu kinabaki hicho hasa: utakaso.</p>
+                <h2>Wafu wanaishi<br>Yohane 11:21-27</h2>
+                <p>Waadventista na Mashahidi wa Yehova wanajibiwa na Yesu kando ya kaburi la Lazaro.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Yohane 11:21-27</span>
+                    <blockquote>«Basi Martha akamwambia Yesu, «Bwana, kama ungalikuwapo hapa, ndugu yangu hangalikufa. Lakini hata sasa najua ya kuwa yoyote utakayomwomba Mungu, Mungu atakupa.» Yesu akamwambia, «Ndugu yako atafufuka.» Martha akamwambia, «Najua ya kuwa atafufuka katika ufufuo siku ya mwisho.» Yesu akamwambia, «Mimi ndimi huo ufufuo, na uzima. Yeye aniaminiye mimi, <strong class="s-hi">ajapokufa, atakuwa anaishi</strong>; naye kila aishiye na kuniamini <strong class="s-hi">hatakufa kamwe</strong>. Je! Unayasadiki hayo?» Akamwambia, «Naam, Bwana, mimi nimesadiki ya kuwa wewe ndiwe Kristo, Mwana wa Mungu, yule ajaye ulimwenguni.»»</blockquote>
+                </div>
+                <p>Martha anazungumzia ufufuo wa siku ya mwisho, na Yesu anaenda mbele zaidi: anayemwamini, ajapokufa, anaishi, na hatakufa kamwe. Kifo cha mwili hakizimi uzima wa anayeamini. Wafu katika Kristo hawajalala katika utupu wakingoja mwisho wa dunia. Wako hai.</p>
+                <h2>Roho hurudi kwa Mungu<br>Mhubiri 12:7</h2>
+                <p>Kitabu kilekile ambamo pingamizi linatoka kinasema kinachotokea mtu anapokufa.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mhubiri 12:7</span>
+                    <blockquote>«nayo mavumbi kuirudia nchi kama yalivyokuwa, nayo <strong class="s-hi">roho kumrudia Mungu</strong> aliyeitoa.»</blockquote>
+                </div>
+                <p>Mwili hurudi mavumbini na roho humrudia Mungu. Neno la Kiebrania ni <em>ruach</em>, linalotafsiriwa pia pumzi; kwa vyovyote vile, kinachomrudia Mungu ni kile alichokitoa. Sentensi ya Mhubiri 9:5 wanayoinukuu Waadventista inakamilika katika mstari unaofuata: wafu <em>«hawana sehemu tena milele katika jambo lolote linalotendeka chini ya jua»</em> (Mhu 9:6). Hawajui lolote kuhusu yanayotokea katika ulimwengu huu. Hilo halisemi kwamba wameacha kuwepo.</p>
+                <p>Na inapomrudia Mungu, roho inapaswa kuwa safi, kwa sababu kilicho na doa la dhambi hakiwezi kusimama mbele yake. Kwa ajili hiyo ipo toharani.</p>
+                <ul>
+                    <li>Yesu anazungumzia deni linalolipwa mpaka mwisho na gereza ambalo mtu hutoka.</li>
+                    <li>Kuna dhambi zinazosamehewa katika ulimwengu ujao.</li>
+                    <li>Si kila dhambi ni ya mauti, na kwa ajili ya anayetenda dhambi isiyo ya mauti mtu huomba.</li>
+                    <li>Wanaokufa katika Kristo wanaishi, na roho yao humrudia Mungu.</li>
+                </ul>
+                <h2>Hitimisho</h2>
+                <p>Toharani si uvumbuzi wa Roma wala mlango wa nyuma wa kukwepa moto wa milele. Ndicho Kristo anachokieleza anaposema juu ya gereza ambalo mtu hutoka baada ya kulipa senti ya mwisho, na juu ya dhambi zinazosamehewa katika ulimwengu ujao. Ni damu ya Kristo inayotakasa, hata huko: toharani ni damu hiyo ikimfikia yule aliyekufa katika neema lakini bado ana doa.</p>
+                <p>Waadventista na Mashahidi wa Yehova wako sahihi kwamba wafu hawana sehemu katika yanayotendeka chini ya jua. Wanakosea katika wanachokihitimisha kutoka hapo. Anayemwamini Kristo, ajapokufa, atakuwa anaishi, na roho yake humrudia Mungu aliyeitoa.</p>`,
       nav: { prevTitle: "Watakatifu na maombezi yao", nextTitle: "Sheria Mpya katika Kristo" }
     },
     "la-eucaristia": {
@@ -118,7 +173,7 @@ const translationsSW = {
     "la-primacia-de-pedro": {
       pageTitle: "Ukuu wa Petro | Imani na Akili",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Ukuu wa Petro</h1><p>Kristo alilijenga Kanisa lake juu ya Petro, akampa funguo za Ufalme na kumkabidhi kazi ya kuwaimarisha ndugu zake. Yanayosemwa na Maandiko, kifungu kwa kifungu.</p><div class="article-meta"><span>Dakika 14 kusoma</span><span>Imechapishwa Septemba 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
-      article: `<p>Dhidi ya upapa pingamizi lina sura mbili. La kwanza linarudiwa na Waprotestanti wa karibu madhehebu yote, Waadventista na Mashahidi wa Yehova: <em>«Mwamba ni Kristo, si Petro. Petro ni kijiwe tu; mwamba ni imani aliyoikiri.»</em> La pili ni la ulimwengu wa Wainjilisti: <em>«Kanisa la kweli halionekani: halina daraja za uongozi, wala maaskofu, wala papa. Hayo yote yamebuniwa na Roma.»</em></p>
+      article: `<p>Dhidi ya upapa pingamizi lina sura mbili. La kwanza linarudiwa na Waprotestanti wa karibu madhehebu yote, wakiwemo Waadventista na Mashahidi wa Yehova: <em>«Mwamba ni Kristo, si Petro. Petro ni kijiwe tu; mwamba ni imani aliyoikiri.»</em> La pili ni la ulimwengu wa Wainjilisti: <em>«Kanisa la kweli halionekani: halina daraja za uongozi, wala maaskofu, wala papa. Hayo yote yamebuniwa na Roma.»</em></p>
                 <p>Zote mbili zinajibiwa kwa Maandiko. Kwanza, Kanisa limejengwa juu ya nini na nani anashika funguo. Kisha, kama Kanisa hilo lina uongozi na kama lilikuwepo kabla mtu yeyote hajalipanga. Na mwisho, Kristo alimkabidhi nani kazi ya kuwategemeza wengine.</p>
                 <h2>Kristo ni jiwe kuu la pembeni, na kuna msingi<br>Waefeso 2:20-22</h2>
                 <p>Kabla ya kubishana kama Petro ni mwamba, inafaa kuona jinsi Paulo anavyoitumia picha hiyo.</p>
@@ -465,7 +520,7 @@ const translationsSW = {
                 <span>Imechapishwa Agosti 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
-      article: `<p>Mbele ya Ekaristi pingamizi hubadilisha sura lakini si kiini chake. Mashahidi wa Yehova, Waadventista, Wapentekoste, Wamormoni na Waprotestanti kwa ujumla hurudia mojawapo ya haya mawili: <em>"Mkate bado ni mkate: unaonekana kama mkate na una ladha ya mkate."</em> na <em>"Transubstansiasyoni ni neno lililobuniwa, falsafa ya Kigiriki; halimo katika Biblia."</em></p>
+      article: `<p>Mbele ya Ekaristi pingamizi hubadilisha sura lakini si kiini chake. Waprotestanti wa matawi yote, wakiwemo Wapentekoste, Waadventista, Mashahidi wa Yehova na Wamormoni, hurudia mojawapo ya haya mawili: <em>"Mkate bado ni mkate: unaonekana kama mkate na una ladha ya mkate."</em> na <em>"Transubstansiasyoni ni neno lililobuniwa, falsafa ya Kigiriki; halimo katika Biblia."</em></p>
                 <p>La pili hujibiwa kwa mstari mmoja: maneno "Utatu" na "Biblia" nayo hayamo, wala hakuna anayebisha yale wanayoyataja. Neno haliumbi jambo: hulipa jina. La kwanza ndilo lenye maana, nalo halijibiwi kwa falsafa bali kwa Maandiko, kwa sababu Maandiko yamekwisha kusimulia kinachotokea Kristo anaposema kwamba kitu kimoja ni kingine. Vifungu vitano, kwa mpangilio.</p>
                 <h2>Neno halielezi: hufanya<br>Yohane 1:1-3</h2>
                 <p>Kabla ya kubishana juu ya kinachoweza kuupata mkate, ni lazima kujua neno la Mungu ni nini.</p>
@@ -614,7 +669,8 @@ const translationsSW = {
             </div>
             <h1>Kuhusu tovuti hii</h1>
             <p>Safari kupitia falsafa ambazo hazikushikilia — hadi Kanisa ambalo lilishikilia.</p>
-            <a href="temas.html" class="btn-outline-white">Rudi kwa Mada</a>`,
+            <a href="temas.html" class="btn-outline-white">Rudi kwa Mada</a>
+            <a href="privacidad.html" class="btn-outline-white btn-hero-extra">Faragha</a>`,
       article: `<p>Nilifika Ukatoliki baada ya safari ndefu. Nilisoma kila kitu: uchawi na <!-- TODO: verificar terminología "apologética" en Kiswahili -->esotericismo, zile zinazoitwa <!-- TODO: verificar terminología "Tablas Esmeralda" en Kiswahili -->Vibao vya Zumaridi, falsafa za Mashariki, Nietzsche, wafuasi wa Epicurus. Nilitafuta majibu kila mahali lakini sikupata hata moja iliyoshikilia. Stoicism ilikuwa kitu cha mwisho kilichonipa kitu cha kweli kabla ya Kristo — Seneka, Marcus Aurelius, Epictetus walinifundisha kutazama ukweli bila kupepesa macho. Na nikitazama ukweli bila kupepesa macho, niliishia mahali ambapo sikutarajia: mbele ya Kanisa Katoliki.</p>
 
             <p>Tovuti hii ni kwa ajili yako ikiwa uko katika moja ya maeneo haya: unashaka imani uliyoipokea na hujui kumwuliza nani; unatafuta kati ya mila na hakuna anayekupa jibu linaloweza kubeba uzito; umebadilika imani hivi karibuni na unahisi upweke, bila mwongozo, ukishambuliwa pande zote. Ninajua mahali pale. Nilikuwepo. Na najua kilichopo karibu napo: Wakatoliki wa jadi ambao wakati mwingine wanachukua kwa kawaida kile ambacho wangelazimika kuthibitisha na hawajui kukieleza; na mbaya zaidi, Wakatoliki wa <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Kiswahili -->vuguvugu — wale wanaokwenda Misa kwa mazoea, hawajui wanachokiamini, hawatetei kitu chochote, na wao ndio wa kwanza kukuna mabega wakati mtu anaishambulia imani mbele yao.</p>
@@ -627,7 +683,7 @@ const translationsSW = {
 
             <p>Mkatoliki vuguvugu hatetei kitu, haeleweshi kitu, hamshawishi mtu yeyote. Angalau anayeamini kitu kibaya ana kitu cha kutoa.</p>
 
-            <p>Na Waprotestanti wanajitokeza. Wanajitokeza kila wakati. Mashahidi wa Yehova, Wapentekosti, Waadventista, Wamormon, kila <!-- TODO: verificar terminología "secta" en Kiswahili -->kikundi cha dini chenye toleo lake lililofupishwa la Maandiko na uhakika wake uliokopwa. Hapa utapata jibu kwa vikundi hivyo vya dini, katika uwanja wao wenyewe, kwa silaha yao wenyewe: Biblia yote — ikiwemo <!-- TODO: verificar terminología "deuterocanónicos" en Kiswahili -->vitabu vya deuterokanonisi ambavyo walivivuta kutoka tafsiri zao bila mamlaka ya kufanya hivyo. Kwa Biblia iliyosomwa vizuri, <!-- TODO: verificar terminología "Padres de la Iglesia" en Kiswahili -->Mababa wa Kanisa, <!-- TODO: verificar terminología Magisterio en Kiswahili -->Magisterium, <!-- TODO: verificar terminología Catecismo en Kiswahili -->Katekisimu, na akili ambayo Mungu alitupa kama zawadi.</p>
+            <p>Na Waprotestanti wanajitokeza. Wanajitokeza kila wakati. Mashahidi wa Yehova, Wapentekosti, Waadventista, Wamormon, kila <!-- TODO: verificar terminología "secta" en Kiswahili -->kikundi cha dini chenye toleo lake lililofupishwa la Maandiko na uhakika wake uliokopwa. Hapa utapata jibu kwa vikundi hivyo vya dini, katika uwanja wao wenyewe, kwa silaha yao wenyewe: Biblia. Vitabu vya Deuterokanoni, ambavyo waliviondoa katika tafsiri zao bila mamlaka ya kufanya hivyo, ni Neno la Mungu sawa na vitabu vingine. Lakini ninapowajibu sivinukuu: ninatumia vitabu tu ambavyo wao wenyewe wanavikubali, ili mtu yeyote asiseme «hilo halimo katika Biblia» au «hilo waliliongeza Wakatoliki». Kwa Biblia iliyosomwa vizuri, <!-- TODO: verificar terminología "Padres de la Iglesia" en Kiswahili -->Mababa wa Kanisa, <!-- TODO: verificar terminología Magisterio en Kiswahili -->Magisterium, <!-- TODO: verificar terminología Catecismo en Kiswahili -->Katekisimu, na akili ambayo Mungu alitupa kama zawadi.</p>
 
             <p>Msukumo wangu mkuu katika kazi hii ni Padre Luis Toro. Anachotenda kwa kusema, mimi ninajaribu kufanya kwa kuandika, katika lugha na kwa wasomaji ambao yeye hawafiki.</p>
 

@@ -43,7 +43,7 @@ const translationsFR = {
     category: "Doctrine", date: "Septembre 2026", title: "La Sainte Trinité", excerpt: "Trois Personnes et un seul Dieu : ce que l'Écriture répond aux pentecôtistes unis, passage par passage.", time: "11 min de lecture", link: "Lire →"
   },
   article7: {
-    category: "Doctrine", date: "Bientôt", title: "Le purgatoire", excerpt: "La purification finale avant d'entrer en présence de Dieu.", time: "6 min de lecture", link: "Lire →"
+    category: "Doctrine", date: "Septembre 2026", title: "Le purgatoire", excerpt: "Une prison dont on sort et des péchés pardonnés dans le monde à venir : ce que le Christ enseigne sur la purification.", time: "8 min de lecture", link: "Lire →"
   },
   article8: {
     category: "Doctrine", date: "Bientôt", title: "La loi nouvelle", excerpt: "La loi du Christ qui remplace l'Ancienne Loi et guide les chrétiens.", time: "8 min de lecture", link: "Lire →"
@@ -56,6 +56,7 @@ const translationsFR = {
   },
   mission: {
     title: "Notre Mission",
+    intro: "Ce site est constamment mis à jour avec de nouveaux thèmes apologétiques. Si vous souhaitez qu'un sujet en particulier soit traité, écrivez-nous par le formulaire de contact et nous l'inclurons dans la mesure du possible.",
     teach: { title: "Enseigner", desc: "Approfondir la doctrine catholique avec des arguments solides basés sur les Saintes Écritures, le Magistère de l'Église et la raison." },
     illuminate: { title: "Éclairer", desc: "Fournir des réponses claires qui aident les fidèles à mieux comprendre leur foi et à répondre aux questions difficiles des courants hérétiques ou des sectes." },
     defend: { title: "Défendre", desc: "Offrir des arguments apologétiques pour comprendre et défendre la foi catholique contre les objections, les doutes et toutes sortes d'hérésies modernes, de sectes et de courants anti-catholiques." }
@@ -75,8 +76,62 @@ const translationsFR = {
     common: { prevLabel: "Article précédent", nextLabel: "Article suivant", backToTopics: "Retour aux Thèmes" },
     "el-purgatorio": {
       pageTitle: "Le purgatoire | Foi et Raison",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>Le purgatoire et la miséricorde de Dieu</h1><p>Une explication claire du purgatoire comme processus de purification et d'espérance vers l'union définitive avec Dieu.</p><div class="article-meta"><span>6 min de lecture</span><span>Publié en mai 2026</span></div><a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
-      article: `<p>Le purgatoire est l'étape où les âmes se purifient avant d'entrer dans la pleine présence de Dieu. Ce n'est pas une punition finale, mais un processus d'amour guérisseur.</p><h2>Que signifie la purification ?</h2><p>La purification enlève les conséquences du péché véniel et guérit les blessures de la liberté. C'est la préparation nécessaire à la contemplation divine.</p><blockquote>"Dieu est juste et aussi le plus miséricordieux. Sa justice purifie, sa miséricorde accompagne."</blockquote><h2>Espérance chrétienne</h2><p>Le purgatoire n'est pas une condamnation, mais une œuvre de rédemption. Chaque âme est appelée à la plénitude de l'amour de Dieu, et la purification fait partie de ce chemin.</p><ul><li>L'Église prie pour les âmes du purgatoire.</li><li>Les sacrements et les bonnes œuvres aident à la purification.</li><li>C'est une manifestation de la miséricorde divine.</li></ul><h2>Vivre la foi</h2><p>Comprendre ce mystère invite à vivre avec plus de sainteté, à demander pardon et à offrir des prières pour les défunts, en confiant dans l'œuvre salvatrice du Christ.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>Le purgatoire et la miséricorde de Dieu</h1><p>Une prison dont on sort et des péchés pardonnés dans le monde à venir : ce que le Christ enseigne sur la purification après la mort, passage par passage.</p><div class="article-meta"><span>8 min de lecture</span><span>Publié en septembre 2026</span></div><a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
+      article: `<p>Plusieurs sectes protestantes soutiennent l'hérésie selon laquelle le purgatoire n'existe pas, et elles la défendent de deux manières. La première, presque toutes la répètent : <em>« Le mot purgatoire n'est pas dans la Bible. C'est une invention de Rome : le sang du Christ nous purifie de tout péché, et celui qui meurt va tout droit au ciel ou en enfer. »</em> La seconde est propre aux adventistes et aux Témoins de Jéhovah, qui nient que l'âme reste vivante après la mort : <em>« Les morts ne savent rien (Qo 9, 5). Il n'y a personne à purifier ni personne pour qui prier. »</em></p>
+                <p>La première se règle en une ligne. Le mot purgatoire n'est pas dans la Bible, le mot Trinité non plus, et la Trinité est à chaque page. Ce qui compte, c'est de savoir si l'Écriture enseigne qu'il existe un lieu qui n'est pas l'enfer, car de l'enfer on ne sort pas, où l'on paie la dette du péché jusqu'au bout et d'où l'on sort ensuite. Elle l'enseigne, et c'est le Christ qui l'enseigne.</p>
+                <p>Le purgatoire est une œuvre de miséricorde. C'est comme verser de l'alcool sur une plaie infectée : ça brûle et ça fait mal, mais un père qui aime son fils la lui nettoie, parce qu'il ne laissera pas son bras se gangrener pour une écorchure. Voilà ce que fait le purgatoire : il nettoie ce que le péché a laissé, pour que l'âme puisse entrer dans la présence de Dieu.</p>
+                <h2>« Jusqu'à ce qu'il ait tout remboursé »<br>Matthieu 18, 23-35</h2>
+                <p>Jésus explique le Royaume des Cieux par la parabole du serviteur qui n'a pas pardonné.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matthieu 18, 23-35</span>
+                    <blockquote>«Ainsi, <strong class="s-hi">le royaume des Cieux est comparable à un roi qui voulut régler ses comptes avec ses serviteurs</strong>. … Dans sa colère, son maître <strong class="s-hi">le livra aux bourreaux jusqu'à ce qu'il eût remboursé tout ce qu'il devait. C'est ainsi que mon Père du ciel vous traitera</strong>, si chacun de vous ne pardonne pas à son frère du fond du cœur.»</blockquote>
+                </div>
+                <p>Le châtiment a une limite : il dure jusqu'à ce que le serviteur ait remboursé tout ce qu'il devait. D'abord il paie, ensuite il sort. De l'enfer on ne sort pas, donc cette prison n'est pas l'enfer. Et Jésus ne laisse pas la parabole comme l'histoire d'un roi quelconque : <em>« C'est ainsi que mon Père du ciel vous traitera. »</em> Ce n'est ni une interprétation de l'Église ni une supposition. C'est le Christ qui l'a dit.</p>
+                <h2>La prison dont on sort<br>Matthieu 5, 25-26</h2>
+                <p>Dans le Sermon sur la montagne, Jésus emploie la même image.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matthieu 5, 25-26</span>
+                    <blockquote>«Mets-toi vite d'accord avec ton adversaire pendant que tu es en chemin avec lui, pour éviter que <strong class="s-hi">ton adversaire ne te livre au juge, le juge au garde, et qu'on ne te jette en prison</strong>. Amen, je te le dis : <strong class="s-hi">tu n'en sortiras pas avant d'avoir payé jusqu'au dernier sou</strong>.»</blockquote>
+                </div>
+                <p>Le juge, c'est Dieu, le garde, ce sont ses anges, et la prison, c'est le purgatoire. « Avant d'avoir payé » veut dire qu'il y a un moment où la dette s'achève et où la porte s'ouvre. La prison n'est pas éternelle. L'enfer, lui, l'est.</p>
+                <h2>Le pardon dans le monde à venir<br>Matthieu 12, 32</h2>
+                <p>Parlant du péché contre l'Esprit Saint, Jésus distingue deux temps.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matthieu 12, 32</span>
+                    <blockquote>«Et si quelqu'un dit une parole contre le Fils de l'homme, cela lui sera pardonné ; mais si quelqu'un parle contre l'Esprit Saint, <strong class="s-hi">cela ne lui sera pardonné ni en ce monde-ci, ni dans le monde à venir</strong>.»</blockquote>
+                </div>
+                <p>Si aucun péché n'était pardonné après la mort, dire que celui-ci ne sera pas pardonné « dans le monde à venir » n'aurait aucun sens. Jésus tient pour acquis que certains péchés sont pardonnés en ce monde et d'autres dans celui qui vient. Pas celui-ci ; d'autres, oui. Au ciel il n'y a rien à pardonner, et en enfer il n'y a pas de pardon. Ce pardon du monde à venir a lieu ailleurs.</p>
+                <h2>Tout péché ne conduit pas à la mort<br>1 Jean 5, 16-17</h2>
+                <p>Jean distingue deux sortes de péché.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Jean 5, 16-17</span>
+                    <blockquote>«Si quelqu'un voit son frère commettre un <strong class="s-hi">péché qui ne conduit pas à la mort</strong>, <strong class="s-hi">il demandera, et Dieu lui donnera la vie</strong>, à ceux dont le péché ne conduit pas à la mort. Il y a un péché qui conduit à la mort : <strong class="s-hi">ce n'est pas pour celui-là que je dis de prier</strong>. Toute injustice est péché, mais <strong class="s-hi">tout péché ne conduit pas à la mort</strong>.»</blockquote>
+                </div>
+                <p>Il y a des péchés qui conduisent à la mort et des péchés qui n'y conduisent pas. L'Église les appelle mortels et véniels. Pour le frère qui pèche sans aller jusqu'à la mort, on prie, et Dieu lui donne la vie. Celui qui meurt avec des péchés qui ne conduisent pas à la mort n'est pas condamné, mais il n'est pas pur non plus. Entre la condamnation et la présence de Dieu, il reste précisément cela : la purification.</p>
+                <h2>Les morts sont vivants<br>Jean 11, 21-27</h2>
+                <p>Aux adventistes et aux Témoins de Jéhovah, Jésus répond devant le tombeau de Lazare.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Jean 11, 21-27</span>
+                    <blockquote>«Marthe dit à Jésus : « Seigneur, si tu avais été ici, mon frère ne serait pas mort. Mais maintenant encore, je le sais, tout ce que tu demanderas à Dieu, Dieu te l'accordera. » Jésus lui dit : « Ton frère ressuscitera. » Marthe reprit : « Je sais qu'il ressuscitera à la résurrection, au dernier jour. » Jésus lui dit : « Moi, je suis la résurrection et la vie. Celui qui croit en moi, <strong class="s-hi">même s'il meurt, vivra</strong> ; quiconque vit et croit en moi <strong class="s-hi">ne mourra jamais</strong>. Crois-tu cela ? » Elle répondit : « Oui, Seigneur, je le crois : tu es le Christ, le Fils de Dieu, tu es celui qui vient dans le monde. »»</blockquote>
+                </div>
+                <p>Marthe parle de la résurrection du dernier jour, et Jésus va plus loin : celui qui croit en lui, même s'il meurt, vit, et ne mourra jamais. La mort du corps n'éteint pas la vie de celui qui croit. Les morts dans le Christ ne dorment pas dans le néant en attendant la fin du monde. Ils sont vivants.</p>
+                <h2>L'esprit retourne à Dieu<br>Qohèleth 12, 7</h2>
+                <p>Le livre même d'où vient l'objection dit ce qui arrive quand quelqu'un meurt.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Qohèleth 12, 7</span>
+                    <blockquote>«avant que la poussière retourne à la terre comme elle en vint, et que <strong class="s-hi">le souffle retourne à Dieu</strong> qui l'avait donné.»</blockquote>
+                </div>
+                <p>Le corps retourne à la terre et le souffle retourne à Dieu. Le mot hébreu est <em>rouah</em>, celui-là même qu'on traduit par esprit, et c'est pourquoi d'autres versions disent « l'esprit retourne à Dieu ». La phrase de Qohèleth 9, 5 que citent les adventistes se complète au verset suivant : les morts <em>« n'auront plus jamais de part à tout ce qui se fait sous le soleil »</em> (Qo 9, 6). Ils ne savent rien de ce qui se passe en ce monde. Cela ne dit pas qu'ils ont cessé d'exister.</p>
+                <p>Et en retournant à Dieu, l'esprit doit être pur, parce que ce qui est taché de péché ne peut se présenter devant lui. C'est pour cela qu'existe le purgatoire.</p>
+                <ul>
+                    <li>Jésus parle d'une dette payée jusqu'au bout et d'une prison dont on sort.</li>
+                    <li>Il y a des péchés qui sont pardonnés dans le monde à venir.</li>
+                    <li>Tout péché ne conduit pas à la mort, et pour celui qui pèche sans aller jusqu'à la mort, on prie.</li>
+                    <li>Ceux qui meurent dans le Christ vivent, et leur esprit retourne à Dieu.</li>
+                </ul>
+                <h2>Conclusion</h2>
+                <p>Le purgatoire n'est ni une invention de Rome ni une porte dérobée pour échapper à l'enfer. C'est ce que le Christ décrit quand il parle de la prison dont on sort après avoir payé jusqu'au dernier sou, et des péchés pardonnés dans le monde à venir. C'est le sang du Christ qui purifie, là aussi : le purgatoire est ce sang appliqué à celui qui est mort dans la grâce mais encore taché.</p>
+                <p>Les adventistes et les Témoins de Jéhovah ont raison de dire que les morts n'ont plus part à ce qui se fait sous le soleil. Ils se trompent dans ce qu'ils en déduisent. Celui qui croit au Christ, même s'il meurt, vivra, et son esprit retourne à Dieu qui l'avait donné.</p>`,
       nav: { prevTitle: "Les saints et leur intercession", nextTitle: "La loi nouvelle dans le Christ" }
     },
     "la-eucaristia": {
@@ -118,7 +173,7 @@ const translationsFR = {
     "la-primacia-de-pedro": {
       pageTitle: "La primauté de Pierre | Foi et Raison",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>La primauté de Pierre</h1><p>Le Christ a bâti son Église sur Pierre, lui a donné les clés du Royaume et l'a chargé d'affermir ses frères. Ce que dit l'Écriture, passage par passage.</p><div class="article-meta"><span>14 min de lecture</span><span>Publié en septembre 2026</span></div><a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
-      article: `<p>Contre la papauté, l'objection prend deux formes. La première est répétée par des protestants de presque toutes les dénominations, par les adventistes et par les Témoins de Jéhovah : <em>« Le roc, c'est le Christ, pas Pierre. Pierre n'est qu'un petit caillou ; le roc, c'est la foi qu'il a confessée. »</em> La seconde est propre au monde évangélique : <em>« La véritable Église est invisible : elle n'a ni hiérarchie, ni évêques, ni pape. Tout cela, Rome l'a inventé. »</em></p>
+      article: `<p>Contre la papauté, l'objection prend deux formes. La première est répétée par les protestants de presque toutes les dénominations, adventistes et Témoins de Jéhovah compris : <em>« Le roc, c'est le Christ, pas Pierre. Pierre n'est qu'un petit caillou ; le roc, c'est la foi qu'il a confessée. »</em> La seconde est propre au monde évangélique : <em>« La véritable Église est invisible : elle n'a ni hiérarchie, ni évêques, ni pape. Tout cela, Rome l'a inventé. »</em></p>
                 <p>Les deux se règlent avec l'Écriture. D'abord, sur quoi l'Église est bâtie et qui en a les clés. Ensuite, si cette Église a un gouvernement et si elle existait avant que quiconque ne l'organise. Enfin, à qui le Christ a confié de soutenir les autres.</p>
                 <h2>Le Christ est la pierre angulaire, et il y a des fondations<br>Éphésiens 2, 20-22</h2>
                 <p>Avant de discuter pour savoir si Pierre est une pierre, il faut voir comment Paul emploie cette image.</p>
@@ -473,7 +528,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
                 <span>Publié en août 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
-      article: `<p>Devant l'Eucharistie, l'objection change de forme, non de fond. Témoins de Jéhovah, adventistes, pentecôtistes, mormons et protestants en général répètent l'une de ces deux phrases : <em>« Le pain reste du pain : il a l'aspect du pain et le goût du pain. »</em> et <em>« La transsubstantiation est un mot inventé, de la philosophie grecque ; cela n'est pas dans la Bible. »</em></p>
+      article: `<p>Devant l'Eucharistie, l'objection change de forme, non de fond. Les protestants de toutes les branches, pentecôtistes, adventistes, Témoins de Jéhovah et mormons compris, répètent l'une de ces deux phrases : <em>« Le pain reste du pain : il a l'aspect du pain et le goût du pain. »</em> et <em>« La transsubstantiation est un mot inventé, de la philosophie grecque ; cela n'est pas dans la Bible. »</em></p>
                 <p>La seconde se règle en une ligne : les mots « Trinité » et « Bible » n'y sont pas davantage, et personne ne conteste ce qu'ils désignent. Un mot ne crée pas le fait : il le nomme. La première est celle qui compte, et elle ne se règle pas avec de la philosophie mais avec l'Écriture, car l'Écriture a déjà raconté ce qui arrive lorsque le Christ dit qu'une chose est une autre. Cinq passages, dans l'ordre.</p>
                 <h2>La Parole ne décrit pas : elle fait<br>Jean 1, 1-3</h2>
                 <p>Avant de discuter de ce qui peut arriver au pain, il faut savoir ce qu'est une parole de Dieu.</p>
@@ -622,7 +677,8 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
             </div>
             <h1>À propos de ce site</h1>
             <p>Un chemin parcouru à travers les philosophies qui n'ont pas tenu — jusqu'à l'Église qui a tenu.</p>
-            <a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
+            <a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>
+            <a href="privacidad.html" class="btn-outline-white btn-hero-extra">Confidentialité</a>`,
       article: `<p>Je suis arrivé au catholicisme après un long cheminement. J'ai tout lu : l'occultisme et l'ésotérisme, les dites Tables d'Émeraude, les philosophies orientales, Nietzsche, les épicuriens. J'ai cherché des réponses partout et je n'en trouvais aucune qui tienne. Le stoïcisme a été la dernière chose qui m'a offert quelque chose de sérieux avant le Christ — Sénèque, Marc Aurèle, Épictète m'ont appris à regarder la vérité sans ciller. Et en regardant la vérité sans ciller, je me suis retrouvé là où je ne m'y attendais pas : devant l'Église Catholique.</p>
 
             <p>Ce site est pour vous si vous êtes dans l'un de ces endroits : vous doutez de la foi que vous avez reçue et vous ne savez pas à qui vous adresser ; vous cherchez parmi les traditions et personne ne vous donne une réponse qui puisse supporter le poids ; vous venez de vous convertir et vous vous sentez seul, sans guide, assiégé de toutes parts. Je connais cet endroit. J'y étais. Et je sais ce qui l'entoure : des catholiques traditionnels qui parfois tiennent pour acquis ce qu'ils devraient démontrer et ne savent pas l'expliquer ; et pire encore, des catholiques tièdes — ceux qui vont à la messe par habitude, ne savent pas ce qu'ils croient, ne défendent rien, et sont les premiers à hausser les épaules quand quelqu'un attaque la foi devant eux.</p>
@@ -634,7 +690,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
 
             <p>Un tiède ne défend rien, n'explique rien, ne convainc personne. Au moins celui qui croit quelque chose de faux a quelque chose à offrir.</p>
 
-            <p>Et les protestants se présentent. Ils se présentent toujours. Les Témoins de Jéhovah, les pentecôtistes, les adventistes, les mormons, chaque secte avec sa version tronquée de l'Écriture et sa certitude empruntée. Ici vous trouverez une réponse à ces sectes, sur leur propre terrain, avec leur propre arme : toute la Bible — y compris les livres deutérocanoniques qu'ils ont arrachés de leurs traductions sans en avoir l'autorité. Avec la Bible bien lue, les Pères de l'Église, le Magistère, le Catéchisme, et la raison que Dieu nous a donnée en cadeau.</p>
+            <p>Et les protestants se présentent. Ils se présentent toujours. Les Témoins de Jéhovah, les pentecôtistes, les adventistes, les mormons, chaque secte avec sa version tronquée de l'Écriture et sa certitude empruntée. Ici vous trouverez une réponse à ces sectes, sur leur propre terrain, avec leur propre arme : la Bible. Les livres deutérocanoniques, qu'ils ont arrachés de leurs traductions sans en avoir l'autorité, sont Parole de Dieu autant que les autres. Mais quand je leur réponds, je ne les cite pas : j'utilise seulement les livres qu'ils acceptent eux-mêmes, pour que personne ne puisse répliquer « ce n'est pas dans la Bible » ou « ce sont les catholiques qui l'ont ajouté ». Avec la Bible bien lue, les Pères de l'Église, le Magistère, le Catéchisme, et la raison que Dieu nous a donnée en cadeau.</p>
 
             <p>Ma principale inspiration dans ce travail est le Père Luis Toro. Ce qu'il fait en parlant, j'essaie de le faire en écrivant, dans les langues et pour les lecteurs qu'il n'atteint pas.</p>
 

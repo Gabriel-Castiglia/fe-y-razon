@@ -940,6 +940,21 @@ section {
 
 /* Botón "Compartir este tema": va al lado de "Volver a Temas", con el mismo
    trazo, y lo inyecta main.js en el hero de la página propia y en el overlay. */
+/* Segundo botón del hero de una página que no es tema (en «Sobre este sitio»,
+   «Privacidad»): el mismo espacio que el botón de compartir de los temas. */
+.btn-hero-extra {
+  margin-left: 12px;
+}
+.article-hero .btn-hero-extra {
+  margin-top: 36px;
+}
+@media (max-width: 560px) {
+  .btn-hero-extra,
+  .article-hero .btn-hero-extra {
+    margin-left: 0;
+    margin-top: 12px;
+  }
+}
 .btn-share {
   font-family: inherit;
   cursor: pointer;
@@ -1272,6 +1287,21 @@ html[lang="pt"] [data-complete-for~="pt"] {
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 56px;
+}
+
+/* Aviso de temas nuevos, entre el título y los tres cuadros. El título trae
+   56px de margen abajo: se le quita aquí para que la frase quede pegada a él. */
+.mission-inner .section-title {
+  margin-bottom: 20px;
+}
+
+.mission-intro {
+  max-width: 640px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 15px;
+  line-height: 1.8;
+  color: var(--text-muted);
 }
 
 .mission-grid {
