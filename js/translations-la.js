@@ -69,10 +69,10 @@ const translationsLA = {
   },
   article6: {
     category: "Doctrina",
-    date: "Mox veniet",
+    date: "Septembri MMXXVI",
     title: "Sanctissima Trinitas",
-    excerpt: "Mysterium centrale fidei catholicae per theologiam et rationem intelligendum.",
-    time: "X min lectura",
+    excerpt: "Tres Personae et unus Deus: quid Scriptura pentecostalibus unitis respondeat, locus post locum.",
+    time: "XI min lectura",
     link: "Lege →"
   },
   article7: {
@@ -409,28 +409,103 @@ const translationsLA = {
                 <span class="eyebrow-text">Thema Speciale</span>
             </div>
             <h1>Sanctissima Trinitas</h1>
-            <p>Intellege Trinitatem ut mysterium unitatis et amoris: Pater, Filius et Spiritus Sanctus in historia salutis coniuncte operantes.</p>
+            <p>Unus Deus in tribus Personis. Contra opinionem Patrem, Filium et Spiritum Sanctum tres titulos unius personae esse, quid Scriptura dicat, locus post locum.</p>
             <div class="article-meta">
-                <span>X min lectura</span>
-                <span>Editus Maio MMXXVI</span>
+                <span>XI min lectura</span>
+                <span>Editus Septembri MMXXVI</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Ad Themata reverti</a>`,
-      article: `<p>Trinitas est mysterium centrale fidei christianae. Deus est unum ens in tribus Personis: Pater, Filius et Spiritus Sanctus, in perfecta unitate et communione.</p>
-                <h2>Unitas et distinctio</h2>
-                <p>Quaelibet Persona divina plene est Deus, sed non sunt tres dii distincti. Christianismus unum Deum in aeterna relatione amoris confitetur.</p>
+      article: `<p>Est obiectio contra Trinitatem quae intra mundum pentecostalem auditur, neque tamen omnium pentecostalium: Coetus Dei (Assemblies of God) et plurimae ecclesiae pentecostales Trinitatem confitentur. Est pentecostalium unitorum, qui se «unicistas» vel «solius Iesu» appellant: <em>«Deus unus est, non tres personae. Pater, Filius et Spiritus Sanctus tituli sunt, modi quibus idem Deus se manifestavit. Pater est Iesus, et Spiritus Sanctus est Spiritus Iesu. Ideo solummodo in nomine Iesu baptizamus.»</em></p>
+                <p>Trinitas mysterium est: unus Deus in tribus Personis. Nemo eam penitus intellegit, neque Ecclesia umquam postulavit ut intellegeretur priusquam crederetur. Postulat ut Deo credatur quod de se ipso dicit, quia credere unum esse Deum non sufficit. Iacobus ita dicit: <em><strong>«Tu credis quoniam unus est Deus? Bene facis; et daemones credunt et contremiscunt!»</strong></em> (Iac 2, 19). Et quod Deus de se ipso dicit tanta instantia scriptum est ut legendo intellegatur. Ideo hoc argumentum plures citationes habet quam explicationes.</p>
+                <h2>«Faciamus»: pluralis principii<br>Genesis 1, 26</h2>
+                <p>Primum signum in prima pagina Bibliorum invenitur.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Mt 28, 19</span>
-                    <blockquote>«<strong class="s-hi">In nomine Patris et Filii et Spiritus Sancti</strong>»</blockquote>
+                    <span class="scripture-ref">✝ Genesis 1, 26</span>
+                    <blockquote>«Et ait Deus: «<strong class="s-hi">Faciamus hominem ad imaginem et similitudinem nostram</strong>; et praesint piscibus maris et volatilibus caeli et bestiis universaeque terrae omnique reptili, quod movetur super terram».»</blockquote>
                 </div>
-                <h2>Actio communis</h2>
-                <p>Pater mittit Filium, Filius redemit, et Spiritus Sanctificat. Haec actio communis ostendit salutem esse opus totius Trinitatis.</p>
+                <p>Deus plurali numero loquitur, et nemo alius in scaena adest. Non sunt angeli: angeli non creant, et homo ad imaginem Dei fit, non ad eorum. Versus sequens ad singularem redit: <em>«Et creavit Deus hominem ad imaginem suam»</em> (Gn 1, 27). Unus qui dicit «nos». Hic versus solus Trinitatem non probat, neque Ecclesia eo sic utitur. Nuntius est quem reliqua Scriptura illustrabit.</p>
+                <h2>Primus et Novissimus, missus<br>Isaias 48, 16</h2>
+                <p>In Isaia 48 Deus loquitur, et se titulo praesentat quem nemo alius ferre potest: <em>«Ego ipse, ego primus et ego novissimus»</em> (Is 48, 12). Ipse est qui terram fundavit et caelos mensus est. Quattuor versibus post, is qui loquitur haec dicit:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Isaias 48, 16</span>
+                    <blockquote>«Accedite ad me et audite hoc: non a principio in abscondito locutus sum; ex tempore, antequam fieret, ibi eram. <strong class="s-hi">Et nunc Dominus Deus misit me et spiritum eius.</strong>»</blockquote>
+                </div>
+                <p>Qui a principio aderat mittitur, et mittunt eum Dominus Deus et spiritus eius. In uno Veteris Testamenti loco simul apparent qui mittit, qui mittitur et Spiritus. Saeculis post, Apocalypsis eundem titulum in ore Iesu ponit: <em>«Ego sum primus et novissimus et vivens et fui mortuus, et ecce sum vivens in saecula saeculorum»</em> (Ap 1, 17-18).</p>
+                <h2>Tres in Iordane<br>Marcus 1, 10-11</h2>
+                <p>In baptismo Iesu obiectio titulorum locum non invenit.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Marcus 1, 10-11</span>
+                    <blockquote>«Et statim ascendens de aqua vidit apertos caelos et <strong class="s-hi">Spiritum tamquam columbam descendentem in ipsum</strong>; et <strong>vox facta est de caelis</strong>: «<strong class="s-hi">Tu es Filius meus dilectus</strong>, in te complacui».»</blockquote>
+                </div>
+                <p>Filius ex aqua ascendit, Spiritus in eum descendit et Pater de caelo loquitur, eodem momento. Si tres essent modi quibus una persona se manifestat, ea persona simul in aqua esset, in se ipsam descenderet et sibi ipsi desuper loqueretur. Matthaeus eandem scaenam narrat (Mt 3, 16-17). Nemo sibi ipsi de caelo «tu» dicit.</p>
+                <h2>Pater Filio loquitur<br>Ad Hebraeos 1, 5</h2>
+                <p>Epistula ad Hebraeos ad eam vocem redit, ut ostendat Filium angelis superiorem esse.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ad Hebraeos 1, 5</span>
+                    <blockquote>«Cui enim dixit aliquando angelorum: «<strong class="s-hi">Filius meus es tu, ego hodie genui te</strong>»? Et rursum: «<strong>Ego ero illi in Patrem, et ipse erit mihi in Filium</strong>»?»</blockquote>
+                </div>
+                <p>Alter loquitur, alter appellatur. Et tribus versibus infra Pater Filium Deum vocat: <em>«ad Filium autem: Thronus tuus, Deus, in saeculum saeculi»</em> (Hb 1, 8). Filius Deus est, et Pater, qui ei loquitur, non est ipse.</p>
+                <h2>Apud Patrem, ante mundum<br>Ioannes 17, 5</h2>
+                <p>Pentecostalibus unitis Filius Bethlehem incipit: «Filius» nomen esset humanitatis Iesu, «Pater» autem Dei qui in ea habitat. Ioannes in prima sua epistula respondet.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Ioannis 1, 2-3</span>
+                    <blockquote>«et vita manifestata est, et vidimus et testamur et annuntiamus vobis <strong class="s-hi">vitam aeternam, quae erat apud Patrem</strong> et apparuit nobis; quod vidimus et audivimus, annuntiamus et vobis, ut et vos communionem habeatis nobiscum. Communio autem nostra est <strong>cum Patre et cum Filio eius Iesu Christo</strong>.»</blockquote>
+                </div>
+                <p>Quod apostoli viderunt et tetigerunt apud Patrem erat antequam manifestaretur. Nemo apud se ipsum est. Id est quod Ioannes in principio Evangelii sui scripserat: <em>«Verbum erat apud Deum, et Deus erat Verbum»</em> (Io 1, 1). Et Iesus suis verbis id dicit nocte ante mortem:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ioannes 17, 5</span>
+                    <blockquote>«Et nunc clarifica me tu, Pater, apud temetipsum <strong class="s-hi">claritate, quam habebam, priusquam mundus esset, apud te</strong>.»</blockquote>
+                </div>
+                <p>Iesus a Patre gloriam petit quam apud eum ante creationem habebat. Si Filius Bethlehem incepisset, nullam priorem gloriam repetere posset, neque quemquam apud quem eam habuisset. In eadem oratione instat: <em>«dilexisti me ante constitutionem mundi»</em> (Io 17, 24). Ante mundum erat qui diligebat et alius qui diligebatur.</p>
+                <h2>Duo testes<br>Ioannes 8, 16-18</h2>
+                <p>Cum pharisaeis disputans, Iesus Legem Moysis invocat, quae unum testem non admittebat (Dt 19, 15).</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ioannes 8, 16-18</span>
+                    <blockquote>«Et si iudico ego, iudicium meum verum est, quia <strong class="s-hi">solus non sum, sed ego et, qui me misit, Pater</strong>. Sed et in lege vestra scriptum est quia <strong>duorum hominum testimonium verum est</strong>. Ego sum, qui testimonium perhibeo de meipso, et testimonium perhibet de me, qui misit me, Pater.»</blockquote>
+                </div>
+                <p>Iesus duos testes affert: se ipsum et Patrem. Si una persona essent duobus nominibus, unum testem pro duobus venditaret, et argumentum eius coram pharisaeis fraus esset. Iesus duos numerat. Pentecostales uniti unum numerant.</p>
+                <p>Versus quos ipsi afferunt idem dicunt cum integri leguntur. <em>«Ego et Pater unum sumus»</em> (Io 10, 30): «sumus» plurale est, et quod unum est, res est, non persona; «unum» enim dicitur, non «unus». <em>«Qui vidit me, vidit Patrem»</em> (Io 14, 9), et statim post: <em>«ego in Patre et Pater in me est»</em> (Io 14, 11). Ut alter in altero sit, duo requiruntur.</p>
+                <h2>Alius Paraclitus<br>Ioannes 14, 16-17</h2>
+                <p>De Spiritu Sancto verbum decretorium Iesus in ultima cena dicit.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ioannes 14, 16-17</span>
+                    <blockquote>«Et ego rogabo Patrem, et <strong class="s-hi">alium Paraclitum</strong> dabit vobis, ut maneat vobiscum in aeternum, <strong>Spiritum veritatis</strong>, quem mundus non potest accipere, quia non videt eum nec cognoscit. Vos cognoscitis eum, quia apud vos manet et in vobis erit.»</blockquote>
+                </div>
+                <p>Filius rogat, Pater dat, et quod dat alius Paraclitus est. Paraclitus is est qui comitatur et defendit; Iesus id discipulis suis per tres annos fuerat, et nunc alium nuntiat. Si Spiritus Sanctus Iesus esset alio nomine, non esset alius. In capitulis sequentibus quisque cum eo quod sibi proprium est apparet: Spiritus Sanctus est <em>«quem mittet Pater in nomine meo»</em> (Io 14, 26), et <em>«non enim loquetur a semetipso, sed quaecumque audiet, loquetur»</em> (Io 16, 13).</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ioannes 15, 26</span>
+                    <blockquote>«Cum autem venerit <strong class="s-hi">Paraclitus, quem ego mittam vobis a Patre</strong>, Spiritum veritatis, qui a Patre procedit, <strong>ille testimonium perhibebit de me</strong>.»</blockquote>
+                </div>
+                <p>In uno versu Filius mittit, Spiritus a Patre procedit et Spiritus de Filio testimonium perhibet. Tria subiecta in una sententia, et nullum titulus alterius est. Qui audit, loquitur, mittitur et testimonium perhibet non est vis neque modus. Aliquis est.</p>
+                <h2>In nomine Patris et Filii et Spiritus Sancti<br>Matthaeus 28, 19</h2>
+                <p>Restat baptismus. Pentecostales uniti formulam trinitariam reiciunt et «in nomine Iesu» baptizant, locis nixi qualis hic est:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Actus 19, 2-5</span>
+                    <blockquote>«dixitque ad eos: «<strong class="s-hi">Si Spiritum Sanctum accepistis credentes?</strong>». At illi ad eum: «<strong>Sed neque si Spiritus Sanctus est, audivimus</strong>». Ille vero ait: «In quo ergo baptizati estis?». Qui dixerunt: «In Ioannis baptismate». Dixit autem Paulus: «Ioannes baptizavit baptismo paenitentiae, populo dicens in eum, qui venturus esset post ipsum, ut crederent, hoc est in Iesum». His auditis, baptizati sunt in nomine Domini Iesu.»</blockquote>
+                </div>
+                <p>Locus contrarium ostendit. Primum quod Paulus interrogat est an Spiritum Sanctum acceperint. Cum respondent se ne scire quidem eum esse, intellegit baptismum quem habent non esse christianum, et quaerit quem acceperint: Ioannis. «In nomine Domini Iesu» est quod alterum baptismum ab altero separat. Lucas verba super aquam prolata non transcribit. Ea verba Iesus dedit:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matthaeus 28, 19</span>
+                    <blockquote>«Euntes ergo docete omnes gentes, baptizantes eos <strong class="s-hi">in nomine Patris et Filii et Spiritus Sancti</strong>…»</blockquote>
+                </div>
+                <p>«In nomine», singulari numero, et deinde tres. Unum nomen, quia Deus unus est. Tres nominati, quia tres sunt. Haec est formula quam Ecclesia a Iesu accepit et qua usque hodie baptizat.</p>
+                <h2>Tres in salutatione apostolorum<br>2 ad Corinthios 13, 13</h2>
+                <p>Paulus alteram epistulam ad Corinthios hac benedictione claudit.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 2 ad Corinthios 13, 13</span>
+                    <blockquote>«<strong class="s-hi">Gratia Domini Iesu Christi et caritas Dei et communicatio Sancti Spiritus</strong> cum omnibus vobis.»</blockquote>
+                </div>
+                <p>Tres, alter iuxta alterum, quisque cum eo quod dat. Non est sententia sola. In prima epistula ad Corinthios dona sunt ab <em>«eodem Spiritu»</em>, ministrationes ab <em>«eodem Domino»</em>, operationes ab <em>«eodem Deo»</em> (1 Cor 12, 4-6). Ephesiis scribit: <em>«unum corpus et unus Spiritus… unus Dominus… unus Deus et Pater omnium»</em> (Eph 4, 4-6). Et Petrus primam epistulam eodem modo aperit: <em>«secundum praescientiam Dei Patris, in sanctificatione Spiritus, in oboedientiam Iesu Christi»</em> (1 Pt 1, 2). Apostoli tres iam in salutatione nominabant.</p>
                 <ul>
-                    <li>Deus est amor communionalis.</li>
-                    <li>Trinitas est fundamentum vitae christianae in Ecclesia.</li>
-                    <li>Praesentia Dei in historia ut relatio revelatur.</li>
+                    <li>In Iordane Filius, Spiritus et Pater simul apparent, et Pater Filio loquitur.</li>
+                    <li>Filius apud Patrem erat et gloriam apud eum habebat antequam mundus esset.</li>
+                    <li>Iesus Patrem et se ipsum duos testes affert.</li>
+                    <li>Spiritus Sanctus alius Paraclitus est: audit, loquitur, mittitur et testimonium perhibet.</li>
+                    <li>Iesus in uno nomine baptizari iussit, Patris et Filii et Spiritus Sancti.</li>
                 </ul>
-                <h2>Consequentiae pro vita</h2>
-                <p>Doctrina trinitaria nos invitat in communione, transparentia et servitio vivere. Ad imaginem Dei qui communitas est facti sumus.</p>`,
+                <h2>Conclusio</h2>
+                <p>Pentecostales uniti recte affirmant: Deus unus est, et Iesus Deus est. Errant in eo quod negant. Ut sustineant Patrem, Filium et Spiritum Sanctum unam personam esse tribus titulis, baptismus in Iordane legendus est quasi scaena unius personae, oratio Ioannis 17 quasi homo sibi ipsi loquens, testimonium Ioannis 8 quasi testis bis numeratus. Nullus alius Scripturae locus sic legitur.</p>
+                <p>Trinitas mysterium manet, neque Scriptura id explicat. Narrat, a primo capite Geneseos usque ad salutationem epistularum. In Iordane Filius ex aqua ascendebat, Spiritus in eum descendebat et Pater de caelo loquebatur.</p>`,
       nav: {
         prevTitle: "Nova Lex in Christo",
         nextTitle: "Cur fidem catholicam credimus"
@@ -920,7 +995,9 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
       { ref: "Mt 16, 18",   text: "Tu es Petrus, et super hanc petram aedificabo Ecclesiam meam." },
       { ref: "Is 1, 18",    text: "Si fuerint peccata vestra ut coccinum, quasi nix dealbabuntur." },
       { ref: "Lc 22, 32",   text: "Ego autem rogavi pro te ut non deficiat fides tua; et tu aliquando conversus confirma fratres tuos." },
-      { ref: "2 Pet 1, 20", text: "Omnis prophetia Scripturae propria interpretatione non fit." }
+      { ref: "2 Pet 1, 20", text: "Omnis prophetia Scripturae propria interpretatione non fit." },
+      { ref: "Iac 2, 17", text: "Sic et fides, si non habeat opera, mortua est in semetipsa." },
+      { ref: "Iac 2, 20", text: "Vis autem scire, o homo inanis, quoniam fides sine operibus otiosa est?" }
     ]
   },
   lang: {

@@ -38,7 +38,7 @@ const translationsPT = {
     category: "Doutrina", date: "Maio 2026", title: "Os santos", excerpt: "A importância dos santos na Igreja Católica e a sua intercessão por nós.", time: "12 min leitura", link: "Ler →"
   },
   article6: {
-    category: "Doutrina", date: "Em breve", title: "A Santíssima Trindade", excerpt: "Compreendendo o mistério central da fé católica através da teologia e da razão.", time: "10 min leitura", link: "Ler →"
+    category: "Doutrina", date: "Setembro 2026", title: "A Santíssima Trindade", excerpt: "Três Pessoas e um só Deus: o que a Escritura responde aos pentecostais unidos, passagem por passagem.", time: "11 min leitura", link: "Ler →"
   },
   article7: {
     category: "Doutrina", date: "Em breve", title: "O purgatório", excerpt: "A purificação final antes de entrar na presença de Deus.", time: "6 min leitura", link: "Ler →"
@@ -215,11 +215,98 @@ const translationsPT = {
     },
     "la-santisima-trinidad": {
       pageTitle: "A Santíssima Trindade | Fé e Razão",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>A Santíssima Trindade</h1><p>Entender a Trindade como mistério de unidade e amor: Pai, Filho e Espírito Santo trabalhando juntos na história da salvação.</p><div class="article-meta"><span>10 min leitura</span><span>Publicado em maio de 2026</span></div><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
-      article: `<p>A Trindade é o mistério central da fé cristã. Deus é um só ser em três Pessoas: Pai, Filho e Espírito Santo, em perfeita unidade e comunhão.</p><h2>Unidade e distinção</h2><p>Cada Pessoa divina é plenamente Deus, mas não são três deuses distintos. O cristianismo confessa um único Deus numa relação eterna de amor.</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Mateus 28:19</span>
-                    <blockquote>«<strong class="s-hi">Em nome do Pai, do Filho e do Espírito Santo</strong>»</blockquote>
-                </div><h2>Ação comum</h2><p>O Pai envia o Filho, o Filho redime e o Espírito Santifica. Esta ação conjunta mostra que a salvação é obra de toda a Trindade.</p><ul><li>Deus é amor comunional.</li><li>A Trindade é o fundamento da vida cristã na Igreja.</li><li>A presença de Deus revela-se na história como relação.</li></ul><h2>Implicações para a vida</h2><p>A doutrina trinitária convida-nos a viver em comunhão, transparência e serviço. Fomos feitos à imagem de um Deus que é comunidade.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>A Santíssima Trindade</h1><p>Um só Deus em três Pessoas. Contra a ideia de que Pai, Filho e Espírito Santo são três títulos de uma só pessoa, o que diz a Escritura, passagem por passagem.</p><div class="article-meta"><span>11 min leitura</span><span>Publicado em setembro de 2026</span></div><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+      article: `<p>Há uma objeção contra a Trindade que se ouve dentro do mundo pentecostal, e não é a de todos os pentecostais: as Assembleias de Deus e a maioria das igrejas pentecostais confessam a Trindade. É a dos pentecostais unidos, que se chamam unicistas ou de «só Jesus»: <em>«Deus é um só, não três pessoas. Pai, Filho e Espírito Santo são títulos, maneiras pelas quais o mesmo Deus se manifestou. O Pai é Jesus, e o Espírito Santo é o Espírito de Jesus. Por isso se batiza somente em nome de Jesus.»</em></p>
+                <p>A Trindade é um mistério: um só Deus em três Pessoas. Ninguém a entende a fundo, e a Igreja nunca pediu que a entendessem para crer nela. O que pede é crer no que Deus diz de si mesmo, porque crer que há um só Deus não basta. Tiago o diz assim: <em><strong>«Crês que há um só Deus. Fazes bem. Também os demônios creem e tremem.»</strong></em> (Tg 2, 19). E o que Deus diz de si mesmo está escrito com tanta insistência que se entende lendo. Por isso este tema tem mais citações do que explicações.</p>
+                <h2>«Façamos»: o plural do princípio<br>Gênesis 1, 26</h2>
+                <p>O primeiro sinal está na primeira página da Bíblia.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Gênesis 1, 26</span>
+                    <blockquote>«Então Deus disse: «<strong class="s-hi">Façamos o homem à nossa imagem e semelhança</strong>. Que ele reine sobre os peixes do mar, sobre as aves dos céus, sobre os animais domésticos e sobre toda a terra, e sobre todos os répteis que se arrastam sobre a terra».»</blockquote>
+                </div>
+                <p>Deus fala no plural, e não há mais ninguém em cena. Não são os anjos: os anjos não criam, e o homem é feito à imagem de Deus, não à deles. O versículo seguinte volta ao singular: <em>«Deus criou o homem à sua imagem»</em> (Gn 1, 27). Um só que diz «nós». Este versículo, sozinho, não prova a Trindade, e a Igreja não o usa assim. É um anúncio que o resto da Escritura vai esclarecer.</p>
+                <h2>O Primeiro e o Último, enviado<br>Isaías 48, 16</h2>
+                <p>Em Isaías 48 fala Deus, e apresenta-se com um título que ninguém mais pode ter: <em>«Sou eu, eu sou o primeiro, e sou também o último»</em> (Is 48, 12). É ele quem fundou a terra e estendeu os céus. Quatro versículos depois, aquele que fala diz isto:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Isaías 48, 16</span>
+                    <blockquote>«Aproximai-vos de mim e ouvi isto: desde o princípio não falei em segredo; desde que as coisas acontecem, eu estou lá. <strong class="s-hi">E agora o Senhor Deus me enviou com o seu espírito.</strong>»</blockquote>
+                </div>
+                <p>Aquele que estava lá desde o princípio é enviado, e quem o envia é o Senhor Deus e o seu espírito. Numa só passagem do Antigo Testamento aparecem juntos o que envia, o enviado e o Espírito. Séculos depois, o Apocalipse põe esse mesmo título na boca de Jesus: <em>«Eu sou o Primeiro e o Último, e o que vive. Estive morto, e eis que estou vivo pelos séculos dos séculos»</em> (Ap 1, 17-18).</p>
+                <h2>Os três no Jordão<br>Marcos 1, 10-11</h2>
+                <p>No batismo de Jesus, a objeção dos títulos fica sem lugar.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Marcos 1, 10-11</span>
+                    <blockquote>«E, logo que saiu da água, viu os céus abertos e <strong class="s-hi">o Espírito descer sobre ele</strong> como uma pomba. E <strong>ouviu-se dos céus uma voz</strong>: «<strong class="s-hi">Tu és o meu Filho muito amado</strong>; em ti ponho a minha afeição».»</blockquote>
+                </div>
+                <p>O Filho sai da água, o Espírito desce sobre ele e o Pai fala do céu, no mesmo momento. Se fossem três maneiras de se manifestar uma só pessoa, essa pessoa estaria ao mesmo tempo na água, descendo sobre si mesma e falando a si mesma lá de cima. Mateus conta a mesma cena (Mt 3, 16-17). Ninguém diz «tu» a si mesmo desde o céu.</p>
+                <h2>O Pai fala ao Filho<br>Hebreus 1, 5</h2>
+                <p>A carta aos Hebreus volta a essa voz para mostrar que o Filho está acima dos anjos.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Hebreus 1, 5</span>
+                    <blockquote>«Pois a qual dos anjos disse Deus alguma vez: «<strong class="s-hi">Tu és o meu Filho, eu hoje te gerei</strong>»? E ainda: «<strong>Eu serei para ele um pai, e ele será para mim um filho</strong>»?»</blockquote>
+                </div>
+                <p>Um fala e o outro é interpelado. E três versículos adiante, o Pai chama Deus ao Filho: <em>«Mas ao Filho diz: O teu trono, ó Deus, é para todo o sempre»</em> (Hb 1, 8). O Filho é Deus, e o Pai, que lhe fala, não é ele.</p>
+                <h2>Junto do Pai, antes do mundo<br>João 17, 5</h2>
+                <p>Para os pentecostais unidos, o Filho começa em Belém: «Filho» seria o nome da humanidade de Jesus, e «Pai» o do Deus que nela habita. João responde na sua primeira carta.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 João 1, 2-3</span>
+                    <blockquote>«Porque a vida manifestou-se, e nós a vimos, damos testemunho dela e vos anunciamos <strong class="s-hi">a vida eterna, que estava junto do Pai</strong> e que se nos manifestou. O que vimos e ouvimos, nós vos anunciamos, para que também vós tenhais comunhão conosco. Ora, a nossa comunhão é <strong>com o Pai e com o seu Filho, Jesus Cristo</strong>.»</blockquote>
+                </div>
+                <p>O que os apóstolos viram e tocaram estava junto do Pai antes de se manifestar. Ninguém está junto de si mesmo. É o que João tinha escrito ao abrir o seu Evangelho: <em>«o Verbo estava junto de Deus, e o Verbo era Deus»</em> (Jo 1, 1). E Jesus o diz com as suas próprias palavras na noite antes de morrer:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ João 17, 5</span>
+                    <blockquote>«Agora, pois, Pai, glorifica-me junto de ti, <strong class="s-hi">com a glória que eu tinha junto de ti, antes que o mundo existisse</strong>.»</blockquote>
+                </div>
+                <p>Jesus pede ao Pai a glória que tinha com ele antes da criação. Se o Filho tivesse começado em Belém, não teria uma glória anterior a reclamar, nem alguém com quem a tivesse tido. Na mesma oração insiste: <em>«me amaste antes da criação do mundo»</em> (Jo 17, 24). Antes do mundo havia um que amava e outro que era amado.</p>
+                <h2>Duas testemunhas<br>João 8, 16-18</h2>
+                <p>Discutindo com os fariseus, Jesus invoca a Lei de Moisés, que não aceitava uma só testemunha (Dt 19, 15).</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ João 8, 16-18</span>
+                    <blockquote>«E, se julgo, o meu juízo é verdadeiro, porque <strong class="s-hi">não estou sozinho, mas comigo está o Pai que me enviou</strong>. Na vossa Lei está escrito que <strong>o testemunho de duas pessoas é verdadeiro</strong>. Eu dou testemunho de mim mesmo, e também o Pai que me enviou dá testemunho de mim.»</blockquote>
+                </div>
+                <p>Jesus apresenta duas testemunhas: ele e o Pai. Se fossem uma só pessoa com dois nomes, estaria fazendo passar uma testemunha por duas, e o argumento diante dos fariseus seria um engano. Jesus conta duas. Os pentecostais unidos contam uma.</p>
+                <p>Os versículos que eles citam dizem o mesmo quando se leem inteiros. <em>«Eu e o Pai somos um»</em> (Jo 10, 30): «somos» é plural, e o que é um é o ser, não a pessoa. <em>«Quem me viu, viu o Pai»</em> (Jo 14, 9), e logo depois: <em>«eu estou no Pai e o Pai está em mim»</em> (Jo 14, 11). Para estar um no outro são precisos dois.</p>
+                <h2>Outro Paráclito<br>João 14, 16-17</h2>
+                <p>Sobre o Espírito Santo, a palavra decisiva é dita por Jesus na última ceia.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ João 14, 16-17</span>
+                    <blockquote>«E eu rogarei ao Pai, e ele vos dará <strong class="s-hi">outro Paráclito</strong>, para que fique eternamente convosco: <strong>o Espírito da Verdade</strong>, que o mundo não pode receber, porque não o vê nem o conhece. Vós o conheceis, porque permanece convosco e estará em vós.»</blockquote>
+                </div>
+                <p>O Filho roga, o Pai dá, e o que dá é outro Paráclito. Paráclito é o que acompanha e defende; Jesus o tinha sido para os seus discípulos durante três anos, e agora anuncia outro. Se o Espírito Santo fosse Jesus com outro nome, não seria outro. Nos capítulos seguintes, cada um aparece com o que lhe é próprio: o Espírito Santo é aquele <em>«que o Pai enviará em meu nome»</em> (Jo 14, 26), e <em>«não falará por si mesmo, mas dirá o que ouvir»</em> (Jo 16, 13).</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ João 15, 26</span>
+                    <blockquote>«Quando vier <strong class="s-hi">o Paráclito, que vos enviarei da parte do Pai</strong>, o Espírito da Verdade, que procede do Pai, <strong>ele dará testemunho de mim</strong>.»</blockquote>
+                </div>
+                <p>Num só versículo, o Filho envia, o Espírito procede do Pai e o Espírito dá testemunho do Filho. São três sujeitos numa frase, e nenhum é um título de outro. Aquele que ouve, fala, é enviado e dá testemunho não é uma força nem um modo. É alguém.</p>
+                <h2>Em nome do Pai, do Filho e do Espírito Santo<br>Mateus 28, 19</h2>
+                <p>Resta o batismo. Os pentecostais unidos rejeitam a fórmula trinitária e batizam «em nome de Jesus», apoiados em passagens como esta:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Atos 19, 2-5</span>
+                    <blockquote>«e perguntou-lhes: «<strong class="s-hi">Recebestes o Espírito Santo quando abraçastes a fé?</strong>». Eles responderam: «<strong>Nem sequer ouvimos dizer que existe um Espírito Santo</strong>». «Então, que batismo recebestes?», perguntou Paulo. «O batismo de João», responderam. Paulo disse: «João batizava com um batismo de conversão, dizendo ao povo que cresse naquele que vinha depois dele, isto é, em Jesus». Ao ouvirem isto, foram batizados em nome do Senhor Jesus.»</blockquote>
+                </div>
+                <p>A passagem serve para o contrário. A primeira coisa que Paulo pergunta é se receberam o Espírito Santo. Quando respondem que nem sabem que ele existe, entende que o batismo que têm não é o cristão, e pergunta qual receberam: o de João. «Em nome do Senhor Jesus» é o que separa um batismo do outro. Lucas não está transcrevendo as palavras pronunciadas sobre a água. Essas palavras foram dadas por Jesus:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mateus 28, 19</span>
+                    <blockquote>«Ide, pois, e fazei discípulos de todas as nações, batizando-os <strong class="s-hi">em nome do Pai e do Filho e do Espírito Santo</strong>…»</blockquote>
+                </div>
+                <p>«Em nome», no singular, e em seguida três. Um só nome, porque Deus é um. Três nomeados, porque são três. É a fórmula que a Igreja recebeu de Jesus e com a qual batiza até hoje.</p>
+                <h2>Os três na saudação dos apóstolos<br>2 Coríntios 13, 13</h2>
+                <p>Paulo encerra a sua segunda carta aos Coríntios com esta bênção.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 2 Coríntios 13, 13</span>
+                    <blockquote>«<strong class="s-hi">A graça do Senhor Jesus Cristo, o amor de Deus e a comunhão do Espírito Santo</strong> estejam com todos vós.»</blockquote>
+                </div>
+                <p>Os três, um ao lado do outro, cada um com o que dá. Não é uma frase isolada. Na primeira carta aos Coríntios, os dons procedem do <em>«mesmo Espírito»</em>, os ministérios do <em>«mesmo Senhor»</em> e as operações do <em>«mesmo Deus»</em> (1 Cor 12, 4-6). Aos Efésios escreve: <em>«um só Espírito… um só Senhor… um só Deus e Pai de todos»</em> (Ef 4, 4-6). E Pedro abre a sua primeira carta do mesmo modo: <em>«segundo a presciência de Deus Pai, pela santificação do Espírito, para obedecer a Jesus Cristo»</em> (1 Pd 1, 2). Os apóstolos nomeavam os três já na saudação.</p>
+                <ul>
+                    <li>No Jordão, o Filho, o Espírito e o Pai aparecem ao mesmo tempo, e o Pai fala ao Filho.</li>
+                    <li>O Filho estava junto do Pai e tinha glória junto dele antes que o mundo existisse.</li>
+                    <li>Jesus apresenta o Pai e a si mesmo como duas testemunhas.</li>
+                    <li>O Espírito Santo é outro Paráclito: ouve, fala, é enviado e dá testemunho.</li>
+                    <li>Jesus mandou batizar num só nome, o do Pai e do Filho e do Espírito Santo.</li>
+                </ul>
+                <h2>Conclusão</h2>
+                <p>Os pentecostais unidos têm razão no que afirmam: Deus é um só, e Jesus é Deus. Erram no que negam. Para sustentar que Pai, Filho e Espírito Santo são uma só pessoa com três títulos, é preciso ler o batismo no Jordão como uma cena com um só personagem, a oração de João 17 como um homem que fala consigo mesmo e o testemunho de João 8 como uma testemunha contada duas vezes. Nenhuma outra passagem da Escritura se lê assim.</p>
+                <p>A Trindade continua a ser um mistério, e a Escritura não o explica. Conta-o, desde o primeiro capítulo do Gênesis até a saudação das cartas. No Jordão, o Filho saía da água, o Espírito descia sobre ele e o Pai falava do céu.</p>`,
       nav: { prevTitle: "A nova lei em Cristo", nextTitle: "Por que cremos na fé católica" }
     },
     "los-santos": {
@@ -569,7 +656,9 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
       { ref: "Mt 16, 18", text: "Tu és Pedro, e sobre esta pedra edificarei a minha Igreja." },
       { ref: "Is 1, 18", text: "Ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve." },
       { ref: "Lc 22, 32", text: "Mas eu roguei por ti, para que a tua fé não desfaleça; e tu, quando te converteres, confirma teus irmãos." },
-      { ref: "2 Pe 1, 20", text: "Nenhuma profecia da Escritura é de particular interpretação." }
+      { ref: "2 Pe 1, 20", text: "Nenhuma profecia da Escritura é de particular interpretação." },
+      { ref: "Tg 2, 17", text: "Assim também a fé: se não tiver obras, é morta em si mesma." },
+      { ref: "Tg 2, 20", text: "Queres ver, ó homem vão, como a fé sem obras é estéril?" }
     ]
   },
   lang: { soon: "Em breve" },

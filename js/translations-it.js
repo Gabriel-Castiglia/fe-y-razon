@@ -38,7 +38,7 @@ const translationsIT = {
     category: "Dottrina", date: "Agosto 2026", title: "I santi", excerpt: "L'importanza dei santi nella Chiesa cattolica e la loro intercessione per noi.", time: "12 min di lettura", link: "Leggi →"
   },
   article6: {
-    category: "Dottrina", date: "Prossimamente", title: "La Santissima Trinità", excerpt: "Comprendere il mistero centrale della fede cattolica attraverso la teologia e la ragione.", time: "10 min di lettura", link: "Leggi →"
+    category: "Dottrina", date: "Settembre 2026", title: "La Santissima Trinità", excerpt: "Tre Persone e un solo Dio: ciò che la Scrittura risponde ai pentecostali uniti, passo per passo.", time: "11 min di lettura", link: "Leggi →"
   },
   article7: {
     category: "Dottrina", date: "Prossimamente", title: "Il purgatorio", excerpt: "La purificazione finale prima di entrare alla presenza di Dio.", time: "6 min di lettura", link: "Leggi →"
@@ -215,11 +215,98 @@ const translationsIT = {
     },
     "la-santisima-trinidad": {
       pageTitle: "La Santissima Trinità | Fede e Ragione",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>La Santissima Trinità</h1><p>Comprendere la Trinità come mistero di unità e amore: Padre, Figlio e Spirito Santo che operano insieme nella storia della salvezza.</p><div class="article-meta"><span>10 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
-      article: `<p>La Trinità è il mistero centrale della fede cristiana. Dio è un solo essere in tre Persone: Padre, Figlio e Spirito Santo, in perfetta unità e comunione.</p><h2>Unità e distinzione</h2><p>Ogni Persona divina è pienamente Dio, ma non sono tre dèi distinti. Il cristianesimo confessa un unico Dio in una relazione eterna d'amore.</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Matteo 28:19</span>
-                    <blockquote>«<strong class="s-hi">Nel nome del Padre, del Figlio e dello Spirito Santo</strong>»</blockquote>
-                </div><h2>Azione comune</h2><p>Il Padre invia il Figlio, il Figlio redime e lo Spirito Santifica. Questa azione congiunta mostra che la salvezza è opera dell'intera Trinità.</p><ul><li>Dio è amore comunionale.</li><li>La Trinità è fondamento della vita cristiana nella Chiesa.</li><li>La presenza di Dio si rivela nella storia come relazione.</li></ul><h2>Implicazioni per la vita</h2><p>La dottrina trinitaria ci invita a vivere in comunione, trasparenza e servizio. Siamo fatti a immagine di un Dio che è comunità.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>La Santissima Trinità</h1><p>Un solo Dio in tre Persone. Contro l'idea che Padre, Figlio e Spirito Santo siano tre titoli di una sola persona, ciò che dice la Scrittura, passo per passo.</p><div class="article-meta"><span>11 min di lettura</span><span>Pubblicato a settembre 2026</span></div><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
+      article: `<p>C'è un'obiezione contro la Trinità che si sente dentro il mondo pentecostale, e non è quella di tutti i pentecostali: le Assemblee di Dio e la maggior parte delle chiese pentecostali confessano la Trinità. È quella dei pentecostali uniti, che si chiamano unicisti o «solo Gesù»: <em>«Dio è uno solo, non tre persone. Padre, Figlio e Spirito Santo sono titoli, modi in cui lo stesso Dio si è manifestato. Il Padre è Gesù, e lo Spirito Santo è lo Spirito di Gesù. Per questo si battezza soltanto nel nome di Gesù.»</em></p>
+                <p>La Trinità è un mistero: un solo Dio in tre Persone. Nessuno la comprende fino in fondo, e la Chiesa non ha mai chiesto di comprenderla per crederla. Quello che chiede è credere a ciò che Dio dice di sé, perché credere che esiste un solo Dio non basta. Giacomo lo dice così: <em><strong>«Tu credi che c'è un Dio solo? Fai bene; anche i demòni lo credono e tremano!»</strong></em> (Gc 2, 19). E ciò che Dio dice di sé è scritto con tanta insistenza che si capisce leggendolo. Per questo questo tema ha più citazioni che spiegazioni.</p>
+                <h2>«Facciamo»: il plurale del principio<br>Genesi 1, 26</h2>
+                <p>Il primo segno è nella prima pagina della Bibbia.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Genesi 1, 26</span>
+                    <blockquote>«Dio disse: «<strong class="s-hi">Facciamo l'uomo a nostra immagine, secondo la nostra somiglianza</strong>: dòmini sui pesci del mare e sugli uccelli del cielo, sul bestiame, su tutti gli animali selvatici e su tutti i rettili che strisciano sulla terra».»</blockquote>
+                </div>
+                <p>Dio parla al plurale, e nella scena non c'è nessun altro. Non sono gli angeli: gli angeli non creano, e l'uomo è fatto a immagine di Dio, non loro. Il versetto seguente torna al singolare: <em>«E Dio creò l'uomo a sua immagine»</em> (Gen 1, 27). Uno solo che dice «noi». Questo versetto, da solo, non prova la Trinità, e la Chiesa non lo usa così. È un annuncio che il resto della Scrittura chiarirà.</p>
+                <h2>Il Primo e l'Ultimo, mandato<br>Isaia 48, 16</h2>
+                <p>In Isaia 48 parla Dio, e si presenta con un titolo che nessun altro può portare: <em>«Sono io, io solo, il primo e anche l'ultimo»</em> (Is 48, 12). È colui che ha fondato la terra e dispiegato i cieli. Quattro versetti dopo, colui che parla dice questo:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Isaia 48, 16</span>
+                    <blockquote>«Avvicinatevi a me per udire questo: fin dal principio non ho parlato in segreto; da quando queste cose avvengono io sono là. <strong class="s-hi">Ora il Signore Dio ha mandato me insieme con il suo spirito.</strong>»</blockquote>
+                </div>
+                <p>Colui che era là fin dal principio è mandato, e a mandarlo sono il Signore Dio e il suo spirito. In un solo passo dell'Antico Testamento compaiono insieme chi manda, il mandato e lo Spirito. Secoli dopo, l'Apocalisse mette lo stesso titolo sulla bocca di Gesù: <em>«Io sono il Primo e l'Ultimo, e il Vivente. Ero morto, ma ora vivo per sempre»</em> (Ap 1, 17-18).</p>
+                <h2>I tre al Giordano<br>Marco 1, 10-11</h2>
+                <p>Nel battesimo di Gesù l'obiezione dei titoli resta senza posto.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Marco 1, 10-11</span>
+                    <blockquote>«E, subito, uscendo dall'acqua, vide squarciarsi i cieli e <strong class="s-hi">lo Spirito discendere verso di lui</strong> come una colomba. E <strong>venne una voce dal cielo</strong>: «<strong class="s-hi">Tu sei il Figlio mio, l'amato</strong>: in te ho posto il mio compiacimento».»</blockquote>
+                </div>
+                <p>Il Figlio esce dall'acqua, lo Spirito scende su di lui e il Padre parla dal cielo, nello stesso momento. Se fossero tre modi in cui si manifesta una sola persona, quella persona sarebbe contemporaneamente nell'acqua, mentre scende su sé stessa e mentre si parla dall'alto. Matteo racconta la stessa scena (Mt 3, 16-17). Nessuno dice «tu» a sé stesso dal cielo.</p>
+                <h2>Il Padre parla al Figlio<br>Ebrei 1, 5</h2>
+                <p>La lettera agli Ebrei ritorna su quella voce per mostrare che il Figlio è al di sopra degli angeli.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ebrei 1, 5</span>
+                    <blockquote>«Infatti, a quale degli angeli Dio ha mai detto: «<strong class="s-hi">Tu sei mio figlio, oggi ti ho generato</strong>»? E ancora: «<strong>Io sarò per lui padre ed egli sarà per me figlio</strong>»?»</blockquote>
+                </div>
+                <p>Uno parla e l'altro è interpellato. E tre versetti più avanti, il Padre chiama Dio il Figlio: <em>«Al Figlio invece dice: Il tuo trono, Dio, sta nei secoli dei secoli»</em> (Eb 1, 8). Il Figlio è Dio, e il Padre, che gli parla, non è lui.</p>
+                <h2>Presso il Padre, prima del mondo<br>Giovanni 17, 5</h2>
+                <p>Per i pentecostali uniti il Figlio comincia a Betlemme: «Figlio» sarebbe il nome dell'umanità di Gesù, e «Padre» quello del Dio che la abita. Giovanni risponde nella sua prima lettera.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Giovanni 1, 2-3</span>
+                    <blockquote>«la vita infatti si manifestò, noi l'abbiamo veduta e di ciò diamo testimonianza e vi annunciamo <strong class="s-hi">la vita eterna, che era presso il Padre</strong> e che si manifestò a noi. Quello che abbiamo veduto e udito, noi lo annunciamo anche a voi, perché anche voi siate in comunione con noi. E la nostra comunione è <strong>con il Padre e con il Figlio suo, Gesù Cristo</strong>.»</blockquote>
+                </div>
+                <p>Ciò che gli apostoli videro e toccarono era presso il Padre prima di manifestarsi. Nessuno è presso sé stesso. È ciò che Giovanni aveva scritto all'inizio del suo Vangelo: <em>«il Verbo era presso Dio e il Verbo era Dio»</em> (Gv 1, 1). E Gesù lo dice con le sue parole la notte prima di morire:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Giovanni 17, 5</span>
+                    <blockquote>«E ora, Padre, glorificami davanti a te <strong class="s-hi">con quella gloria che io avevo presso di te prima che il mondo fosse</strong>.»</blockquote>
+                </div>
+                <p>Gesù chiede al Padre la gloria che aveva presso di lui prima della creazione. Se il Figlio fosse cominciato a Betlemme, non avrebbe una gloria precedente da reclamare, né qualcuno presso cui averla avuta. Nella stessa preghiera insiste: <em>«mi hai amato prima della creazione del mondo»</em> (Gv 17, 24). Prima del mondo c'era uno che amava e un altro che era amato.</p>
+                <h2>Due testimoni<br>Giovanni 8, 16-18</h2>
+                <p>Discutendo con i farisei, Gesù invoca la Legge di Mosè, che non accettava un solo testimone (Dt 19, 15).</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Giovanni 8, 16-18</span>
+                    <blockquote>«E anche se io giudico, il mio giudizio è vero, perché <strong class="s-hi">non sono solo, ma io e il Padre che mi ha mandato</strong>. E nella vostra Legge sta scritto che <strong>la testimonianza di due persone è vera</strong>. Sono io che do testimonianza di me stesso, e anche il Padre, che mi ha mandato, dà testimonianza di me.»</blockquote>
+                </div>
+                <p>Gesù presenta due testimoni: sé stesso e il Padre. Se fossero una sola persona con due nomi, farebbe passare un testimone per due, e il suo argomento davanti ai farisei sarebbe un inganno. Gesù ne conta due. I pentecostali uniti ne contano uno.</p>
+                <p>I versetti che loro citano dicono lo stesso quando si leggono per intero. <em>«Io e il Padre siamo una cosa sola»</em> (Gv 10, 30): «siamo» è plurale, e ciò che è uno è la cosa, non la persona. <em>«Chi ha visto me, ha visto il Padre»</em> (Gv 14, 9), e subito dopo: <em>«io sono nel Padre e il Padre è in me»</em> (Gv 14, 11). Per essere l'uno nell'altro bisogna essere due.</p>
+                <h2>Un altro Paràclito<br>Giovanni 14, 16-17</h2>
+                <p>Sullo Spirito Santo, la parola decisiva la dice Gesù nell'ultima cena.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Giovanni 14, 16-17</span>
+                    <blockquote>«Io pregherò il Padre ed egli vi darà <strong class="s-hi">un altro Paràclito</strong> perché rimanga con voi per sempre, <strong>lo Spirito della verità</strong>, che il mondo non può ricevere perché non lo vede e non lo conosce. Voi lo conoscete perché egli rimane presso di voi e sarà in voi.»</blockquote>
+                </div>
+                <p>Il Figlio prega, il Padre dà, e ciò che dà è un altro Paràclito. Il Paràclito è colui che accompagna e difende; Gesù lo era stato per i suoi discepoli per tre anni, e ora ne annuncia un altro. Se lo Spirito Santo fosse Gesù con un altro nome, non sarebbe un altro. Nei capitoli seguenti ciascuno compare con ciò che gli è proprio: lo Spirito Santo è quello <em>«che il Padre manderà nel mio nome»</em> (Gv 14, 26), e <em>«non parlerà da se stesso, ma dirà tutto ciò che avrà udito»</em> (Gv 16, 13).</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Giovanni 15, 26</span>
+                    <blockquote>«Quando verrà <strong class="s-hi">il Paràclito, che io vi manderò dal Padre</strong>, lo Spirito della verità che procede dal Padre, <strong>egli darà testimonianza di me</strong>.»</blockquote>
+                </div>
+                <p>In un solo versetto il Figlio manda, lo Spirito procede dal Padre e lo Spirito dà testimonianza del Figlio. Sono tre soggetti in una frase, e nessuno è un titolo di un altro. Colui che ode, parla, è mandato e dà testimonianza non è una forza né un modo. È qualcuno.</p>
+                <h2>Nel nome del Padre, del Figlio e dello Spirito Santo<br>Matteo 28, 19</h2>
+                <p>Resta il battesimo. I pentecostali uniti rifiutano la formula trinitaria e battezzano «nel nome di Gesù», appoggiandosi a passi come questo:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Atti 19, 2-5</span>
+                    <blockquote>«e disse loro: «<strong class="s-hi">Avete ricevuto lo Spirito Santo quando siete venuti alla fede?</strong>». Gli risposero: «<strong>Non abbiamo nemmeno sentito dire che esista uno Spirito Santo</strong>». Ed egli disse: «Quale battesimo avete ricevuto?». «Il battesimo di Giovanni», risposero. Disse allora Paolo: «Giovanni battezzò con un battesimo di conversione, dicendo al popolo di credere in colui che veniva dopo di lui, cioè in Gesù». Udito questo, si fecero battezzare nel nome del Signore Gesù.»</blockquote>
+                </div>
+                <p>Il passo serve al contrario. La prima cosa che Paolo chiede è se hanno ricevuto lo Spirito Santo. Quando rispondono che non sanno nemmeno che esista, capisce che il battesimo che hanno non è quello cristiano, e chiede quale hanno ricevuto: quello di Giovanni. «Nel nome del Signore Gesù» è ciò che separa un battesimo dall'altro. Luca non sta trascrivendo le parole pronunciate sull'acqua. Quelle parole le ha date Gesù:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matteo 28, 19</span>
+                    <blockquote>«Andate dunque e fate discepoli tutti i popoli, battezzandoli <strong class="s-hi">nel nome del Padre e del Figlio e dello Spirito Santo</strong>…»</blockquote>
+                </div>
+                <p>«Nel nome», al singolare, e poi tre. Un solo nome, perché Dio è uno. Tre nominati, perché sono tre. È la formula che la Chiesa ha ricevuto da Gesù e con cui battezza ancora oggi.</p>
+                <h2>I tre nel saluto degli apostoli<br>2 Corinzi 13, 13</h2>
+                <p>Paolo chiude la sua seconda lettera ai Corinzi con questa benedizione.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 2 Corinzi 13, 13</span>
+                    <blockquote>«<strong class="s-hi">La grazia del Signore Gesù Cristo, l'amore di Dio e la comunione dello Spirito Santo</strong> siano con tutti voi.»</blockquote>
+                </div>
+                <p>I tre, uno accanto all'altro, ciascuno con ciò che dà. Non è una frase isolata. Nella prima lettera ai Corinzi i carismi vengono dal <em>«medesimo Spirito»</em>, i ministeri dal <em>«medesimo Signore»</em> e le attività dal <em>«medesimo Dio»</em> (1 Cor 12, 4-6). Agli Efesini scrive: <em>«un solo Spirito… un solo Signore… un solo Dio e Padre di tutti»</em> (Ef 4, 4-6). E Pietro apre la sua prima lettera allo stesso modo: <em>«secondo il piano stabilito da Dio Padre, mediante lo Spirito che santifica, per obbedire a Gesù Cristo»</em> (1 Pt 1, 2). Gli apostoli nominavano i tre già nel saluto.</p>
+                <ul>
+                    <li>Al Giordano il Figlio, lo Spirito e il Padre compaiono insieme, e il Padre parla al Figlio.</li>
+                    <li>Il Figlio era presso il Padre e aveva gloria presso di lui prima che il mondo fosse.</li>
+                    <li>Gesù presenta il Padre e sé stesso come due testimoni.</li>
+                    <li>Lo Spirito Santo è un altro Paràclito: ode, parla, è mandato e dà testimonianza.</li>
+                    <li>Gesù ha comandato di battezzare in un solo nome, quello del Padre e del Figlio e dello Spirito Santo.</li>
+                </ul>
+                <h2>Conclusione</h2>
+                <p>I pentecostali uniti hanno ragione in ciò che affermano: Dio è uno solo, e Gesù è Dio. Sbagliano in ciò che negano. Per sostenere che Padre, Figlio e Spirito Santo sono una sola persona con tre titoli, bisogna leggere il battesimo al Giordano come una scena con un solo personaggio, la preghiera di Giovanni 17 come un uomo che parla a sé stesso e la testimonianza di Giovanni 8 come un testimone contato due volte. Nessun altro passo della Scrittura si legge così.</p>
+                <p>La Trinità resta un mistero, e la Scrittura non lo spiega. Lo racconta, dal primo capitolo della Genesi fino al saluto delle lettere. Al Giordano il Figlio usciva dall'acqua, lo Spirito scendeva su di lui e il Padre parlava dal cielo.</p>`,
       nav: { prevTitle: "La nuova legge in Cristo", nextTitle: "Perché crediamo nella fede cattolica" }
     },
     "los-santos": {
@@ -561,7 +648,9 @@ const translationsIT = {
       { ref: "Mt 16, 18", text: "Tu sei Pietro e su questa pietra edificherò la mia Chiesa." },
       { ref: "Is 1, 18", text: "Anche se i vostri peccati fossero come scarlatto, diventeranno bianchi come neve." },
       { ref: "Lc 22, 32", text: "Ma io ho pregato per te, che non venga meno la tua fede; e tu, una volta ravveduto, conferma i tuoi fratelli." },
-      { ref: "2 Pt 1, 20", text: "Nessuna profezia della Scrittura è oggetto di interpretazione privata." }
+      { ref: "2 Pt 1, 20", text: "Nessuna profezia della Scrittura è oggetto di interpretazione privata." },
+      { ref: "Gc 2, 17", text: "Così anche la fede: se non è seguita dalle opere, in se stessa è morta." },
+      { ref: "Gc 2, 20", text: "Ma vuoi sapere, o insensato, come la fede senza le opere non ha valore?" }
     ]
   },
   lang: { soon: "Prossimamente" },

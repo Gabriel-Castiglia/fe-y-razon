@@ -64,10 +64,10 @@ const translationsEN = {
   },
   article6: {
     category: "Doctrine",
-    date: "Coming soon",
+    date: "September 2026",
     title: "The Holy Trinity",
-    excerpt: "Understanding the central mystery of the Catholic faith through theology and reason.",
-    time: "10 min read",
+    excerpt: "Three Persons and one God: what Scripture answers the United Pentecostals, passage by passage.",
+    time: "11 min read",
     link: "Read →"
   },
   article7: {
@@ -403,28 +403,103 @@ const translationsEN = {
                 <span class="eyebrow-text">Special Topic</span>
             </div>
             <h1>The Holy Trinity</h1>
-            <p>Understand the Trinity as a mystery of unity and love: Father, Son, and Holy Spirit working together in salvation history.</p>
+            <p>One God in three Persons. Against the idea that Father, Son and Holy Spirit are three titles of a single person, what Scripture says, passage by passage.</p>
             <div class="article-meta">
-                <span>10 min read</span>
-                <span>Published May 2026</span>
+                <span>11 min read</span>
+                <span>Published September 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
-      article: `<p>The Trinity is the central mystery of Christian faith. God is one being in three Persons: Father, Son, and Holy Spirit, in perfect unity and communion.</p>
-                <h2>Unity and distinction</h2>
-                <p>Each divine Person is fully God, but they are not three separate gods. Christianity professes one God in an eternal relationship of love.</p>
+      article: `<p>There is an objection to the Trinity heard inside the Pentecostal world, and it is not the objection of all Pentecostals: the Assemblies of God and most Pentecostal churches confess the Trinity. It belongs to the United Pentecostals, who call themselves Oneness or "Jesus only": <em>"God is only one, not three persons. Father, Son and Holy Spirit are titles, ways in which the same God has manifested himself. The Father is Jesus, and the Holy Spirit is the Spirit of Jesus. That is why we baptize only in the name of Jesus."</em></p>
+                <p>The Trinity is a mystery: one God in three Persons. No one understands it fully, and the Church has never asked anyone to understand it before believing it. What she asks is to believe what God says about himself, because believing that there is one God is not enough. James puts it this way: <em><strong>«You believe that God is one; you do well. Even the demons believe—and shudder.»</strong></em> (Jas 2:19). And what God says about himself is written with such insistence that it can be understood by reading it. That is why this topic has more quotations than explanations.</p>
+                <h2>"Let us make": the plural at the beginning<br>Genesis 1:26</h2>
+                <p>The first sign is on the first page of the Bible.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Genesis 1:26</span>
+                    <blockquote>«Then God said, <strong class="s-hi">"Let us make man in our image, after our likeness;</strong> and let them have dominion over the fish of the sea, and over the birds of the air, and over the cattle, and over all the earth, and over every creeping thing that creeps upon the earth."»</blockquote>
+                </div>
+                <p>God speaks in the plural, and there is no one else in the scene. It is not the angels: angels do not create, and man comes out in the image of God, not in theirs. The next verse returns to the singular: <em>«So God created man in his own image»</em> (Gen 1:27). One who says "us." This verse alone does not prove the Trinity, and the Church does not use it that way. It is an announcement that the rest of Scripture will make clear.</p>
+                <h2>The First and the Last, sent<br>Isaiah 48:16</h2>
+                <p>In Isaiah 48 God speaks, and he presents himself with a title no one else can bear: <em>«I am He, I am the first, and I am the last»</em> (Is 48:12). He is the one who laid the foundation of the earth and spread out the heavens. Four verses later, the one speaking says this:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Isaiah 48:16</span>
+                    <blockquote>«Draw near to me, hear this: from the beginning I have not spoken in secret, from the time it came to be I have been there. <strong class="s-hi">And now the Lord God has sent me and his Spirit.</strong>»</blockquote>
+                </div>
+                <p>The one who has been there from the beginning is sent, and he is sent by the Lord God and his Spirit. In a single passage of the Old Testament the one who sends, the one sent and the Spirit appear together. Centuries later, the Book of Revelation puts that same title on the lips of Jesus: <em>«I am the first and the last, and the living one; I died, and behold I am alive for evermore»</em> (Rev 1:17-18).</p>
+                <h2>The three at the Jordan<br>Mark 1:10-11</h2>
+                <p>At the baptism of Jesus the objection of the titles is left with nowhere to stand.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mark 1:10-11</span>
+                    <blockquote>«And when he came up out of the water, immediately he saw the heavens opened and <strong class="s-hi">the Spirit descending upon him</strong> like a dove; and <strong>a voice came from heaven</strong>, <strong class="s-hi">"Thou art my beloved Son</strong>; with thee I am well pleased."»</blockquote>
+                </div>
+                <p>The Son comes out of the water, the Spirit comes down upon him and the Father speaks from heaven, at the same moment. If these were three ways in which a single person manifests himself, that person would be at once in the water, coming down upon himself and speaking to himself from above. Matthew tells the same scene (Mt 3:16-17). No one says "you" to himself from heaven.</p>
+                <h2>The Father speaks to the Son<br>Hebrews 1:5</h2>
+                <p>The Letter to the Hebrews returns to that voice to show that the Son is above the angels.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Hebrews 1:5</span>
+                    <blockquote>«For to what angel did God ever say, <strong class="s-hi">"Thou art my Son, today I have begotten thee"</strong>? Or again, <strong>"I will be to him a father, and he shall be to me a son"</strong>?»</blockquote>
+                </div>
+                <p>One speaks and the other is addressed. And three verses further on, the Father calls the Son God: <em>«But of the Son he says, "Thy throne, O God, is for ever and ever"»</em> (Heb 1:8). The Son is God, and the Father, who speaks to him, is not he.</p>
+                <h2>With the Father, before the world<br>John 17:5</h2>
+                <p>For the United Pentecostals, the Son begins in Bethlehem: "Son" would be the name of Jesus' humanity, and "Father" the name of the God who dwells in it. John answers this in his first letter.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 John 1:2-3</span>
+                    <blockquote>«The life was made manifest, and we saw it, and testify to it, and proclaim to you <strong class="s-hi">the eternal life which was with the Father</strong> and was made manifest to us. That which we have seen and heard we proclaim also to you, so that you may have fellowship with us; and our fellowship is <strong>with the Father and with his Son Jesus Christ</strong>.»</blockquote>
+                </div>
+                <p>What the apostles saw and touched was with the Father before it was made manifest. No one is with himself. It is what John had written at the opening of his Gospel: <em>«the Word was with God, and the Word was God»</em> (Jn 1:1). And Jesus says it in his own words on the night before he died:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ John 17:5</span>
+                    <blockquote>«And now, Father, glorify me in thy own presence <strong class="s-hi">with the glory which I had with thee before the world was made</strong>.»</blockquote>
+                </div>
+                <p>Jesus asks the Father for the glory he had with him before creation. If the Son had begun in Bethlehem, he would have no earlier glory to claim, nor anyone with whom he had shared it. In the same prayer he insists: <em>«thou didst love me before the foundation of the world»</em> (Jn 17:24). Before the world there was one who loved and another who was loved.</p>
+                <h2>Two witnesses<br>John 8:16-18</h2>
+                <p>Arguing with the Pharisees, Jesus appeals to the Law of Moses, which did not accept a single witness (Deut 19:15).</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ John 8:16-18</span>
+                    <blockquote>«Yet even if I do judge, my judgment is true, for <strong class="s-hi">it is not I alone that judge, but I and he who sent me</strong>. In your law it is written that <strong>the testimony of two men is true</strong>; I bear witness to myself, and the Father who sent me bears witness to me.»</blockquote>
+                </div>
+                <p>Jesus presents two witnesses: himself and the Father. If they were a single person with two names, he would be passing off one witness as two, and his argument before the Pharisees would be a trick. Jesus counts two. The United Pentecostals count one.</p>
+                <p>The verses they quote say the same thing when they are read in full. <em>«I and the Father are one»</em> (Jn 10:30): "are" is plural, and what is one is the being, not the person. <em>«He who has seen me has seen the Father»</em> (Jn 14:9), and right after: <em>«I am in the Father and the Father in me»</em> (Jn 14:11). To be one in the other takes two.</p>
+                <h2>Another Counselor<br>John 14:16-17</h2>
+                <p>About the Holy Spirit, the decisive word is spoken by Jesus at the Last Supper.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ John 14:16-17</span>
+                    <blockquote>«And I will pray the Father, and he will give you <strong class="s-hi">another Counselor</strong>, to be with you for ever, even <strong>the Spirit of truth</strong>, whom the world cannot receive, because it neither sees him nor knows him; you know him, for he dwells with you, and will be in you.»</blockquote>
+                </div>
+                <p>The Son prays, the Father gives, and what he gives is another Counselor. The Paraclete is the one who accompanies and defends; Jesus had been that for his disciples for three years, and now he announces another. If the Holy Spirit were Jesus under another name, he would not be another. In the following chapters each appears with what is his own: the Holy Spirit is the one <em>«whom the Father will send in my name»</em> (Jn 14:26), and <em>«he will not speak on his own authority, but whatever he hears he will speak»</em> (Jn 16:13).</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ John 15:26</span>
+                    <blockquote>«But when <strong class="s-hi">the Counselor comes, whom I shall send to you from the Father</strong>, even the Spirit of truth, who proceeds from the Father, <strong>he will bear witness to me</strong>.»</blockquote>
+                </div>
+                <p>In a single verse the Son sends, the Spirit proceeds from the Father and the Spirit bears witness to the Son. There are three subjects in one sentence, and none of them is a title of another. The one who hears, speaks, is sent and bears witness is not a force or a mode. He is someone.</p>
+                <h2>In the name of the Father, of the Son and of the Holy Spirit<br>Matthew 28:19</h2>
+                <p>That leaves baptism. The United Pentecostals reject the Trinitarian formula and baptize "in the name of Jesus," relying on passages like this one:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Acts 19:2-5</span>
+                    <blockquote>«And he said to them, <strong class="s-hi">"Did you receive the Holy Spirit when you believed?"</strong> And they said, <strong>"No, we have never even heard that there is a Holy Spirit."</strong> And he said, "Into what then were you baptized?" They said, "Into John's baptism." And Paul said, "John baptized with the baptism of repentance, telling the people to believe in the one who was to come after him, that is, Jesus." On hearing this, they were baptized in the name of the Lord Jesus.»</blockquote>
+                </div>
+                <p>The passage serves the opposite purpose. The first thing Paul asks is whether they received the Holy Spirit. When they answer that they do not even know he exists, he understands that the baptism they have is not the Christian one, and asks which one they received: John's. "In the name of the Lord Jesus" is what separates one baptism from the other. Luke is not transcribing the words spoken over the water. Those words were given by Jesus:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Matthew 28:19</span>
-                    <blockquote>«<strong class="s-hi">In the name of the Father, and of the Son, and of the Holy Spirit</strong>»</blockquote>
+                    <blockquote>«Go therefore and make disciples of all nations, baptizing them <strong class="s-hi">in the name of the Father and of the Son and of the Holy Spirit</strong>…»</blockquote>
                 </div>
-                <h2>Common action</h2>
-                <p>The Father sends the Son, the Son redeems, and the Spirit sanctifies. This joint action shows that salvation is the work of the entire Trinity.</p>
+                <p>"In the name," in the singular, and then three. One name, because God is one. Three named, because they are three. It is the formula the Church received from Jesus and with which she baptizes to this day.</p>
+                <h2>The three in the apostles' greeting<br>2 Corinthians 13:14</h2>
+                <p>Paul closes his second letter to the Corinthians with this blessing.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 2 Corinthians 13:14</span>
+                    <blockquote>«<strong class="s-hi">The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit</strong> be with you all.»</blockquote>
+                </div>
+                <p>The three, side by side, each with what he gives. It is not an isolated phrase. In the first letter to the Corinthians, the gifts come from <em>«the same Spirit»</em>, the services from <em>«the same Lord»</em> and the workings from <em>«the same God»</em> (1 Cor 12:4-6). To the Ephesians he writes: <em>«one Spirit… one Lord… one God and Father of us all»</em> (Eph 4:4-6). And Peter opens his first letter the same way: <em>«chosen and destined by God the Father and sanctified by the Spirit for obedience to Jesus Christ»</em> (1 Pet 1:2). The apostles named the three already in their greetings.</p>
                 <ul>
-                    <li>God is communal love.</li>
-                    <li>The Trinity is the foundation of Christian life in the Church.</li>
-                    <li>God’s presence is revealed in history as relationship.</li>
+                    <li>At the Jordan the Son, the Spirit and the Father appear at once, and the Father speaks to the Son.</li>
+                    <li>The Son was with the Father and had glory with him before the world existed.</li>
+                    <li>Jesus presents the Father and himself as two witnesses.</li>
+                    <li>The Holy Spirit is another Counselor: he hears, speaks, is sent and bears witness.</li>
+                    <li>Jesus commanded baptism in a single name, that of the Father and of the Son and of the Holy Spirit.</li>
                 </ul>
-                <h2>Implications for life</h2>
-                <p>Trinitarian doctrine invites us to live in communion, transparency, and service. We are made in the image of a God who is community.</p>`,
+                <h2>Conclusion</h2>
+                <p>The United Pentecostals are right in what they affirm: God is one, and Jesus is God. They are wrong in what they deny. To hold that Father, Son and Holy Spirit are a single person with three titles, the baptism at the Jordan has to be read as a scene with a single character, the prayer of John 17 as a man talking to himself and the testimony of John 8 as one witness counted twice. No other passage of Scripture is read that way.</p>
+                <p>The Trinity remains a mystery, and Scripture does not explain it. It tells it, from the first chapter of Genesis to the greetings of the letters. At the Jordan the Son was coming out of the water, the Spirit was coming down upon him and the Father was speaking from heaven.</p>`,
       nav: {
         prevTitle: "The New Law in Christ",
         nextTitle: "Why We Believe in the Catholic Faith"
@@ -914,7 +989,9 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
       { ref: "Mt 16:18",   text: "You are Peter, and upon this rock I will build my Church." },
       { ref: "Is 1:18",    text: "Though your sins be like scarlet, they may become white as snow." },
       { ref: "Lk 22:32",   text: "I have prayed that your own faith may not fail; and once you have turned back, you must strengthen your brothers." },
-      { ref: "2 Pet 1:20", text: "No prophecy of Scripture is a matter of personal interpretation." }
+      { ref: "2 Pet 1:20", text: "No prophecy of Scripture is a matter of personal interpretation." },
+      { ref: "Jas 2:17", text: "So also faith of itself, if it does not have works, is dead." },
+      { ref: "Jas 2:20", text: "Do you want proof, you ignoramus, that faith without works is useless?" }
     ]
   },
   lang: {
