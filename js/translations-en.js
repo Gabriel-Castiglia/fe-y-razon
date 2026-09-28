@@ -17,6 +17,8 @@ const translationsEN = {
     btn2: "Our mission"
   },
   topics: {
+    pageTitle: "Faith Topics | Faith and Reason",
+    filter: { label: "Filter by group", all: "All", god: "God and faith", church: "Church", sacraments: "Sacraments", saints: "The Blessed Virgin and the saints", salvation: "Salvation", search: "Search a topic", empty: "No topic matches your search." },
     eyebrow: "Apologetic Catechesis",
     title: "Faith Topics",
     subtitle: "Solid arguments to deepen, understand, and defend the Catholic&nbsp;faith"
@@ -155,7 +157,7 @@ const translationsEN = {
                 <span>6 min read</span>
                 <span>Published May 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
+            <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
       article: `<p>Purgatory is the stage in which souls are purified before entering the full presence of God. It is not final punishment, but a process of healing love.</p>
                 <h2>What does purification mean?</h2>
                 <p>Purification removes the effects of venial sin and heals the wounds of freedom. It is the preparation needed for divine contemplation.</p>
@@ -186,7 +188,7 @@ const translationsEN = {
                 <span>13 min read</span>
                 <span>Published May 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
+            <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
       article: `<p>Is the Eucharist a symbol or is it real? The answer is in John 6. There is no clearer, more direct, or more challenging text in all the Gospels on this subject. And Jesus does not back down. But John 6 is not the only witness: Paul confirms it independently, and the first disciples of the apostles understood it without ambiguity. Three lines of evidence. Not one of them has an answer within the symbolic interpretation.</p>
                 <h2>I am the bread of life<br>John 6:47-51</h2>
                 <p>Jesus does not say "I represent the bread of life" or "I am like the bread of life." He says:</p>
@@ -261,7 +263,7 @@ const translationsEN = {
                 <span>8 min read</span>
                 <span>Published May 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
+            <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
       article: `<p>The new law is the law of the Gospel, centered on the commandment of love. Christ does not abolish the Old Law, but brings it to fulfillment and makes it accessible to the human heart.</p>
                 <h2>Love as the standard</h2>
                 <p>Jesus summarizes the Law in loving God and neighbor. This new rule is not a burden, but a deep freedom that transforms our actions from within.</p>
@@ -295,7 +297,7 @@ const translationsEN = {
                 <span>14 min read</span>
                 <span>Published September 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
+            <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
       article: `<p>Against the papacy the objection comes in two forms. The first is repeated by Protestants of nearly every denomination, by Adventists and by Jehovah's Witnesses: <em>"The rock is Christ, not Peter. Peter is just a little stone; the rock is the faith he confessed."</em> The second belongs to the evangelical world: <em>"The true Church is invisible: it has no hierarchy, no bishops, no pope. Rome invented all that."</em></p>
                 <p>Both are answered from Scripture. First, what the Church is built on and who holds the keys. Then, whether that Church has a government and whether it existed before anyone organized it. And finally, whom Christ charged with holding up the rest.</p>
                 <h2>Christ is the cornerstone, and there are foundations<br>Ephesians 2:20-22</h2>
@@ -408,7 +410,7 @@ const translationsEN = {
                 <span>11 min read</span>
                 <span>Published September 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
+            <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
       article: `<p>There is an objection to the Trinity heard inside the Pentecostal world, and it is not the objection of all Pentecostals: the Assemblies of God and most Pentecostal churches confess the Trinity. It belongs to the United Pentecostals, who call themselves Oneness or "Jesus only": <em>"God is only one, not three persons. Father, Son and Holy Spirit are titles, ways in which the same God has manifested himself. The Father is Jesus, and the Holy Spirit is the Spirit of Jesus. That is why we baptize only in the name of Jesus."</em></p>
                 <p>The Trinity is a mystery: one God in three Persons. No one understands it fully, and the Church has never asked anyone to understand it before believing it. What she asks is to believe what God says about himself, because believing that there is one God is not enough. James puts it this way: <em><strong>«You believe that God is one; you do well. Even the demons believe—and shudder.»</strong></em> (Jas 2:19). And what God says about himself is written with such insistence that it can be understood by reading it. That is why this topic has more quotations than explanations.</p>
                 <h2>"Let us make": the plural at the beginning<br>Genesis 1:26</h2>
@@ -517,7 +519,7 @@ const translationsEN = {
                 <span>12 min read</span>
                 <span>Published May 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
+            <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
       article: `<p>Jehovah's Witnesses and Adventists repeat the same objection tirelessly: <em>«The dead cannot hear you»</em>, because the soul —they say— sleeps until the final judgement. At first glance it sounds reasonable. But Scripture says something else. Not in one isolated verse: in seven distinct passages, from Paul to the Book of Revelation. One at a time.</p>
 
             <h2>Knowledge is perfected after death<br>1 Corinthians 13:9-13</h2>
@@ -613,7 +615,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <span>15 min read</span>
                 <span>Published May 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
+            <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
       article: `<p>Why do we believe? Not out of blind tradition or family custom. We believe because the Word of God was witnessed, faithfully transmitted, and remains true. Luke tells us from the beginning: he investigated everything from the start so that we may know the certainty of the things we have been taught (Lk 1:1-4). That is exactly what we will do here.</p>
                 <h2>The Word was witnessed<br>Luke 1:1-4 and John 11:25-27</h2>
                 <p>Luke tells us that many undertook to compile an account of the events that took place among them, <em>"just as they were handed down to us by those who from the first were eyewitnesses and servants of the word"</em> (Lk 1:2). These are not legends: they are testimonies. What Jesus said, lived and taught was seen and transmitted by real witnesses.</p>
@@ -703,7 +705,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <span>11 min read</span>
                 <span>Published May 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
+            <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
       article: `<p>There is a question Protestantism cannot answer. Jesus said: <em>"Receive the Holy Spirit. Whose sins you forgive are forgiven them, and whose sins you retain are retained"</em> (Jn 20:22-23). To whom was He speaking? And how do you retain someone's sins without knowing what they are? You cannot. That verse requires that the penitent disclose his sins — which requires a priest with authority to forgive. Let us go through this step by step.</p>
                 <h2>A man taken from among men<br>Hebrews 5:1-2</h2>
                 <p>The Letter to the Hebrews is unambiguous from the start:</p>
@@ -785,7 +787,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <span>14 min read</span>
                 <span>Published August 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
+            <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
       article: `<p>Faced with the Eucharist the objection changes its shape but not its substance. Jehovah's Witnesses, Adventists, Pentecostals, Mormons and Protestants in general repeat one of these two: <em>"The bread is still bread: it looks like bread and it tastes like bread."</em> and <em>"Transubstantiation is an invented word, Greek philosophy; it is not in the Bible."</em></p>
                 <p>The second is answered in a single line: the words "Trinity" and "Bible" are not there either, and no one disputes what they name. A word does not create the fact: it names it. The first is the one that matters, and it is not answered with philosophy but with Scripture, because Scripture already recorded what happens when Christ says that one thing is another. Five passages, in order.</p>
                 <h2>The Word does not describe: it makes<br>John 1:1-3</h2>
@@ -887,7 +889,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
             </div>
             <h1>Recommended Resources</h1>
             <p>Trusted sources for deepening, learning, and sharing the Catholic faith.</p>
-            <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
+            <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
       labels: {
         bible: "Sacred Scripture →",
         catechism: "Catechism →",
@@ -903,7 +905,8 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
       sec2: {
         eyebrow: "Apologetics · Formation", title: "Priests and Educators", desc: "Voices faithful to the Magisterium who teach, defend, and proclaim the faith with depth and rigor.",
         toro:    { desc: "Theologian and apologist. He answers the most difficult objections to the Catholic faith with great depth." },
-        olivera: { desc: "Augustinian historian and apologist. He tackles rationalism, sects, and modern errors with rigor." }
+        olivera: { desc: "Augustinian historian and apologist. He tackles rationalism, sects, and modern errors with rigor." },
+        montfort: { tag: "France · c. 1712", title: "Treatise on True Devotion to the Blessed Virgin", author: "St. Louis-Marie Grignion de Montfort", desc: "The classic work on consecration to Jesus through Mary. Complete edition in PDF, from the Montfort Missionaries.", ed1: "Read the PDF →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
         eyebrow: "Apostolates · Media", title: "Apostolates and Catholic Media",
@@ -927,7 +930,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
             </div>
             <h1>Privacy</h1>
             <p>What data this site collects, what it is used for, and where it goes.</p>
-            <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
+            <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
       article: `<p>This site uses no cookies, has no analytics, shows no advertising and includes no social media buttons or trackers. The fonts, images and videos are served from this same domain: when you open a page, your browser requests nothing from any third party.</p>
                 <h2>What data is collected</h2>
                 <p>Only what you type into the contact form: <strong>name, email address, subject and message</strong>. No other data is collected, and there is no other form anywhere on the site.</p>
@@ -952,7 +955,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
             </div>
             <h1>About This Site</h1>
             <p>A journey through philosophies that didn't hold up — until the Church that did.</p>
-            <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
+            <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
       article: `<p>I arrived at Catholicism after a long journey. I read everything: occultism and esotericism, the so-called Emerald Tablets, Eastern philosophies, Nietzsche, the Epicureans. I tried answers everywhere and couldn't find any that held up. Stoicism was the last thing that offered me something serious before Christ — Seneca, Marcus Aurelius, Epictetus taught me to look at truth without flinching. And looking at truth without flinching, I ended up where I didn't expect: before the Catholic Church.</p>
 
             <p>This site is for you if you're in one of these places: you doubt the faith you received and don't know who to ask; you're searching among traditions and no one gives you an answer that can bear the weight; you just converted and feel alone, without a guide, assailed from all sides. I know that place. I was there. And I know what's around it: traditional Catholics who sometimes take for granted what they ought to demonstrate and can't explain it; and worse, lukewarm Catholics — those who go to Mass out of habit, don't know what they believe, defend nothing, and are the first to shrug their shoulders when someone attacks the faith in front of them.</p>
@@ -970,7 +973,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
 
             <p>I don't write to win arguments. I write so that the person doubting alone in the night has something serious at hand when it's their turn to defend their faith — or when it's their turn to find it for the first time.</p>
 
-            <p class="about-signature">— M.G.</p>`
+            <p class="about-signature">M. Gabriel Castiglia</p>`
     }
   },
   disclaimerHTML: "This article was automatically translated from Spanish. This site is a personal project maintained with effort and dedication. If you find any errors in the translation, we appreciate you reporting them through the contact form.",

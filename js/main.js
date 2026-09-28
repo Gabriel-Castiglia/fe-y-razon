@@ -315,7 +315,13 @@ document.addEventListener('DOMContentLoaded', function () {
   
   const navLinks = document.querySelectorAll('nav a');
 
+  // Solo en la portada, donde el menú apunta a secciones (#hero, #mision…). En
+  // temas.html y las demás páginas el menú lleva a otras páginas, y este
+  // indicador le borraba la marca fija de «active» a la página actual.
+  const hayAnclas = [...navLinks].some(a => (a.getAttribute('href') || '').startsWith('#'));
+
   function updateActiveLink() {
+    if (!hayAnclas) return;
     let currentSection = '';
     const sections = document.querySelectorAll('section[id]');
 
@@ -388,6 +394,112 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     startCycle();
+  }
+
+  // 8b. CITA MINI DE temas.html
+  // Las mismas citas de la meditación, en la tarjeta chica del final de la
+  // página de temas. Arranca en una cita al azar para no repetir siempre la
+  // primera, y la línea dorada marca el tiempo que falta para la siguiente.
+  const miniSec   = document.querySelector('.cita-mini');
+  const miniTexto = document.getElementById('cita-mini-texto');
+  const miniRef   = document.getElementById('cita-mini-ref');
+  const miniBarra = document.getElementById('cita-mini-barra');
+
+  if (miniSec && miniTexto && miniRef) {
+    const MINI_MS = 11000;
+    let miniIdx = -1;
+    let miniTimer = null;
+
+    const citasMini = () => {
+      const t = (typeof translations !== 'undefined') ? translations[currentLang] : null;
+      return (t && t.meditacion && t.meditacion.quotes) ? t.meditacion.quotes : null;
+    };
+
+    const pintarMini = (q) => {
+      miniRef.textContent   = q.ref;
+      miniTexto.textContent = '“' + q.text + '”';
+      if (miniBarra) {
+        miniBarra.style.setProperty('--cita-mini-ms', MINI_MS + 'ms');
+        miniBarra.classList.remove('corre');
+        void miniBarra.offsetWidth; // reinicia la animación de la línea
+        miniBarra.classList.add('corre');
+      }
+    };
+
+    const siguienteMini = (animar) => {
+      const qs = citasMini();
+      if (!qs || !qs.length) return;
+      miniIdx = miniIdx < 0 ? Math.floor(Math.random() * qs.length) : (miniIdx + 1) % qs.length;
+      if (!animar) { pintarMini(qs[miniIdx]); return; }
+      miniSec.classList.add('cambiando');
+      setTimeout(() => {
+        pintarMini(qs[miniIdx]);
+        miniSec.classList.remove('cambiando');
+      }, 600);
+    };
+
+    const arrancarMini = () => {
+      clearInterval(miniTimer);
+      siguienteMini(false);
+      miniTimer = setInterval(() => siguienteMini(true), MINI_MS);
+    };
+
+    // El diccionario puede llegar después de DOMContentLoaded: se arranca con el
+    // primer langChange y se reinicia en cada cambio de idioma, conservando la cita.
+    document.addEventListener('langChange', () => {
+      const qs = citasMini();
+      if (miniIdx < 0 || !qs) { arrancarMini(); return; }
+      // Ya había una cita: la misma, en el idioma nuevo, y el reloj de nuevo a cero.
+      clearInterval(miniTimer);
+      miniIdx = miniIdx % qs.length;
+      pintarMini(qs[miniIdx]);
+      miniTimer = setInterval(() => siguienteMini(true), MINI_MS);
+    });
+    if (citasMini()) arrancarMini();
+  }
+
+  // 8c. FILTRO Y BUSCADOR DE temas.html
+  // Cada tarjeta declara su grupo en el enlace (data-cat) y el filtro vive en
+  // la misma página, así un tema nuevo se agrega en un solo lugar. La búsqueda
+  // mira el título y el resumen ya traducidos, sin distinguir tildes.
+  const filtroCaja = document.getElementById('temas-filtro');
+  if (filtroCaja) {
+    const tarjetas = [...document.querySelectorAll('#temas .article-card')];
+    const buscador = document.getElementById('temas-buscar');
+    const vacio    = document.getElementById('temas-vacio');
+    let grupo = 'todos';
+
+    const plano = s => (s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+
+    const aplicarFiltro = () => {
+      const q = plano(buscador ? buscador.value.trim() : '');
+      let visibles = 0;
+      tarjetas.forEach(card => {
+        const link = card.querySelector('.article-link');
+        const cat  = link ? link.dataset.cat : '';
+        const texto = plano(card.querySelector('.article-title')?.textContent + ' ' +
+                            card.querySelector('.article-excerpt')?.textContent);
+        const ok = (grupo === 'todos' || cat === grupo) && (!q || texto.includes(q));
+        card.hidden = !ok;
+        if (ok) {
+          visibles++;
+          card.classList.add('visible'); // por si el reveal todavía no la mostró
+        }
+      });
+      if (vacio) vacio.hidden = visibles > 0;
+    };
+
+    filtroCaja.addEventListener('click', e => {
+      const chip = e.target.closest('[data-grupo]');
+      if (!chip) return;
+      grupo = chip.dataset.grupo;
+      filtroCaja.querySelectorAll('[data-grupo]').forEach(b =>
+        b.setAttribute('aria-pressed', String(b === chip)));
+      aplicarFiltro();
+    });
+    if (buscador) buscador.addEventListener('input', aplicarFiltro);
+    // Al cambiar de idioma cambian los títulos: se vuelve a filtrar sobre el texto nuevo.
+    document.addEventListener('langChange', () => setTimeout(aplicarFiltro, 30));
   }
 
   // 9. FORMULARIO DE CONTACTO (AJAX via Formspree)

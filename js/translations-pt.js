@@ -17,6 +17,8 @@ const translationsPT = {
     btn2: "Nossa missão"
   },
   topics: {
+    pageTitle: "Temas de Fé | Fé e Razão",
+    filter: { label: "Filtrar por grupo", all: "Todos", god: "Deus e a fé", church: "Igreja", sacraments: "Sacramentos", saints: "A Santíssima Virgem e os santos", salvation: "Salvação", search: "Procurar um tema", empty: "Nenhum tema corresponde à busca." },
     eyebrow: "Catequese Apologética",
     title: "Temas de Fé",
     subtitle: "Argumentos sólidos para aprofundar, compreender e defender a fé católica"
@@ -73,13 +75,13 @@ const translationsPT = {
     common: { prevLabel: "Artigo anterior", nextLabel: "Próximo artigo", backToTopics: "Voltar aos Temas" },
     "el-purgatorio": {
       pageTitle: "O purgatório | Fé e Razão",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>O purgatório e a misericórdia de Deus</h1><p>Uma explicação clara do purgatório como um processo de purificação e esperança rumo à união definitiva com Deus.</p><div class="article-meta"><span>6 min leitura</span><span>Publicado em maio de 2026</span></div><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>O purgatório e a misericórdia de Deus</h1><p>Uma explicação clara do purgatório como um processo de purificação e esperança rumo à união definitiva com Deus.</p><div class="article-meta"><span>6 min leitura</span><span>Publicado em maio de 2026</span></div><a href="temas.html" class="btn-outline-white">Voltar aos Temas</a>`,
       article: `<p>O purgatório é a etapa na qual as almas são purificadas antes de entrarem na plena presença de Deus. Não é um castigo final, mas um processo de amor curativo.</p><h2>O que significa purificação?</h2><p>A purificação remove as consequências do pecado venial e cura as feridas da liberdade. É a preparação necessária para a contemplação divina.</p><blockquote>"Deus é justo e também o mais misericordioso. A sua justiça purifica, a sua misericórdia acompanha."</blockquote><h2>Esperança cristã</h2><p>O purgatório não é uma condenação, mas uma obra de redenção. Cada alma é chamada à plenitude do amor de Deus, e a purificação faz parte desse caminho.</p><ul><li>A Igreja reza pelas almas do purgatório.</li><li>Os sacramentos e as boas obras ajudam na purificação.</li><li>É uma manifestação da misericórdia divina.</li></ul><h2>Viver a fé</h2><p>Compreender este mistério convida a viver com mais santidade, a pedir perdão e a oferecer orações pelos defuntos, confiando na obra salvífica de Cristo.</p>`,
       nav: { prevTitle: "Os santos e sua intercessão", nextTitle: "A nova lei em Cristo" }
     },
     "la-eucaristia": {
       pageTitle: "A Eucaristia | Fé e Razão",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>A Eucaristia: o sacramento central</h1><p>A Eucaristia é um símbolo ou o Corpo real de Cristo? João 6, Paulo e os primeiros cristãos dão a mesma resposta.</p><div class="article-meta"><span>13 min leitura</span><span>Publicado em maio de 2026</span></div><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>A Eucaristia: o sacramento central</h1><p>A Eucaristia é um símbolo ou o Corpo real de Cristo? João 6, Paulo e os primeiros cristãos dão a mesma resposta.</p><div class="article-meta"><span>13 min leitura</span><span>Publicado em maio de 2026</span></div><a href="temas.html" class="btn-outline-white">Voltar aos Temas</a>`,
       article: `<p>A Eucaristia é um símbolo ou é real? A resposta está em São João 6. Não há texto mais claro, mais direto e mais desafiador em todo o Evangelho sobre este assunto. E Jesus não recua. Mas João 6 não é a única testemunha: Paulo confirma de forma independente, e os primeiros discípulos dos apóstolos entenderam isso sem ambiguidade. Há três linhas de evidência. Nenhuma tem resposta na interpretação simbólica.</p><h2>Eu sou o pão da vida<br>João 6:47-51</h2><p>Jesus não diz «eu represento o pão da vida» nem «eu sou como o pão da vida». Ele diz:</p><div class="scripture-block">
                     <span class="scripture-ref">✝ João 6:47-51</span>
                     <blockquote>«Em verdade, em verdade vos digo, aquele que crê em mim tem a vida eterna. <strong class="s-hi">Eu sou o pão da vida.</strong> Vossos pais comeram o maná no deserto, e morreram. Este é o pão que desce do céu, para que o que dele comer não morra. Eu sou o pão vivo que desceu do céu; se alguém comer deste pão, viverá para sempre; e o pão que eu darei é a <strong class="s-hi">minha carne</strong>, para a vida do mundo.»</blockquote>
@@ -106,7 +108,7 @@ const translationsPT = {
     },
     "la-nueva-ley": {
       pageTitle: "A nova lei | Fé e Razão",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>A nova lei em Cristo</h1><p>Entenda como a lei de Cristo supera e completa a Antiga Lei, convidando-nos a viver no amor e na liberdade dos filhos de Deus.</p><div class="article-meta"><span>8 min leitura</span><span>Publicado em maio de 2026</span></div><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>A nova lei em Cristo</h1><p>Entenda como a lei de Cristo supera e completa a Antiga Lei, convidando-nos a viver no amor e na liberdade dos filhos de Deus.</p><div class="article-meta"><span>8 min leitura</span><span>Publicado em maio de 2026</span></div><a href="temas.html" class="btn-outline-white">Voltar aos Temas</a>`,
       article: `<p>A nova lei é a lei do Evangelho, centrada no mandamento do amor. Cristo não elimina a Antiga Lei, mas leva-a à sua plenitude e torna-a acessível ao coração humano.</p><h2>Amor como critério</h2><p>Jesus resume a Lei em amar a Deus e ao próximo. Esta nova norma não é um fardo, mas uma liberdade profunda que transforma as nossas ações desde o interior.</p><div class="scripture-block">
                     <span class="scripture-ref">✝ Mateus 22:37-38</span>
                     <blockquote>«<strong class="s-hi">Amarás o Senhor teu Deus de todo o teu coração e ao teu próximo como a ti mesmo</strong>»</blockquote>
@@ -115,7 +117,7 @@ const translationsPT = {
     },
     "la-primacia-de-pedro": {
       pageTitle: "A primazia de Pedro | Fé e Razão",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>A primazia de Pedro</h1><p>Cristo edificou a sua Igreja sobre Pedro, deu-lhe as chaves do Reino e encarregou-o de confirmar os seus irmãos. O que diz a Escritura, passagem por passagem.</p><div class="article-meta"><span>14 min leitura</span><span>Publicado em setembro de 2026</span></div><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>A primazia de Pedro</h1><p>Cristo edificou a sua Igreja sobre Pedro, deu-lhe as chaves do Reino e encarregou-o de confirmar os seus irmãos. O que diz a Escritura, passagem por passagem.</p><div class="article-meta"><span>14 min leitura</span><span>Publicado em setembro de 2026</span></div><a href="temas.html" class="btn-outline-white">Voltar aos Temas</a>`,
       article: `<p>Contra o papado a objeção tem duas formas. A primeira é repetida por protestantes de quase todas as denominações, adventistas e Testemunhas de Jeová: <em>«A rocha é Cristo, não Pedro. Pedro é só uma pedrinha; a rocha é a fé que ele confessou.»</em> A segunda é própria do mundo evangélico: <em>«A verdadeira Igreja é invisível: não tem hierarquia, nem bispos, nem papa. Isso foi Roma que inventou.»</em></p>
                 <p>As duas se respondem com a Escritura. Primeiro, sobre o que a Igreja está edificada e quem tem as chaves. Depois, se essa Igreja tem governo e se existia antes que alguém a organizasse. E por último, a quem Cristo encarregou de sustentar os demais.</p>
                 <h2>Cristo é a pedra angular, e há alicerces<br>Ef 2, 20-22</h2>
@@ -215,7 +217,7 @@ const translationsPT = {
     },
     "la-santisima-trinidad": {
       pageTitle: "A Santíssima Trindade | Fé e Razão",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>A Santíssima Trindade</h1><p>Um só Deus em três Pessoas. Contra a ideia de que Pai, Filho e Espírito Santo são três títulos de uma só pessoa, o que diz a Escritura, passagem por passagem.</p><div class="article-meta"><span>11 min leitura</span><span>Publicado em setembro de 2026</span></div><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>A Santíssima Trindade</h1><p>Um só Deus em três Pessoas. Contra a ideia de que Pai, Filho e Espírito Santo são três títulos de uma só pessoa, o que diz a Escritura, passagem por passagem.</p><div class="article-meta"><span>11 min leitura</span><span>Publicado em setembro de 2026</span></div><a href="temas.html" class="btn-outline-white">Voltar aos Temas</a>`,
       article: `<p>Há uma objeção contra a Trindade que se ouve dentro do mundo pentecostal, e não é a de todos os pentecostais: as Assembleias de Deus e a maioria das igrejas pentecostais confessam a Trindade. É a dos pentecostais unidos, que se chamam unicistas ou de «só Jesus»: <em>«Deus é um só, não três pessoas. Pai, Filho e Espírito Santo são títulos, maneiras pelas quais o mesmo Deus se manifestou. O Pai é Jesus, e o Espírito Santo é o Espírito de Jesus. Por isso se batiza somente em nome de Jesus.»</em></p>
                 <p>A Trindade é um mistério: um só Deus em três Pessoas. Ninguém a entende a fundo, e a Igreja nunca pediu que a entendessem para crer nela. O que pede é crer no que Deus diz de si mesmo, porque crer que há um só Deus não basta. Tiago o diz assim: <em><strong>«Crês que há um só Deus. Fazes bem. Também os demônios creem e tremem.»</strong></em> (Tg 2, 19). E o que Deus diz de si mesmo está escrito com tanta insistência que se entende lendo. Por isso este tema tem mais citações do que explicações.</p>
                 <h2>«Façamos»: o plural do princípio<br>Gênesis 1, 26</h2>
@@ -311,7 +313,7 @@ const translationsPT = {
     },
     "los-santos": {
       pageTitle: "Os santos | Fé e Razão",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>Os santos e sua intercessão</h1><p>A própria Escritura nomeia-os: Abel, Henoc, Noé, Abraão, Moisés, os profetas. Sete passagens, uma a uma, sobre por que os santos ouvem e intercedem.</p><div class="article-meta"><span>12 min leitura</span><span>Publicado em maio de 2026</span></div><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>Os santos e sua intercessão</h1><p>A própria Escritura nomeia-os: Abel, Henoc, Noé, Abraão, Moisés, os profetas. Sete passagens, uma a uma, sobre por que os santos ouvem e intercedem.</p><div class="article-meta"><span>12 min leitura</span><span>Publicado em maio de 2026</span></div><a href="temas.html" class="btn-outline-white">Voltar aos Temas</a>`,
       article: `<p>Testemunhas de Jeová e adventistas repetem a mesma objeção sem se cansar: <em>«Os mortos não podem ouvir-te»</em>, porque a alma —dizem— dorme até ao juízo final. À primeira vista soa razoável. Mas a Escritura diz outra coisa. Não numa citação isolada: em sete passagens distintas, de Paulo ao Apocalipse. Uma a uma.</p>
 
             <h2>O conhecimento aperfeiçoa-se depois da morte<br>1 Coríntios 13:9-13</h2>
@@ -394,7 +396,7 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
     },
     "por-que-creemos": {
       pageTitle: "Por que cremos | Fé e Razão",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>Por que cremos na fé católica</h1><p>Por que cremos? Não por costume. Porque o testemunharam, nós o investigamos, e a própria Bíblia aponta para a Igreja que Jesus fundou.</p><div class="article-meta"><span>15 min leitura</span><span>Publicado em maio de 2026</span></div><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>Por que cremos na fé católica</h1><p>Por que cremos? Não por costume. Porque o testemunharam, nós o investigamos, e a própria Bíblia aponta para a Igreja que Jesus fundou.</p><div class="article-meta"><span>15 min leitura</span><span>Publicado em maio de 2026</span></div><a href="temas.html" class="btn-outline-white">Voltar aos Temas</a>`,
       article: `<p>Por que cremos? Não por tradição cega nem por costume familiar. Cremos porque a Palavra de Deus foi testemunhada, transmitida fielmente e continua a ser verdade. São Lucas di-lo desde o início: investigou tudo cuidadosamente desde a origem para que conheçamos a verdade (Lc 1:1-4). É isso que faremos aqui.</p><h2>A Palavra foi testemunhada<br>Lucas 1:1-4 e João 11:25-27</h2><p>Lucas diz-nos que muitos empreenderam a narração dos factos que se cumpriram entre nós, <em>«segundo nos transmitiram os que desde o princípio foram testemunhas oculares e ministros da Palavra»</em> (Lc 1:2). Não são lendas: são testemunhos. O que Jesus disse, viveu e ensinou foi visto e transmitido por testemunhas reais.</p><p>Marta, perante o túmulo do seu irmão, reconhece-o sem hesitar: <em>«Sim, Senhor, creio que tu és o Cristo, o Filho de Deus, que havia de vir ao mundo»</em> (Jo 11:27). A fé não é irracional: é a resposta a uma revelação verificada por aqueles que a viveram.</p><div class="scripture-block">
                     <span class="scripture-ref">✝ Lucas 1:4</span>
                     <blockquote>«Para que conheças a solidez dos ensinamentos que recebeste.»</blockquote>
@@ -430,7 +432,7 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
     },
     "sacerdocio": {
       pageTitle: "O Sacerdócio | Fé e Razão",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>O Sacerdócio na Igreja Católica</h1><p>Existe um sacerdócio ordenado no Novo Testamento? A Bíblia responde — e a resposta não deixa margem para dúvidas.</p><div class="article-meta"><span>11 min leitura</span><span>Publicado em maio de 2026</span></div><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>O Sacerdócio na Igreja Católica</h1><p>Existe um sacerdócio ordenado no Novo Testamento? A Bíblia responde — e a resposta não deixa margem para dúvidas.</p><div class="article-meta"><span>11 min leitura</span><span>Publicado em maio de 2026</span></div><a href="temas.html" class="btn-outline-white">Voltar aos Temas</a>`,
       article: `<p>Há uma pergunta que não pode ficar sem resposta: Jesus disse <em>«Aqueles a quem perdoardes os pecados lhes são perdoados; e àqueles a quem os retiverdes lhes são retidos»</em> (Jo 20:23). A quem ele falou? E como se retém os pecados de alguém sem saber quais são? Isso exige confissão. Isso exige um sacerdote com autoridade para perdoar. Vamos por partes.</p><h2>Um homem tomado dentre os homens<br>Hb 5:1-2</h2><p>A carta aos Hebreus é clara desde o princípio:</p><div class="scripture-block">
                     <span class="scripture-ref">✝ Hebreus 5:1-2</span>
                     <blockquote>«<strong class="s-hi">Porque todo o sumo sacerdote, tomado dentre os homens</strong>, é constituído a favor dos homens nas coisas concernentes a Deus, para que ofereça dons e sacrifícios pelos pecados; E possa compadecer-se ternamente dos ignorantes e errados, pois também ele mesmo está rodeado de fraqueza.»</blockquote>
@@ -470,7 +472,7 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
                 <span>14 min leitura</span>
                 <span>Publicado em agosto de 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+            <a href="temas.html" class="btn-outline-white">Voltar aos Temas</a>`,
       article: `<p>Diante da Eucaristia a objeção muda de forma, mas não de fundo. Testemunhas de Jeová, adventistas, pentecostais, mórmons e protestantes em geral repetem uma destas duas: <em>«O pão continua sendo pão: parece pão e tem gosto de pão.»</em> e <em>«Transubstanciação é uma palavra inventada, filosofia grega; não está na Bíblia.»</em></p>
                 <p>À segunda responde-se em uma linha: também não estão as palavras «Trindade» nem «Bíblia», e ninguém discute o que elas nomeiam. Uma palavra não cria o fato: nomeia-o. A primeira é a que importa, e não se responde com filosofia, e sim com a Escritura, porque a Escritura já contou o que acontece quando Cristo diz que uma coisa é outra. Cinco passagens, em ordem.</p>
                 <h2>A Palavra não descreve: faz<br>Jo 1, 1-3</h2>
@@ -563,7 +565,7 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
         p4: "Os canais, livros, imagens e sites recomendados nesta página pertencem aos seus respectivos autores e titulares. São indicados apenas a título de recomendação, sem vínculo comercial nem contrapartida de qualquer espécie."
       },
       pageTitle: "Recursos recomendados | Fé e Razão",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Recursos</span></div><h1>Recursos recomendados</h1><p>Fontes de confiança para aprofundar, formar-se e partilhar a fé católica.</p><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Recursos</span></div><h1>Recursos recomendados</h1><p>Fontes de confiança para aprofundar, formar-se e partilhar a fé católica.</p><a href="temas.html" class="btn-outline-white">Voltar aos Temas</a>`,
       labels: {
         bible: "Sagrada Escritura →",
         catechism: "Catecismo →",
@@ -579,7 +581,8 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
       sec2: {
         eyebrow: "Apologética · Formação", title: "Sacerdotes e formadores", desc: "Vozes fiéis ao Magistério que ensinam, defendem e proclamam a fé com profundidade e rigor.",
         toro:    { desc: "Teólogo e apologista. Responde com profundidade às objeções mais difíceis à fé católica." },
-        olivera: { desc: "Historiador e apologista agostiniano. Aborda o racionalismo, as seitas e os erros modernos com rigor." }
+        olivera: { desc: "Historiador e apologista agostiniano. Aborda o racionalismo, as seitas e os erros modernos com rigor." },
+        montfort: { tag: "França · c. 1712", title: "Tratado da Verdadeira Devoção à Santíssima Virgem", author: "São Luís Maria Grignion de Montfort", desc: "A obra clássica sobre a consagração a Jesus por Maria. Edição completa em PDF, em inglês.", ed1: "PDF em inglês →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
         eyebrow: "Apostolados · Mídia", title: "Apostolados e mídia católica",
@@ -594,7 +597,7 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
     "privacidad": {
       pageTitle: "Privacidade | Fé e Razão",
       linkLabel: "Privacidade",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Aviso legal</span></div><h1>Privacidade</h1><p>Que dados este site recolhe, para que servem e por onde passam.</p><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Aviso legal</span></div><h1>Privacidade</h1><p>Que dados este site recolhe, para que servem e por onde passam.</p><a href="temas.html" class="btn-outline-white">Voltar aos Temas</a>`,
       article: `<p>Este site não usa cookies, não tem analítica, não exibe publicidade e não inclui botões nem rastreadores de redes sociais. As fontes, as imagens e os vídeos são servidos deste mesmo domínio: ao abrir uma página, o seu navegador não pede nada a nenhum terceiro.</p>
                 <h2>Que dados são recolhidos</h2>
                 <p>Apenas os que você escreve no formulário de contato: <strong>nome, e-mail, assunto e mensagem</strong>. Nenhum outro dado é recolhido, e não há mais nenhum formulário no site.</p>
@@ -619,7 +622,7 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
             </div>
             <h1>Sobre este site</h1>
             <p>Uma jornada pelas filosofias que não resistiram — até a Igreja que resistiu.</p>
-            <a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+            <a href="temas.html" class="btn-outline-white">Voltar aos Temas</a>`,
       article: `<p>Cheguei ao catolicismo depois de um longo caminho. Li de tudo: ocultismo e esoterismo, as chamadas Tábuas de Esmeralda, as filosofias orientais, Nietzsche, os epicuristas. Procurei respostas em todo lugar e não encontrava nenhuma que sustentasse. O estoicismo foi a última coisa que me ofereceu algo sério antes de Cristo — Sêneca, Marco Aurélio, Epicteto me ensinaram a encarar a verdade sem pestanejar. E encarando a verdade sem pestanejar, terminei onde não esperava: diante da Igreja Católica.</p>
 
             <p>Este site é para você se está em um destes lugares: você duvida da fé que recebeu e não sabe a quem perguntar; está buscando entre tradições e ninguém te dá uma resposta que suporte o peso; acabou de se converter e se sente sozinho, sem guia, assediado por todos os lados. Conheço esse lugar. Estive lá. E sei o que há ao redor: católicos tradicionais que às vezes dão por certo o que deveriam demonstrar e não sabem explicá-lo; e pior ainda, católicos mornos — os que vão à missa por hábito, não sabem o que creem, não defendem nada, e são os primeiros a encolher os ombros quando alguém ataca a fé diante deles.</p>
@@ -637,7 +640,7 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
 
             <p>Não escrevo para ganhar discussões. Escrevo para que quem está duvidando sozinho na noite tenha algo sério à mão quando chegar sua vez de defender sua fé — ou quando chegar sua vez de encontrá-la pela primeira vez.</p>
 
-            <p class="about-signature">— M.G.</p>`
+            <p class="about-signature">M. Gabriel Castiglia</p>`
     }
   },
   disclaimerHTML: "Este artigo foi traduzido automaticamente do espanhol. Este site é um projeto pessoal mantido com esforço e dedicação. Se você encontrar algum erro na tradução, agradecemos que o reporte pelo formulário de contato.",

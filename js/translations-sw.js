@@ -17,6 +17,8 @@ const translationsSW = {
     btn2: "Misheni yetu"
   },
   topics: {
+    pageTitle: "Mada za Imani | Imani na Akili",
+    filter: { label: "Chuja kwa kundi", all: "Zote", god: "Mungu na imani", church: "Kanisa", sacraments: "Sakramenti", saints: "Bikira Maria Mtakatifu na watakatifu", salvation: "Wokovu", search: "Tafuta mada", empty: "Hakuna mada inayolingana na utafutaji." },
     eyebrow: "Katekesi ya Kiapolojetiki",
     title: "Mada za Imani",
     subtitle: "Hoja thabiti za kuongeza kina, kuelewa na kutetea imani ya Kikatoliki"
@@ -73,13 +75,13 @@ const translationsSW = {
     common: { prevLabel: "Makala iliyopita", nextLabel: "Makala inayofuata", backToTopics: "Rudi kwenye Mada" },
     "el-purgatorio": {
       pageTitle: "Toharani | Imani na Akili",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Toharani na Huruma ya Mungu</h1><p>Ufafanuzi wazi wa toharani kama mchakato wa utakaso na matumaini kuelekea muungano wa mwisho na Mungu.</p><div class="article-meta"><span>Dakika 6 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Toharani na Huruma ya Mungu</h1><p>Ufafanuzi wazi wa toharani kama mchakato wa utakaso na matumaini kuelekea muungano wa mwisho na Mungu.</p><div class="article-meta"><span>Dakika 6 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
       article: `<p>Toharani ni hatua ambayo roho hutakaswa kabla ya kuingia katika uwepo kamili wa Mungu. Sio adhabu ya mwisho, bali ni mchakato wa upendo unaoponya.</p><h2>Utakaso unamaanisha nini?</h2><p>Utakaso huondoa matokeo ya dhambi nyepesi na kuponya majeraha ya uhuru. Ni maandalizi muhimu kwa tafakari ya kimungu.</p><blockquote>"Mungu ni mwenye haki na pia mwenye huruma zaidi. Haki yake hutakasa, huruma yake huambatana."</blockquote><h2>Matumaini ya Kikristo</h2><p>Toharani sio laana, bali ni kazi ya ukombozi. Kila roho inaitwa kwenye ukamilifu wa upendo wa Mungu, na utakaso ni sehemu ya njia hiyo.</p><ul><li>Kanisa linasali kwa ajili ya roho za toharani.</li><li>Sakramenti na matendo mema husaidia katika utakaso.</li><li>Ni dhihirisho la huruma ya kimungu.</li></ul><h2>Kuishi imani</h2><p>Kuelewa fumbo hili kunatualika kuishi kwa utakatifu zaidi, kuomba msamaha na kutoa sala kwa ajili ya marehemu, tukitumainia kazi ya ukombozi ya Kristo.</p>`,
       nav: { prevTitle: "Watakatifu na maombezi yao", nextTitle: "Sheria Mpya katika Kristo" }
     },
     "la-eucaristia": {
       pageTitle: "Ekaristi | Imani na Akili",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Ekaristi: sakramenti kuu</h1><p>Je, Ekaristi ni mfano tu au ni Mwili halisi wa Kristo? Yohane 6, Paulo, na Wakristo wa kwanza wanatoa jibu lile lile.</p><div class="article-meta"><span>Dakika 13 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Ekaristi: sakramenti kuu</h1><p>Je, Ekaristi ni mfano tu au ni Mwili halisi wa Kristo? Yohane 6, Paulo, na Wakristo wa kwanza wanatoa jibu lile lile.</p><div class="article-meta"><span>Dakika 13 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
       article: `<p>Je, Ekaristi ni mfano tu au ni halisi? Jibu liko katika Yohane 6. Hakuna andiko lililo wazi zaidi, la moja kwa moja na lenye changamoto katika Injili yote kuhusu mada hii. Na Yesu harudi nyuma. Lakini Yohane 6 sio shahidi pekee: Paulo anathibitisha kwa kujitegemea, na wanafunzi wa kwanza wa mitume walielewa bila utata. Kuna mistari mitatu ya ushahidi. Hakuna inayoweza kujibiwa katika tafsiri ya mfano.</p><h2>Mimi ndimi chakula cha uzima<br>Yohane 6:47-51</h2><p>Yesu hasemi «nawawakilisha chakula cha uzima» wala «mimi ni kama chakula cha uzima». Anasema:</p><div class="scripture-block">
                     <span class="scripture-ref">✝ Yohane 6:47-51</span>
                     <blockquote>«Amin, amin, nawaambia, yeye aaminiye anao uzima wa milele. <strong class="s-hi">Mimi ndimi chakula cha uzima.</strong> Baba zenu walikula mana jangwani, wakafa. Hiki ni chakula kishukacho kutoka mbinguni, kwamba mtu akile asife. Mimi ndimi chakula kishukacho kutoka mbinguni; mtu akila chakula hiki, ataishi milele. Na chakula nitakachotoa mimi ni <strong class="s-hi">mwili wangu</strong>, kwa ajili ya uzima wa ulimwengu.»</blockquote>
@@ -106,7 +108,7 @@ const translationsSW = {
     },
     "la-nueva-ley": {
       pageTitle: "Sheria Mpya | Imani na Akili",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Sheria Mpya katika Kristo</h1><p>Elewa jinsi sheria ya Kristo inavyozidi na kukamilisha Sheria ya Kale, ikitualika kuishi katika upendo na uhuru wa watoto wa Mungu.</p><div class="article-meta"><span>Dakika 8 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Sheria Mpya katika Kristo</h1><p>Elewa jinsi sheria ya Kristo inavyozidi na kukamilisha Sheria ya Kale, ikitualika kuishi katika upendo na uhuru wa watoto wa Mungu.</p><div class="article-meta"><span>Dakika 8 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
       article: `<p>Sheria mpya ni sheria ya Injili, inayojikita katika amri ya upendo. Kristo haondoi Sheria ya Kale, bali anaifikisha kwenye ukamilifu wake na kuifanya ipatikane kwa moyo wa mwanadamu.</p><h2>Upendo kama kigezo</h2><p>Yesu anafupisha Sheria katika kumpenda Mungu na jirani. Kanuni hii mpya si mzigo, bali ni uhuru wa kina unaobadilisha matendo yetu kutoka ndani.</p><div class="scripture-block">
                     <span class="scripture-ref">✝ Mathayo 22:37-38</span>
                     <blockquote>«<strong class="s-hi">Mpende Bwana Mungu wako kwa moyo wako wote, na jirani yako kama nafsi yako</strong>»</blockquote>
@@ -115,7 +117,7 @@ const translationsSW = {
     },
     "la-primacia-de-pedro": {
       pageTitle: "Ukuu wa Petro | Imani na Akili",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Ukuu wa Petro</h1><p>Kristo alilijenga Kanisa lake juu ya Petro, akampa funguo za Ufalme na kumkabidhi kazi ya kuwaimarisha ndugu zake. Yanayosemwa na Maandiko, kifungu kwa kifungu.</p><div class="article-meta"><span>Dakika 14 kusoma</span><span>Imechapishwa Septemba 2026</span></div><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Ukuu wa Petro</h1><p>Kristo alilijenga Kanisa lake juu ya Petro, akampa funguo za Ufalme na kumkabidhi kazi ya kuwaimarisha ndugu zake. Yanayosemwa na Maandiko, kifungu kwa kifungu.</p><div class="article-meta"><span>Dakika 14 kusoma</span><span>Imechapishwa Septemba 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
       article: `<p>Dhidi ya upapa pingamizi lina sura mbili. La kwanza linarudiwa na Waprotestanti wa karibu madhehebu yote, Waadventista na Mashahidi wa Yehova: <em>«Mwamba ni Kristo, si Petro. Petro ni kijiwe tu; mwamba ni imani aliyoikiri.»</em> La pili ni la ulimwengu wa Wainjilisti: <em>«Kanisa la kweli halionekani: halina daraja za uongozi, wala maaskofu, wala papa. Hayo yote yamebuniwa na Roma.»</em></p>
                 <p>Zote mbili zinajibiwa kwa Maandiko. Kwanza, Kanisa limejengwa juu ya nini na nani anashika funguo. Kisha, kama Kanisa hilo lina uongozi na kama lilikuwepo kabla mtu yeyote hajalipanga. Na mwisho, Kristo alimkabidhi nani kazi ya kuwategemeza wengine.</p>
                 <h2>Kristo ni jiwe kuu la pembeni, na kuna msingi<br>Waefeso 2:20-22</h2>
@@ -215,7 +217,7 @@ const translationsSW = {
     },
     "la-santisima-trinidad": {
       pageTitle: "Utatu Mtakatifu | Imani na Akili",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Utatu Mtakatifu</h1><p>Mungu mmoja katika Nafsi tatu. Dhidi ya wazo kwamba Baba, Mwana na Roho Mtakatifu ni vyeo vitatu vya nafsi moja, yale yanayosemwa na Maandiko, kifungu kwa kifungu.</p><div class="article-meta"><span>Dakika 11 kusoma</span><span>Imechapishwa Septemba 2026</span></div><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Utatu Mtakatifu</h1><p>Mungu mmoja katika Nafsi tatu. Dhidi ya wazo kwamba Baba, Mwana na Roho Mtakatifu ni vyeo vitatu vya nafsi moja, yale yanayosemwa na Maandiko, kifungu kwa kifungu.</p><div class="article-meta"><span>Dakika 11 kusoma</span><span>Imechapishwa Septemba 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
       article: `<p>Kuna pingamizi dhidi ya Utatu Mtakatifu linalosikika ndani ya ulimwengu wa Kipentekoste, na si pingamizi la Wapentekoste wote: Assemblies of God na makanisa mengi ya Kipentekoste yanaukiri Utatu. Ni la Wapentekoste wa Muungano (United Pentecostal), wanaojiita wa «Umoja» au wa «Yesu peke yake»: <em>«Mungu ni mmoja tu, si nafsi tatu. Baba, Mwana na Roho Mtakatifu ni vyeo, njia ambazo Mungu yule yule amejidhihirisha. Baba ni Yesu, na Roho Mtakatifu ni Roho wa Yesu. Ndiyo sababu tunabatiza kwa jina la Yesu peke yake.»</em></p>
                 <p>Utatu ni fumbo: Mungu mmoja katika Nafsi tatu. Hakuna anayeuelewa kikamilifu, na Kanisa halijawahi kudai kwamba uelewe kwanza ndipo uamini. Linachodai ni kumwamini Mungu kwa yale anayosema juu yake mwenyewe, kwa sababu kuamini kwamba kuna Mungu mmoja hakutoshi. Yakobo anasema hivi: <em><strong>«Wewe unaamini kwamba Mungu ni mmoja; wafanya vema. Hata mashetani nao wanaamini, na kutetemeka.»</strong></em> (Yak 2:19). Na yale ambayo Mungu anasema juu yake mwenyewe yameandikwa kwa msisitizo mkubwa kiasi kwamba yanaeleweka kwa kuyasoma. Ndiyo sababu mada hii ina manukuu mengi kuliko maelezo.</p>
                 <h2>«Na tumfanye»: wingi wa mwanzo<br>Mwanzo 1:26</h2>
@@ -311,7 +313,7 @@ const translationsSW = {
     },
     "los-santos": {
       pageTitle: "Watakatifu | Imani na Akili",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Watakatifu na maombezi yao</h1><p>Maandiko yenyewe yanawataja: Abeli, Henoko, Noa, Abrahamu, Musa, manabii. Vifungu saba, kimoja baada ya kingine, kuhusu kwa nini watakatifu husikia na kuombea.</p><div class="article-meta"><span>Dakika 7 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Watakatifu na maombezi yao</h1><p>Maandiko yenyewe yanawataja: Abeli, Henoko, Noa, Abrahamu, Musa, manabii. Vifungu saba, kimoja baada ya kingine, kuhusu kwa nini watakatifu husikia na kuombea.</p><div class="article-meta"><span>Dakika 7 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
       article: `<p>Mashahidi wa Yehova na Waadventista hurudia pingamizi lile lile bila kuchoka: <em>«Wafu hawawezi kukusikia»</em>, kwa sababu roho —wanasema— hulala hadi hukumu ya mwisho. Kwa mtazamo wa kwanza inaonekana yenye mantiki. Lakini Maandiko yanasema jambo jingine. Si katika nukuu moja iliyotengwa: katika vifungu saba tofauti, kutoka Paulo hadi Ufunuo. Kimoja baada ya kingine.</p>
 
             <h2>Ujuzi hukamilika baada ya kifo<br>1 Wakorintho 13:9-13</h2>
@@ -386,7 +388,7 @@ const translationsSW = {
     },
     "por-que-creemos": {
       pageTitle: "Kwa nini Tunaamini | Imani na Akili",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Kwa nini tunaamini katika imani ya Kikatoliki</h1><p>Kwa nini tunaamini? Si kwa mazoea. Kwa sababu walishuhudia, tumechunguza, na Biblia yenyewe inaelekeza kwenye Kanisa ambalo Yesu alilianzisha.</p><div class="article-meta"><span>Dakika 15 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Kwa nini tunaamini katika imani ya Kikatoliki</h1><p>Kwa nini tunaamini? Si kwa mazoea. Kwa sababu walishuhudia, tumechunguza, na Biblia yenyewe inaelekeza kwenye Kanisa ambalo Yesu alilianzisha.</p><div class="article-meta"><span>Dakika 15 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
       article: `<p>Kwa nini tunaamini? Si kwa mapokeo ya upofu wala kwa desturi za familia. Tunaamini kwa sababu Neno la Mungu lilishuhudiwa, likapitishwa kwa uaminifu na linaendelea kuwa kweli. Mtakatifu Luka anasema hivyo tangu mwanzo: alichunguza kila kitu kwa usahihi tangu mwanzo ili tupate kujua uhakika wa mafundisho tuliyopokea (Luka 1:1-4). Hicho ndicho tutakachofanya hapa.</p><h2>Neno lilishuhudiwa<br>Luka 1:1-4 na Yohane 11:25-27</h2><p>Luka anatuambia kwamba wengi wamejitahidi kupanga habari za mambo yale yaliyotimizwa katikati yetu, <em>«kama walivyotuhadithia wale waliokuwa mashahidi wenye kuyaona, na watumishi wa lile neno tokea mwanzo»</em> (Luka 1:2). Hizi si hekaya: ni shuhuda. Kile ambacho Yesu alisema, aliishi na kufundisha kilionekana na kupitishwa na mashahidi halisi.</p><p>Martha, mbele ya kaburi la kaka yake, anamtambua bila kusita: <em>«Ndiyo, Bwana; mimi nimesadiki ya kwamba wewe ndiwe Kristo, Mwana wa Mungu, yule ajaye ulimwenguni»</em> (Yohane 11:27). Imani si kinyume na akili: ni jibu kwa ufunuo uliothibitishwa na wale walioishi.</p><div class="scripture-block">
                     <span class="scripture-ref">✝ Luka 1:4</span>
                     <blockquote>«Upate kujua hakika ya mambo yale uliyofundishwa.»</blockquote>
@@ -422,7 +424,7 @@ const translationsSW = {
     },
     "sacerdocio": {
       pageTitle: "Ukuhani | Imani na Akili",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Ukuhani katika Kanisa Katoliki</h1><p>Je, kuna ukuhani ulioamriwa (uliowekwa wakfu) katika Agano Jipya? Biblia inajibu — na jibu haliachi nafasi ya shaka.</p><div class="article-meta"><span>Dakika 11 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Ukuhani katika Kanisa Katoliki</h1><p>Je, kuna ukuhani ulioamriwa (uliowekwa wakfu) katika Agano Jipya? Biblia inajibu — na jibu haliachi nafasi ya shaka.</p><div class="article-meta"><span>Dakika 11 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
       article: `<p>Kuna swali ambalo haliwezi kubaki bila jibu: Yesu alisema <em>«Wowote mtakaowaondolea dhambi, wameondolewa; na wowote mtakaowafungia dhambi, wamefungiwa»</em> (Yohane 20:23). Alizungumza na nani? Na unawezaje kufungia dhambi za mtu bila kujua ni zipi? Hili linahitaji maungamo. Hili linahitaji kuhani mwenye mamlaka ya kusamehe. Twende hatua kwa hatua.</p><h2>Mtu aliyetwaliwa miongoni mwa wanadamu<br>Waebrania 5:1-2</h2><p>Barua kwa Waebrania iko wazi tangu mwanzo:</p><div class="scripture-block">
                     <span class="scripture-ref">✝ Waebrania 5:1-2</span>
                     <blockquote>«<strong class="s-hi">Kwa maana kila kuhani mkuu aliyetwaliwa miongoni mwa wanadamu</strong> amewekwa kwa ajili ya wanadamu katika mambo yamhusuyo Mungu, ili atoe matoleo na dhabihu kwa ajili ya dhambi; awezaye kuwachukulia kwa upole wao wasiojua na heri kupotea, kwa kuwa yeye mwenyewe naye amezingirwa na udhaifu.»</blockquote>
@@ -462,7 +464,7 @@ const translationsSW = {
                 <span>Dakika 14 kusoma</span>
                 <span>Imechapishwa Agosti 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
+            <a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
       article: `<p>Mbele ya Ekaristi pingamizi hubadilisha sura lakini si kiini chake. Mashahidi wa Yehova, Waadventista, Wapentekoste, Wamormoni na Waprotestanti kwa ujumla hurudia mojawapo ya haya mawili: <em>"Mkate bado ni mkate: unaonekana kama mkate na una ladha ya mkate."</em> na <em>"Transubstansiasyoni ni neno lililobuniwa, falsafa ya Kigiriki; halimo katika Biblia."</em></p>
                 <p>La pili hujibiwa kwa mstari mmoja: maneno "Utatu" na "Biblia" nayo hayamo, wala hakuna anayebisha yale wanayoyataja. Neno haliumbi jambo: hulipa jina. La kwanza ndilo lenye maana, nalo halijibiwi kwa falsafa bali kwa Maandiko, kwa sababu Maandiko yamekwisha kusimulia kinachotokea Kristo anaposema kwamba kitu kimoja ni kingine. Vifungu vitano, kwa mpangilio.</p>
                 <h2>Neno halielezi: hufanya<br>Yohane 1:1-3</h2>
@@ -555,7 +557,7 @@ const translationsSW = {
         p4: "Chaneli, vitabu, picha na tovuti zinazopendekezwa katika ukurasa huu ni mali ya waandishi na wamiliki wao. Vimeunganishwa kwa nia ya mapendekezo tu, bila uhusiano wa kibiashara wala malipo ya aina yoyote."
       },
       pageTitle: "Rasilimali Zinazopendekezwa | Imani na Akili",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Rasilimali</span></div><h1>Rasilimali Zinazopendekezwa</h1><p>Vyanzo vinavyoaminika ili kuongeza kina, kujifunza na kushiriki imani ya Kikatoliki.</p><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Rasilimali</span></div><h1>Rasilimali Zinazopendekezwa</h1><p>Vyanzo vinavyoaminika ili kuongeza kina, kujifunza na kushiriki imani ya Kikatoliki.</p><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
       labels: {
         bible: "Maandiko Matakatifu →",
         catechism: "Katekisimu →",
@@ -571,7 +573,8 @@ const translationsSW = {
       sec2: {
         eyebrow: "Apolojetiki · Malezi", title: "Mapadre na waalimu", desc: "Sauti tiifu kwa Magisterio zinazofundisha, kutetea, na kutangaza imani kwa kina na usahihi.",
         toro:    { desc: "Mwanatheolojia na mwanapolojetiki. Anajibu kwa kina pingamizi ngumu zaidi kwa imani ya Kikatoliki." },
-        olivera: { desc: "Mwanahistoria na mwanapolojetiki wa Shirika la Mt. Augustino. Anashughulikia urazini, madhehebu, na makosa ya kisasa kwa usahihi." }
+        olivera: { desc: "Mwanahistoria na mwanapolojetiki wa Shirika la Mt. Augustino. Anashughulikia urazini, madhehebu, na makosa ya kisasa kwa usahihi." },
+        montfort: { tag: "Ufaransa · karibu 1712", title: "Mkataba juu ya Ibada ya Kweli kwa Bikira Maria Mtakatifu", author: "Mt. Louis-Marie Grignion de Montfort", desc: "Kazi maarufu juu ya kujiweka wakfu kwa Yesu kupitia Maria. Toleo kamili katika PDF, kwa Kiingereza.", ed1: "PDF kwa Kiingereza →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
         eyebrow: "Utume · Vyombo vya Habari", title: "Utume na Vyombo vya Habari vya Kikatoliki",
@@ -586,7 +589,7 @@ const translationsSW = {
     "privacidad": {
       pageTitle: "Faragha | Imani na Akili",
       linkLabel: "Faragha",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Ilani ya kisheria</span></div><h1>Faragha</h1><p>Data gani tovuti hii inakusanya, inatumika kwa nini, na inakwenda wapi.</p><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Ilani ya kisheria</span></div><h1>Faragha</h1><p>Data gani tovuti hii inakusanya, inatumika kwa nini, na inakwenda wapi.</p><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
       article: `<p>Tovuti hii haitumii vidakuzi, haina uchanganuzi, haionyeshi matangazo, na haina vitufe wala vifuatiliaji vya mitandao ya kijamii. Fonti, picha na video zinatolewa kutoka kwenye kikoa hiki hiki: unapofungua ukurasa, kivinjari chako hakiombi chochote kwa mtu wa tatu.</p>
                 <h2>Data gani inakusanywa</h2>
                 <p>Ni yale tu unayoandika mwenyewe kwenye fomu ya mawasiliano: <strong>jina, barua pepe, mada na ujumbe</strong>. Hakuna data nyingine inayokusanywa, na hakuna fomu nyingine yoyote kwenye tovuti.</p>
@@ -611,7 +614,7 @@ const translationsSW = {
             </div>
             <h1>Kuhusu tovuti hii</h1>
             <p>Safari kupitia falsafa ambazo hazikushikilia — hadi Kanisa ambalo lilishikilia.</p>
-            <a href="index.html#temas" class="btn-outline-white">Rudi kwa Mada</a>`,
+            <a href="temas.html" class="btn-outline-white">Rudi kwa Mada</a>`,
       article: `<p>Nilifika Ukatoliki baada ya safari ndefu. Nilisoma kila kitu: uchawi na <!-- TODO: verificar terminología "apologética" en Kiswahili -->esotericismo, zile zinazoitwa <!-- TODO: verificar terminología "Tablas Esmeralda" en Kiswahili -->Vibao vya Zumaridi, falsafa za Mashariki, Nietzsche, wafuasi wa Epicurus. Nilitafuta majibu kila mahali lakini sikupata hata moja iliyoshikilia. Stoicism ilikuwa kitu cha mwisho kilichonipa kitu cha kweli kabla ya Kristo — Seneka, Marcus Aurelius, Epictetus walinifundisha kutazama ukweli bila kupepesa macho. Na nikitazama ukweli bila kupepesa macho, niliishia mahali ambapo sikutarajia: mbele ya Kanisa Katoliki.</p>
 
             <p>Tovuti hii ni kwa ajili yako ikiwa uko katika moja ya maeneo haya: unashaka imani uliyoipokea na hujui kumwuliza nani; unatafuta kati ya mila na hakuna anayekupa jibu linaloweza kubeba uzito; umebadilika imani hivi karibuni na unahisi upweke, bila mwongozo, ukishambuliwa pande zote. Ninajua mahali pale. Nilikuwepo. Na najua kilichopo karibu napo: Wakatoliki wa jadi ambao wakati mwingine wanachukua kwa kawaida kile ambacho wangelazimika kuthibitisha na hawajui kukieleza; na mbaya zaidi, Wakatoliki wa <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Kiswahili -->vuguvugu — wale wanaokwenda Misa kwa mazoea, hawajui wanachokiamini, hawatetei kitu chochote, na wao ndio wa kwanza kukuna mabega wakati mtu anaishambulia imani mbele yao.</p>
@@ -630,7 +633,7 @@ const translationsSW = {
 
             <p>Siandiki ili kushinda hoja. Ninaandika ili yule anayeshaka peke yake usiku awe na kitu cha kweli mkononi wakati itakapomfika kufanikisha imani yake — au wakati itakapomfika kuipata kwa mara ya kwanza.</p>
 
-            <p class="about-signature">— M.G.</p>`
+            <p class="about-signature">M. Gabriel Castiglia</p>`
     }
   },
   disclaimerHTML: "<!-- TODO: revisar disclaimer en Kiswahili -->Makala hii ilitafsiriwa kiotomatiki kutoka kwa Kihispania. Tovuti hii ni mradi binafsi unaodumishwa kwa bidii na uaminifu. Ikiwa utapata makosa katika tafsiri, tunashukuru ukiyaripoti kupitia fomu ya mawasiliano.",

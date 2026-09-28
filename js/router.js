@@ -44,6 +44,11 @@ const OV_TRANSITION = 1200;
 // del artículo.
 const HOME_URL = location.pathname + location.search + location.hash;
 
+// Si la página ya trae el menú en hero-mode (temas.html), cerrar un artículo no
+// se lo quita. router.js se carga con defer, así que el header ya existe.
+const HEADER_HERO_INICIAL = !!(document.getElementById('header') &&
+  document.getElementById('header').classList.contains('hero-mode'));
+
 /**
  * URL compartible de un tema, con su etiqueta de idioma.
  * Apunta a `tema-<slug>.html?lang=xx`, que es una página real del sitio: quien
@@ -339,12 +344,19 @@ function hideArticle(skipHistory = false) {
   if (overlay)     overlay.setAttribute('hidden', '');
   if (mainContent) mainContent.style.display = '';
 
-  document.getElementById('header').classList.remove('hero-mode');
+  // Se devuelve el menú a como venía la página: la portada no trae hero-mode,
+  // temas.html sí, y quitárselo al cerrar un artículo le cambiaba los colores.
+  if (!HEADER_HERO_INICIAL) document.getElementById('header').classList.remove('hero-mode');
   // Al cerrar el artículo se vuelve al título de la portada, EN EL IDIOMA ACTIVO:
   // antes acá había una cadena en español fija, así que cerrar un artículo en
   // japonés dejaba la pestaña en castellano.
+  // En temas.html el título propio de la página sale de su <title data-i18n>;
+  // en una página sin esa clave se vuelve al título general del sitio.
   const tActual = translations[currentLang];
-  document.title = (tActual && tActual.siteTitle) || 'Fé y Razón | Apologética Católica';
+  const claveTitulo = document.querySelector('title[data-i18n]');
+  const tituloPagina = claveTitulo && tActual &&
+    claveTitulo.dataset.i18n.split('.').reduce((o, k) => (o ? o[k] : undefined), tActual);
+  document.title = tituloPagina || (tActual && tActual.siteTitle) || 'Fé y Razón | Apologética Católica';
   currentSlug = null;
   if (!skipHistory) history.pushState(null, '', HOME_URL);
 

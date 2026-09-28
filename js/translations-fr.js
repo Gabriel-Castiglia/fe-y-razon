@@ -17,6 +17,8 @@ const translationsFR = {
     btn2: "Notre mission"
   },
   topics: {
+    pageTitle: "Thèmes de Foi | Foi et Raison",
+    filter: { label: "Filtrer par groupe", all: "Tous", god: "Dieu et la foi", church: "Église", sacraments: "Sacrements", saints: "La Très Sainte Vierge et les saints", salvation: "Salut", search: "Chercher un thème", empty: "Aucun thème ne correspond à la recherche." },
     eyebrow: "Catéchèse Apologétique",
     title: "Thèmes de Foi",
     subtitle: "Des arguments solides pour approfondir, comprendre et défendre la foi catholique"
@@ -73,13 +75,13 @@ const translationsFR = {
     common: { prevLabel: "Article précédent", nextLabel: "Article suivant", backToTopics: "Retour aux Thèmes" },
     "el-purgatorio": {
       pageTitle: "Le purgatoire | Foi et Raison",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>Le purgatoire et la miséricorde de Dieu</h1><p>Une explication claire du purgatoire comme processus de purification et d'espérance vers l'union définitive avec Dieu.</p><div class="article-meta"><span>6 min de lecture</span><span>Publié en mai 2026</span></div><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>Le purgatoire et la miséricorde de Dieu</h1><p>Une explication claire du purgatoire comme processus de purification et d'espérance vers l'union définitive avec Dieu.</p><div class="article-meta"><span>6 min de lecture</span><span>Publié en mai 2026</span></div><a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
       article: `<p>Le purgatoire est l'étape où les âmes se purifient avant d'entrer dans la pleine présence de Dieu. Ce n'est pas une punition finale, mais un processus d'amour guérisseur.</p><h2>Que signifie la purification ?</h2><p>La purification enlève les conséquences du péché véniel et guérit les blessures de la liberté. C'est la préparation nécessaire à la contemplation divine.</p><blockquote>"Dieu est juste et aussi le plus miséricordieux. Sa justice purifie, sa miséricorde accompagne."</blockquote><h2>Espérance chrétienne</h2><p>Le purgatoire n'est pas une condamnation, mais une œuvre de rédemption. Chaque âme est appelée à la plénitude de l'amour de Dieu, et la purification fait partie de ce chemin.</p><ul><li>L'Église prie pour les âmes du purgatoire.</li><li>Les sacrements et les bonnes œuvres aident à la purification.</li><li>C'est une manifestation de la miséricorde divine.</li></ul><h2>Vivre la foi</h2><p>Comprendre ce mystère invite à vivre avec plus de sainteté, à demander pardon et à offrir des prières pour les défunts, en confiant dans l'œuvre salvatrice du Christ.</p>`,
       nav: { prevTitle: "Les saints et leur intercession", nextTitle: "La loi nouvelle dans le Christ" }
     },
     "la-eucaristia": {
       pageTitle: "L'Eucharistie | Foi et Raison",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>L'Eucharistie : le sacrement central</h1><p>L'Eucharistie est-elle un symbole ou le vrai Corps du Christ ? Jean 6, Paul et les premiers chrétiens donnent la même réponse.</p><div class="article-meta"><span>13 min de lecture</span><span>Publié en mai 2026</span></div><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>L'Eucharistie : le sacrement central</h1><p>L'Eucharistie est-elle un symbole ou le vrai Corps du Christ ? Jean 6, Paul et les premiers chrétiens donnent la même réponse.</p><div class="article-meta"><span>13 min de lecture</span><span>Publié en mai 2026</span></div><a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
       article: `<p>L'Eucharistie est-elle un symbole ou est-elle réelle ? La réponse se trouve dans Jean 6. Il n'y a pas de texte plus clair, plus direct ni plus exigeant dans tout l'Évangile sur ce sujet. Et Jésus ne cède pas. Mais Jean 6 n'est pas le seul témoin : Paul le confirme de manière indépendante, et les premiers disciples des apôtres l'ont compris sans ambiguïté. Il y a trois lignes de preuves. Aucune n'a de réponse dans l'interprétation symbolique.</p><h2>Je suis le pain de vie<br>Jean 6, 47-51</h2><p>Jésus ne dit pas « je représente le pain de vie » ni « je suis comme le pain de vie ». Il dit :</p><div class="scripture-block">
                     <span class="scripture-ref">✝ Jean 6, 47-51</span>
                     <blockquote>«En vérité, en vérité, je vous le dis, celui qui croit a la vie éternelle. <strong class="s-hi">Je suis le pain de vie.</strong> Vos pères ont mangé la manne dans le désert et ils sont morts. Voici le pain qui descend du ciel, afin que celui qui en mange ne meure point. Je suis le pain vivant qui est descendu du ciel. Si quelqu'un mange de ce pain, il vivra éternellement ; et le pain que je donnerai, c'est <strong class="s-hi">ma chair</strong>, pour le salut du monde.»</blockquote>
@@ -106,7 +108,7 @@ const translationsFR = {
     },
     "la-nueva-ley": {
       pageTitle: "La loi nouvelle | Foi et Raison",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>La loi nouvelle dans le Christ</h1><p>Comprenez comment la loi du Christ dépasse et complète l'Ancienne Loi, nous invitant à vivre dans l'amour et la liberté des enfants de Dieu.</p><div class="article-meta"><span>8 min de lecture</span><span>Publié en mai 2026</span></div><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>La loi nouvelle dans le Christ</h1><p>Comprenez comment la loi du Christ dépasse et complète l'Ancienne Loi, nous invitant à vivre dans l'amour et la liberté des enfants de Dieu.</p><div class="article-meta"><span>8 min de lecture</span><span>Publié en mai 2026</span></div><a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
       article: `<p>La loi nouvelle est la loi de l'Évangile, centrée sur le commandement de l'amour. Le Christ n'élimine pas l'Ancienne Loi, mais la porte à sa plénitude et la rend accessible au cœur humain.</p><h2>L'amour comme critère</h2><p>Jésus résume la Loi par l'amour de Dieu et du prochain. Cette nouvelle norme n'est pas un fardeau, mais une liberté profonde qui transforme nos actions de l'intérieur.</p><div class="scripture-block">
                     <span class="scripture-ref">✝ Matthieu 22, 37-38</span>
                     <blockquote>«<strong class="s-hi">Tu aimeras le Seigneur ton Dieu de tout ton cœur et ton prochain comme toi-même</strong>»</blockquote>
@@ -115,7 +117,7 @@ const translationsFR = {
     },
     "la-primacia-de-pedro": {
       pageTitle: "La primauté de Pierre | Foi et Raison",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>La primauté de Pierre</h1><p>Le Christ a bâti son Église sur Pierre, lui a donné les clés du Royaume et l'a chargé d'affermir ses frères. Ce que dit l'Écriture, passage par passage.</p><div class="article-meta"><span>14 min de lecture</span><span>Publié en septembre 2026</span></div><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>La primauté de Pierre</h1><p>Le Christ a bâti son Église sur Pierre, lui a donné les clés du Royaume et l'a chargé d'affermir ses frères. Ce que dit l'Écriture, passage par passage.</p><div class="article-meta"><span>14 min de lecture</span><span>Publié en septembre 2026</span></div><a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
       article: `<p>Contre la papauté, l'objection prend deux formes. La première est répétée par des protestants de presque toutes les dénominations, par les adventistes et par les Témoins de Jéhovah : <em>« Le roc, c'est le Christ, pas Pierre. Pierre n'est qu'un petit caillou ; le roc, c'est la foi qu'il a confessée. »</em> La seconde est propre au monde évangélique : <em>« La véritable Église est invisible : elle n'a ni hiérarchie, ni évêques, ni pape. Tout cela, Rome l'a inventé. »</em></p>
                 <p>Les deux se règlent avec l'Écriture. D'abord, sur quoi l'Église est bâtie et qui en a les clés. Ensuite, si cette Église a un gouvernement et si elle existait avant que quiconque ne l'organise. Enfin, à qui le Christ a confié de soutenir les autres.</p>
                 <h2>Le Christ est la pierre angulaire, et il y a des fondations<br>Éphésiens 2, 20-22</h2>
@@ -215,7 +217,7 @@ const translationsFR = {
     },
     "la-santisima-trinidad": {
       pageTitle: "La Sainte Trinité | Foi et Raison",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>La Sainte Trinité</h1><p>Un seul Dieu en trois Personnes. Contre l'idée que Père, Fils et Saint-Esprit seraient trois titres d'une seule personne, ce que dit l'Écriture, passage par passage.</p><div class="article-meta"><span>11 min de lecture</span><span>Publié en septembre 2026</span></div><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>La Sainte Trinité</h1><p>Un seul Dieu en trois Personnes. Contre l'idée que Père, Fils et Saint-Esprit seraient trois titres d'une seule personne, ce que dit l'Écriture, passage par passage.</p><div class="article-meta"><span>11 min de lecture</span><span>Publié en septembre 2026</span></div><a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
       article: `<p>Il existe une objection contre la Trinité qui se fait entendre dans le monde pentecôtiste, et ce n'est pas celle de tous les pentecôtistes : les Assemblées de Dieu et la plupart des Églises pentecôtistes confessent la Trinité. C'est celle des pentecôtistes unis, qui se disent unicitaires ou « Jésus seul » : <em>« Dieu est un seul, pas trois personnes. Père, Fils et Saint-Esprit sont des titres, des manières dont le même Dieu s'est manifesté. Le Père, c'est Jésus, et l'Esprit Saint est l'Esprit de Jésus. C'est pourquoi on baptise seulement au nom de Jésus. »</em></p>
                 <p>La Trinité est un mystère : un seul Dieu en trois Personnes. Personne ne la comprend à fond, et l'Église n'a jamais demandé de la comprendre pour y croire. Ce qu'elle demande, c'est de croire ce que Dieu dit de lui-même, parce que croire qu'il y a un seul Dieu ne suffit pas. Jacques le dit ainsi : <em><strong>« Toi, tu crois qu'il y a un seul Dieu. Bien ! Les démons, eux aussi, le croient, mais ils tremblent. »</strong></em> (Jc 2, 19). Et ce que Dieu dit de lui-même est écrit avec tant d'insistance qu'on le comprend en le lisant. C'est pourquoi ce thème contient plus de citations que d'explications.</p>
                 <h2>« Faisons » : le pluriel du commencement<br>Genèse 1, 26</h2>
@@ -311,7 +313,7 @@ const translationsFR = {
     },
     "los-santos": {
       pageTitle: "Les saints | Foi et Raison",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>Les saints et leur intercession</h1><p>L'Écriture elle-même les nomme : Abel, Hénoch, Noé, Abraham, Moïse, les prophètes. Sept passages, un par un, sur les raisons pour lesquelles les saints entendent et intercèdent.</p><div class="article-meta"><span>12 min de lecture</span><span>Publié en mai 2026</span></div><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>Les saints et leur intercession</h1><p>L'Écriture elle-même les nomme : Abel, Hénoch, Noé, Abraham, Moïse, les prophètes. Sept passages, un par un, sur les raisons pour lesquelles les saints entendent et intercèdent.</p><div class="article-meta"><span>12 min de lecture</span><span>Publié en mai 2026</span></div><a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
       article: `<p>Les Témoins de Jéhovah et les adventistes répètent la même objection sans se lasser : <em>« Les morts ne peuvent pas vous entendre »</em>, parce que l'âme —disent-ils— dort jusqu'au jugement dernier. Au premier abord, cela semble raisonnable. Mais l'Écriture dit autre chose. Pas dans une citation isolée : dans sept passages distincts, de Paul à l'Apocalypse. Un par un.</p>
 
             <h2>La connaissance s'achève après la mort<br>1 Corinthiens 13, 9-13</h2>
@@ -394,7 +396,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
     },
     "por-que-creemos": {
       pageTitle: "Pourquoi nous croyons | Foi et Raison",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>Pourquoi nous croyons en la foi catholique</h1><p>Pourquoi croyons-nous ? Pas par habitude. Parce qu'ils l'ont attesté, que nous avons enquêté, et que la Bible elle-même pointe vers l'Église que Jésus a fondée.</p><div class="article-meta"><span>15 min de lecture</span><span>Publié en mai 2026</span></div><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>Pourquoi nous croyons en la foi catholique</h1><p>Pourquoi croyons-nous ? Pas par habitude. Parce qu'ils l'ont attesté, que nous avons enquêté, et que la Bible elle-même pointe vers l'Église que Jésus a fondée.</p><div class="article-meta"><span>15 min de lecture</span><span>Publié en mai 2026</span></div><a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
       article: `<p>Pourquoi croyons-nous ? Pas par tradition aveugle ni par habitude familiale. Nous croyons parce que la Parole de Dieu a été attestée, transmise fidèlement et continue d'être vérité. Saint Luc le dit dès le début : il s'est informé de tout avec exactitude depuis l'origine pour que nous connaissions la certitude des enseignements que nous avons reçus (Lc 1, 1-4). C'est ce que nous ferons ici.</p><h2>La Parole a été attestée<br>Luc 1, 1-4 et Jean 11, 25-27</h2><p>Luc nous dit que beaucoup ont entrepris de composer un récit des événements qui se sont accomplis parmi nous, <em>« d'après ce que nous ont transmis ceux qui, dès le commencement, furent des témoins oculaires et des serviteurs de la Parole »</em> (Lc 1, 2). Ce ne sont pas des légendes : ce sont des témoignages. Ce que Jésus a dit, vécu et enseigné a été vu et transmis par des témoins réels.</p><p>Marthe, devant la tombe de son frère, le reconnaît sans hésiter : <em>« Oui, Seigneur, je crois que tu es le Christ, le Fils de Dieu, qui devait venir dans le monde »</em> (Jn 11, 27). La foi n'est pas irrationnelle : c'est la réponse à une révélation vérifiée par ceux qui l'ont vécue.</p><div class="scripture-block">
                     <span class="scripture-ref">✝ Luc 1, 4</span>
                     <blockquote>«Afin que tu reconnaisses la certitude des enseignements que tu as reçus.»</blockquote>
@@ -430,7 +432,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
     },
     "sacerdocio": {
       pageTitle: "Le Sacerdoce | Foi et Raison",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>Le Sacerdoce dans l'Église Catholique</h1><p>Existe-t-il un sacerdoce ordonné dans le Nouveau Testament ? La Bible répond — et la réponse ne laisse place à aucun doute.</p><div class="article-meta"><span>11 min de lecture</span><span>Publié en mai 2026</span></div><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>Le Sacerdoce dans l'Église Catholique</h1><p>Existe-t-il un sacerdoce ordonné dans le Nouveau Testament ? La Bible répond — et la réponse ne laisse place à aucun doute.</p><div class="article-meta"><span>11 min de lecture</span><span>Publié en mai 2026</span></div><a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
       article: `<p>Il y a une question qui ne peut rester sans réponse : Jésus a dit <em>« Ceux à qui vous pardonnerez les péchés, ils leur seront pardonnés ; ceux à qui vous les retiendrez, ils leur seront retenus »</em> (Jn 20, 23). À qui a-t-il parlé ? Et comment retenir les péchés de quelqu'un sans savoir quels ils sont ? Cela exige la confession. Cela exige un prêtre ayant autorité pour pardonner. Prenons les choses dans l'ordre.</p><h2>Un homme pris parmi les hommes<br>Hébreux 5, 1-2</h2><p>L'Épître aux Hébreux est claire dès le début :</p><div class="scripture-block">
                     <span class="scripture-ref">✝ Hébreux 5, 1-2</span>
                     <blockquote>«<strong class="s-hi">Tout souverain sacrificateur est pris du milieu des hommes</strong> et établi pour les hommes dans le service de Dieu, afin de présenter des offrandes et des sacrifices pour les péchés. Il peut être indulgent pour les ignorants et les égarés, puisque la faiblesse est aussi son partage.»</blockquote>
@@ -470,7 +472,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
                 <span>14 min de lecture</span>
                 <span>Publié en août 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+            <a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
       article: `<p>Devant l'Eucharistie, l'objection change de forme, non de fond. Témoins de Jéhovah, adventistes, pentecôtistes, mormons et protestants en général répètent l'une de ces deux phrases : <em>« Le pain reste du pain : il a l'aspect du pain et le goût du pain. »</em> et <em>« La transsubstantiation est un mot inventé, de la philosophie grecque ; cela n'est pas dans la Bible. »</em></p>
                 <p>La seconde se règle en une ligne : les mots « Trinité » et « Bible » n'y sont pas davantage, et personne ne conteste ce qu'ils désignent. Un mot ne crée pas le fait : il le nomme. La première est celle qui compte, et elle ne se règle pas avec de la philosophie mais avec l'Écriture, car l'Écriture a déjà raconté ce qui arrive lorsque le Christ dit qu'une chose est une autre. Cinq passages, dans l'ordre.</p>
                 <h2>La Parole ne décrit pas : elle fait<br>Jean 1, 1-3</h2>
@@ -563,7 +565,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
         p4: "Les chaînes, livres, images et sites recommandés sur cette page appartiennent à leurs auteurs et titulaires respectifs. Ils sont mentionnés à titre de recommandation seulement, sans lien commercial ni contrepartie d'aucune sorte."
       },
       pageTitle: "Ressources recommandées | Foi et Raison",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Ressources</span></div><h1>Ressources recommandées</h1><p>Sources de confiance pour approfondir, se former et partager la foi catholique.</p><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Ressources</span></div><h1>Ressources recommandées</h1><p>Sources de confiance pour approfondir, se former et partager la foi catholique.</p><a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
       labels: {
         bible: "Sainte Écriture →",
         catechism: "Catéchisme →",
@@ -579,7 +581,8 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
       sec2: {
         eyebrow: "Apologétique · Formation", title: "Prêtres et formateurs", desc: "Des voix fidèles au Magistère qui enseignent, défendent et proclament la foi avec profondeur et rigueur.",
         toro:    { desc: "Théologien et apologète. Répond avec profondeur aux objections les plus difficiles à la foi catholique." },
-        olivera: { desc: "Historien et apologète augustin. Aborde le rationalisme, les sectes et les erreurs modernes avec rigueur." }
+        olivera: { desc: "Historien et apologète augustin. Aborde le rationalisme, les sectes et les erreurs modernes avec rigueur." },
+        montfort: { tag: "France · vers 1712", title: "Traité de la vraie dévotion à la Sainte Vierge", author: "Saint Louis-Marie Grignion de Montfort", desc: "L'œuvre classique sur la consécration à Jésus par Marie. Édition complète en PDF, des Missionnaires Montfortains.", ed1: "Lire le PDF →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_FR_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
         eyebrow: "Apostolats · Médias", title: "Apostolats et médias catholiques",
@@ -594,7 +597,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
     "privacidad": {
       pageTitle: "Confidentialité | Foi et Raison",
       linkLabel: "Confidentialité",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mentions légales</span></div><h1>Confidentialité</h1><p>Quelles données ce site recueille, à quoi elles servent et où elles vont.</p><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mentions légales</span></div><h1>Confidentialité</h1><p>Quelles données ce site recueille, à quoi elles servent et où elles vont.</p><a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
       article: `<p>Ce site n'utilise pas de cookies, n'a pas d'outil de mesure d'audience, n'affiche aucune publicité et ne contient ni boutons ni traceurs de réseaux sociaux. Les polices, les images et les vidéos sont servies depuis ce même domaine : lorsque vous ouvrez une page, votre navigateur ne demande rien à aucun tiers.</p>
                 <h2>Quelles données sont recueillies</h2>
                 <p>Uniquement celles que vous saisissez vous-même dans le formulaire de contact : <strong>nom, adresse électronique, objet et message</strong>. Aucune autre donnée n'est recueillie, et il n'existe aucun autre formulaire sur le site.</p>
@@ -619,7 +622,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
             </div>
             <h1>À propos de ce site</h1>
             <p>Un chemin parcouru à travers les philosophies qui n'ont pas tenu — jusqu'à l'Église qui a tenu.</p>
-            <a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+            <a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
       article: `<p>Je suis arrivé au catholicisme après un long cheminement. J'ai tout lu : l'occultisme et l'ésotérisme, les dites Tables d'Émeraude, les philosophies orientales, Nietzsche, les épicuriens. J'ai cherché des réponses partout et je n'en trouvais aucune qui tienne. Le stoïcisme a été la dernière chose qui m'a offert quelque chose de sérieux avant le Christ — Sénèque, Marc Aurèle, Épictète m'ont appris à regarder la vérité sans ciller. Et en regardant la vérité sans ciller, je me suis retrouvé là où je ne m'y attendais pas : devant l'Église Catholique.</p>
 
             <p>Ce site est pour vous si vous êtes dans l'un de ces endroits : vous doutez de la foi que vous avez reçue et vous ne savez pas à qui vous adresser ; vous cherchez parmi les traditions et personne ne vous donne une réponse qui puisse supporter le poids ; vous venez de vous convertir et vous vous sentez seul, sans guide, assiégé de toutes parts. Je connais cet endroit. J'y étais. Et je sais ce qui l'entoure : des catholiques traditionnels qui parfois tiennent pour acquis ce qu'ils devraient démontrer et ne savent pas l'expliquer ; et pire encore, des catholiques tièdes — ceux qui vont à la messe par habitude, ne savent pas ce qu'ils croient, ne défendent rien, et sont les premiers à hausser les épaules quand quelqu'un attaque la foi devant eux.</p>
@@ -637,7 +640,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
 
             <p>Je n'écris pas pour gagner des discussions. J'écris pour que celui qui doute seul dans la nuit ait quelque chose de sérieux à portée de main quand vient son tour de défendre sa foi — ou quand vient son tour de la trouver pour la première fois.</p>
 
-            <p class="about-signature">— M.G.</p>`
+            <p class="about-signature">M. Gabriel Castiglia</p>`
     }
   },
   disclaimerHTML: "Cet article a été traduit automatiquement depuis l'espagnol. Ce site est un projet personnel maintenu avec effort et dévouement. Si vous trouvez des erreurs dans la traduction, nous vous remercions de les signaler via le formulaire de contact.",

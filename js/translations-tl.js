@@ -17,6 +17,8 @@ const translationsTL = {
     btn2: "Ang aming misyon"
   },
   topics: {
+    pageTitle: "Mga Paksa ng Pananampalataya | Pananampalataya at Dahilan",
+    filter: { label: "Salain ayon sa pangkat", all: "Lahat", god: "Diyos at pananampalataya", church: "Simbahan", sacraments: "Mga Sakramento", saints: "Ang Mahal na Birhen at ang mga santo", salvation: "Kaligtasan", search: "Maghanap ng paksa", empty: "Walang paksang tumutugma sa paghahanap." },
     eyebrow: "Apologetikong Katesismo",
     title: "Mga Paksa ng Pananampalataya",
     subtitle: "Matatatag na argumento para mapalalim, maunawaan at maipagtanggol ang Katolikong&nbsp;pananampalataya"
@@ -155,7 +157,7 @@ const translationsTL = {
                 <span>6 minutong pagbabasa</span>
                 <span>Nailathala Mayo 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
+            <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
       article: `<p>Ang purgatoryo ay ang yugto kung saan ang mga kaluluwa ay nadalisay bago makapasok sa buong presensya ng Diyos. Hindi ito panghuling parusa, kundi isang proseso ng mapagpagalingang pagmamahal.</p>
                 <h2>Ano ang ibig sabihin ng pagdadalisay?</h2>
                 <p>Tinatanggal ng pagdadalisay ang mga kahihinatnan ng maliliit na kasalanan at nagpapagaling ng mga sugat ng kalayaan. Ito ang kinakailangang paghahanda para sa banal na pagninilay.</p>
@@ -186,7 +188,7 @@ const translationsTL = {
                 <span>13 minutong pagbabasa</span>
                 <span>Nailathala Mayo 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
+            <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
       article: `<p>Simbolo ba ang Eukaristiya o totoo? Ang sagot ay nasa Juan 6. Walang mas malinaw, mas tuwiran, at mas mapaghamong teksto sa buong Ebanghelyo tungkol sa paksang ito. At hindi sumusuko si Hesus. Ngunit hindi lamang si Juan 6 ang saksi: kinukumpirma ito ni Pablo nang hiwalay, at ang mga unang alagad ng mga apostol ay naunawaang walang pagdududa. Tatlong linya ng katibayan. Wala ni isa sa kanila ang may sagot sa loob ng simbolikong interpretasyon.</p>
                 <h2>Ako ang tinapay ng buhay<br>Juan 6:47-51</h2>
                 <p>Hindi nagsasabi si Hesus na "kinakatawan ko ang tinapay ng buhay" o "parang tinapay ng buhay ako." Sinasabi Niya:</p>
@@ -261,7 +263,7 @@ const translationsTL = {
                 <span>8 minutong pagbabasa</span>
                 <span>Nailathala Mayo 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
+            <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
       article: `<p>Ang bagong kautusan ay ang kautusan ng Ebanghelyo, nakasentro sa utos ng pagmamahal. Hindi inalis ni Kristo ang Lumang Kautusan, kundi dinala Niya ito sa katuparan at ginawa itong naa-abot ng puso ng tao.</p>
                 <h2>Pagmamahal bilang pamantayan</h2>
                 <p>Ibinubuod ni Hesus ang Kautusan sa pagmamahal sa Diyos at sa kapwa. Ang bagong tuntunin na ito ay hindi pabigat, kundi malalim na kalayaang nagbabago ng ating mga gawa mula sa loob.</p>
@@ -295,7 +297,7 @@ const translationsTL = {
                 <span>14 minutong pagbabasa</span>
                 <span>Nailathala Setyembre 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
+            <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
       article: `<p>Laban sa pagkapapa, dalawa ang anyo ng pagtutol. Ang una ay inuulit ng mga Protestante ng halos lahat ng denominasyon, ng mga Adventist at ng mga Saksi ni Jehova: <em>"Si Cristo ang bato, hindi si Pedro. Maliit na bato lamang si Pedro; ang bato ay ang pananampalatayang ipinahayag niya."</em> Ang ikalawa ay likas sa mundo ng mga ebanghelikal: <em>"Hindi nakikita ang tunay na Simbahan: wala itong herarkiya, walang obispo at walang papa. Imbento lahat iyan ng Roma."</em></p>
                 <p>Kapwa sinasagot ang mga ito ng Kasulatan. Una, kung saan nakatayo ang Simbahan at kung sino ang may hawak ng mga susi. Ikalawa, kung may pamamahala ang Simbahang iyon at kung umiiral na ito bago pa may nag-organisa nito. At panghuli, kung kanino ipinagkatiwala ni Cristo ang tungkuling alalayan ang iba.</p>
                 <h2>Si Cristo ang batong-panulukan, at may mga saligan<br>Efeso 2:20-22</h2>
@@ -408,7 +410,7 @@ const translationsTL = {
                 <span>11 minutong pagbabasa</span>
                 <span>Nailathala Setyembre 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
+            <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
       article: `<p>May isang pagtutol laban sa Santísima Trinidad na naririnig sa loob ng mundong Pentecostal, at hindi ito pagtutol ng lahat ng Pentecostal: ang Assemblies of God at ang karamihan ng mga simbahang Pentecostal ay nagpapahayag ng Trinidad. Ito ay sa mga United Pentecostal, na tinatawag ang sarili na Oneness o «Jesus lamang»: <em>«Iisa lamang ang Diyos, hindi tatlong persona. Ang Ama, Anak at Espiritu Santo ay mga titulo, mga paraan kung paano nagpakilala ang iisang Diyos. Ang Ama ay si Jesus, at ang Espiritu Santo ay ang Espiritu ni Jesus. Kaya't nagbibinyag lamang kami sa pangalan ni Jesus.»</em></p>
                 <p>Ang Trinidad ay isang misteryo: iisang Diyos sa tatlong Persona. Walang nakauunawa rito nang lubusan, at hindi kailanman hiniling ng Simbahan na unawain muna ito bago paniwalaan. Ang hinihiling niya ay paniwalaan ang sinasabi ng Diyos tungkol sa kanyang sarili, sapagkat hindi sapat ang maniwala na may iisang Diyos. Ganito ito sinabi ni Santiago: <em><strong>«Naniniwala ka bang iisa ang Diyos? Mabuti! Ngunit maging ang mga demonyo ay naniniwala rin, at nanginginig pa!»</strong></em> (Sant 2:19). At ang sinasabi ng Diyos tungkol sa kanyang sarili ay nakasulat nang may gayong pagpupumilit na nauunawaan ito sa pagbasa. Kaya't ang paksang ito ay may higit na mga sipi kaysa mga paliwanag.</p>
                 <h2>«Lalangin natin»: ang maramihan sa simula<br>Genesis 1:26</h2>
@@ -517,7 +519,7 @@ const translationsTL = {
                 <span>12 minutong pagbabasa</span>
                 <span>Nailathala Mayo 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
+            <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
       article: `<p>Ang mga Saksi ni Jehova at mga Adventista ay paulit-ulit na inuulit ang parehong pagtutol: <em>«Hindi ka naririnig ng mga patay»</em>, sapagkat ang kaluluwa —ayon sa kanila— ay natutulog hanggang sa huling paghuhukom. Sa unang tingin ay mukhang makatwiran. Ngunit iba ang sinasabi ng Kasulatan. Hindi sa isang nag-iisang talata: sa pitong magkakaibang talata, mula kay Pablo hanggang sa Pahayag. Isa-isa.</p>
 
             <h2>Nagiging ganap ang kaalaman pagkatapos ng kamatayan<br>1 Corinto 13:9-13</h2>
@@ -613,7 +615,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
                 <span>15 minutong pagbabasa</span>
                 <span>Nailathala Mayo 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
+            <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
       article: `<p>Bakit tayo naniniwala? Hindi dahil sa bulag na tradisyon o kaugalian ng pamilya. Naniniwala tayo dahil ang Salita ng Diyos ay sinaksihan, tapat na ipinagpapatuloy, at nananatiling totoo. Sinabi ni Lucas mula sa simula: siyasat niya ang lahat mula sa simula upang makilala natin ang katotohanan (Lk 1:1-4). Iyon ang gagawin natin dito.</p>
                 <h2>Ang Salita ay sinaksihan<br>Lucas 1:1-4 at Juan 11:25-27</h2>
                 <p>Sinasabi sa atin ni Lucas na marami ang nagsikap na mag-ulat ng mga pangyayaring naganap sa ating piling, <em>"ayon sa ipinaabot sa atin ng mga naging saksi mula sa simula at mga tagapaglingkod ng Salita"</em> (Lk 1:2). Hindi ito mga alamat: mga patotoo ito. Ang sinabi, nabuhay, at itinuro ni Hesus ay nakita at ipinasa ng mga tunay na saksi.</p>
@@ -703,7 +705,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
                 <span>11 minutong pagbabasa</span>
                 <span>Nailathala Mayo 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
+            <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
       article: `<p>May isang tanong na hindi masasagot ng Protestantismo. Sinabi ni Hesus: <em>"Tanggapin ninyo ang Espiritu Santo. Ang mga kasalanang inyong ipatatawad ay ipatatawad; ang mga kasalanang hindi ninyo ipatatawad ay hindi ipatatawad"</em> (Jn 20:22-23). Kanino Siya nagsalita? At paano mo maitataboy ang mga kasalanan ng isang tao kung hindi mo alam kung ano ang mga ito? Hindi mo magagawa. Ang talatang ito ay nangangailangan na sabihin ng nagkasala ang kanyang mga kasalanan — na nangangailangan ng isang pari na may kapangyarihang magpatawad. Pag-aralan natin ito hakbang-hakbang.</p>
                 <h2>Isang taong kinuha mula sa mga tao<br>Mga Hebreo 5:1-2</h2>
                 <p>Malinaw ang Liham sa mga Hebreo mula sa simula:</p>
@@ -785,7 +787,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
                 <span>14 minutong pagbabasa</span>
                 <span>Nailathala Agosto 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
+            <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
       article: `<p>Sa harap ng Eukaristiya, nagbabago ang anyo ng pagtutol ngunit hindi ang laman nito. Ang mga Saksi ni Jehova, mga Adventista, mga Pentekostal, mga Mormon at ang mga Protestante sa pangkalahatan ay inuulit ang isa sa dalawang ito: <em>"Tinapay pa rin ang tinapay: mukhang tinapay at lasang tinapay."</em> at <em>"Ang transubstansiasyon ay imbentong salita, pilosopiyang Griyego; wala iyon sa Biblia."</em></p>
                 <p>Ang pangalawa ay nasasagot sa isang pangungusap: wala rin sa Biblia ang mga salitang "Trinidad" at "Biblia", at walang tumututol sa kanilang tinutukoy. Hindi nililikha ng salita ang katotohanan: pinapangalanan lamang nito. Ang una ang mahalaga, at hindi ito sinasagot ng pilosopiya kundi ng Kasulatan, sapagkat isinalaysay na ng Kasulatan kung ano ang nangyayari kapag sinabi ni Kristo na ang isang bagay ay iba. Limang talata, sunod-sunod.</p>
                 <h2>Hindi naglalarawan ang Salita: gumagawa ito<br>Juan 1:1-3</h2>
@@ -887,7 +889,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
             </div>
             <h1>Mga Inirerekomendang Link</h1>
             <p>Mga pinagkakatiwalaang pinagkukunan para sa pagpapalalim, pag-aaral, at pagbabahagi ng Katolikong pananampalataya.</p>
-            <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
+            <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
       labels: {
         bible: "Banal na Kasulatan →",
         catechism: "Katesismo →",
@@ -903,7 +905,8 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
       sec2: {
         eyebrow: "Apologetika · Pormasyon", title: "Mga Pari at Tagapagturo", desc: "Mga tinig na tapat sa Magisterium na nagtuturo, nagtatanggol, at nagpapahayag ng pananampalataya nang may kalaliman at kahusayan.",
         toro:    { desc: "Teologo at apologista. Tinatawid ang pinakamahirap na pagtutol sa Katolikong pananampalataya nang may kalaliman." },
-        olivera: { desc: "Augustinianong istoryador at apologista. Tinatawid ang rasyonalismo, mga sekta, at modernong kamalian nang may kahusayan." }
+        olivera: { desc: "Augustinianong istoryador at apologista. Tinatawid ang rasyonalismo, mga sekta, at modernong kamalian nang may kahusayan." },
+        montfort: { tag: "Pransiya · mga 1712", title: "Tratado ng Tunay na Debosyon sa Mahal na Birhen", author: "San Luis Maria Grignion de Montfort", desc: "Ang klasikong akda tungkol sa pagtatalaga kay Jesus sa pamamagitan ni Maria. Buong edisyon sa PDF, sa Ingles.", ed1: "PDF sa Ingles →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
         eyebrow: "Mga Apostolado · Media", title: "Mga Apostolado at Katolikong Media",
@@ -928,7 +931,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
             </div>
             <h1>Privacy</h1>
             <p>Anong datos ang kinokolekta ng site na ito, para saan ito ginagamit, at saan ito napupunta.</p>
-            <a href="index.html#temas" class="btn-outline-white">Bumalik sa mga Paksa</a>`,
+            <a href="temas.html" class="btn-outline-white">Bumalik sa mga Paksa</a>`,
       article: `<p>Ang site na ito ay walang cookies, walang analytics, walang advertising, at walang mga button o tracker ng social media. Ang mga font, larawan at video ay mula sa mismong domain na ito: kapag binuksan mo ang isang pahina, walang hinihingi ang iyong browser sa kahit anong third party.</p>
                 <h2>Anong datos ang kinokolekta</h2>
                 <p>Tanging ang isinusulat mo sa contact form: <strong>pangalan, email, paksa at mensahe</strong>. Walang ibang datos na kinokolekta, at wala nang ibang form sa buong site.</p>
@@ -953,7 +956,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
             </div>
             <h1>Tungkol sa Site na Ito</h1>
             <p>Isang paglalakbay mula sa mga pilosopiyang hindi tumagal — hanggang sa Simbahang tumagal.</p>
-            <a href="index.html#temas" class="btn-outline-white">Bumalik sa mga Paksa</a>`,
+            <a href="temas.html" class="btn-outline-white">Bumalik sa mga Paksa</a>`,
       article: `<p>Nakarating ako sa Katolisismo pagkatapos ng mahabang paglalakbay. Nabasa ko ang lahat: okultismo at esoterisismo, ang tinatawag na Emerald Tablets, ang mga pilosopiyang Silangan, si Nietzsche, ang mga Epicurean. Naghanap ako ng mga sagot sa lahat ng dako ngunit wala akong nahanap na anumang tumayo. Ang Stoicismo ang huli na nag-alok sa akin ng isang bagay na seryoso bago si Kristo — itinuturo sa akin nina Seneca, Marcus Aurelius, at Epictetus na tumingin sa katotohanan nang walang pagkukubling. At tinitigan ang katotohanan nang walang pagkukubling, nagtapos ako kung saan hindi ko inaasahan: sa harap ng Simbahang Katoliko.</p>
 
             <p>Ang site na ito ay para sa iyo kung nasa isa sa mga lugar na ito ka: nagdududa ka sa pananampalatayang tinanggap mo at hindi mo alam kung kanino ka tatanong; naghahanap ka sa gitna ng mga tradisyon at walang nagbibigay sa iyo ng sagot na kaya ng timbang; katatapos mo lang mag-convert at nararamdaman mong nag-iisa, walang gabay, inuusig mula sa lahat ng panig. Kilala ko ang lugar na iyon. Naroroon na ako. At alam ko kung ano ang nakapalibot: mga tradisyonal na Katoliko na minsan ay inaakala na tama ang dapat pa nilang patunayan at hindi nila ito maipaliwanag; at mas masahol pa, mga maligamgam na Katoliko — ang mga pumupunta sa Misa dahil sa ugali, hindi alam kung ano ang kanilang pinaniniwalaan, walang ipinagtatanggol, at sila ang unang nag-aatubili kung ang pananampalataya ay inaatake sa harap nila.</p>
@@ -972,7 +975,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
 
             <p>Hindi ako sumusulat para manalo ng mga argumento. Sumusulat ako para ang nagdududa nang mag-isa sa gabi ay magkaroon ng isang seryosong bagay na nasa kamay nila kapag dumating ang kanilang pagkakataon na ipagtanggol ang kanilang pananampalataya — o kapag dumating ang kanilang pagkakataon na mahanap ito sa unang pagkakataon.</p>
 
-            <p class="about-signature">— M.G.</p>`
+            <p class="about-signature">M. Gabriel Castiglia</p>`
     }
   },
   disclaimerHTML: "<!-- TODO: revisar disclaimer en Filipino -->Ang artikulong ito ay awtomatikong isinalin mula sa Espanyol. Ang site na ito ay isang personal na proyekto na pinananatili nang may pagsisikap at dedikasyon. Kung makahanap kayo ng mga pagkakamali sa pagsasalin, nagpapasalamat kami kung iuulat ninyo ito sa pamamagitan ng form ng pakikipag-ugnayan.",

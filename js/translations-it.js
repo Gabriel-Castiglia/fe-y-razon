@@ -17,6 +17,8 @@ const translationsIT = {
     btn2: "La nostra missione"
   },
   topics: {
+    pageTitle: "Temi di Fede | Fede e Ragione",
+    filter: { label: "Filtra per gruppo", all: "Tutti", god: "Dio e la fede", church: "Chiesa", sacraments: "Sacramenti", saints: "La Santissima Vergine e i santi", salvation: "Salvezza", search: "Cerca un tema", empty: "Nessun tema corrisponde alla ricerca." },
     eyebrow: "Catechesi Apologetica",
     title: "Temi di Fede",
     subtitle: "Argomenti solidi per approfondire, comprendere e difendere la fede cattolica"
@@ -73,13 +75,13 @@ const translationsIT = {
     common: { prevLabel: "Articolo precedente", nextLabel: "Prossimo articolo", backToTopics: "Torna ai Temi" },
     "el-purgatorio": {
       pageTitle: "Il purgatorio | Fede e Ragione",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>Il purgatorio e la misericordia di Dio</h1><p>Una spiegazione chiara del purgatorio come processo di purificazione e speranza verso l'unione definitiva con Dio.</p><div class="article-meta"><span>6 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>Il purgatorio e la misericordia di Dio</h1><p>Una spiegazione chiara del purgatorio come processo di purificazione e speranza verso l'unione definitiva con Dio.</p><div class="article-meta"><span>6 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
       article: `<p>Il purgatorio è la fase in cui le anime si purificano prima di entrare nella piena presenza di Dio. Non è una punizione finale, ma un processo di amore risanatore.</p><h2>Cosa significa purificazione?</h2><p>La purificazione rimuove le conseguenze del peccato veniale e guarisce le ferite della libertà. È la preparazione necessaria per la contemplazione divina.</p><blockquote>"Dio è giusto e anche il più misericordioso. La sua giustizia purifica, la sua misericordia accompagna."</blockquote><h2>Speranza cristiana</h2><p>Il purgatorio non è una condanna, ma un'opera di redenzione. Ogni anima è chiamata alla pienezza dell'amore di Dio, e la purificazione fa parte di quel cammino.</p><ul><li>La Chiesa prega per le anime del purgatorio.</li><li>I sacramenti e le buone opere aiutano la purificazione.</li><li>È una manifestazione della misericordia divina.</li></ul><h2>Vivere la fede</h2><p>Comprendere questo mistero invita a vivere con maggiore santità, a chiedere perdono e a offrire preghiere per i defunti, confidando nell'opera salvifica di Cristo.</p>`,
       nav: { prevTitle: "I santi e la loro intercessione", nextTitle: "La nuova legge in Cristo" }
     },
     "la-eucaristia": {
       pageTitle: "L'Eucaristia | Fede e Ragione",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>L'Eucaristia: il sacramento centrale</h1><p>L'Eucaristia è un simbolo o il Corpo reale di Cristo? Giovanni 6, Paolo e i primi cristiani danno la stessa risposta.</p><div class="article-meta"><span>13 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>L'Eucaristia: il sacramento centrale</h1><p>L'Eucaristia è un simbolo o il Corpo reale di Cristo? Giovanni 6, Paolo e i primi cristiani danno la stessa risposta.</p><div class="article-meta"><span>13 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
       article: `<p>L'Eucaristia è un simbolo o è reale? La risposta si trova in Giovanni 6. Non c'è testo più chiaro, più diretto e più impegnativo in tutto il Vangelo su questo argomento. E Gesù non cede. Ma Giovanni 6 non è l'unico testimone: Paolo lo conferma in modo indipendente, e i primi discepoli degli apostoli lo compresero senza ambiguità. Ci sono tre linee di prova. Nessuna trova risposta nell'interpretazione simbolica.</p><h2>Io sono il pane della vita<br>Giovanni 6:47-51</h2><p>Gesù non dice «rappresento il pane della vita» né «sono come il pane della vita». Dice:</p><div class="scripture-block">
                     <span class="scripture-ref">✝ Giovanni 6:47-51</span>
                     <blockquote>«In verità, in verità io vi dico: chi crede ha la vita eterna. <strong class="s-hi">Io sono il pane della vita.</strong> I vostri padri hanno mangiato la manna nel deserto e sono morti; questo è il pane che discende dal cielo, perché chi ne mangia non muoia. Io sono il pane vivo, disceso dal cielo. Se uno mangia di questo pane vivrà in eterno e il pane che io darò è <strong class="s-hi">la mia carne</strong> per la vita del mondo.»</blockquote>
@@ -106,7 +108,7 @@ const translationsIT = {
     },
     "la-nueva-ley": {
       pageTitle: "La nuova legge | Fede e Ragione",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>La nuova legge in Cristo</h1><p>Comprendi come la legge di Cristo supera e completa l'Antica Legge, invitandoci a vivere nell'amore e nella libertà dei figli di Dio.</p><div class="article-meta"><span>8 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>La nuova legge in Cristo</h1><p>Comprendi come la legge di Cristo supera e completa l'Antica Legge, invitandoci a vivere nell'amore e nella libertà dei figli di Dio.</p><div class="article-meta"><span>8 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
       article: `<p>La nuova legge è la legge del Vangelo, incentrata sul comandamento dell'amore. Cristo non elimina la Legge antica, ma la porta a pienezza e la rende accessibile al cuore umano.</p><h2>L'amore come criterio</h2><p>Gesù riassume la Legge nell'amare Dio e il prossimo. Questa nuova norma non è un peso, ma una profonda libertà che trasforma le nostre azioni dall'interno.</p><div class="scripture-block">
                     <span class="scripture-ref">✝ Matteo 22:37-38</span>
                     <blockquote>«<strong class="s-hi">Amerai il Signore tuo Dio con tutto il tuo cuore e il tuo prossimo come te stesso</strong>»</blockquote>
@@ -115,7 +117,7 @@ const translationsIT = {
     },
     "la-primacia-de-pedro": {
       pageTitle: "Il primato di Pietro | Fede e Ragione",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>Il primato di Pietro</h1><p>Cristo ha edificato la sua Chiesa su Pietro, gli ha dato le chiavi del Regno e lo ha incaricato di confermare i suoi fratelli. Ciò che dice la Scrittura, passo per passo.</p><div class="article-meta"><span>14 min di lettura</span><span>Pubblicato a settembre 2026</span></div><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>Il primato di Pietro</h1><p>Cristo ha edificato la sua Chiesa su Pietro, gli ha dato le chiavi del Regno e lo ha incaricato di confermare i suoi fratelli. Ciò che dice la Scrittura, passo per passo.</p><div class="article-meta"><span>14 min di lettura</span><span>Pubblicato a settembre 2026</span></div><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
       article: `<p>Contro il papato l'obiezione ha due forme. La prima la ripetono protestanti di quasi tutte le denominazioni, avventisti e Testimoni di Geova: <em>«La roccia è Cristo, non Pietro. Pietro è appena un sassolino; la roccia è la fede che ha confessato.»</em> La seconda è propria del mondo evangelicale: <em>«La vera Chiesa è invisibile: non ha gerarchia, né vescovi, né papa. Tutto questo l'ha inventato Roma.»</em></p>
                 <p>A tutte e due si risponde con la Scrittura. Prima, su che cosa è edificata la Chiesa e chi ne ha le chiavi. Poi, se quella Chiesa ha un governo e se esisteva prima che qualcuno la organizzasse. Infine, a chi Cristo ha affidato il compito di sostenere gli altri.</p>
                 <h2>Cristo è la pietra d'angolo, e ci sono fondamenta<br>Efesini 2,20-22</h2>
@@ -215,7 +217,7 @@ const translationsIT = {
     },
     "la-santisima-trinidad": {
       pageTitle: "La Santissima Trinità | Fede e Ragione",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>La Santissima Trinità</h1><p>Un solo Dio in tre Persone. Contro l'idea che Padre, Figlio e Spirito Santo siano tre titoli di una sola persona, ciò che dice la Scrittura, passo per passo.</p><div class="article-meta"><span>11 min di lettura</span><span>Pubblicato a settembre 2026</span></div><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>La Santissima Trinità</h1><p>Un solo Dio in tre Persone. Contro l'idea che Padre, Figlio e Spirito Santo siano tre titoli di una sola persona, ciò che dice la Scrittura, passo per passo.</p><div class="article-meta"><span>11 min di lettura</span><span>Pubblicato a settembre 2026</span></div><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
       article: `<p>C'è un'obiezione contro la Trinità che si sente dentro il mondo pentecostale, e non è quella di tutti i pentecostali: le Assemblee di Dio e la maggior parte delle chiese pentecostali confessano la Trinità. È quella dei pentecostali uniti, che si chiamano unicisti o «solo Gesù»: <em>«Dio è uno solo, non tre persone. Padre, Figlio e Spirito Santo sono titoli, modi in cui lo stesso Dio si è manifestato. Il Padre è Gesù, e lo Spirito Santo è lo Spirito di Gesù. Per questo si battezza soltanto nel nome di Gesù.»</em></p>
                 <p>La Trinità è un mistero: un solo Dio in tre Persone. Nessuno la comprende fino in fondo, e la Chiesa non ha mai chiesto di comprenderla per crederla. Quello che chiede è credere a ciò che Dio dice di sé, perché credere che esiste un solo Dio non basta. Giacomo lo dice così: <em><strong>«Tu credi che c'è un Dio solo? Fai bene; anche i demòni lo credono e tremano!»</strong></em> (Gc 2, 19). E ciò che Dio dice di sé è scritto con tanta insistenza che si capisce leggendolo. Per questo questo tema ha più citazioni che spiegazioni.</p>
                 <h2>«Facciamo»: il plurale del principio<br>Genesi 1, 26</h2>
@@ -311,7 +313,7 @@ const translationsIT = {
     },
     "los-santos": {
       pageTitle: "I santi | Fede e Ragione",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>I santi e la loro intercessione</h1><p>La Scrittura stessa li nomina: Abele, Enoc, Noè, Abramo, Mosè, i profeti. Sette passi, uno per uno, sul perché i santi ascoltano e intercedono.</p><div class="article-meta"><span>7 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>I santi e la loro intercessione</h1><p>La Scrittura stessa li nomina: Abele, Enoc, Noè, Abramo, Mosè, i profeti. Sette passi, uno per uno, sul perché i santi ascoltano e intercedono.</p><div class="article-meta"><span>7 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
       article: `<p>Testimoni di Geova e avventisti ripetono la stessa obiezione senza stancarsi: <em>«I morti non possono ascoltarti»</em>, perché l'anima —dicono— dorme fino al giudizio finale. A prima vista suona ragionevole. Ma la Scrittura dice altro. Non in una citazione isolata: in sette passi distinti, da Paolo all'Apocalisse. Uno per uno.</p>
 
             <h2>La conoscenza si perfeziona dopo la morte<br>1 Corinzi 13:9-13</h2>
@@ -386,7 +388,7 @@ const translationsIT = {
     },
     "por-que-creemos": {
       pageTitle: "Perché crediamo | Fede e Ragione",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>Perché crediamo nella fede cattolica</h1><p>Perché crediamo? Non per abitudine. Perché lo hanno testimoniato, lo abbiamo indagato, e la Bibbia stessa indica la Chiesa che Gesù ha fondato.</p><div class="article-meta"><span>15 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>Perché crediamo nella fede cattolica</h1><p>Perché crediamo? Non per abitudine. Perché lo hanno testimoniato, lo abbiamo indagato, e la Bibbia stessa indica la Chiesa che Gesù ha fondato.</p><div class="article-meta"><span>15 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
       article: `<p>Perché crediamo? Non per cieca tradizione né per abitudine familiare. Crediamo perché la Parola di Dio è stata testimoniata, trasmessa fedelmente e continua a essere verità. San Luca lo dice fin dall'inizio: ha fatto ricerche accurate su ogni circostanza fin dagli inizi, affinché conosciamo la solidità degli insegnamenti (Lc 1:1-4). Questo è ciò che faremo qui.</p><h2>La Parola è stata testimoniata<br>Luca 1:1-4 e Giovanni 11:25-27</h2><p>Luca ci dice che molti hanno cercato di raccontare gli avvenimenti accaduti tra noi, <em>«come ce li hanno trasmessi coloro che ne furono testimoni oculari fin da principio e divennero ministri della Parola»</em> (Lc 1:2). Non sono leggende: sono testimonianze. Ciò che Gesù disse, visse e insegnò fu visto e trasmesso da testimoni reali.</p><p>Marta, davanti alla tomba di suo fratello, lo riconosce senza esitare: <em>«Sì, o Signore, io credo che tu sei il Cristo, il Figlio di Dio, colui che doveva venire nel mondo»</em> (Gv 11:27). La fede non è irrazionale: è la risposta a una rivelazione verificata da coloro che l'hanno vissuta.</p><div class="scripture-block">
                     <span class="scripture-ref">✝ Luca 1:4</span>
                     <blockquote>«Perché tu ti renda conto della solidità degli insegnamenti che hai ricevuto.»</blockquote>
@@ -422,7 +424,7 @@ const translationsIT = {
     },
     "sacerdocio": {
       pageTitle: "Il Sacerdozio | Fede e Ragione",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>Il Sacerdozio nella Chiesa Cattolica</h1><p>Esiste un sacerdozio ordinato nel Nuovo Testamento? La Bibbia risponde — e la risposta non lascia dubbi.</p><div class="article-meta"><span>11 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>Il Sacerdozio nella Chiesa Cattolica</h1><p>Esiste un sacerdozio ordinato nel Nuovo Testamento? La Bibbia risponde — e la risposta non lascia dubbi.</p><div class="article-meta"><span>11 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
       article: `<p>C'è una domanda che non può rimanere senza risposta: Gesù disse <em>«A coloro a cui perdonerete i peccati, saranno perdonati; a coloro a cui li riterrete, saranno ritenuti»</em> (Gv 20:23). A chi ha parlato? E come si ritengono i peccati di qualcuno senza sapere quali sono? Questo richiede la confessione. Questo richiede un sacerdote con l'autorità di perdonare. Procediamo con ordine.</p><h2>Un uomo preso fra gli uomini<br>Eb 5:1-2</h2><p>La lettera agli Ebrei è chiara fin dal principio:</p><div class="scripture-block">
                     <span class="scripture-ref">✝ Ebrei 5:1-2</span>
                     <blockquote>«<strong class="s-hi">Ogni sommo sacerdote, infatti, è scelto fra gli uomini</strong> e per gli uomini viene costituito tale nelle cose che riguardano Dio, per offrire doni e sacrifici per i peccati. Egli è in grado di sentire giusta compassione per quelli che sono nell'ignoranza e nell'errore, essendo anche lui rivestito di debolezza.»</blockquote>
@@ -462,7 +464,7 @@ const translationsIT = {
                 <span>14 min di lettura</span>
                 <span>Pubblicato ad agosto 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
+            <a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
       article: `<p>Davanti all'Eucaristia l'obiezione cambia forma, ma non sostanza. Testimoni di Geova, avventisti, pentecostali, mormoni e protestanti in generale ripetono una di queste due: <em>«Il pane resta pane: sembra pane e sa di pane.»</em> e <em>«Transustanziazione è una parola inventata, filosofia greca; non sta nella Bibbia.»</em></p>
                 <p>Alla seconda si risponde in una riga: non ci sono nemmeno le parole «Trinità» e «Bibbia», e nessuno discute ciò che esse nominano. Una parola non crea il fatto: lo nomina. È la prima che conta, e non si risponde con la filosofia ma con la Scrittura, perché la Scrittura ha già raccontato che cosa accade quando Cristo dice che una cosa è un'altra. Cinque passi, in ordine.</p>
                 <h2>La Parola non descrive: fa<br>Giovanni 1,1-3</h2>
@@ -555,7 +557,7 @@ const translationsIT = {
         p4: "I canali, i libri, le immagini e i siti consigliati in questa pagina appartengono ai rispettivi autori e titolari. Sono collegati unicamente a titolo di raccomandazione, senza alcun vincolo commerciale né corrispettivo di alcun genere."
       },
       pageTitle: "Risorse consigliate | Fede e Ragione",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Risorse</span></div><h1>Risorse consigliate</h1><p>Fonti di fiducia per approfondire, formarsi e condividere la fede cattolica.</p><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Risorse</span></div><h1>Risorse consigliate</h1><p>Fonti di fiducia per approfondire, formarsi e condividere la fede cattolica.</p><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
       labels: {
         bible: "Sacra Scrittura →",
         catechism: "Catechismo →",
@@ -571,7 +573,8 @@ const translationsIT = {
       sec2: {
         eyebrow: "Apologetica · Formazione", title: "Sacerdoti e formatori", desc: "Voci fedeli al Magistero che insegnano, difendono e proclamano la fede con profondità e rigore.",
         toro:    { desc: "Teologo e apologeta. Risponde con profondità alle obiezioni più difficili alla fede cattolica." },
-        olivera: { desc: "Storico e apologeta agostiniano. Affronta il razionalismo, le sette e gli errori moderni con rigore." }
+        olivera: { desc: "Storico e apologeta agostiniano. Affronta il razionalismo, le sette e gli errori moderni con rigore." },
+        montfort: { tag: "Francia · 1712 circa", title: "Trattato della vera devozione alla Santa Vergine", author: "San Luigi Maria Grignion de Montfort", desc: "L'opera classica sulla consacrazione a Gesù per mezzo di Maria. Edizione completa in PDF, in inglese.", ed1: "PDF in inglese →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
         eyebrow: "Apostolati · Media", title: "Apostolati e media cattolici",
@@ -586,7 +589,7 @@ const translationsIT = {
     "privacidad": {
       pageTitle: "Privacy | Fede e Ragione",
       linkLabel: "Privacy",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Note legali</span></div><h1>Privacy</h1><p>Quali dati raccoglie questo sito, a cosa servono e dove vanno.</p><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Note legali</span></div><h1>Privacy</h1><p>Quali dati raccoglie questo sito, a cosa servono e dove vanno.</p><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
       article: `<p>Questo sito non usa cookie, non ha strumenti di analisi, non mostra pubblicità e non contiene pulsanti né tracciatori dei social network. I caratteri, le immagini e i video sono serviti da questo stesso dominio: aprendo una pagina, il browser non chiede nulla a terzi.</p>
                 <h2>Quali dati vengono raccolti</h2>
                 <p>Solo quelli che scrivi nel modulo di contatto: <strong>nome, indirizzo email, oggetto e messaggio</strong>. Nessun altro dato viene raccolto, e nel resto del sito non esiste alcun altro modulo.</p>
@@ -611,7 +614,7 @@ const translationsIT = {
             </div>
             <h1>Su questo sito</h1>
             <p>Un percorso attraverso le filosofie che non hanno retto — fino alla Chiesa che ha retto.</p>
-            <a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
+            <a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
       article: `<p>Sono arrivato al cattolicesimo dopo un lungo percorso. Ho letto di tutto: occultismo ed esoterismo, le cosiddette Tavole di Smeraldo, le filosofie orientali, Nietzsche, gli epicurei. Ho cercato risposte ovunque e non ne trovavo nessuna che reggesse. Lo stoicismo è stato l'ultima cosa che mi ha offerto qualcosa di serio prima di Cristo — Seneca, Marco Aurelio, Epitteto mi hanno insegnato a guardare la verità senza battere ciglio. E guardando la verità senza battere ciglio, sono finito dove non mi aspettavo: di fronte alla Chiesa Cattolica.</p>
 
             <p>Questo sito è per te se ti trovi in uno di questi posti: dubiti della fede che hai ricevuto e non sai a chi chiederlo; stai cercando tra le tradizioni e nessuno ti dà una risposta che regga il peso; ti sei appena convertito e ti senti solo, senza guida, assediato da ogni parte. Conosco quel posto. Ci sono stato. E so cos'c'è intorno: cattolici tradizionali che a volte danno per scontato ciò che dovrebbero dimostrare e non sanno spiegarlo; e peggio ancora, cattolici tiepidi — quelli che vanno a Messa per abitudine, non sanno cosa credono, non difendono nulla, e sono i primi ad alzare le spalle quando qualcuno attacca la fede davanti a loro.</p>
@@ -629,7 +632,7 @@ const translationsIT = {
 
             <p>Non scrivo per vincere le discussioni. Scrivo perché chi dubita solo nella notte abbia qualcosa di serio a portata di mano quando gli toccherà difendere la sua fede — o quando gli toccherà trovarla per la prima volta.</p>
 
-            <p class="about-signature">— M.G.</p>`
+            <p class="about-signature">M. Gabriel Castiglia</p>`
     }
   },
   disclaimerHTML: "Questo articolo è stato tradotto automaticamente dallo spagnolo. Questo sito è un progetto personale mantenuto con impegno e dedizione. Se trovate errori nella traduzione, vi ringraziamo per averli segnalati tramite il modulo di contatto.",
