@@ -38,7 +38,7 @@ const translationsFR = {
     category: "Doctrine", date: "Mai 2026", title: "Les saints", excerpt: "L'importance des saints dans l'Église catholique et leur intercession pour nous.", time: "12 min de lecture", link: "Lire →"
   },
   article6: {
-    category: "Doctrine", date: "Bientôt", title: "La Sainte Trinité", excerpt: "Comprendre le mystère central de la foi catholique à travers la théologie et la raison.", time: "10 min de lecture", link: "Lire →"
+    category: "Doctrine", date: "Septembre 2026", title: "La Sainte Trinité", excerpt: "Trois Personnes et un seul Dieu : ce que l'Écriture répond aux pentecôtistes unis, passage par passage.", time: "11 min de lecture", link: "Lire →"
   },
   article7: {
     category: "Doctrine", date: "Bientôt", title: "Le purgatoire", excerpt: "La purification finale avant d'entrer en présence de Dieu.", time: "6 min de lecture", link: "Lire →"
@@ -215,11 +215,98 @@ const translationsFR = {
     },
     "la-santisima-trinidad": {
       pageTitle: "La Sainte Trinité | Foi et Raison",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>La Sainte Trinité</h1><p>Comprendre la Trinité comme mystère d'unité et d'amour : Père, Fils et Saint-Esprit travaillant ensemble dans l'histoire du salut.</p><div class="article-meta"><span>10 min de lecture</span><span>Publié en mai 2026</span></div><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
-      article: `<p>La Trinité est le mystère central de la foi chrétienne. Dieu est un seul être en trois Personnes : Père, Fils et Saint-Esprit, en parfaite unité et communion.</p><h2>Unité et distinction</h2><p>Chaque Personne divine est pleinement Dieu, mais elles ne sont pas trois dieux distincts. Le christianisme confesse un seul Dieu dans une relation éternelle d'amour.</p><div class="scripture-block">
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>La Sainte Trinité</h1><p>Un seul Dieu en trois Personnes. Contre l'idée que Père, Fils et Saint-Esprit seraient trois titres d'une seule personne, ce que dit l'Écriture, passage par passage.</p><div class="article-meta"><span>11 min de lecture</span><span>Publié en septembre 2026</span></div><a href="index.html#temas" class="btn-outline-white">Retour aux Thèmes</a>`,
+      article: `<p>Il existe une objection contre la Trinité qui se fait entendre dans le monde pentecôtiste, et ce n'est pas celle de tous les pentecôtistes : les Assemblées de Dieu et la plupart des Églises pentecôtistes confessent la Trinité. C'est celle des pentecôtistes unis, qui se disent unicitaires ou « Jésus seul » : <em>« Dieu est un seul, pas trois personnes. Père, Fils et Saint-Esprit sont des titres, des manières dont le même Dieu s'est manifesté. Le Père, c'est Jésus, et l'Esprit Saint est l'Esprit de Jésus. C'est pourquoi on baptise seulement au nom de Jésus. »</em></p>
+                <p>La Trinité est un mystère : un seul Dieu en trois Personnes. Personne ne la comprend à fond, et l'Église n'a jamais demandé de la comprendre pour y croire. Ce qu'elle demande, c'est de croire ce que Dieu dit de lui-même, parce que croire qu'il y a un seul Dieu ne suffit pas. Jacques le dit ainsi : <em><strong>« Toi, tu crois qu'il y a un seul Dieu. Bien ! Les démons, eux aussi, le croient, mais ils tremblent. »</strong></em> (Jc 2, 19). Et ce que Dieu dit de lui-même est écrit avec tant d'insistance qu'on le comprend en le lisant. C'est pourquoi ce thème contient plus de citations que d'explications.</p>
+                <h2>« Faisons » : le pluriel du commencement<br>Genèse 1, 26</h2>
+                <p>Le premier signe se trouve à la première page de la Bible.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Genèse 1, 26</span>
+                    <blockquote>«Dieu dit : « <strong class="s-hi">Faisons l'homme à notre image, selon notre ressemblance</strong>. Qu'il soit le maître des poissons de la mer, des oiseaux du ciel, des bestiaux, de toutes les bêtes sauvages, et de toutes les bestioles qui vont et viennent sur la terre. »»</blockquote>
+                </div>
+                <p>Dieu parle au pluriel, et il n'y a personne d'autre dans la scène. Ce ne sont pas les anges : les anges ne créent pas, et l'homme est fait à l'image de Dieu, non à la leur. Le verset suivant revient au singulier : <em>« Dieu créa l'homme à son image »</em> (Gn 1, 27). Un seul qui dit « nous ». Ce verset, à lui seul, ne prouve pas la Trinité, et l'Église ne l'emploie pas ainsi. C'est une annonce que le reste de l'Écriture viendra éclairer.</p>
+                <h2>Le Premier et le Dernier, envoyé<br>Isaïe 48, 16</h2>
+                <p>En Isaïe 48, c'est Dieu qui parle, et il se présente avec un titre que nul autre ne peut porter : <em>« C'est moi, c'est moi le premier, et aussi le dernier »</em> (Is 48, 12). C'est lui qui a fondé la terre et déployé les cieux. Quatre versets plus loin, celui qui parle dit ceci :</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Isaïe 48, 16</span>
+                    <blockquote>«Approchez-vous de moi, écoutez ceci : dès le début, je n'ai pas parlé en secret ; depuis que les choses arrivent, je suis là. <strong class="s-hi">Et maintenant le Seigneur Dieu m'a envoyé avec son esprit.</strong>»</blockquote>
+                </div>
+                <p>Celui qui était là depuis le début est envoyé, et il est envoyé par le Seigneur Dieu et son esprit. Dans un même passage de l'Ancien Testament apparaissent ensemble celui qui envoie, l'envoyé et l'Esprit. Des siècles plus tard, l'Apocalypse met ce même titre dans la bouche de Jésus : <em>« Je suis le Premier et le Dernier, le Vivant : j'étais mort, et me voilà vivant pour les siècles des siècles »</em> (Ap 1, 17-18).</p>
+                <h2>Les trois au Jourdain<br>Marc 1, 10-11</h2>
+                <p>Au baptême de Jésus, l'objection des titres ne trouve plus de place.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Marc 1, 10-11</span>
+                    <blockquote>«Et aussitôt, en remontant de l'eau, il vit les cieux se déchirer et <strong class="s-hi">l'Esprit descendre sur lui</strong> comme une colombe. <strong>Il y eut une voix venant des cieux</strong> : « <strong class="s-hi">Tu es mon Fils bien-aimé</strong> ; en toi, je trouve ma joie. »»</blockquote>
+                </div>
+                <p>Le Fils sort de l'eau, l'Esprit descend sur lui et le Père parle du ciel, au même moment. Si c'étaient trois manières dont une seule personne se manifeste, cette personne serait à la fois dans l'eau, en train de descendre sur elle-même et de se parler d'en haut. Matthieu raconte la même scène (Mt 3, 16-17). Personne ne se dit « tu » à soi-même depuis le ciel.</p>
+                <h2>Le Père parle au Fils<br>Hébreux 1, 5</h2>
+                <p>La lettre aux Hébreux revient sur cette voix pour montrer que le Fils est au-dessus des anges.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Hébreux 1, 5</span>
+                    <blockquote>«En effet, Dieu déclara-t-il jamais à un ange : « <strong class="s-hi">Tu es mon Fils, moi, aujourd'hui, je t'ai engendré</strong> » ? Ou bien encore : « <strong>Moi, je serai pour lui un père, et lui sera pour moi un fils</strong> » ?»</blockquote>
+                </div>
+                <p>L'un parle et l'autre est interpellé. Et trois versets plus bas, le Père appelle Dieu le Fils : <em>« mais au Fils il dit : Ton trône, ô Dieu, est pour les siècles des siècles »</em> (He 1, 8). Le Fils est Dieu, et le Père, qui lui parle, n'est pas lui.</p>
+                <h2>Auprès du Père, avant le monde<br>Jean 17, 5</h2>
+                <p>Pour les pentecôtistes unis, le Fils commence à Bethléem : « Fils » serait le nom de l'humanité de Jésus, et « Père » celui du Dieu qui l'habite. Jean y répond dans sa première lettre.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Jean 1, 2-3</span>
+                    <blockquote>«Oui, la vie s'est manifestée, nous l'avons vue, et nous rendons témoignage : nous vous annonçons <strong class="s-hi">la vie éternelle qui était auprès du Père</strong> et qui s'est manifestée à nous. Ce que nous avons vu et entendu, nous vous l'annonçons à vous aussi, pour que, vous aussi, vous soyez en communion avec nous. Et notre communion est <strong>avec le Père et avec son Fils, Jésus Christ</strong>.»</blockquote>
+                </div>
+                <p>Ce que les apôtres ont vu et touché était auprès du Père avant de se manifester. Personne n'est auprès de soi-même. C'est ce que Jean avait écrit au début de son Évangile : <em>« le Verbe était auprès de Dieu, et le Verbe était Dieu »</em> (Jn 1, 1). Et Jésus le dit avec ses propres mots la nuit avant de mourir :</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Jean 17, 5</span>
+                    <blockquote>«Et maintenant, glorifie-moi auprès de toi, Père, <strong class="s-hi">de la gloire que j'avais auprès de toi avant que le monde existe</strong>.»</blockquote>
+                </div>
+                <p>Jésus demande au Père la gloire qu'il avait auprès de lui avant la création. Si le Fils avait commencé à Bethléem, il n'aurait aucune gloire antérieure à réclamer, ni personne auprès de qui il l'aurait eue. Dans la même prière il insiste : <em>« tu m'as aimé avant la fondation du monde »</em> (Jn 17, 24). Avant le monde, il y avait un qui aimait et un autre qui était aimé.</p>
+                <h2>Deux témoins<br>Jean 8, 16-18</h2>
+                <p>Face aux pharisiens, Jésus invoque la Loi de Moïse, qui n'acceptait pas un seul témoin (Dt 19, 15).</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Jean 8, 16-18</span>
+                    <blockquote>«Et, s'il m'arrive de juger, mon jugement est vrai parce que <strong class="s-hi">je ne suis pas seul : j'ai avec moi le Père qui m'a envoyé</strong>. Or, il est écrit dans votre Loi que, <strong>s'il y a deux témoins, c'est un témoignage vrai</strong>. Moi, je suis à moi-même mon propre témoin, et le Père, qui m'a envoyé, témoigne aussi pour moi.»</blockquote>
+                </div>
+                <p>Jésus présente deux témoins : lui-même et le Père. S'ils étaient une seule personne avec deux noms, il ferait passer un témoin pour deux, et son argument devant les pharisiens serait une tromperie. Jésus en compte deux. Les pentecôtistes unis en comptent un.</p>
+                <p>Les versets qu'ils citent disent la même chose quand on les lit en entier. <em>« Le Père et moi, nous sommes UN »</em> (Jn 10, 30) : « nous sommes » est au pluriel, et ce qui est un, c'est l'être, pas la personne. <em>« Celui qui m'a vu a vu le Père »</em> (Jn 14, 9), et juste après : <em>« je suis dans le Père, et le Père est en moi »</em> (Jn 14, 11). Pour être l'un dans l'autre, il faut être deux.</p>
+                <h2>Un autre Défenseur<br>Jean 14, 16-17</h2>
+                <p>Sur l'Esprit Saint, la parole décisive est dite par Jésus à la dernière Cène.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Jean 14, 16-17</span>
+                    <blockquote>«Moi, je prierai le Père, et il vous donnera <strong class="s-hi">un autre Défenseur</strong> qui sera pour toujours avec vous : <strong>l'Esprit de vérité</strong>, lui que le monde ne peut recevoir, car il ne le voit pas et ne le connaît pas ; vous, vous le connaissez, car il demeure auprès de vous, et il sera en vous.»</blockquote>
+                </div>
+                <p>Le Fils prie, le Père donne, et ce qu'il donne, c'est un autre Défenseur. Le Paraclet est celui qui accompagne et qui défend ; Jésus l'avait été pour ses disciples pendant trois ans, et maintenant il en annonce un autre. Si l'Esprit Saint était Jésus sous un autre nom, il ne serait pas un autre. Dans les chapitres suivants, chacun apparaît avec ce qui lui est propre : l'Esprit Saint est celui <em>« que le Père enverra en mon nom »</em> (Jn 14, 26), et <em>« il ne parlera pas de lui-même : mais ce qu'il entend, il le dira »</em> (Jn 16, 13).</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Jean 15, 26</span>
+                    <blockquote>«Quand viendra <strong class="s-hi">le Défenseur, que je vous enverrai d'auprès du Père</strong>, lui, l'Esprit de vérité qui procède du Père, <strong>il rendra témoignage en ma faveur</strong>.»</blockquote>
+                </div>
+                <p>En un seul verset, le Fils envoie, l'Esprit procède du Père et l'Esprit rend témoignage au Fils. Ce sont trois sujets dans une phrase, et aucun n'est un titre d'un autre. Celui qui entend, parle, est envoyé et rend témoignage n'est ni une force ni un mode. C'est quelqu'un.</p>
+                <h2>Au nom du Père, du Fils et du Saint-Esprit<br>Matthieu 28, 19</h2>
+                <p>Reste le baptême. Les pentecôtistes unis rejettent la formule trinitaire et baptisent « au nom de Jésus », en s'appuyant sur des passages comme celui-ci :</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Actes 19, 2-5</span>
+                    <blockquote>«Il leur demanda : « <strong class="s-hi">Lorsque vous êtes devenus croyants, avez-vous reçu l'Esprit Saint ?</strong> » Ils lui répondirent : « <strong>Nous n'avons même pas entendu dire qu'il y a un Esprit Saint.</strong> » Paul reprit : « Quel baptême avez-vous donc reçu ? » Ils répondirent : « Le baptême de Jean. » Paul dit alors : « Jean a donné un baptême de conversion : il disait au peuple de croire en celui qui devait venir après lui, c'est-à-dire en Jésus. » Ils l'écoutèrent et reçurent le baptême au nom du Seigneur Jésus.»</blockquote>
+                </div>
+                <p>Le passage sert à l'inverse. La première chose que demande Paul, c'est s'ils ont reçu l'Esprit Saint. Quand ils répondent qu'ils ne savent même pas qu'il existe, il comprend que le baptême qu'ils ont reçu n'est pas le baptême chrétien, et il demande lequel : celui de Jean. « Au nom du Seigneur Jésus » est ce qui distingue un baptême de l'autre. Luc ne transcrit pas les paroles prononcées sur l'eau. Ces paroles, c'est Jésus qui les a données :</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝ Matthieu 28, 19</span>
-                    <blockquote>«<strong class="s-hi">Au nom du Père, et du Fils, et du Saint-Esprit</strong>»</blockquote>
-                </div><h2>Action commune</h2><p>Le Père envoie le Fils, le Fils rachète, et l'Esprit sanctifie. Cette action conjointe montre que le salut est l'œuvre de la Trinité tout entière.</p><ul><li>Dieu est amour communionnel.</li><li>La Trinité est le fondement de la vie chrétienne dans l'Église.</li><li>La présence de Dieu se révèle dans l'histoire comme relation.</li></ul><h2>Implications pour la vie</h2><p>La doctrine trinitaire nous invite à vivre dans la communion, la transparence et le service. Nous sommes créés à l'image d'un Dieu qui est communauté.</p>`,
+                    <blockquote>«Allez ! De toutes les nations faites des disciples : baptisez-les <strong class="s-hi">au nom du Père, et du Fils, et du Saint-Esprit</strong>…»</blockquote>
+                </div>
+                <p>« Au nom », au singulier, et ensuite trois. Un seul nom, parce que Dieu est un. Trois nommés, parce qu'ils sont trois. C'est la formule que l'Église a reçue de Jésus et avec laquelle elle baptise jusqu'à aujourd'hui.</p>
+                <h2>Les trois dans la salutation des apôtres<br>2 Corinthiens 13, 13</h2>
+                <p>Paul termine sa deuxième lettre aux Corinthiens par cette bénédiction.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 2 Corinthiens 13, 13</span>
+                    <blockquote>«<strong class="s-hi">La grâce du Seigneur Jésus Christ, l'amour de Dieu et la communion du Saint-Esprit</strong> soient avec vous tous.»</blockquote>
+                </div>
+                <p>Les trois, l'un à côté de l'autre, chacun avec ce qu'il donne. Ce n'est pas une phrase isolée. Dans la première lettre aux Corinthiens, les dons viennent du <em>« même Esprit »</em>, les services du <em>« même Seigneur »</em> et les activités du <em>« même Dieu »</em> (1 Co 12, 4-6). Aux Éphésiens il écrit : <em>« un seul Esprit… un seul Seigneur… un seul Dieu et Père de tous »</em> (Ep 4, 4-6). Et Pierre ouvre sa première lettre de la même façon : <em>« selon la prescience de Dieu le Père, par l'Esprit qui sanctifie, pour obéir à Jésus Christ »</em> (1 P 1, 2). Les apôtres nommaient les trois dès la salutation.</p>
+                <ul>
+                    <li>Au Jourdain, le Fils, l'Esprit et le Père apparaissent en même temps, et le Père parle au Fils.</li>
+                    <li>Le Fils était auprès du Père et avait la gloire auprès de lui avant que le monde existe.</li>
+                    <li>Jésus présente le Père et lui-même comme deux témoins.</li>
+                    <li>L'Esprit Saint est un autre Défenseur : il entend, parle, est envoyé et rend témoignage.</li>
+                    <li>Jésus a ordonné de baptiser en un seul nom, celui du Père, et du Fils, et du Saint-Esprit.</li>
+                </ul>
+                <h2>Conclusion</h2>
+                <p>Les pentecôtistes unis ont raison dans ce qu'ils affirment : Dieu est un seul, et Jésus est Dieu. Ils se trompent dans ce qu'ils nient. Pour soutenir que Père, Fils et Saint-Esprit sont une seule personne avec trois titres, il faut lire le baptême au Jourdain comme une scène à un seul personnage, la prière de Jean 17 comme un homme qui se parle à lui-même, et le témoignage de Jean 8 comme un témoin compté deux fois. Aucun autre passage de l'Écriture ne se lit ainsi.</p>
+                <p>La Trinité reste un mystère, et l'Écriture ne l'explique pas. Elle le raconte, depuis le premier chapitre de la Genèse jusqu'à la salutation des lettres. Au Jourdain, le Fils sortait de l'eau, l'Esprit descendait sur lui et le Père parlait du ciel.</p>`,
       nav: { prevTitle: "La loi nouvelle dans le Christ", nextTitle: "Pourquoi nous croyons en la foi catholique" }
     },
     "los-santos": {
@@ -569,7 +656,9 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
       { ref: "Mt 16, 18", text: "Tu es Pierre, et sur cette pierre je bâtirai mon Église." },
       { ref: "Is 1, 18", text: "Si vos péchés sont comme le cramoisi, ils deviendront blancs comme la neige." },
       { ref: "Lc 22, 32", text: "Mais j'ai prié pour toi, afin que ta foi ne défaille point ; et toi, quand tu seras converti, affermis tes frères." },
-      { ref: "2 Pi 1, 20", text: "Aucune prophétie de l'Écriture ne peut être l'objet d'interprétation particulière." }
+      { ref: "2 Pi 1, 20", text: "Aucune prophétie de l'Écriture ne peut être l'objet d'interprétation particulière." },
+      { ref: "Jc 2, 17", text: "Ainsi donc, la foi, si elle n'est pas mise en œuvre, est bel et bien morte." },
+      { ref: "Jc 2, 20", text: "Homme superficiel, veux-tu reconnaître que la foi sans les œuvres ne sert à rien ?" }
     ]
   },
   lang: { soon: "Bientôt" },

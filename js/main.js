@@ -375,7 +375,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function startCycle() {
       clearInterval(quoteTimer);
-      quoteTimer = setInterval(cycleQuote, 7000);
+      quoteTimer = setInterval(cycleQuote, 11000);
     }
 
     document.addEventListener('langChange', (e) => {

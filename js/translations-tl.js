@@ -64,10 +64,10 @@ const translationsTL = {
   },
   article6: {
     category: "Doktrina",
-    date: "Paparating na",
+    date: "Setyembre 2026",
     title: "Ang Banal na Santatlo",
-    excerpt: "Pag-unawa sa sentral na misteryo ng pananampalatayang Katoliko sa pamamagitan ng teolohiya at dahilan.",
-    time: "10 minuto",
+    excerpt: "Tatlong Persona at iisang Diyos: ang sagot ng Kasulatan sa mga United Pentecostal, bawat talata.",
+    time: "11 minuto",
     link: "Basahin →"
   },
   article7: {
@@ -403,28 +403,103 @@ const translationsTL = {
                 <span class="eyebrow-text">Espesyal na Paksa</span>
             </div>
             <h1>Ang Banal na Santatlo</h1>
-            <p>Unawain ang Santatlo bilang misteryo ng pagkakaisa at pagmamahal: Ama, Anak, at Espiritu Santo na nagtatrabaho nang magkasama sa kasaysayan ng kaligtasan.</p>
+            <p>Iisang Diyos sa tatlong Persona. Laban sa paniniwalang ang Ama, Anak at Espiritu Santo ay tatlong titulo ng iisang persona, ang sinasabi ng Kasulatan, bawat talata.</p>
             <div class="article-meta">
-                <span>10 minutong pagbabasa</span>
-                <span>Nailathala Mayo 2026</span>
+                <span>11 minutong pagbabasa</span>
+                <span>Nailathala Setyembre 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
-      article: `<p>Ang Santatlo ay ang sentral na misteryo ng Kristiyanong pananampalataya. Ang Diyos ay isang nilalang sa tatlong Persona: Ama, Anak, at Espiritu Santo, sa ganap na pagkakaisa at komunyon.</p>
-                <h2>Pagkakaisa at pagkakaiba</h2>
-                <p>Ang bawat banal na Persona ay ganap na Diyos, ngunit hindi sila tatlong magkakahiwalay na diyos. Ang Kristiyanismo ay nagpapahayag ng isang Diyos sa isang walang hanggang relasyon ng pagmamahal.</p>
+      article: `<p>May isang pagtutol laban sa Santísima Trinidad na naririnig sa loob ng mundong Pentecostal, at hindi ito pagtutol ng lahat ng Pentecostal: ang Assemblies of God at ang karamihan ng mga simbahang Pentecostal ay nagpapahayag ng Trinidad. Ito ay sa mga United Pentecostal, na tinatawag ang sarili na Oneness o «Jesus lamang»: <em>«Iisa lamang ang Diyos, hindi tatlong persona. Ang Ama, Anak at Espiritu Santo ay mga titulo, mga paraan kung paano nagpakilala ang iisang Diyos. Ang Ama ay si Jesus, at ang Espiritu Santo ay ang Espiritu ni Jesus. Kaya't nagbibinyag lamang kami sa pangalan ni Jesus.»</em></p>
+                <p>Ang Trinidad ay isang misteryo: iisang Diyos sa tatlong Persona. Walang nakauunawa rito nang lubusan, at hindi kailanman hiniling ng Simbahan na unawain muna ito bago paniwalaan. Ang hinihiling niya ay paniwalaan ang sinasabi ng Diyos tungkol sa kanyang sarili, sapagkat hindi sapat ang maniwala na may iisang Diyos. Ganito ito sinabi ni Santiago: <em><strong>«Naniniwala ka bang iisa ang Diyos? Mabuti! Ngunit maging ang mga demonyo ay naniniwala rin, at nanginginig pa!»</strong></em> (Sant 2:19). At ang sinasabi ng Diyos tungkol sa kanyang sarili ay nakasulat nang may gayong pagpupumilit na nauunawaan ito sa pagbasa. Kaya't ang paksang ito ay may higit na mga sipi kaysa mga paliwanag.</p>
+                <h2>«Lalangin natin»: ang maramihan sa simula<br>Genesis 1:26</h2>
+                <p>Ang unang tanda ay nasa unang pahina ng Biblia.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Genesis 1:26</span>
+                    <blockquote>«Pagkatapos ay sinabi ng Diyos: «<strong class="s-hi">Lalangin natin ang tao ayon sa ating larawan, ayon sa ating wangis</strong>. Sila ang mamamahala sa mga isda, sa mga ibon, sa mga hayop, sa buong lupa at sa lahat ng gumagapang na hayop sa lupa.»»</blockquote>
+                </div>
+                <p>Nagsasalita ang Diyos sa anyong maramihan, at walang iba sa tagpo. Hindi ito ang mga anghel: hindi lumilikha ang mga anghel, at ang tao ay nilikha ayon sa larawan ng Diyos, hindi ng mga anghel. Ang sumunod na talata ay bumabalik sa isahan: <em>«Nilalang nga ng Diyos ang tao ayon sa kanyang larawan»</em> (Gen 1:27). Iisa na nagsasabing «natin». Ang talatang ito, kung nag-iisa, ay hindi nagpapatunay ng Trinidad, at hindi ito ginagamit ng Simbahan nang ganoon. Ito ay isang pahiwatig na lilinawin ng natitirang bahagi ng Kasulatan.</p>
+                <h2>Ang Una at ang Huli, isinugo<br>Isaias 48:16</h2>
+                <p>Sa Isaias 48 ang Diyos ang nagsasalita, at nagpapakilala siya sa isang titulong walang ibang maaaring magdala: <em>«Ako ang Diyos, ako ang una at ang huli»</em> (Is 48:12). Siya ang naglagay ng saligan ng lupa at naglatag ng kalangitan. Pagkaraan ng apat na talata, ito ang sinasabi ng nagsasalita:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Isaias 48:16</span>
+                    <blockquote>«Lumapit kayo sa akin at pakinggan ito: mula sa simula ay hindi ako nagsalita nang lihim; mula nang mangyari ito, naroon na ako. <strong class="s-hi">At ngayon ay isinugo ako ng Panginoong Diyos at ng kanyang Espiritu.</strong>»</blockquote>
+                </div>
+                <p>Ang naroon na mula sa simula ay isinugo, at ang nagsusugo sa kanya ay ang Panginoong Diyos at ang kanyang Espiritu. Sa iisang bahagi ng Lumang Tipan ay magkakasamang lumilitaw ang nagsusugo, ang isinugo at ang Espiritu. Makalipas ang maraming siglo, inilagay ng Pahayag ang titulo ring iyon sa bibig ni Jesus: <em>«Ako ang Una at ang Huli, at ang Nabubuhay. Ako'y namatay, ngunit ngayo'y buháy magpakailanman»</em> (Pah 1:17-18).</p>
+                <h2>Ang tatlo sa Jordan<br>Marcos 1:10-11</h2>
+                <p>Sa pagbibinyag kay Jesus, nawawalan ng lugar ang pagtutol tungkol sa mga titulo.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Marcos 1:10-11</span>
+                    <blockquote>«Pagkaahon ni Jesus sa tubig, nakita niyang nabuksan ang langit at <strong class="s-hi">bumababa sa kanya ang Espiritu</strong> na gaya ng isang kalapati. At <strong>may tinig na nagmula sa langit</strong>: «<strong class="s-hi">Ikaw ang minamahal kong Anak</strong>; lubos kitang kinalulugdan.»»</blockquote>
+                </div>
+                <p>Umaahon ang Anak mula sa tubig, bumababa sa kanya ang Espiritu at nagsasalita ang Ama mula sa langit, sa iisang sandali. Kung ang mga ito ay tatlong paraan ng pagpapakita ng iisang persona, ang personang iyon ay sabay na nasa tubig, bumababa sa kanyang sarili at kinakausap ang kanyang sarili mula sa itaas. Isinalaysay din ni Mateo ang tagpong ito (Mt 3:16-17). Walang nagsasabi ng «ikaw» sa kanyang sarili mula sa langit.</p>
+                <h2>Kinakausap ng Ama ang Anak<br>Hebreo 1:5</h2>
+                <p>Binabalikan ng Sulat sa mga Hebreo ang tinig na iyon upang ipakita na ang Anak ay higit sa mga anghel.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Hebreo 1:5</span>
+                    <blockquote>«Sapagkat kailanma'y hindi sinabi ng Diyos sa sinumang anghel: «<strong class="s-hi">Ikaw ang aking Anak, ngayon ay naging Ama mo ako</strong>». At hindi rin niya sinabi sa sinumang anghel: «<strong>Ako'y magiging Ama niya, at siya'y magiging Anak ko</strong>».»</blockquote>
+                </div>
+                <p>Ang isa ay nagsasalita at ang isa ay kinakausap. At tatlong talata pababa, tinatawag ng Ama na Diyos ang Anak: <em>«Ngunit sa Anak ay sinabi niya: Ang trono mo, O Diyos, ay magpakailanman»</em> (Heb 1:8). Ang Anak ay Diyos, at ang Ama, na kumakausap sa kanya, ay hindi siya.</p>
+                <h2>Kasama ng Ama, bago ang sanlibutan<br>Juan 17:5</h2>
+                <p>Para sa mga United Pentecostal, nagsimula ang Anak sa Betlehem: ang «Anak» daw ay pangalan ng pagkatao ni Jesus, at ang «Ama» ay pangalan ng Diyos na nananahan dito. Sinasagot ito ni Juan sa kanyang unang sulat.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Juan 1:2-3</span>
+                    <blockquote>«Nahayag ang buhay na ito, at nakita namin ito; kaya't nagpapatotoo kami at ipinahahayag namin sa inyo <strong class="s-hi">ang buhay na walang hanggan na kasama ng Ama</strong> at nahayag sa amin. Ang nakita at narinig namin ay ipinahahayag namin sa inyo upang kayo'y makasama namin sa pakikipag-isa. At ang pakikipag-isa namin ay <strong>sa Ama at sa kanyang Anak na si Jesu-Cristo</strong>.»</blockquote>
+                </div>
+                <p>Ang nakita at nahipo ng mga apostol ay kasama ng Ama bago ito nahayag. Walang taong kasama ng kanyang sarili. Ito ang isinulat ni Juan sa simula ng kanyang Ebanghelyo: <em>«ang Salita ay kasama ng Diyos, at ang Salita ay Diyos»</em> (Jn 1:1). At sinabi ito ni Jesus sa sarili niyang mga salita noong gabi bago siya namatay:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Juan 17:5</span>
+                    <blockquote>«Kaya ngayon, Ama, luwalhatiin mo ako sa iyong harapan <strong class="s-hi">ng kaluwalhatiang taglay ko sa piling mo bago pa likhain ang sanlibutan</strong>.»</blockquote>
+                </div>
+                <p>Hinihingi ni Jesus sa Ama ang kaluwalhatiang taglay niya sa piling nito bago ang paglikha. Kung nagsimula ang Anak sa Betlehem, wala siyang naunang kaluwalhatiang maaaring hingin, at walang sinumang kasama niya roon. Sa parehong panalangin ay iginigiit niya: <em>«minahal mo na ako bago pa likhain ang sanlibutan»</em> (Jn 17:24). Bago ang sanlibutan ay may isang nagmamahal at isa pang minamahal.</p>
+                <h2>Dalawang saksi<br>Juan 8:16-18</h2>
+                <p>Sa pakikipagtalo sa mga Pariseo, binanggit ni Jesus ang Kautusan ni Moises, na hindi tumatanggap ng iisang saksi lamang (Deut 19:15).</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Juan 8:16-18</span>
+                    <blockquote>«Ngunit kung ako man ay humatol, tama ang aking paghatol, sapagkat <strong class="s-hi">hindi ako nag-iisa; kasama ko ang Amang nagsugo sa akin</strong>. Nasusulat sa inyong Kautusan na <strong>kapag nagkaisa ang patotoo ng dalawang saksi, ito'y totoo</strong>. Ako'y nagpapatotoo tungkol sa aking sarili, at nagpapatotoo rin tungkol sa akin ang Amang nagsugo sa akin.»</blockquote>
+                </div>
+                <p>Naghaharap si Jesus ng dalawang saksi: ang kanyang sarili at ang Ama. Kung sila'y iisang persona na may dalawang pangalan, ipinapasa niya ang isang saksi bilang dalawa, at ang kanyang argumento sa harap ng mga Pariseo ay isang panlilinlang. Dalawa ang binibilang ni Jesus. Isa ang binibilang ng mga United Pentecostal.</p>
+                <p>Ang mga talatang sila mismo ang sumisipi ay nagsasabi ng gayon din kapag binasa nang buo. <em>«Ako at ang Ama ay iisa»</em> (Jn 10:30): «kami» ang nagsasalita, dalawa, at ang iisa ay ang pagka-Diyos, hindi ang persona. <em>«Ang nakakita sa akin ay nakakita na sa Ama»</em> (Jn 14:9), at kasunod agad: <em>«ako'y nasa Ama at ang Ama ay nasa akin»</em> (Jn 14:11). Upang ang isa ay nasa isa pa, kailangang dalawa sila.</p>
+                <h2>Ibang Tagapagtanggol<br>Juan 14:16-17</h2>
+                <p>Tungkol sa Espiritu Santo, ang mapagpasyang salita ay sinabi ni Jesus sa Huling Hapunan.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Juan 14:16-17</span>
+                    <blockquote>«Hihilingin ko sa Ama, at bibigyan niya kayo ng <strong class="s-hi">ibang Tagapagtanggol</strong> na sasainyo magpakailanman. Siya ang <strong>Espiritu ng katotohanan</strong>, na hindi matanggap ng sanlibutan, sapagkat hindi siya nakikita ni nakikilala nito. Ngunit siya'y nakikilala ninyo, sapagkat siya'y nananahan sa inyo at sasainyo.»</blockquote>
+                </div>
+                <p>Nananalangin ang Anak, nagbibigay ang Ama, at ang ibinibigay niya ay ibang Tagapagtanggol. Ang Paraclito ay ang sumasama at nagtatanggol; ganoon si Jesus sa kanyang mga alagad sa loob ng tatlong taon, at ngayon ay nagpapahayag siya ng iba. Kung ang Espiritu Santo ay si Jesus sa ibang pangalan, hindi siya magiging iba. Sa mga sumunod na kabanata, bawat isa ay lumilitaw kasama ang sariling kanya: ang Espiritu Santo ay ang <em>«isusugo ng Ama sa pangalan ko»</em> (Jn 14:26), at <em>«hindi siya magsasalita nang mula sa kanyang sarili, kundi sasabihin niya ang kanyang narinig»</em> (Jn 16:13).</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Juan 15:26</span>
+                    <blockquote>«Pagdating ng <strong class="s-hi">Tagapagtanggol na isusugo ko sa inyo mula sa Ama</strong>, ang Espiritu ng katotohanan na nagmumula sa Ama, <strong>siya ang magpapatotoo tungkol sa akin</strong>.»</blockquote>
+                </div>
+                <p>Sa iisang talata, nagsusugo ang Anak, nagmumula sa Ama ang Espiritu at nagpapatotoo ang Espiritu tungkol sa Anak. Tatlong gumaganap sa iisang pangungusap, at walang isa man sa kanila ang titulo ng iba. Ang nakaririnig, nagsasalita, isinusugo at nagpapatotoo ay hindi isang puwersa o isang paraan. Siya ay isang persona.</p>
+                <h2>Sa ngalan ng Ama, ng Anak at ng Espiritu Santo<br>Mateo 28:19</h2>
+                <p>Natitira ang binyag. Tinatanggihan ng mga United Pentecostal ang pormulang trinitaryo at nagbibinyag sila «sa pangalan ni Jesus», batay sa mga talatang tulad nito:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mga Gawa 19:2-5</span>
+                    <blockquote>«at tinanong sila: «<strong class="s-hi">Tinanggap ba ninyo ang Espiritu Santo nang kayo'y sumampalataya?</strong>» Sumagot sila: «<strong>Hindi man lang namin nabalitaan na may Espiritu Santo.</strong>» «Kung gayon, anong binyag ang tinanggap ninyo?» tanong ni Pablo. «Ang binyag ni Juan», sagot nila. Sinabi ni Pablo: «Ang binyag ni Juan ay binyag ng pagsisisi; sinabi niya sa mga tao na manalig sa darating pagkatapos niya, samakatuwid ay kay Jesus.» Nang marinig nila ito, sila'y binyagan sa pangalan ng Panginoong Jesus.»</blockquote>
+                </div>
+                <p>Ang talata ay nagpapatunay ng kabaligtaran. Ang unang itinanong ni Pablo ay kung tinanggap nila ang Espiritu Santo. Nang sumagot silang hindi man lang nila alam na mayroon nito, naunawaan niyang ang binyag na nasa kanila ay hindi ang binyag Kristiyano, at itinanong niya kung aling binyag ang tinanggap nila: ang kay Juan. Ang «sa pangalan ng Panginoong Jesus» ang naghihiwalay sa isang binyag at sa isa pa. Hindi isinusulat ni Lucas ang mga salitang binibigkas sa tubig. Ang mga salitang iyon ay ibinigay ni Jesus:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝ Mateo 28:19</span>
-                    <blockquote>«<strong class="s-hi">Sa ngalan ng Ama, at ng Anak, at ng Espiritu Santo</strong>»</blockquote>
+                    <blockquote>«Kaya't humayo kayo at gawin ninyong alagad ko ang lahat ng bansa. Binyagan ninyo sila <strong class="s-hi">sa ngalan ng Ama, ng Anak, at ng Espiritu Santo</strong>…»</blockquote>
                 </div>
-                <h2>Karaniwang kilos</h2>
-                <p>Ipinapadala ng Ama ang Anak, tinutubos ng Anak, at pinagbabanal ng Espiritu. Ang magkasamang kilos na ito ay nagpapakita na ang kaligtasan ay gawa ng buong Santatlo.</p>
+                <p>«Sa ngalan», isahan, at pagkatapos ay tatlo. Iisang pangalan, sapagkat iisa ang Diyos. Tatlong binanggit, sapagkat sila'y tatlo. Ito ang pormulang tinanggap ng Simbahan mula kay Jesus at ginagamit niya sa pagbibinyag hanggang ngayon.</p>
+                <h2>Ang tatlo sa pagbati ng mga apostol<br>2 Corinto 13:13</h2>
+                <p>Tinapos ni Pablo ang kanyang ikalawang sulat sa mga taga-Corinto sa ganitong pagpapala.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 2 Corinto 13:13</span>
+                    <blockquote>«<strong class="s-hi">Ang biyaya ng Panginoong Jesu-Cristo, ang pag-ibig ng Diyos, at ang pakikipag-isa ng Espiritu Santo</strong> ay sumainyo nawang lahat.»</blockquote>
+                </div>
+                <p>Ang tatlo, magkakatabi, bawat isa kasama ang kanyang ibinibigay. Hindi ito isang nag-iisang pangungusap. Sa unang sulat sa mga taga-Corinto, ang mga kaloob ay mula sa <em>«iisang Espiritu»</em>, ang mga paglilingkod ay sa <em>«iisang Panginoon»</em> at ang mga gawain ay sa <em>«iisang Diyos»</em> (1 Cor 12:4-6). Sa mga taga-Efeso ay isinulat niya: <em>«iisang Espiritu… iisang Panginoon… iisang Diyos at Ama ng lahat»</em> (Ef 4:4-6). At binuksan ni Pedro ang kanyang unang sulat sa ganito ring paraan: <em>«ayon sa panukala ng Diyos Ama, at pinabanal ng Espiritu upang sumunod kay Jesu-Cristo»</em> (1 Ped 1:2). Binabanggit na ng mga apostol ang tatlo sa kanilang pagbati.</p>
                 <ul>
-                    <li>Ang Diyos ay komunal na pagmamahal.</li>
-                    <li>Ang Santatlo ay pundasyon ng buhay Kristiyano sa Simbahan.</li>
-                    <li>Ang presensya ng Diyos ay nahahayag sa kasaysayan bilang relasyon.</li>
+                    <li>Sa Jordan, sabay na lumitaw ang Anak, ang Espiritu at ang Ama, at kinausap ng Ama ang Anak.</li>
+                    <li>Ang Anak ay kasama ng Ama at may kaluwalhatian sa piling niya bago pa umiral ang sanlibutan.</li>
+                    <li>Iniharap ni Jesus ang Ama at ang kanyang sarili bilang dalawang saksi.</li>
+                    <li>Ang Espiritu Santo ay ibang Tagapagtanggol: nakaririnig, nagsasalita, isinusugo at nagpapatotoo.</li>
+                    <li>Iniutos ni Jesus na magbinyag sa iisang pangalan, ang sa Ama, sa Anak at sa Espiritu Santo.</li>
                 </ul>
-                <h2>Mga implikasyon para sa buhay</h2>
-                <p>Ang doktrina ng Santatlo ay nagaanyaya sa atin na mamuhay sa komunyon, transparency, at serbisyo. Tayo ay ginawa ayon sa larawan ng isang Diyos na komunidad.</p>`,
+                <h2>Konklusyon</h2>
+                <p>Tama ang mga United Pentecostal sa kanilang pinaninindigan: iisa ang Diyos, at si Jesus ay Diyos. Mali sila sa kanilang itinatanggi. Upang panindigan na ang Ama, Anak at Espiritu Santo ay iisang persona na may tatlong titulo, kailangang basahin ang binyag sa Jordan bilang isang tagpong may iisang tauhan, ang panalangin sa Juan 17 bilang isang taong kumakausap sa sarili, at ang patotoo sa Juan 8 bilang isang saksing dalawang beses binilang. Walang ibang bahagi ng Kasulatan ang binabasa nang ganoon.</p>
+                <p>Ang Trinidad ay nananatiling misteryo, at hindi ito ipinaliliwanag ng Kasulatan. Isinasalaysay niya ito, mula sa unang kabanata ng Genesis hanggang sa pagbati ng mga sulat. Sa Jordan, umaahon ang Anak mula sa tubig, bumababa sa kanya ang Espiritu at nagsasalita ang Ama mula sa langit.</p>`,
       nav: {
         prevTitle: "Ang Bagong Kautusan kay Kristo",
         nextTitle: "Bakit Tayo Naniniwala sa Pananampalatayang Katoliko"
@@ -916,7 +991,9 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
       { ref: "Mt 16:18",   text: "Ikaw ay Pedro, at sa ibabaw ng batong ito ay itatayo ko ang aking iglesya." },
       { ref: "Is 1:18",    text: "Gaano man kapula ang inyong mga kasalanan, kayo'y aking papuputiin, tulad ng yelo." },
       { ref: "Lk 22:32",   text: "Subalit idinalangin kita upang huwag manghina ang iyong pananampalataya. At kapag nagbalik-loob ka na, patatagin mo ang iyong mga kapatid." },
-      { ref: "2 Ped 1:20", text: "Walang anumang hula ng Kasulatan ang maaaring bigyan ng sariling kahulugan." }
+      { ref: "2 Ped 1:20", text: "Walang anumang hula ng Kasulatan ang maaaring bigyan ng sariling kahulugan." },
+      { ref: "Sant 2:17", text: "Gayundin naman, ang pananampalatayang hindi sinasamahan ng gawa ay patay." },
+      { ref: "Sant 2:20", text: "Hangal! Gusto mo bang patunayan ko sa iyo na walang kabuluhan ang pananampalatayang walang kasamang gawa?" }
     ]
   },
   lang: {

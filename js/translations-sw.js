@@ -38,7 +38,7 @@ const translationsSW = {
     category: "Mafundisho", date: "Agosti 2026", title: "Watakatifu", excerpt: "Umuhimu wa watakatifu katika Kanisa Katoliki na maombezi yao kwa ajili yetu.", time: "Dakika 12 kusoma", link: "Soma →"
   },
   article6: {
-    category: "Mafundisho", date: "Hivi karibuni", title: "Utatu Mtakatifu", excerpt: "Kuelewa fumbo kuu la imani ya Kikatoliki kupitia theolojia na akili.", time: "Dakika 10 kusoma", link: "Soma →"
+    category: "Mafundisho", date: "Septemba 2026", title: "Utatu Mtakatifu", excerpt: "Nafsi tatu na Mungu mmoja: jibu la Maandiko kwa Wapentekoste wa Muungano, kifungu kwa kifungu.", time: "Dakika 11 kusoma", link: "Soma →"
   },
   article7: {
     category: "Mafundisho", date: "Hivi karibuni", title: "Toharani", excerpt: "Utakaso wa mwisho kabla ya kuingia mbele ya Mungu.", time: "Dakika 6 kusoma", link: "Soma →"
@@ -215,11 +215,98 @@ const translationsSW = {
     },
     "la-santisima-trinidad": {
       pageTitle: "Utatu Mtakatifu | Imani na Akili",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Utatu Mtakatifu</h1><p>Kuelewa Utatu kama fumbo la umoja na upendo: Baba, Mwana na Roho Mtakatifu wakifanya kazi pamoja katika historia ya wokovu.</p><div class="article-meta"><span>Dakika 10 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
-      article: `<p>Utatu ni fumbo kuu la imani ya Kikristo. Mungu ni kiumbe mmoja katika Nafsi tatu: Baba, Mwana na Roho Mtakatifu, katika umoja na ushirika kamili.</p><h2>Umoja na utofauti</h2><p>Kila Nafsi ya kimungu ni Mungu kamili, lakini sio miungu mitatu tofauti. Ukristo unakiri Mungu mmoja katika uhusiano wa upendo wa milele.</p><div class="scripture-block">
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Utatu Mtakatifu</h1><p>Mungu mmoja katika Nafsi tatu. Dhidi ya wazo kwamba Baba, Mwana na Roho Mtakatifu ni vyeo vitatu vya nafsi moja, yale yanayosemwa na Maandiko, kifungu kwa kifungu.</p><div class="article-meta"><span>Dakika 11 kusoma</span><span>Imechapishwa Septemba 2026</span></div><a href="index.html#temas" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      article: `<p>Kuna pingamizi dhidi ya Utatu Mtakatifu linalosikika ndani ya ulimwengu wa Kipentekoste, na si pingamizi la Wapentekoste wote: Assemblies of God na makanisa mengi ya Kipentekoste yanaukiri Utatu. Ni la Wapentekoste wa Muungano (United Pentecostal), wanaojiita wa «Umoja» au wa «Yesu peke yake»: <em>«Mungu ni mmoja tu, si nafsi tatu. Baba, Mwana na Roho Mtakatifu ni vyeo, njia ambazo Mungu yule yule amejidhihirisha. Baba ni Yesu, na Roho Mtakatifu ni Roho wa Yesu. Ndiyo sababu tunabatiza kwa jina la Yesu peke yake.»</em></p>
+                <p>Utatu ni fumbo: Mungu mmoja katika Nafsi tatu. Hakuna anayeuelewa kikamilifu, na Kanisa halijawahi kudai kwamba uelewe kwanza ndipo uamini. Linachodai ni kumwamini Mungu kwa yale anayosema juu yake mwenyewe, kwa sababu kuamini kwamba kuna Mungu mmoja hakutoshi. Yakobo anasema hivi: <em><strong>«Wewe unaamini kwamba Mungu ni mmoja; wafanya vema. Hata mashetani nao wanaamini, na kutetemeka.»</strong></em> (Yak 2:19). Na yale ambayo Mungu anasema juu yake mwenyewe yameandikwa kwa msisitizo mkubwa kiasi kwamba yanaeleweka kwa kuyasoma. Ndiyo sababu mada hii ina manukuu mengi kuliko maelezo.</p>
+                <h2>«Na tumfanye»: wingi wa mwanzo<br>Mwanzo 1:26</h2>
+                <p>Ishara ya kwanza iko katika ukurasa wa kwanza wa Biblia.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mwanzo 1:26</span>
+                    <blockquote>«Mungu akasema, «<strong class="s-hi">Na tumfanye mtu kwa mfano wetu, kwa sura yetu</strong>; wakatawale samaki wa baharini, na ndege wa angani, na wanyama, na nchi yote pia, na kila chenye kutambaa kitambaacho juu ya nchi.»»</blockquote>
+                </div>
+                <p>Mungu anasema kwa wingi, na hakuna mwingine katika tukio hilo. Si malaika: malaika hawaumbi, na mtu anaumbwa kwa mfano wa Mungu, si wa malaika. Mstari unaofuata unarudi kwa umoja: <em>«Mungu akaumba mtu kwa mfano wake»</em> (Mwa 1:27). Mmoja anayesema «sisi». Mstari huu peke yake haudhibitishi Utatu, na Kanisa haliutumii hivyo. Ni tangazo ambalo Maandiko yaliyobaki yatalifafanua.</p>
+                <h2>Wa Kwanza na wa Mwisho, aliyetumwa<br>Isaya 48:16</h2>
+                <p>Katika Isaya 48 Mungu anasema, naye anajitambulisha kwa cheo ambacho hakuna mwingine anayeweza kukibeba: <em>«Mimi ndiye; mimi ni wa kwanza, mimi ni wa mwisho pia»</em> (Isa 48:12). Yeye ndiye aliyeweka misingi ya dunia na kuzitandaza mbingu. Mistari minne baadaye, yule anayesema anasema hivi:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Isaya 48:16</span>
+                    <blockquote>«Nikaribieni, sikieni haya; tangu mwanzo sikusema kwa siri; tangu wakati ule ulipokuwako, mimi nipo; <strong class="s-hi">na sasa Bwana Mungu amenituma, pamoja na roho yake.</strong>»</blockquote>
+                </div>
+                <p>Yule aliyekuwepo tangu mwanzo anatumwa, na wanaomtuma ni Bwana Mungu na roho yake. Katika kifungu kimoja cha Agano la Kale wanaonekana pamoja yule anayetuma, yule aliyetumwa na Roho. Karne nyingi baadaye, kitabu cha Ufunuo kinaweka cheo hicho hicho kinywani mwa Yesu: <em>«Mimi ni wa kwanza na wa mwisho, na aliye hai; nami nalikuwa nimekufa, na tazama, ni hai hata milele na milele»</em> (Ufu 1:17-18).</p>
+                <h2>Watatu katika Yordani<br>Marko 1:10-11</h2>
+                <p>Katika ubatizo wa Yesu, pingamizi la vyeo linakosa mahali pa kusimama.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Marko 1:10-11</span>
+                    <blockquote>«Mara alipopanda kutoka majini, aliona mbingu zikipasuka, na <strong class="s-hi">Roho, kama hua, akishuka juu yake</strong>; na <strong>sauti ikatoka mbinguni</strong>: «<strong class="s-hi">Wewe ndiwe Mwanangu, mpendwa wangu</strong>; nimependezwa nawe.»»</blockquote>
+                </div>
+                <p>Mwana anapanda kutoka majini, Roho anashuka juu yake na Baba anasema kutoka mbinguni, wakati huo huo. Kama hizi zingekuwa njia tatu ambazo nafsi moja tu inajidhihirisha, nafsi hiyo ingekuwa wakati mmoja ndani ya maji, ikijishukia yenyewe na ikijisemesha kutoka juu. Mathayo anasimulia tukio hilo hilo (Mt 3:16-17). Hakuna anayejiambia «wewe» mwenyewe kutoka mbinguni.</p>
+                <h2>Baba anasema na Mwana<br>Waebrania 1:5</h2>
+                <p>Waraka kwa Waebrania unairudia sauti hiyo ili kuonyesha kwamba Mwana yuko juu ya malaika.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Waebrania 1:5</span>
+                    <blockquote>«Maana alimwambia malaika yupi wakati wowote, «<strong class="s-hi">Wewe ndiwe Mwanangu, mimi leo nimekuzaa</strong>»? Na tena, «<strong>Mimi nitakuwa kwake Baba, naye atakuwa kwangu Mwana</strong>»?»</blockquote>
+                </div>
+                <p>Mmoja anasema na mwingine anasemeshwa. Na mistari mitatu chini, Baba anamwita Mwana Mungu: <em>«Lakini kwa habari za Mwana asema, Kiti chako cha enzi, Ee Mungu, ni cha milele na milele»</em> (Ebr 1:8). Mwana ni Mungu, na Baba, anayesema naye, si yeye.</p>
+                <h2>Pamoja na Baba, kabla ya ulimwengu<br>Yohane 17:5</h2>
+                <p>Kwa Wapentekoste wa Muungano, Mwana anaanza Bethlehemu: «Mwana» ingekuwa jina la ubinadamu wa Yesu, na «Baba» jina la Mungu anayekaa ndani yake. Yohane anajibu hilo katika waraka wake wa kwanza.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Yohane 1:2-3</span>
+                    <blockquote>«uzima huo ulidhihirika, nasi tumeuona na tunashuhudia, tena twawahubiri ninyi <strong class="s-hi">uzima wa milele uliokuwa pamoja na Baba</strong> ukadhihirishwa kwetu. Hilo tuliloliona na kulisikia twawahubiri ninyi, ili ninyi nanyi mpate kushirikiana pamoja nasi. Na ushirika wetu ni <strong>pamoja na Baba, na pamoja na Mwanawe Yesu Kristo</strong>.»</blockquote>
+                </div>
+                <p>Kile ambacho mitume walikiona na kukigusa kilikuwa pamoja na Baba kabla ya kudhihirishwa. Hakuna aliye pamoja na nafsi yake mwenyewe. Ndivyo Yohane alivyoandika mwanzoni mwa Injili yake: <em>«Neno alikuwako kwa Mungu, naye Neno alikuwa Mungu»</em> (Yn 1:1). Na Yesu analisema kwa maneno yake mwenyewe usiku kabla ya kufa kwake:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Yohane 17:5</span>
+                    <blockquote>«Na sasa, Baba, unitukuze mimi pamoja nawe, <strong class="s-hi">kwa utukufu ule niliokuwa nao pamoja nawe kabla ulimwengu haujakuwako</strong>.»</blockquote>
+                </div>
+                <p>Yesu anamwomba Baba utukufu aliokuwa nao pamoja naye kabla ya uumbaji. Kama Mwana angeanza Bethlehemu, asingekuwa na utukufu wa zamani wa kuudai, wala mtu yeyote ambaye angekuwa nao pamoja naye. Katika sala hiyo hiyo anasisitiza: <em>«ulinipenda kabla ya kuwekwa misingi ya ulimwengu»</em> (Yn 17:24). Kabla ya ulimwengu kulikuwa na mmoja aliyependa na mwingine aliyependwa.</p>
+                <h2>Mashahidi wawili<br>Yohane 8:16-18</h2>
+                <p>Akibishana na Mafarisayo, Yesu anaitaja Sheria ya Musa, ambayo haikukubali shahidi mmoja peke yake (Kum 19:15).</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Yohane 8:16-18</span>
+                    <blockquote>«Lakini nijapohukumu mimi, hukumu yangu ni kweli, kwa kuwa <strong class="s-hi">mimi si peke yangu, bali ni mimi na Baba aliyenipeleka</strong>. Tena katika torati yenu imeandikwa kwamba <strong>ushuhuda wa watu wawili ni kweli</strong>. Mimi ndimi ninayejishuhudia mwenyewe, naye Baba aliyenipeleka ananishuhudia.»</blockquote>
+                </div>
+                <p>Yesu anawaleta mashahidi wawili: yeye mwenyewe na Baba. Kama wangekuwa nafsi moja yenye majina mawili, angekuwa anampitisha shahidi mmoja kama wawili, na hoja yake mbele ya Mafarisayo ingekuwa udanganyifu. Yesu anahesabu wawili. Wapentekoste wa Muungano wanahesabu mmoja.</p>
+                <p>Mistari wanayoinukuu wao wenyewe inasema jambo hilo hilo inaposomwa kwa ukamilifu. <em>«Mimi na Baba tu umoja»</em> (Yn 10:30): «tu» ni wingi, na kilicho kimoja ni uungu, si nafsi. <em>«Aliyeniona mimi amemwona Baba»</em> (Yn 14:9), na mara baada ya hapo: <em>«mimi ni ndani ya Baba, na Baba yu ndani yangu»</em> (Yn 14:11). Ili kuwa mmoja ndani ya mwingine, lazima wawe wawili.</p>
+                <h2>Msaidizi mwingine<br>Yohane 14:16-17</h2>
+                <p>Kuhusu Roho Mtakatifu, neno la kuamua linasemwa na Yesu katika karamu ya mwisho.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Yohane 14:16-17</span>
+                    <blockquote>«Nami nitamwomba Baba, naye atawapa <strong class="s-hi">Msaidizi mwingine</strong>, ili akae nanyi hata milele; ndiye <strong>Roho wa kweli</strong>; ambaye ulimwengu hauwezi kumpokea, kwa kuwa haumwoni wala haumtambui; bali ninyi mnamtambua, maana anakaa kwenu, naye atakuwa ndani yenu.»</blockquote>
+                </div>
+                <p>Mwana anaomba, Baba anatoa, na anachotoa ni Msaidizi mwingine. Msaidizi (Parakleto) ni yule anayeandamana na kutetea; Yesu alikuwa hivyo kwa wanafunzi wake kwa miaka mitatu, na sasa anatangaza mwingine. Kama Roho Mtakatifu angekuwa Yesu kwa jina jingine, asingekuwa mwingine. Katika sura zinazofuata kila mmoja anaonekana na kilicho chake: Roho Mtakatifu ni yule <em>«ambaye Baba atampeleka kwa jina langu»</em> (Yn 14:26), na <em>«hatanena kwa shauri lake mwenyewe; lakini yote atakayoyasikia atayanena»</em> (Yn 16:13).</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Yohane 15:26</span>
+                    <blockquote>«Atakapokuja <strong class="s-hi">huyo Msaidizi, nitakayewapelekea kutoka kwa Baba</strong>, yaani, Roho wa kweli atokaye kwa Baba, <strong>yeye atanishuhudia</strong>.»</blockquote>
+                </div>
+                <p>Katika mstari mmoja Mwana anatuma, Roho anatoka kwa Baba na Roho anamshuhudia Mwana. Ni wahusika watatu katika sentensi moja, na hakuna hata mmoja aliye cheo cha mwingine. Yule anayesikia, anayenena, anayetumwa na anayeshuhudia si nguvu wala namna. Ni mtu, ni Nafsi.</p>
+                <h2>Kwa jina la Baba, na la Mwana, na la Roho Mtakatifu<br>Mathayo 28:19</h2>
+                <p>Unabaki ubatizo. Wapentekoste wa Muungano wanakataa kanuni ya Utatu na wanabatiza «kwa jina la Yesu», wakitegemea vifungu kama hiki:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matendo 19:2-5</span>
+                    <blockquote>«akawauliza, «<strong class="s-hi">Je! Mlipokea Roho Mtakatifu mlipoamini?</strong>» Wakamwambia, «<strong>Hata kusikia kwamba kuna Roho Mtakatifu hatukusikia.</strong>» Akasema, «Basi mlibatizwa kwa ubatizo gani?» Wakasema, «Kwa ubatizo wa Yohane.» Paulo akasema, «Yohane alibatiza kwa ubatizo wa toba, akiwaambia watu wamwamini yeye atakayekuja nyuma yake, yaani, Yesu.» Waliposikia haya wakabatizwa kwa jina la Bwana Yesu.»</blockquote>
+                </div>
+                <p>Kifungu hiki kinaonyesha kinyume chake. Jambo la kwanza Paulo analouliza ni kama walimpokea Roho Mtakatifu. Wanapojibu kwamba hata hawajui kwamba yupo, anaelewa kwamba ubatizo walio nao si ule wa Kikristo, na anauliza walipokea ubatizo gani: ule wa Yohane. «Kwa jina la Bwana Yesu» ndicho kinachotenganisha ubatizo mmoja na mwingine. Luka haandiki maneno yaliyotamkwa juu ya maji. Maneno hayo aliyatoa Yesu:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝ Mathayo 28:19</span>
-                    <blockquote>«<strong class="s-hi">Kwa jina la Baba, na la Mwana, na la Roho Mtakatifu</strong>»</blockquote>
-                </div><h2>Hatua ya pamoja</h2><p>Baba anamtuma Mwana, Mwana anakomboa, na Roho hutakasa. Hatua hii ya pamoja inaonyesha kuwa wokovu ni kazi ya Utatu mzima.</p><ul><li>Mungu ni upendo wa ushirika.</li><li>Utatu ni msingi wa maisha ya Kikristo katika Kanisa.</li><li>Uwepo wa Mungu hufunuliwa katika historia kama uhusiano.</li></ul><h2>Athari kwa maisha</h2><p>Fundisho la Utatu linatualika kuishi katika ushirika, uwazi na huduma. Tumeumbwa kwa mfano wa Mungu ambaye ni jamii.</p>`,
+                    <blockquote>«Basi, enendeni, mkawafanye mataifa yote kuwa wanafunzi, mkiwabatiza <strong class="s-hi">kwa jina la Baba, na la Mwana, na la Roho Mtakatifu</strong>…»</blockquote>
+                </div>
+                <p>«Kwa jina», kwa umoja, na kisha watatu. Jina moja, kwa sababu Mungu ni mmoja. Watatu wanaotajwa, kwa sababu ni watatu. Hii ndiyo kanuni ambayo Kanisa liliipokea kutoka kwa Yesu na ambayo linabatiza nayo hadi leo.</p>
+                <h2>Watatu katika salamu za mitume<br>2 Wakorintho 13:13</h2>
+                <p>Paulo anafunga waraka wake wa pili kwa Wakorintho kwa baraka hii.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 2 Wakorintho 13:13</span>
+                    <blockquote>«<strong class="s-hi">Neema ya Bwana Yesu Kristo, na pendo la Mungu, na ushirika wa Roho Mtakatifu</strong> ukae nanyi nyote.»</blockquote>
+                </div>
+                <p>Watatu, mmoja kando ya mwingine, kila mmoja na anachokitoa. Si sentensi ya pekee. Katika waraka wa kwanza kwa Wakorintho, karama zinatoka kwa <em>«Roho yeye yule»</em>, huduma kwa <em>«Bwana yeye yule»</em> na kazi kwa <em>«Mungu yeye yule»</em> (1 Kor 12:4-6). Kwa Waefeso anaandika: <em>«Roho mmoja… Bwana mmoja… Mungu mmoja, Baba wa wote»</em> (Efe 4:4-6). Na Petro anaanza waraka wake wa kwanza kwa namna hiyo hiyo: <em>«kwa kujua kwake Mungu Baba tangu zamani, katika kutakaswa na Roho, hata mpate kutii na kunyunyiziwa damu ya Yesu Kristo»</em> (1 Pet 1:2). Mitume waliwataja watatu tangu salamu.</p>
+                <ul>
+                    <li>Katika Yordani, Mwana, Roho na Baba wanaonekana wakati mmoja, na Baba anasema na Mwana.</li>
+                    <li>Mwana alikuwa pamoja na Baba na alikuwa na utukufu pamoja naye kabla ulimwengu haujakuwako.</li>
+                    <li>Yesu anamleta Baba na yeye mwenyewe kama mashahidi wawili.</li>
+                    <li>Roho Mtakatifu ni Msaidizi mwingine: anasikia, ananena, anatumwa na anashuhudia.</li>
+                    <li>Yesu aliamuru kubatiza kwa jina moja, la Baba, na la Mwana, na la Roho Mtakatifu.</li>
+                </ul>
+                <h2>Hitimisho</h2>
+                <p>Wapentekoste wa Muungano wako sahihi katika wanachokithibitisha: Mungu ni mmoja tu, na Yesu ni Mungu. Wanakosea katika wanachokikana. Ili kushikilia kwamba Baba, Mwana na Roho Mtakatifu ni nafsi moja yenye vyeo vitatu, ubatizo wa Yordani lazima usomwe kama tukio lenye mhusika mmoja tu, sala ya Yohane 17 kama mtu anayejisemesha mwenyewe, na ushuhuda wa Yohane 8 kama shahidi mmoja aliyehesabiwa mara mbili. Hakuna kifungu kingine cha Maandiko kinachosomwa hivyo.</p>
+                <p>Utatu unabaki kuwa fumbo, na Maandiko hayaufafanui. Yanausimulia, tangu sura ya kwanza ya Mwanzo hadi salamu za nyaraka. Katika Yordani, Mwana alikuwa akipanda kutoka majini, Roho akishuka juu yake na Baba akisema kutoka mbinguni.</p>`,
       nav: { prevTitle: "Sheria Mpya katika Kristo", nextTitle: "Kwa nini tunaamini katika imani ya Kikatoliki" }
     },
     "los-santos": {
@@ -562,7 +649,9 @@ const translationsSW = {
       { ref: "Mt 16:18", text: "Wewe ndiye Petro, na juu ya mwamba huu nitalijenga Kanisa langu." },
       { ref: "Isa 1:18", text: "Dhambi zenu zijapokuwa nyekundu sana, zitakuwa nyeupe kama theluji." },
       { ref: "Lk 22:32", text: "Lakini nimekuombea wewe, ili imani yako isitindike; nawe utakapoongoka waimarishe ndugu zako." },
-      { ref: "2 Pet 1:20", text: "Mkijua neno hili kwanza, ya kwamba hakuna unabii katika maandiko upatao kufasiriwa kama apendavyo mtu fulani tu." }
+      { ref: "2 Pet 1:20", text: "Mkijua neno hili kwanza, ya kwamba hakuna unabii katika maandiko upatao kufasiriwa kama apendavyo mtu fulani tu." },
+      { ref: "Yak 2:17", text: "Vivyo hivyo imani, isipokuwa ina matendo, imekufa nafsini mwake." },
+      { ref: "Yak 2:20", text: "Lakini, Ee mwanadamu usiye na akili, wataka kujua ya kuwa imani pasipo matendo haifai?" }
     ]
   },
   lang: { soon: "Hivi karibuni" },

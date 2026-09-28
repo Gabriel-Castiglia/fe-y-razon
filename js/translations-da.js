@@ -64,10 +64,10 @@ const translationsDA = {
   },
   article6: {
     category: "Doktrin",
-    date: "Kommer snart",
+    date: "September 2026",
     title: "Den Hellige Treenighed",
-    excerpt: "Forståelse af det centrale mysterium i den katolske tro gennem teologi og fornuft.",
-    time: "10 min læsning",
+    excerpt: "Tre Personer og én Gud: hvad Skriften svarer de forenede pinsevenner, skriftsted for skriftsted.",
+    time: "11 min læsning",
     link: "Læs →"
   },
   article7: {
@@ -593,28 +593,103 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                 <span class="eyebrow-text">Specialemne</span>
             </div>
             <h1>Den Hellige Treenighed</h1>
-            <p>Forstå Treenigheden som et mysterium om enhed og kærlighed: Fader, Søn og Helligånd, der virker sammen i frelseshistorien.</p>
+            <p>Én Gud i tre Personer. Mod tanken om, at Fader, Søn og Helligånd er tre titler på én enkelt person: hvad Skriften siger, skriftsted for skriftsted.</p>
             <div class="article-meta">
-                <span>10 min læsning</span>
-                <span>Udgivet maj 2026</span>
+                <span>11 min læsning</span>
+                <span>Udgivet september 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
-      article: `<p>Treenigheden er det centrale mysterium i den kristne tro. Gud er ét væsen i tre Personer: Fader, Søn og Helligånd, i fuldkommen enhed og fællesskab.</p>
-                <h2>Enhed og distinktion</h2>
-                <p>Hver guddommelig Person er fuldt ud Gud, men de er ikke tre adskilte guder. Kristendommen bekender én Gud i et evigt kærlighedsforhold.</p>
+      article: `<p>Der er en indvending mod Treenigheden, som høres inden for den pinsekirkelige verden, og det er ikke alle pinsevenners: Assemblies of God og de fleste pinsekirker bekender Treenigheden. Det er de forenede pinsevenners, som kalder sig enhedspinsevenner eller «kun Jesus»: <em>«Gud er kun én, ikke tre personer. Fader, Søn og Helligånd er titler, måder, hvorpå den samme Gud har åbenbaret sig. Faderen er Jesus, og Helligånden er Jesu Ånd. Derfor døber man kun i Jesu navn.»</em></p>
+                <p>Treenigheden er et mysterium: én Gud i tre Personer. Ingen forstår den til bunds, og Kirken har aldrig krævet, at man forstår den for at tro den. Hvad den kræver, er at tro Gud på det, han siger om sig selv, for det er ikke nok at tro, at der er én Gud. Jakob siger det sådan: <em><strong>«Du tror, at Gud er én. Det gør du ret i. Også dæmonerne tror det, og de skælver.»</strong></em> (Jak 2,19). Og det, Gud siger om sig selv, står skrevet med en sådan eftertryk, at man forstår det ved at læse det. Derfor har dette emne flere citater end forklaringer.</p>
+                <h2>«Lad os gøre»: flertallet i begyndelsen<br>Første Mosebog 1,26</h2>
+                <p>Det første tegn står på Bibelens første side.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matt 28:19</span>
-                    <blockquote>«<strong class="s-hi">I Faderens og Sønnens og Helligåndens navn</strong>»</blockquote>
+                    <span class="scripture-ref">✝ Første Mosebog 1,26</span>
+                    <blockquote>«Gud sagde: «<strong class="s-hi">Lad os gøre mennesker i vort billede, så de ligner os</strong>! De skal herske over havets fisk og himlens fugle, over kvæget, over hele jorden og over alt kryb, der kryber på jorden.»»</blockquote>
                 </div>
-                <h2>Fælles virke</h2>
-                <p>Faderen sender Sønnen, Sønnen forløser, og Ånden helliger. Denne fælles virken viser, at frelsen er hele Treenighedens værk.</p>
+                <p>Gud taler i flertal, og der er ingen andre i scenen. Det er ikke englene: engle skaber ikke, og mennesket bliver til i Guds billede, ikke i deres. Det næste vers vender tilbage til ental: <em>«Gud skabte mennesket i sit billede»</em> (1 Mos 1,27). Én, der siger «os». Dette vers alene beviser ikke Treenigheden, og Kirken bruger det ikke sådan. Det er en forkyndelse, som resten af Skriften vil gøre klar.</p>
+                <h2>Den Første og den Sidste, udsendt<br>Esajas 48,16</h2>
+                <p>I Esajas 48 taler Gud, og han præsenterer sig med en titel, ingen anden kan bære: <em>«Det er mig, jeg er den første, og jeg er også den sidste»</em> (Es 48,12). Det er ham, der grundlagde jorden og udspændte himlen. Fire vers senere siger den, der taler, dette:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Esajas 48,16</span>
+                    <blockquote>«Kom nær til mig og hør dette: Fra begyndelsen har jeg ikke talt i det skjulte; fra det skete, var jeg der. <strong class="s-hi">Og nu har Gud Herren sendt mig og sin ånd.</strong>»</blockquote>
+                </div>
+                <p>Den, der var der fra begyndelsen, bliver sendt, og det er Gud Herren og hans ånd, der sender ham. I ét skriftsted i Det Gamle Testamente optræder den, der sender, den udsendte og Ånden sammen. Århundreder senere lægger Johannes' Åbenbaring den samme titel i Jesu mund: <em>«Jeg er den første og den sidste og den levende; jeg var død, men se, jeg er levende i al evighed»</em> (Åb 1,17-18).</p>
+                <h2>De tre ved Jordan<br>Markus 1,10-11</h2>
+                <p>Ved Jesu dåb har indvendingen om titlerne ingen plads.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Markus 1,10-11</span>
+                    <blockquote>«Og straks da han steg op af vandet, så han himlene flænges og <strong class="s-hi">Ånden dale ned over sig</strong> som en due; og <strong>der lød en røst fra himlene</strong>: «<strong class="s-hi">Du er min elskede søn</strong>, i dig har jeg fundet velbehag.»»</blockquote>
+                </div>
+                <p>Sønnen stiger op af vandet, Ånden daler ned over ham, og Faderen taler fra himlen, i samme øjeblik. Hvis det var tre måder, hvorpå én eneste person viser sig, ville denne person på én gang være i vandet, dale ned over sig selv og tale til sig selv ovenfra. Matthæus fortæller den samme scene (Matt 3,16-17). Ingen siger «du» til sig selv fra himlen.</p>
+                <h2>Faderen taler til Sønnen<br>Hebræerbrevet 1,5</h2>
+                <p>Hebræerbrevet vender tilbage til den røst for at vise, at Sønnen står over englene.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Hebræerbrevet 1,5</span>
+                    <blockquote>«For til hvilken af englene har Gud nogen sinde sagt: «<strong class="s-hi">Du er min søn, jeg har født dig i dag</strong>»? eller: «<strong>Jeg vil være hans far, og han skal være min søn</strong>»?»</blockquote>
+                </div>
+                <p>Den ene taler, og den anden bliver tiltalt. Og tre vers længere nede kalder Faderen Sønnen Gud: <em>«men til Sønnen: Din trone, Gud, står i evighedernes evighed»</em> (Hebr 1,8). Sønnen er Gud, og Faderen, der taler til ham, er ikke ham.</p>
+                <h2>Hos Faderen, før verden<br>Johannesevangeliet 17,5</h2>
+                <p>For de forenede pinsevenner begynder Sønnen i Betlehem: «Søn» skulle være navnet på Jesu menneskelighed, og «Fader» navnet på den Gud, der bor i den. Johannes svarer på det i sit første brev.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Første Johannesbrev 1,2-3</span>
+                    <blockquote>«livet blev åbenbaret, og vi har set det og vidner om det og forkynder jer <strong class="s-hi">det evige liv, som var hos Faderen</strong> og blev åbenbaret for os. Det, vi har set og hørt, forkynder vi også for jer, for at også I kan have fællesskab med os. Og vort fællesskab er <strong>med Faderen og med hans søn, Jesus Kristus</strong>.»</blockquote>
+                </div>
+                <p>Det, apostlene så og rørte ved, var hos Faderen, før det blev åbenbaret. Ingen er hos sig selv. Det er, hvad Johannes havde skrevet i begyndelsen af sit evangelium: <em>«Ordet var hos Gud, og Ordet var Gud»</em> (Joh 1,1). Og Jesus siger det med sine egne ord natten før sin død:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Johannesevangeliet 17,5</span>
+                    <blockquote>«Så herliggør du mig nu, Fader, hos dig selv <strong class="s-hi">med den herlighed, som jeg havde hos dig, før verden blev til</strong>.»</blockquote>
+                </div>
+                <p>Jesus beder Faderen om den herlighed, han havde hos ham før skabelsen. Hvis Sønnen var begyndt i Betlehem, ville han ikke have nogen tidligere herlighed at kræve, og heller ingen, han havde haft den hos. I samme bøn insisterer han: <em>«du elskede mig før verdens grundlæggelse»</em> (Joh 17,24). Før verden var der én, der elskede, og en anden, der blev elsket.</p>
+                <h2>To vidner<br>Johannesevangeliet 8,16-18</h2>
+                <p>I diskussionen med farisæerne påkalder Jesus Moseloven, som ikke godtog et enkelt vidne (5 Mos 19,15).</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Johannesevangeliet 8,16-18</span>
+                    <blockquote>«Men hvis jeg dømmer, er min dom sand, for <strong class="s-hi">jeg er ikke alene, men jeg og Faderen, som har sendt mig</strong>. Også i jeres lov står der skrevet, at <strong>to menneskers vidnesbyrd er sandt</strong>. Jeg vidner om mig selv, og Faderen, som har sendt mig, vidner om mig.»</blockquote>
+                </div>
+                <p>Jesus fremstiller to vidner: sig selv og Faderen. Hvis de var én person med to navne, ville han udgive ét vidne for to, og hans argument over for farisæerne ville være et bedrag. Jesus tæller to. De forenede pinsevenner tæller ét.</p>
+                <p>De vers, de selv citerer, siger det samme, når de læses helt. <em>«Jeg og Faderen er ét»</em> (Joh 10,30): «ét», ikke «én», og det, der er ét, er væsenet, ikke personen. <em>«Den, der har set mig, har set Faderen»</em> (Joh 14,9), og lige efter: <em>«jeg er i Faderen, og Faderen er i mig»</em> (Joh 14,11). For at være i hinanden skal der være to.</p>
+                <h2>En anden Talsmand<br>Johannesevangeliet 14,16-17</h2>
+                <p>Om Helligånden siger Jesus det afgørende ord ved den sidste nadver.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Johannesevangeliet 14,16-17</span>
+                    <blockquote>«Og jeg vil bede Faderen, og han skal give jer <strong class="s-hi">en anden talsmand</strong>, som skal være hos jer til evig tid, <strong>sandhedens ånd</strong>, som verden ikke kan modtage, for den ser den ikke og kender den ikke. I kender den, for den bliver hos jer og skal være i jer.»</blockquote>
+                </div>
+                <p>Sønnen beder, Faderen giver, og det, han giver, er en anden Talsmand. Talsmanden, Parakleten, er den, der ledsager og forsvarer; det havde Jesus været for sine disciple i tre år, og nu forkynder han en anden. Hvis Helligånden var Jesus under et andet navn, ville han ikke være en anden. I de følgende kapitler optræder hver med det, der er hans eget: Helligånden er den, <em>«som Faderen vil sende i mit navn»</em> (Joh 14,26), og <em>«den skal ikke tale af sig selv, men hvad den hører, skal den tale»</em> (Joh 16,13).</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Johannesevangeliet 15,26</span>
+                    <blockquote>«Når <strong class="s-hi">Talsmanden kommer, som jeg vil sende jer fra Faderen</strong>, sandhedens ånd, som udgår fra Faderen, <strong>skal han vidne om mig</strong>.»</blockquote>
+                </div>
+                <p>I ét vers sender Sønnen, Ånden udgår fra Faderen, og Ånden vidner om Sønnen. Det er tre subjekter i én sætning, og ingen af dem er en titel på en anden. Den, der hører, taler, bliver sendt og vidner, er ikke en kraft eller en fremtrædelsesform. Han er nogen.</p>
+                <h2>I Faderens, Sønnens og Helligåndens navn<br>Matthæusevangeliet 28,19</h2>
+                <p>Tilbage er dåben. De forenede pinsevenner afviser den treenige formel og døber «i Jesu navn» med støtte i skriftsteder som dette:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Apostlenes Gerninger 19,2-5</span>
+                    <blockquote>«og han spurgte dem: «<strong class="s-hi">Fik I Helligånden, da I kom til troen?</strong>» De svarede: «<strong>Vi har ikke engang hørt, at der er en Helligånd.</strong>» Han spurgte: «Hvilken dåb er I da døbt med?» De svarede: «Med Johannes' dåb.» Paulus sagde: «Johannes døbte med omvendelsens dåb og sagde til folket, at de skulle tro på ham, der kom efter ham, det vil sige Jesus.» Da de hørte det, blev de døbt i Herren Jesu navn.»</blockquote>
+                </div>
+                <p>Skriftstedet tjener det modsatte formål. Det første, Paulus spørger om, er, om de har fået Helligånden. Da de svarer, at de ikke engang ved, at han findes, forstår han, at den dåb, de har, ikke er den kristne, og spørger, hvilken de har fået: Johannes'. «I Herren Jesu navn» er det, der skiller den ene dåb fra den anden. Lukas gengiver ikke de ord, der blev sagt over vandet. De ord gav Jesus:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matthæusevangeliet 28,19</span>
+                    <blockquote>«Gå derfor hen og gør alle folkeslagene til mine disciple, idet I døber dem <strong class="s-hi">i Faderens og Sønnens og Helligåndens navn</strong>…»</blockquote>
+                </div>
+                <p>«I navn», i ental, og derefter tre. Ét navn, fordi Gud er én. Tre nævnt, fordi de er tre. Det er den formel, Kirken modtog fra Jesus, og som den døber med den dag i dag.</p>
+                <h2>De tre i apostlenes hilsen<br>Andet Korintherbrev 13,13</h2>
+                <p>Paulus slutter sit andet brev til korintherne med denne velsignelse.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Andet Korintherbrev 13,13</span>
+                    <blockquote>«<strong class="s-hi">Herren Jesu Kristi nåde og Guds kærlighed og Helligåndens fællesskab</strong> være med jer alle!»</blockquote>
+                </div>
+                <p>De tre, side om side, hver med det, han giver. Det er ikke en enkeltstående sætning. I det første brev til korintherne kommer nådegaverne fra <em>«den samme Ånd»</em>, tjenesterne fra <em>«den samme Herre»</em> og kræfterne fra <em>«den samme Gud»</em> (1 Kor 12,4-6). Til efeserne skriver han: <em>«én Ånd… én Herre… én Gud og alles Fader»</em> (Ef 4,4-6). Og Peter åbner sit første brev på samme måde: <em>«efter Gud Faders forudviden ved Åndens helliggørelse til lydighed mod Jesus Kristus»</em> (1 Pet 1,2). Apostlene nævnte de tre allerede i hilsenen.</p>
                 <ul>
-                    <li>Gud er fælles kærlighed.</li>
-                    <li>Treenigheden er grundlaget for det kristne liv i Kirken.</li>
-                    <li>Guds nærvær åbenbares i historien som relation.</li>
+                    <li>Ved Jordan viser Sønnen, Ånden og Faderen sig på samme tid, og Faderen taler til Sønnen.</li>
+                    <li>Sønnen var hos Faderen og havde herlighed hos ham, før verden blev til.</li>
+                    <li>Jesus fremstiller Faderen og sig selv som to vidner.</li>
+                    <li>Helligånden er en anden Talsmand: han hører, taler, bliver sendt og vidner.</li>
+                    <li>Jesus befalede at døbe i ét navn, Faderens og Sønnens og Helligåndens.</li>
                 </ul>
-                <h2>Konsekvenser for livet</h2>
-                <p>Den trinitariske lære opfordrer os til at leve i fællesskab, gennemsigtighed og tjeneste. Vi er skabt i billedet af en Gud, der er fællesskab.</p>`,
+                <h2>Konklusion</h2>
+                <p>De forenede pinsevenner har ret i det, de bekræfter: Gud er kun én, og Jesus er Gud. De tager fejl i det, de benægter. For at hævde, at Fader, Søn og Helligånd er én person med tre titler, må dåben i Jordan læses som en scene med kun én person, bønnen i Johannes 17 som en mand, der taler til sig selv, og vidnesbyrdet i Johannes 8 som ét vidne, der tælles to gange. Intet andet skriftsted læses sådan.</p>
+                <p>Treenigheden forbliver et mysterium, og Skriften forklarer det ikke. Den fortæller det, fra Første Mosebogs første kapitel til brevenes hilsener. Ved Jordan steg Sønnen op af vandet, Ånden dalede ned over ham, og Faderen talte fra himlen.</p>`,
       nav: {
         prevTitle: "Den nye lov i Kristus",
         nextTitle: "Hvorfor vi tror på den katolske tro"
@@ -915,7 +990,9 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
       { ref: "Matt 16,18", text: "Du er Peter, og på den klippe vil jeg bygge min kirke." },
       { ref: "Es 1,18",    text: "Er jeres synder som skarlagen, skal de blive hvide som sne." },
       { ref: "Luk 22,32",  text: "jeg bad for dig, for at din tro ikke skal svigte." },
-      { ref: "2 Pet 1,20", text: "Ingen profeti i Skriften beror på egen fortolkning." }
+      { ref: "2 Pet 1,20", text: "Ingen profeti i Skriften beror på egen fortolkning." },
+      { ref: "Jak 2,17", text: "Sådan er det også med troen: Har den ikke gerninger, er den død i sig selv." },
+      { ref: "Jak 2,20", text: "Vil du vide, dit tåbelige menneske, at tro uden gerninger er ufrugtbar?" }
     ]
   },
   lang: {
