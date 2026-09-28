@@ -170,7 +170,7 @@ const translationsDA = {
                 <h2>At leve troen</h2>
                 <p>Forståelsen af dette mysterium inviterer os til at leve med større hellighed, bede om tilgivelse og ofre bønner for de afdøde, idet vi stoler på Kristi frelsende værk.</p>`,
       nav: {
-        prevTitle: "Den Hellige Treenighed",
+        prevTitle: "Helgenerne og deres forbøn",
         nextTitle: "Den nye lov i Kristus"
       }
     },
@@ -245,7 +245,7 @@ const translationsDA = {
                 <p>Hvis de første kristne — formet af apostlene selv — troede på den virkelige tilstedeværelse, er spørgsmålet, der fortjener et ærligt svar: hvem ændrede det? Hvornår? Med hvilken autoritet?</p>
                 <p>For at forstå, hvordan denne virkelighed gøres nærværende i messen, fortsæt til emnet <a href="tema-transubstanciacion.html">Transsubstantiation</a>, fra 1 Kor 10,16. Og for at forstå, hvorfor vi accepterer disse ord som Guds sandhed, se emnet <a href="tema-por-que-creemos.html">Hvorfor vi tror</a>.</p>`,
       nav: {
-        prevTitle: "Hvorfor vi tror på den katolske tro",
+        prevTitle: "Peters primat",
         nextTitle: "Transsubstantiation: det eukaristiske mysterium"
       }
     },
@@ -327,8 +327,8 @@ const translationsDA = {
                 </ul>
                 <p>Tag hele Bibelen — ikke isolerede vers — og du finder ordineret præstedømme, skriftemål, offer og alter. Spørgsmålet er ikke, om det er i Bibelen. Det er det. Spørgsmålet er, om man er villig til at læse det hele.</p>`,
       nav: {
-        prevTitle: "Peters primat",
-        nextTitle: "Hvorfor vi tror på den katolske tro"
+        prevTitle: "Transsubstantiation: det eukaristiske mysterium",
+        nextTitle: "Helgenerne og deres forbøn"
       }
     },
     "por-que-creemos": {
@@ -417,8 +417,8 @@ const translationsDA = {
                 <h2>Konklusion: tro og adlyd</h2>
                 <p>Profeternes ord er fra Gud. Apostlene bevidnede det. Vi må læse det hele — inklusive hvad det siger om mundtlig tradition, om hvem der fortolker det, og om den kirke, Kristus grundlagde. Og vi må gøre, hvad Gud siger: det er tro. Ikke alle, der siger "Herre, Herre", vil blive frelst, men den, der gør Faderens vilje (Matt 7,21). Bibelen, læst i sin helhed og med ærlighed, peger på den samme kirke, Jesus grundlagde. At tro er at stole på Jesus Kristus, selv når menneskelig erfaring siger det modsatte, som Peter gjorde på søen. Og den tillidshandling ændrer alt.</p>`,
       nav: {
-        prevTitle: "Præstedømmet i den katolske kirke",
-        nextTitle: "Eukaristien: det centrale sakramente"
+        prevTitle: "Den Hellige Treenighed",
+        nextTitle: "Peters primat"
       }
     },
     "transubstanciacion": {
@@ -487,7 +487,7 @@ const translationsDA = {
                 <p>Ét spørgsmål står tilbage, og det handler ikke om brødet: det handler om, hvem der taler. Hvis han, der siger "dette er mit legeme", er den, ved hvem alt blev til, er der intet at diskutere; der er noget at tro. Derfor afgøres dette emne ikke med argumenter fra kemien eller fra græsk filosofi, men på emnet <a href="tema-por-que-creemos.html">Hvorfor vi tror</a>s grund. Er hans ord Guds ord, gør det, hvad det siger. Det har det altid gjort.</p>`,
       nav: {
         prevTitle: "Eukaristien: det centrale sakramente",
-        nextTitle: "Helgenerne og deres forbøn"
+        nextTitle: "Præstedømmet i den katolske kirke"
       }
     },
     "los-santos": {
@@ -582,8 +582,8 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
 
             <p>Og det, Kirken gør ved at påkalde dem, er nøjagtig det, Åbenbaringen viser: de bærer de troendes bønner til himlens alter og lægger dem frem for Lammets trone. Helgener tilbedes ikke. Man beder dem gå i forbøn hos Gud, ligesom man beder en levende broder om at bede for sig. Den eneste forskel falder ud til deres fordel: de er i himlen og erkender, som Gud erkender. Derfor ser de, hører de og går de i forbøn. Den, der siger, at de døde ikke kan høre, må først forklare, hvorfor himlen gemmer bønnerne i skåle af guld.</p>`,
       nav: {
-        prevTitle: "Transsubstantiation: det eukaristiske mysterium",
-        nextTitle: "Den Hellige Treenighed"
+        prevTitle: "Præstedømmet i den katolske kirke",
+        nextTitle: "Skærsilden og Guds barmhjertighed"
       }
     },
     "la-santisima-trinidad": {
@@ -616,8 +616,8 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                 <h2>Konsekvenser for livet</h2>
                 <p>Den trinitariske lære opfordrer os til at leve i fællesskab, gennemsigtighed og tjeneste. Vi er skabt i billedet af en Gud, der er fællesskab.</p>`,
       nav: {
-        prevTitle: "Helgenerne og deres forbøn",
-        nextTitle: "Skærsilden og Guds barmhjertighed"
+        prevTitle: "Den nye lov i Kristus",
+        nextTitle: "Hvorfor vi tror på den katolske tro"
       }
     },
     "la-nueva-ley": {
@@ -651,7 +651,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                 <p>Den nye lov bliver konkret liv, når vi dyrker ydmyghed, retfærdighed og medfølelse. Eukaristien og bønnen hjælper os til at leve den dagligt.</p>`,
       nav: {
         prevTitle: "Skærsilden og Guds barmhjertighed",
-        nextTitle: "Peters primat"
+        nextTitle: "Den Hellige Treenighed"
       }
     },
     "la-primacia-de-pedro": {
@@ -763,8 +763,8 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                     <p>Det, han ikke mister, er præsteskabet. Ordinationen indprenter et uudsletteligt præg (kan. 1008): han er præst "til evig tid på samme måde som Melkisedek" (Hebr 5,6), og Kirken anerkender, at præst var han, og præst forbliver han. Det, han mister, er den gejstlige stand med dens rettigheder og pligter: han hører ikke længere juridisk til gejstligheden, han bliver lægmand efter Kirkens lov, og han er fri af cølibatet, så han gyldigt kan gifte sig i Kirken.</p>
                 </div>`,
       nav: {
-        prevTitle: "Den nye lov i Kristus",
-        nextTitle: "Præstedømmet i den katolske kirke"
+        prevTitle: "Hvorfor vi tror på den katolske tro",
+        nextTitle: "Eukaristien: det centrale sakramente"
       }
     },
     "recursos-recomendados": {

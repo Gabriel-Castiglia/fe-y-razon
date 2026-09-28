@@ -75,7 +75,7 @@ const translationsIT = {
       pageTitle: "Il purgatorio | Fede e Ragione",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>Il purgatorio e la misericordia di Dio</h1><p>Una spiegazione chiara del purgatorio come processo di purificazione e speranza verso l'unione definitiva con Dio.</p><div class="article-meta"><span>6 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="index.html#temas" class="btn-outline-white">Torna ai Temi</a>`,
       article: `<p>Il purgatorio è la fase in cui le anime si purificano prima di entrare nella piena presenza di Dio. Non è una punizione finale, ma un processo di amore risanatore.</p><h2>Cosa significa purificazione?</h2><p>La purificazione rimuove le conseguenze del peccato veniale e guarisce le ferite della libertà. È la preparazione necessaria per la contemplazione divina.</p><blockquote>"Dio è giusto e anche il più misericordioso. La sua giustizia purifica, la sua misericordia accompagna."</blockquote><h2>Speranza cristiana</h2><p>Il purgatorio non è una condanna, ma un'opera di redenzione. Ogni anima è chiamata alla pienezza dell'amore di Dio, e la purificazione fa parte di quel cammino.</p><ul><li>La Chiesa prega per le anime del purgatorio.</li><li>I sacramenti e le buone opere aiutano la purificazione.</li><li>È una manifestazione della misericordia divina.</li></ul><h2>Vivere la fede</h2><p>Comprendere questo mistero invita a vivere con maggiore santità, a chiedere perdono e a offrire preghiere per i defunti, confidando nell'opera salvifica di Cristo.</p>`,
-      nav: { prevTitle: "La Santissima Trinità", nextTitle: "La nuova legge in Cristo" }
+      nav: { prevTitle: "I santi e la loro intercessione", nextTitle: "La nuova legge in Cristo" }
     },
     "la-eucaristia": {
       pageTitle: "L'Eucaristia | Fede e Ragione",
@@ -102,7 +102,7 @@ const translationsIT = {
                     <span class="scripture-ref">✝ 1 Corinzi 11:27-29</span>
                     <blockquote>«<strong class="s-hi">Perciò chiunque mangia il pane o beve al calice del Signore in modo indegno, sarà colpevole verso il corpo e il sangue del Signore.</strong> Ciascuno, pertanto, esamini se stesso e poi mangi del pane e beva dal calice; perché <strong class="s-hi">chi mangia e beve senza riconoscere il corpo del Signore</strong>, mangia e beve la propria condanna.»</blockquote>
                 </div><p>La parola greca ἔνοχος — reo/colpevole — implica colpevolezza per un crimine reale. Non si può essere rei di attentare a un simbolo. Paolo dice anche: «senza riconoscere il corpo». Se fosse solo pane, quale Corpo ci sarebbe da riconoscere?</p><h2>I primi cristiani — testimoni formati dagli apostoli</h2><p>Ignazio di Antiochia fu discepolo diretto dell'apostolo Giovanni. Morì martire intorno all'anno 107 d.C. Scrisse nella sua Lettera agli Smirnesi:</p><blockquote>«<strong>Si astengono dall'Eucaristia e dalla preghiera, perché non confessano che l'Eucharistia è la carne del nostro Salvatore Gesù Cristo</strong>, che ha patito per i nostri peccati e che il Padre, nella sua bontà, ha risuscitato.» — Ignazio di Antiochia, Lettera agli Smirnesi 6-7 (~107 d.C.)</blockquote><p>Giustino Martire scrisse intorno all'anno 150 d.C., a settant'anni dalla morte degli apostoli:</p><blockquote>«<strong>Noi non prendiamo queste cose come pane comune o bevanda comune</strong>... così ci è stato insegnato che quel cibo eucaristizzato è <strong>la carne e il sangue di quel Gesù incarnato.</strong>» — Giustino Martire, Prima Apologia 66 (~150 d.C.)</blockquote><p>Se i primi cristiani — formati dagli apostoli stessi — credettero nella Presenza Reale, la domanda che merita una risposta onesta è: chi ha cambiato tutto ciò? Quando? Con quale autorità?</p><p>Per capire come questa realtà si faccia presente nella Messa, continua nel tema <a href="tema-transubstanciacion.html">Transustanziazione</a>. E per capire perché accettiamo queste parole come verità di Dio, vai al tema <a href="tema-por-que-creemos.html">Perché crediamo?</a></p>`,
-      nav: { prevTitle: "Perché crediamo nella fede cattolica", nextTitle: "Transustanziazione: il mistero eucaristico" }
+      nav: { prevTitle: "Il primato di Pietro", nextTitle: "Transustanziazione: il mistero eucaristico" }
     },
     "la-nueva-ley": {
       pageTitle: "La nuova legge | Fede e Ragione",
@@ -111,7 +111,7 @@ const translationsIT = {
                     <span class="scripture-ref">✝ Matteo 22:37-38</span>
                     <blockquote>«<strong class="s-hi">Amerai il Signore tuo Dio con tutto il tuo cuore e il tuo prossimo come te stesso</strong>»</blockquote>
                 </div><h2>Completare l'antica legge</h2><p>I profeti annunciarono una legge nuova che avrebbe vissuto nel cuore. L'insegnamento di Cristo rivela che l'autentico compimento della Legge non si riduce ad azioni esteriori, ma a una vera disposizione interiore.</p><ul><li>La nuova legge ci chiama a essere sale della terra e luce del mondo.</li><li>Il perdono e la misericordia sono la sua espressione più genuina.</li><li>Viviamo la legge di Cristo donandoci per amore.</li></ul><h2>Pratica cristiana</h2><p>La nuova legge diventa vita concreta quando coltiviamo l'umiltà, la giustizia e la compassione. L'Eucaristia e la preghiera ci aiutano a viverla giorno per giorno.</p>`,
-      nav: { prevTitle: "Il purgatorio e la misericordia di Dio", nextTitle: "Il primato di Pietro" }
+      nav: { prevTitle: "Il purgatorio e la misericordia di Dio", nextTitle: "La Santissima Trinità" }
     },
     "la-primacia-de-pedro": {
       pageTitle: "Il primato di Pietro | Fede e Ragione",
@@ -211,7 +211,7 @@ const translationsIT = {
                     <p><sup>*</sup> Se un sacerdote cattolico decide di volersi sposare, può chiederlo, ma non può deciderlo da sé. Deve chiedere formalmente la dispensa dal celibato, che concede soltanto il Papa (Codice di Diritto Canonico, can. 291), insieme alla perdita dello stato clericale, nota come riduzione allo stato laicale. Una volta ricevuta, non esercita più il ministero: non celebra la Messa, non predica e non amministra i sacramenti, e si dedica interamente alla sua vita coniugale e familiare. L'unica eccezione è il pericolo di morte, nel quale può assolvere chiunque ne abbia bisogno (can. 976).</p>
                     <p>Ciò che non perde è il sacerdozio. L'ordinazione imprime un carattere indelebile (can. 1008): è sacerdote «per sempre, secondo l'ordine di Melchìsedek» (Ebrei 5,6), e la Chiesa riconosce che sacerdote fu e sacerdote rimane. Ciò che perde è lo stato clericale, con i suoi diritti e doveri: cessa di appartenere giuridicamente al clero, diventa un laico davanti alla legge della Chiesa ed è libero dal celibato per potersi sposare validamente in Chiesa.</p>
                 </div>`,
-      nav: { prevTitle: "La nuova legge in Cristo", nextTitle: "Il Sacerdozio nella Chiesa Cattolica" }
+      nav: { prevTitle: "Perché crediamo nella fede cattolica", nextTitle: "L'Eucaristia: il sacramento centrale" }
     },
     "la-santisima-trinidad": {
       pageTitle: "La Santissima Trinità | Fede e Ragione",
@@ -220,7 +220,7 @@ const translationsIT = {
                     <span class="scripture-ref">✝ Matteo 28:19</span>
                     <blockquote>«<strong class="s-hi">Nel nome del Padre, del Figlio e dello Spirito Santo</strong>»</blockquote>
                 </div><h2>Azione comune</h2><p>Il Padre invia il Figlio, il Figlio redime e lo Spirito Santifica. Questa azione congiunta mostra che la salvezza è opera dell'intera Trinità.</p><ul><li>Dio è amore comunionale.</li><li>La Trinità è fondamento della vita cristiana nella Chiesa.</li><li>La presenza di Dio si rivela nella storia come relazione.</li></ul><h2>Implicazioni per la vita</h2><p>La dottrina trinitaria ci invita a vivere in comunione, trasparenza e servizio. Siamo fatti a immagine di un Dio che è comunità.</p>`,
-      nav: { prevTitle: "I santi e la loro intercessione", nextTitle: "Il purgatorio e la misericordia di Dio" }
+      nav: { prevTitle: "La nuova legge in Cristo", nextTitle: "Perché crediamo nella fede cattolica" }
     },
     "los-santos": {
       pageTitle: "I santi | Fede e Ragione",
@@ -295,7 +295,7 @@ const translationsIT = {
             <p>I santi sono quelli che vissero nella fede —Abele, Enoc, Noè, Abramo, Mosè, i profeti—, quelli che dopo la morte sono nella città del Dio vivente, la Gerusalemme celeste. Là conoscono come Dio li conosce. Là vedono Dio così com'è. Là non c'è né limite né distanza.</p>
 
             <p>E ciò che fa la Chiesa invocandoli è esattamente quello che mostra l'Apocalisse: portano all'altare del cielo le preghiere dei fedeli e le presentano davanti al trono dell'Agnello. I santi non si adorano. Si chiede loro di intercedere presso Dio, come si chiede a un fratello vivo di pregare per noi. L'unica differenza gioca a loro favore: sono in cielo e conoscono come Dio conosce. Per questo vedono, ascoltano e intercedono. Chi dice che i morti non possono ascoltare deve prima spiegare perché il cielo custodisce le preghiere in coppe d'oro.</p>`,
-      nav: { prevTitle: "Transustanziazione: il mistero eucaristico", nextTitle: "La Santissima Trinità" }
+      nav: { prevTitle: "Il Sacerdozio nella Chiesa Cattolica", nextTitle: "Il purgatorio e la misericordia di Dio" }
     },
     "por-que-creemos": {
       pageTitle: "Perché crediamo | Fede e Ragione",
@@ -331,7 +331,7 @@ const translationsIT = {
                     <span class="scripture-ref">✝ Matteo 16:18</span>
                     <blockquote>«E io a te dico: tu sei Pietro e su questa pietra edificherò la mia Chiesa <strong class="s-hi">e le potenze degli inferi non prevarranno su di essa.</strong>»</blockquote>
                 </div><p>Questa promessa protegge il Magistero — l'insegnamento ufficiale della Chiesa — dall'insegnare l'errore definitivamente. Non significa che ogni membro sia impeccabile. Significa che la verità che Cristo ha affidato alla sua Chiesa non può essere distrutta.</p><h2>Conclusione: credere e compiere</h2><p>La Parola dei profeti è di Dio. Gli apostoli l'hanno testimoniata. Bisogna leggerla tutta — compreso ciò che dice sulla Tradizione orale, su chi interpreta e sulla Chiesa che Cristo ha fondato. E bisogna fare ciò che Dio dice: questa è la fede. Non chi dice «Signore, Signore» si salverà, ma colui che fa la volontà del Padre (Mt 7:21). La Bibbia, letta per intero e con onestà, indica la stessa Chiesa che Gesù ha fondato. Credere è fidarsi di Gesù Cristo anche se l'esperienza umana dice il contrario, come ha fatto Pietro sul lago. E quell'atto di fiducia cambia tutto.</p>`,
-      nav: { prevTitle: "Il Sacerdozio nella Chiesa Cattolica", nextTitle: "L'Eucaristia: il sacramento centrale" }
+      nav: { prevTitle: "La Santissima Trinità", nextTitle: "Il primato di Pietro" }
     },
     "sacerdocio": {
       pageTitle: "Il Sacerdozio | Fede e Ragione",
@@ -361,7 +361,7 @@ const translationsIT = {
                     <span class="scripture-ref">✝ Malachia 1:11</span>
                     <blockquote>«Dall'oriente all'occidente grande è il mio nome fra le genti e <strong class="s-hi">in ogni luogo è offerto incenso al mio nome e un'oblazione pura</strong>, perché grande è il mio nome fra le genti, dice il Signore degli eserciti.»</blockquote>
                 </div><p>Un'offerta pura in ogni luogo della terra. I Padri dei primi secoli riconobbero in questo l'Eucaristia — l'unico sacrificio che compie quella profezia.</p><h2>Cosa ci insegna la Scrittura</h2><ul><li>Il sacerdote è un uomo come tutti, che può lottare e sbagliare.</li><li>La sua autorità e santità provengono da Dio, non dai suoi meriti personali.</li><li>La validità dei sacramenti non dipende dalla santità personale del ministro.</li><li>Il sacerdozio ministeriale ordinato è nel Nuovo Testamento: At 14:23, Tt 1:5, 1 Tim 4:14.</li><li>Il perdono sacramentale fu istituito da Cristo in Giovanni 20:22-23.</li></ul><p>Se si prende la Bibbia per intero — non brani isolati — si trova il sacerdozio ordinato, la confessione, il sacrificio e l'altare. La domanda non è se si trovi nella Bibbia. C'è. La domanda è se si è disposti a leggere tutto.</p>`,
-      nav: { prevTitle: "Il primato di Pietro", nextTitle: "Perché crediamo nella fede cattolica" }
+      nav: { prevTitle: "Transustanziazione: il mistero eucaristico", nextTitle: "I santi e la loro intercessione" }
     },
     "transubstanciacion": {
       pageTitle: "Transustanziazione | Fede e Ragione",
@@ -427,7 +427,7 @@ const translationsIT = {
                 <h2>Conclusione</h2>
                 <p>Transustanziazione è il nome di questo: la sostanza del pane e quella del vino cessano di essere ciò che erano e diventano il Corpo e il Sangue di Cristo, mentre rimane tutto ciò che i sensi raggiungono — l'aspetto, il sapore, il peso. Non è una teoria aggiunta alla Scrittura per coprire un mistero scomodo: è la descrizione esatta di ciò che la Scrittura racconta a Cana e di ciò che Paolo dà per scontato a Corinto. Il miracolo non consiste nel fatto che cambino le apparenze. Consiste nel fatto che cambi ciò che la cosa è, perché Cristo lo ha detto.</p>
                 <p>Resta una sola domanda, e non riguarda il pane: riguarda chi parla. Se colui che dice «questo è il mio corpo» è colui per mezzo del quale tutto è stato fatto, non c'è nulla da discutere; c'è qualcosa da credere. Per questo la questione non si decide con argomenti di chimica né di filosofia greca, ma sul terreno del tema <a href="tema-por-que-creemos.html">Perché crediamo</a>. Se la sua parola è parola di Dio, fa ciò che dice. Lo ha sempre fatto.</p>`,
-      nav: { prevTitle: "L'Eucaristia: il sacramento centrale", nextTitle: "I santi e la loro intercessione" }
+      nav: { prevTitle: "L'Eucaristia: il sacramento centrale", nextTitle: "Il Sacerdozio nella Chiesa Cattolica" }
     },
     "recursos-recomendados": {
       sec4: {

@@ -176,7 +176,7 @@ const translationsLA = {
                 <h2>Vita fidei</h2>
                 <p>Hoc mysterium intellegere nos invitat ad maiorem sanctitatem vivendam, veniam petendam et orationes pro defunctis offerendas, in opere salvifici Christi confidentes.</p>`,
       nav: {
-        prevTitle: "Sanctissima Trinitas",
+        prevTitle: "Sancti et eorum intercessio",
         nextTitle: "Nova Lex in Christo"
       }
     },
@@ -251,7 +251,7 @@ const translationsLA = {
                 <p>Si primi christiani — ab ipsis apostolis formati — in Praesentiam Realem crediderunt, quaestio quae responsum honestum meretur haec est: quis id mutavit? Quando? Qua auctoritate?</p>
                 <p>Ad intelligendum quomodo haec realitas in Missa praesens fiat, perge ad thema <a href="tema-transubstanciacion.html">Transsubstantiatio</a>, ex 1 Cor 10, 16. Et ad intelligendum cur haec verba ut veritatem Dei accipiamus, vide thema <a href="tema-por-que-creemos.html">Cur credimus</a>.</p>`,
       nav: {
-        prevTitle: "Cur fidem catholicam credimus",
+        prevTitle: "Primatus Petri",
         nextTitle: "Transsubstantiatio: mysterium eucharisticum"
       }
     },
@@ -286,7 +286,7 @@ const translationsLA = {
                 <p>Nova lex fit vita concreta quando humilitatem, iustitiam et compassionem colimus. Eucharistia et oratio nos adiuvant eam cotidie vivere.</p>`,
       nav: {
         prevTitle: "Purgatorium et misericordia Dei",
-        nextTitle: "Primatus Petri"
+        nextTitle: "Sanctissima Trinitas"
       }
     },
     "la-primacia-de-pedro": {
@@ -398,8 +398,8 @@ const translationsLA = {
                     <p>Quod non amittit, sacerdotium est. Ordinatio characterem indelebilem imprimit (can. 1008): sacerdos est «in aeternum secundum ordinem Melchisedech» (Heb 5, 6), et Ecclesia agnoscit eum sacerdotem fuisse et sacerdotem manere. Quod amittit, status clericalis est cum iuribus et obligationibus suis: iuridice ad clerum iam non pertinet, laicus fit coram lege Ecclesiae et a caelibatu liberatur, ut valide in Ecclesia matrimonium ineat.</p>
                 </div>`,
       nav: {
-        prevTitle: "Nova Lex in Christo",
-        nextTitle: "Sacerdotium in Ecclesia Catholica"
+        prevTitle: "Cur fidem catholicam credimus",
+        nextTitle: "Eucharistia: Sacramentum centrale"
       }
     },
     "la-santisima-trinidad": {
@@ -432,8 +432,8 @@ const translationsLA = {
                 <h2>Consequentiae pro vita</h2>
                 <p>Doctrina trinitaria nos invitat in communione, transparentia et servitio vivere. Ad imaginem Dei qui communitas est facti sumus.</p>`,
       nav: {
-        prevTitle: "Sancti et eorum intercessio",
-        nextTitle: "Purgatorium et misericordia Dei"
+        prevTitle: "Nova Lex in Christo",
+        nextTitle: "Cur fidem catholicam credimus"
       }
     },
     "los-santos": {
@@ -528,8 +528,8 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
 
             <p>Et quod Ecclesia eos invocando facit id ipsum est quod Apocalypsis ostendit: fidelium orationes ad caeli altare ferunt et ante Agni thronum offerunt. Sancti non adorantur. Ab eis petitur ut apud Deum intercedant, sicut a fratre vivo petitur ut pro aliquo oret. Sola differentia in eorum favorem cedit: in caelo sunt et cognoscunt sicut Deus cognoscit. Ideo vident, audiunt et intercedunt. Qui dicit mortuos audire non posse prius explicare debet cur caelum orationes in phialis aureis servet.</p>`,
       nav: {
-        prevTitle: "Transsubstantiatio: mysterium eucharisticum",
-        nextTitle: "Sanctissima Trinitas"
+        prevTitle: "Sacerdotium in Ecclesia Catholica",
+        nextTitle: "Purgatorium et misericordia Dei"
       }
     },
     "por-que-creemos": {
@@ -618,8 +618,8 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
                 <h2>Conclusio: credere et facere</h2>
                 <p>Verbum prophetarum a Deo est. Apostoli testificati sunt. Legendum est totum — etiam quod de traditione orali dicit, de interpretatione et de Ecclesia quam Christus fundavit. Et faciendum est quod Deus dicit: haec est fides. Non qui dicit «Domine, Domine» salvabitur, sed qui facit voluntatem Patris (Mt 7, 21). Biblia, tota lecta et cum honestate, ad eandem Ecclesiam quam Iesus fundavit indicat. Credere est Iesu Christo fidere etiam quando experientia humana contrarium suadet, sicut Petrus in lacu fecit. Et ille actus fiduciae omnia mutat.</p>`,
       nav: {
-        prevTitle: "Sacerdotium in Ecclesia Catholica",
-        nextTitle: "Eucharistia: Sacramentum centrale"
+        prevTitle: "Sanctissima Trinitas",
+        nextTitle: "Primatus Petri"
       }
     },
     "sacerdocio": {
@@ -700,8 +700,8 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
                 </ul>
                 <p>Si Biblia tota accipitur — non loci isolati — sacerdotium ordinatum, confessio, sacrificium et altare inveniuntur. Quaestio non est an in Biblia sit. Est. Quaestio est utrum quis paratus sit totum legere.</p>`,
       nav: {
-        prevTitle: "Primatus Petri",
-        nextTitle: "Cur fidem catholicam credimus"
+        prevTitle: "Transsubstantiatio: mysterium eucharisticum",
+        nextTitle: "Sancti et eorum intercessio"
       }
     },
     "transubstanciacion": {
@@ -770,7 +770,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
                 <p>Una quaestio manet, neque de pane est: de eo est qui loquitur. Si is qui dicit «hoc est corpus meum» ille est per quem omnia facta sunt, nihil est de quo disputetur; est quod credatur. Ideo hoc thema non chemiae neque philosophiae Graecae argumentis diiudicatur, sed in campo thematis <a href="tema-por-que-creemos.html">Cur credimus</a>. Si verbum eius verbum Dei est, facit quod dicit. Semper fecit.</p>`,
       nav: {
         prevTitle: "Eucharistia: Sacramentum centrale",
-        nextTitle: "Sancti et eorum intercessio"
+        nextTitle: "Sacerdotium in Ecclesia Catholica"
       }
     },
     "recursos-recomendados": {

@@ -75,7 +75,7 @@ const translationsIG = {
       pageTitle: "Pọgatọrị | Okwukwe na Uche",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Isiokwu Pụrụ Iche</span></div><h1>Pọgatọrị na Ebere Chineke</h1><p>Nkọwa doro anya nke pọgatọrị dị ka usoro ịdị ọcha na olileanya maka njikọ ikpeazụ na Chineke.</p><div class="article-meta"><span>Nkeji 6 ịgụ</span><span>Ebipụtara na Mee 2026</span></div><a href="index.html#temas" class="btn-outline-white">Laghachi na Isiokwu</a>`,
       article: `<p>Pọgatọrị bụ ọkwa ebe a na-asacha mkpụrụ obi tupu ha abanye n'ihu Chineke n'ụzọ zuru ezu. Ọ bụghị ntaramahụhụ ikpeazụ, kama ọ bụ usoro ịhụnanya na-agwọ ọrịa.</p><h2>Gịnị ka ịdị ọcha pụtara?</h2><p>Ịdị ọcha na-ewepụ nsonaazụ nke mmehie venial ma na-agwọ ọnya nke nnwere onwe. Ọ bụ nkwadebe dị mkpa maka ịtụgharị uche na Chineke.</p><blockquote>"Chineke bụ ezi omume nakwa onye ebere kachasị. Ikpe nkwụmọtọ ya na-asacha, ebere ya na-eso ya."</blockquote><h2>Olileanya Onye Kraịst</h2><p>Pọgatọrị abụghị mmadụ ịma ikpe, kama ọ bụ ọrụ mgbapụta. A na-akpọ mkpụrụ obi ọ bụla ka ọ banye n'izu oke nke ịhụnanya Chineke, ịdị ọcha bụkwa akụkụ nke ụzọ ahụ.</p><ul><li>Nzukọ-nsọ na-ekpe ekpere maka mkpụrụ obi dị na pọgatọrị.</li><li>Sakrament na ezi ọrụ na-enyere aka na ịdị ọcha.</li><li>Ọ bụ ngosipụta nke ebere Chineke.</li></ul><h2>Ibi ndụ okwukwe</h2><p>Ịghọta ihe omimi a na-akpọ anyị ka anyị bie ndụ n'ịdị nsọ ka ukwuu, rịọ mgbaghara ma kpee ekpere maka ndị nwụrụ anwụ, na-atụkwasị obi n'ọrụ nzọpụta Kraịst.</p>`,
-      nav: { prevTitle: "Atọ n'Ime Otu Dị Nsọ", nextTitle: "Iwu Ọhụrụ n'ime Kraịst" }
+      nav: { prevTitle: "Ndị Nsọ na arịrịọ ha", nextTitle: "Iwu Ọhụrụ n'ime Kraịst" }
     },
     "la-eucaristia": {
       pageTitle: "Yukarist | Okwukwe na Uche",
@@ -102,7 +102,7 @@ const translationsIG = {
                     <span class="scripture-ref">✝ 1 Ndị Kọrịnt 11:27-29</span>
                     <blockquote>«<strong class="s-hi">N'ihi ya, onye ọ bụla na-eri achịcha ahụ ma ọ bụ na-aṅụ iko nke Onyenwe anyị n'ụzọ na-ekwesịghị ekwesị, ga-enwe ikpe n'ahụ na ọbara Onyenwe anyị.</strong> Ya mere, ka mmadụ nyochaa onwe ya, ya riekwa achịcha ahụ ma ṅụọkwa iko ahụ. N'ihi na onye na-eri ma na-aṅụ <strong class="s-hi">n'enweghị ịghọta ahụ ahụ</strong>, na-erikwara onwe ya ikpe ma na-aṅụkwa.»</blockquote>
                 </div><p>Okwu Grik ἔνοχος — onye ikpe mara — pụtara na o mere nnukwu mpụ n'ezie. Ị gaghị enwe ikpe iku ihe atụ ihe. Pọl na-asịkwa: «n'enweghị ịghọta Ahụ ahụ». Ọ bụrụ na ọ bụ naanị achịcha, Ahụ dị aṅaa ka a ga-aghọta?</p><h2>Ndị Kraịst mbụ — ndị akaebe ndịozi kụziiri</h2><p>Igneshiọs nke Antiọk bụ ezigbo onye na-eso ụzọ Jọn onyeozi. Ọ nwụrụ ka onye okwukwe n'ihe dị ka afọ 107 AD. O dere n'akwụkwọ ozi o degaara Ndị Smiana:</p><blockquote>«<strong>Ha na-ezere Yukarist na ekpere, n'ihi na ha adịghị ekwupụta na Yukarist bụ anụ ahụ nke Onye Nzọpụta anyị Jizọs Kraịst</strong>, anụ ahụ nke tara ahụhụ maka mmehie anyị, nke Nna site n'ịdị mma ya kpọlitere.» — Igneshiọs nke Antiọk, Akwụkwọ ozi degaara Ndị Smiana 6-7 (~107 AD)</blockquote><p>Justin onye nwụrụ n'okwukwe dere n'ihe dị ka afọ 150 AD, afọ iri asaa ka ndịozi nwụsịrị:</p><blockquote>«<strong>Anyị adịghị anara ihe ndị a dị ka achịcha nkịtị na ihe ọṅụṅụ nkịtị</strong>... otú a kwa ka a kụziiri anyị na nri a nke e mere Yukarist bụ <strong>anụ ahụ na ọbara nke Jizọs ahụ onye ghọrọ anụ ahụ.</strong>» — Justin Martyr, Apology Mbụ 66 (~150 AD)</blockquote><p>Ọ bụrụ na Ndị Kraịst mbụ — ndị ndịozi n'onwe ha kụziiri — kwere na Ọnụnọ Eziokwu (Real Presence), ajụjụ kwesịrị ezi azịza bụ: ònye gbanwere nke ahụ? Olee mgbe? Site n'ikike dị aṅaa?</p><p>Iji ghọta otú eziokwu a si abata n'Oriri Nsọ, gaa n'isiokwu nke <a href="tema-transubstanciacion.html">Transubstantiation</a>, malite na 1 Ndị Kọrịnt 10:16. Na iji ghọta ihe kpatara anyị ji anabata okwu ndị a dị ka eziokwu Chineke, gaa n'isiokwu <a href="tema-por-que-creemos.html">Ihe kpatara anyị ji ekwere?</a></p>`,
-      nav: { prevTitle: "Ihe mere anyị ji ekwere", nextTitle: "Transubstantiation: ihe omimi nke Yukarist" }
+      nav: { prevTitle: "Ịbụ onye mbụ nke Pita", nextTitle: "Transubstantiation: ihe omimi nke Yukarist" }
     },
     "la-nueva-ley": {
       pageTitle: "Iwu Ọhụrụ | Okwukwe na Uche",
@@ -111,7 +111,7 @@ const translationsIG = {
                     <span class="scripture-ref">✝ Matiu 22:37-38</span>
                     <blockquote>«<strong class="s-hi">Ị ga-eji obi gị niile hụ Onyenwe anyị Chineke gị n'anya ma hụ onye agbata obi gị n'anya dị ka onwe gị</strong>»</blockquote>
                 </div><h2>Imeli Iwu Ochie</h2><p>Ndị amụma mara ọkwa iwu ọhụrụ nke ga-ebi n'obi. Ozizi Kraịst na-egosi na ezigbo mmezu nke Iwu abụghị naanị omume mpụga, kama ọ bụ n'ezie njikere dị n'ime.</p><ul><li>Iwu ọhụrụ a na-akpọ anyị ka anyị bụrụ nnu nke ụwa na ìhè nke ụwa.</li><li>Mgbaghara na ebere bụ ngosipụta ya kachasị eziokwu.</li><li>Anyị na-ebi iwu Kraịst site n'inye onwe anyị n'ịhụnanya.</li></ul><h2>Omume Onye Kraịst</h2><p>Iwu ọhụrụ na-aghọ ezigbo ndụ mgbe anyị nwere ịdị umeala n'obi, ikpe nkwụmọtọ na ọmịiko. Yukarist na ekpere na-enyere anyị aka ibi ndụ kwa ụbọchị.</p>`,
-      nav: { prevTitle: "Pọgatọrị na Ebere Chineke", nextTitle: "Ịbụ onye mbụ nke Pita" }
+      nav: { prevTitle: "Pọgatọrị na Ebere Chineke", nextTitle: "Atọ n'Ime Otu Dị Nsọ" }
     },
     "la-primacia-de-pedro": {
       pageTitle: "Ịbụ onye mbụ nke Pita | Okwukwe na Uche",
@@ -211,7 +211,7 @@ const translationsIG = {
                     <p><sup>*</sup> Ọ bụrụ na onye nchụàjà Katọlik kpebie na ọ chọrọ ịlụ nwunye, ọ nwere ike ịrịọ ya, ma ọ pụghị ikpebi ya n'onwe ya. Ọ ghaghị ịrịọ n'ụzọ iwu ka a tọhapụ ya n'iwu ịnọ n'alụghị di na nwunye, nke ọ bụ naanị Popu na-enye (Iwu Nzukọ-nsọ, kan. 291), ya na ọnwụnwụ ọnọdụ onye ụkọchukwu, nke a maara dị ka ịlaghachi n'ọnọdụ onye nkịtị. Ozugbo o nwetara ya, ọ naghịzi arụ ọrụ ozi ahụ: ọ naghị eme Mass, ọ naghị ekwusa ozi, ọ naghịkwa enye sakramentị, ọ na-etinyekwa onwe ya kpamkpam na ndụ di na nwunye na ezinụlọ ya. Naanị ihe e wezugara bụ ihe egwu ọnwụ, ebe ọ nwere ike ịgbaghara onye ọ bụla chọrọ ya mmehie (kan. 976).</p>
                     <p>Ihe ọ na-atụfughị bụ ọkwa nchụàjà. Echichi na-ahapụ akara nke na-adịghị ehichapụ (kan. 1008): ọ bụ onye nchụàjà "ruo mgbe ebighị ebi, dị ka usoro Melkizedek si dị" (Ndị Hibru 5:6), Nzukọ-nsọ na-ekwetakwa na ọ bụ onye nchụàjà, na ọ ka bụ onye nchụàjà. Ihe ọ na-atụfu bụ ọnọdụ onye ụkọchukwu, ya na ikike na ọrụ ya: n'iwu, ọ naghịzi abụ otu n'ime ndị ụkọchukwu, ọ na-aghọ onye nkịtị n'ihu iwu Nzukọ-nsọ, a na-atọhapụkwa ya n'iwu ịnọ n'alụghị di na nwunye ka o nwee ike ịlụ nwunye n'ụzọ ziri ezi na Nzukọ-nsọ.</p>
                 </div>`,
-      nav: { prevTitle: "Iwu Ọhụrụ n'ime Kraịst", nextTitle: "Ọkwa Nchụàjà na Nzukọ-nsọ Katọlik" }
+      nav: { prevTitle: "Ihe kpatara anyị ji ekwere n'okwukwe Katọlik", nextTitle: "Yukarist: Sakrament nke etiti" }
     },
     "la-santisima-trinidad": {
       pageTitle: "Atọ n'Ime Otu Dị Nsọ | Okwukwe na Uche",
@@ -220,7 +220,7 @@ const translationsIG = {
                     <span class="scripture-ref">✝ Matiu 28:19</span>
                     <blockquote>«<strong class="s-hi">N'aha Nna, na Nwa, na Mmụọ Nsọ</strong>»</blockquote>
                 </div><h2>Ọrụ jikọrọ ọnụ</h2><p>Nna na-eziga Ọkpara, Ọkpara na-agbapụta, na Mmụọ na-edo nsọ. Omume jikọrọ ọnụ a na-egosi na nzọpụta bụ ọrụ Atọ n'Ime Otu niile.</p><ul><li>Chineke bụ ịhụnanya obodo.</li><li>Atọ n'Ime Otu bụ ntọala nke ndụ Ndị Kraịst na Nzukọ-nsọ.</li><li>A na-ekpughere ọnụnọ Chineke n'akụkọ ihe mere eme dị ka mmekọrịta.</li></ul><h2>Mmetụta maka ndụ</h2><p>Ozizi Atọ n'Ime Otu na-akpọ anyị òkù ibi ndụ na njikọkọ, uzo na ozi. Emere anyị n'ụdị Chineke bụ obodo.</p>`,
-      nav: { prevTitle: "Ndị Nsọ na arịrịọ ha", nextTitle: "Pọgatọrị na Ebere Chineke" }
+      nav: { prevTitle: "Iwu Ọhụrụ n'ime Kraịst", nextTitle: "Ihe kpatara anyị ji ekwere n'okwukwe Katọlik" }
     },
     "los-santos": {
       pageTitle: "Ndị Nsọ | Okwukwe na Uche",
@@ -295,7 +295,7 @@ const translationsIG = {
             <p>Ndị nsọ bụ ndị biri na okwukwe —Ebel, Inọk, Noa, Ebreham, Mosis, ndị amụma—, ndị nọ mgbe ọnwụ gasịrị n'obodo Chineke dị ndụ, Jerusalem nke eluigwe. Ebe ahụ ha na-amata dịka Chineke si amata ha. Ebe ahụ ha na-ahụ Chineke dịka ọ dị. Ebe ahụ enweghị oke ma ọ bụ anya.</p>
 
             <p>Ihe Nzukọ-nsọ na-eme mgbe ọ na-akpọku ha bụ kpọmkwem ihe Mkpughe na-egosi: ha na-ebuga ekpere ndị kwere ekwe n'ebe ịchụàjà nke eluigwe ma weta ha n'ihu ocheeze Nwa Atụrụ. A naghị efe ndị nsọ ofufe. A na-arịọ ha ka ha rịọchitere anyị n'ihu Chineke, dịka a na-arịọ nwanne dị ndụ ka o kpeere anyị ekpere. Naanị ihe dị iche na-akwado ha: ha nọ n'eluigwe ma na-amata dịka Chineke si amata. Ọ bụ ya mere ha ji ahụ, nụ ma rịọchitere anyị. Onye na-ekwu na ndị nwụrụ anwụ apụghị ịnụ ihe ga-ebu ụzọ kọwaa ihe kpatara eluigwe ji echekwa ekpere n'iko ọlaedo.</p>`,
-      nav: { prevTitle: "Transubstantiation: ihe omimi nke Yukarist", nextTitle: "Atọ n'Ime Otu Dị Nsọ" }
+      nav: { prevTitle: "Ọkwa Nchụàjà na Nzukọ-nsọ Katọlik", nextTitle: "Pọgatọrị na Ebere Chineke" }
     },
     "por-que-creemos": {
       pageTitle: "Ihe mere anyị ji ekwere | Okwukwe na Uche",
@@ -331,7 +331,7 @@ const translationsIG = {
                     <span class="scripture-ref">✝ Matiu 16:18</span>
                     <blockquote>«M na-asịkwa gị na ị bụ Pita, na n'elu okwute a ka m ga-ewu Nzukọ-nsọ m, <strong class="s-hi">ọnụ ụzọ ámá hel agaghị enwe ike imeri ya.</strong>»</blockquote>
                 </div><p>Nkwa a na-echebe Magisterium — ozizi gọọmentị nke Nzukọ-nsọ — ka o ghara ịkụzi njehie n'ezie. Ọ pụtaghị na onye ọ bụla so na ya adịghị emehie ihe. Ọ pụtara na a pụghị ibibi eziokwu ahụ Kraịst nyefere Nzukọ-nsọ ya.</p><h2>Mmechi: kwere na mezuo</h2><p>Okwu ndị amụma sitere na Chineke. Ndịozi gbara ya akaebe. A ghaghị ịgụ ya niile — gụnyere ihe ọ na-ekwu gbasara Omenala a na-ekwu n'ọnụ, gbasara onye na-akọwa ya na gbasara Nzukọ-nsọ Kraịst hiwere. A ghaghịkwa ime ihe Chineke na-ekwu: nke ahụ bụ okwukwe. Ọ bụghị onye na-asị «Onyenwe anyị, Onyenwe anyị» ka a ga-azọpụta, kama onye na-eme uche Nna (Mt 7:21). Baịbụl, a gụrụ ya dum ma jiri eziokwu gụọ ya, na-ezo aka na otu Nzukọ-nsọ ahụ Jizọs hiwere. Ikwere bụ ịtụkwasị Jizọs Kraịst obi n'agbanyeghị na ahụmịhe mmadụ na-ekwu ihe megidere, dị ka Pita mere n'ọdọ mmiri ahụ. Na omume obi ike ahụ na-agbanwe ihe niile.</p>`,
-      nav: { prevTitle: "Ọkwa Nchụàjà na Nzukọ-nsọ Katọlik", nextTitle: "Yukarist: Sakrament nke etiti" }
+      nav: { prevTitle: "Atọ n'Ime Otu Dị Nsọ", nextTitle: "Ịbụ onye mbụ nke Pita" }
     },
     "sacerdocio": {
       pageTitle: "Ọkwa Nchụàjà | Okwukwe na Uche",
@@ -361,7 +361,7 @@ const translationsIG = {
                     <span class="scripture-ref">✝ Malakaị 1:11</span>
                     <blockquote>«N'ihi na site n'ọwụwa anyanwụ ruo n'ọdịda ya aha m dị ukwuu n'etiti mba dị iche iche, ma <strong class="s-hi">n'ebe ọ bụla a na-esure ihe nsure ọkụ na-esi ísì ụtọ n'aha m na onyinye dị ọcha</strong>; n'ihi na aha m dị ukwuu n'etiti mba dị iche iche, ka Onyenwe anyị nke ụsụụ ndị agha na-ekwu.»</blockquote>
                 </div><p>Onyinye dị ọcha n'ebe ọ bụla n'ụwa. Ndị Nna nke narị afọ mbụ matara Yukarist n'ime nke a — naanị àjà nke na-emezu amụma ahụ.</p><h2>Ihe Akwụkwọ Nsọ na-akụziri anyị</h2><ul><li>Onye nchụàjà bụ mmadụ dị ka onye ọ bụla, onye nwere ike ịlụ ọgụ na ịdaba.</li><li>Ikike na ịdị nsọ ya sitere na Chineke, ọ bụghị site n'urù nke ya.</li><li>Irè nke sakrament adịghị adabere n'ịdị nsọ nke onye ozi.</li><li>Ọkwa nchụàjà a họpụtara ahọpụta dị n'Agbụgba Ndụ Ọhụrụ: Ọrụ Ndịozi 14:23, Taịtọs 1:5, 1 Timoti 4:14.</li><li>Mgbaghara sakrament malitere site na Kraịst na Jọn 20:22-23.</li></ul><p>Ọ bụrụ na e were Baịbụl dum — ọ bụghị akụkụ ndị dịpụrụ adịpụ — a na-achọta ọkwa nchụàjà a họpụtara ahọpụta, nkwupụta mmehie, àjà na ebe ịchụàjà. Ajụjụ abụghị ma ọ dị na Baịbụl. Ọ dị. Ajụjụ bụ ma mmadụ ọ̀ dị njikere ịgụ ya niile.</p>`,
-      nav: { prevTitle: "Ịbụ onye mbụ nke Pita", nextTitle: "Ihe kpatara anyị ji ekwere n'okwukwe Katọlik" }
+      nav: { prevTitle: "Transubstantiation: ihe omimi nke Yukarist", nextTitle: "Ndị Nsọ na arịrịọ ha" }
     },
     "transubstanciacion": {
       pageTitle: "Transubstantiation | Okwukwe na Uche",
@@ -427,7 +427,7 @@ const translationsIG = {
                 <h2>Mmechi</h2>
                 <p>Transubstantiation bụ aha nke a: ihe achịcha bụ na ihe mmanya bụ na-akwụsị ịbụ ihe ha bụ ma ghọọ Ahụ na Ọbara Kraịst, ebe ihe niile ahụ mmetụta anyị na-eru —ọdịdị, ụtọ, arọ— na-anọgide. Ọ bụghị echiche a gbakwunyere n'Akwụkwọ Nsọ iji kpuchie ihe omimi na-enye nsogbu: ọ bụ nkọwa ziri ezi nke ihe Akwụkwọ Nsọ kọrọ na Kena na nke ihe Pọl weere dị ka ihe doro anya na Kọrịnt. Ọrụ ebube ahụ adịghị na mgbanwe nke ọdịdị. Ọ dị na mgbanwe nke ihe ihe ahụ bụ, n'ihi na Kraịst kwuru ya.</p>
                 <p>Otu ajụjụ fọdụrụ, ọ bụghịkwa maka achịcha: ọ bụ maka onye na-ekwu okwu. Ọ bụrụ na onye na-asị «nke a bụ ahụ m» bụ onye e sitere na ya kee ihe niile, ọ dịghị ihe a ga-arụ ụka banyere ya; e nwere ihe a ga-ekwere. Ọ bụ ya mere na a naghị eji arụmụka nke kemistrị maọbụ nke nkà ihe ọmụma Grik ekpebi isiokwu a, kama a na-ekpebi ya n'ala isiokwu <a href="tema-por-que-creemos.html">Ihe kpatara anyị ji ekwere?</a> Ọ bụrụ na okwu ya bụ okwu Chineke, ọ na-eme ihe ọ na-ekwu. Ọ na-emekwa ya mgbe niile.</p>`,
-      nav: { prevTitle: "Yukarist: Sakrament nke etiti", nextTitle: "Ndị Nsọ na arịrịọ ha" }
+      nav: { prevTitle: "Yukarist: Sakrament nke etiti", nextTitle: "Ọkwa Nchụàjà na Nzukọ-nsọ Katọlik" }
     },
     "recursos-recomendados": {
       sec4: {

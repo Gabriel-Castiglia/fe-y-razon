@@ -170,7 +170,7 @@ const translationsTL = {
                 <h2>Pamumuhay sa pananampalataya</h2>
                 <p>Ang pag-unawa sa misteryo na ito ay nagpapaanyaya sa atin na mamuhay nang may mas dakilang kabanalan, humingi ng kapatawaran, at mag-alay ng mga panalangin para sa mga yumaon, nagtitiwala sa gawain ng kaligtasan ni Kristo.</p>`,
       nav: {
-        prevTitle: "Ang Banal na Santatlo",
+        prevTitle: "Ang mga Santo at ang Kanilang Pamamagitan",
         nextTitle: "Ang Bagong Kautusan kay Kristo"
       }
     },
@@ -245,7 +245,7 @@ const translationsTL = {
                 <p>Kung ang mga unang Kristiyano — na hinirang ng mga apostol mismo — ay naniwala sa Tunay na Presensya, ang tanong na nangangailangan ng tapat na sagot ay: sino ang nagbago nito? Kailan? Sa anong awtoridad?</p>
                 <p>Para maunawaan kung paano nahaharap ang katotohanang ito sa Misa, magpatuloy sa paksa ng <a href="tema-transubstanciacion.html">Transubstansiasyon</a>, mula sa 1 Corinto 10:16. At para maunawaan kung bakit tinatanggap natin ang mga salitang ito bilang katotohanan ng Diyos, tingnan ang paksa ng <a href="tema-por-que-creemos.html">Bakit Tayo Naniniwala</a>.</p>`,
       nav: {
-        prevTitle: "Bakit Tayo Naniniwala sa Pananampalatayang Katoliko",
+        prevTitle: "Ang Pangunguna ni Pedro",
         nextTitle: "Transubstansiasyon: ang Misteryo ng Eukaristiya"
       }
     },
@@ -280,7 +280,7 @@ const translationsTL = {
                 <p>Nagiging konkretong buhay ang bagong kautusan kapag naglinang tayo ng kababaang-loob, katarungan, at habag. Ang Eukaristiya at panalangin ay tumutulong sa atin na mabuhay ito araw-araw.</p>`,
       nav: {
         prevTitle: "Ang Purgatoryo at Awa ng Diyos",
-        nextTitle: "Ang Pangunguna ni Pedro"
+        nextTitle: "Ang Banal na Santatlo"
       }
     },
     "la-primacia-de-pedro": {
@@ -392,8 +392,8 @@ const translationsTL = {
                     <p>Ang hindi niya nawawala ay ang pagkapari. Nag-iiwan ang ordenasyon ng tatak na hindi nabubura (kan. 1008): siya ay pari "magpakailanman, ayon sa pagkapari ni Melquisedec" (Hebreo 5:6), at kinikilala ng Simbahan na pari siya noon at pari pa rin siya ngayon. Ang nawawala sa kanya ay ang estadong klerikal, kasama ang mga karapatan at tungkulin nito: hindi na siya legal na kabilang sa klero, nagiging laiko siya sa harap ng batas ng Simbahan, at malaya na siya sa pagkabinata upang makapag-asawa nang may bisa sa Simbahan.</p>
                 </div>`,
       nav: {
-        prevTitle: "Ang Bagong Kautusan kay Kristo",
-        nextTitle: "Ang Pagkasaserdote sa Simbahang Katoliko"
+        prevTitle: "Bakit Tayo Naniniwala sa Pananampalatayang Katoliko",
+        nextTitle: "Ang Eukaristiya: ang Sentral na Sakramento"
       }
     },
     "la-santisima-trinidad": {
@@ -426,8 +426,8 @@ const translationsTL = {
                 <h2>Mga implikasyon para sa buhay</h2>
                 <p>Ang doktrina ng Santatlo ay nagaanyaya sa atin na mamuhay sa komunyon, transparency, at serbisyo. Tayo ay ginawa ayon sa larawan ng isang Diyos na komunidad.</p>`,
       nav: {
-        prevTitle: "Ang mga Santo at ang Kanilang Pamamagitan",
-        nextTitle: "Ang Purgatoryo at Awa ng Diyos"
+        prevTitle: "Ang Bagong Kautusan kay Kristo",
+        nextTitle: "Bakit Tayo Naniniwala sa Pananampalatayang Katoliko"
       }
     },
     "los-santos": {
@@ -522,8 +522,8 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
 
             <p>At ang ginagawa ng Simbahan sa pagtawag sa kanila ay eksaktong ipinapakita ng Pahayag: dinadala nila sa dambana ng langit ang mga panalangin ng mga tapat at inihaharap ang mga ito sa trono ng Kordero. Hindi sinasamba ang mga santo. Hinihiling sa kanila na mamagitan sa Diyos, gaya ng paghiling sa isang buhay na kapatid na ipanalangin tayo. Ang tanging pagkakaiba ay pabor sa kanila: nasa langit sila at nakakakilala gaya ng pagkilala ng Diyos. Kaya nakikita nila, naririnig nila at namamagitan sila. Ang nagsasabing hindi nakakarinig ang mga patay ay kailangan munang ipaliwanag kung bakit iniingatan ng langit ang mga panalangin sa mga kopitang ginto.</p>`,
       nav: {
-        prevTitle: "Transubstansiasyon: ang Misteryo ng Eukaristiya",
-        nextTitle: "Ang Banal na Santatlo"
+        prevTitle: "Ang Pagkasaserdote sa Simbahang Katoliko",
+        nextTitle: "Ang Purgatoryo at Awa ng Diyos"
       }
     },
     "por-que-creemos": {
@@ -612,8 +612,8 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
                 <h2>Konklusyon: maniwala at sumunod</h2>
                 <p>Ang salita ng mga propeta ay mula sa Diyos. Sinaksihan ito ng mga apostol. Kailangan nating basahin ang lahat — kasama na ang sinasabi nito tungkol sa oral na tradisyon, tungkol sa kung sino ang nagpapaliwanag nito, at tungkol sa Simbahang itinatag ni Kristo. At kailangan nating gawin ang sinasabi ng Diyos — iyon ang pananampalataya. Hindi ang lahat ng nagsasabi ng "Panginoon, Panginoon" ang maliligtas, kundi ang gumagawa ng kalooban ng Ama (Mt 7:21). Ang Bibliya, babasahin nang buo at nang tapat, ay nagtuturo sa parehong Simbahang itinatag ni Hesus. Ang maniwala ay ang magtiwala kay Hesukristo kahit ang karanasan ng tao ay nagsasabi ng kabaligtaran, tulad ng ginawa ni Pedro sa lawa. At ang kilos ng tiwala na iyon ay nagbabago ng lahat.</p>`,
       nav: {
-        prevTitle: "Ang Pagkasaserdote sa Simbahang Katoliko",
-        nextTitle: "Ang Eukaristiya: ang Sentral na Sakramento"
+        prevTitle: "Ang Banal na Santatlo",
+        nextTitle: "Ang Pangunguna ni Pedro"
       }
     },
     "sacerdocio": {
@@ -694,8 +694,8 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
                 </ul>
                 <p>Basahin ang buong Bibliya — hindi mga hiwalay na talata — at makikita mo ang inorden na pagkasaserdote, kumpisal, sakripisyo, at altar. Ang tanong ay hindi kung nasa Bibliya ito. Nandoon. Ang tanong ay kung handa kang basahin ang lahat.</p>`,
       nav: {
-        prevTitle: "Ang Pangunguna ni Pedro",
-        nextTitle: "Bakit Tayo Naniniwala sa Pananampalatayang Katoliko"
+        prevTitle: "Transubstansiasyon: ang Misteryo ng Eukaristiya",
+        nextTitle: "Ang mga Santo at ang Kanilang Pamamagitan"
       }
     },
     "transubstanciacion": {
@@ -764,7 +764,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
                 <p>Isang tanong na lamang ang natitira, at hindi ito tungkol sa tinapay: tungkol ito sa kung sino ang nagsasalita. Kung ang nagsasabing "ito ang aking katawan" ay siyang pinagdaanan ng paglikha sa lahat ng bagay, wala nang dapat pagtalunan; may dapat paniwalaan. Kaya ang paksang ito ay hindi napagpapasyahan sa mga argumento ng kimika o ng pilosopiyang Griyego, kundi sa larangan ng paksang <a href="tema-por-que-creemos.html">Bakit tayo naniniwala?</a> Kung ang kanyang salita ay salita ng Diyos, ginagawa nito ang sinasabi nito. Palagi naman itong ganoon.</p>`,
       nav: {
         prevTitle: "Ang Eukaristiya: ang Sentral na Sakramento",
-        nextTitle: "Ang mga Santo at ang Kanilang Pamamagitan"
+        nextTitle: "Ang Pagkasaserdote sa Simbahang Katoliko"
       }
     },
     "recursos-recomendados": {

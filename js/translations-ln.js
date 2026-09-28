@@ -75,7 +75,7 @@ const translationsLN = {
       pageTitle: "Purgatorio | Kondima mpe Mayele",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Liséki Monene</span></div><h1>Purgatorio mpe mawa ya Nzambe</h1><p>Ndimbola ya polele ya purgatorio lokola nzela ya kopeto mpe elikya mpona bomoko ya nsuka na Nzambe.</p><div class="article-meta"><span>Min 6 botangi</span><span>Ebimisami na Sanza ya mitano 2026</span></div><a href="index.html#temas" class="btn-outline-white">Zonga na Mitó ya makambo</a>`,
       article: `<p>Purgatorio ezali eteni wapi milimo ekomisami peto liboso ya kokota na présence ya Nzambe mobimba. Ezali etumbu ya nsuka te, kasi nzela ya bolingo oyo ezali kobikisa.</p><h2>Kopeto elakisi nini?</h2><p>Kopeto elongolaka ba conséquences ya lisumu mpe ebikisaka ba mpota ya bonsomi. Ezali bolengeli ya ntina mpona kotala Nzambe.</p><blockquote>"Nzambe azali moyengebene mpe azali na mawa mingi. Bosembo na ye ekopeto, mawa na ye ekosunga."</blockquote><h2>Elikya ya mokristo</h2><p>Purgatorio ezali condemnation te, kasi mosala ya kosikolama. Molimo nionso ebiangami na litondi ya bolingo ya Nzambe, mpe kopeto ezali eteni ya nzela yango.</p><ul><li>Eklezia abondelaka mpona milimo ya purgatorio.</li><li>Basakramentu mpe misala malamu esalisaka na kopeto.</li><li>Ezali komonisa mawa ya Nzambe.</li></ul><h2>Kobika kondima</h2><p>Kososola sekele oyo ebiangi biso na kobika na bosembo mingi, kosenga bolimbisi mpe kopesa mabondeli mpona bakufi, kotia elikya na mosala ya lobiko ya Klisto.</p>`,
-      nav: { prevTitle: "Trinité Mosantu", nextTitle: "Mobeko ya Sika na Klisto" }
+      nav: { prevTitle: "Basantu mpe libondeli na bango", nextTitle: "Mobeko ya Sika na Klisto" }
     },
     "la-eucaristia": {
       pageTitle: "Eukarisiti | Kondima mpe Mayele",
@@ -102,7 +102,7 @@ const translationsLN = {
                     <span class="scripture-ref">✝ 1 Bakorinti 11:27-29</span>
                     <blockquote>«<strong class="s-hi">Yango wana, moto nionso oyo alei limpa to ameli kopo ya Nkolo na ndenge ebongi te, akozwa ngambo ya nzoto mpe makila ya Nkolo.</strong> Bongo, moto a mitala ye moko, mpe bongo alia limpa wana mpe amela kopo wana. Mpo moto oyo alei mpe ameli <strong class="s-hi">zanga kokesenisa nzoto</strong> alei mpe ameli kosambisama na ye moko.»</blockquote>
                 </div><p>Liloba ya Greki ἔνοχος — mosumuki — elakisi ngambo mpona mbeba ya solo. Okoki kozala mosumuki te mpona kosala mbeba na elembo. Paulo alobi lisusu: « zanga kokesenisa nzoto ». Soki ezalaki kaka limpa, Nzoto nini ekokaki kokesenisama?</p><h2>Bakristo ya liboso — banzeneneke ya mateya ya bantoma</h2><p>Ignace ya Antioche ezalaki moyekoli ya mbala moko ya ntoma Yoane. Akufaki lokola martir pene na mobu 107 N.K. Akomaki na Mokanda na ye na Basmyrne:</p><blockquote>«<strong>Bamipimelaka na Eukarisiti mpe na libondeli, mpo bandimaka te ete Eukarisiti ezali nzoto ya Mobikisi na biso Yesu Klisto</strong>, oyo emonaki mpasi mpona masumu na biso, oyo Tata na bolamu na ye a sekwisaki.» — Ignace ya Antioche, Mokanda na Basmyrne 6-7 (~107 N.K.)</blockquote><p>Justin Martir akomaki pene na mobu 150 N.K., mibu tuku sambo sima ya liwa ya bantoma:</p><blockquote>«<strong>Tozwa biloko oyo lokola limpa ya mpamba to masanga ya mpamba te</strong>... ndenge moko mpe bateyaki biso ete bilei oyo ekomisi Eukarisiti ezali <strong>nzoto mpe makila ya Yesu wana oyo akomaki nzoto.</strong>» — Justin Martir, Apologia ya liboso 66 (~150 N.K.)</blockquote><p>Soki bakristo ya liboso — bateyami na bantoma bango moko — bandimaki Présence Réelle, motuna oyo esengeli eyano ya bosembo ezali: nani abongolaki yango? Ntango nini? Na bokonzi nini?</p><p>Mpona kososola ndenge nini likambo oyo ekomaka ya solo na Misa, landa na liséki ya <a href="tema-transubstanciacion.html">Transsubstantiation</a>, uta na 1 Bakorinti 10:16. Mpe mpona kososola mpo na nini tondimaka maloba oyo lokola bosolo ya Nzambe, kende na liséki <a href="tema-por-que-creemos.html">Mpo na nini tondimaka?</a></p>`,
-      nav: { prevTitle: "Mpo na nini tondimaka", nextTitle: "Transsubstantiation: sekele ya eukarisiti" }
+      nav: { prevTitle: "Bokambi ya Petro", nextTitle: "Transsubstantiation: sekele ya eukarisiti" }
     },
     "la-nueva-ley": {
       pageTitle: "Mobeko ya Sika | Kondima mpe Mayele",
@@ -111,7 +111,7 @@ const translationsLN = {
                     <span class="scripture-ref">✝ Matai 22:37-38</span>
                     <blockquote>«<strong class="s-hi">Okolinga Nkolo Nzambe na yo na motema na yo nionso mpe mozalani na yo lokola yo moko</strong>»</blockquote>
                 </div><h2>Kokokisa mobeko ya kala</h2><p>Baprofeta basakolaki mobeko ya sika oyo ekozala na motema. Mateya ya Klisto emonisi ete kokokisa ya solo ya Mobeko esuki kaka na misala ya libanda te, kasi na etelemelo ya solo ya kati.</p><ul><li>Mobeko ya sika ebiangi biso na kozala mungwa ya mabele mpe pole ya mokili.</li><li>Bolimbisi mpe mawa ezali komonisa na yango ya solo mpenza.</li><li>Tobikaka mobeko ya Klisto na komipesa na bolingo.</li></ul><h2>Mosala ya mokristo</h2><p>Mobeko ya sika ekomaka bomoi ya solo tango to kolaka na komikitisa, bosembo mpe mawa. Eukarisiti mpe libondeli esalisaka biso na kobika yango mokolo na mokolo.</p>`,
-      nav: { prevTitle: "Purgatorio mpe mawa ya Nzambe", nextTitle: "Bokambi ya Petro" }
+      nav: { prevTitle: "Purgatorio mpe mawa ya Nzambe", nextTitle: "Trinité Mosantu" }
     },
     "la-primacia-de-pedro": {
       pageTitle: "Bokambi ya Petro | Kondima mpe Mayele",
@@ -211,7 +211,7 @@ const translationsLN = {
                     <p><sup>*</sup> Soki nganga-Nzambe ya Katolike azwi ekateli ete alingi kobala, akoki kosenga yango, kasi akoki kokata likambo yango ye moko te. Asengeli kosenga na mobeko ndingisa ya kolongwa na mokumba ya kobala te, oyo Papa kaka nde apesaka (Mibeko ya Eklezia, kan. 291), elongo na kobungisa ezalela ya nganga-Nzambe, oyo ebengami kozongisama na ezalela ya mondimi mpamba. Soki azwi yango, asalaka lisusu mosala ya nganga-Nzambe te: asambelaka Misa te, ateyaka te mpe apesaka basakramento te, mpe amipesaka mobimba na bomoi ya libala mpe ya libota na ye. Likambo kaka moko ya kokesana ezali likama ya liwa, ntango akoki kolimbisa masumu ya moto nyonso oyo azali na mposa (kan. 976).</p>
                     <p>Oyo abungisaka te ezali bonganga-Nzambe. Bopakolami etiaka elembo oyo elongwaka te (kan. 1008): azali nganga-Nzambe «libela na libela, ndenge moko na Melekisedeke» (Baebele 5:6), mpe Eklezia endimaka ete azalaki nganga-Nzambe mpe atikali nganga-Nzambe. Oyo abungisaka ezali ezalela ya nganga-Nzambe elongo na makoki mpe mikumba na yango: na mobeko akomi lisusu moko ya bakleriko te, akomi mondimi mpamba liboso ya mobeko ya Eklezia, mpe asikoli na mokumba ya kobala te mpo akoka kobala na ndenge ya solo na Eklezia.</p>
                 </div>`,
-      nav: { prevTitle: "Mobeko ya Sika na Klisto", nextTitle: "Bonganga-nzambe na Eklezia Katolike" }
+      nav: { prevTitle: "Mpo na nini tondimaka na kondima ya Katolike", nextTitle: "Eukarisiti: sakramentu monene" }
     },
     "la-santisima-trinidad": {
       pageTitle: "Trinité Mosantu | Kondima mpe Mayele",
@@ -220,7 +220,7 @@ const translationsLN = {
                     <span class="scripture-ref">✝ Matai 28:19</span>
                     <blockquote>«<strong class="s-hi">Na nkombo ya Tata, mpe ya Mwana, mpe ya Elimo Santu</strong>»</blockquote>
                 </div><h2>Misala ya bomoko</h2><p>Tata atindi Mwana, Mwana asikoli, mpe Elimo asantisi. Misala oyo esangani emonisi ete lobiko ezali mosala ya Trinité mobimba.</p><ul><li>Nzambe ezali bolingo ya bomoko.</li><li>Trinité ezali moboko ya bomoi ya mokristo na kati ya Eklezia.</li><li>Présence ya Nzambe emonisami na lisolo lokola bondeko.</li></ul><h2>Matomba mpona bomoi</h2><p>Mateya ya trinité ebiangi biso na kobika na bomoko, bopeto mpe mosala. Tokelami na elilingi ya Nzambe oyo azali lisanga.</p>`,
-      nav: { prevTitle: "Basantu mpe libondeli na bango", nextTitle: "Purgatorio mpe mawa ya Nzambe" }
+      nav: { prevTitle: "Mobeko ya Sika na Klisto", nextTitle: "Mpo na nini tondimaka na kondima ya Katolike" }
     },
     "los-santos": {
       pageTitle: "Basantu | Kondima mpe Mayele",
@@ -295,7 +295,7 @@ const translationsLN = {
             <p>Basantu bazali baoyo bazalaki na kondima —Abele, Enoke, Noa, Abrayama, Moize, basakoli—, baoyo nsima ya liwa bazali na engumba ya Nzambe ya bomoi, Yeruzalemi ya likolo. Kuna bayebi ndenge Nzambe ayebi bango. Kuna bamoni Nzambe ndenge azali. Kuna ndelo ezali te mpe ntaka ezali te.</p>
 
             <p>Mpe oyo Eklezia esalaka na kobelela bango ezali kaka oyo Apokalise elakisi: bamemaka na etumbelo ya lola mabondeli ya bandimi mpe bapesaka yango liboso ya kiti ya bokonzi ya Mwana-Meme. Basantu bakumisami te. Basengami ete babondela epai ya Nzambe, ndenge basengaka ndeko ya bomoi ete abondela mpo na moto. Bokeseni kaka moko ezali na litomba na bango: bazali na lola mpe bayebi ndenge Nzambe ayebi. Yango wana bamonaka, bayokaka mpe babondelaka. Moto oyo alobi ete bakufi bakoki koyoka te asengeli liboso kolimbola mpo na nini lola ebombaka mabondeli na bakopo ya wolo.</p>`,
-      nav: { prevTitle: "Transsubstantiation: sekele ya eukarisiti", nextTitle: "Trinité Mosantu" }
+      nav: { prevTitle: "Bonganga-nzambe na Eklezia Katolike", nextTitle: "Purgatorio mpe mawa ya Nzambe" }
     },
     "por-que-creemos": {
       pageTitle: "Mpo na nini tondimaka | Kondima mpe Mayele",
@@ -331,7 +331,7 @@ const translationsLN = {
                     <span class="scripture-ref">✝ Matai 16:18</span>
                     <blockquote>«Mpe ngai nayebisi yo ete ozali Petro, mpe likolo ya libanga oyo nakotonga Eklezia na ngai, <strong class="s-hi">mpe bikuke ya lifelo ekolonga yango te.</strong>»</blockquote>
                 </div><p>Ndanga wana ebatelaka Magisterium — mateya ya leta ya Eklezia — mpona koteya mbunga libela. Elingi koloba te ete membre nionso azali zanga lisumu. Elingi koloba ete bosolo oyo Klisto apesaki Eklezia na ye ekoki kobebisama te.</p><h2>Kosilisa: kondima mpe kokokisa</h2><p>Liloba ya baprofeta euti na Nzambe. Bantoma batatolaki yango. Esengeli kotanga yango mobimba — ata mpe oyo elobi mpona Tradition oral, mpona nani azali kopesa ndimbola mpe mpona Eklezia oyo Klisto atongaki. Mpe esengeli kosala oyo Nzambe alobi: wana nde kondima. Ezali te moto oyo alobi «Nkolo, Nkolo» nde akobika, kasi moto oyo asali mposa ya Tata (Mt 7:21). Biblia, etangami mobimba mpe na bosembo, elakisi Eklezia moko oyo Yesu atongaki. Kondima ezali kotia elikya na Yesu Klisto ata soki mayele ya moto elobi bongo te, ndenge Petro asalaki na etima. Mpe misala wana ya elikya ebongolaka nionso.</p>`,
-      nav: { prevTitle: "Bonganga-nzambe na Eklezia Katolike", nextTitle: "Eukarisiti: sakramentu monene" }
+      nav: { prevTitle: "Trinité Mosantu", nextTitle: "Bokambi ya Petro" }
     },
     "sacerdocio": {
       pageTitle: "Bonganga-nzambe | Kondima mpe Mayele",
@@ -361,7 +361,7 @@ const translationsLN = {
                     <span class="scripture-ref">✝ Malaki 1:11</span>
                     <blockquote>«Mpo wuta monyele ya moi tii na elimeli na yango nkombo na ngai ezali monene na kati ya mabota, mpe <strong class="s-hi">na esika nionso mbeka ya malasi epesamaka na nkombo na ngai mpe mbeka ya peto</strong>; mpo nkombo na ngai ezali monene na kati ya mabota, alobi Nkolo ya mampinga.»</blockquote>
                 </div><p>Mbeka ya peto na esika nionso na mokili. Batata ya bikeke ya liboso bamonaki Eukarisiti na kati na yango — mbeka moko oyo ekokisaka esakweli wana.</p><h2>Makomami eteyaka biso nini</h2><ul><li>Nganga-nzambe azali moto lokola bato nionso, akoki kobunda mpe kokwea.</li><li>Bokonzi mpe bosantu na ye euti na Nzambe, na misala na ye moko te.</li><li>Bosembo ya basakramentu euti na bosantu ya mosaleli te.</li><li>Bonganga-nzambe ya misala eza na Kondimana ya Sika: Misala 14:23, Tito 1:5, 1 Timote 4:14.</li><li>Bolimbisi ya sakramentu ebandisami na Klisto na Yoane 20:22-23.</li></ul><p>Soki ozwi Biblia mobimba — biteni zanga kokabwana te — okozwa bonganga-nzambe, boyamboli, mbeka mpe etumbelo. Motuna ezali te soki ezali na Biblia. Ezali. Motuna ezali soki ondima kotanga nionso.</p>`,
-      nav: { prevTitle: "Bokambi ya Petro", nextTitle: "Mpo na nini tondimaka na kondima ya Katolike" }
+      nav: { prevTitle: "Transsubstantiation: sekele ya eukarisiti", nextTitle: "Basantu mpe libondeli na bango" }
     },
     "transubstanciacion": {
       pageTitle: "Transsubstantiation | Kondima mpe Mayele",
@@ -427,7 +427,7 @@ const translationsLN = {
                 <h2>Nsuka</h2>
                 <p>Transsubstantiation ezali nkombo ya likambo oyo: eloko ya limpa mpe ya vinyo etikaka kozala oyo ezalaki mpe ekomaka Nzoto mpe Makila ya Klisto, kasi nyonso oyo miso mpe monoko ekoki koyeba —elilingi, elɛngi, kilo— etikalaka. Ezali te teoria oyo babakisaki na Makomi mpo na kozipa sekele ya mpasi: ezali limbisi ya solo ya oyo Makomi eyebisi na Kana mpe ya oyo Paulo andimi lokola likambo ya polele na Korinti. Likamwisi ezali te na kobongwana ya elilingi. Ezali na kobongwana ya oyo eloko ezali, mpo Klisto alobaki bongo.</p>
                 <p>Etikali motuna moko kaka, mpe ezali te likolo ya limpa: ezali likolo ya nani azali koloba. Soki ye oyo alobi «oyo ezali nzoto na ngai» azali ye oyo na nzela na ye biloko nyonso esalemaki, likambo ya kotia ntembe ezali te; ezali likambo ya kondima. Yango wana liséki oyo esilaka na maloba ya chimie to ya filozofi ya Bagreki te, kasi na esika ya liséki <a href="tema-por-que-creemos.html">Mpo na nini tondimaka?</a> Soki liloba na ye ezali liloba ya Nzambe, esalaka oyo elobi. Ntango nyonso esalaki bongo.</p>`,
-      nav: { prevTitle: "Eukarisiti: sakramentu monene", nextTitle: "Basantu mpe libondeli na bango" }
+      nav: { prevTitle: "Eukarisiti: sakramentu monene", nextTitle: "Bonganga-nzambe na Eklezia Katolike" }
     },
     "recursos-recomendados": {
       sec4: {

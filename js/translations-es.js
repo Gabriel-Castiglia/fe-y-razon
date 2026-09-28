@@ -189,7 +189,7 @@ NUNCA Reina-Valera ni traducciones protestantes.
                 <h2>Vivir la fe</h2>
                 <p>Comprender este misterio invita a vivir con mayor santidad, pedir perdón y ofrecer oraciones por los difuntos, confiando en la obra salvadora de Cristo.</p>`,
       nav: {
-        prevTitle: "La Santísima Trinidad",
+        prevTitle: "Los santos y su intercesión",
         nextTitle: "La nueva ley en Cristo"
       }
     },
@@ -280,7 +280,7 @@ Las siete citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
                 <p>Jesús afirma la presencia real con la frase más directa posible: «mi carne es la verdadera comida». Ante la objeción de los que se escandalizan, no aclara ninguna metáfora: los deja irse. Pablo lo confirma desde afuera del relato joánico. Y los primeros discípulos de los apóstoles lo creyeron sin sombra de duda. Tres líneas de evidencia independientes. Ninguna tiene respuesta en la interpretación simbólica.</p>
                 <p>Cómo esta realidad se hace presente en la Misa está en el tema <a href="tema-transubstanciacion.html">Transubstanciación</a>, desde 1 Corintios 10:16. Y por qué estas palabras se aceptan como verdad de Dios, en el tema <a href="tema-por-que-creemos.html">¿Por qué creemos?</a></p>`,
       nav: {
-        prevTitle: "Por qué creemos en la fe católica",
+        prevTitle: "La primacía de Pedro",
         nextTitle: "Transubstanciación: el misterio eucarístico"
       }
     },
@@ -324,7 +324,7 @@ NUNCA Reina-Valera ni traducciones protestantes.
                 <p>La nueva ley se convierte en vida concreta cuando cultivamos la humildad, la justicia y la compasión. La Eucaristía y la oración nos ayudan a vivirla día a día.</p>`,
       nav: {
         prevTitle: "El purgatorio y la misericordia de Dios",
-        nextTitle: "La primacía de Pedro"
+        nextTitle: "La Santísima Trinidad"
       }
     },
     "la-primacia-de-pedro": {
@@ -455,8 +455,8 @@ Cotejadas el 28-sep-2026: las once, del Vaticano.
                     <p>Lo que no pierde es el sacerdocio. La ordenación imprime un carácter indeleble (c. 1008): es sacerdote «para siempre, según el orden de Melquisedec» (Hebreos 5:6), y la Iglesia reconoce que sacerdote fue y sacerdote sigue siendo. Lo que pierde es el estado clerical, con sus derechos y obligaciones: deja de pertenecer jurídicamente al clero, pasa a ser un laico ante la ley de la Iglesia y queda libre del celibato para casarse válidamente por la Iglesia.</p>
                 </div>`,
       nav: {
-        prevTitle: "La nueva ley en Cristo",
-        nextTitle: "El Sacerdocio en la Iglesia Católica"
+        prevTitle: "Por qué creemos en la fe católica",
+        nextTitle: "La Eucaristía: el sacramento central"
       }
     },
     "la-santisima-trinidad": {
@@ -498,8 +498,8 @@ NUNCA Reina-Valera ni traducciones protestantes.
                 <h2>Implicaciones para la vida</h2>
                 <p>La doctrina trinitaria nos invita a vivir en comunión, transparencia y servicio. Somos hechos a imagen de un Dios que es comunidad.</p>`,
       nav: {
-        prevTitle: "Los santos y su intercesión",
-        nextTitle: "El purgatorio y la misericordia de Dios"
+        prevTitle: "La nueva ley en Cristo",
+        nextTitle: "Por qué creemos en la fe católica"
       }
     },
     "los-santos": {
@@ -608,8 +608,8 @@ Por lo tanto, <strong class="s-hi">ya que estamos rodeados de una verdadera nube
 
             <p>Y lo que hace la Iglesia al invocarlos es exactamente lo que muestra el Apocalipsis: llevan al altar del cielo las oraciones de los fieles y las presentan ante el trono del Cordero. A los santos no se los adora. Se les pide que intercedan ante Dios, igual que se le pide a un hermano vivo que rece por uno. La única diferencia está a favor de ellos: están en el cielo y conocen como Dios conoce. Por eso ven, escuchan e interceden. Quien dice que los muertos no pueden escuchar tiene que explicar antes por qué el cielo guarda las oraciones en copas de oro.</p>`,
       nav: {
-        prevTitle: "Transubstanciación: el misterio eucarístico",
-        nextTitle: "La Santísima Trinidad"
+        prevTitle: "El Sacerdocio en la Iglesia Católica",
+        nextTitle: "El purgatorio y la misericordia de Dios"
       }
     },
     "por-que-creemos": {
@@ -716,8 +716,8 @@ Cotejadas el 27-ago-2026: 8 del Vaticano, 2 de Jerusalén (Mt 16:18 y 1 Tim 3:15
                 <h2>Conclusión: creer y cumplir</h2>
                 <p>La Palabra de los profetas es de Dios. Los apóstoles la atestiguaron. Hay que leerla toda —incluyendo lo que dice sobre la Tradición oral, sobre quién interpreta y sobre la Iglesia que Cristo fundó. Y la fe consiste en hacer lo que Dios dice. No entran en el Reino los que dicen «Señor, Señor», sino los que cumplen la voluntad del Padre (Mt 7:21). La Biblia, leída entera y con honestidad, señala hacia la misma Iglesia que Jesús fundó. Creer es confiar en Jesucristo aunque la experiencia humana diga lo contrario, como hizo Pedro en el lago. Y ese acto de confianza lo cambia todo.</p>`,
       nav: {
-        prevTitle: "El Sacerdocio en la Iglesia Católica",
-        nextTitle: "La Eucaristía: el sacramento central"
+        prevTitle: "La Santísima Trinidad",
+        nextTitle: "La primacía de Pedro"
       }
     },
     "sacerdocio": {
@@ -815,8 +815,8 @@ Cotejadas el 27-ago-2026: 6 del Vaticano, 2 de Jerusalén (Heb 5:1-2 y 5:4).
                 </ul>
                 <p>Si se toma la Biblia entera —no pasajes aislados— se encuentra sacerdocio ordenado, confesión, sacrificio y altar. La pregunta no es si está en la Biblia. Está. La pregunta es si se está dispuesto a leer todo.</p>`,
       nav: {
-        prevTitle: "La primacía de Pedro",
-        nextTitle: "Por qué creemos en la fe católica"
+        prevTitle: "Transubstanciación: el misterio eucarístico",
+        nextTitle: "Los santos y su intercesión"
       }
     },
     "transubstanciacion": {
@@ -897,7 +897,7 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
                 <p>Queda una sola pregunta, y no es sobre el pan: es sobre quién habla. Si el que dice «esto es mi cuerpo» es aquel por medio del cual fueron hechas todas las cosas, no hay nada que discutir; hay algo que creer. Por eso este tema no se decide con argumentos de química ni de filosofía griega, sino en el terreno del tema <a href="tema-por-que-creemos.html">¿Por qué creemos?</a> Si su palabra es palabra de Dios, hace lo que dice. Siempre lo hizo.</p>`,
       nav: {
         prevTitle: "La Eucaristía: el sacramento central",
-        nextTitle: "Los santos y su intercesión"
+        nextTitle: "El Sacerdocio en la Iglesia Católica"
       }
     },
     "recursos-recomendados": {
