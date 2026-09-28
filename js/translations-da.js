@@ -88,10 +88,10 @@ const translationsDA = {
   },
   article9: {
     category: "Apologetik",
-    date: "Kommer snart",
+    date: "September 2026",
     title: "Peters primat",
-    excerpt: "Hvorfor vi har en pave: apostolsk succession og Peters primat.",
-    time: "11 min læsning",
+    excerpt: "Nøglerne til Himmeriget, klippen og opgaven at styrke brødrene: hvad Skriften giver Peter.",
+    time: "14 min læsning",
     link: "Læs →"
   },
   article10: {
@@ -661,28 +661,107 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                 <span class="eyebrow-text">Specialemne</span>
             </div>
             <h1>Peters primat</h1>
-            <p>En klar analyse af, hvorfor den katolske kirke anerkender paven som Peters efterfølger og synlig vejleder for kirkens enhed.</p>
+            <p>Kristus byggede sin Kirke på Peter, gav ham nøglerne til Himmeriget og pålagde ham at styrke sine brødre. Hvad Skriften siger, skriftsted for skriftsted.</p>
             <div class="article-meta">
-                <span>11 min læsning</span>
-                <span>Udgivet maj 2026</span>
+                <span>14 min læsning</span>
+                <span>Udgivet september 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
-      article: `<p>Peters primat er en lære, der er afgørende for at forstå Kirkens struktur. Jesus betroede Peter en unik rolle som hyrde og garant for den apostolske enhed.</p>
-                <h2>Bibelsk grundlag</h2>
-                <p>I Evangeliet erklærer Kristus Peter for klippen og betror ham at vogte sine får. Dette mandat afspejler en særlig autoritet til at lede det kristne fællesskab.</p>
+      article: `<p>Mod pavedømmet har indvendingen to former. Den første gentages af protestanter fra næsten alle kirkesamfund, af adventister og af Jehovas Vidner: <em>"Klippen er Kristus, ikke Peter. Peter er bare en lille sten; klippen er den tro, han bekendte."</em> Den anden hører til i den evangelikale verden: <em>"Den sande kirke er usynlig: den har intet hierarki, ingen biskopper og ingen pave. Det har Rom opfundet."</em></p>
+                <p>Begge besvares med Skriften. Først, hvad Kirken er bygget på, og hvem der har nøglerne. Dernæst, om denne Kirke har en ledelse, og om den fandtes, før nogen organiserede den. Og til sidst, hvem Kristus gav til opgave at holde de andre oppe.</p>
+                <h2>Kristus er hovedhjørnestenen, og der er en grundvold<br>Ef 2,20-22</h2>
+                <p>Før man diskuterer, om Peter er en klippe, må man se, hvordan Paulus bruger det billede.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matt 16:18</span>
-                    <blockquote>«<strong class="s-hi">Du er Peter, og på denne klippe vil jeg bygge min kirke</strong>»</blockquote>
+                    <span class="scripture-ref">✝ Ef 2,20-22</span>
+                    <blockquote>«I er bygget på apostlenes og profeternes grundvold med <strong>Kristus Jesus selv som hovedhjørnesten</strong>. I ham bliver <strong>hele bygningen</strong> føjet sammen og <strong>vokser</strong> op til et helligt tempel i Herren, og i ham bliver også I bygget sammen til en bolig for Gud i Ånden.»</blockquote>
                 </div>
-                <h2>Apostolsk succession</h2>
-                <p>Paven er Peters efterfølger i missionen med at styrke brødrene. Denne kontinuitet sikrer troskab over for trosdeponetet og beskytter Kirkens enhed.</p>
+                <p>Paulus sætter ikke Kristus og apostlene op mod hinanden: han sætter dem i den samme bygning. Kristus er hovedhjørnestenen, den der bærer og retter alt det øvrige ind; apostlene og profeterne er grundvolden, og de er det i ham. At apostlene er grundvold, tager intet fra Kristus. Og bygningen er ikke færdig: den vokser, med sten der lægges oven på de første. Indvendingen tvinger til at vælge mellem Kristus og apostlene. Paulus vælger ikke.</p>
+                <h2>"Du er Peter": nøglerne til Himmeriget<br>Matt 16,16-19</h2>
+                <p>Det centrale skriftsted er Jesu svar på Peters bekendelse.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matt 16,16-19</span>
+                    <blockquote>«Simon Peter svarede: »Du er Kristus, den levende Guds søn.« Jesus sagde til ham: »Salig er du, Simon, Jonas' søn, for det har kød og blod ikke åbenbaret dig, men min fader, som er i himlene. Og jeg siger dig: <strong class="s-hi">Du er Peter, og på den klippe vil jeg bygge min kirke</strong><strong>, og dødsrigets porte skal ikke få magt over den</strong>. <strong class="s-hi">Jeg vil give dig</strong> <strong>nøglerne til Himmeriget, og hvad du binder på jorden, skal være bundet i himlene, og hvad du løser på jorden, skal være løst i himlene</strong>.«»</blockquote>
+                </div>
+                <p>Jesus talte aramæisk, og på aramæisk er der kun ét ord: <em>kefa</em>, klippe. Johannesevangeliet bevarer det oprindelige navn ved det første møde: <em>"Du er Simon, Johannes' søn; du skal kaldes Kefas"</em>, det betyder Peter (Joh 1,42), og Paulus bliver ved med at kalde ham Kefas i sine breve. På græsk er <em>petra</em> et hunkønsord og kan ikke bruges som navn til en mand, så det fik den hankønsendelse: <em>Petros</em>. Forskellen mellem en lille sten og en klippe ligger ikke i det, Jesus sagde. Den ligger i oversætterens grammatik.</p>
+                <p>Dernæst nøglerne. Matthæus skriver til jøder, og en jøde vidste, hvad det betød at få nøglerne af en konge. Esajas fortæller det: Gud forkynder, at han vil fjerne Shebna, paladsforvalteren, fra hans embede og sætte Eljakim i hans sted: <em>"Jeg lægger nøglen til Davids hus på hans skulder; når han åbner, kan ingen lukke, når han lukker, kan ingen åbne"</em> (Es 22,22). Nøglen var kongens myndighed lagt i hænderne på en forvalter, som åbnede og lukkede i hans navn. Jesus tager det billede og overdrager det til Peter, med det samme par af verber (binde og løse, åbne og lukke) og med en garanti, som Eljakim ikke havde: hvad Peter binder på jorden, er bundet i himlene.</p>
+                <p>Og det hele er sagt i ental. At binde og løse får alle apostlene senere (Matt 18,18). Nøglerne får kun Peter.</p>
+                <h2>Levende sten: ingen tager Kristi plads<br>1 Pet 2,3-8</h2>
+                <p>Den, der bedst besvarer indvendingen om klippen, er Peter selv.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Pet 2,3-8</span>
+                    <blockquote>«…nu I har smagt, at <strong>Herren</strong> er god. Kom til <strong>ham, den levende sten</strong>, som mennesker vragede, men som er udvalgt og kostbar i Guds øjne, og lad <strong>jer selv</strong> som <strong>levende sten</strong> bygge op til et åndeligt hus, til et helligt præsteskab, så I kan frembære åndelige ofre, som Gud tager imod for Jesu Kristi skyld. For der står i Skriften: »Se, jeg lægger i Zion en hjørnesten, udvalgt og kostbar; den, der tror på den, skal ikke blive til skamme.« Æren er altså jeres, I som tror; men for dem, der ikke tror, er »den sten, bygmestrene vragede, blevet hovedhjørnesten« og »en snublesten og en klippe til fald«. <strong class="s-hi">De snubler, fordi de ikke adlyder ordet; og det var de også bestemt til</strong>.»</blockquote>
+                </div>
+                <p>Den mand, Kristus kaldte klippe, tager ikke Kristi plads. Han kalder Kristus "den levende sten", hovedhjørnestenen udvalgt af Gud, og alle de troende "levende sten", bygget på den. Skriften bruger billedet af stenen om Kristus, om apostlene og om de troende, hver på sin plads, og intet sted i Det Nye Testamente fremstår det som en rivalisering. Peter strides ikke med Kristus om pladsen: han peger på den.</p>
+                <p>Og han slutter med en advarsel, som han ikke mildner. Snublen ligger ikke i stenen, men i ikke at adlyde ordet, og det er den skæbne, der venter den, som ikke tror. Ordet, i Matthæus 16, siger det, det siger.</p>
+                <h2>Guds hus er Kirken<br>1 Tim 3,15</h2>
+                <p>Paulus skriver til Timotheus, hvordan man skal færdes, og siger hvor:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Tim 3,15</span>
+                    <blockquote>«…så ved du, hvordan man skal færdes i <strong>Guds hus</strong>, som er <strong>den levende Guds kirke</strong>, <strong>sandhedens søjle og grundvold</strong>.»</blockquote>
+                </div>
+                <p>Paulus siger ikke, at Skriften er sandhedens søjle og grundvold. Han siger, at Kirken er det, og kalder den den levende Guds hus. Der er ikke mere at tilføje, bortset fra én ting: et hus har en herre, det har døre, og det har en, der passer på nøglerne.</p>
+                <h2>Et hus med nogen til at lede det<br>1 Tim 3,1-5 og 3,8</h2>
+                <p>Et par linjer tidligere beskriver Paulus, hvem der leder dette hus.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Tim 3,1-5</span>
+                    <blockquote>«Det er et troværdigt ord: Hvis nogen står efter en <strong>tilsynsmandsgerning</strong>, ønsker han sig en god gerning. <strong>En tilsynsmand</strong> skal derfor være uangribelig, kun gift én gang, ædru, besindig, agtværdig, gæstfri, dygtig til at undervise, ikke drikfældig eller voldsom, men mild, fredsommelig og ikke pengeglad. <strong>Han skal lede</strong> sit hus godt og holde sine børn i lydighed med al værdighed; for hvis han ikke forstår at lede sit eget hus, hvordan skulle han så kunne tage sig af Guds menighed?»</blockquote>
+                </div>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Tim 3,8</span>
+                    <blockquote>«Ligeledes skal <strong>menighedstjenerne</strong> være agtværdige, ikke tvetungede, ikke drikfældige, ikke ude efter uhæderlig vinding.»</blockquote>
+                </div>
+                <p>Det, oversættelsen gengiver med "tilsynsmand" og "menighedstjener", hedder på græsk <em>episkopos</em> og <em>diakonos</em>: af det første kommer, bogstav for bogstav, ordet biskop, og af det andet ordet diakon. Kristi Kirke har biskopper og diakoner, det vil sige hierarki og myndighed, og Paulus fastsætter kravene til hvert embede. Et fællesskab, hvor ingen forestår og ingen leder, kan have Bibelen i hånden og god vilje, men det har ikke den form, som den Kirke har, Paulus beskriver. Det er et menneskeværk.</p>
+                <p>"Kun gift én gang" sætter en grænse, ikke en pligt: det udelukker den, der har giftet sig igen, ikke den, der ikke har giftet sig, og Paulus selv var ikke gift (1 Kor 7,7-8). Derfor er præsternes cølibat en disciplin i Kirken og ikke et dogme. I den latinske kirke gifter præsterne sig ikke og giver hele deres liv til Gud; i de østlige katolske kirker findes der gifte præster, og overalt kan en gift mand vies til diakon.<sup>*</sup></p>
+                <h2>Ulvene kommer indefra<br>Ap.G. 20,29-30</h2>
+                <p>Paulus tager afsked med de ældste i Efesus med en advarsel.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ap.G. 20,29-30</span>
+                    <blockquote>«Jeg ved, at når jeg er borte, vil <strong>glubske ulve</strong> trænge ind hos jer, og de vil ikke skåne hjorden; ja, <strong>blandt jer selv</strong> vil der fremstå mænd, som <strong>fører falsk tale</strong> for at lokke disciplene efter sig.»</blockquote>
+                </div>
+                <p>Paulus forudsiger to trusler: ulvene, der vil trænge ind udefra, og de mænd, der vil fremstå indefra, blandt hyrderne selv, og lokke disciple efter sig. Den anden er den, historien gentog. Bruddet i det 16. århundrede blev ikke begyndt af fremmede: Luther var augustinermunk og præst, og Zwingli var præst i Zürich. Begge var dannet i den Kirke, som de siden forlod. Og advarslen forudsætter det, som indvendingen benægter: en hjord med grænser, som man kan forlade, og som man kan lokke andre bort fra.</p>
+                <h2>Kirken fandtes allerede, og Saulus forfulgte den<br>Ap.G. 8,1-3</h2>
+                <p>Før sin omvendelse vidste Paulus udmærket, hvor Kirken var.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ap.G. 8,1-3</span>
+                    <blockquote>«<strong><strong class="s-hi">Saulus</strong> billigede drabet. Samme dag udbrød der en <strong class="s-hi">stor forfølgelse af menigheden</strong> i Jerusalem, og alle undtagen apostlene blev spredt ud over Judæa og Samaria. Nogle fromme mænd begravede Stefanus og holdt en stor dødeklage over ham. Men <strong class="s-hi">Saulus</strong> <strong class="s-hi">hærgede menigheden</strong>; han gik fra hus til hus, slæbte mænd og kvinder med sig og fik dem sat i fængsel.</strong>»</blockquote>
+                </div>
+                <p>Flere år før det første brev i Det Nye Testamente blev skrevet, havde Kirken allerede et navn, en by og forfølgere. Saulus forfulgte ikke en idé eller et usynligt fællesskab af sjæle: han gik fra hus til hus og satte mænd og kvinder i fængsel. Man forfølger det, man kan finde. Kristi Kirke fandtes, den var synlig, og dens medlemmer havde navn og adresse. Rom opfandt den ikke: Saulus vidste allerede, hvor han skulle lede efter den.</p>
+                <h2>At forfølge Kirken er at forfølge Kristus<br>Ap.G. 9,3-5</h2>
+                <p>På vejen til Damaskus siger Kristus til Saulus, hvem han forfulgte.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ap.G. 9,3-5</span>
+                    <blockquote>«Men undervejs, da han nærmede sig Damaskus, strålede der pludselig et lys fra himlen om ham, og han faldt til jorden og hørte en røst sige til sig: »Saul, Saul, <strong class="s-hi">hvorfor forfølger du mig?</strong>« Han spurgte: »Hvem er du, Herre?« Og røsten svarede: »<strong class="s-hi">Jeg er Jesus, som du forfølger</strong>.«»</blockquote>
+                </div>
+                <p>Saulus havde aldrig set Jesus eller lagt hånd på ham. Han havde sat kristne i fængsel. Og Jesus spørger ham ikke, hvorfor han forfølger hans disciple: han spørger, hvorfor han forfølger ham. Kristus og hans Kirke er ét, så meget at det slag, den ene får, får den anden også. At skille Kristus fra hans Kirke er en operation, som Kristus selv ikke accepterede på vejen til Damaskus.</p>
+                <h2>"Styrk dine brødre"<br>Luk 22,31-32</h2>
+                <p>Natten til den sidste nadver henvender Jesus sig til Peter ved navn.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Luk 22,31-32</span>
+                    <blockquote>«Simon, Simon! Satan har forlangt at få jer i sin magt for at sigte jer som hvede. Men <strong class="s-hi">jeg har bedt for dig</strong>, for at din tro ikke skal svigte. Og når du engang omvender dig, så <strong class="s-hi">styrk dine brødre</strong>.»</blockquote>
+                </div>
+                <p>Satan forlangte at sigte dem alle: "jer", i flertal. Jesus siger, at han bad for én alene, "for dig", i ental, og den ene giver han til opgave at styrke de andre. Opgaven gives ikke til den stærkeste. To vers senere forudsiger han, at Peter samme nat vil fornægte ham tre gange. Peter er et svagt og syndigt menneske, og alligevel betros opgaven at styrke brødrene i troen til ham alene. Fastheden kommer ikke fra Peter: den kommer fra Kristi bøn for Peter.</p>
+                <h2>Tre gange: "Vogt mine får"<br>Joh 21,15-17</h2>
+                <p>Efter opstandelsen, ved søens bred, vender Jesus tilbage til den opgave.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Joh 21,15-17</span>
+                    <blockquote>«Da de havde spist, sagde Jesus til Simon Peter: »Simon, Johannes' søn, <strong class="s-hi">elsker du mig mere end disse?</strong>« Han svarede: »Ja, Herre, du ved, at jeg har dig kær.« Jesus sagde til ham: »<strong class="s-hi">Vogt mine lam!</strong>« Han spurgte ham igen, anden gang: »Simon, Johannes' søn, elsker du mig?« Han svarede: »Ja, Herre, du ved, at jeg har dig kær.« Jesus sagde til ham: »<strong class="s-hi">Vær hyrde for mine får!</strong>« Tredje gang spurgte han ham: »Simon, Johannes' søn, har du mig kær?« Peter blev bedrøvet over, at han tredje gang spurgte ham: »Har du mig kær?« og han svarede: »Herre, du ved alt, du ved, at jeg har dig kær.« Jesus sagde til ham: »<strong class="s-hi">Vogt mine får!</strong>«»</blockquote>
+                </div>
+                <p>Peter fornægtede ham tre gange, og Jesus spørger ham tre gange. Han bebrejder ham ikke forræderiet: han beder om kærlighed og overgiver ham, efter hvert svar, hjorden. "Mere end disse" sammenligner ham med de andre disciple, der stod på bredden, og opgaven er til ham alene. Men hjorden er ikke Peters. Kristus siger "mine lam", "mine får": Peter vogter det, der tilhører en anden, på andens vegne, som forvalteren, der passer på nøglerne til et hus, som ikke er hans eget. Kristus vælger en synder til at være hyrde for sine får, og opgavens styrke ligger hos den, der giver den.</p>
                 <ul>
-                    <li>Den første pave modtog et mandat om hyrdemyndighed.</li>
-                    <li>Den apostolske succession beskytter læren og kommunionen.</li>
-                    <li>Paven fungerer som et synligt tegn på enhed for alle troende.</li>
+                    <li>Kristus er hovedhjørnestenen, og apostlene er grundvold i ham: Skriften tvinger ikke til at vælge.</li>
+                    <li>På aramæisk er Peter og klippen det samme ord, <em>kefa</em>.</li>
+                    <li>Nøglerne er kongens myndighed lagt i hænderne på hans forvalter, og de gives kun til Peter.</li>
+                    <li>Kirken er sandhedens søjle og grundvold, og den har biskopper og diakoner, der leder den.</li>
+                    <li>Den fandtes og blev forfulgt, før Det Nye Testamente blev skrevet, og at forfølge den er at forfølge Kristus.</li>
+                    <li>Til Peter, svag og syndig, giver Kristus opgaven at styrke sine brødre og vogte sine får.</li>
                 </ul>
-                <h2>Kirkens enhed</h2>
-                <p>At anerkende Peters primat er ikke et vilkårligt hierarki, men en måde at holde Kirken forenet i tro, håb og kærlighed.</p>`,
+                <h2>Konklusion</h2>
+                <p>Skriften stiller ikke valget mellem Kristus og Peter. Kristus er hovedhjørnestenen, og Peter er klippen, som Kristus bygger på; Kristus er husets herre, og Peter er den, der passer på dets nøgler; Kristus er hyrden, og Peter vogter hans får på hans vegne. Den Kirke, som disse skriftsteder beskriver, har grundvold, ledelse og grænser, og den fandtes, før et eneste brev i Det Nye Testamente blev skrevet. Det opfandt Rom ikke. Det skrev Matthæus, Lukas, Paulus og Peter selv.</p>
+                <p>Hos Esajas går nøglen fra Shebna til Eljakim: forvalteren skifter, og embedet består, fordi Davids hus stadig står. Peter døde som martyr i Rom, og løftet om, at dødsrigets porte ikke skulle få magt over Kirken, døde ikke med ham.</p>
+                <div class="article-footnote">
+                    <p><sup>*</sup> Hvis en katolsk præst beslutter, at han vil gifte sig, kan han anmode om det, men han kan ikke afgøre det på egen hånd. Han skal formelt ansøge om dispensation fra cølibatet, som kun paven giver (Den kanoniske lovbog, kan. 291), sammen med tabet af den gejstlige stand, kendt som laicisering. Når han har modtaget den, udøver han ikke længere tjenesten: han fejrer ikke messe, prædiker ikke og forvalter ikke sakramenterne, og han helliger sig helt sit ægteskab og sin familie. Den eneste undtagelse er dødsfare, hvor han kan give syndsforladelse til enhver, der har brug for det (kan. 976).</p>
+                    <p>Det, han ikke mister, er præsteskabet. Ordinationen indprenter et uudsletteligt præg (kan. 1008): han er præst "til evig tid på samme måde som Melkisedek" (Hebr 5,6), og Kirken anerkender, at præst var han, og præst forbliver han. Det, han mister, er den gejstlige stand med dens rettigheder og pligter: han hører ikke længere juridisk til gejstligheden, han bliver lægmand efter Kirkens lov, og han er fri af cølibatet, så han gyldigt kan gifte sig i Kirken.</p>
+                </div>`,
       nav: {
         prevTitle: "Den nye lov i Kristus",
         nextTitle: "Præstedømmet i den katolske kirke"

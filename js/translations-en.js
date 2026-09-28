@@ -88,10 +88,10 @@ const translationsEN = {
   },
   article9: {
     category: "Apologetics",
-    date: "Coming soon",
+    date: "September 2026",
     title: "The Primacy of Peter",
-    excerpt: "Why we have a Pope: apostolic succession and Peter's primacy.",
-    time: "11 min read",
+    excerpt: "The keys of the Kingdom, the rock and the charge to strengthen the brethren: what Scripture gives to Peter.",
+    time: "14 min read",
     link: "Read →"
   },
   article10: {
@@ -290,28 +290,107 @@ const translationsEN = {
                 <span class="eyebrow-text">Special Topic</span>
             </div>
             <h1>The Primacy of Peter</h1>
-            <p>A clear analysis of why the Catholic Church recognizes the Pope as Peter’s successor and visible guide of ecclesial unity.</p>
+            <p>Christ built his Church on Peter, gave him the keys of the Kingdom and charged him to strengthen his brethren. What Scripture says, passage by passage.</p>
             <div class="article-meta">
-                <span>11 min read</span>
-                <span>Published May 2026</span>
+                <span>14 min read</span>
+                <span>Published September 2026</span>
             </div>
             <a href="index.html#temas" class="btn-outline-white">Back to Topics</a>`,
-      article: `<p>The primacy of Peter is a teaching essential to understanding the structure of the Church. Jesus entrusted Peter with a unique role as shepherd and guarantor of apostolic unity.</p>
-                <h2>Biblical foundation</h2>
-                <p>In the Gospel, Christ declares Peter to be the rock and entrusts him to feed his sheep. This mandate reflects a special authority in leading the Christian community.</p>
+      article: `<p>Against the papacy the objection comes in two forms. The first is repeated by Protestants of nearly every denomination, by Adventists and by Jehovah's Witnesses: <em>"The rock is Christ, not Peter. Peter is just a little stone; the rock is the faith he confessed."</em> The second belongs to the evangelical world: <em>"The true Church is invisible: it has no hierarchy, no bishops, no pope. Rome invented all that."</em></p>
+                <p>Both are answered from Scripture. First, what the Church is built on and who holds the keys. Then, whether that Church has a government and whether it existed before anyone organized it. And finally, whom Christ charged with holding up the rest.</p>
+                <h2>Christ is the cornerstone, and there are foundations<br>Ephesians 2:20-22</h2>
+                <p>Before arguing over whether Peter is a rock, it helps to see how Paul uses that image.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matthew 16:18</span>
-                    <blockquote>«<strong class="s-hi">You are Peter, and on this rock I will build my Church</strong>»</blockquote>
+                    <span class="scripture-ref">✝ Ephesians 2:20-22</span>
+                    <blockquote>«…built upon the foundation of the apostles and prophets, <strong>Christ Jesus himself being the cornerstone</strong>, in whom <strong>the whole structure</strong> is joined together and <strong>grows</strong> into a holy temple in the Lord; in whom you also are built into it for a dwelling place of God in the Spirit.»</blockquote>
                 </div>
-                <h2>Apostolic succession</h2>
-                <p>The Pope is Peter’s successor in the mission of confirming the brothers. This continuity ensures fidelity to the deposit of faith and safeguards the Church’s unity.</p>
+                <p>Paul does not set Christ and the apostles in competition: he sets them in the same building. Christ is the cornerstone, the stone that bears and aligns everything else; the apostles and prophets are the foundation, and they are so in him. That the apostles are a foundation takes nothing away from Christ. And the building is not finished: it grows, with stones laid on top of the first ones. The objection forces a choice between Christ and the apostles. Paul does not choose.</p>
+                <h2>"You are Peter": the keys of the Kingdom<br>Matthew 16:16-19</h2>
+                <p>The central passage is Jesus' answer to Peter's confession.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matthew 16:16-19</span>
+                    <blockquote>«Simon Peter replied, "You are the Christ, the Son of the living God." And Jesus answered him, "Blessed are you, Simon Bar-Jona! For flesh and blood has not revealed this to you, but my Father who is in heaven. And I tell you, <strong class="s-hi">you are Peter, and on this rock I will build my church</strong><strong>, and the powers of death shall not prevail against it</strong>. <strong class="s-hi">I will give you</strong> <strong>the keys of the kingdom of heaven, and whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven</strong>."»</blockquote>
+                </div>
+                <p>Jesus spoke Aramaic, and in Aramaic there is only one word: <em>kepha</em>, rock. John's Gospel keeps the original name at the first meeting: <em>"So you are Simon the son of John? You shall be called Cephas"</em>, which means Peter (Jn 1:42), and Paul goes on calling him Cephas in his letters. In Greek, <em>petra</em> is a feminine word and cannot serve as a man's name, so it was given the masculine ending: <em>Petros</em>. The difference between a little stone and a rock is not in what Jesus said. It is in the translator's grammar.</p>
+                <p>Next, the keys. Matthew writes for Jews, and a Jew knew what it meant to receive the keys from a king. Isaiah tells it: God announces that he will remove Shebna, the steward over the household, from his office, and put Eliakim in his place: <em>"And I will place on his shoulder the key of the house of David; he shall open, and none shall shut; and he shall shut, and none shall open"</em> (Is 22:22). The key was the king's authority placed in the hands of an administrator, who opened and shut in his name. Jesus takes that image and hands it to Peter, with the same pair of verbs (bind and loose, open and shut) and with a guarantee Eliakim never had: what Peter binds on earth is bound in heaven.</p>
+                <p>And all of it is said in the singular. Binding and loosing will later be given to all the apostles (Mt 18:18). The keys, to Peter alone.</p>
+                <h2>Living stones: no one takes Christ's place<br>1 Peter 2:3-8</h2>
+                <p>The best answer to the objection about the rock comes from Peter himself.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Peter 2:3-8</span>
+                    <blockquote>«…for you have tasted the kindness of <strong>the Lord</strong>. Come to <strong>him, to that living stone</strong>, rejected by men but in God's sight chosen and precious; and like <strong>living stones</strong> be <strong>yourselves</strong> built into a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ. For it stands in scripture: "Behold, I am laying in Zion a stone, a cornerstone chosen and precious, and he who believes in him will not be put to shame." To you therefore who believe, he is precious, but for those who do not believe, "The very stone which the builders rejected has become the head of the corner," and "A stone that will make men stumble, a rock that will make them fall"; <strong class="s-hi">for they stumble because they disobey the word, as they were destined to do</strong>.»</blockquote>
+                </div>
+                <p>The man Christ called a rock does not claim Christ's place. He calls Christ "that living stone", the cornerstone chosen by God, and all believers "living stones" built upon it. Scripture uses the image of the stone for Christ, for the apostles and for the faithful, each in his own place, and nowhere in the New Testament does that appear as a rivalry. Peter does not dispute Christ's place: he points to it.</p>
+                <p>And he closes with a warning he does not soften. The stumbling is not in the stone but in disobeying the word, and that is the destiny of whoever does not believe it. The word, in Matthew 16, says what it says.</p>
+                <h2>The household of God is the Church<br>1 Timothy 3:15</h2>
+                <p>Paul writes to Timothy about how one ought to behave, and says where:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Timothy 3:15</span>
+                    <blockquote>«…you may know how one ought to behave in <strong>the household of God, which is the church</strong> of the living God, <strong>the pillar and bulwark of the truth</strong>.»</blockquote>
+                </div>
+                <p>Paul does not say that Scripture is the pillar and bulwark of the truth. He says the Church is, and he calls it the household of the living God. There is nothing to add, except one thing: a house has an owner, it has doors, and it has someone who keeps the keys.</p>
+                <h2>A house with someone to govern it<br>1 Timothy 3:1-5 and 3:8</h2>
+                <p>A few lines earlier, Paul describes who governs that house.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Timothy 3:1-5</span>
+                    <blockquote>«The saying is sure: If any one aspires to <strong>the office of bishop</strong>, he desires a noble task. Now <strong>a bishop</strong> must be above reproach, the husband of one wife, temperate, sensible, dignified, hospitable, an apt teacher, no drunkard, not violent but gentle, not quarrelsome, and no lover of money. <strong>He must manage</strong> his own household well, keeping his children submissive and respectful in every way; for if a man does not know how to manage his own household, how can he care for God's church?»</blockquote>
+                </div>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Timothy 3:8</span>
+                    <blockquote>«<strong>Deacons</strong> likewise must be serious, not double-tongued, not addicted to much wine, not greedy for gain.»</blockquote>
+                </div>
+                <p>The Greek words Paul uses are <em>episkopé</em> and <em>episkopos</em>: from them comes, letter by letter, the word bishop. And <em>diakonos</em> is deacon. The Church of Christ has bishops and deacons, that is, hierarchy and authority, and Paul sets the requirements for each office. A community where no one presides and no one governs may have the Bible in hand and good will, but it does not have the shape of the Church Paul describes. It is a work of men.</p>
+                <p>"The husband of one wife" sets a limit, not an obligation: it excludes the man who remarried, not the man who never married, and Paul himself was not married (1 Cor 7:7-8). That is why priestly celibacy is a discipline of the Church and not a dogma. In the Latin Church priests do not marry and give their whole life to God; in the Eastern Catholic Churches there are married priests, and everywhere a married man can be ordained a deacon.<sup>*</sup></p>
+                <h2>The wolves come from within<br>Acts 20:29-30</h2>
+                <p>Paul takes leave of the elders of Ephesus with a warning.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Acts 20:29-30</span>
+                    <blockquote>«I know that after my departure <strong>fierce wolves</strong> will come in among you, not sparing the flock; and <strong>from among your own selves</strong> will arise men speaking <strong>perverse things</strong>, to draw away the disciples after them.»</blockquote>
+                </div>
+                <p>Paul announces two threats: the wolves who will come in from outside, and the men who will arise from within, from among the shepherds themselves, drawing disciples after them. The second is the one history repeated. The rupture of the sixteenth century was not begun by outsiders: Luther was an Augustinian friar and a priest, and Zwingli was a priest in Zurich. Both had been formed in the Church they later left. And the warning presupposes what the objection denies: a flock with boundaries, one that can be left and out of which others can be drawn away.</p>
+                <h2>The Church already existed, and Saul persecuted it<br>Acts 8:1-3</h2>
+                <p>Before his conversion, Paul knew very well where the Church was.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Acts 8:1-3</span>
+                    <blockquote>«<strong>And <strong class="s-hi">Saul</strong> was consenting to his death. And on that day <strong class="s-hi">a great persecution arose against the church</strong> in Jerusalem; and they were all scattered throughout the region of Judea and Samaria, except the apostles. Devout men buried Stephen, and made great lamentation over him. But <strong class="s-hi">Saul</strong> <strong class="s-hi">was laying waste the church</strong>, and entering house after house, he dragged off men and women and committed them to prison.</strong>»</blockquote>
+                </div>
+                <p>Years before the first letter of the New Testament was written, the Church already had a name, a city and persecutors. Saul was not persecuting an idea or an invisible communion of souls: he went from house to house and took men and women to prison. One persecutes what one can find. The Church of Christ existed, it was visible, and its members had names and addresses. Rome did not invent it: Saul already knew where to look for it.</p>
+                <h2>To persecute the Church is to persecute Christ<br>Acts 9:3-5</h2>
+                <p>On the road to Damascus, Christ tells Saul whom he was persecuting.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Acts 9:3-5</span>
+                    <blockquote>«Now as he journeyed he approached Damascus, and suddenly a light from heaven flashed about him. And he fell to the ground and heard a voice saying to him, "Saul, Saul, <strong class="s-hi">why do you persecute me?</strong>" And he said, "Who are you, Lord?" And he said, "<strong class="s-hi">I am Jesus, whom you are persecuting</strong>."»</blockquote>
+                </div>
+                <p>Saul had never seen Jesus nor laid a hand on him. He had imprisoned Christians. And Jesus does not ask him why he persecutes his followers: he asks why he persecutes him. Christ and his Church are one, to the point that the blow received by one is received by the other. Separating Christ from his Church is an operation Christ himself did not accept on the road to Damascus.</p>
+                <h2>"Strengthen your brethren"<br>Luke 22:31-32</h2>
+                <p>On the night of the Last Supper, Jesus addresses Peter by name.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Luke 22:31-32</span>
+                    <blockquote>«Simon, Simon, behold, Satan demanded to have you, that he might sift you like wheat, but <strong class="s-hi">I have prayed for you</strong> that your faith may not fail; and when you have turned again, <strong class="s-hi">strengthen your brethren</strong>.»</blockquote>
+                </div>
+                <p>In Greek the first "you" is plural: Satan demanded to sift them all. The second is singular: Jesus prayed for one alone, and to that one he entrusts the task of strengthening the rest. He does not give the charge to the strongest. Two verses later he tells him that this very night he will deny him three times. Peter is a weak and sinful man, and even so the task of strengthening his brethren in the faith is entrusted to him alone. The firmness does not come from Peter: it comes from Christ's prayer for Peter.</p>
+                <h2>Three times: "Feed my sheep"<br>John 21:15-17</h2>
+                <p>After the resurrection, on the shore of the lake, Jesus returns to that charge.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ John 21:15-17</span>
+                    <blockquote>«When they had finished breakfast, Jesus said to Simon Peter, "Simon, son of John, <strong class="s-hi">do you love me more than these?</strong>" He said to him, "Yes, Lord; you know that I love you." He said to him, "<strong class="s-hi">Feed my lambs</strong>." A second time he said to him, "Simon, son of John, do you love me?" He said to him, "Yes, Lord; you know that I love you." He said to him, "<strong class="s-hi">Tend my sheep</strong>." He said to him the third time, "Simon, son of John, do you love me?" Peter was grieved because he said to him the third time, "Do you love me?" And he said to him, "Lord, you know everything; you know that I love you." Jesus said to him, "<strong class="s-hi">Feed my sheep</strong>."»</blockquote>
+                </div>
+                <p>Peter denied him three times and Jesus asks him three times. He does not reproach him for the betrayal: he asks for love and, after each answer, hands him the flock. "More than these" compares him with the other disciples on the shore, and the charge is for him alone. But the flock is not Peter's. Christ says "my lambs", "my sheep": Peter tends what belongs to another, by commission, like the steward who keeps the keys of a house that is not his own. Christ chooses a sinner to shepherd his sheep, and the strength of the charge lies in the one who gives it.</p>
                 <ul>
-                    <li>The first Pope received a pastoral authority mandate.</li>
-                    <li>Apostolic succession protects doctrine and communion.</li>
-                    <li>The Pope acts as a visible sign of unity for all believers.</li>
+                    <li>Christ is the cornerstone, and the apostles are foundations in him: Scripture does not force a choice.</li>
+                    <li>In Aramaic, Peter and the rock are the same word, <em>kepha</em>.</li>
+                    <li>The keys are the king's authority placed in the hands of his steward, and they are given to Peter alone.</li>
+                    <li>The Church is the pillar and bulwark of the truth, and it has bishops and deacons who govern it.</li>
+                    <li>It existed and was persecuted before the New Testament was written, and to persecute it is to persecute Christ.</li>
+                    <li>To Peter, weak and sinful, Christ entrusts the task of strengthening his brethren and feeding his sheep.</li>
                 </ul>
-                <h2>Unity of the Church</h2>
-                <p>Recognizing Peter’s primacy is not an arbitrary hierarchy, but a way to keep the Church united in faith, hope, and love.</p>`,
+                <h2>Conclusion</h2>
+                <p>Scripture does not pose a choice between Christ and Peter. Christ is the cornerstone and Peter the rock on which Christ builds; Christ is the master of the house and Peter the one who keeps its keys; Christ is the shepherd and Peter feeds his sheep by commission. The Church these passages describe has foundations, government and boundaries, and it existed before a single letter of the New Testament was written. Rome did not invent that. Matthew, Luke, Paul and Peter himself wrote it.</p>
+                <p>In Isaiah the key passes from Shebna to Eliakim: the steward changes and the office remains, because the house of David still stands. Peter died a martyr in Rome, and the promise that the powers of death would not prevail against the Church did not die with him.</p>
+                <div class="article-footnote">
+                    <p><sup>*</sup> If a Catholic priest decides he wants to marry, he can ask to do so, but he cannot settle it on his own. He must formally request the dispensation from celibacy, which only the Pope grants (Code of Canon Law, c. 291), together with the loss of the clerical state, known as laicization. Once he receives it he no longer exercises the ministry: he does not celebrate Mass, preach or administer the sacraments, and he devotes himself entirely to his married and family life. The only exception is danger of death, in which he can absolve anyone who needs it (c. 976).</p>
+                    <p>What he does not lose is the priesthood. Ordination imprints an indelible character (c. 1008): he is a priest "for ever, after the order of Melchizedek" (Hebrews 5:6), and the Church recognizes that a priest he was and a priest he remains. What he loses is the clerical state, with its rights and obligations: he no longer belongs juridically to the clergy, he becomes a layman under the law of the Church, and he is freed from celibacy so that he can marry validly in the Church.</p>
+                </div>`,
       nav: {
         prevTitle: "The New Law in Christ",
         nextTitle: "The Priesthood in the Catholic Church"

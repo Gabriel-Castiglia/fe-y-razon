@@ -47,7 +47,7 @@ const translationsPT = {
     category: "Doutrina", date: "Em breve", title: "A nova lei", excerpt: "A lei de Cristo que substitui a Antiga Lei e guia os cristãos.", time: "8 min leitura", link: "Ler →"
   },
   article9: {
-    category: "Apologética", date: "Em breve", title: "A primazia de Pedro", excerpt: "Por que temos um Papa: a sucessão apostólica e o primado de Pedro.", time: "11 min leitura", link: "Ler →"
+    category: "Apologética", date: "Setembro 2026", title: "A primazia de Pedro", excerpt: "As chaves do Reino, a pedra e o encargo de confirmar os irmãos: o que a Escritura dá a Pedro.", time: "14 min leitura", link: "Ler →"
   },
   article10: {
     category: "Recursos", date: "Maio 2026", title: "Recursos recomendados", excerpt: "Uma seleção de recursos católicos para aprofundar sua fé e formação.", time: "5 min leitura", link: "Explorar →"
@@ -115,11 +115,102 @@ const translationsPT = {
     },
     "la-primacia-de-pedro": {
       pageTitle: "A primazia de Pedro | Fé e Razão",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>A primazia de Pedro</h1><p>Uma análise clara sobre por que a Igreja Católica reconhece o Papa como sucessor de São Pedro e guia visível da unidade eclesial.</p><div class="article-meta"><span>11 min leitura</span><span>Publicado em maio de 2026</span></div><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
-      article: `<p>A primazia de Pedro é um ensinamento essencial para compreender a estrutura da Igreja. Jesus confiou a Pedro um papel único como pastor e garante da unidade apostólica.</p><h2>Fundamento bíblico</h2><p>No evangelho, Cristo declara Pedro como rocha e encarrega-o de apascentar as suas ovelhas. Este mandato reflete uma autoridade especial na liderança da comunidade cristã.</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Mateus 16:18</span>
-                    <blockquote>«<strong class="s-hi">Tu és Pedro, e sobre esta pedra edificarei a minha Igreja</strong>»</blockquote>
-                </div><h2>Sucessão apostólica</h2><p>O Papa é o sucessor de São Pedro na missão de confirmar os irmãos. Esta continuidade assegura a fidelidade ao depósito da fé e protege a unidade da Igreja.</p><ul><li>O primeiro Papa recebeu um encargo de autoridade pastoral.</li><li>A sucessão apostólica protege a doutrina e a comunhão.</li><li>O Papa atua como sinal visível de unidade para todos os crentes.</li></ul><h2>Unidade da Igreja</h2><p>Reconhecer a primazia de Pedro não é uma hierarquia arbitrária, mas uma forma de manter a Igreja unida na fé, na esperança e no amor.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>A primazia de Pedro</h1><p>Cristo edificou a sua Igreja sobre Pedro, deu-lhe as chaves do Reino e encarregou-o de confirmar os seus irmãos. O que diz a Escritura, passagem por passagem.</p><div class="article-meta"><span>14 min leitura</span><span>Publicado em setembro de 2026</span></div><a href="index.html#temas" class="btn-outline-white">Voltar aos Temas</a>`,
+      article: `<p>Contra o papado a objeção tem duas formas. A primeira é repetida por protestantes de quase todas as denominações, adventistas e Testemunhas de Jeová: <em>«A rocha é Cristo, não Pedro. Pedro é só uma pedrinha; a rocha é a fé que ele confessou.»</em> A segunda é própria do mundo evangélico: <em>«A verdadeira Igreja é invisível: não tem hierarquia, nem bispos, nem papa. Isso foi Roma que inventou.»</em></p>
+                <p>As duas se respondem com a Escritura. Primeiro, sobre o que a Igreja está edificada e quem tem as chaves. Depois, se essa Igreja tem governo e se existia antes que alguém a organizasse. E por último, a quem Cristo encarregou de sustentar os demais.</p>
+                <h2>Cristo é a pedra angular, e há alicerces<br>Ef 2, 20-22</h2>
+                <p>Antes de discutir se Pedro é pedra, é preciso ver como Paulo usa essa imagem.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ef 2, 20-22</span>
+                    <blockquote>«…edificados sobre o fundamento dos apóstolos e profetas, <strong>tendo por pedra angular o próprio Cristo Jesus</strong>. É nele que <strong>todo edifício</strong>, harmonicamente disposto, <strong>se levanta</strong> até formar um templo santo no Senhor. É nele que também vós outros entrais conjuntamente, pela virtude do Espírito, no edifício que se torna a habitação de Deus.»</blockquote>
+                </div>
+                <p>Paulo não põe Cristo e os apóstolos em concorrência: põe os dois no mesmo edifício. Cristo é a pedra angular, a que sustenta e alinha todo o resto; os apóstolos e os profetas são o fundamento, e o são nele. Que os apóstolos sejam fundamento não tira nada de Cristo. E o edifício não está terminado: se levanta, com pedras que se acrescentam sobre as primeiras. A objeção obriga a escolher entre Cristo e os apóstolos. Paulo não escolhe.</p>
+                <h2>«Tu és Pedro»: as chaves do Reino<br>Mt 16, 16-19</h2>
+                <p>A passagem central é a resposta de Jesus à confissão de Pedro.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Mt 16, 16-19</span>
+                    <blockquote>«Simão Pedro respondeu: «Tu és o Cristo, o Filho de Deus vivo!». Jesus então lhe disse: «Feliz és, Simão, filho de Jonas, porque não foi a carne nem o sangue que te revelou isto, mas meu Pai que está nos céus. E eu te declaro: <strong class="s-hi">tu és Pedro, e sobre esta pedra edificarei a minha Igreja</strong><strong>; as portas do inferno não prevalecerão contra ela</strong>. <strong class="s-hi">Eu te darei</strong> <strong>as chaves do Reino dos céus: tudo o que ligares na terra será ligado nos céus, e tudo o que desligares na terra será desligado nos céus</strong>».»</blockquote>
+                </div>
+                <p>Jesus falava aramaico, e em aramaico a palavra é uma só: <em>kefa</em>, pedra. O Evangelho de João conserva o nome original no primeiro encontro: <em>«Tu és Simão, filho de João; serás chamado Cefas»</em>, que quer dizer pedra (Jo 1, 42), e Paulo continua a chamá-lo Cefas em suas cartas. Em grego, <em>petra</em> é uma palavra feminina e não serve como nome de homem, por isso recebeu a terminação masculina: <em>Petros</em>. A diferença entre pedrinha e rocha não está no que Jesus disse. Está na gramática do tradutor. O português, aliás, conserva intacto o jogo de palavras: Pedro, e esta pedra.</p>
+                <p>Depois, as chaves. Mateus escreve para judeus, e um judeu sabia o que significava receber as chaves de um rei. Isaías conta: Deus anuncia que vai tirar do cargo Sobna, o mordomo do palácio, e pôr em seu lugar Eliacim: <em>«Porei sobre os seus ombros a chave da casa de Davi; se ele abrir, ninguém fechará, se fechar, ninguém abrirá»</em> (Is 22, 22). A chave era a autoridade do rei posta nas mãos de um administrador, que abria e fechava em seu nome. Jesus toma essa imagem e a entrega a Pedro, com o mesmo par de verbos (ligar e desligar, abrir e fechar) e com uma garantia que Eliacim não tinha: o que Pedro ligar na terra fica ligado nos céus.</p>
+                <p>E tudo é dito no singular. Ligar e desligar, todos os apóstolos o receberão mais adiante (Mt 18, 18). As chaves, somente Pedro.</p>
+                <h2>Pedras vivas: ninguém tira o lugar de Cristo<br>1 Pe 2, 3-8</h2>
+                <p>Quem melhor responde à objeção da rocha é o próprio Pedro.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Pe 2, 3-8</span>
+                    <blockquote>«…se é que tendes saboreado quão suave é <strong>o Senhor</strong>. Achegai-vos <strong>a ele, pedra viva</strong> que os homens rejeitaram, mas escolhida e preciosa aos olhos de Deus; e quais outras <strong>pedras vivas</strong>, <strong>vós também</strong> vos tornais os materiais deste edifício espiritual, um sacerdócio santo, para oferecer vítimas espirituais, agradáveis a Deus, por Jesus Cristo. Por isso lê-se na Escritura: Eis que ponho em Sião uma pedra angular, escolhida e preciosa; e quem nela crer não será confundido. Para vós, portanto, que tendes fé, ela é preciosa, mas para os incrédulos, a pedra que os construtores rejeitaram tornou-se a pedra angular, uma pedra de tropeço e uma rocha que faz cair. <strong class="s-hi">Nela tropeçam os que não obedecem à palavra, e para isso foram destinados</strong>.»</blockquote>
+                </div>
+                <p>O homem a quem Cristo chamou pedra não se atribui o lugar de Cristo. Chama Cristo de «pedra viva», a pedra angular escolhida por Deus, e todos os fiéis de «pedras vivas» edificadas sobre ela. A Escritura usa a imagem da pedra para Cristo, para os apóstolos e para os fiéis, cada um no seu lugar, e em nenhuma página do Novo Testamento isso aparece como rivalidade. Pedro não disputa com Cristo o lugar: aponta para ele.</p>
+                <p>E fecha com uma advertência que não suaviza. O tropeço não está na pedra, mas em não obedecer à palavra, e para isso está destinado quem não crê. A palavra, em Mateus 16, diz o que diz.</p>
+                <h2>A casa de Deus é a Igreja<br>1 Tm 3, 15</h2>
+                <p>Paulo escreve a Timóteo como se deve proceder, e diz onde:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Tm 3, 15</span>
+                    <blockquote>«…para que saibas como deves portar-te na <strong>casa de Deus</strong>, que é <strong>a Igreja</strong> de Deus vivo, <strong>coluna e sustentáculo da verdade</strong>.»</blockquote>
+                </div>
+                <p>Paulo não diz que a Escritura seja a coluna e o sustentáculo da verdade. Diz que o é a Igreja, e a chama casa do Deus vivo. Não há mais nada a acrescentar, exceto uma coisa: uma casa tem dono, tem portas e tem alguém que guarda as chaves.</p>
+                <h2>Uma casa com quem a governe<br>1 Tm 3, 1-5 e 3, 8</h2>
+                <p>Poucas linhas antes, Paulo descreve quem governa essa casa.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Tm 3, 1-5</span>
+                    <blockquote>«Eis uma verdade absolutamente certa: se alguém aspira <strong>ao episcopado</strong>, saiba que está desejando uma função sublime. Porque <strong>o bispo</strong> tem o dever de ser irrepreensível, casado uma só vez, sóbrio, prudente, regrado no seu proceder, hospitaleiro, capaz de ensinar. Não deve ser dado a bebidas, nem violento, mas condescendente, pacífico, desinteressado. <strong>Deve saber governar</strong> bem a sua casa, educar os seus filhos na obediência e na castidade. Pois quem não sabe governar a sua própria casa, como terá cuidado da Igreja de Deus?»</blockquote>
+                </div>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Tm 3, 8</span>
+                    <blockquote>«Do mesmo modo, <strong>os diáconos</strong> devem ser respeitáveis, sem duplicidade, não inclinados ao excesso da bebida e à ganância.»</blockquote>
+                </div>
+                <p>As palavras gregas que Paulo usa são <em>episkopé</em> e <em>epískopos</em>: daí vem, letra por letra, a palavra bispo. E <em>diákonos</em> é diácono. A Igreja de Cristo tem bispos e diáconos, isto é, hierarquia e autoridade, e Paulo fixa os requisitos de cada cargo. Uma comunidade onde ninguém preside nem governa poderá ter a Bíblia na mão e boa vontade, mas não tem a forma da Igreja que Paulo descreve. É uma obra de homens.</p>
+                <p>O «casado uma só vez» põe um limite, não uma obrigação: exclui quem se casou de novo, não quem não se casou, e o próprio Paulo não era casado (1 Co 7, 7-8). Por isso o celibato dos sacerdotes é uma disciplina da Igreja e não um dogma. Na Igreja latina os sacerdotes não se casam e entregam a vida inteira a Deus; nas Igrejas católicas orientais há sacerdotes casados, e em toda parte um homem casado pode ser ordenado diácono.<sup>*</sup></p>
+                <h2>Os lobos saem de dentro<br>At 20, 29-30</h2>
+                <p>Paulo se despede dos anciãos de Éfeso com uma advertência.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ At 20, 29-30</span>
+                    <blockquote>«Sei que depois da minha partida se introduzirão entre vós <strong>lobos cruéis</strong>, que não pouparão o rebanho. <strong>Mesmo dentre vós</strong> surgirão homens que hão de proferir <strong>doutrinas perversas</strong>, com o intento de arrebatarem após si os discípulos.»</blockquote>
+                </div>
+                <p>Paulo anuncia duas ameaças: os lobos que entrarão de fora e os homens que surgirão de dentro, do meio dos próprios pastores, arrastando discípulos atrás de si. A segunda é a que a história repetiu. A ruptura do século XVI não foi começada por estranhos: Lutero era frade agostiniano e sacerdote, e Zuínglio era sacerdote em Zurique. Os dois tinham sido formados na Igreja que depois deixaram. E a advertência supõe o que a objeção nega: um rebanho com limites, do qual se pode sair e para fora do qual se pode arrastar outros.</p>
+                <h2>A Igreja já existia, e Saulo a perseguia<br>At 8, 1-3</h2>
+                <p>Antes de se converter, Paulo sabia muito bem onde estava a Igreja.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ At 8, 1-3</span>
+                    <blockquote>«<strong><strong class="s-hi">Saulo</strong> havia aprovado a morte de Estêvão. Naquele dia, levantou-se <strong class="s-hi">grande perseguição contra a Igreja</strong> de Jerusalém. Todos, exceto os apóstolos, se dispersaram pelas regiões da Judeia e Samaria. Algumas pessoas piedosas sepultaram Estêvão e fizeram por ele grande pranto. <strong class="s-hi">Saulo</strong>, porém, <strong class="s-hi">devastava a Igreja</strong>: entrando pelas casas, arrancava delas homens e mulheres e mandava metê-los na prisão.</strong>»</blockquote>
+                </div>
+                <p>Anos antes de ser escrita a primeira carta do Novo Testamento, a Igreja já tinha nome, cidade e perseguidores. Saulo não perseguia uma ideia nem uma comunhão invisível de almas: entrava pelas casas e levava presos homens e mulheres. Persegue-se o que se pode encontrar. A Igreja de Cristo existia, era visível, e seus membros tinham nome e endereço. Roma não a inventou: Saulo já sabia onde procurá-la.</p>
+                <h2>Perseguir a Igreja é perseguir Cristo<br>At 9, 3-5</h2>
+                <p>No caminho de Damasco, Cristo diz a Saulo a quem ele estava perseguindo.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ At 9, 3-5</span>
+                    <blockquote>«Durante a viagem, estando já perto de Damasco, subitamente o cercou uma luz resplandecente vinda do céu. Caindo por terra, ouviu uma voz que lhe dizia: «Saulo, Saulo, <strong class="s-hi">por que me persegues?</strong>». Saulo disse: «Quem és, Senhor?». Respondeu ele: «<strong class="s-hi">Eu sou Jesus, a quem tu persegues</strong>».»</blockquote>
+                </div>
+                <p>Saulo nunca tinha visto Jesus nem posto a mão nele. Tinha prendido cristãos. E Jesus não lhe pergunta por que persegue os seus seguidores: pergunta por que persegue a ele. Cristo e a sua Igreja são uma só coisa, a ponto de o golpe recebido por uma ser recebido pelo outro. Separar Cristo da sua Igreja é uma operação que o próprio Cristo não aceitou no caminho de Damasco.</p>
+                <h2>«Confirma os teus irmãos»<br>Lc 22, 31-32</h2>
+                <p>Na noite da Última Ceia, Jesus se dirige a Pedro pelo nome.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Lc 22, 31-32</span>
+                    <blockquote>«Simão, Simão, eis que Satanás pediu para vos peneirar como o trigo; mas <strong class="s-hi">eu roguei por ti</strong>, para que a tua confiança não desfaleça; e tu, por tua vez, <strong class="s-hi">confirma os teus irmãos</strong>.»</blockquote>
+                </div>
+                <p>Satanás pediu para peneirar todos: «vos», no plural. Jesus diz que rogou por um só, «por ti», no singular, e a esse um encarrega de confirmar os demais. O encargo não é dado ao mais forte. Dois versículos depois, anuncia-lhe que naquela mesma noite o negará três vezes. Pedro é um homem fraco e pecador, e ainda assim a tarefa de confirmar os seus irmãos na fé é confiada somente a ele. A firmeza não vem de Pedro: vem da oração de Cristo por Pedro.</p>
+                <h2>Três vezes: «Apascenta»<br>Jo 21, 15-17</h2>
+                <p>Depois da ressurreição, à beira do lago, Jesus volta àquele encargo.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Jo 21, 15-17</span>
+                    <blockquote>«Tendo eles comido, Jesus perguntou a Simão Pedro: «Simão, filho de João, <strong class="s-hi">amas-me mais do que estes?</strong>». Respondeu ele: «Sim, Senhor, tu sabes que te amo». Disse-lhe Jesus: «<strong class="s-hi">Apascenta os meus cordeiros</strong>». Perguntou-lhe outra vez: «Simão, filho de João, amas-me?». Respondeu-lhe: «Sim, Senhor, tu sabes que te amo». Disse-lhe Jesus: «<strong class="s-hi">Apascenta os meus cordeiros</strong>». Perguntou-lhe pela terceira vez: «Simão, filho de João, amas-me?». Pedro entristeceu-se porque lhe perguntou pela terceira vez: «Amas-me?». E respondeu-lhe: «Senhor, sabes tudo, tu sabes que te amo». Disse-lhe Jesus: «<strong class="s-hi">Apascenta as minhas ovelhas</strong>».»</blockquote>
+                </div>
+                <p>Pedro o negou três vezes e Jesus lhe pergunta três vezes. Não lhe censura a traição: pede-lhe amor e, depois de cada resposta, entrega-lhe o rebanho. «Mais do que estes» o compara com os outros discípulos que estavam na margem, e o encargo é só para ele. Mas o rebanho não é de Pedro. Cristo diz «os meus cordeiros», «as minhas ovelhas»: Pedro apascenta o que é de outro, por encargo, como o mordomo que guarda as chaves de uma casa que não é sua. Cristo escolhe um pecador para apascentar as suas ovelhas, e a força do encargo está em quem o dá.</p>
+                <ul>
+                    <li>Cristo é a pedra angular, e os apóstolos são alicerces nele: a Escritura não obriga a escolher.</li>
+                    <li>Em aramaico, Pedro e a pedra são a mesma palavra, <em>kefa</em>.</li>
+                    <li>As chaves são a autoridade do rei posta nas mãos do seu mordomo, e são dadas somente a Pedro.</li>
+                    <li>A Igreja é coluna e sustentáculo da verdade, e tem bispos e diáconos que a governam.</li>
+                    <li>Existia e era perseguida antes que se escrevesse o Novo Testamento, e persegui-la é perseguir Cristo.</li>
+                    <li>A Pedro, fraco e pecador, Cristo encarrega de confirmar os seus irmãos e apascentar as suas ovelhas.</li>
+                </ul>
+                <h2>Conclusão</h2>
+                <p>A Escritura não propõe a escolha entre Cristo e Pedro. Cristo é a pedra angular e Pedro a pedra sobre a qual Cristo edifica; Cristo é o dono da casa e Pedro quem guarda as suas chaves; Cristo é o pastor e Pedro apascenta as suas ovelhas por encargo. A Igreja que estas passagens descrevem tem alicerces, governo e limites, e existia antes que se escrevesse uma só carta do Novo Testamento. Isso não foi Roma que inventou. Escreveram-no Mateus, Lucas, Paulo e o próprio Pedro.</p>
+                <p>Em Isaías a chave passa de Sobna a Eliacim: muda o mordomo e o cargo continua, porque a casa de Davi continua de pé. Pedro morreu mártir em Roma, e a promessa de que as portas do inferno não prevaleceriam contra a Igreja não morreu com ele.</p>
+                <div class="article-footnote">
+                    <p><sup>*</sup> Se um sacerdote católico decide que quer se casar, pode pedi-lo, mas não pode resolvê-lo por conta própria. Tem de solicitar formalmente a dispensa do celibato, que somente o Papa concede (Código de Direito Canônico, cân. 291), junto com a perda do estado clerical, conhecida como redução ao estado laical. Ao recebê-la, deixa de exercer o ministério: não celebra a Missa, não prega nem administra os sacramentos, e se dedica por inteiro à sua vida conjugal e familiar. A única exceção é o perigo de morte, no qual pode absolver quem precisar (cân. 976).</p>
+                    <p>O que ele não perde é o sacerdócio. A ordenação imprime um caráter indelével (cân. 1008): é sacerdote «para sempre, segundo a ordem de Melquisedec» (Hb 5, 6), e a Igreja reconhece que sacerdote foi e sacerdote continua sendo. O que ele perde é o estado clerical, com os seus direitos e obrigações: deixa de pertencer juridicamente ao clero, passa a ser um leigo perante a lei da Igreja e fica livre do celibato para se casar validamente na Igreja.</p>
+                </div>`,
       nav: { prevTitle: "A nova lei em Cristo", nextTitle: "O Sacerdócio na Igreja Católica" }
     },
     "la-santisima-trinidad": {

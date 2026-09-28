@@ -47,7 +47,7 @@ const translationsIG = {
     category: "Ozizi", date: "Ọ na-abịa", title: "Iwu Ọhụrụ", excerpt: "Iwu Kraịst nke na-anọchi Iwu Ochie ma na-eduzi Ndị Kraịst.", time: "Nkeji 8 ịgụ", link: "Gụọ →"
   },
   article9: {
-    category: "Apologetics", date: "Ọ na-abịa", title: "Ịbụ onye mbụ nke Pita", excerpt: "Ihe mere anyị ji enwe Popu: ịnọchi ndịozi na ịbụ onye mbụ nke Pita.", time: "Nkeji 11 ịgụ", link: "Gụọ →"
+    category: "Apologetics", date: "Septemba 2026", title: "Ịbụ onye mbụ nke Pita", excerpt: "Mkpịsị igodo nke alaeze, okwute na ọrụ ime ka ụmụnna guzosie ike: ihe Akwụkwọ Nsọ nyere Pita.", time: "Nkeji 14 ịgụ", link: "Gụọ →"
   },
   article10: {
     category: "Akụrụngwa", date: "Mee 2026", title: "Akụrụngwa Akwadoro", excerpt: "Nchịkọta akụrụngwa Katọlik iji mee ka okwukwe na ọzụzụ gị mikwuo emikwuo.", time: "Nkeji 5 ịgụ", link: "Chọpụta →"
@@ -115,11 +115,102 @@ const translationsIG = {
     },
     "la-primacia-de-pedro": {
       pageTitle: "Ịbụ onye mbụ nke Pita | Okwukwe na Uche",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Isiokwu Pụrụ Iche</span></div><h1>Ịbụ onye mbụ nke Pita</h1><p>Nnyocha doro anya banyere ihe kpatara Nzukọ-nsọ Katọlik ji anabata Popu dị ka onye nọchiri anya St. Peter na onye ndu a na-ahụ anya nke ịdị n'otu ụlọ ụka.</p><div class="article-meta"><span>Nkeji 11 ịgụ</span><span>Ebipụtara na Mee 2026</span></div><a href="index.html#temas" class="btn-outline-white">Laghachi na Isiokwu</a>`,
-      article: `<p>Ịbụ onye mbụ nke Pita bụ ozizi dị mkpa iji ghọta usoro nke Nzukọ-nsọ. Jizọs nyere Pita ọrụ pụrụ iche dị ka onye ọzụzụ atụrụ na onye na-ekwe nkwa ịdị n'otu ndịozi.</p><h2>Ntọala Akwụkwọ Nsọ</h2><p>N'Oziọma ahụ, Kraịst kwupụtara Pita dị ka okwute ma nye ya iwu ịzụ atụrụ ya. Iwu a na-egosipụta ikike pụrụ iche n'iduzi obodo Ndị Kraịst.</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Matiu 16:18</span>
-                    <blockquote>«<strong class="s-hi">Ị bụ Pita, na n'elu okwute a ka m ga-ewu Nzukọ-nsọ m</strong>»</blockquote>
-                </div><h2>Ịnọchi ndịozi</h2><p>Popu bụ onye nọchiri anya St. Peter n'ọrụ nke ịkwado ụmụnne. Ịga n'ihu a na-eme ka e nwee nkwesị ntụkwasị obi n'ego nkwụnye okwukwe ma na-echebe ịdị n'otu Nzukọ-nsọ.</p><ul><li>Popu mbụ nwetara ikike iduzi ndị mmadụ.</li><li>Ịnọchi ndịozi na-echebe ozizi na njikọkọ.</li><li>Popu na-arụ ọrụ dị ka ihe ịrịba ama a na-ahụ anya nke ịdị n'otu maka ndị niile kwere ekwe.</li></ul><h2>Ịdị n'otu nke Nzukọ-nsọ</h2><p>Ịnabata ịbụ onye mbụ nke Pita abụghị ọkwa aka ike, kama ọ bụ ụzọ iji mee ka Nzukọ-nsọ dịrị n'otu n'okwukwe, olileanya na ịhụnanya.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Isiokwu Pụrụ Iche</span></div><h1>Ịbụ onye mbụ nke Pita</h1><p>Kraịst wuru Nzukọ-nsọ ya n'elu Pita, nye ya mkpịsị igodo nke alaeze ma nye ya ọrụ ime ka ụmụnna ya guzosie ike. Ihe Akwụkwọ Nsọ kwuru, n'otu n'otu.</p><div class="article-meta"><span>Nkeji 14 ịgụ</span><span>Ebipụtara na Septemba 2026</span></div><a href="index.html#temas" class="btn-outline-white">Laghachi na Isiokwu</a>`,
+      article: `<p>Megide ọchịchị Popu, mmegide ahụ nwere ụdị abụọ. Nke mbụ bụ nke ndị Protestant nke ihe fọrọ nke nta ka ọ bụrụ ụka niile, ndị Adventist na Ndịàmà Jehova na-ekwughachi: <em>"Okwute ahụ bụ Kraịst, ọ bụghị Pita. Pita bụ naanị obere okwute; okwute ahụ bụ okwukwe o kwupụtara."</em> Nke abụọ bụ nke ụwa ndị Ivanjelikal: <em>"Nzukọ-nsọ n'ezie bụ nke a na-adịghị ahụ anya: o nweghị usoro ndịisi, o nweghị ndị bishọp, o nweghịkwa Popu. Rom chepụtara ihe ndị ahụ niile."</em></p>
+                <p>E ji Akwụkwọ Nsọ aza ha abụọ. Nke mbụ, n'elu gịnị ka e wuru Nzukọ-nsọ, onye ka o jikwa mkpịsị igodo. Nke abụọ, ma Nzukọ-nsọ ahụ ọ nwere ọchịchị, ma ọ dịkwa tupu onye ọ bụla hazie ya. Nke ikpeazụ, onye ka Kraịst nyere ọrụ ịkwagide ndị ọzọ.</p>
+                <h2>Kraịst bụ okwute isi nkuku, e nwekwara ntọala<br>Ndị Efesọs 2:20-22</h2>
+                <p>Tupu a rụọ ụka ma Pita ọ bụ okwute, ọ dị mkpa ịhụ otú Pọl si eji onyinyo ahụ.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ndị Efesọs 2:20-22</span>
+                    <blockquote>«E wuru unu n'elu ntọala ndịozi na ndị amụma, <strong>Kraịst Jizọs n'onwe ya bụ okwute isi nkuku</strong>. N'ime ya ka <strong>ụlọ ahụ niile</strong> jikọtara ọnụ nke ọma, <strong>na-etolite</strong> ịbụ ụlọ nsọ dị nsọ n'ime Onyenwe anyị. N'ime ya ka a na-ewukọ unu onwe unu ọnụ ka unu bụrụ ebe obibi Chineke site na Mmụọ.»</blockquote>
+                </div>
+                <p>Pọl adịghị eme ka Kraịst na ndịozi na-asọ mpi: o tinyere ha n'otu ụlọ. Kraịst bụ okwute isi nkuku, nke na-ebu ma na-edozi ihe ndị ọzọ niile; ndịozi na ndị amụma bụ ntọala, ha bụkwa ntọala n'ime ya. Ịbụ ntọala nke ndịozi ewepụghị ihe ọ bụla n'aka Kraịst. Ụlọ ahụ agwụbeghịkwa: ọ na-etolite, na okwute ndị a na-agbakwụnye n'elu ndị mbụ. Mmegide ahụ na-amanye mmadụ ịhọrọ n'etiti Kraịst na ndịozi. Pọl anaghị ahọrọ.</p>
+                <h2>"Ị bụ Pita": mkpịsị igodo nke alaeze<br>Matiu 16:16-19</h2>
+                <p>Akụkụ bụ isi bụ azịza Jizọs nyere nkwupụta Pita.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Matiu 16:16-19</span>
+                    <blockquote>«Saịmọn Pita zara, sị: "Ị bụ Kraịst ahụ, Ọkpara Chineke dị ndụ." Jizọs sịrị ya: "Ngọzi dịrị gị, Saịmọn nwa Jona, n'ihi na ọ bụghị anụ ahụ na ọbara kpugheere gị nke a, kama ọ bụ Nna m nọ n'eluigwe. Ana m asịkwa gị: <strong class="s-hi">ị bụ Pita, n'elu okwute a ka m ga-ewu Nzukọ-nsọ m</strong><strong>, ike ọnwụ agaghịkwa emeri ya</strong>. <strong class="s-hi">Aga m enye gị</strong> <strong>mkpịsị igodo nke alaeze eluigwe; ihe ọ bụla ị kere agbụ n'ụwa ka a ga-ekekwa agbụ n'eluigwe, ihe ọ bụla ị tọpụrụ n'ụwa ka a ga-atọpụkwa n'eluigwe</strong>."»</blockquote>
+                </div>
+                <p>Jizọs na-asụ asụsụ Aramaịk, n'asụsụ Aramaịk kwa, ọ bụ naanị otu okwu: <em>kefa</em>, okwute. Oziọma Jọn na-edebe aha mbụ ahụ n'oge nzukọ mbụ ha: <em>"Ị bụ Saịmọn nwa Jọn; a ga-akpọ gị Kefas"</em>, nke pụtara Pita (Jọn 1:42), Pọl na-akpọkwa ya Kefas n'akwụkwọ ozi ya. N'asụsụ Grik, <em>petra</em> bụ okwu nwanyị, ọ pụghịkwa ịbụ aha nwoke, ya mere e nyere ya njedebe nwoke: <em>Petros</em>. Ọdịiche dị n'etiti obere okwute na nnukwu okwute adịghị n'ihe Jizọs kwuru. Ọ dị n'ụtọasụsụ nke onye sụgharịrị ya.</p>
+                <p>Nke abụọ, mkpịsị igodo ahụ. Matiu na-edere ndị Juu, onye Juu makwa ihe ọ pụtara ịnata mkpịsị igodo n'aka eze. Aịzaya kọrọ ya: Chineke kwupụtara na ọ ga-ewepụ Shebna, onye na-elekọta obí eze, n'ọkwa ya, tinye Elaịakim n'ọnọdụ ya: <em>"M ga-etinye mkpịsị igodo nke ụlọ Devid n'ubu ya; ihe ọ meghere, ọ dịghị onye ga-emechi; ihe o mechiri, ọ dịghị onye ga-emeghe"</em> (Aịzaya 22:22). Mkpịsị igodo ahụ bụ ikike eze e tinyere n'aka onye nlekọta, onye na-emeghe ma na-emechi n'aha ya. Jizọs weere onyinyo ahụ nyefee ya n'aka Pita, jiri otu ụzọ ngwaa abụọ ahụ (ikenye agbụ na ịtọpụ, imeghe na imechi) na nkwa Elaịakim na-enweghị: ihe Pita kere agbụ n'ụwa ka a kere agbụ n'eluigwe.</p>
+                <p>E kwukwara ihe niile a n'ọnụ otu onye. Ikenye agbụ na ịtọpụ ka ndịozi niile ga-anata emesịa (Matiu 18:18). Mkpịsị igodo ahụ, naanị Pita.</p>
+                <h2>Okwute dị ndụ: ọ dịghị onye na-anapụ Kraịst ọnọdụ ya<br>1 Pita 2:3-8</h2>
+                <p>Onye kacha zaa mmegide banyere okwute ahụ bụ Pita n'onwe ya.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Pita 2:3-8</span>
+                    <blockquote>«…ebe ọ bụ na unu adọọla ụtọ na <strong>Onyenwe anyị</strong> dị mma. Bịakwutenụ <strong>ya, bụ okwute dị ndụ</strong>, nke mmadụ jụrụ ma nke Chineke họọrọ, dịkwa oke ọnụ ahịa n'anya ya. <strong>Unu onwe unu kwa</strong>, dị ka <strong>okwute dị ndụ</strong>, ka a na-ewu ka ụlọ mmụọ, ka unu bụrụ ndị nchụàjà dị nsọ, na-achụ àjà mmụọ nke na-atọ Chineke ụtọ site na Jizọs Kraịst. N'ihi na e dere n'Akwụkwọ Nsọ: "Lee, ana m etinye na Zayọn okwute isi nkuku, nke a họọrọ, nke dị oke ọnụ ahịa; onye ọ bụla kwere na ya agaghị eme ihere." Ya mere, nye unu ndị kwere, ọ dị oke ọnụ ahịa; ma nye ndị na-ekweghị ekwe, "okwute ahụ ndị na-ewu ụlọ jụrụ aghọọla okwute isi nkuku", na "okwute na-eme ka mmadụ sụọ ngọngọ na nkume na-akwatu ha". <strong class="s-hi">Ha na-asụ ngọngọ n'ihi na ha anaghị erube isi n'okwu ahụ; ọ bụkwa ya ka a kara aka maka ha</strong>.»</blockquote>
+                </div>
+                <p>Nwoke ahụ Kraịst kpọrọ okwute anaghị ewere ọnọdụ Kraịst. Ọ na-akpọ Kraịst "okwute dị ndụ", okwute isi nkuku nke Chineke họọrọ, na-akpọkwa ndị kwere ekwe niile "okwute dị ndụ" a na-ewu n'elu ya. Akwụkwọ Nsọ na-eji onyinyo okwute ahụ maka Kraịst, maka ndịozi na maka ndị kwere ekwe, onye ọ bụla n'ọnọdụ ya, ọ dịghịkwa ebe ọ bụla n'Agba Ọhụrụ ọ pụtara dị ka asọmpi. Pita adịghị esere Kraịst okwu maka ọnọdụ ya: ọ na-egosi ya.</p>
+                <p>O jiri ịdọ aka ná ntị nke ọ na-emeghị ka ọ dị nro mechie. Ịsụ ngọngọ adịghị n'okwute ahụ kama ọ dị n'erubeghị isi n'okwu ahụ, ọ bụkwa ya ka a kara aka maka onye na-ekweghị. Okwu ahụ, na Matiu 16, na-ekwu ihe ọ na-ekwu.</p>
+                <h2>Ụlọ Chineke bụ Nzukọ-nsọ<br>1 Timoti 3:15</h2>
+                <p>Pọl na-edere Timoti otú mmadụ kwesịrị isi kpaa àgwà, ọ na-ekwukwa ebe ọ bụ:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Timoti 3:15</span>
+                    <blockquote>«…ka ị mara otú mmadụ kwesịrị isi kpaa àgwà n'<strong>ụlọ Chineke</strong>, nke bụ <strong>Nzukọ-nsọ</strong> nke Chineke dị ndụ, <strong>ogidi na ntọala nke eziokwu</strong>.»</blockquote>
+                </div>
+                <p>Pọl ekwughị na Akwụkwọ Nsọ bụ ogidi na ntọala nke eziokwu. Ọ na-ekwu na ọ bụ Nzukọ-nsọ, ọ na-akpọkwa ya ụlọ Chineke dị ndụ. Ọ dịghị ihe ọzọ a ga-agbakwụnye, ma e wezụga otu ihe: ụlọ nwere onye nwe ya, o nwere ọnụ ụzọ, o nwekwara onye na-edebe mkpịsị igodo ya.</p>
+                <h2>Ụlọ nwere onye na-achị ya<br>1 Timoti 3:1-5 na 3:8</h2>
+                <p>Ahịrị ole na ole tupu nke ahụ, Pọl na-akọwa onye na-achị ụlọ ahụ.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Timoti 3:1-5</span>
+                    <blockquote>«Okwu a bụ eziokwu: ọ bụrụ na onye ọ bụla na-achọ <strong>ịbụ bishọp</strong>, ọ na-achọ ọrụ dị mma. Ya mere, <strong>bishọp</strong> aghaghị ịbụ onye a na-apụghị ịta ụta, di nke otu nwunye, onye na-achịkwa onwe ya, onye nwere uche, onye ọma, onye na-anabata ọbịa, onye nwere ike izi ihe; ọ gaghị abụ onye aṅụrụma ma ọ bụ onye ike, kama onye dị nwayọọ, onye na-adịghị ese okwu, na onye na-adịghị ahụ ego n'anya. <strong>Ọ ga-amarịrị ka e si achị</strong> ezinụlọ ya nke ọma, na-eme ka ụmụ ya na-erube isi n'ụzọ niile a na-akwanyere ùgwù. N'ihi na ọ bụrụ na mmadụ amaghị ka e si achị ezinụlọ ya, olee otú ọ ga-esi lekọta Nzukọ-nsọ Chineke?»</blockquote>
+                </div>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ 1 Timoti 3:8</span>
+                    <blockquote>«N'otu aka ahụ, <strong>ndị dikọn</strong> aghaghị ịbụ ndị a na-akwanyere ùgwù, ndị na-adịghị ekwu okwu abụọ, ndị na-adịghị aṅụbiga mmanya ókè, ndị na-adịghị achọ uru ihere.»</blockquote>
+                </div>
+                <p>Okwu Grik Pọl ji bụ <em>episkopé</em> na <em>epískopos</em>: ọ bụ ebe ahụ ka okwu bishọp si, mkpụrụ akwụkwọ n'otu n'otu. <em>Diákonos</em> bụkwa dikọn. Nzukọ-nsọ Kraịst nwere ndị bishọp na ndị dikọn, ya bụ usoro ndịisi na ikike, Pọl kpebikwara ihe a chọrọ n'ọkwa nke ọ bụla. Obodo ebe ọ dịghị onye na-eduzi ma ọ dịghị onye na-achị nwere ike ijide Baịbụl n'aka nweekwa ezi uche, ma o nweghị ọdịdị Nzukọ-nsọ ahụ Pọl na-akọwa. Ọ bụ ọrụ mmadụ.</p>
+                <p>"Di nke otu nwunye" na-edebe oke, ọ bụghị iwu: ọ na-ewepụ onye lụrụ nwunye ọzọ, ọ bụghị onye na-alụghị, Pọl n'onwe ya alụghịkwa nwunye (1 Ndị Kọrịnt 7:7-8). Ya mere, ịnọ n'alụghị di na nwunye nke ndị nchụàjà bụ usoro Nzukọ-nsọ, ọ bụghị nkwenye okwukwe a na-apụghị ịgbanwe. Na Nzukọ-nsọ Latin, ndị nchụàjà anaghị alụ nwunye, ha na-enyekwa Chineke ndụ ha niile; na Nzukọ-nsọ Katọlik nke Ọwụwa Anyanwụ, e nwere ndị nchụàjà lụrụ nwunye, n'ebe niile kwa, nwoke lụrụ nwunye nwere ike ịbụ onye e chiri echichi dikọn.<sup>*</sup></p>
+                <h2>Anụ ọhịa wolf na-esi n'ime pụta<br>Ọrụ Ndịozi 20:29-30</h2>
+                <p>Pọl ji ịdọ aka ná ntị kelee ndị okenye Efesọs.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ọrụ Ndịozi 20:29-30</span>
+                    <blockquote>«Amaara m na mgbe m pụsịrị, <strong>anụ ọhịa wolf ndị dị ajọ</strong> ga-abata n'etiti unu, ha agaghị enwekwa ebere n'ìgwè atụrụ ahụ. Ọbụna <strong>site n'etiti unu onwe unu</strong>, ndị ikom ga-ebili, <strong>na-ekwu ihe gbagọrọ agbagọ</strong>, ka ha dọọrọ ndị na-eso ụzọ ịgbaso ha.»</blockquote>
+                </div>
+                <p>Pọl na-ekwupụta ihe egwu abụọ: anụ ọhịa wolf ndị ga-esi n'èzí bata, na ndị ikom ga-esi n'ime bilie, site n'etiti ndị ọzụzụ atụrụ n'onwe ha, na-adọkpụrụ ndị na-eso ụzọ ịgbaso ha. Nke abụọ bụ nke akụkọ ihe mere eme meghachiri. Ọ bụghị ndị ọbịa malitere nkewa nke narị afọ nke iri na isii: Luther bụ onye otu okpukpe Ọgọstin na onye nchụàjà, Zwingli bụkwa onye nchụàjà na Zürich. E zụlitere ha abụọ n'ime Nzukọ-nsọ ahụ ha hapụrụ emesịa. Ịdọ aka ná ntị ahụ na-ewerekwa ihe mmegide ahụ na-agọnahụ: ìgwè atụrụ nwere oke, nke mmadụ nwere ike isi na ya pụọ, nke e nwekwara ike ịdọpụ ndị ọzọ na ya.</p>
+                <h2>Nzukọ-nsọ adịlarị, Sọl na-akpagbukwa ya<br>Ọrụ Ndịozi 8:1-3</h2>
+                <p>Tupu ntughari obi ya, Pọl maara nke ọma ebe Nzukọ-nsọ dị.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ọrụ Ndịozi 8:1-3</span>
+                    <blockquote>«<strong><strong class="s-hi">Sọl</strong> kwadoro ogbugbu ya. N'ụbọchị ahụ, <strong class="s-hi">oké mkpagbu malitere megide Nzukọ-nsọ</strong> dị na Jerusalem; ha niile, ma e wezụga ndịozi, gbasasịrị n'obodo Judia na Sameria. Ndị ikom na-atụ egwu Chineke liri Stivin, ha kwakwara ya ákwá dị ukwuu. Ma <strong class="s-hi">Sọl</strong> nọ <strong class="s-hi">na-ebibi Nzukọ-nsọ</strong>; ọ na-abanye n'ụlọ n'ụlọ, na-adọkpụrụ ndị ikom na ndị inyom, na-etinye ha n'ụlọ mkpọrọ.</strong>»</blockquote>
+                </div>
+                <p>Ọtụtụ afọ tupu e dee akwụkwọ ozi mbụ nke Agba Ọhụrụ, Nzukọ-nsọ enweelarị aha, obodo na ndị na-akpagbu ya. Ọ bụghị echiche ma ọ bụ mmekọrịta mkpụrụ obi a na-adịghị ahụ anya ka Sọl na-akpagbu: ọ na-abanye n'ụlọ n'ụlọ, na-akpọrọ ndị ikom na ndị inyom gaa n'ụlọ mkpọrọ. Mmadụ na-akpagbu ihe ọ pụrụ ịchọta. Nzukọ-nsọ Kraịst dị, a na-ahụ ya anya, ndị otu ya nwekwara aha na ebe obibi. Rom achepụtaghị ya: Sọl amarala ebe ọ ga-achọ ya.</p>
+                <h2>Ịkpagbu Nzukọ-nsọ bụ ịkpagbu Kraịst<br>Ọrụ Ndịozi 9:3-5</h2>
+                <p>N'ụzọ Damaskọs, Kraịst gwara Sọl onye ọ na-akpagbu.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Ọrụ Ndịozi 9:3-5</span>
+                    <blockquote>«Ka ọ na-aga n'ije ya, ọ bịarutere nso Damaskọs, na mberede ìhè si n'eluigwe chakwasịrị ya gburugburu. O wee daa n'ala, nụ olu na-asị ya: "Sọl, Sọl, <strong class="s-hi">gịnị mere i ji na-akpagbu m?</strong>" Ọ jụrụ: "Ònye ka ị bụ, Onyenwe m?" Olu ahụ zara: "<strong class="s-hi">Abụ m Jizọs, onye ị na-akpagbu</strong>."»</blockquote>
+                </div>
+                <p>Sọl ahụtụbeghị Jizọs, o bibeghịkwa ya aka. Ọ tụrụ ndị Kraịst mkpọrọ. Jizọs ajụghịkwa ya ihe mere o ji na-akpagbu ndị na-eso ụzọ ya: ọ jụrụ ya ihe mere o ji na-akpagbu ya onwe ya. Kraịst na Nzukọ-nsọ ya bụ otu, nke na ihe ọ bụla dakwasịrị otu na-adakwasịkwa nke ọzọ. Ikewapụ Kraịst na Nzukọ-nsọ ya bụ ihe Kraịst n'onwe ya ekweghị n'ụzọ Damaskọs.</p>
+                <h2>"Mee ka ụmụnna gị guzosie ike"<br>Luku 22:31-32</h2>
+                <p>N'abalị Nri Anyasị Ikpeazụ, Jizọs kpọrọ Pita aha gwa ya okwu.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Luku 22:31-32</span>
+                    <blockquote>«Saịmọn, Saịmọn, lee, Setan arịọla ka o nweta unu, ka o fechaa unu dị ka ọka wit. Ma <strong class="s-hi">ekpeelara m gị ekpere</strong>, ka okwukwe gị ghara ịda mbà. Mgbe ị laghachiri, <strong class="s-hi">mee ka ụmụnna gị guzosie ike</strong>.»</blockquote>
+                </div>
+                <p>Setan rịọrọ ka o nweta ha niile: "unu", ọtụtụ. Jizọs kwuru na ọ bụ naanị otu onye ka o kpeere ekpere, "gị", otu onye, ọ bụkwa onye ahụ ka o nyere ọrụ ime ka ndị ọzọ guzosie ike. E nyeghị ọrụ ahụ onye kacha ike. Amaokwu abụọ ka e mesịrị, ọ gwara ya na n'abalị ahụ n'onwe ya, ọ ga-agọnarị ya ugboro atọ. Pita bụ mmadụ na-adịghị ike na onye mmehie, ma n'agbanyeghị nke ahụ, ọ bụ naanị ya ka e nyere ọrụ ime ka ụmụnna ya guzosie ike n'okwukwe. Ike ahụ esiteghị na Pita: o sitere n'ekpere Kraịst kpeere Pita.</p>
+                <h2>Ugboro atọ: "Zụọ atụrụ m"<br>Jọn 21:15-17</h2>
+                <p>Mgbe mbilite n'ọnwụ gasịrị, n'akụkụ ọdọ mmiri, Jizọs laghachiri n'ọrụ ahụ.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝ Jọn 21:15-17</span>
+                    <blockquote>«Mgbe ha risịrị nri, Jizọs jụrụ Saịmọn Pita: "Saịmọn nwa Jọn, <strong class="s-hi">ị hụrụ m n'anya karịa ndị a?</strong>" Ọ zara ya: "Ee, Onyenwe m, ị maara na m hụrụ gị n'anya." Jizọs sịrị ya: "<strong class="s-hi">Zụọ ụmụ atụrụ m</strong>." Ọ jụrụ ya ọzọ nke ugboro abụọ: "Saịmọn nwa Jọn, ị hụrụ m n'anya?" Ọ zara ya: "Ee, Onyenwe m, ị maara na m hụrụ gị n'anya." Jizọs sịrị ya: "<strong class="s-hi">Lekọta atụrụ m</strong>." Ọ jụrụ ya nke ugboro atọ: "Saịmọn nwa Jọn, ị hụrụ m n'anya?" Obi wutere Pita n'ihi na ọ jụrụ ya nke ugboro atọ: "Ị hụrụ m n'anya?" Ọ sịrị ya: "Onyenwe m, ị maara ihe niile; ị maara na m hụrụ gị n'anya." Jizọs sịrị ya: "<strong class="s-hi">Zụọ atụrụ m</strong>."»</blockquote>
+                </div>
+                <p>Pita gọnarịrị ya ugboro atọ, Jizọs jụkwara ya ugboro atọ. Ọ tabeghị ya ụta maka ịgba mgba okpuru ahụ: ọ rịọrọ ya ịhụnanya, mgbe azịza ọ bụla gasịrị, o nyefere ya ìgwè atụrụ ahụ. "Karịa ndị a" na-atụnyere ya na ndị na-eso ụzọ ndị ọzọ nọ n'akụkụ mmiri ahụ, ọrụ ahụ bụkwa nke ya naanị. Ma ìgwè atụrụ ahụ abụghị nke Pita. Kraịst kwuru "ụmụ atụrụ m", "atụrụ m": Pita na-azụ ihe bụ nke onye ọzọ, dị ka onye e nyere ọrụ, dị ka onye nlekọta na-edebe mkpịsị igodo nke ụlọ na-abụghị nke ya. Kraịst họọrọ onye mmehie ka ọ zụọ atụrụ ya, ike nke ọrụ ahụ dịkwa n'aka onye nyere ya.</p>
+                <ul>
+                    <li>Kraịst bụ okwute isi nkuku, ndịozi bụkwa ntọala n'ime ya: Akwụkwọ Nsọ anaghị amanye mmadụ ịhọrọ.</li>
+                    <li>N'asụsụ Aramaịk, Pita na okwute bụ otu okwu, <em>kefa</em>.</li>
+                    <li>Mkpịsị igodo bụ ikike eze e tinyere n'aka onye nlekọta ya, ọ bụkwa naanị Pita ka e nyere ha.</li>
+                    <li>Nzukọ-nsọ bụ ogidi na ntọala nke eziokwu, o nwekwara ndị bishọp na ndị dikọn na-achị ya.</li>
+                    <li>Ọ dịlarị, a na-akpagbukwa ya tupu e dee Agba Ọhụrụ, ịkpagbu ya bụkwa ịkpagbu Kraịst.</li>
+                    <li>Kraịst nyere Pita, onye na-adịghị ike na onye mmehie, ọrụ ime ka ụmụnna ya guzosie ike na ịzụ atụrụ ya.</li>
+                </ul>
+                <h2>Nchịkọta</h2>
+                <p>Akwụkwọ Nsọ anaghị etinye nhọrọ n'etiti Kraịst na Pita. Kraịst bụ okwute isi nkuku, Pita bụkwa okwute Kraịst na-ewu n'elu ya; Kraịst bụ onye nwe ụlọ, Pita bụkwa onye na-edebe mkpịsị igodo ya; Kraịst bụ onye ọzụzụ atụrụ, Pita na-azụkwa atụrụ ya dị ka onye e nyere ọrụ. Nzukọ-nsọ nke akụkụ ndị a na-akọwa nwere ntọala, ọchịchị na oke, ọ dịkwa tupu e dee ọbụna otu akwụkwọ ozi nke Agba Ọhụrụ. Rom achepụtaghị nke ahụ. Ọ bụ Matiu, Luku, Pọl na Pita n'onwe ya dere ya.</p>
+                <p>N'Aịzaya, mkpịsị igodo ahụ si n'aka Shebna gafee n'aka Elaịakim: onye nlekọta na-agbanwe, ọkwa ahụ na-anọgide, n'ihi na ụlọ Devid ka guzo. Pita nwụrụ dị ka onye nwụrụ n'ihi okwukwe na Rom, ma nkwa ahụ na ike ọnwụ agaghị emeri Nzukọ-nsọ anwụghị ya na ya.</p>
+                <div class="article-footnote">
+                    <p><sup>*</sup> Ọ bụrụ na onye nchụàjà Katọlik kpebie na ọ chọrọ ịlụ nwunye, ọ nwere ike ịrịọ ya, ma ọ pụghị ikpebi ya n'onwe ya. Ọ ghaghị ịrịọ n'ụzọ iwu ka a tọhapụ ya n'iwu ịnọ n'alụghị di na nwunye, nke ọ bụ naanị Popu na-enye (Iwu Nzukọ-nsọ, kan. 291), ya na ọnwụnwụ ọnọdụ onye ụkọchukwu, nke a maara dị ka ịlaghachi n'ọnọdụ onye nkịtị. Ozugbo o nwetara ya, ọ naghịzi arụ ọrụ ozi ahụ: ọ naghị eme Mass, ọ naghị ekwusa ozi, ọ naghịkwa enye sakramentị, ọ na-etinyekwa onwe ya kpamkpam na ndụ di na nwunye na ezinụlọ ya. Naanị ihe e wezugara bụ ihe egwu ọnwụ, ebe ọ nwere ike ịgbaghara onye ọ bụla chọrọ ya mmehie (kan. 976).</p>
+                    <p>Ihe ọ na-atụfughị bụ ọkwa nchụàjà. Echichi na-ahapụ akara nke na-adịghị ehichapụ (kan. 1008): ọ bụ onye nchụàjà "ruo mgbe ebighị ebi, dị ka usoro Melkizedek si dị" (Ndị Hibru 5:6), Nzukọ-nsọ na-ekwetakwa na ọ bụ onye nchụàjà, na ọ ka bụ onye nchụàjà. Ihe ọ na-atụfu bụ ọnọdụ onye ụkọchukwu, ya na ikike na ọrụ ya: n'iwu, ọ naghịzi abụ otu n'ime ndị ụkọchukwu, ọ na-aghọ onye nkịtị n'ihu iwu Nzukọ-nsọ, a na-atọhapụkwa ya n'iwu ịnọ n'alụghị di na nwunye ka o nwee ike ịlụ nwunye n'ụzọ ziri ezi na Nzukọ-nsọ.</p>
+                </div>`,
       nav: { prevTitle: "Iwu Ọhụrụ n'ime Kraịst", nextTitle: "Ọkwa Nchụàjà na Nzukọ-nsọ Katọlik" }
     },
     "la-santisima-trinidad": {
