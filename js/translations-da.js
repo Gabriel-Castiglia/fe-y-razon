@@ -17,6 +17,8 @@ const translationsDA = {
     btn2: "Vores mission"
   },
   topics: {
+    pageTitle: "Trosemner | Tro og Fornuft",
+    filter: { label: "Filtrér efter gruppe", all: "Alle", god: "Gud og troen", church: "Kirken", sacraments: "Sakramenterne", saints: "Den Hellige Jomfru og de hellige", salvation: "Frelsen", search: "Søg efter et emne", empty: "Intet emne passer til søgningen." },
     eyebrow: "Kateketisk Apologetik",
     title: "Trosemner",
     subtitle: "Solide argumenter for at uddybe, forstå og forsvare den katolske tro"
@@ -155,7 +157,7 @@ const translationsDA = {
                 <span>6 min læsning</span>
                 <span>Udgivet maj 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+            <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
       article: `<p>Skærsilden er stadiet, hvor sjæle renses, før de træder ind i Guds fulde nærvær. Det er ikke en endelig straf, men en proces af helbredende kærlighed.</p>
                 <h2>Hvad betyder renselse?</h2>
                 <p>Renselsen fjerner følgerne af daglig synd og heler frihedens sår. Det er den nødvendige forberedelse til guddommelig beskuelse.</p>
@@ -186,7 +188,7 @@ const translationsDA = {
                 <span>13 min læsning</span>
                 <span>Udgivet maj 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+            <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
       article: `<p>Er Eukaristien et symbol, eller er den virkelig? Svaret findes i Johannes 6. Der findes ingen klarere, mere direkte eller mere udfordrende tekst i hele Evangeliet om dette emne. Og Jesus viger ikke. Men Johannes 6 er ikke det eneste vidnesbyrd: Paulus bekræfter det uafhængigt, og de første disciple af apostlene forstod det uden tvetydighed. Der er tre beviskæder. Ingen af dem har et svar inden for den symbolske fortolkning.</p>
                 <h2>Jeg er livets brød<br>Joh 6,47-51</h2>
                 <p>Jesus siger ikke "jeg repræsenterer livets brød" eller "jeg er som livets brød". Han siger:</p>
@@ -261,7 +263,7 @@ const translationsDA = {
                 <span>11 min læsning</span>
                 <span>Udgivet maj 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+            <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
       article: `<p>Der er et spørgsmål, som protestantismen ikke kan besvare. Jesus sagde: <em>"Modtag Helligånden. Hvis I tilgiver nogen deres synder, er de dem tilgivet; hvis I beholder nogens synder, er de dem beholdt"</em> (Joh 20,22-23). Til hvem talte han? Og hvordan kan man beholde nogens synder uden at vide, hvad de er? Det kan man ikke. Dette vers kræver, at den angrende bekender sine synder — hvilket kræver en præst med autoritet til at tilgive. Lad os gennemgå dette trin for trin.</p>
                 <h2>En mand taget blandt mennesker<br>Hebr 5,1-2</h2>
                 <p>Brevet til hebræerne er utvetydigt fra starten:</p>
@@ -343,7 +345,7 @@ const translationsDA = {
                 <span>15 min læsning</span>
                 <span>Udgivet maj 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+            <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
       article: `<p>Hvorfor tror vi? Ikke af blind tradition eller familievane. Vi tror, fordi Guds ord blev bevidnet, trofast overleveret og forbliver sandt. Lukas siger det fra begyndelsen: han undersøgte alt fra starten, så vi kan kende sikkerheden i det, vi er blevet undervist i (Luk 1,1-4). Det er præcis, hvad vi vil gøre her.</p>
                 <h2>Ordet blev bevidnet<br>Luk 1,1-4 og Joh 11,25-27</h2>
                 <p>Lukas fortæller os, at mange har forsøgt at sammensætte en beretning om de begivenheder, der fandt sted blandt dem, <em>"sådan som de blev overleveret til os af dem, der fra begyndelsen var øjenvidner og ordets tjenere"</em> (Luk 1,2). Dette er ikke legender: det er vidnesbyrd. Det, Jesus sagde, levede og lærte, blev set og overleveret af virkelige vidner.</p>
@@ -433,7 +435,7 @@ const translationsDA = {
                 <span>14 min læsning</span>
                 <span>Udgivet august 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+            <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
       article: `<p>Over for Eukaristien skifter indvendingen form, men ikke indhold. Jehovas Vidner, adventister, pinsefolk, mormoner og protestanter i almindelighed gentager en af disse to: <em>"Brødet er stadig brød: det ser ud som brød og smager som brød."</em> og <em>"Transsubstantiation er et opfundet ord, græsk filosofi; det står ikke i Bibelen."</em></p>
                 <p>Den anden besvares på én linje: ordene "Treenighed" og "Bibel" står der heller ikke, og ingen bestrider det, de betegner. Et ord skaber ikke kendsgerningen: det navngiver den. Den første er den, der betyder noget, og den besvares ikke med filosofi, men med Skriften, for Skriften har allerede fortalt, hvad der sker, når Kristus siger, at én ting er en anden. Fem skriftsteder, i rækkefølge.</p>
                 <h2>Ordet beskriver ikke: det gør<br>Joh 1,1-3</h2>
@@ -502,7 +504,7 @@ const translationsDA = {
                 <span>12 min læsning</span>
                 <span>Udgivet maj 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+            <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
       article: `<p>Jehovas Vidner og adventister gentager den samme indvending uden at blive trætte: <em>«De døde kan ikke høre dig»</em>, fordi sjælen —siger de— sover indtil den yderste dom. Ved første øjekast lyder det rimeligt. Men Skriften siger noget andet. Ikke i ét enkelt citat: i syv forskellige skriftsteder, fra Paulus til Åbenbaringen. Ét ad gangen.</p>
 
             <h2>Erkendelsen fuldendes efter døden<br>1 Kor 13,9-13</h2>
@@ -598,7 +600,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                 <span>11 min læsning</span>
                 <span>Udgivet september 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+            <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
       article: `<p>Der er en indvending mod Treenigheden, som høres inden for den pinsekirkelige verden, og det er ikke alle pinsevenners: Assemblies of God og de fleste pinsekirker bekender Treenigheden. Det er de forenede pinsevenners, som kalder sig enhedspinsevenner eller «kun Jesus»: <em>«Gud er kun én, ikke tre personer. Fader, Søn og Helligånd er titler, måder, hvorpå den samme Gud har åbenbaret sig. Faderen er Jesus, og Helligånden er Jesu Ånd. Derfor døber man kun i Jesu navn.»</em></p>
                 <p>Treenigheden er et mysterium: én Gud i tre Personer. Ingen forstår den til bunds, og Kirken har aldrig krævet, at man forstår den for at tro den. Hvad den kræver, er at tro Gud på det, han siger om sig selv, for det er ikke nok at tro, at der er én Gud. Jakob siger det sådan: <em><strong>«Du tror, at Gud er én. Det gør du ret i. Også dæmonerne tror det, og de skælver.»</strong></em> (Jak 2,19). Og det, Gud siger om sig selv, står skrevet med en sådan eftertryk, at man forstår det ved at læse det. Derfor har dette emne flere citater end forklaringer.</p>
                 <h2>«Lad os gøre»: flertallet i begyndelsen<br>Første Mosebog 1,26</h2>
@@ -707,7 +709,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                 <span>8 min læsning</span>
                 <span>Udgivet maj 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+            <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
       article: `<p>Den nye lov er Evangeliets lov, centreret om kærlighedens bud. Kristus afskaffer ikke den gamle lov, men fuldbyrder den og gør den tilgængelig for det menneskelige hjerte.</p>
                 <h2>Kærlighed som målestok</h2>
                 <p>Jesus samler Loven i kærlighed til Gud og næsten. Denne nye regel er ikke en byrde, men en dyb frihed, der transformerer vores handlinger indefra.</p>
@@ -741,7 +743,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                 <span>14 min læsning</span>
                 <span>Udgivet september 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+            <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
       article: `<p>Mod pavedømmet har indvendingen to former. Den første gentages af protestanter fra næsten alle kirkesamfund, af adventister og af Jehovas Vidner: <em>"Klippen er Kristus, ikke Peter. Peter er bare en lille sten; klippen er den tro, han bekendte."</em> Den anden hører til i den evangelikale verden: <em>"Den sande kirke er usynlig: den har intet hierarki, ingen biskopper og ingen pave. Det har Rom opfundet."</em></p>
                 <p>Begge besvares med Skriften. Først, hvad Kirken er bygget på, og hvem der har nøglerne. Dernæst, om denne Kirke har en ledelse, og om den fandtes, før nogen organiserede den. Og til sidst, hvem Kristus gav til opgave at holde de andre oppe.</p>
                 <h2>Kristus er hovedhjørnestenen, og der er en grundvold<br>Ef 2,20-22</h2>
@@ -887,7 +889,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
             </div>
             <h1>Venlige Sider</h1>
             <p>Pålidelige kilder til at uddybe, lære og dele den katolske tro.</p>
-            <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+            <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
       labels: {
         bible: "Den Hellige Skrift →",
         catechism: "Katekismus →",
@@ -903,7 +905,8 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
       sec2: {
         eyebrow: "Apologetik · Dannelse", title: "Præster og undervisere", desc: "Stemmer, der er tro mod Læreembedet, og som underviser i, forsvarer og forkynder troen med dybde og grundighed.",
         toro:    { desc: "Teolog og apologet. Besvarer de sværeste indvendinger mod den katolske tro med stor dybde." },
-        olivera: { desc: "Augustinsk historiker og apologet. Tager fat på rationalisme, sekter og moderne vildfarelser med grundighed." }
+        olivera: { desc: "Augustinsk historiker og apologet. Tager fat på rationalisme, sekter og moderne vildfarelser med grundighed." },
+        montfort: { tag: "Frankrig · ca. 1712", title: "Traktat om den sande andagt til Den Hellige Jomfru", author: "Sankt Louis-Marie Grignion de Montfort", desc: "Det klassiske værk om indvielsen til Jesus gennem Maria. Komplet udgave i PDF, på engelsk.", ed1: "PDF på engelsk →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
         eyebrow: "Apostolater · Medier", title: "Apostolater og katolske medier",
@@ -927,7 +930,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
             </div>
             <h1>Privatliv</h1>
             <p>Hvilke data dette websted indsamler, hvad de bruges til, og hvor de sendes hen.</p>
-            <a href="index.html#temas" class="btn-outline-white">Tilbage til Emner</a>`,
+            <a href="temas.html" class="btn-outline-white">Tilbage til Emner</a>`,
       article: `<p>Dette websted bruger ingen cookies, har ingen analyseværktøjer, viser ingen reklamer og indeholder hverken knapper eller sporingsværktøjer fra sociale medier. Skrifttyper, billeder og videoer leveres fra dette samme domæne: når du åbner en side, beder din browser ikke om noget fra tredjepart.</p>
                 <h2>Hvilke data indsamles</h2>
                 <p>Kun det, du selv skriver i kontaktformularen: <strong>navn, e-mailadresse, emne og besked</strong>. Ingen andre data indsamles, og der findes ingen anden formular nogen steder på webstedet.</p>
@@ -952,7 +955,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
             </div>
             <h1>Om dette sted</h1>
             <p>En rejse gennem filosofier, der ikke holdt — til den Kirke, der gjorde.</p>
-            <a href="index.html#temas" class="btn-outline-white">Tilbage til emner</a>`,
+            <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
       article: `<p>Jeg kom til katolicismen efter en lang rejse. Jeg læste alt: okkultisme og esoterisme, de såkaldte Smaragdtavler, østlige filosofier, Nietzsche, epikuræerne. Jeg søgte svar overalt og fandt ikke ét, der holdt. Stoicismen var det sidste, der tilbød mig noget alvorligt, inden Kristus — Seneca, Marcus Aurelius, Epiktet lærte mig at se sandheden uden at blinke. Og idet jeg betragtede sandheden uden at blinke, endte jeg der, hvor jeg ikke forventede det: over for den Katolske Kirke.</p>
 
             <p>Dette sted er for dig, hvis du befinder dig ét af disse steder: du tvivler på den tro, du har modtaget, og ved ikke, hvem du skal spørge; du søger iblandt traditioner, og ingen giver dig et svar, der kan bære vægten; du er netop konverteret og føler dig alene, uden vejledning, belejret fra alle sider. Jeg kender det sted. Jeg har været der. Og jeg ved, hvad der er rundt om det: traditionelle katolikker, der nogle gange tager for givet, hvad de burde bevise, og ikke kan forklare det; og endnu værre, lunken <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Dansk -->katolikker — dem, der går til messe af vane, ikke ved, hvad de tror, forsvarer ingenting, og er de første til at trække på skuldrene, når nogen angriber troen foran dem.</p>
@@ -971,7 +974,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
 
             <p>Jeg skriver ikke for at vinde diskussioner. Jeg skriver for at den, der tvivler alene om natten, har noget seriøst ved hånden, når det er deres tur til at forsvare deres tro — eller når det er deres tur til at finde den for første gang.</p>
 
-            <p class="about-signature">— M.G.</p>`
+            <p class="about-signature">M. Gabriel Castiglia</p>`
     }
   },
   disclaimerHTML: "<!-- TODO: revisar disclaimer en Dansk -->Denne artikel er automatisk oversat fra spansk. Dette websted er et personligt projekt, der vedligeholdes med indsats og dedikation. Hvis du finder fejl i oversættelsen, er vi taknemmelige, hvis du indberetter dem via kontaktformularen.",

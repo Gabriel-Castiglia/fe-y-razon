@@ -73,6 +73,9 @@
     <link rel="stylesheet" href="css/style.css?v=24">
 </head>
 <body>
+    <!-- Los temas pasaron a temas.html (28-sep-2026). Un enlace viejo a
+         temas.html, guardado o de Google, se manda a la página nueva. -->
+    <script>if (location.hash === '#temas') location.replace('temas.html' + location.search);</script>
     <!-- 1. COMPONENTES GLOBALES -->
     <div id="preloader"><p class="preloader-logo">Fé y Razón</p></div>
     <button id="scroll-top" aria-label="Volver arriba">↑</button>
@@ -84,8 +87,7 @@
             <nav>
                 <ul class="nav-links">
                     <li><a href="#hero" class="active" data-i18n="nav.home">Inicio</a></li>
-                    <li><a href="#temas" data-i18n="nav.topics">Temas</a></li>
-                    <li><a href="#mision" data-i18n="nav.mission">Misión</a></li>
+                    <li><a href="temas.html" data-i18n="nav.topics">Temas</a></li>
                     <li><a href="tema-recursos-recomendados.html" data-i18n="nav.usefulPages">Recursos recomendados</a></li>
                     <li><a href="#contacto" data-i18n="nav.contact">Contacto</a></li>
                     <li><a href="sobre-este-sitio.html" data-i18n="nav.about">Sobre este sitio</a></li>
@@ -135,7 +137,7 @@
             <h1 data-i18n="hero.title">Aprende y defiende<br>tu <em>fe católica</em></h1>
             <p class="hero-desc" data-i18n="hero.desc">Argumentos apologéticos sólidos para entender, vivir y compartir la fe católica con convicción y sabiduría.</p>
             <div class="hero-btns">
-                <a href="#temas" class="btn-primary" data-i18n="hero.btn1">Explorar artículos</a>
+                <a href="temas.html" class="btn-primary" data-i18n="hero.btn1">Explorar artículos</a>
                 <a href="#mision" class="btn-outline-white" data-i18n="hero.btn2">Nuestra misión</a>
             </div>
         </div>
@@ -146,130 +148,6 @@
     </section>
 
     <main>
-        <!-- Sección de Artículos (Grilla) -->
-        <section id="temas" class="articles-section">
-            <div class="articles-wrap">
-                <div class="sec-eye reveal">
-                    <span class="sec-eye-line"></span>
-                    <span class="sec-eye-txt" data-i18n="topics.eyebrow">Catequesis Apologética</span>
-                </div>
-                <h2 class="section-title reveal" data-i18n="topics.title">Temas de Fe</h2>
-                <p class="articles-subtitle reveal" data-i18n="topics.subtitle">Argumentos sólidos para profundizar, comprender y defender la fe&nbsp;católica</p>
-
-                <div class="articles-grid">
-                    <!-- Tarjeta de Artículo -->
-                    <article class="article-card reveal">
-                        <video class="card-bg-video" muted loop playsinline preload="none" tabindex="-1" poster="Recursos/Videos/conf02-poster.webp"><source src="Recursos/Videos/conf02.mp4" type="video/mp4"></video>
-                        <div class="article-header">
-                            <span class="article-date" data-i18n="article2.date">Mayo 2026</span>
-                        </div>
-                        <h3 class="article-title" data-i18n="article2.title">Por qué creemos</h3>
-                        <p class="article-excerpt" data-i18n="article2.excerpt">Razones fundamentales para creer en la fe católica y su coherencia con la razón humana.</p>
-                        <div class="article-footer">
-                            <span class="read-time" data-i18n="article2.time">15 min lectura</span>
-                            <a href="tema-por-que-creemos.html" class="article-link" data-article="por-que-creemos" data-i18n="article2.link">Leer →</a>
-                        </div>
-                    </article>
-                    <article class="article-card reveal">
-                        <video class="card-bg-video" muted loop playsinline preload="none" tabindex="-1" poster="Recursos/Videos/sacerdote03-poster.webp"><source src="Recursos/Videos/sacerdote03.mp4" type="video/mp4"></video>
-                        <div class="article-header">
-                            <span class="article-date" data-i18n="article9.date">Septiembre 2026</span>
-                        </div>
-                        <h3 class="article-title" data-i18n="article9.title">La primacía de Pedro</h3>
-                        <p class="article-excerpt" data-i18n="article9.excerpt">Las llaves del Reino, la piedra y el encargo de confirmar a los hermanos: lo que la Escritura le da a Pedro.</p>
-                        <div class="article-footer">
-                            <span class="read-time" data-i18n="article9.time">14 min lectura</span>
-                            <a href="tema-la-primacia-de-pedro.html" class="article-link" data-article="la-primacia-de-pedro" data-i18n="article9.link">Leer →</a>
-                        </div>
-                    </article>
-                    <article class="article-card reveal">
-                        <video class="card-bg-video" muted loop playsinline preload="none" tabindex="-1" poster="Recursos/Videos/misa01-poster.webp"><source src="Recursos/Videos/misa01.mp4" type="video/mp4"></video>
-                        <div class="article-header">
-                            <span class="article-date" data-i18n="article3.date">Mayo 2026</span>
-                        </div>
-                        <h3 class="article-title" data-i18n="article3.title">La Eucaristía</h3>
-                        <p class="article-excerpt" data-i18n="article3.excerpt">El sacramento central de la Iglesia católica y su significado en la vida cristiana.</p>
-                        <div class="article-footer">
-                            <span class="read-time" data-i18n="article3.time">13 min lectura</span>
-                            <a href="tema-la-eucaristia.html" class="article-link" data-article="la-eucaristia" data-i18n="article3.link">Leer →</a>
-                        </div>
-                    </article>
-                    <article class="article-card reveal">
-                        <video class="card-bg-video" muted loop playsinline preload="none" tabindex="-1" poster="Recursos/Videos/calis01-poster.webp"><source src="Recursos/Videos/calis01.mp4" type="video/mp4"></video>
-                        <div class="article-header">
-                            <span class="article-date" data-i18n="article4.date">Agosto 2026</span>
-                        </div>
-                        <h3 class="article-title" data-i18n="article4.title">Transubstanciación</h3>
-                        <p class="article-excerpt" data-i18n="article4.excerpt">El cambio sustancial del pan y vino en el Cuerpo y Sangre de Cristo durante la Misa.</p>
-                        <div class="article-footer">
-                            <span class="read-time" data-i18n="article4.time">9 min lectura</span>
-                            <a href="tema-transubstanciacion.html" class="article-link" data-article="transubstanciacion" data-i18n="article4.link">Leer →</a>
-                        </div>
-                    </article>
-                    <article class="article-card reveal">
-                        <video class="card-bg-video" muted loop playsinline preload="none" tabindex="-1" poster="Recursos/Videos/conf04-poster.webp"><source src="Recursos/Videos/conf04.mp4" type="video/mp4"></video>
-                        <div class="article-header">
-                            <span class="article-date" data-i18n="article1.date">Mayo 2026</span>
-                        </div>
-                        <h3 class="article-title" data-i18n="article1.title">El Sacerdocio</h3>
-                        <p class="article-excerpt" data-i18n="article1.excerpt">El rol esencial del sacerdocio en la Iglesia católica y su importancia en la vida sacramental.</p>
-                        <div class="article-footer">
-                            <span class="read-time" data-i18n="article1.time">11 min lectura</span>
-                            <a href="tema-sacerdocio.html" class="article-link" data-article="sacerdocio" data-i18n="article1.link">Leer →</a>
-                        </div>
-                    </article>
-                    <article class="article-card reveal">
-                        <video class="card-bg-video" muted loop playsinline preload="none" tabindex="-1" poster="Recursos/Videos/rosario01-poster.webp"><source src="Recursos/Videos/rosario01.mp4" type="video/mp4"></video>
-                        <div class="article-header">
-                            <span class="article-date" data-i18n="article5.date">Mayo 2026</span>
-                        </div>
-                        <h3 class="article-title" data-i18n="article5.title">Los santos</h3>
-                        <p class="article-excerpt" data-i18n="article5.excerpt">La importancia de los santos en la Iglesia católica y su intercesión por nosotros.</p>
-                        <div class="article-footer">
-                            <span class="read-time" data-i18n="article5.time">12 min lectura</span>
-                            <a href="tema-los-santos.html" class="article-link" data-article="los-santos" data-i18n="article5.link">Leer →</a>
-                        </div>
-                    </article>
-                    <article class="article-card reveal">
-                        <video class="card-bg-video" muted loop playsinline preload="none" tabindex="-1" poster="Recursos/Videos/velas01-poster.webp"><source src="Recursos/Videos/velas01.mp4" type="video/mp4"></video>
-                        <div class="article-header">
-                            <span class="article-date" data-i18n="article7.date">Próximamente</span>
-                        </div>
-                        <h3 class="article-title" data-i18n="article7.title">El purgatorio</h3>
-                        <p class="article-excerpt" data-i18n="article7.excerpt">La purificación final antes de entrar en la presencia de Dios.</p>
-                        <div class="article-footer">
-                            <span class="read-time" data-i18n="article7.time">6 min lectura</span>
-                            <a href="tema-el-purgatorio.html" class="article-link" data-article="el-purgatorio" data-i18n="article7.link">Leer →</a>
-                        </div>
-                    </article>
-                    <article class="article-card reveal">
-                        <video class="card-bg-video" muted loop playsinline preload="none" tabindex="-1" poster="Recursos/Videos/lectura01-poster.webp"><source src="Recursos/Videos/lectura01.mp4" type="video/mp4"></video>
-                        <div class="article-header">
-                            <span class="article-date" data-i18n="article8.date">Próximamente</span>
-                        </div>
-                        <h3 class="article-title" data-i18n="article8.title">La nueva ley</h3>
-                        <p class="article-excerpt" data-i18n="article8.excerpt">La ley de Cristo que reemplaza la Antigua Ley y guía a los cristianos.</p>
-                        <div class="article-footer">
-                            <span class="read-time" data-i18n="article8.time">8 min lectura</span>
-                            <a href="tema-la-nueva-ley.html" class="article-link" data-article="la-nueva-ley" data-i18n="article8.link">Leer →</a>
-                        </div>
-                    </article>
-                    <article class="article-card reveal">
-                        <video class="card-bg-video" muted loop playsinline preload="none" tabindex="-1" poster="Recursos/Videos/crucifijo01-poster.webp"><source src="Recursos/Videos/crucifijo01.mp4" type="video/mp4"></video>
-                        <div class="article-header">
-                            <span class="article-date" data-i18n="article6.date">Septiembre 2026</span>
-                        </div>
-                        <h3 class="article-title" data-i18n="article6.title">La Santísima Trinidad</h3>
-                        <p class="article-excerpt" data-i18n="article6.excerpt">Tres Personas y un solo Dios: lo que la Escritura responde a los pentecostales unidos, pasaje por pasaje.</p>
-                        <div class="article-footer">
-                            <span class="read-time" data-i18n="article6.time">11 min lectura</span>
-                            <a href="tema-la-santisima-trinidad.html" class="article-link" data-article="la-santisima-trinidad" data-i18n="article6.link">Leer →</a>
-                        </div>
-                    </article>
-                </div>
-            </div>
-        </section>
-
         <!-- Sección de Meditación (Citas rotativas) -->
         <section class="meditacion-section">
             <video class="meditacion-video" muted playsinline loop preload="none" poster="Recursos/Videos/crucifijo02-poster.webp"><source src="Recursos/Videos/crucifijo02.mp4" type="video/mp4"></video>
@@ -345,24 +223,6 @@
     </main>
     </div><!-- #main-page-content -->
 
-    <!-- 4. OVERLAY DE ARTÍCULO (SPA) -->
-    <div id="article-overlay" hidden>
-        <div id="overlay-reading-progress" role="progressbar" aria-label="Progreso de lectura" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"></div>
-        <section class="article-hero">
-            <video class="hero-video active" id="ov-vid-1" muted playsinline preload="none" aria-hidden="true" tabindex="-1"></video>
-            <video class="hero-video" id="ov-vid-2" muted playsinline preload="none" aria-hidden="true" tabindex="-1"></video>
-            <video class="hero-video" id="ov-vid-3" muted playsinline preload="none" aria-hidden="true" tabindex="-1"></video>
-            <video class="hero-video" id="ov-vid-4" muted playsinline preload="none" aria-hidden="true" tabindex="-1"></video>
-            <div class="article-hero-inner" id="overlay-hero-content"></div>
-        </section>
-        <main class="article-page" id="overlay-article-page">
-            <div class="article-page-inner">
-                <article class="article-body" id="overlay-article-body"></article>
-                <div class="article-navigation" id="overlay-article-nav"></div>
-            </div>
-        </main>
-    </div>
-
     <!-- 5. PIE DE PÁGINA
          Va DESPUÉS del overlay a propósito. Al abrir un artículo se oculta
          #main-page-content, pero el pie nunca estuvo dentro de ese contenedor:
@@ -375,8 +235,7 @@
     </footer>
 
     <!-- 6. SCRIPTS -->
-    <script src="js/main.js?v=15" defer></script>
-    <script src="js/translations.js?v=21" defer></script>
-    <script src="js/router.js?v=18" defer></script>
+    <script src="js/main.js?v=17" defer></script>
+    <script src="js/translations.js?v=23" defer></script>
 </body>
 </html>

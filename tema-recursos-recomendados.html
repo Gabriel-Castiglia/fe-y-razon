@@ -125,8 +125,7 @@
             <nav>
                 <ul class="nav-links">
                     <li><a href="index.html#hero" data-i18n="nav.home">Inicio</a></li>
-                    <li><a href="index.html#temas" data-i18n="nav.topics">Temas</a></li>
-                    <li><a href="index.html#mision" data-i18n="nav.mission">Misión</a></li>
+                    <li><a href="temas.html" data-i18n="nav.topics">Temas</a></li>
                     <li><a href="tema-recursos-recomendados.html" class="active" data-i18n="nav.usefulPages">Recursos recomendados</a></li>
                     <li><a href="index.html#contacto" data-i18n="nav.contact">Contacto</a></li>
                     <li><a href="sobre-este-sitio.html" data-i18n="nav.about">Sobre este sitio</a></li>
@@ -161,7 +160,7 @@
             </div>
             <h1>Recursos recomendados</h1>
             <p>Fuentes de confianza para profundizar, formarse y compartir la fe católica.</p>
-            <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>
+            <a href="temas.html" class="btn-outline-white">Volver a Temas</a>
         </div>
     </section>
 
@@ -234,8 +233,8 @@
 
       /* ── PRIESTS — portrait cards ── */
       .rec-priests {
-        display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem;
-        max-width: 760px;
+        /* Tres en fila: los dos sacerdotes y el Tratado de Montfort. */
+        display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem;
       }
       .rec-priest {
         border-radius: 14px; overflow: hidden; background: #12100d;
@@ -275,6 +274,12 @@
         line-height: 1.65; margin: 0; flex: 1;
       }
       .rec-priest-links { display: flex; gap: .5rem; flex-wrap: wrap; margin-top: .5rem; }
+      /* La segunda edición del Tratado es en español: solo se muestra en español. */
+      html:not([lang="es"]) .rec-solo-es { display: none; }
+      .rec-priest-author {
+        font-family: 'Montserrat', sans-serif; font-size: .62rem;
+        letter-spacing: .16em; text-transform: uppercase; color: var(--gold);
+      }
       .rec-pill {
         font-family: 'Montserrat', sans-serif; font-size: .68rem;
         color: var(--gold); border: 1px solid rgba(212,165,116,.3);
@@ -642,6 +647,26 @@
               </div>
             </div>
 
+
+            <!-- Tratado de la Verdadera Devoción: un solo cuadro con las dos ediciones
+                 en PDF (español); en francés, la edición francesa y en los demás
+                 idiomas, la inglesa (url1). Imagen: cromolitografía de 1890,
+                 Musea Brugge, CC0 (Wikimedia Commons). -->
+            <div class="rec-priest">
+              <div class="rec-priest-photo">
+                <img src="Recursos/Im%C3%A1genes/montfort.webp" alt="San Luis María Grignion de Montfort" data-i18n-alt="topicPages.recursos-recomendados.sec2.montfort.author" width="640" height="956" loading="lazy">
+                <span class="rec-priest-country" data-i18n="topicPages.recursos-recomendados.sec2.montfort.tag">Francia · hacia 1712</span>
+              </div>
+              <div class="rec-priest-body">
+                <span class="rec-priest-author" data-i18n="topicPages.recursos-recomendados.sec2.montfort.author">San Luis María Grignion de Montfort</span>
+                <h3 data-i18n="topicPages.recursos-recomendados.sec2.montfort.title">Tratado de la Verdadera Devoción a la Santísima Virgen</h3>
+                <p data-i18n="topicPages.recursos-recomendados.sec2.montfort.desc">La obra clásica sobre la consagración a Jesús por María. Dos ediciones completas en PDF.</p>
+                <div class="rec-priest-links">
+                  <a href="https://www.montfort.org/content/uploads/pdf/PDF_ES_26_1.pdf" target="_blank" rel="noopener" class="rec-pill" data-i18n-href="topicPages.recursos-recomendados.sec2.montfort.url1" data-i18n="topicPages.recursos-recomendados.sec2.montfort.ed1">Edición monfortiana (PDF) →</a>
+                  <a href="https://caballerosdelavirgen.com.co/wp-content/uploads/2020/04/tratado-de-la-verdadera-devoci%C3%B3n-a-la-santisima-virgen.pdf" target="_blank" rel="noopener" class="rec-pill rec-solo-es" data-i18n="topicPages.recursos-recomendados.sec2.montfort.ed2">Caballeros de la Virgen (PDF) →</a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
 
@@ -750,7 +775,7 @@
         <p class="footer-legal"><a href="privacidad.html" data-i18n="topicPages.privacidad.linkLabel">Privacidad</a></p>
     </footer>
     
-    <script src="js/main.js?v=15" defer></script>
-    <script src="js/translations.js?v=21" defer></script>
+    <script src="js/main.js?v=17" defer></script>
+    <script src="js/translations.js?v=23" defer></script>
 </body>
 </html>

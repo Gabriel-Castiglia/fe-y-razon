@@ -25,6 +25,8 @@ const translationsES = {
     btn2: "Nuestra misión"
   },
   topics: {
+    pageTitle: "Temas de Fe | Fé y Razón",
+    filter: { label: "Filtrar por grupo", all: "Todos", god: "Dios y la fe", church: "Iglesia", sacraments: "Sacramentos", saints: "La Santísima Virgen y los santos", salvation: "Salvación", search: "Buscar un tema", empty: "Ningún tema coincide con la búsqueda." },
     eyebrow: "Catequesis Apologética",
     title: "Temas de Fe",
     subtitle: "Argumentos sólidos para profundizar, comprender y defender la fe&nbsp;católica"
@@ -165,7 +167,7 @@ const translationsES = {
                 <span>6 min lectura</span>
                 <span>Publicado en mayo de 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
+            <a href="temas.html" class="btn-outline-white">Volver a Temas</a>`,
       article: `<!--
 REGLA: Todas las citas bíblicas en español deben provenir de la
 "Biblia de Jerusalén Latinoamericana" (sin "vosotros"). Si no está
@@ -205,7 +207,7 @@ NUNCA Reina-Valera ni traducciones protestantes.
                 <span>13 min lectura</span>
                 <span>Publicado en mayo de 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
+            <a href="temas.html" class="btn-outline-white">Volver a Temas</a>`,
       article: `<!--
 REGLA: Todas las citas bíblicas en español provienen de "El Libro del Pueblo
 de Dios" (traducción argentina, 1990), que es la Biblia en español publicada
@@ -296,7 +298,7 @@ Las siete citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
                 <span>8 min lectura</span>
                 <span>Publicado en mayo de 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
+            <a href="temas.html" class="btn-outline-white">Volver a Temas</a>`,
       article: `<!--
 REGLA: Todas las citas bíblicas en español deben provenir de la
 "Biblia de Jerusalén Latinoamericana" (sin "vosotros"). Si no está
@@ -339,7 +341,7 @@ NUNCA Reina-Valera ni traducciones protestantes.
                 <span>14 min lectura</span>
                 <span>Publicado en septiembre de 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
+            <a href="temas.html" class="btn-outline-white">Volver a Temas</a>`,
       article: `<!--
 REGLA: Las citas bíblicas en español salen de "El Libro del Pueblo de Dios"
 (vatican.va/archive/ESL0506/) o de la Biblia de Jerusalén Latinoamericana,
@@ -471,7 +473,7 @@ Cotejadas el 28-sep-2026: las once, del Vaticano.
                 <span>11 min lectura</span>
                 <span>Publicado en septiembre de 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
+            <a href="temas.html" class="btn-outline-white">Volver a Temas</a>`,
       article: `<!--
 REGLA: Las citas bíblicas en español salen de "El Libro del Pueblo de Dios"
 (vatican.va/archive/ESL0506/) o de la Biblia de Jerusalén Latinoamericana,
@@ -600,7 +602,7 @@ Texto base de Gabriel: la santisima trinidad.docx (28-sep-2026).
                 <span>12 min lectura</span>
                 <span>Publicado en mayo de 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
+            <a href="temas.html" class="btn-outline-white">Volver a Temas</a>`,
       article: `<!--
 REGLA: Las citas bíblicas en español salen de "El Libro del Pueblo de Dios"
 (vatican.va/archive/ESL0506/) o de la Biblia de Jerusalén Latinoamericana,
@@ -710,7 +712,7 @@ Por lo tanto, <strong class="s-hi">ya que estamos rodeados de una verdadera nube
                 <span>15 min lectura</span>
                 <span>Publicado en mayo de 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
+            <a href="temas.html" class="btn-outline-white">Volver a Temas</a>`,
       article: `<!--
 REGLA: Las citas bíblicas en español salen de "El Libro del Pueblo de Dios"
 (vatican.va/archive/ESL0506/) o de la Biblia de Jerusalén Latinoamericana,
@@ -818,7 +820,7 @@ Cotejadas el 27-ago-2026: 8 del Vaticano, 2 de Jerusalén (Mt 16:18 y 1 Tim 3:15
                 <span>11 min lectura</span>
                 <span>Publicado en mayo de 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
+            <a href="temas.html" class="btn-outline-white">Volver a Temas</a>`,
       article: `<!--
 REGLA: Las citas bíblicas en español salen de "El Libro del Pueblo de Dios"
 (vatican.va/archive/ESL0506/) o de la Biblia de Jerusalén Latinoamericana,
@@ -917,7 +919,7 @@ Cotejadas el 27-ago-2026: 6 del Vaticano, 2 de Jerusalén (Heb 5:1-2 y 5:4).
                 <span>14 min lectura</span>
                 <span>Publicado en agosto de 2026</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
+            <a href="temas.html" class="btn-outline-white">Volver a Temas</a>`,
       article: `<!--
 REGLA: Todas las citas bíblicas en español provienen de "El Libro del Pueblo
 de Dios" (traducción argentina, 1990), que es la Biblia en español publicada
@@ -1031,7 +1033,7 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
             </div>
             <h1>Recursos recomendados</h1>
             <p>Fuentes de confianza para profundizar, formarse y compartir la fe católica.</p>
-            <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
+            <a href="temas.html" class="btn-outline-white">Volver a Temas</a>`,
       labels: {
         bible: "Sagrada Escritura →",
         catechism: "Catecismo →",
@@ -1047,7 +1049,8 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
       sec2: {
         eyebrow: "Apologética · Formación", title: "Sacerdotes y formadores", desc: "Voces fieles al Magisterio que enseñan, defienden y proclaman la fe con profundidad y rigor.",
         toro:    { desc: "Teólogo y apologeta. Responde con profundidad las objeciones más difíciles a la fe católica." },
-        olivera: { desc: "Historiador y apologeta agustino. Aborda el racionalismo, las sectas y los errores modernos con rigor." }
+        olivera: { desc: "Historiador y apologeta agustino. Aborda el racionalismo, las sectas y los errores modernos con rigor." },
+        montfort: { tag: "Francia · hacia 1712", title: "Tratado de la Verdadera Devoción a la Santísima Virgen", author: "San Luis María Grignion de Montfort", desc: "La obra clásica sobre la consagración a Jesús por María. Dos ediciones completas en PDF.", ed1: "Edición monfortiana (PDF) →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_ES_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
         eyebrow: "Apostolados · Medios", title: "Apostolados y medios católicos",
@@ -1071,7 +1074,7 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
             </div>
             <h1>Privacidad</h1>
             <p>Qué datos recoge este sitio, para qué se usan y por dónde pasan.</p>
-            <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
+            <a href="temas.html" class="btn-outline-white">Volver a Temas</a>`,
       article: `<p>Este sitio no usa cookies, no tiene analítica, no muestra publicidad y no incluye botones ni rastreadores de redes sociales. Las tipografías, las imágenes y los videos se sirven desde este mismo dominio: al abrir una página, el navegador no le pide nada a ningún tercero.</p>
                 <h2>Qué datos se recogen</h2>
                 <p>Únicamente los que se escriben a mano en el formulario de contacto: <strong>nombre, correo electrónico, asunto y mensaje</strong>. No se recoge ningún otro dato, y en el resto del sitio no hay ningún otro formulario.</p>
@@ -1096,7 +1099,7 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
             </div>
             <h1>Sobre este sitio</h1>
             <p>Un recorrido desde las filosofías que no aguantaron hasta la Iglesia que sí aguanta.</p>
-            <a href="index.html#temas" class="btn-outline-white">Volver a Temas</a>`,
+            <a href="temas.html" class="btn-outline-white">Volver a Temas</a>`,
       article: `<p>Llegué al catolicismo después de un recorrido largo. Leí de todo: ocultismo y esoterismo, las llamadas tablas esmeralda, las filosofías orientales, Nietzsche, los epicúreos. Probé respuestas en todas partes y no encontraba ninguna que se sostuviera. El estoicismo fue lo último que me ofreció algo serio antes de Cristo — Séneca, Marco Aurelio, Epicteto me enseñaron a mirar la verdad sin pestañear. Y mirando la verdad sin pestañear terminé donde no esperaba: ante la Iglesia Católica.</p>
 
             <p>Este sitio es para vos si estás en alguno de estos lugares: dudás de la fe que recibiste y no sabés a quién preguntarle; estás buscando entre tradiciones y nadie te da una respuesta que te aguante el peso; te acabás de convertir y te sentís solo, sin guía, asediado por todos lados. Conozco ese lugar. Estuve ahí. Y sé lo que hay alrededor: católicos tradicionales que a veces dan por supuesto lo que tendrían que demostrar y no saben explicarlo; y peor todavía, católicos tibios — los que van a misa por costumbre, no saben qué creen, no defienden nada, y son los primeros en encogerse de hombros cuando alguien ataca la fe delante de ellos.</p>
@@ -1114,7 +1117,7 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
 
             <p>No escribo para ganar discusiones. Escribo para que el que está dudando solo en la noche tenga algo serio a mano cuando le toque defender su fe — o cuando le toque encontrarla por primera vez.</p>
 
-            <p class="about-signature">— M.G.</p>`
+            <p class="about-signature">M. Gabriel Castiglia</p>`
     }
   },
   share: {

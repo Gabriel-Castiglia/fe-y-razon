@@ -22,6 +22,8 @@ const translationsLA = {
     btn2: "Nostra missio"
   },
   topics: {
+    pageTitle: "Themata Fidei | Fides et Ratio",
+    filter: { label: "Secundum genus seligere", all: "Omnia", god: "Deus et fides", church: "Ecclesia", sacraments: "Sacramenta", saints: "Beata Virgo et sancti", salvation: "Salus", search: "Thema quaerere", empty: "Nullum thema quaesitis respondet." },
     eyebrow: "Catechesis Apologetica",
     title: "Themata Fidei",
     subtitle: "Argumenta solida ad approfundandum, intelligendum et defendendam fidem&nbsp;catholicam"
@@ -161,7 +163,7 @@ const translationsLA = {
                 <span>VI min lectura</span>
                 <span>Editus Maio MMXXVI</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Ad Themata reverti</a>`,
+            <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
       article: `<p>Purgatorium est status in quo animae purgantur antequam in plenam Dei praesentiam intrent. Non est poena finalis, sed processus amoris sanantis.</p>
                 <h2>Quid significat purgatio?</h2>
                 <p>Purgatio aufert effectus peccati venialis et sanat vulnera libertatis. Est praeparatio necessaria ad contemplationem divinam.</p>
@@ -192,7 +194,7 @@ const translationsLA = {
                 <span>XIII min lectura</span>
                 <span>Editus Maio MMXXVI</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Ad Themata reverti</a>`,
+            <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
       article: `<p>Estne Eucharistia symbolum an vera? Responsio est in Ioanne VI. Nullus textus clarior, directior aut magis provocans in toto Evangelio de hac re exstat. Et Iesus non cedit. Sed Ioannes VI non est unicus testis: Paulus independenter id confirmat, et primi discipuli apostolorum id sine ambiguitate intellexerunt. Tres lineae testimoniorum. Nulla ex eis responsionem habet in interpretatione symbolica.</p>
                 <h2>Ego sum panis vitae<br>Io 6, 47-51</h2>
                 <p>Iesus non dicit «repraesentare se panem vitae» nec «similem esse pani vitae». Dicit:</p>
@@ -267,7 +269,7 @@ const translationsLA = {
                 <span>VIII min lectura</span>
                 <span>Editus Maio MMXXVI</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Ad Themata reverti</a>`,
+            <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
       article: `<p>Nova lex est lex Evangelii, centrata in mandato amoris. Christus Legem Veterem non abolet, sed ad plenitudinem perducit eamque cordi humano accessibilem reddit.</p>
                 <h2>Amor ut criterium</h2>
                 <p>Iesus Legem in amore Dei et proximi resumit. Haec nova norma non est onus, sed profunda libertas quae actiones nostras ab interiori transformat.</p>
@@ -301,7 +303,7 @@ const translationsLA = {
                 <span>XIV min lectura</span>
                 <span>Editus Septembri MMXXVI</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Ad Themata reverti</a>`,
+            <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
       article: `<p>Contra papatum obiectio duplicem formam habet. Priorem iterant Protestantes fere omnium denominationum, Adventistae et Testes Iehovae: <em>«Petra Christus est, non Petrus. Petrus lapillus tantum est; petra est fides quam confessus est.»</em> Altera propria est mundi evangelici: <em>«Vera Ecclesia invisibilis est: nec hierarchiam habet, nec episcopos, nec papam. Haec omnia Roma excogitavit.»</em></p>
                 <p>Utraque Scriptura solvitur. Primum, super quid aedificata sit Ecclesia et quis claves habeat. Deinde, num Ecclesia illa regimen habeat et num exstiterit antequam quisquam eam ordinaret. Postremo, cui Christus mandaverit ut ceteros sustineret.</p>
                 <h2>Christus lapis angularis est, et fundamenta sunt<br>Eph 2, 20-22</h2>
@@ -414,7 +416,7 @@ const translationsLA = {
                 <span>XI min lectura</span>
                 <span>Editus Septembri MMXXVI</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Ad Themata reverti</a>`,
+            <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
       article: `<p>Est obiectio contra Trinitatem quae intra mundum pentecostalem auditur, neque tamen omnium pentecostalium: Coetus Dei (Assemblies of God) et plurimae ecclesiae pentecostales Trinitatem confitentur. Est pentecostalium unitorum, qui se «unicistas» vel «solius Iesu» appellant: <em>«Deus unus est, non tres personae. Pater, Filius et Spiritus Sanctus tituli sunt, modi quibus idem Deus se manifestavit. Pater est Iesus, et Spiritus Sanctus est Spiritus Iesu. Ideo solummodo in nomine Iesu baptizamus.»</em></p>
                 <p>Trinitas mysterium est: unus Deus in tribus Personis. Nemo eam penitus intellegit, neque Ecclesia umquam postulavit ut intellegeretur priusquam crederetur. Postulat ut Deo credatur quod de se ipso dicit, quia credere unum esse Deum non sufficit. Iacobus ita dicit: <em><strong>«Tu credis quoniam unus est Deus? Bene facis; et daemones credunt et contremiscunt!»</strong></em> (Iac 2, 19). Et quod Deus de se ipso dicit tanta instantia scriptum est ut legendo intellegatur. Ideo hoc argumentum plures citationes habet quam explicationes.</p>
                 <h2>«Faciamus»: pluralis principii<br>Genesis 1, 26</h2>
@@ -523,7 +525,7 @@ const translationsLA = {
                 <span>XII min lectura</span>
                 <span>Editus Maio MMXXVI</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Ad Themata reverti</a>`,
+            <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
       article: `<p>Testes Iehovae et Adventistae eandem obiectionem indefesse repetunt: <em>«Mortui te audire non possunt»</em>, quia anima —ut aiunt— dormit usque ad iudicium ultimum. Primo aspectu rationi consentaneum videtur. Sed Scriptura aliud dicit. Non uno loco seiuncto: septem locis distinctis, a Paulo usque ad Apocalypsim. Singillatim.</p>
 
             <h2>Cognitio post mortem perficitur<br>I Cor 13:9-13</h2>
@@ -619,7 +621,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
                 <span>XV min lectura</span>
                 <span>Editus Maio MMXXVI</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Ad Themata reverti</a>`,
+            <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
       article: `<p>Cur credimus? Non propter caedam traditionem nec propter morem familiae. Credimus quia Verbum Dei testificatum est, fideliter traditum est et verum manet. Lucas ab initio id dicit: ab initio omnia diligenter investigavit ut veritatem cognosceremus (Lc 1, 1-4). Hoc ipsum hic faciemus.</p>
                 <h2>Verbum testificatum est<br>Lc 1, 1-4 et Io 11, 25-27</h2>
                 <p>Lucas nobis dicit multos aggressos esse ordinatim narrare res quae completae sunt inter nos, <em>«sicut tradiderunt nobis qui ab initio ipsi viderunt et ministri fuerunt sermonis»</em> (Lc 1, 2). Non sunt fabulae: sunt testimonia. Quod Iesus dixit, vixit et docuit visum est et traditum a testibus realibus.</p>
@@ -709,7 +711,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
                 <span>XI min lectura</span>
                 <span>Editus Maio MMXXVI</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Ad Themata reverti</a>`,
+            <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
       article: `<p>Est quaestio quae sine responsione manere non potest: Iesus dixit <em>«Quorum remiseritis peccata, remittuntur eis; et quorum retinueritis, retenta sunt»</em> (Io 20, 22-23). Cui dixit? Et quomodo peccata alicuius retineri possunt sine scientia quae sint? Hoc confessionem exigit. Hoc sacerdotem exigit cum auctoritate ad remittendum. Singillatim progrediamur.</p>
                 <h2>Homo ex hominibus assumptus<br>Heb 5, 1-2</h2>
                 <p>Epistula ad Hebraeos ab initio clara est:</p>
@@ -791,7 +793,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
                 <span>XIV min lectura</span>
                 <span>Editus Augusto MMXXVI</span>
             </div>
-            <a href="index.html#temas" class="btn-outline-white">Ad Themata reverti</a>`,
+            <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
       article: `<p>Coram Eucharistia obiectio formam mutat, non rem. Testes Iehovae, Adventistae, Pentecostales, Mormones et Protestantes in universum alterutrum repetunt: <em>«Panis adhuc panis est: panis videtur et panem sapit.»</em> et <em>«Transsubstantiatio verbum est excogitatum, philosophia Graeca; in Bibliis non invenitur.»</em></p>
                 <p>Alterum una linea solvitur: neque verba «Trinitas» neque «Biblia» ibi inveniuntur, et nemo id quod significant in dubium vocat. Verbum rem non creat: rem nominat. Prius illud est quod interest, neque philosophia sed Scriptura respondetur, quia Scriptura iam narravit quid fiat cum Christus rem aliam esse dicit. Quinque loci, ordine.</p>
                 <h2>Verbum non describit: facit<br>Io 1, 1-3</h2>
@@ -893,7 +895,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
             </div>
             <h1>Subsidia Commendanda</h1>
             <p>Fontes fideles ad approfundandam, discendam et communicandam fidem catholicam.</p>
-            <a href="index.html#temas" class="btn-outline-white">Ad Themata reverti</a>`,
+            <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
       labels: {
         bible: "Sacra Scriptura →",
         catechism: "Catechismus →",
@@ -909,7 +911,8 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
       sec2: {
         eyebrow: "Apologetica · Formatio", title: "Sacerdotes et Formatores", desc: "Voces Magisterio fideles quae fidem cum profunditate et rigore docent, defendunt et proclamant.",
         toro:    { desc: "Theologus et apologeta. Obiectiones difficillimas fidei catholicae cum profunditate respondet." },
-        olivera: { desc: "Historicus et apologeta augustinianus. Rationalismum, sectas et errores modernos cum rigore tractat." }
+        olivera: { desc: "Historicus et apologeta augustinianus. Rationalismum, sectas et errores modernos cum rigore tractat." },
+        montfort: { tag: "Gallia · c. MDCCXII", title: "Tractatus de vera devotione erga Beatam Virginem", author: "S. Ludovicus Maria Grignion de Montfort", desc: "Opus classicum de consecratione Iesu per Mariam. Editio integra in forma PDF, Anglice.", ed1: "PDF Anglice →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
         eyebrow: "Apostolatus · Media", title: "Apostolatus et Media Catholica",
@@ -933,7 +936,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
             </div>
             <h1>De privatis</h1>
             <p>Quae data hic situs colligat, ad quid adhibeantur, et quo mittantur.</p>
-            <a href="index.html#temas" class="btn-outline-white">Ad Themata redire</a>`,
+            <a href="temas.html" class="btn-outline-white">Ad Themata redire</a>`,
       article: `<p>Hic situs crustulis (cookies) non utitur, nullam analysim habet, nullam publicitatem ostendit, nec ullos bullas vel indagatores retium socialium continet. Litterarum formae, imagines et pelliculae ab hoc ipso dominio praebentur: cum paginam aperis, navigatrum nihil ab ullo tertio petit.</p>
                 <h2>Quae data colligantur</h2>
                 <p>Ea sola quae manu in formulario contactus scribuntur: <strong>nomen, inscriptio electronica, argumentum et nuntius</strong>. Nulla alia data colliguntur, neque ullum aliud formularium in situ est.</p>
@@ -958,7 +961,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
             </div>
             <h1>De hoc loco</h1>
             <p>Iter per philosophias quae non steterunt — ad Ecclesiam quae stetit.</p>
-            <a href="index.html#temas" class="btn-outline-white">Ad Themata Redire</a>`,
+            <a href="temas.html" class="btn-outline-white">Ad Themata Redire</a>`,
       article: `<p>Ad catholicismum perveni post longum iter. Omnia legi: occultismum et esotericismum, tabulas dictas Smaragdinas, philosophias Orientis, Nietzsche, Epicuraeos. Ubique responsa quaesivi nec ullum inveni quod staret. Stoicismus ultimum erat quod aliquid grave ante Christum mihi obtulit — Seneca, Marcus Aurelius, Epictetus me docuerunt veritatem sine nictitione intueri. Et veritatem sine nictitione intuendo illuc perveni ubi non exspectabam: ante Ecclesiam Catholicam.</p>
 
             <p>Hic locus tibi est si in uno horum locorum versaris: dubitas de fide quam accepisti et nescis quem roges; quaeris inter traditiones nec quisquam tibi responsum dat quod pondus ferre possit; modo conversus es et solum te sentis, sine duce, undique oppugnatum. Illum locum cognosco. Ibi fui. Et scio quid circum eum sit: catholici traditionales qui interdum id pro concesso habent quod demonstrare deberent nec id explicare sciunt; et quod peius est, catholici tepidi — qui ad Missam ex more adeunt, nesciunt quid credant, nihil defendunt, et primi humeros movent cum quis fidem coram eis impugnat.</p>
@@ -976,7 +979,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
 
             <p>Non scribo ut disputationes vincam. Scribo ut is qui solus nocte dubitat aliquid grave ad manum habeat cum eum fide sua defendenda contingit — aut cum eam primo invenire contingit.</p>
 
-            <p class="about-signature">— M.G.</p>`
+            <p class="about-signature">M. Gabriel Castiglia</p>`
     }
   },
   disclaimerHTML: "Hic articulus automatice ex Hispanica lingua translatus est. Hoc situm interretiale opus personale est, studio et diligentia sustentatum. Si quid in translatione erraveris, per formulam contactus id significare roga.",

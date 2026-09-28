@@ -270,7 +270,10 @@ function aplicarIdioma(lang) {
 
   // 4. Actualizar etiquetas Meta de SEO (Title y Description) en la página principal
   // Nota: router.js se encarga de actualizar document.title al abrir los artículos.
-  if (typeof currentSlug === 'undefined' || !currentSlug) {
+  // Solo en la portada: una página con <title data-i18n> (temas.html, los tema-*.html)
+  // trae su propio título y su propia descripción, y esto se los pisaba con los
+  // de la portada.
+  if ((typeof currentSlug === 'undefined' || !currentSlug) && !document.querySelector('title[data-i18n]')) {
     const t = translations[lang];
     if (t) {
       document.title = t.siteTitle || `${t.logo || 'Fé y Razón'} | Apologética Católica`;
