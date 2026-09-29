@@ -165,42 +165,42 @@ const translationsDA = {
                 <h2>»Indtil han havde betalt alt, hvad han skyldte«<br>Matthæusevangeliet 18,23-35</h2>
                 <p>Jesus forklarer Himmeriget med lignelsen om tjeneren, der ikke ville tilgive.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matthæusevangeliet 18,23-35</span>
+                    <span class="scripture-ref">✝︎ Matthæusevangeliet 18,23-35</span>
                     <blockquote>«Derfor <strong class="s-hi">ligner Himmeriget en konge, der ville gøre regnskab op med sine tjenere</strong>. … Og i vrede <strong class="s-hi">overgav hans herre ham til fangevogterne, indtil han havde betalt alt, hvad han skyldte. Sådan vil også min himmelske fader gøre mod jer</strong>, hvis ikke hver af jer tilgiver sin broder af hjertet.»</blockquote>
                 </div>
                 <p>Straffen har en grænse: den varer, indtil tjeneren har betalt alt, hvad han skyldte. Først betaler han, så kommer han ud. Fra helvede kommer man ikke ud, altså er det fængsel ikke helvede. Og Jesus lader ikke lignelsen blive en historie om en hvilken som helst konge: <em>»Sådan vil også min himmelske fader gøre mod jer.«</em> Det er hverken en fortolkning fra Kirken eller en formodning. Kristus har sagt det.</p>
                 <h2>Fængslet, man kommer ud af<br>Matthæusevangeliet 5,25-26</h2>
                 <p>I Bjergprædikenen bruger Jesus det samme billede.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matthæusevangeliet 5,25-26</span>
+                    <span class="scripture-ref">✝︎ Matthæusevangeliet 5,25-26</span>
                     <blockquote>«Skynd dig at blive forligt med din modpart, mens du er på vej sammen med ham, for at <strong class="s-hi">din modpart ikke skal overgive dig til dommeren og dommeren til fangevogteren, så du bliver kastet i fængsel</strong>. Sandelig siger jeg dig: <strong class="s-hi">Du slipper ikke ud, før du har betalt den sidste øre</strong>.»</blockquote>
                 </div>
                 <p>Dommeren er Gud, fangevogteren er hans engle, og fængslet er skærsilden. »Før du har betalt« betyder, at der kommer et øjeblik, hvor gælden er betalt, og døren åbnes. Fængslet er ikke evigt. Det er helvede.</p>
                 <h2>Tilgivelse i den kommende verden<br>Matthæusevangeliet 12,32</h2>
                 <p>Om synden mod Helligånden skelner Jesus mellem to tider.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matthæusevangeliet 12,32</span>
+                    <span class="scripture-ref">✝︎ Matthæusevangeliet 12,32</span>
                     <blockquote>«Den, der siger et ord imod Menneskesønnen, skal få tilgivelse; men den, der taler imod Helligånden, <strong class="s-hi">skal ikke få tilgivelse, hverken i denne verden eller i den kommende</strong>.»</blockquote>
                 </div>
                 <p>Hvis ingen synd blev tilgivet efter døden, ville det være meningsløst at sige, at denne ikke tilgives »i den kommende«. Jesus går ud fra, at nogle synder tilgives i denne verden og andre i den kommende. Ikke denne; andre, ja. I himlen er der intet at tilgive, og i helvede er der ingen tilgivelse. Den tilgivelse i den kommende verden sker et andet sted.</p>
                 <h2>Ikke al synd fører til døden<br>Første Johannesbrev 5,16-17</h2>
                 <p>Johannes skelner mellem to slags synd.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Første Johannesbrev 5,16-17</span>
+                    <span class="scripture-ref">✝︎ Første Johannesbrev 5,16-17</span>
                     <blockquote>«Hvis nogen ser sin broder begå <strong class="s-hi">en synd, der ikke fører til døden</strong>, <strong class="s-hi">skal han bede, og Gud vil give ham liv</strong>, det vil sige dem, der ikke synder til døden. Der findes synd, der fører til døden; <strong class="s-hi">det er ikke om den, jeg siger, at han skal bede</strong>. Al uret er synd, men <strong class="s-hi">der er synd, som ikke fører til døden</strong>.»</blockquote>
                 </div>
                 <p>Der er synder, der fører til døden, og synder, der ikke gør. Kirken kalder dem dødssynder og tilgivelige synder. For broderen, der synder uden at det fører til døden, beder man, og Gud giver ham liv. Den, der dør med synder, som ikke fører til døden, er ikke fordømt, men han er heller ikke ren. Mellem fordømmelsen og Guds ansigt står netop det tilbage: renselsen.</p>
                 <h2>De døde lever<br>Johannesevangeliet 11,21-27</h2>
                 <p>Adventisterne og Jehovas Vidner får deres svar af Jesus ved Lazarus' grav.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Johannesevangeliet 11,21-27</span>
+                    <span class="scripture-ref">✝︎ Johannesevangeliet 11,21-27</span>
                     <blockquote>«Martha sagde til Jesus: »Herre, havde du været her, var min bror ikke død. Men selv nu ved jeg, at hvad du beder Gud om, vil Gud give dig.« Jesus sagde til hende: »Din bror skal opstå.« Martha sagde til ham: »Jeg ved, at han skal opstå ved opstandelsen på den yderste dag.« Jesus sagde til hende: »Jeg er opstandelsen og livet. Den, der tror på mig, <strong class="s-hi">skal leve, om han end dør</strong>; og enhver, som lever og tror på mig, <strong class="s-hi">skal aldrig i evighed dø</strong>. Tror du det?« Hun sagde til ham: »Ja, Herre, jeg tror, at du er Kristus, Guds søn, han, der kommer til verden.«»</blockquote>
                 </div>
                 <p>Martha taler om opstandelsen på den yderste dag, og Jesus går videre: den, der tror på ham, lever, om han end dør, og skal aldrig dø. Legemets død slukker ikke livet i den, der tror. De døde i Kristus sover ikke i intetheden og venter på verdens ende. De lever.</p>
                 <h2>Ånden vender tilbage til Gud<br>Prædikerens Bog 12,7</h2>
                 <p>Den samme bog, som indvendingen kommer fra, siger, hvad der sker, når nogen dør.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Prædikerens Bog 12,7</span>
+                    <span class="scripture-ref">✝︎ Prædikerens Bog 12,7</span>
                     <blockquote>«og støvet vender tilbage til jorden, som det var, og <strong class="s-hi">ånden vender tilbage til Gud</strong>, som gav den.»</blockquote>
                 </div>
                 <p>Legemet vender tilbage til jorden, og ånden vender tilbage til Gud. Det hebraiske ord er <em>ruach</em>, som også oversættes med ånde; på den ene eller den anden måde er det, der vender tilbage til Gud, det, han gav. Sætningen fra Prædikeren 9,5, som adventisterne citerer, fuldendes i det næste vers: de døde <em>»har aldrig mere del i noget af det, der sker under solen«</em> (Præd 9,6). De ved intet om det, der sker i denne verden. Det siger ikke, at de er holdt op med at eksistere.</p>
@@ -236,31 +236,31 @@ const translationsDA = {
                 <h2>Jeg er livets brød<br>Joh 6,47-51</h2>
                 <p>Jesus siger ikke "jeg repræsenterer livets brød" eller "jeg er som livets brød". Han siger:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Joh 6,47-51</span>
+                    <span class="scripture-ref">✝︎ Joh 6,47-51</span>
                     <blockquote>«Sandelig, sandelig siger jeg jer: Den, der tror, har evigt liv. <strong class="s-hi">Jeg er livets brød.</strong> Jeres fædre spiste manna i ørkenen og døde. Dette er brødet, der kommer ned fra himlen, så den, der spiser af det, ikke skal dø. Jeg er det levende brød, der kom ned fra himlen. Hvis nogen spiser af dette brød, skal han leve til evig tid. Og <strong class="s-hi">det brød, jeg vil give, er mit kød</strong>, som gives for verdens liv.»</blockquote>
                 </div>
                 <p>Verbet "er" indikerer ikke repræsentation — det indikerer identitet. Og det, der følger, efterlader intet rum for symbolsk fortolkning:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Joh 6,53-55</span>
+                    <span class="scripture-ref">✝︎ Joh 6,53-55</span>
                     <blockquote>«Sandelig, sandelig siger jeg jer: <strong class="s-hi">Hvis I ikke spiser Menneskesønnens kød og drikker hans blod, har I ikke liv i jer.</strong> Den, der spiser mit kød og drikker mit blod, har evigt liv, og jeg skal oprejse ham på den yderste dag. For <strong class="s-hi">mit kød er sand mad, og mit blod er sand drik.</strong>»</blockquote>
                 </div>
                 <p>Han siger ikke "hvis I ikke husker" eller "hvis I ikke betragter". Han siger <em>spise</em> og <em>drikke</em>. Og han gentager det med forskellige ord for at fjerne al forvirring: <em>sand mad</em> og <em>sand drik</em>. Ordet "sand" udelukker udtrykkeligt det symbolske.</p>
                 <h2>Metafor-indvendingen<br>Joh 15,1</h2>
                 <p>Den sædvanlige indvending er: "Det er en metafor, ligesom når han siger 'Jeg er vintræet' eller 'Jeg er døren'." Vi må gå til Bibelen. Da Jesus sagde <em>"Jeg er det sande vintræ"</em> (Joh 15,1), gik ingen væk. Da han sagde "spis mit kød", gik mange væk. Forskellen er afgørende:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Joh 6,60</span>
+                    <span class="scripture-ref">✝︎ Joh 6,60</span>
                     <blockquote>«Da mange af hans disciple hørte det, sagde de: <strong class="s-hi">'Dette er hårde ord. Hvem kan høre på det?'</strong>»</blockquote>
                 </div>
                 <p>Jesus retter dem ikke ved at sige "I misforstod — det var en metafor". Han lader dem gå. Det er det stærkeste bevis: hvis det var symbolsk, ville den gode hyrde have holdt dem tilbage med en forklaring. Det gør han ikke.</p>
                 <h2>Dette skaber splittelse<br>Joh 6,66-67</h2>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Joh 6,66-67</span>
+                    <span class="scripture-ref">✝︎ Joh 6,66-67</span>
                     <blockquote>«Fra da af trak mange af hans disciple sig tilbage og vandrede ikke mere med ham. Da sagde Jesus til de tolv: <strong class="s-hi">'Vil I også gå bort?'</strong>»</blockquote>
                 </div>
                 <p>Han giver ikke efter. Han blødgør ikke. Han forhandler ikke om betydningen. Jesus er den gode hyrde, der ikke ville lade et eneste får gå tabt på grund af en misforståelse — men på dette punkt er han urokkelig.</p>
                 <h2>Der er ingen anden fortolkning<br>Joh 6,68</h2>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Joh 6,68</span>
+                    <span class="scripture-ref">✝︎ Joh 6,68</span>
                     <blockquote>«Simon Peter svarede ham: <strong class="s-hi">'Herre, hvem skulle vi gå til? Du har det evige livs ord.'</strong>»</blockquote>
                 </div>
                 <p>Peter siger ikke, at han forstår alt. Han siger, at han stoler. Det er tro: ikke at have alle svarene, men at vide, hvem man tror på.</p>
@@ -273,12 +273,12 @@ const translationsDA = {
                 <h2>Paulus bekræfter det — et uafhængigt vidne<br>1 Kor 10,16 og 11,27-29</h2>
                 <p>Paulus skriver sit første brev til korinterne, før Johannes' evangelium blev skrevet. To fuldstændig uafhængige vidner. Paulus siger:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Kor 10,16</span>
+                    <span class="scripture-ref">✝︎ 1 Kor 10,16</span>
                     <blockquote>«<strong class="s-hi">Velsignelsens kalk, som vi velsigner, er den ikke fællesskab med Kristi blod? Brødet, som vi bryder, er det ikke fællesskab med Kristi legeme?</strong>»</blockquote>
                 </div>
                 <p>Han siger ikke "erindring". Han siger <em>fællesskab</em> — reel, effektiv deltagelse. Og derefter:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Kor 11,27-29</span>
+                    <span class="scripture-ref">✝︎ 1 Kor 11,27-29</span>
                     <blockquote>«<strong class="s-hi">Derfor bliver den, der spiser brødet eller drikker Herrens kalk uværdigt, skyldig i Herrens legeme og blod.</strong> Lad derfor et menneske prøve sig selv og så spise af brødet og drikke af kalken. For den, der spiser og drikker <strong class="s-hi">uden at skelne legemet</strong>, spiser og drikker dom over sig selv.»</blockquote>
                 </div>
                 <p>Det græske ord ἔνοχος — "skyldig" — indebærer ansvar for en reel forbrydelse. Man kan ikke være skyldig i en forbrydelse mod et symbol. Paulus siger også "uden at skelne legemet". Hvis det kun var brød, hvilket "legeme" skulle der da skelnes?</p>
@@ -311,31 +311,31 @@ const translationsDA = {
                 <h2>En mand taget blandt mennesker<br>Hebr 5,1-2</h2>
                 <p>Brevet til hebræerne er utvetydigt fra starten:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Hebr 5,1-2</span>
+                    <span class="scripture-ref">✝︎ Hebr 5,1-2</span>
                     <blockquote>«<strong class="s-hi">Enhver ypperstepræst tages blandt mennesker</strong> og indsættes for mennesker i deres forhold til Gud til at frembære både gaver og ofre for synder. Han kan have medfølelse med de uvidende og vildfarende, da han selv også er omgivet af svaghed.»</blockquote>
                 </div>
                 <p>Præsten er ikke hævet over den menneskelige tilstand. Han deler de samme kampe, fristelser og svagheder som enhver troende. Det er grundlaget for pastoral medfølelse: ingen kan virkelig ledsage en anden gennem det, han aldrig har oplevet. Præsten kan vise medfølelse, fordi han også er omgivet af svaghed.</p>
                 <h2>Hellig fordi Gud helliger, ikke ved personlig fortjeneste<br>3 Mos 21,6-8</h2>
                 <p>I Tredje Mosebog befaler Gud, at præsterne skal betragtes som hellige. Men den hellighed, der kræves af dem, er ikke absolut moralsk perfektion — det er indvielse: de er sat til side for Gud og hans tjeneste:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 3 Mos 21,6-8</span>
+                    <span class="scripture-ref">✝︎ 3 Mos 21,6-8</span>
                     <blockquote>«De skal være hellige for deres Gud og ikke vanhellige deres Guds navn... <strong class="s-hi">Du skal betragte ham som hellig, for han frembærer din Guds brød; han skal være hellig for dig, for jeg, Herren, som helliger jer, er hellig.</strong>»</blockquote>
                 </div>
                 <p>Folket skal betragte præsten som hellig ikke på grund af hans egne fortjenester, men på grund af Gud. Embedets hellighed kommer fra ham, der indstiftede det. Dette befrier os fra en falsk forventning: vores tro hviler på Guds trofasthed, ikke på ministerens personlige dyd.</p>
                 <h2>"Vi er alle præster" — indvendingen og dens grænser<br>1 Pet 2,9 og Hebr 5,4</h2>
                 <p>Peter siger det klart:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Pet 2,9</span>
+                    <span class="scripture-ref">✝︎ 1 Pet 2,9</span>
                     <blockquote>«<strong class="s-hi">I er en udvalgt slægt, et kongeligt præsteskab, et helligt folk</strong>, et folk, Gud har vundet, for at I skal forkynde hans store gerninger, han som kaldte jer fra mørket til sit underfulde lys.»</blockquote>
                 </div>
                 <p>Dåbspræstedømmet er virkeligt. Ingen benægter det. Men der er to præstedømmer i Det Nye Testamente, ikke ét. Det samme brev til hebræerne skelner dem præcist:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Hebr 5,4</span>
+                    <span class="scripture-ref">✝︎ Hebr 5,4</span>
                     <blockquote>«<strong class="s-hi">Ingen tager denne ære til sig selv, men kun den, der kaldes af Gud, ligesom Aron var det.</strong>»</blockquote>
                 </div>
                 <p>Der er et præstedømme, man modtager ved dåben, og der er et andet, der kræver et specifikt kald og indvielse. Dette er ikke en sen opfindelse. Da Kora og hans følge argumenterede for, at <em>"hele menigheden er hellig, hver og en af dem"</em> (4 Mos 16,3) — og krævede adgang til det ministerielle præstedømme uden kald — åbnede jorden sig og slugte dem. Og i Det Nye Testamente:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Ap.G. 14,23</span>
+                    <span class="scripture-ref">✝︎ Ap.G. 14,23</span>
                     <blockquote>«<strong class="s-hi">I hver menighed indsatte de ældste</strong>, og efter at have bedt under faste betroede de dem til Herren, som de var kommet til tro på.»</blockquote>
                 </div>
                 <p>Paulus befaler Titus: <em>"Jeg efterlod dig på Kreta for at du skulle bringe det, der manglede, i orden og <strong>indsætte ældste i hver by</strong>"</em> (Tit 1,5). Han minder Timotheus: <em>"Forsøm ikke den nådegave, du har, som blev givet dig ved profeti med <strong>de ældstes håndspålæggelse</strong>"</em> (1 Tim 4,14). Dette er struktur, ikke metafor.</p>
@@ -346,19 +346,19 @@ const translationsDA = {
                 <h2>Syndernes forladelse — Joh 20,22-23</h2>
                 <p>Vi vender tilbage til udgangspunktet. Den opstandne Jesus viser sig for apostlene, ånder på dem — den samme gestus som i 1 Mos 2,7, da han indåndede liv i mennesket — og siger:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Joh 20,22-23</span>
+                    <span class="scripture-ref">✝︎ Joh 20,22-23</span>
                     <blockquote>«Modtag Helligånden. <strong class="s-hi">Hvis I tilgiver nogen deres synder, er de dem tilgivet; hvis I beholder nogens synder, er de dem beholdt.</strong>»</blockquote>
                 </div>
                 <p>Hvordan kan man beholde nogens synder uden at vide, hvad de er? Det kan man ikke. Dette vers kræver, at den angrende bekender sine synder. Det er den sakramentale skriftemål, indstiftet af Kristus selv med sin egen åndedræt.</p>
                 <h2>Alteret og offeret i Det Nye Testamente<br>Hebr 13,10 og Mal 1,11</h2>
                 <p>Hvis der ikke er præstedømme og offer i Det Nye Testamente, hvorfor siger brevet til hebræerne så dette?</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Hebr 13,10</span>
+                    <span class="scripture-ref">✝︎ Hebr 13,10</span>
                     <blockquote>«<strong class="s-hi">Vi har et alter</strong>, som de, der tjener ved tabernaklet, ikke har ret til at spise af.»</blockquote>
                 </div>
                 <p>Og profeten Malakias, århundreder før Kristus, forkyndte:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Mal 1,11</span>
+                    <span class="scripture-ref">✝︎ Mal 1,11</span>
                     <blockquote>«For fra solopgang til solnedgang er mit navn stort blandt folkene, og <strong class="s-hi">på ethvert sted frembæres der røgelse for mit navn og et rent offer</strong>, for mit navn er stort blandt folkene, siger Hærskarers Herre.»</blockquote>
                 </div>
                 <p>Et rent offer på ethvert sted på jorden. De første århundreders kirkefædre genkendte heri Eukaristien — det eneste offer, der opfylder denne profeti.</p>
@@ -394,7 +394,7 @@ const translationsDA = {
                 <p>Lukas fortæller os, at mange har forsøgt at sammensætte en beretning om de begivenheder, der fandt sted blandt dem, <em>"sådan som de blev overleveret til os af dem, der fra begyndelsen var øjenvidner og ordets tjenere"</em> (Luk 1,2). Dette er ikke legender: det er vidnesbyrd. Det, Jesus sagde, levede og lærte, blev set og overleveret af virkelige vidner.</p>
                 <p>Martha bekender ham uden tøven foran sin brors grav: <em>"Ja, Herre, jeg tror, at du er Messias, Guds søn, han, som skulle komme til verden"</em> (Joh 11,27). Tro er ikke irrationel: det er et svar på en åbenbaring bekræftet af dem, der levede den.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Luk 1,4</span>
+                    <span class="scripture-ref">✝︎ Luk 1,4</span>
                     <blockquote>«<strong class="s-hi">For at du kan kende sikkerheden i de ting, du er blevet undervist i.</strong>»</blockquote>
                 </div>
                 <h2>Vi må læse Guds ord<br>Luk 8,5-8, 8,11-12 og Salme 119</h2>
@@ -402,7 +402,7 @@ const translationsDA = {
                 <p>Salme 119,72 siger, at Guds lov er mere værd end tusinder af guld- og sølvstykker. Og hvis nogen spørger, hvad man får ud af at læse Bibelen, svarer Paulus: <em>"Fra barndommen har du kendt de hellige skrifter, <strong>som kan gøre dig vis til frelse ved tro på Kristus Jesus</strong>"</em> (2 Tim 3,15).</p>
                 <p>Salme 119,103-105 giver os det smukkeste billede: <em>"Hvor søde er dine ord for min gane! Sødere end honning i min mund!... <strong>Dit ord er en lygte for min fod, et lys på min sti.</strong>"</em> Den, der ikke læser Guds ord, vandrer i mørke.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Salme 119,105</span>
+                    <span class="scripture-ref">✝︎ Salme 119,105</span>
                     <blockquote>«<strong class="s-hi">Dit ord er en lygte for min fod, et lys på min sti.</strong>»</blockquote>
                 </div>
                 <h2>Ordet er fra Gud<br>2 Pet 1,19 og Joh 17,17</h2>
@@ -411,13 +411,13 @@ const translationsDA = {
                 <p>Peter havde fisket hele natten og havde ikke fanget noget. Efter menneskelig erfaring gav det ingen mening at kaste garnene ud om dagen. Men han sagde noget, der opsummerer al tro: <em>"Mester, vi har arbejdet hele natten og har ikke fanget noget; <strong>men fordi du siger det, vil jeg kaste garnene ud</strong>"</em> (Luk 5,5). Og netop derfor gjorde Jesus ham til menneskefisker — Peter specifikt, ikke de andre (Luk 5,10).</p>
                 <p>I Kana giver Jomfru Maria tjenerne den afgørende instruktion: <em>"<strong>Gør, hvad han siger til jer</strong>"</em> (Joh 2,5). Karrene blev fyldt med vand, men blev til vin, da tjenerne udførte hans ordrer til ende (Joh 2,8). Tro er ikke kun at tro: det er at adlyde.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Luk 5,5</span>
+                    <span class="scripture-ref">✝︎ Luk 5,5</span>
                     <blockquote>«<strong class="s-hi">Men fordi du siger det, vil jeg kaste garnene ud.</strong>»</blockquote>
                 </div>
                 <h2>Hvor kom din Bibel fra?<br>Sola scriptura og dens problemer</h2>
                 <p>Nogle siger: "Kun Skriften er troens regel. Bibelen er tilstrækkelig." Godt. Lad os gå til Bibelen.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 2 Tim 3,16-17</span>
+                    <span class="scripture-ref">✝︎ 2 Tim 3,16-17</span>
                     <blockquote>«<strong class="s-hi">Al Skrift er indåndet af Gud og nyttig</strong> til undervisning, til bevis, til rettelse, til opdragelse i retfærdighed, for at Guds menneske kan være fuldkomment, rustet til enhver god gerning.»</blockquote>
                 </div>
                 <p>Ordet Paulus bruger er "nyttig" — på græsk ὠφέλιμος — ikke "eksklusiv" eller "eneste troens regel". Verset siger aldrig, at Skriften alene er tilstrækkelig til alt. Og der er noget vigtigere: hvis det eneste kriterium for sandhed var "hvad Bibelen siger", så skulle sola scriptura være i Bibelen for at være gyldig. Det er den ikke. Argumentet ødelægger sig selv med sit eget kriterium.</p>
@@ -426,36 +426,36 @@ const translationsDA = {
                 <h2>Mundtlig tradition er bibelsk<br>2 Thess 2,15 og 2 Tim 2,2</h2>
                 <p>Paulus underviste ikke kun gennem breve. Han befalede, at mundtlig tradition også skulle bevares:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 2 Thess 2,15</span>
+                    <span class="scripture-ref">✝︎ 2 Thess 2,15</span>
                     <blockquote>«Så stå da fast, brødre, og <strong class="s-hi">hold fast ved de overleveringer, som I blev undervist i af os, enten mundtligt eller ved brev.</strong>»</blockquote>
                 </div>
                 <p>Og han betroede, at denne tradition skulle videregives fra generation til generation:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 2 Tim 2,2</span>
+                    <span class="scripture-ref">✝︎ 2 Tim 2,2</span>
                     <blockquote>«<strong class="s-hi">Det, du har hørt af mig i mange vidners påhør, det skal du betro til trofaste mennesker, som også vil være i stand til at undervise andre.</strong>»</blockquote>
                 </div>
                 <p>Fire generationer af overlevering i ét vers: Paulus → Timotheus → trofaste mennesker → andre. Og Johannes selv anerkender dette i slutningen af sit evangelium:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Joh 21,25</span>
+                    <span class="scripture-ref">✝︎ Joh 21,25</span>
                     <blockquote>«<strong class="s-hi">Der er også mange andre ting, som Jesus gjorde. Hvis de blev skrevet én for én, tror jeg ikke, at verden selv kunne rumme de bøger, der ville blive skrevet.</strong>»</blockquote>
                 </div>
                 <p>Jesus selv skrev ikke en eneste linje. Han sendte apostle til at prædike, ikke til at skrive.</p>
                 <h2>Privat fortolkning er forbudt af Skriften<br>2 Pet 1,20-21</h2>
                 <p>Peter siger det klart:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 2 Pet 1,20-21</span>
+                    <span class="scripture-ref">✝︎ 2 Pet 1,20-21</span>
                     <blockquote>«<strong class="s-hi">Først og fremmest skal I vide dette: Ingen profeti i Skriften er et spørgsmål om privat fortolkning.</strong> For ingen profeti kom nogensinde ved menneskeligt initiativ, men mennesker talte fra Gud, idet de blev båret af Helligånden.»</blockquote>
                 </div>
                 <p>Siden 1517 er der mere end 45.000 forskellige denominationer, der læser den samme Bibel og når modsatte konklusioner om dåb, Eukaristi, frelse og moral. Jesus bad om noget andet: <em>"<strong>at de alle må være ét</strong>"</em> (Joh 17,21). Det spørgsmål, der må stilles: kan Helligånden samtidig lede alle disse modstridende positioner?</p>
                 <h2>Kirken er sandhedens søjle<br>1 Tim 3,15 og Matt 16,18</h2>
                 <p>Bibelen kalder ikke sig selv sandhedens søjle. Den kalder Kirken det:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Tim 3,15</span>
+                    <span class="scripture-ref">✝︎ 1 Tim 3,15</span>
                     <blockquote>«Den levende Guds kirke, <strong class="s-hi">sandhedens søjle og grundvold.</strong>»</blockquote>
                 </div>
                 <p>Og Jesus gav et institutionelt løfte om den:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matt 16,18</span>
+                    <span class="scripture-ref">✝︎ Matt 16,18</span>
                     <blockquote>«Og jeg siger dig, at du er Peter, og på denne klippe vil jeg bygge min kirke, <strong class="s-hi">og dødsrigets porte skal ikke få magt over den.</strong>»</blockquote>
                 </div>
                 <p>Dette løfte beskytter Magisteriet — Kirkens officielle undervisning — mod definitivt at undervise i fejl. Det betyder ikke, at hvert medlem er ufejlbarligt. Det betyder, at den sandhed, Kristus betroede sin kirke, ikke kan ødelægges.</p>
@@ -484,14 +484,14 @@ const translationsDA = {
                 <h2>Ordet beskriver ikke: det gør<br>Joh 1,1-3</h2>
                 <p>Før man diskuterer, hvad der kan ske med brødet, må man vide, hvad et Guds ord er.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Joh 1,1-3</span>
+                    <span class="scripture-ref">✝︎ Joh 1,1-3</span>
                     <blockquote>«I begyndelsen var <strong class="s-hi">Ordet</strong>, og Ordet var hos Gud, og <strong class="s-hi">Ordet var Gud</strong>. Han var i begyndelsen hos Gud. <strong class="s-hi">Alt blev til ved ham</strong>, og uden ham blev intet til af det, som er.»</blockquote>
                 </div>
                 <p>Guds ord beskriver ikke virkeligheden: det forårsager den. Intet af det, der findes, fandtes, før Ordet sagde det, og alt, hvad der findes, findes, fordi Ordet sagde det. Det er udgangspunktet, og det er ikke et lille et: at spørge, hvordan brød kan ophøre med at være brød, er med andre ord at spørge, hvordan intet kunne ophøre med at være intet. Det er allerede sket én gang. Det skete af samme grund.</p>
                 <h2>Kana: vandet forandredes, da de adlød ham<br>Joh 2,6-9</h2>
                 <p>Der findes ét tilfælde, hvor dette Ord handler for øjnene af vidner og på et konkret stof.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Joh 2,6-9</span>
+                    <span class="scripture-ref">✝︎ Joh 2,6-9</span>
                     <blockquote>«Der stod seks vandkar af sten til jødernes renselse, hvert på to eller tre spande. Jesus sagde til dem: <strong class="s-hi">"Fyld karrene med vand."</strong> Og de fyldte dem til randen. Så sagde han: "Øs nu op og bring det til skafferen." <strong class="s-hi">Og de bragte det.</strong> Da skafferen smagte <strong class="s-hi">vandet, der var blevet til vin</strong>, og han ikke vidste, hvor den kom fra —<strong class="s-hi">men det vidste de tjenere, som havde øst vandet op</strong>—, kaldte skafferen på brudgommen.»</blockquote>
                 </div>
                 <p>Det er værd at se, hvor miraklet ligger. Jesus rører ikke ved vandet. Han gør intet tegn over karrene og udtaler ingen formel over dem. Han giver en befaling —"fyld", "øs op"— og nogle tjenere udfører den. Mellem den adlydte befaling og skafferens bæger ophørte vandet med at være vand. Det, der forandrede stoffet, var et ord, der blev adlydt.</p>
@@ -499,7 +499,7 @@ const translationsDA = {
                 <h2>Den samme mund, den samme vending<br>Joh 6,47-51</h2>
                 <p>Han, der befalede at fylde karrene, siger senere dette:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Joh 6,47-51</span>
+                    <span class="scripture-ref">✝︎ Joh 6,47-51</span>
                     <blockquote>«<strong class="s-hi">Sandelig, sandelig siger jeg jer:</strong> Den, der tror, har evigt liv. <strong class="s-hi">Jeg er livets brød.</strong> Jeres fædre spiste manna i ørkenen og døde. Dette er brødet, der kommer ned fra himlen, så den, der spiser af det, ikke skal dø. Jeg er det levende brød, der kom ned fra himlen. Hvis nogen spiser af dette brød, skal han leve til evig tid. Og <strong class="s-hi">det brød, jeg vil give, er mit kød</strong>, som gives for verdens liv.»</blockquote>
                 </div>
                 <p>"Sandelig, sandelig siger jeg jer" er den vending, hvormed Kristus indleder det, der ikke tåler diskussion, og det, der følger, er ikke en sammenligning, men en identifikation: "jeg er", ikke "jeg forestiller". Hvis hint ord forvandlede vand til vin, uden at nogen så øjeblikket, kræver dette ord ikke mindre. Det er den samme mund og den samme slags ord.</p>
@@ -507,14 +507,14 @@ const translationsDA = {
                 <h2>Paulus siger ikke symbol: han siger fællesskab<br>1 Kor 10,16</h2>
                 <p>Paulus skriver, før Johannesevangeliet bliver til, og han når til det samme sted ad sin egen vej.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Kor 10,16</span>
+                    <span class="scripture-ref">✝︎ 1 Kor 10,16</span>
                     <blockquote>«Velsignelsens kalk, som vi velsigner, er den ikke <strong class="s-hi">fællesskab med Kristi blod</strong>? Brødet, som vi bryder, er det ikke <strong class="s-hi">fællesskab med Kristi legeme</strong>?»</blockquote>
                 </div>
                 <p>Der er tre ord, Paulus ikke bruger: symbol, gengivelse, erindring. Det, han bruger, er <em>koinonia</em> —virkelig delagtighed, effektiv kontakt, at have del i noget—. Man har ikke del i en metafor. Og læg mærke til, hvad han nævner til sidst i hvert spørgsmål: han siger ikke, at kalken er fællesskab med vinen, eller brødet med brødet. Han siger Kristi blod og Kristi legeme.</p>
                 <h2>Jeg har modtaget fra Herren — og derfor er der døde<br>1 Kor 11,23-30</h2>
                 <p>Det afgørende sted er det følgende, og det bør læses helt, før det kommenteres.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Kor 11,23-30</span>
+                    <span class="scripture-ref">✝︎ 1 Kor 11,23-30</span>
                     <blockquote>«For jeg har <strong class="s-hi">modtaget fra Herren, hvad jeg også har overleveret jer</strong>: at Herren Jesus i den nat, da han blev forrådt, tog et brød, takkede, brød det og sagde: <strong class="s-hi">"Dette er mit legeme</strong>, som gives for jer; gør dette til ihukommelse af mig." Ligeså tog han også bægeret efter måltidet og sagde: "Dette bæger er den nye pagt ved mit blod. Gør dette, hver gang I drikker det, til ihukommelse af mig." For hver gang I spiser dette brød og drikker bægeret, forkynder I Herrens død, <strong class="s-hi">indtil han kommer</strong>. Derfor: den, som spiser Herrens brød eller drikker hans bæger på uværdig vis, <strong class="s-hi">forsynder sig mod Herrens legeme og blod</strong>. Enhver skal prøve sig selv og så spise af brødet og drikke af bægeret. For den, som spiser og drikker <strong class="s-hi">uden at agte på legemet</strong>, spiser og drikker sig selv en dom til. Derfor er der mange svage og syge iblandt jer, og <strong class="s-hi">ikke få er sovet hen</strong>.»</blockquote>
                 </div>
                 <p>Han begynder dér, hvor kritikerne helst ikke ville begynde: "jeg har modtaget fra Herren, hvad jeg også har overleveret jer". Det er traditionens ordforråd — det overleverede og modtagne fra hånd til hånd. Netop den Paulus, man citerer imod Traditionen, hviler Eukaristiens ritus på den, og han gør det i det ældste brev, vi har om emnet.</p>
@@ -553,7 +553,7 @@ const translationsDA = {
             <h2>Erkendelsen fuldendes efter døden<br>1 Kor 13,9-13</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ 1 Korinterbrev 13:9-13</span>
+                <span class="scripture-ref">✝︎ 1 Korinterbrev 13:9-13</span>
                 <blockquote>«For <strong class="s-hi">vi erkender stykkevis og profeterer stykkevis;</strong> men når det fuldkomne kommer, skal det stykkeværk afskaffes. Da jeg var barn, talte jeg som et barn, tænkte som et barn, ræsonnerede som et barn; men da jeg blev mand, afskaffede jeg det barnlige. Nu ser vi i et spejl, i en gåde, men da ansigt til ansigt. Nu erkender jeg stykkevis; men da skal jeg erkende fuldt ud, <strong class="s-hi">ligesom jeg selv er fuldt ud erkendt.</strong> Så bliver da disse tre: tro, håb, kærlighed; men størst af dem er kærligheden.»</blockquote>
             </div>
 
@@ -562,7 +562,7 @@ const translationsDA = {
             <h2>Efter døden skal vi se Gud, som han er<br>1 Joh 3,2</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ 1 Johannesbrev 3:2</span>
+                <span class="scripture-ref">✝︎ 1 Johannesbrev 3:2</span>
                 <blockquote>«Mine kære, vi er allerede Guds børn, men det er endnu ikke åbenbaret, hvad vi engang skal være. Vi ved, at når han åbenbares, <strong class="s-hi">skal vi blive ham lig, for vi skal se ham, som han er.</strong>»</blockquote>
             </div>
 
@@ -571,7 +571,7 @@ const translationsDA = {
             <h2>Efter døden kommer himlen<br>Joh 14,1-4</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ Johannesevangeliet 14:1-4</span>
+                <span class="scripture-ref">✝︎ Johannesevangeliet 14:1-4</span>
                 <blockquote>«Jeres hjerte må ikke forfærdes. I tror på Gud; tro også på mig. I min faders hus er der mange boliger. Hvis ikke, ville jeg have sagt jer det. Jeg går bort for at gøre en plads rede for jer. Og når jeg er gået bort og har gjort en plads rede for jer, vil jeg komme igen og tage jer til mig, for at hvor jeg er, skal I også være. Og hvor jeg går hen, kender I vejen.»</blockquote>
             </div>
 
@@ -580,7 +580,7 @@ const translationsDA = {
             <h2>Helgenerne: den store sky af vidner<br>Hebr 11,1 — 12,3</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ Hebræerbrevet 11:1 — 12:3</span>
+                <span class="scripture-ref">✝︎ Hebræerbrevet 11:1 — 12:3</span>
                 <blockquote>«<strong class="s-hi">Troen er det, der giver bærekraft til det, vi håber på, den er beviset for det, vi ikke ser. Det var den, vore forfædre fik vidnesbyrd om.</strong><br><br>
 Ved tro forstår vi, at verden er skabt ved Guds ord, og at det, vi ser, er fremstået af det usynlige.<br><br>
 Ved tro bragte <strong class="s-name">Abel</strong> Gud et bedre offer end Kain, og ved tro fik han vidnesbyrd om at være retfærdig, idet Gud selv vidnede om hans gaver, og ved tro taler han endnu, skønt han er død. Ved tro blev <strong class="s-name">Enok</strong> taget bort, for at han ikke skulle se døden, og han fandtes ikke, fordi Gud havde taget ham. Før han blev taget bort, havde han fået det vidnesbyrd, at han var velbehagelig for Gud. Men uden tro er det umuligt at velbehage Gud; for den, der kommer til Gud, må tro, at han er til, og at han lønner dem, der søger ham. Ved tro udstedte <strong class="s-name">Noa</strong>, advaret om det endnu usalige, i gudsfrygt en ark til redning for sit hus; ved den fordømte han verden og blev arving til den retfærdighed, der er efter tro.<br><br>
@@ -597,7 +597,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
             <h2>Sjælen sover ikke — Kristus prædikede for ånderne<br>1 Pet 3,18-22</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ 1 Petersbrev 3:18-22</span>
+                <span class="scripture-ref">✝︎ 1 Petersbrev 3:18-22</span>
                 <blockquote>«For <strong class="s-hi">Kristus led også én gang for synder,</strong> den retfærdige for uretfærdige, for at føre jer til Gud; han led døden efter kødet, <strong class="s-hi">men blev gjort levende ved Ånden; i den gik han og prædikede for ånderne i fængslet,</strong> de der engang var genstridige, da Guds langmodighed ventede i Noas dage, mens arken blev bygget; i den frelste få, nemlig otte sjæle, igennem vand. Dette modbillede frelser nu også jer, nemlig dåben, som ikke er en afvaskning af legemets urenhed, men en god samvittigheds pagt med Gud, <strong class="s-hi">ved Jesu Kristi opstandelse,</strong> som er faret op til himlen og sidder ved Guds højre hånd, idet engle og magter og kræfter er ham underlagt.»</blockquote>
             </div>
 
@@ -606,7 +606,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
             <h2>Helgenerne er i det himmelske Jerusalem<br>Hebr 12,22-24</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ Hebræerbrevet 12:22-24</span>
+                <span class="scripture-ref">✝︎ Hebræerbrevet 12:22-24</span>
                 <blockquote>«Nej, I er kommet til Zions bjerg og til den levende Guds by, <strong class="s-hi">det himmelske Jerusalem,</strong> til titusinder af engle, til festforsamlingen og til de førstefødte, der er indskrevet i himlene, til Gud, alles dommer, <strong class="s-hi">og til de retfærdiges ånder, der er gjort fuldkomne,</strong> til Jesus, mellemmanden for en ny pagt, og til et stænkningsblod, der taler bedre end Abels.»</blockquote>
             </div>
 
@@ -615,7 +615,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
             <h2>Helgenerne bærer bønnerne frem for tronen<br>Åb 5,8</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ Åbenbaringen 5:8</span>
+                <span class="scripture-ref">✝︎ Åbenbaringen 5:8</span>
                 <blockquote>«Og da det tog imod, kastede de fire levende væsener og de fireogtyve ældste sig ned for Lammet. Enhver af dem havde en cithar og gyldne skåle <strong class="s-hi">fulde af røgelse; det er de helliges bønner.</strong>»</blockquote>
             </div>
 
@@ -649,47 +649,47 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                 <h2>«Lad os gøre»: flertallet i begyndelsen<br>Første Mosebog 1,26</h2>
                 <p>Det første tegn står på Bibelens første side.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Første Mosebog 1,26</span>
+                    <span class="scripture-ref">✝︎ Første Mosebog 1,26</span>
                     <blockquote>«Gud sagde: «<strong class="s-hi">Lad os gøre mennesker i vort billede, så de ligner os</strong>! De skal herske over havets fisk og himlens fugle, over kvæget, over hele jorden og over alt kryb, der kryber på jorden.»»</blockquote>
                 </div>
                 <p>Gud taler i flertal, og der er ingen andre i scenen. Det er ikke englene: engle skaber ikke, og mennesket bliver til i Guds billede, ikke i deres. Det næste vers vender tilbage til ental: <em>«Gud skabte mennesket i sit billede»</em> (1 Mos 1,27). Én, der siger «os». Dette vers alene beviser ikke Treenigheden, og Kirken bruger det ikke sådan. Det er en forkyndelse, som resten af Skriften vil gøre klar.</p>
                 <h2>Den Første og den Sidste, udsendt<br>Esajas 48,16</h2>
                 <p>I Esajas 48 taler Gud, og han præsenterer sig med en titel, ingen anden kan bære: <em>«Det er mig, jeg er den første, og jeg er også den sidste»</em> (Es 48,12). Det er ham, der grundlagde jorden og udspændte himlen. Fire vers senere siger den, der taler, dette:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Esajas 48,16</span>
+                    <span class="scripture-ref">✝︎ Esajas 48,16</span>
                     <blockquote>«Kom nær til mig og hør dette: Fra begyndelsen har jeg ikke talt i det skjulte; fra det skete, var jeg der. <strong class="s-hi">Og nu har Gud Herren sendt mig og sin ånd.</strong>»</blockquote>
                 </div>
                 <p>Den, der var der fra begyndelsen, bliver sendt, og det er Gud Herren og hans ånd, der sender ham. I ét skriftsted i Det Gamle Testamente optræder den, der sender, den udsendte og Ånden sammen. Århundreder senere lægger Johannes' Åbenbaring den samme titel i Jesu mund: <em>«Jeg er den første og den sidste og den levende; jeg var død, men se, jeg er levende i al evighed»</em> (Åb 1,17-18).</p>
                 <h2>De tre ved Jordan<br>Markus 1,10-11</h2>
                 <p>Ved Jesu dåb har indvendingen om titlerne ingen plads.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Markus 1,10-11</span>
+                    <span class="scripture-ref">✝︎ Markus 1,10-11</span>
                     <blockquote>«Og straks da han steg op af vandet, så han himlene flænges og <strong class="s-hi">Ånden dale ned over sig</strong> som en due; og <strong>der lød en røst fra himlene</strong>: «<strong class="s-hi">Du er min elskede søn</strong>, i dig har jeg fundet velbehag.»»</blockquote>
                 </div>
                 <p>Sønnen stiger op af vandet, Ånden daler ned over ham, og Faderen taler fra himlen, i samme øjeblik. Hvis det var tre måder, hvorpå én eneste person viser sig, ville denne person på én gang være i vandet, dale ned over sig selv og tale til sig selv ovenfra. Matthæus fortæller den samme scene (Matt 3,16-17). Ingen siger «du» til sig selv fra himlen.</p>
                 <h2>Faderen taler til Sønnen<br>Hebræerbrevet 1,5</h2>
                 <p>Hebræerbrevet vender tilbage til den røst for at vise, at Sønnen står over englene.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Hebræerbrevet 1,5</span>
+                    <span class="scripture-ref">✝︎ Hebræerbrevet 1,5</span>
                     <blockquote>«For til hvilken af englene har Gud nogen sinde sagt: «<strong class="s-hi">Du er min søn, jeg har født dig i dag</strong>»? eller: «<strong>Jeg vil være hans far, og han skal være min søn</strong>»?»</blockquote>
                 </div>
                 <p>Den ene taler, og den anden bliver tiltalt. Og tre vers længere nede kalder Faderen Sønnen Gud: <em>«men til Sønnen: Din trone, Gud, står i evighedernes evighed»</em> (Hebr 1,8). Sønnen er Gud, og Faderen, der taler til ham, er ikke ham.</p>
                 <h2>Hos Faderen, før verden<br>Johannesevangeliet 17,5</h2>
                 <p>For de forenede pinsevenner begynder Sønnen i Betlehem: «Søn» skulle være navnet på Jesu menneskelighed, og «Fader» navnet på den Gud, der bor i den. Johannes svarer på det i sit første brev.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Første Johannesbrev 1,2-3</span>
+                    <span class="scripture-ref">✝︎ Første Johannesbrev 1,2-3</span>
                     <blockquote>«livet blev åbenbaret, og vi har set det og vidner om det og forkynder jer <strong class="s-hi">det evige liv, som var hos Faderen</strong> og blev åbenbaret for os. Det, vi har set og hørt, forkynder vi også for jer, for at også I kan have fællesskab med os. Og vort fællesskab er <strong>med Faderen og med hans søn, Jesus Kristus</strong>.»</blockquote>
                 </div>
                 <p>Det, apostlene så og rørte ved, var hos Faderen, før det blev åbenbaret. Ingen er hos sig selv. Det er, hvad Johannes havde skrevet i begyndelsen af sit evangelium: <em>«Ordet var hos Gud, og Ordet var Gud»</em> (Joh 1,1). Og Jesus siger det med sine egne ord natten før sin død:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Johannesevangeliet 17,5</span>
+                    <span class="scripture-ref">✝︎ Johannesevangeliet 17,5</span>
                     <blockquote>«Så herliggør du mig nu, Fader, hos dig selv <strong class="s-hi">med den herlighed, som jeg havde hos dig, før verden blev til</strong>.»</blockquote>
                 </div>
                 <p>Jesus beder Faderen om den herlighed, han havde hos ham før skabelsen. Hvis Sønnen var begyndt i Betlehem, ville han ikke have nogen tidligere herlighed at kræve, og heller ingen, han havde haft den hos. I samme bøn insisterer han: <em>«du elskede mig før verdens grundlæggelse»</em> (Joh 17,24). Før verden var der én, der elskede, og en anden, der blev elsket.</p>
                 <h2>To vidner<br>Johannesevangeliet 8,16-18</h2>
                 <p>I diskussionen med farisæerne påkalder Jesus Moseloven, som ikke godtog et enkelt vidne (5 Mos 19,15).</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Johannesevangeliet 8,16-18</span>
+                    <span class="scripture-ref">✝︎ Johannesevangeliet 8,16-18</span>
                     <blockquote>«Men hvis jeg dømmer, er min dom sand, for <strong class="s-hi">jeg er ikke alene, men jeg og Faderen, som har sendt mig</strong>. Også i jeres lov står der skrevet, at <strong>to menneskers vidnesbyrd er sandt</strong>. Jeg vidner om mig selv, og Faderen, som har sendt mig, vidner om mig.»</blockquote>
                 </div>
                 <p>Jesus fremstiller to vidner: sig selv og Faderen. Hvis de var én person med to navne, ville han udgive ét vidne for to, og hans argument over for farisæerne ville være et bedrag. Jesus tæller to. De forenede pinsevenner tæller ét.</p>
@@ -697,31 +697,31 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                 <h2>En anden Talsmand<br>Johannesevangeliet 14,16-17</h2>
                 <p>Om Helligånden siger Jesus det afgørende ord ved den sidste nadver.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Johannesevangeliet 14,16-17</span>
+                    <span class="scripture-ref">✝︎ Johannesevangeliet 14,16-17</span>
                     <blockquote>«Og jeg vil bede Faderen, og han skal give jer <strong class="s-hi">en anden talsmand</strong>, som skal være hos jer til evig tid, <strong>sandhedens ånd</strong>, som verden ikke kan modtage, for den ser den ikke og kender den ikke. I kender den, for den bliver hos jer og skal være i jer.»</blockquote>
                 </div>
                 <p>Sønnen beder, Faderen giver, og det, han giver, er en anden Talsmand. Talsmanden, Parakleten, er den, der ledsager og forsvarer; det havde Jesus været for sine disciple i tre år, og nu forkynder han en anden. Hvis Helligånden var Jesus under et andet navn, ville han ikke være en anden. I de følgende kapitler optræder hver med det, der er hans eget: Helligånden er den, <em>«som Faderen vil sende i mit navn»</em> (Joh 14,26), og <em>«den skal ikke tale af sig selv, men hvad den hører, skal den tale»</em> (Joh 16,13).</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Johannesevangeliet 15,26</span>
+                    <span class="scripture-ref">✝︎ Johannesevangeliet 15,26</span>
                     <blockquote>«Når <strong class="s-hi">Talsmanden kommer, som jeg vil sende jer fra Faderen</strong>, sandhedens ånd, som udgår fra Faderen, <strong>skal han vidne om mig</strong>.»</blockquote>
                 </div>
                 <p>I ét vers sender Sønnen, Ånden udgår fra Faderen, og Ånden vidner om Sønnen. Det er tre subjekter i én sætning, og ingen af dem er en titel på en anden. Den, der hører, taler, bliver sendt og vidner, er ikke en kraft eller en fremtrædelsesform. Han er nogen.</p>
                 <h2>I Faderens, Sønnens og Helligåndens navn<br>Matthæusevangeliet 28,19</h2>
                 <p>Tilbage er dåben. De forenede pinsevenner afviser den treenige formel og døber «i Jesu navn» med støtte i skriftsteder som dette:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Apostlenes Gerninger 19,2-5</span>
+                    <span class="scripture-ref">✝︎ Apostlenes Gerninger 19,2-5</span>
                     <blockquote>«og han spurgte dem: «<strong class="s-hi">Fik I Helligånden, da I kom til troen?</strong>» De svarede: «<strong>Vi har ikke engang hørt, at der er en Helligånd.</strong>» Han spurgte: «Hvilken dåb er I da døbt med?» De svarede: «Med Johannes' dåb.» Paulus sagde: «Johannes døbte med omvendelsens dåb og sagde til folket, at de skulle tro på ham, der kom efter ham, det vil sige Jesus.» Da de hørte det, blev de døbt i Herren Jesu navn.»</blockquote>
                 </div>
                 <p>Skriftstedet tjener det modsatte formål. Det første, Paulus spørger om, er, om de har fået Helligånden. Da de svarer, at de ikke engang ved, at han findes, forstår han, at den dåb, de har, ikke er den kristne, og spørger, hvilken de har fået: Johannes'. «I Herren Jesu navn» er det, der skiller den ene dåb fra den anden. Lukas gengiver ikke de ord, der blev sagt over vandet. De ord gav Jesus:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matthæusevangeliet 28,19</span>
+                    <span class="scripture-ref">✝︎ Matthæusevangeliet 28,19</span>
                     <blockquote>«Gå derfor hen og gør alle folkeslagene til mine disciple, idet I døber dem <strong class="s-hi">i Faderens og Sønnens og Helligåndens navn</strong>…»</blockquote>
                 </div>
                 <p>«I navn», i ental, og derefter tre. Ét navn, fordi Gud er én. Tre nævnt, fordi de er tre. Det er den formel, Kirken modtog fra Jesus, og som den døber med den dag i dag.</p>
                 <h2>De tre i apostlenes hilsen<br>Andet Korintherbrev 13,13</h2>
                 <p>Paulus slutter sit andet brev til korintherne med denne velsignelse.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Andet Korintherbrev 13,13</span>
+                    <span class="scripture-ref">✝︎ Andet Korintherbrev 13,13</span>
                     <blockquote>«<strong class="s-hi">Herren Jesu Kristi nåde og Guds kærlighed og Helligåndens fællesskab</strong> være med jer alle!»</blockquote>
                 </div>
                 <p>De tre, side om side, hver med det, han giver. Det er ikke en enkeltstående sætning. I det første brev til korintherne kommer nådegaverne fra <em>«den samme Ånd»</em>, tjenesterne fra <em>«den samme Herre»</em> og kræfterne fra <em>«den samme Gud»</em> (1 Kor 12,4-6). Til efeserne skriver han: <em>«én Ånd… én Herre… én Gud og alles Fader»</em> (Ef 4,4-6). Og Peter åbner sit første brev på samme måde: <em>«efter Gud Faders forudviden ved Åndens helliggørelse til lydighed mod Jesus Kristus»</em> (1 Pet 1,2). Apostlene nævnte de tre allerede i hilsenen.</p>
@@ -757,7 +757,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                 <h2>Kærlighed som målestok</h2>
                 <p>Jesus samler Loven i kærlighed til Gud og næsten. Denne nye regel er ikke en byrde, men en dyb frihed, der transformerer vores handlinger indefra.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matt 22:37-38</span>
+                    <span class="scripture-ref">✝︎ Matt 22:37-38</span>
                     <blockquote>«<strong class="s-hi">Du skal elske Herren din Gud af hele dit hjerte og din næste som dig selv</strong>»</blockquote>
                 </div>
                 <h2>Fuldbyrdelse af den gamle lov</h2>
@@ -792,14 +792,14 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                 <h2>Kristus er hovedhjørnestenen, og der er en grundvold<br>Ef 2,20-22</h2>
                 <p>Før man diskuterer, om Peter er en klippe, må man se, hvordan Paulus bruger det billede.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Ef 2,20-22</span>
+                    <span class="scripture-ref">✝︎ Ef 2,20-22</span>
                     <blockquote>«I er bygget på apostlenes og profeternes grundvold med <strong>Kristus Jesus selv som hovedhjørnesten</strong>. I ham bliver <strong>hele bygningen</strong> føjet sammen og <strong>vokser</strong> op til et helligt tempel i Herren, og i ham bliver også I bygget sammen til en bolig for Gud i Ånden.»</blockquote>
                 </div>
                 <p>Paulus sætter ikke Kristus og apostlene op mod hinanden: han sætter dem i den samme bygning. Kristus er hovedhjørnestenen, den der bærer og retter alt det øvrige ind; apostlene og profeterne er grundvolden, og de er det i ham. At apostlene er grundvold, tager intet fra Kristus. Og bygningen er ikke færdig: den vokser, med sten der lægges oven på de første. Indvendingen tvinger til at vælge mellem Kristus og apostlene. Paulus vælger ikke.</p>
                 <h2>"Du er Peter": nøglerne til Himmeriget<br>Matt 16,16-19</h2>
                 <p>Det centrale skriftsted er Jesu svar på Peters bekendelse.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matt 16,16-19</span>
+                    <span class="scripture-ref">✝︎ Matt 16,16-19</span>
                     <blockquote>«Simon Peter svarede: »Du er Kristus, den levende Guds søn.« Jesus sagde til ham: »Salig er du, Simon, Jonas' søn, for det har kød og blod ikke åbenbaret dig, men min fader, som er i himlene. Og jeg siger dig: <strong class="s-hi">Du er Peter, og på den klippe vil jeg bygge min kirke</strong><strong>, og dødsrigets porte skal ikke få magt over den</strong>. <strong class="s-hi">Jeg vil give dig</strong> <strong>nøglerne til Himmeriget, og hvad du binder på jorden, skal være bundet i himlene, og hvad du løser på jorden, skal være løst i himlene</strong>.«»</blockquote>
                 </div>
                 <p>Jesus talte aramæisk, og på aramæisk er der kun ét ord: <em>kefa</em>, klippe. Johannesevangeliet bevarer det oprindelige navn ved det første møde: <em>"Du er Simon, Johannes' søn; du skal kaldes Kefas"</em>, det betyder Peter (Joh 1,42), og Paulus bliver ved med at kalde ham Kefas i sine breve. På græsk er <em>petra</em> et hunkønsord og kan ikke bruges som navn til en mand, så det fik den hankønsendelse: <em>Petros</em>. Forskellen mellem en lille sten og en klippe ligger ikke i det, Jesus sagde. Den ligger i oversætterens grammatik.</p>
@@ -808,7 +808,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                 <h2>Levende sten: ingen tager Kristi plads<br>1 Pet 2,3-8</h2>
                 <p>Den, der bedst besvarer indvendingen om klippen, er Peter selv.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Pet 2,3-8</span>
+                    <span class="scripture-ref">✝︎ 1 Pet 2,3-8</span>
                     <blockquote>«…nu I har smagt, at <strong>Herren</strong> er god. Kom til <strong>ham, den levende sten</strong>, som mennesker vragede, men som er udvalgt og kostbar i Guds øjne, og lad <strong>jer selv</strong> som <strong>levende sten</strong> bygge op til et åndeligt hus, til et helligt præsteskab, så I kan frembære åndelige ofre, som Gud tager imod for Jesu Kristi skyld. For der står i Skriften: »Se, jeg lægger i Zion en hjørnesten, udvalgt og kostbar; den, der tror på den, skal ikke blive til skamme.« Æren er altså jeres, I som tror; men for dem, der ikke tror, er »den sten, bygmestrene vragede, blevet hovedhjørnesten« og »en snublesten og en klippe til fald«. <strong class="s-hi">De snubler, fordi de ikke adlyder ordet; og det var de også bestemt til</strong>.»</blockquote>
                 </div>
                 <p>Den mand, Kristus kaldte klippe, tager ikke Kristi plads. Han kalder Kristus "den levende sten", hovedhjørnestenen udvalgt af Gud, og alle de troende "levende sten", bygget på den. Skriften bruger billedet af stenen om Kristus, om apostlene og om de troende, hver på sin plads, og intet sted i Det Nye Testamente fremstår det som en rivalisering. Peter strides ikke med Kristus om pladsen: han peger på den.</p>
@@ -816,18 +816,18 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                 <h2>Guds hus er Kirken<br>1 Tim 3,15</h2>
                 <p>Paulus skriver til Timotheus, hvordan man skal færdes, og siger hvor:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Tim 3,15</span>
+                    <span class="scripture-ref">✝︎ 1 Tim 3,15</span>
                     <blockquote>«…så ved du, hvordan man skal færdes i <strong>Guds hus</strong>, som er <strong>den levende Guds kirke</strong>, <strong>sandhedens søjle og grundvold</strong>.»</blockquote>
                 </div>
                 <p>Paulus siger ikke, at Skriften er sandhedens søjle og grundvold. Han siger, at Kirken er det, og kalder den den levende Guds hus. Der er ikke mere at tilføje, bortset fra én ting: et hus har en herre, det har døre, og det har en, der passer på nøglerne.</p>
                 <h2>Et hus med nogen til at lede det<br>1 Tim 3,1-5 og 3,8</h2>
                 <p>Et par linjer tidligere beskriver Paulus, hvem der leder dette hus.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Tim 3,1-5</span>
+                    <span class="scripture-ref">✝︎ 1 Tim 3,1-5</span>
                     <blockquote>«Det er et troværdigt ord: Hvis nogen står efter en <strong>tilsynsmandsgerning</strong>, ønsker han sig en god gerning. <strong>En tilsynsmand</strong> skal derfor være uangribelig, kun gift én gang, ædru, besindig, agtværdig, gæstfri, dygtig til at undervise, ikke drikfældig eller voldsom, men mild, fredsommelig og ikke pengeglad. <strong>Han skal lede</strong> sit hus godt og holde sine børn i lydighed med al værdighed; for hvis han ikke forstår at lede sit eget hus, hvordan skulle han så kunne tage sig af Guds menighed?»</blockquote>
                 </div>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Tim 3,8</span>
+                    <span class="scripture-ref">✝︎ 1 Tim 3,8</span>
                     <blockquote>«Ligeledes skal <strong>menighedstjenerne</strong> være agtværdige, ikke tvetungede, ikke drikfældige, ikke ude efter uhæderlig vinding.»</blockquote>
                 </div>
                 <p>Det, oversættelsen gengiver med "tilsynsmand" og "menighedstjener", hedder på græsk <em>episkopos</em> og <em>diakonos</em>: af det første kommer, bogstav for bogstav, ordet biskop, og af det andet ordet diakon. Kristi Kirke har biskopper og diakoner, det vil sige hierarki og myndighed, og Paulus fastsætter kravene til hvert embede. Et fællesskab, hvor ingen forestår og ingen leder, kan have Bibelen i hånden og god vilje, men det har ikke den form, som den Kirke har, Paulus beskriver. Det er et menneskeværk.</p>
@@ -835,35 +835,35 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                 <h2>Ulvene kommer indefra<br>Ap.G. 20,29-30</h2>
                 <p>Paulus tager afsked med de ældste i Efesus med en advarsel.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Ap.G. 20,29-30</span>
+                    <span class="scripture-ref">✝︎ Ap.G. 20,29-30</span>
                     <blockquote>«Jeg ved, at når jeg er borte, vil <strong>glubske ulve</strong> trænge ind hos jer, og de vil ikke skåne hjorden; ja, <strong>blandt jer selv</strong> vil der fremstå mænd, som <strong>fører falsk tale</strong> for at lokke disciplene efter sig.»</blockquote>
                 </div>
                 <p>Paulus forudsiger to trusler: ulvene, der vil trænge ind udefra, og de mænd, der vil fremstå indefra, blandt hyrderne selv, og lokke disciple efter sig. Den anden er den, historien gentog. Bruddet i det 16. århundrede blev ikke begyndt af fremmede: Luther var augustinermunk og præst, og Zwingli var præst i Zürich. Begge var dannet i den Kirke, som de siden forlod. Og advarslen forudsætter det, som indvendingen benægter: en hjord med grænser, som man kan forlade, og som man kan lokke andre bort fra.</p>
                 <h2>Kirken fandtes allerede, og Saulus forfulgte den<br>Ap.G. 8,1-3</h2>
                 <p>Før sin omvendelse vidste Paulus udmærket, hvor Kirken var.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Ap.G. 8,1-3</span>
+                    <span class="scripture-ref">✝︎ Ap.G. 8,1-3</span>
                     <blockquote>«<strong><strong class="s-hi">Saulus</strong> billigede drabet. Samme dag udbrød der en <strong class="s-hi">stor forfølgelse af menigheden</strong> i Jerusalem, og alle undtagen apostlene blev spredt ud over Judæa og Samaria. Nogle fromme mænd begravede Stefanus og holdt en stor dødeklage over ham. Men <strong class="s-hi">Saulus</strong> <strong class="s-hi">hærgede menigheden</strong>; han gik fra hus til hus, slæbte mænd og kvinder med sig og fik dem sat i fængsel.</strong>»</blockquote>
                 </div>
                 <p>Flere år før det første brev i Det Nye Testamente blev skrevet, havde Kirken allerede et navn, en by og forfølgere. Saulus forfulgte ikke en idé eller et usynligt fællesskab af sjæle: han gik fra hus til hus og satte mænd og kvinder i fængsel. Man forfølger det, man kan finde. Kristi Kirke fandtes, den var synlig, og dens medlemmer havde navn og adresse. Rom opfandt den ikke: Saulus vidste allerede, hvor han skulle lede efter den.</p>
                 <h2>At forfølge Kirken er at forfølge Kristus<br>Ap.G. 9,3-5</h2>
                 <p>På vejen til Damaskus siger Kristus til Saulus, hvem han forfulgte.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Ap.G. 9,3-5</span>
+                    <span class="scripture-ref">✝︎ Ap.G. 9,3-5</span>
                     <blockquote>«Men undervejs, da han nærmede sig Damaskus, strålede der pludselig et lys fra himlen om ham, og han faldt til jorden og hørte en røst sige til sig: »Saul, Saul, <strong class="s-hi">hvorfor forfølger du mig?</strong>« Han spurgte: »Hvem er du, Herre?« Og røsten svarede: »<strong class="s-hi">Jeg er Jesus, som du forfølger</strong>.«»</blockquote>
                 </div>
                 <p>Saulus havde aldrig set Jesus eller lagt hånd på ham. Han havde sat kristne i fængsel. Og Jesus spørger ham ikke, hvorfor han forfølger hans disciple: han spørger, hvorfor han forfølger ham. Kristus og hans Kirke er ét, så meget at det slag, den ene får, får den anden også. At skille Kristus fra hans Kirke er en operation, som Kristus selv ikke accepterede på vejen til Damaskus.</p>
                 <h2>"Styrk dine brødre"<br>Luk 22,31-32</h2>
                 <p>Natten til den sidste nadver henvender Jesus sig til Peter ved navn.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Luk 22,31-32</span>
+                    <span class="scripture-ref">✝︎ Luk 22,31-32</span>
                     <blockquote>«Simon, Simon! Satan har forlangt at få jer i sin magt for at sigte jer som hvede. Men <strong class="s-hi">jeg har bedt for dig</strong>, for at din tro ikke skal svigte. Og når du engang omvender dig, så <strong class="s-hi">styrk dine brødre</strong>.»</blockquote>
                 </div>
                 <p>Satan forlangte at sigte dem alle: "jer", i flertal. Jesus siger, at han bad for én alene, "for dig", i ental, og den ene giver han til opgave at styrke de andre. Opgaven gives ikke til den stærkeste. To vers senere forudsiger han, at Peter samme nat vil fornægte ham tre gange. Peter er et svagt og syndigt menneske, og alligevel betros opgaven at styrke brødrene i troen til ham alene. Fastheden kommer ikke fra Peter: den kommer fra Kristi bøn for Peter.</p>
                 <h2>Tre gange: "Vogt mine får"<br>Joh 21,15-17</h2>
                 <p>Efter opstandelsen, ved søens bred, vender Jesus tilbage til den opgave.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Joh 21,15-17</span>
+                    <span class="scripture-ref">✝︎ Joh 21,15-17</span>
                     <blockquote>«Da de havde spist, sagde Jesus til Simon Peter: »Simon, Johannes' søn, <strong class="s-hi">elsker du mig mere end disse?</strong>« Han svarede: »Ja, Herre, du ved, at jeg har dig kær.« Jesus sagde til ham: »<strong class="s-hi">Vogt mine lam!</strong>« Han spurgte ham igen, anden gang: »Simon, Johannes' søn, elsker du mig?« Han svarede: »Ja, Herre, du ved, at jeg har dig kær.« Jesus sagde til ham: »<strong class="s-hi">Vær hyrde for mine får!</strong>« Tredje gang spurgte han ham: »Simon, Johannes' søn, har du mig kær?« Peter blev bedrøvet over, at han tredje gang spurgte ham: »Har du mig kær?« og han svarede: »Herre, du ved alt, du ved, at jeg har dig kær.« Jesus sagde til ham: »<strong class="s-hi">Vogt mine får!</strong>«»</blockquote>
                 </div>
                 <p>Peter fornægtede ham tre gange, og Jesus spørger ham tre gange. Han bebrejder ham ikke forræderiet: han beder om kærlighed og overgiver ham, efter hvert svar, hjorden. "Mere end disse" sammenligner ham med de andre disciple, der stod på bredden, og opgaven er til ham alene. Men hjorden er ikke Peters. Kristus siger "mine lam", "mine får": Peter vogter det, der tilhører en anden, på andens vegne, som forvalteren, der passer på nøglerne til et hus, som ikke er hans eget. Kristus vælger en synder til at være hyrde for sine får, og opgavens styrke ligger hos den, der giver den.</p>
@@ -1006,7 +1006,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
 
             <!-- TODO: verificar cita bíblica Apocalipsis 3,15-16 con traducción católica de Dansk -->
             <div class="scripture-block">
-                <span class="scripture-ref">✝ Johannes' Åbenbaring 3:15-16</span>
+                <span class="scripture-ref">✝︎ Johannes' Åbenbaring 3:15-16</span>
                 <blockquote>«Jeg kender dine gerninger: du er hverken kold eller varm. Gid du var kold eller varm! Men da du er lunken — hverken kold eller varm — vil jeg udspy dig af min mund.»</blockquote>
             </div>
 
@@ -1058,7 +1058,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Alle rettigheder forbeholdes.</strong> Hel eller delvis gengivelse er forbudt uden forfatterens skriftlige tilladelse.",
-    text: "&copy; 2026 Tro og Fornuft. Ad maiorem Dei gloriam."
+    text: "Tro og Fornuft. Ad maiorem Dei gloriam."
   }
 };
 // Se expone en window para que el cargador por idioma pueda tomarlo por nombre.

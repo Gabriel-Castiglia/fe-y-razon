@@ -83,42 +83,42 @@ const translationsIT = {
                 <h2>«Finché non avesse restituito tutto il dovuto»<br>Matteo 18, 23-35</h2>
                 <p>Gesù spiega il Regno dei cieli con la parabola del servo che non perdonò.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matteo 18, 23-35</span>
+                    <span class="scripture-ref">✝︎ Matteo 18, 23-35</span>
                     <blockquote>«Per questo, <strong class="s-hi">il regno dei cieli è simile a un re che volle regolare i conti con i suoi servi</strong>. … Sdegnato, il padrone <strong class="s-hi">lo diede in mano agli aguzzini, finché non avesse restituito tutto il dovuto. Così anche il Padre mio celeste farà con voi</strong> se non perdonerete di cuore, ciascuno al proprio fratello.»</blockquote>
                 </div>
                 <p>Il castigo ha un limite: dura finché il servo non paga tutto il dovuto. Prima paga, poi esce. Dall'inferno non si esce, dunque quel carcere non è l'inferno. E Gesù non lascia la parabola come la storia di un re qualunque: <em>«Così anche il Padre mio celeste farà con voi.»</em> Non è un'interpretazione della Chiesa né una supposizione. Lo ha detto Cristo.</p>
                 <h2>Il carcere da cui si esce<br>Matteo 5, 25-26</h2>
                 <p>Nel Discorso della montagna, Gesù usa la stessa immagine.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matteo 5, 25-26</span>
+                    <span class="scripture-ref">✝︎ Matteo 5, 25-26</span>
                     <blockquote>«Mettiti presto d'accordo con il tuo avversario mentre sei in cammino con lui, perché <strong class="s-hi">l'avversario non ti consegni al giudice e il giudice alla guardia, e tu venga gettato in prigione</strong>. In verità io ti dico: <strong class="s-hi">non uscirai di là finché non avrai pagato fino all'ultimo spicciolo</strong>!»</blockquote>
                 </div>
                 <p>Il giudice è Dio, la guardia sono i suoi angeli e il carcere è il purgatorio. «Finché non avrai pagato» vuol dire che c'è un momento in cui il debito finisce e la porta si apre. Il carcere non è eterno. L'inferno sì.</p>
                 <h2>Il perdono nel mondo futuro<br>Matteo 12, 32</h2>
                 <p>Parlando del peccato contro lo Spirito Santo, Gesù distingue due tempi.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matteo 12, 32</span>
+                    <span class="scripture-ref">✝︎ Matteo 12, 32</span>
                     <blockquote>«A chi parlerà contro il Figlio dell'uomo, sarà perdonato; ma a chi parlerà contro lo Spirito Santo, <strong class="s-hi">non sarà perdonato, né in questo mondo né in quello futuro</strong>.»</blockquote>
                 </div>
                 <p>Se nessun peccato fosse perdonato dopo la morte, dire che questo non sarà perdonato «in quello futuro» non avrebbe senso. Gesù dà per scontato che alcuni peccati si perdonano in questo mondo e altri in quello che viene. Questo no; altri sì. In cielo non c'è nulla da perdonare, e all'inferno non c'è perdono. Quel perdono del mondo futuro avviene in un altro luogo.</p>
                 <h2>Non ogni peccato conduce alla morte<br>1 Giovanni 5, 16-17</h2>
                 <p>Giovanni distingue due specie di peccato.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Giovanni 5, 16-17</span>
+                    <span class="scripture-ref">✝︎ 1 Giovanni 5, 16-17</span>
                     <blockquote>«Se uno vede il proprio fratello commettere un <strong class="s-hi">peccato che non conduce alla morte</strong>, <strong class="s-hi">preghi, e Dio gli darà la vita</strong>: a coloro cioè che commettono un peccato che non conduce alla morte. C'è infatti un peccato che conduce alla morte; <strong class="s-hi">non dico di pregare riguardo a questo peccato</strong>. Ogni iniquità è peccato, ma <strong class="s-hi">c'è il peccato che non conduce alla morte</strong>.»</blockquote>
                 </div>
                 <p>Ci sono peccati che conducono alla morte e peccati che non vi conducono. La Chiesa li chiama mortali e veniali. Per il fratello che pecca senza giungere alla morte si prega, e Dio gli dà la vita. Chi muore con peccati che non conducono alla morte non è condannato, ma non è nemmeno puro. Tra la condanna e la presenza di Dio resta proprio questo: la purificazione.</p>
                 <h2>I morti vivono<br>Giovanni 11, 21-27</h2>
                 <p>Agli avventisti e ai Testimoni di Geova risponde Gesù davanti alla tomba di Lazzaro.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Giovanni 11, 21-27</span>
+                    <span class="scripture-ref">✝︎ Giovanni 11, 21-27</span>
                     <blockquote>«Marta disse a Gesù: «Signore, se tu fossi stato qui, mio fratello non sarebbe morto! Ma anche ora so che qualunque cosa tu chiederai a Dio, Dio te la concederà». Gesù le disse: «Tuo fratello risorgerà». Gli rispose Marta: «So che risorgerà nella risurrezione dell'ultimo giorno». Gesù le disse: «Io sono la risurrezione e la vita; chi crede in me, <strong class="s-hi">anche se muore, vivrà</strong>; chiunque vive e crede in me, <strong class="s-hi">non morirà in eterno</strong>. Credi questo?». Gli rispose: «Sì, o Signore, io credo che tu sei il Cristo, il Figlio di Dio, colui che viene nel mondo».»</blockquote>
                 </div>
                 <p>Marta parla della risurrezione dell'ultimo giorno, e Gesù va oltre: chi crede in lui, anche se muore, vive, e non morirà in eterno. La morte del corpo non spegne la vita di chi crede. I morti in Cristo non dormono nel nulla aspettando la fine del mondo. Sono vivi.</p>
                 <h2>Lo spirito ritorna a Dio<br>Qoèlet 12, 7</h2>
                 <p>Lo stesso libro da cui viene l'obiezione dice che cosa accade quando qualcuno muore.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Qoèlet 12, 7</span>
+                    <span class="scripture-ref">✝︎ Qoèlet 12, 7</span>
                     <blockquote>«e ritorni la polvere alla terra, com'era prima, e <strong class="s-hi">il soffio vitale ritorni a Dio</strong>, che lo ha dato.»</blockquote>
                 </div>
                 <p>Il corpo ritorna alla terra e il soffio vitale ritorna a Dio. La parola ebraica è <em>ruah</em>, la stessa che si traduce con spirito, e per questo altre versioni dicono «lo spirito ritorna a Dio». La frase di Qoèlet 9, 5 che citano gli avventisti si completa nel versetto seguente: i morti <em>«non avranno più alcuna parte in tutto ciò che accade sotto il sole»</em> (Qo 9, 6). Non sanno nulla di ciò che accade in questo mondo. Questo non dice che abbiano cessato di esistere.</p>
@@ -138,25 +138,25 @@ const translationsIT = {
       pageTitle: "L'Eucaristia | Fede e Ragione",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>L'Eucaristia: il sacramento centrale</h1><p>L'Eucaristia è un simbolo o il Corpo reale di Cristo? Giovanni 6, Paolo e i primi cristiani danno la stessa risposta.</p><div class="article-meta"><span>13 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
       article: `<p>L'Eucaristia è un simbolo o è reale? La risposta si trova in Giovanni 6. Non c'è testo più chiaro, più diretto e più impegnativo in tutto il Vangelo su questo argomento. E Gesù non cede. Ma Giovanni 6 non è l'unico testimone: Paolo lo conferma in modo indipendente, e i primi discepoli degli apostoli lo compresero senza ambiguità. Ci sono tre linee di prova. Nessuna trova risposta nell'interpretazione simbolica.</p><h2>Io sono il pane della vita<br>Giovanni 6:47-51</h2><p>Gesù non dice «rappresento il pane della vita» né «sono come il pane della vita». Dice:</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Giovanni 6:47-51</span>
+                    <span class="scripture-ref">✝︎ Giovanni 6:47-51</span>
                     <blockquote>«In verità, in verità io vi dico: chi crede ha la vita eterna. <strong class="s-hi">Io sono il pane della vita.</strong> I vostri padri hanno mangiato la manna nel deserto e sono morti; questo è il pane che discende dal cielo, perché chi ne mangia non muoia. Io sono il pane vivo, disceso dal cielo. Se uno mangia di questo pane vivrà in eterno e il pane che io darò è <strong class="s-hi">la mia carne</strong> per la vita del mondo.»</blockquote>
                 </div><p>Il verbo «sono» non indica rappresentazione: indica identità. E ciò che segue non lascia spazio a interpretazioni simboliche:</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Giovanni 6:53-55</span>
+                    <span class="scripture-ref">✝︎ Giovanni 6:53-55</span>
                     <blockquote>«In verità, in verità io vi dico: <strong class="s-hi">se non mangiate la carne del Figlio dell'uomo e non bevete il suo sangue, non avete in voi la vita.</strong> Chi mangia la mia carne e beve il mio sangue ha la vita eterna e io lo risusciterò nell'ultimo giorno. Perché <strong class="s-hi">la mia carne è vero cibo e il mio sangue è vera bevanda.</strong>»</blockquote>
                 </div><p>Non dice «se non ricordate» o «se non contemplate». Dice <em>mangiare</em> e <em>bere</em>. E lo ripete con parole diverse perché non ci sia confusione: <em>vero cibo</em> e <em>vera bevanda</em>. L'aggettivo «vero» esclude espressamente il simbolico.</p><h2>L'obiezione della metafora<br>Giovanni 15:1</h2><p>La risposta abituale è: «È una metafora, come quando dice "Io sono la vite" o "Io sono la porta".» Bisogna andare alla Bibbia. Quando Gesù disse <em>«Io sono la vera vite»</em> (Gv 15:1), nessuno se ne andò. Quando disse «mangiate la mia carne», molti se ne andarono. La differenza è decisiva:</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Giovanni 6:60</span>
+                    <span class="scripture-ref">✝︎ Giovanni 6:60</span>
                     <blockquote>«Molti dei suoi discepoli, dopo aver ascoltato, dissero: <strong class="s-hi">«Questa parola è dura! Chi può ascoltarla?»</strong>»</blockquote>
                 </div><p>Gesù non li corregge dicendo «avete frainteso, era una metafora». Li lascia andare. Questa è la prova più schiacciante: se fosse simbolico, il buon pastore li avrebbe trattenuti con un chiarimento. Non lo fa.</p><h2>Questo genera divisione<br>Giovanni 6:66-67</h2><div class="scripture-block">
-                    <span class="scripture-ref">✝ Giovanni 6:66-67</span>
+                    <span class="scripture-ref">✝︎ Giovanni 6:66-67</span>
                     <blockquote>«Da quel momento molti dei suoi discepoli si tirarono indietro e non andavano più con lui. Disse allora Gesù ai Dodici: <strong class="s-hi">«Volete andarvene anche voi?»</strong>»</blockquote>
                 </div><p>Non cede. Non ammorbidisce. Non negozia il significato. Gesù è il buon pastore che non lascerebbe perdersi nessuna pecora per un malinteso — ma in questo è inflessibile.</p><h2>Non c'è altra interpretazione possibile<br>Giovanni 6:68</h2><div class="scripture-block">
-                    <span class="scripture-ref">✝ Giovanni 6:68</span>
+                    <span class="scripture-ref">✝︎ Giovanni 6:68</span>
                     <blockquote>«Gli rispose Simon Pietro: <strong class="s-hi">«Signore, da chi andremo? Tu hai parole di vita eterna.»</strong>»</blockquote>
                 </div><p>Pietro non dice di capire tutto. Dice di fidarsi. Questa è la fede: non avere tutte le risposte, ma sapere a Chi si crede.</p><ul><li>«Io sono» — non rappresenta, è.</li><li>«Vero cibo, vera bevanda» — non simbolico.</li><li>Gesù non corregge coloro che lo hanno compreso letteralmente: li lascia andare.</li><li>Pietro non capisce tutto, ma si fida. Questa è la fede.</li></ul><h2>Paolo lo conferma — testimone indipendente<br>1 Corinzi 10:16 e 11:27-29</h2><p>Paolo scrive la sua prima lettera ai Corinzi prima che il Vangelo di Giovanni venga redatto. Sono due testimoni completamente indipendenti. Paolo dice:</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Corinzi 10:16</span>
+                    <span class="scripture-ref">✝︎ 1 Corinzi 10:16</span>
                     <blockquote>«<strong class="s-hi">Il calice della benedizione che noi benediciamo, non è forse comunione con il sangue di Cristo? E il pane che noi spezziamo, non è forse comunione con il corpo di Cristo?</strong>»</blockquote>
                 </div><p>Non dice «ricordo». Dice <em>comunione</em> — partecipazione reale, contatto effettivo. E poi:</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Corinzi 11:27-29</span>
+                    <span class="scripture-ref">✝︎ 1 Corinzi 11:27-29</span>
                     <blockquote>«<strong class="s-hi">Perciò chiunque mangia il pane o beve al calice del Signore in modo indegno, sarà colpevole verso il corpo e il sangue del Signore.</strong> Ciascuno, pertanto, esamini se stesso e poi mangi del pane e beva dal calice; perché <strong class="s-hi">chi mangia e beve senza riconoscere il corpo del Signore</strong>, mangia e beve la propria condanna.»</blockquote>
                 </div><p>La parola greca ἔνοχος — reo/colpevole — implica colpevolezza per un crimine reale. Non si può essere rei di attentare a un simbolo. Paolo dice anche: «senza riconoscere il corpo». Se fosse solo pane, quale Corpo ci sarebbe da riconoscere?</p><h2>I primi cristiani — testimoni formati dagli apostoli</h2><p>Ignazio di Antiochia fu discepolo diretto dell'apostolo Giovanni. Morì martire intorno all'anno 107 d.C. Scrisse nella sua Lettera agli Smirnesi:</p><blockquote>«<strong>Si astengono dall'Eucaristia e dalla preghiera, perché non confessano che l'Eucharistia è la carne del nostro Salvatore Gesù Cristo</strong>, che ha patito per i nostri peccati e che il Padre, nella sua bontà, ha risuscitato.» — Ignazio di Antiochia, Lettera agli Smirnesi 6-7 (~107 d.C.)</blockquote><p>Giustino Martire scrisse intorno all'anno 150 d.C., a settant'anni dalla morte degli apostoli:</p><blockquote>«<strong>Noi non prendiamo queste cose come pane comune o bevanda comune</strong>... così ci è stato insegnato che quel cibo eucaristizzato è <strong>la carne e il sangue di quel Gesù incarnato.</strong>» — Giustino Martire, Prima Apologia 66 (~150 d.C.)</blockquote><p>Se i primi cristiani — formati dagli apostoli stessi — credettero nella Presenza Reale, la domanda che merita una risposta onesta è: chi ha cambiato tutto ciò? Quando? Con quale autorità?</p><p>Per capire come questa realtà si faccia presente nella Messa, continua nel tema <a href="tema-transubstanciacion.html">Transustanziazione</a>. E per capire perché accettiamo queste parole come verità di Dio, vai al tema <a href="tema-por-que-creemos.html">Perché crediamo?</a></p>`,
       nav: { prevTitle: "Il primato di Pietro", nextTitle: "Transustanziazione: il mistero eucaristico" }
@@ -165,7 +165,7 @@ const translationsIT = {
       pageTitle: "La nuova legge | Fede e Ragione",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>La nuova legge in Cristo</h1><p>Comprendi come la legge di Cristo supera e completa l'Antica Legge, invitandoci a vivere nell'amore e nella libertà dei figli di Dio.</p><div class="article-meta"><span>8 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
       article: `<p>La nuova legge è la legge del Vangelo, incentrata sul comandamento dell'amore. Cristo non elimina la Legge antica, ma la porta a pienezza e la rende accessibile al cuore umano.</p><h2>L'amore come criterio</h2><p>Gesù riassume la Legge nell'amare Dio e il prossimo. Questa nuova norma non è un peso, ma una profonda libertà che trasforma le nostre azioni dall'interno.</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Matteo 22:37-38</span>
+                    <span class="scripture-ref">✝︎ Matteo 22:37-38</span>
                     <blockquote>«<strong class="s-hi">Amerai il Signore tuo Dio con tutto il tuo cuore e il tuo prossimo come te stesso</strong>»</blockquote>
                 </div><h2>Completare l'antica legge</h2><p>I profeti annunciarono una legge nuova che avrebbe vissuto nel cuore. L'insegnamento di Cristo rivela che l'autentico compimento della Legge non si riduce ad azioni esteriori, ma a una vera disposizione interiore.</p><ul><li>La nuova legge ci chiama a essere sale della terra e luce del mondo.</li><li>Il perdono e la misericordia sono la sua espressione più genuina.</li><li>Viviamo la legge di Cristo donandoci per amore.</li></ul><h2>Pratica cristiana</h2><p>La nuova legge diventa vita concreta quando coltiviamo l'umiltà, la giustizia e la compassione. L'Eucaristia e la preghiera ci aiutano a viverla giorno per giorno.</p>`,
       nav: { prevTitle: "Il purgatorio e la misericordia di Dio", nextTitle: "La Santissima Trinità" }
@@ -178,14 +178,14 @@ const translationsIT = {
                 <h2>Cristo è la pietra d'angolo, e ci sono fondamenta<br>Efesini 2,20-22</h2>
                 <p>Prima di discutere se Pietro sia pietra bisogna vedere come Paolo usa quell'immagine.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Efesini 2,20-22</span>
+                    <span class="scripture-ref">✝︎ Efesini 2,20-22</span>
                     <blockquote>«…edificati sopra il fondamento degli apostoli e dei profeti, avendo come <strong>pietra d'angolo lo stesso Cristo Gesù</strong>. In lui <strong>tutta la costruzione</strong> <strong>cresce</strong> ben ordinata per essere tempio santo nel Signore; in lui anche voi venite edificati insieme per diventare abitazione di Dio per mezzo dello Spirito.»</blockquote>
                 </div>
                 <p>Paolo non mette Cristo e gli apostoli in concorrenza: li mette nello stesso edificio. Cristo è la pietra d'angolo, quella che regge e allinea tutto il resto; gli apostoli e i profeti sono il fondamento, e lo sono in lui. Che gli apostoli siano fondamento non toglie nulla a Cristo. E l'edificio non è finito: cresce, con pietre che si aggiungono sopra le prime. L'obiezione costringe a scegliere tra Cristo e gli apostoli. Paolo non sceglie.</p>
                 <h2>«Tu sei Pietro»: le chiavi del Regno<br>Matteo 16,16-19</h2>
                 <p>Il passo centrale è la risposta di Gesù alla confessione di Pietro.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matteo 16,16-19</span>
+                    <span class="scripture-ref">✝︎ Matteo 16,16-19</span>
                     <blockquote>«Rispose Simon Pietro: «Tu sei il Cristo, il Figlio del Dio vivente». E Gesù gli disse: «Beato sei tu, Simone, figlio di Giona, perché né carne né sangue te lo hanno rivelato, ma il Padre mio che è nei cieli. E io a te dico: <strong class="s-hi">tu sei Pietro e su questa pietra edificherò la mia Chiesa</strong><strong> e le potenze degli inferi non prevarranno su di essa</strong>. <strong class="s-hi">A te darò</strong> <strong>le chiavi del regno dei cieli: tutto ciò che legherai sulla terra sarà legato nei cieli, e tutto ciò che scioglierai sulla terra sarà sciolto nei cieli</strong>».»</blockquote>
                 </div>
                 <p>Gesù parlava aramaico, e in aramaico la parola è una sola: <em>kefa</em>, pietra. Il Vangelo di Giovanni conserva il nome originale nel primo incontro: <em>«Tu sei Simone, il figlio di Giovanni; sarai chiamato Cefa»</em>, che significa Pietro (Gv 1,42), e Paolo continua a chiamarlo Cefa nelle sue lettere. In greco <em>petra</em> è una parola femminile e non può servire da nome di uomo, così le fu data la desinenza maschile: <em>Petros</em>. La differenza tra sassolino e roccia non sta in ciò che Gesù ha detto. Sta nella grammatica del traduttore. L'italiano, del resto, conserva intatto il gioco di parole: Pietro, e questa pietra.</p>
@@ -194,7 +194,7 @@ const translationsIT = {
                 <h2>Pietre vive: nessuno toglie il posto a Cristo<br>1 Pietro 2,3-8</h2>
                 <p>Chi risponde meglio all'obiezione della roccia è Pietro stesso.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Pietro 2,3-8</span>
+                    <span class="scripture-ref">✝︎ 1 Pietro 2,3-8</span>
                     <blockquote>«…se davvero avete gustato che buono è <strong>il Signore</strong>. Avvicinandovi <strong>a lui, pietra viva</strong>, rifiutata dagli uomini ma scelta e preziosa davanti a Dio, quali <strong>pietre vive</strong> siete costruiti <strong>anche voi</strong> come edificio spirituale, per un sacerdozio santo e per offrire sacrifici spirituali graditi a Dio, mediante Gesù Cristo. Si legge infatti nella Scrittura: Ecco, io pongo in Sion una pietra d'angolo, scelta, preziosa, e chi crede in essa non resterà deluso. Onore dunque a voi che credete; ma per quelli che non credono la pietra che i costruttori hanno scartato è diventata pietra d'angolo e sasso d'inciampo, pietra di scandalo. <strong class="s-hi">Essi v'inciampano perché non obbediscono alla Parola. A questo erano destinati</strong>.»</blockquote>
                 </div>
                 <p>L'uomo che Cristo chiamò pietra non si attribuisce il posto di Cristo. Chiama Cristo «pietra viva», la pietra d'angolo scelta da Dio, e tutti i credenti «pietre vive» edificate su di essa. La Scrittura usa l'immagine della pietra per Cristo, per gli apostoli e per i fedeli, ciascuno al suo posto, e in nessuna pagina del Nuovo Testamento questo appare come una rivalità. Pietro non contende a Cristo il posto: lo indica.</p>
@@ -202,18 +202,18 @@ const translationsIT = {
                 <h2>La casa di Dio è la Chiesa<br>1 Timoteo 3,15</h2>
                 <p>Paolo scrive a Timoteo come ci si deve comportare, e dice dove:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Timoteo 3,15</span>
+                    <span class="scripture-ref">✝︎ 1 Timoteo 3,15</span>
                     <blockquote>«…perché tu sappia come comportarti nella <strong>casa di Dio</strong>, che è <strong>la Chiesa</strong> del Dio vivente, <strong>colonna e sostegno della verità</strong>.»</blockquote>
                 </div>
                 <p>Paolo non dice che la Scrittura sia la colonna e il sostegno della verità. Dice che lo è la Chiesa, e la chiama casa del Dio vivente. Non c'è altro da aggiungere, tranne una cosa: una casa ha un padrone, ha delle porte e ha qualcuno che custodisce le chiavi.</p>
                 <h2>Una casa con chi la governi<br>1 Timoteo 3,1-5 e 3,8</h2>
                 <p>Poche righe prima, Paolo descrive chi governa quella casa.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Timoteo 3,1-5</span>
+                    <span class="scripture-ref">✝︎ 1 Timoteo 3,1-5</span>
                     <blockquote>«Questa parola è degna di fede: se uno aspira <strong>all'episcopato</strong>, desidera un nobile lavoro. Bisogna dunque che <strong>il vescovo</strong> sia irreprensibile, marito di una sola donna, sobrio, prudente, dignitoso, ospitale, capace di insegnare, non dedito al vino, non violento ma benevolo, non litigioso, non attaccato al denaro. <strong>Sappia guidare bene</strong> la propria famiglia e abbia figli sottomessi e rispettosi, perché, se uno non sa guidare la propria famiglia, come potrà aver cura della Chiesa di Dio?»</blockquote>
                 </div>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Timoteo 3,8</span>
+                    <span class="scripture-ref">✝︎ 1 Timoteo 3,8</span>
                     <blockquote>«Allo stesso modo <strong>i diaconi</strong> siano persone degne, non doppi nel parlare, non dediti al molto vino né avidi di guadagni disonesti…»</blockquote>
                 </div>
                 <p>Le parole greche che Paolo usa sono <em>episkopé</em> ed <em>epískopos</em>: da lì viene, lettera per lettera, la parola vescovo. E <em>diákonos</em> è diacono. La Chiesa di Cristo ha vescovi e diaconi, cioè gerarchia e autorità, e Paolo fissa i requisiti di ciascun incarico. Una comunità dove nessuno presiede né governa potrà avere la Bibbia in mano e buona volontà, ma non ha la forma della Chiesa che Paolo descrive. È un'opera di uomini.</p>
@@ -221,35 +221,35 @@ const translationsIT = {
                 <h2>I lupi vengono da dentro<br>Atti 20,29-30</h2>
                 <p>Paolo si congeda dagli anziani di Efeso con un avvertimento.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Atti 20,29-30</span>
+                    <span class="scripture-ref">✝︎ Atti 20,29-30</span>
                     <blockquote>«Io so che dopo la mia partenza verranno fra voi <strong>lupi rapaci</strong>, che non risparmieranno il gregge; perfino <strong>in mezzo a voi</strong> sorgeranno alcuni a parlare di <strong>cose perverse</strong>, per attirare i discepoli dietro di sé.»</blockquote>
                 </div>
                 <p>Paolo annuncia due minacce: i lupi che entreranno da fuori e gli uomini che sorgeranno da dentro, di mezzo agli stessi pastori, trascinando discepoli dietro di sé. La seconda è quella che la storia ha ripetuto. La rottura del XVI secolo non l'hanno cominciata degli estranei: Lutero era frate agostiniano e sacerdote, e Zwingli era sacerdote a Zurigo. Tutti e due si erano formati nella Chiesa che poi lasciarono. E l'avvertimento presuppone ciò che l'obiezione nega: un gregge con dei confini, da cui si può uscire e fuori dal quale si possono trascinare altri.</p>
                 <h2>La Chiesa esisteva già, e Saulo la perseguitava<br>Atti 8,1-3</h2>
                 <p>Prima di convertirsi, Paolo sapeva molto bene dove fosse la Chiesa.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Atti 8,1-3</span>
+                    <span class="scripture-ref">✝︎ Atti 8,1-3</span>
                     <blockquote>«<strong><strong class="s-hi">Saulo</strong> approvava la sua uccisione. In quel giorno scoppiò <strong class="s-hi">una violenta persecuzione contro la Chiesa</strong> di Gerusalemme; tutti, ad eccezione degli apostoli, si dispersero nelle regioni della Giudea e della Samaria. Uomini pii seppellirono Stefano e fecero un grande lutto per lui. <strong class="s-hi">Saulo</strong> intanto <strong class="s-hi">cercava di distruggere la Chiesa</strong>: entrava nelle case, prendeva uomini e donne e li faceva mettere in carcere.</strong>»</blockquote>
                 </div>
                 <p>Anni prima che fosse scritta la prima lettera del Nuovo Testamento, la Chiesa aveva già un nome, una città e dei persecutori. Saulo non perseguitava un'idea né una comunione invisibile di anime: entrava nelle case e portava in carcere uomini e donne. Si perseguita ciò che si può trovare. La Chiesa di Cristo esisteva, era visibile, e i suoi membri avevano nome e indirizzo. Roma non l'ha inventata: Saulo sapeva già dove cercarla.</p>
                 <h2>Perseguitare la Chiesa è perseguitare Cristo<br>Atti 9,3-5</h2>
                 <p>Sulla via di Damasco, Cristo dice a Saulo chi stava perseguitando.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Atti 9,3-5</span>
+                    <span class="scripture-ref">✝︎ Atti 9,3-5</span>
                     <blockquote>«E avvenne che, mentre era in viaggio e stava per avvicinarsi a Damasco, all'improvviso lo avvolse una luce dal cielo e, cadendo a terra, udì una voce che gli diceva: «Saulo, Saulo, <strong class="s-hi">perché mi perseguiti?</strong>». Rispose: «Chi sei, o Signore?». Ed egli: «<strong class="s-hi">Io sono Gesù, che tu perseguiti!</strong>».»</blockquote>
                 </div>
                 <p>Saulo non aveva mai visto Gesù né gli aveva messo le mani addosso. Aveva imprigionato dei cristiani. E Gesù non gli chiede perché perseguiti i suoi seguaci: gli chiede perché perseguiti lui. Cristo e la sua Chiesa sono una cosa sola, al punto che il colpo ricevuto dall'una lo riceve l'altro. Separare Cristo dalla sua Chiesa è un'operazione che Cristo stesso non accettò sulla via di Damasco.</p>
                 <h2>«Conferma i tuoi fratelli»<br>Luca 22,31-32</h2>
                 <p>La notte dell'Ultima Cena, Gesù si rivolge a Pietro chiamandolo per nome.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Luca 22,31-32</span>
+                    <span class="scripture-ref">✝︎ Luca 22,31-32</span>
                     <blockquote>«Simone, Simone, ecco: Satana vi ha cercati per vagliarvi come il grano; ma <strong class="s-hi">io ho pregato per te</strong>, perché la tua fede non venga meno. E tu, una volta convertito, <strong class="s-hi">conferma i tuoi fratelli</strong>.»</blockquote>
                 </div>
                 <p>Satana li ha cercati tutti: «vi», al plurale. Gesù dice di aver pregato per uno solo, «per te», al singolare, e a quell'uno affida il compito di confermare gli altri. L'incarico non lo dà al più forte. Due versetti dopo gli annuncia che quella stessa notte lo rinnegherà tre volte. Pietro è un uomo debole e peccatore, e tuttavia il compito di confermare i suoi fratelli nella fede è affidato a lui solo. La fermezza non viene da Pietro: viene dalla preghiera di Cristo per Pietro.</p>
                 <h2>Tre volte: «Pasci»<br>Giovanni 21,15-17</h2>
                 <p>Dopo la risurrezione, sulla riva del lago, Gesù torna su quell'incarico.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Giovanni 21,15-17</span>
+                    <span class="scripture-ref">✝︎ Giovanni 21,15-17</span>
                     <blockquote>«Quand'ebbero mangiato, Gesù disse a Simon Pietro: «Simone, figlio di Giovanni, <strong class="s-hi">mi ami più di costoro?</strong>». Gli rispose: «Certo, Signore, tu lo sai che ti voglio bene». Gli disse: «<strong class="s-hi">Pasci i miei agnelli</strong>». Gli disse di nuovo, per la seconda volta: «Simone, figlio di Giovanni, mi ami?». Gli rispose: «Certo, Signore, tu lo sai che ti voglio bene». Gli disse: «<strong class="s-hi">Pascola le mie pecore</strong>». Gli disse per la terza volta: «Simone, figlio di Giovanni, mi vuoi bene?». Pietro rimase addolorato che per la terza volta gli domandasse: «Mi vuoi bene?», e gli disse: «Signore, tu conosci tutto; tu sai che ti voglio bene». Gli rispose Gesù: «<strong class="s-hi">Pasci le mie pecore</strong>».»</blockquote>
                 </div>
                 <p>Pietro lo rinnegò tre volte e Gesù lo interroga tre volte. Non gli rimprovera il tradimento: gli chiede amore e, dopo ogni risposta, gli consegna il gregge. «Più di costoro» lo confronta con gli altri discepoli presenti sulla riva, e l'incarico è per lui solo. Ma il gregge non è di Pietro. Cristo dice «i miei agnelli», «le mie pecore»: Pietro pasce ciò che è di un altro, per incarico, come il maggiordomo che custodisce le chiavi di una casa che non è sua. Cristo sceglie un peccatore per pascere le sue pecore, e la forza dell'incarico sta in chi lo dà.</p>
@@ -278,47 +278,47 @@ const translationsIT = {
                 <h2>«Facciamo»: il plurale del principio<br>Genesi 1, 26</h2>
                 <p>Il primo segno è nella prima pagina della Bibbia.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Genesi 1, 26</span>
+                    <span class="scripture-ref">✝︎ Genesi 1, 26</span>
                     <blockquote>«Dio disse: «<strong class="s-hi">Facciamo l'uomo a nostra immagine, secondo la nostra somiglianza</strong>: dòmini sui pesci del mare e sugli uccelli del cielo, sul bestiame, su tutti gli animali selvatici e su tutti i rettili che strisciano sulla terra».»</blockquote>
                 </div>
                 <p>Dio parla al plurale, e nella scena non c'è nessun altro. Non sono gli angeli: gli angeli non creano, e l'uomo è fatto a immagine di Dio, non loro. Il versetto seguente torna al singolare: <em>«E Dio creò l'uomo a sua immagine»</em> (Gen 1, 27). Uno solo che dice «noi». Questo versetto, da solo, non prova la Trinità, e la Chiesa non lo usa così. È un annuncio che il resto della Scrittura chiarirà.</p>
                 <h2>Il Primo e l'Ultimo, mandato<br>Isaia 48, 16</h2>
                 <p>In Isaia 48 parla Dio, e si presenta con un titolo che nessun altro può portare: <em>«Sono io, io solo, il primo e anche l'ultimo»</em> (Is 48, 12). È colui che ha fondato la terra e dispiegato i cieli. Quattro versetti dopo, colui che parla dice questo:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Isaia 48, 16</span>
+                    <span class="scripture-ref">✝︎ Isaia 48, 16</span>
                     <blockquote>«Avvicinatevi a me per udire questo: fin dal principio non ho parlato in segreto; da quando queste cose avvengono io sono là. <strong class="s-hi">Ora il Signore Dio ha mandato me insieme con il suo spirito.</strong>»</blockquote>
                 </div>
                 <p>Colui che era là fin dal principio è mandato, e a mandarlo sono il Signore Dio e il suo spirito. In un solo passo dell'Antico Testamento compaiono insieme chi manda, il mandato e lo Spirito. Secoli dopo, l'Apocalisse mette lo stesso titolo sulla bocca di Gesù: <em>«Io sono il Primo e l'Ultimo, e il Vivente. Ero morto, ma ora vivo per sempre»</em> (Ap 1, 17-18).</p>
                 <h2>I tre al Giordano<br>Marco 1, 10-11</h2>
                 <p>Nel battesimo di Gesù l'obiezione dei titoli resta senza posto.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Marco 1, 10-11</span>
+                    <span class="scripture-ref">✝︎ Marco 1, 10-11</span>
                     <blockquote>«E, subito, uscendo dall'acqua, vide squarciarsi i cieli e <strong class="s-hi">lo Spirito discendere verso di lui</strong> come una colomba. E <strong>venne una voce dal cielo</strong>: «<strong class="s-hi">Tu sei il Figlio mio, l'amato</strong>: in te ho posto il mio compiacimento».»</blockquote>
                 </div>
                 <p>Il Figlio esce dall'acqua, lo Spirito scende su di lui e il Padre parla dal cielo, nello stesso momento. Se fossero tre modi in cui si manifesta una sola persona, quella persona sarebbe contemporaneamente nell'acqua, mentre scende su sé stessa e mentre si parla dall'alto. Matteo racconta la stessa scena (Mt 3, 16-17). Nessuno dice «tu» a sé stesso dal cielo.</p>
                 <h2>Il Padre parla al Figlio<br>Ebrei 1, 5</h2>
                 <p>La lettera agli Ebrei ritorna su quella voce per mostrare che il Figlio è al di sopra degli angeli.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Ebrei 1, 5</span>
+                    <span class="scripture-ref">✝︎ Ebrei 1, 5</span>
                     <blockquote>«Infatti, a quale degli angeli Dio ha mai detto: «<strong class="s-hi">Tu sei mio figlio, oggi ti ho generato</strong>»? E ancora: «<strong>Io sarò per lui padre ed egli sarà per me figlio</strong>»?»</blockquote>
                 </div>
                 <p>Uno parla e l'altro è interpellato. E tre versetti più avanti, il Padre chiama Dio il Figlio: <em>«Al Figlio invece dice: Il tuo trono, Dio, sta nei secoli dei secoli»</em> (Eb 1, 8). Il Figlio è Dio, e il Padre, che gli parla, non è lui.</p>
                 <h2>Presso il Padre, prima del mondo<br>Giovanni 17, 5</h2>
                 <p>Per i pentecostali uniti il Figlio comincia a Betlemme: «Figlio» sarebbe il nome dell'umanità di Gesù, e «Padre» quello del Dio che la abita. Giovanni risponde nella sua prima lettera.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Giovanni 1, 2-3</span>
+                    <span class="scripture-ref">✝︎ 1 Giovanni 1, 2-3</span>
                     <blockquote>«la vita infatti si manifestò, noi l'abbiamo veduta e di ciò diamo testimonianza e vi annunciamo <strong class="s-hi">la vita eterna, che era presso il Padre</strong> e che si manifestò a noi. Quello che abbiamo veduto e udito, noi lo annunciamo anche a voi, perché anche voi siate in comunione con noi. E la nostra comunione è <strong>con il Padre e con il Figlio suo, Gesù Cristo</strong>.»</blockquote>
                 </div>
                 <p>Ciò che gli apostoli videro e toccarono era presso il Padre prima di manifestarsi. Nessuno è presso sé stesso. È ciò che Giovanni aveva scritto all'inizio del suo Vangelo: <em>«il Verbo era presso Dio e il Verbo era Dio»</em> (Gv 1, 1). E Gesù lo dice con le sue parole la notte prima di morire:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Giovanni 17, 5</span>
+                    <span class="scripture-ref">✝︎ Giovanni 17, 5</span>
                     <blockquote>«E ora, Padre, glorificami davanti a te <strong class="s-hi">con quella gloria che io avevo presso di te prima che il mondo fosse</strong>.»</blockquote>
                 </div>
                 <p>Gesù chiede al Padre la gloria che aveva presso di lui prima della creazione. Se il Figlio fosse cominciato a Betlemme, non avrebbe una gloria precedente da reclamare, né qualcuno presso cui averla avuta. Nella stessa preghiera insiste: <em>«mi hai amato prima della creazione del mondo»</em> (Gv 17, 24). Prima del mondo c'era uno che amava e un altro che era amato.</p>
                 <h2>Due testimoni<br>Giovanni 8, 16-18</h2>
                 <p>Discutendo con i farisei, Gesù invoca la Legge di Mosè, che non accettava un solo testimone (Dt 19, 15).</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Giovanni 8, 16-18</span>
+                    <span class="scripture-ref">✝︎ Giovanni 8, 16-18</span>
                     <blockquote>«E anche se io giudico, il mio giudizio è vero, perché <strong class="s-hi">non sono solo, ma io e il Padre che mi ha mandato</strong>. E nella vostra Legge sta scritto che <strong>la testimonianza di due persone è vera</strong>. Sono io che do testimonianza di me stesso, e anche il Padre, che mi ha mandato, dà testimonianza di me.»</blockquote>
                 </div>
                 <p>Gesù presenta due testimoni: sé stesso e il Padre. Se fossero una sola persona con due nomi, farebbe passare un testimone per due, e il suo argomento davanti ai farisei sarebbe un inganno. Gesù ne conta due. I pentecostali uniti ne contano uno.</p>
@@ -326,31 +326,31 @@ const translationsIT = {
                 <h2>Un altro Paràclito<br>Giovanni 14, 16-17</h2>
                 <p>Sullo Spirito Santo, la parola decisiva la dice Gesù nell'ultima cena.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Giovanni 14, 16-17</span>
+                    <span class="scripture-ref">✝︎ Giovanni 14, 16-17</span>
                     <blockquote>«Io pregherò il Padre ed egli vi darà <strong class="s-hi">un altro Paràclito</strong> perché rimanga con voi per sempre, <strong>lo Spirito della verità</strong>, che il mondo non può ricevere perché non lo vede e non lo conosce. Voi lo conoscete perché egli rimane presso di voi e sarà in voi.»</blockquote>
                 </div>
                 <p>Il Figlio prega, il Padre dà, e ciò che dà è un altro Paràclito. Il Paràclito è colui che accompagna e difende; Gesù lo era stato per i suoi discepoli per tre anni, e ora ne annuncia un altro. Se lo Spirito Santo fosse Gesù con un altro nome, non sarebbe un altro. Nei capitoli seguenti ciascuno compare con ciò che gli è proprio: lo Spirito Santo è quello <em>«che il Padre manderà nel mio nome»</em> (Gv 14, 26), e <em>«non parlerà da se stesso, ma dirà tutto ciò che avrà udito»</em> (Gv 16, 13).</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Giovanni 15, 26</span>
+                    <span class="scripture-ref">✝︎ Giovanni 15, 26</span>
                     <blockquote>«Quando verrà <strong class="s-hi">il Paràclito, che io vi manderò dal Padre</strong>, lo Spirito della verità che procede dal Padre, <strong>egli darà testimonianza di me</strong>.»</blockquote>
                 </div>
                 <p>In un solo versetto il Figlio manda, lo Spirito procede dal Padre e lo Spirito dà testimonianza del Figlio. Sono tre soggetti in una frase, e nessuno è un titolo di un altro. Colui che ode, parla, è mandato e dà testimonianza non è una forza né un modo. È qualcuno.</p>
                 <h2>Nel nome del Padre, del Figlio e dello Spirito Santo<br>Matteo 28, 19</h2>
                 <p>Resta il battesimo. I pentecostali uniti rifiutano la formula trinitaria e battezzano «nel nome di Gesù», appoggiandosi a passi come questo:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Atti 19, 2-5</span>
+                    <span class="scripture-ref">✝︎ Atti 19, 2-5</span>
                     <blockquote>«e disse loro: «<strong class="s-hi">Avete ricevuto lo Spirito Santo quando siete venuti alla fede?</strong>». Gli risposero: «<strong>Non abbiamo nemmeno sentito dire che esista uno Spirito Santo</strong>». Ed egli disse: «Quale battesimo avete ricevuto?». «Il battesimo di Giovanni», risposero. Disse allora Paolo: «Giovanni battezzò con un battesimo di conversione, dicendo al popolo di credere in colui che veniva dopo di lui, cioè in Gesù». Udito questo, si fecero battezzare nel nome del Signore Gesù.»</blockquote>
                 </div>
                 <p>Il passo serve al contrario. La prima cosa che Paolo chiede è se hanno ricevuto lo Spirito Santo. Quando rispondono che non sanno nemmeno che esista, capisce che il battesimo che hanno non è quello cristiano, e chiede quale hanno ricevuto: quello di Giovanni. «Nel nome del Signore Gesù» è ciò che separa un battesimo dall'altro. Luca non sta trascrivendo le parole pronunciate sull'acqua. Quelle parole le ha date Gesù:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matteo 28, 19</span>
+                    <span class="scripture-ref">✝︎ Matteo 28, 19</span>
                     <blockquote>«Andate dunque e fate discepoli tutti i popoli, battezzandoli <strong class="s-hi">nel nome del Padre e del Figlio e dello Spirito Santo</strong>…»</blockquote>
                 </div>
                 <p>«Nel nome», al singolare, e poi tre. Un solo nome, perché Dio è uno. Tre nominati, perché sono tre. È la formula che la Chiesa ha ricevuto da Gesù e con cui battezza ancora oggi.</p>
                 <h2>I tre nel saluto degli apostoli<br>2 Corinzi 13, 13</h2>
                 <p>Paolo chiude la sua seconda lettera ai Corinzi con questa benedizione.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 2 Corinzi 13, 13</span>
+                    <span class="scripture-ref">✝︎ 2 Corinzi 13, 13</span>
                     <blockquote>«<strong class="s-hi">La grazia del Signore Gesù Cristo, l'amore di Dio e la comunione dello Spirito Santo</strong> siano con tutti voi.»</blockquote>
                 </div>
                 <p>I tre, uno accanto all'altro, ciascuno con ciò che dà. Non è una frase isolata. Nella prima lettera ai Corinzi i carismi vengono dal <em>«medesimo Spirito»</em>, i ministeri dal <em>«medesimo Signore»</em> e le attività dal <em>«medesimo Dio»</em> (1 Cor 12, 4-6). Agli Efesini scrive: <em>«un solo Spirito… un solo Signore… un solo Dio e Padre di tutti»</em> (Ef 4, 4-6). E Pietro apre la sua prima lettera allo stesso modo: <em>«secondo il piano stabilito da Dio Padre, mediante lo Spirito che santifica, per obbedire a Gesù Cristo»</em> (1 Pt 1, 2). Gli apostoli nominavano i tre già nel saluto.</p>
@@ -374,7 +374,7 @@ const translationsIT = {
             <h2>La conoscenza si perfeziona dopo la morte<br>1 Corinzi 13:9-13</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ 1 Corinzi 13:9-13</span>
+                <span class="scripture-ref">✝︎ 1 Corinzi 13:9-13</span>
                 <blockquote>«Poiché <strong class="s-hi">la nostra conoscenza è imperfetta</strong> e imperfetta è la nostra profezia. Ma quando verrà ciò che è perfetto, quello che è imperfetto scomparirà. Quand'ero bambino, parlavo da bambino, pensavo da bambino, ragionavo da bambino; divenuto uomo, ho smesso le cose da bambino. Ora vediamo come in uno specchio, in modo confuso; ma allora vedremo faccia a faccia. Ora conosco in modo imperfetto, ma allora <strong class="s-hi">conoscerò come anch'io sono conosciuto.</strong> Ora dunque rimangono queste tre cose: la fede, la speranza e la carità; ma la più grande di tutte è la carità.»</blockquote>
             </div>
 
@@ -383,7 +383,7 @@ const translationsIT = {
             <h2>Dopo la morte, vedremo Dio così com'è<br>1 Giovanni 3:2</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ 1 Giovanni 3:2</span>
+                <span class="scripture-ref">✝︎ 1 Giovanni 3:2</span>
                 <blockquote>«Carissimi, noi fin d'ora siamo figli di Dio, ma ciò che saremo non è stato ancora rivelato. Sappiamo però che quando egli si sarà manifestato, <strong class="s-hi">noi saremo simili a lui, perché lo vedremo così come egli è.</strong>»</blockquote>
             </div>
 
@@ -392,7 +392,7 @@ const translationsIT = {
             <h2>Dopo la morte viene il cielo<br>Giovanni 14:1-4</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ Giovanni 14:1-4</span>
+                <span class="scripture-ref">✝︎ Giovanni 14:1-4</span>
                 <blockquote>«Non sia turbato il vostro cuore. Abbiate fede in Dio e abbiate fede anche in me. <strong class="s-hi">Nella casa del Padre mio vi sono molti posti</strong>; se no, ve l'avrei detto. Io vado a prepararvi un posto; quando sarò andato e vi avrò preparato un posto, <strong class="s-hi">ritornerò e vi prenderò con me, perché siate anche voi dove sono io.</strong> E del luogo dove io vado, voi conoscete la via.»</blockquote>
             </div>
 
@@ -401,7 +401,7 @@ const translationsIT = {
             <h2>I santi: la grande nube di testimoni<br>Ebrei 11:1 — 12:3</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ Ebrei 11:1 — 12:3</span>
+                <span class="scripture-ref">✝︎ Ebrei 11:1 — 12:3</span>
                 <blockquote>«<strong class="s-hi">La fede è fondamento delle cose che si sperano e prova di quelle che non si vedono. Per mezzo di questa fede gli antichi ricevettero buona testimonianza.</strong><br><br>Per fede, <strong class="s-name">Abele</strong> offrì a Dio un sacrificio migliore di quello di Caino e in base ad essa fu dichiarato giusto; e per essa, benché morto, parla ancora. Per fede, <strong class="s-name">Enoc</strong> fu portato via, in modo da non vedere la morte. Per fede, <strong class="s-name">Noè</strong> costruì un'arca a salvezza della sua famiglia. Per fede, <strong class="s-name">Abramo</strong> obbedì partendo per un luogo che doveva ricevere in eredità, e partì senza sapere dove andava. Per fede anche <strong class="s-name">Sara</strong> ricevette la possibilità di diventare madre.<br><br>Nella fede morirono tutti costoro, senza aver conseguito i beni promessi, ma avendoli veduti e salutati solo da lontano, dichiarando di essere stranieri e pellegrini sulla terra. <strong class="s-hi">Essi aspiravano a una patria migliore, cioè a quella celeste.</strong><br><br>Per fede, <strong class="s-name">Mosè</strong>, divenuto adulto, rifiutò di esser chiamato figlio della figlia del faraone, preferendo essere maltrattato con il popolo di Dio. E che dirò ancora? Mi mancherebbe il tempo, se volessi narrare di <strong class="s-name">Gedeone, Barak, Sansone, Iefte, Davide, Samuele e dei profeti,</strong> i quali per fede conquistarono regni, esercitarono la giustizia, ottennero le promesse, chiusero le fauci dei leoni. Eppure, tutti costoro, pur avendo ricevuto per la loro fede una buona testimonianza, non conseguirono la promessa: Dio aveva in vista qualcosa di meglio per noi, perché essi non ottenessero la perfezione senza di noi.<br><br>Anche noi dunque, <strong class="s-hi">circondati da un così gran nugolo di testimoni,</strong> deposto tutto ciò che è di peso e il peccato che ci assedia, <strong class="s-hi">corriamo con perseveranza nella corsa che ci sta davanti,</strong> tenendo fisso lo sguardo su Gesù, autore e perfezionatore della fede.»</blockquote>
             </div>
 
@@ -410,7 +410,7 @@ const translationsIT = {
             <h2>L'anima non dorme — Cristo predicò agli spiriti<br>1 Pietro 3:18-22</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ 1 Pietro 3:18-22</span>
+                <span class="scripture-ref">✝︎ 1 Pietro 3:18-22</span>
                 <blockquote>«<strong class="s-hi">Cristo è morto</strong> una volta per sempre per i peccati, giusto per gli ingiusti, per ricondurvi a Dio; messo a morte nella carne, ma <strong class="s-hi">reso vivo nello spirito. E nello spirito andò ad annunziare la salvezza anche agli spiriti che attendevano in prigione,</strong> essi che un tempo non avevano creduto, quando Dio, nella sua pazienza, aspettava ai giorni di Noè mentre si fabbricava l'arca, nella quale poche persone, otto in tutto, furono salvate per mezzo dell'acqua. Quest'acqua era figura del battesimo, che <strong class="s-hi">ora salva voi</strong>; esso non è rimozione di sporcizia del corpo, ma invocazione di salvezza rivolta a Dio da parte di una buona coscienza, in virtù della risurrezione di Gesù Cristo, il quale è alla destra di Dio, dopo essere salito al cielo.»</blockquote>
             </div>
 
@@ -419,7 +419,7 @@ const translationsIT = {
             <h2>I santi sono nella Gerusalemme celeste<br>Ebrei 12:22-24</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ Ebrei 12:22-24</span>
+                <span class="scripture-ref">✝︎ Ebrei 12:22-24</span>
                 <blockquote>«Voi vi siete invece accostati al monte di Sion e alla città del Dio vivente, <strong class="s-hi">alla Gerusalemme celeste</strong> e a miriadi di angeli, all'adunanza festosa e all'assemblea dei primogeniti iscritti nei cieli, al Dio giudice di tutti e <strong class="s-hi">agli spiriti dei giusti portati alla perfezione,</strong> al Mediatore della Nuova Alleanza, Gesù, e al sangue dell'aspersione dalla voce più eloquente di quello di Abele.»</blockquote>
             </div>
 
@@ -428,7 +428,7 @@ const translationsIT = {
             <h2>I santi portano le preghiere davanti al trono<br>Apocalisse 5:8</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ Apocalisse 5:8</span>
+                <span class="scripture-ref">✝︎ Apocalisse 5:8</span>
                 <blockquote>«E quando l'ebbe preso, i quattro esseri viventi e i ventiquattro vegliardi si prostrarono davanti all'Agnello, avendo ciascuno un'arpa e <strong class="s-hi">coppe d'oro colme di profumi, che sono le preghiere dei santi.</strong>»</blockquote>
             </div>
 
@@ -445,34 +445,34 @@ const translationsIT = {
       pageTitle: "Perché crediamo | Fede e Ragione",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>Perché crediamo nella fede cattolica</h1><p>Perché crediamo? Non per abitudine. Perché lo hanno testimoniato, lo abbiamo indagato, e la Bibbia stessa indica la Chiesa che Gesù ha fondato.</p><div class="article-meta"><span>15 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
       article: `<p>Perché crediamo? Non per cieca tradizione né per abitudine familiare. Crediamo perché la Parola di Dio è stata testimoniata, trasmessa fedelmente e continua a essere verità. San Luca lo dice fin dall'inizio: ha fatto ricerche accurate su ogni circostanza fin dagli inizi, affinché conosciamo la solidità degli insegnamenti (Lc 1:1-4). Questo è ciò che faremo qui.</p><h2>La Parola è stata testimoniata<br>Luca 1:1-4 e Giovanni 11:25-27</h2><p>Luca ci dice che molti hanno cercato di raccontare gli avvenimenti accaduti tra noi, <em>«come ce li hanno trasmessi coloro che ne furono testimoni oculari fin da principio e divennero ministri della Parola»</em> (Lc 1:2). Non sono leggende: sono testimonianze. Ciò che Gesù disse, visse e insegnò fu visto e trasmesso da testimoni reali.</p><p>Marta, davanti alla tomba di suo fratello, lo riconosce senza esitare: <em>«Sì, o Signore, io credo che tu sei il Cristo, il Figlio di Dio, colui che doveva venire nel mondo»</em> (Gv 11:27). La fede non è irrazionale: è la risposta a una rivelazione verificata da coloro che l'hanno vissuta.</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Luca 1:4</span>
+                    <span class="scripture-ref">✝︎ Luca 1:4</span>
                     <blockquote>«Perché tu ti renda conto della solidità degli insegnamenti che hai ricevuto.»</blockquote>
                 </div><h2>Bisogna leggere la Parola di Dio<br>Luca 8:5-8, 8:11-12 e Salmo 119</h2><p>La parabola del seminatore lo chiarisce: <em>«Il seme è la Parola di Dio»</em> (Lc 8:11). Il diavolo sa che la Parola di Dio fa germogliare la salvezza, per questo la porta via, la soffoca e la schiaccia (Lc 8:12). Non è un caso che il nemico combatta contro la sua lettura.</p><p>Il Salmo 119:72 afferma che la legge di Dio vale più di mille pezzi d'oro e d'argento. E se qualcuno chiede cosa ci guadagna a leggere la Bibbia, San Paolo risponde: <em>«Fin dall'infanzia conosci le Sacre Scritture: queste possono istruirti per la salvezza, che si ottiene mediante la fede in Cristo Gesù»</em> (2 Tim 3:15).</p><p>Il Salmo 119:103-105 dà l'immagine più bella: <em>«Quanto sono dolci al mio palato le tue promesse, più del miele per la mia bocca... Lampada per i miei passi è la tua parola, luce sul mio cammino.»</em> Chi non legge la Parola di Dio cammina nelle tenebre.</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Salmo 119:105</span>
+                    <span class="scripture-ref">✝︎ Salmo 119:105</span>
                     <blockquote>«Lampada per i miei passi è la tua parola, luce sul mio cammino.»</blockquote>
                 </div><h2>La Parola è di Dio<br>2 Pietro 1:19 e Giovanni 17:17</h2><p>Questa non è un'opinione umana. San Pietro lo afferma: la parola dei profeti è la parola di Dio (2 Pt 1:19). E lo stesso Gesù, nella sua preghiera al Padre, lo conferma: <em>«La tua parola è verità»</em> (Gv 17:17). E Gesù stesso l'ha detto: <em>«Beati piuttosto coloro che ascoltano la Parola di Dio e la osservano»</em> (Lc 11:28). Non ha detto coloro che la conoscono o che la citano; ha detto coloro che la <strong>osservano</strong>.</p><h2>La fede è fare ciò che Egli dice<br>Luca 5:5 e Giovanni 2:5</h2><p>Pietro aveva pescato tutta la notte e non aveva preso nulla. Per la sua esperienza umana, gettare le reti di giorno non aveva alcun senso. Ma disse qualcosa che riassume tutta la fede: <em>«Maestro, abbiamo faticato tutta la notte e non abbiamo preso nulla; ma sulla tua parola getterò le reti»</em> (Lc 5:5). E per questo, precisamente, Gesù lo fece pescatore di uomini, lui e non gli altri (Lc 5:10).</p><p>A Cana, la Vergine Maria dà l'istruzione definitiva ai servi: <em>«Qualsiasi cosa vi dica, fatela»</em> (Gv 2:5). Le giare furono riempite d'acqua, ma si trasformarono in vino quando i servi compirono i suoi ordini fino in fondo (Gv 2:8). La fede non è solo credere: è compiere. Vedi il tema dell'Eucaristia da Matteo 8:5 e quello della Transustanziazione da 1 Corinzi 10:16.</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Luca 5:5</span>
+                    <span class="scripture-ref">✝︎ Luca 5:5</span>
                     <blockquote>«Sulla tua parola getterò le reti.»</blockquote>
                 </div><h2>Da dove viene la tua Bibbia?<br>La Sola scriptura e i suoi problemi</h2><p>C'è chi dice: «Solo la Bibbia è la regola di fede. La Bibbia è sufficiente.» Bene. Andiamo alla Bibbia.</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ 2 Timoteo 3:16-17</span>
+                    <span class="scripture-ref">✝︎ 2 Timoteo 3:16-17</span>
                     <blockquote>«<strong class="s-hi">Tutta la Scrittura, ispirata da Dio, è anche utile per insegnare, convincere, correggere e formare alla giustizia</strong>, perché l'uomo di Dio sia completo e ben preparato per ogni opera buona.»</blockquote>
                 </div><p>La parola che Paolo usa è «utile» — in greco ὠφέλιμος — non «esclusiva» né «unica regola di fede». Il versetto non dice mai che la Scrittura da sola sia sufficiente per tutto. E c'è una cosa più importante: se l'unico criterio di verità fosse «ciò che dice la Bibbia», allora la Sola scriptura dovrebbe essere nella Bibbia per essere valida. E non c'è. L'argomento si distrugge da solo con il suo stesso criterio.</p><h2>Chi ha fissato il canone?<br>Il problema a cui la Sola scriptura non può rispondere</h2><p>Il Nuovo Testamento non è arrivato con un indice. Durante i primi secoli, comunità diverse usavano testi diversi. Come si è deciso cosa è Parola di Dio e cosa non lo è? La Chiesa Cattolica, nei concili di Ippona (393 d.C.) e Cartagine (397 d.C.), ha determinato il canone biblico che il mondo cristiano usa fino ad oggi. Chi rifiuta l'autorità della Chiesa Cattolica per insegnare la dottrina si sta fidando di quella stessa Chiesa per sapere quali libri leggere. Non è possibile avere coerenza altrimenti.</p><h2>La Tradizione orale è biblica<br>2 Tessalonicesi 2:15 e 2 Timoteo 2:2</h2><p>Paolo non ha insegnato solo per lettera. Ha ordinato di custodire anche la tradizione orale:</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ 2 Tessalonicesi 2:15</span>
+                    <span class="scripture-ref">✝︎ 2 Tessalonicesi 2:15</span>
                     <blockquote>«Perciò, fratelli, <strong class="s-hi">state saldi e mantenete le tradizioni che avete appreso così dalla nostra parola come dalla nostra lettera.</strong>»</blockquote>
                 </div><p>E ha incaricato che questa tradizione venisse trasmessa di generazione in generazione:</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ 2 Timoteo 2:2</span>
+                    <span class="scripture-ref">✝︎ 2 Timoteo 2:2</span>
                     <blockquote>«<strong class="s-hi">Le cose che hai udito da me davanti a molti testimoni, trasmettile a persone fidate, le quali siano in grado di insegnarle anche ad altri.</strong>»</blockquote>
                 </div><p>Quattro generazioni di trasmissione in un solo versetto: Paolo → Timoteo → persone fidate → altri. E lo stesso Giovanni lo riconosce alla fine del suo Vangelo:</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Giovanni 21:25</span>
+                    <span class="scripture-ref">✝︎ Giovanni 21:25</span>
                     <blockquote>«<strong class="s-hi">Vi sono ancora molte altre cose compiute da Gesù che, se fossero scritte una per una, penso che il mondo stesso non basterebbe a contenere i libri che si dovrebbero scrivere.</strong>»</blockquote>
                 </div><p>Gesù stesso non ha scritto una sola riga. Ha inviato apostoli a predicare, non a scrivere.</p><h2>L'interpretazione privata è vietata dalla Bibbia<br>2 Pietro 1:20-21</h2><p>Pietro lo dice chiaramente:</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ 2 Pietro 1:20-21</span>
+                    <span class="scripture-ref">✝︎ 2 Pietro 1:20-21</span>
                     <blockquote>«<strong class="s-hi">Sappiate anzitutto questo: nessuna profezia della Scrittura è oggetto di interpretazione privata</strong>, poiché nessuna profezia è mai derivata dalla volontà dell'uomo; ma uomini, mossi dallo Spirito Santo, hanno parlato da parte di Dio.»</blockquote>
                 </div><p>Dal 1517, ci sono più di 45.000 denominazioni diverse che leggono la stessa Bibbia e giungono a conclusioni opposte su battesimo, Eucaristia, salvezza e morale. Gesù pregò per qualcosa di diverso: <em>«<strong>perché tutti siano una sola cosa</strong>»</em> (Gv 17:21). La domanda s'impone: può lo Spirito Santo guidare simultaneamente verso tutte queste posizioni contraddittorie?</p><h2>La Chiesa è colonna della verità<br>1 Timoteo 3:15 e Matteo 16:18</h2><p>La Bibbia non definisce se stessa colonna della verità. Chiama così la Chiesa:</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Timoteo 3:15</span>
+                    <span class="scripture-ref">✝︎ 1 Timoteo 3:15</span>
                     <blockquote>«La Chiesa del Dio vivente, <strong class="s-hi">colonna e sostegno della verità.</strong>»</blockquote>
                 </div><p>E Gesù le ha fatto una promessa istituzionale:</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Matteo 16:18</span>
+                    <span class="scripture-ref">✝︎ Matteo 16:18</span>
                     <blockquote>«E io a te dico: tu sei Pietro e su questa pietra edificherò la mia Chiesa <strong class="s-hi">e le potenze degli inferi non prevarranno su di essa.</strong>»</blockquote>
                 </div><p>Questa promessa protegge il Magistero — l'insegnamento ufficiale della Chiesa — dall'insegnare l'errore definitivamente. Non significa che ogni membro sia impeccabile. Significa che la verità che Cristo ha affidato alla sua Chiesa non può essere distrutta.</p><h2>Conclusione: credere e compiere</h2><p>La Parola dei profeti è di Dio. Gli apostoli l'hanno testimoniata. Bisogna leggerla tutta — compreso ciò che dice sulla Tradizione orale, su chi interpreta e sulla Chiesa che Cristo ha fondato. E bisogna fare ciò che Dio dice: questa è la fede. Non chi dice «Signore, Signore» si salverà, ma colui che fa la volontà del Padre (Mt 7:21). La Bibbia, letta per intero e con onestà, indica la stessa Chiesa che Gesù ha fondato. Credere è fidarsi di Gesù Cristo anche se l'esperienza umana dice il contrario, come ha fatto Pietro sul lago. E quell'atto di fiducia cambia tutto.</p>`,
       nav: { prevTitle: "La Santissima Trinità", nextTitle: "Il primato di Pietro" }
@@ -481,28 +481,28 @@ const translationsIT = {
       pageTitle: "Il Sacerdozio | Fede e Ragione",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>Il Sacerdozio nella Chiesa Cattolica</h1><p>Esiste un sacerdozio ordinato nel Nuovo Testamento? La Bibbia risponde — e la risposta non lascia dubbi.</p><div class="article-meta"><span>11 min di lettura</span><span>Pubblicato a maggio 2026</span></div><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
       article: `<p>C'è una domanda che non può rimanere senza risposta: Gesù disse <em>«A coloro a cui perdonerete i peccati, saranno perdonati; a coloro a cui li riterrete, saranno ritenuti»</em> (Gv 20:23). A chi ha parlato? E come si ritengono i peccati di qualcuno senza sapere quali sono? Questo richiede la confessione. Questo richiede un sacerdote con l'autorità di perdonare. Procediamo con ordine.</p><h2>Un uomo preso fra gli uomini<br>Eb 5:1-2</h2><p>La lettera agli Ebrei è chiara fin dal principio:</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Ebrei 5:1-2</span>
+                    <span class="scripture-ref">✝︎ Ebrei 5:1-2</span>
                     <blockquote>«<strong class="s-hi">Ogni sommo sacerdote, infatti, è scelto fra gli uomini</strong> e per gli uomini viene costituito tale nelle cose che riguardano Dio, per offrire doni e sacrifici per i peccati. Egli è in grado di sentire giusta compassione per quelli che sono nell'ignoranza e nell'errore, essendo anche lui rivestito di debolezza.»</blockquote>
                 </div><p>Il sacerdote non è al di sopra della condizione umana. Condivide le stesse lotte, tentazioni e debolezze di qualsiasi credente. Questa è la base della compassione pastorale: nessuno può accompagnare genuinamente l'altro in ciò che non conosce. Il sacerdote può compatire perché anche lui lotta.</p><h2>Santo per Dio, non per merito proprio<br>Lv 21:6-8</h2><p>Nel Levitico, Dio stabilisce che i sacerdoti debbano essere considerati santi. Ma la santità che viene loro richiesta non è perfezione morale assoluta, bensì consacrazione: sono messi da parte per Dio e per il suo servizio:</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Levitico 21:6-8</span>
+                    <span class="scripture-ref">✝︎ Levitico 21:6-8</span>
                     <blockquote>«Saranno santi per il loro Dio e non profaneranno il nome del loro Dio... <strong class="s-hi">Tu lo considererai santo, perché io, il Signore che vi santifico, sono santo.</strong>»</blockquote>
                 </div><p>Il popolo deve considerare santo il sacerdote non per i suoi meriti, ma per Dio. La santità del ministero viene da Colui che lo ha istituito. Questo ci libera da un'aspettativa sbagliata: la nostra fede non riposa sulla virtù del ministro, ma sulla fedeltà di Dio.</p><h2>«Siamo tutti sacerdoti» — l'obiezione e il suo limite<br>1 Pietro 2:9 ed Ebrei 5:4</h2><p>San Pietro lo dice con chiarezza:</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Pietro 2:9</span>
+                    <span class="scripture-ref">✝︎ 1 Pietro 2:9</span>
                     <blockquote>«<strong class="s-hi">Ma voi siete la stirpe eletta, il sacerdozio regale, la nazione santa</strong>, il popolo che Dio si è acquistato perché proclami le opere ammirevoli di colui che vi ha chiamato dalle tenebre alla sua luce meravigliosa.»</blockquote>
                 </div><p>Il sacerdozio battesimale è reale. Nessuno lo nega. Ma ci sono due sacerdozi nel Nuovo Testamento, non uno. La stessa lettera agli Ebrei lo distingue con precisione:</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Ebrei 5:4</span>
+                    <span class="scripture-ref">✝︎ Ebrei 5:4</span>
                     <blockquote>«<strong class="s-hi">Nessuno può attribuire a se stesso questo onore, se non chi è chiamato da Dio, come Aronne.</strong>»</blockquote>
                 </div><p>C'è un sacerdozio che si riceve nel battesimo, e ce n'è un altro che richiede una chiamata e una consacrazione specifica. Questa non è un'invenzione tardiva. Quando Core e la sua gente sostennero che <em>«tutta la comunità è santa, tutti, e il Signore è in mezzo a loro»</em> (Nm 16:3) — reclamando l'accesso al sacerdozio ministeriale senza vocazione — Dio rispose facendo aprire la terra sotto i loro piedi. E si trova nel Nuovo Testamento:</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Atti 14:23</span>
+                    <span class="scripture-ref">✝︎ Atti 14:23</span>
                     <blockquote>«<strong class="s-hi">Costituirono per loro presbiteri in ogni Chiesa</strong> e, dopo aver pregato e digiunato, li affidarono al Signore, nel quale avevano creduto.»</blockquote>
                 </div><p>Paolo ordina a Tito: <em>«Per questo ti ho lasciato a Creta, perché tu regoli ciò che rimane da fare e <strong>stabilisca presbiteri in ogni città</strong>»</em> (Tt 1:5). A Timoteo ricorda: <em>«Non trascurare il dono spirituale che è in te e che ti è stato conferito, mediante una profezia, con <strong>l'imposizione delle mani da parte dei presbiteri</strong>»</em> (1 Tim 4:14). Questa è struttura, non metafora.</p><h2>«Non chiamate nessuno padre» — risposta biblica<br>Matteo 23:9</h2><p>Gesù dice in Matteo 23:9: <em>«<strong>E non chiamate nessuno "padre" sulla terra</strong>, perché uno solo è il Padre vostro, quello celeste.»</em> Chi usa questo versetto contro il sacerdozio cattolico ha un problema: la stessa Bibbia lo contraddice in diversi passaggi.</p><p>San Paolo chiama se stesso padre: <em>«Potreste infatti avere anche diecimila pedagoghi in Cristo, ma non certo molti padri: <strong>sono io che vi ho generato in Cristo Gesù mediante il Vangelo</strong>»</em> (1 Cor 4:15). Stefano, davanti a coloro che lo avrebbero lapidato, li chiama: <em>«<strong>Fratelli e padri</strong>, ascoltate»</em> (At 7:2). Abramo è chiamato ripetutamente <em>«padre della circoncisione»</em> (Rm 4:12). Lo stesso Gesù parla del padre di ciascuno (Mt 7:11, Lc 15:11-32).</p><p>Matteo 23:9 non proibisce l'uso grammaticale della parola: proibisce l'idolatria dell'autorità umana, il mettere un uomo al posto di Dio. Il contesto lo dice: Gesù parla contro i farisei che cercano onori e titoli per se stessi.</p><h2>Il perdono dei peccati — Giovanni 20:22-23</h2><p>Torniamo al punto di partenza. Gesù risorto appare agli apostoli, alita su di loro — lo stesso gesto della Genesi 2:7 quando diede vita all'uomo di fango — e dice loro:</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Giovanni 20:22-23</span>
+                    <span class="scripture-ref">✝︎ Giovanni 20:22-23</span>
                     <blockquote>«Ricevete lo Spirito Santo. <strong class="s-hi">A coloro a cui perdonerete i peccati, saranno perdonati; a coloro a cui li riterrete, saranno ritenuti.</strong>»</blockquote>
                 </div><p>Come si ritengono i peccati di qualcuno senza sapere quali sono? Non è possibile. Questo versetto esige che il penitente dichiari i suoi peccati. Questa è la confessione sacramentale, istituita da Cristo stesso.</p><h2>L'altare e il sacrificio nel Nuovo Testamento<br>Eb 13:10 e Ml 1:11</h2><p>Se non c'è sacerdozio né sacrificio nel Nuovo Testamento, perché la lettera agli Ebrei dice questo?</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Ebrei 13:10</span>
+                    <span class="scripture-ref">✝︎ Ebrei 13:10</span>
                     <blockquote>«<strong class="s-hi">Noi abbiamo un altare</strong> del quale non hanno alcun diritto di mangiare quelli che sono al servizio del tabernacolo.»</blockquote>
                 </div><p>E il profeta Malachia, secoli prima di Cristo, annunciò:</p><div class="scripture-block">
-                    <span class="scripture-ref">✝ Malachia 1:11</span>
+                    <span class="scripture-ref">✝︎ Malachia 1:11</span>
                     <blockquote>«Dall'oriente all'occidente grande è il mio nome fra le genti e <strong class="s-hi">in ogni luogo è offerto incenso al mio nome e un'oblazione pura</strong>, perché grande è il mio nome fra le genti, dice il Signore degli eserciti.»</blockquote>
                 </div><p>Un'offerta pura in ogni luogo della terra. I Padri dei primi secoli riconobbero in questo l'Eucaristia — l'unico sacrificio che compie quella profezia.</p><h2>Cosa ci insegna la Scrittura</h2><ul><li>Il sacerdote è un uomo come tutti, che può lottare e sbagliare.</li><li>La sua autorità e santità provengono da Dio, non dai suoi meriti personali.</li><li>La validità dei sacramenti non dipende dalla santità personale del ministro.</li><li>Il sacerdozio ministeriale ordinato è nel Nuovo Testamento: At 14:23, Tt 1:5, 1 Tim 4:14.</li><li>Il perdono sacramentale fu istituito da Cristo in Giovanni 20:22-23.</li></ul><p>Se si prende la Bibbia per intero — non brani isolati — si trova il sacerdozio ordinato, la confessione, il sacrificio e l'altare. La domanda non è se si trovi nella Bibbia. C'è. La domanda è se si è disposti a leggere tutto.</p>`,
       nav: { prevTitle: "Transustanziazione: il mistero eucaristico", nextTitle: "I santi e la loro intercessione" }
@@ -525,14 +525,14 @@ const translationsIT = {
                 <h2>La Parola non descrive: fa<br>Giovanni 1,1-3</h2>
                 <p>Prima di discutere che cosa possa accadere al pane bisogna sapere che cos'è una parola di Dio.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Giovanni 1,1-3</span>
+                    <span class="scripture-ref">✝︎ Giovanni 1,1-3</span>
                     <blockquote>«In principio era <strong class="s-hi">il Verbo</strong>, e il Verbo era presso Dio e <strong class="s-hi">il Verbo era Dio</strong>. Egli era, in principio, presso Dio: <strong class="s-hi">tutto è stato fatto per mezzo di lui</strong> e senza di lui nulla è stato fatto di ciò che esiste.»</blockquote>
                 </div>
                 <p>La Parola di Dio non descrive la realtà: la causa. Nulla di ciò che esiste esisteva prima che essa lo dicesse, e tutto ciò che esiste esiste perché essa lo ha detto. Questo è il punto di partenza, e non è cosa da poco: chiedere come il pane possa smettere di essere pane è chiedere, con altre parole, come il nulla abbia potuto smettere di essere nulla. È già accaduto una volta. È accaduto per la stessa ragione.</p>
                 <h2>Cana: l'acqua cambiò quando gli obbedirono<br>Giovanni 2,6-9</h2>
                 <p>C'è un caso in cui quella Parola agisce davanti a testimoni e sopra una sostanza concreta.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Giovanni 2,6-9</span>
+                    <span class="scripture-ref">✝︎ Giovanni 2,6-9</span>
                     <blockquote>«Vi erano là sei anfore di pietra per la purificazione rituale dei Giudei, contenenti ciascuna da ottanta a centoventi litri. E Gesù disse loro: <strong class="s-hi">«Riempite d'acqua le anfore».</strong> E le riempirono fino all'orlo. Disse loro di nuovo: «Ora prendetene e portatene a colui che dirige il banchetto». <strong class="s-hi">Ed essi gliene portarono.</strong> Come ebbe assaggiato <strong class="s-hi">l'acqua diventata vino</strong>, colui che dirigeva il banchetto — il quale non sapeva da dove venisse, ma <strong class="s-hi">lo sapevano i servitori che avevano preso l'acqua</strong> — chiamò lo sposo.»</blockquote>
                 </div>
                 <p>Conviene guardare dov'è il miracolo. Gesù non tocca l'acqua. Non fa un gesto sopra le anfore né pronuncia una formula su di esse. Dà un ordine — «riempite», «prendete» — e alcuni servitori lo eseguono. Fra l'ordine eseguito e la coppa del maestro di tavola, l'acqua ha smesso di essere acqua. Ciò che ha cambiato la sostanza è stata una parola obbedita.</p>
@@ -540,7 +540,7 @@ const translationsIT = {
                 <h2>La stessa bocca, la stessa formula<br>Giovanni 6,47-51</h2>
                 <p>Colui che ordinò di riempire le anfore dice poi questo:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Giovanni 6,47-51</span>
+                    <span class="scripture-ref">✝︎ Giovanni 6,47-51</span>
                     <blockquote>«<strong class="s-hi">In verità, in verità io vi dico</strong>: chi crede ha la vita eterna. <strong class="s-hi">Io sono il pane della vita.</strong> I vostri padri hanno mangiato la manna nel deserto e sono morti; questo è il pane che discende dal cielo, perché chi ne mangia non muoia. Io sono il pane vivo, disceso dal cielo. Se uno mangia di questo pane vivrà in eterno e il pane che io darò è <strong class="s-hi">la mia carne</strong> per la vita del mondo.»</blockquote>
                 </div>
                 <p>«In verità, in verità io vi dico» è la formula con cui Cristo introduce ciò che non ammette discussione, e dietro non viene un paragone ma un'identificazione: «io sono», non «io rappresento». Se quella parola ha cambiato l'acqua in vino senza che nessuno ne vedesse il momento, questa non ha bisogno di meno. È la stessa bocca ed è la stessa specie di parola.</p>
@@ -548,14 +548,14 @@ const translationsIT = {
                 <h2>Paolo non dice simbolo: dice comunione<br>1 Corinzi 10,16</h2>
                 <p>Paolo scrive prima che venga composto il Vangelo di Giovanni, e arriva allo stesso punto per conto suo.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Corinzi 10,16</span>
+                    <span class="scripture-ref">✝︎ 1 Corinzi 10,16</span>
                     <blockquote>«Il calice della benedizione che noi benediciamo, non è forse <strong class="s-hi">comunione con il sangue di Cristo</strong>? E il pane che noi spezziamo, non è forse <strong class="s-hi">comunione con il corpo di Cristo</strong>?»</blockquote>
                 </div>
                 <p>Ci sono tre parole che Paolo non usa: simbolo, rappresentazione, ricordo. Quella che usa è <em>comunione</em> — in greco κοινωνία: partecipazione reale, contatto effettivo, avere parte a qualcosa. Non si ha parte a una metafora. E bisogna guardare ciò che nomina alla fine di ogni domanda: non dice che il calice sia comunione con il vino né che il pane lo sia con il pane. Dice sangue di Cristo e corpo di Cristo.</p>
                 <h2>L'ho ricevuto dal Signore — e per questo ci sono morti<br>1 Corinzi 11,23-30</h2>
                 <p>Il passo decisivo è quello che segue, e conviene leggerlo per intero prima di commentarlo.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Corinzi 11,23-30</span>
+                    <span class="scripture-ref">✝︎ 1 Corinzi 11,23-30</span>
                     <blockquote>«Io, infatti, <strong class="s-hi">ho ricevuto dal Signore quello che a mia volta vi ho trasmesso</strong>: il Signore Gesù, nella notte in cui veniva tradito, prese del pane e, dopo aver reso grazie, lo spezzò e disse: <strong class="s-hi">«Questo è il mio corpo</strong>, che è per voi; fate questo in memoria di me». Allo stesso modo, dopo aver cenato, prese anche il calice, dicendo: «Questo calice è la nuova alleanza nel mio sangue; fate questo, ogni volta che ne bevete, in memoria di me». Ogni volta infatti che mangiate questo pane e bevete al calice, voi annunciate la morte del Signore, <strong class="s-hi">finché egli venga</strong>. Perciò chiunque mangia il pane o beve al calice del Signore in modo indegno, <strong class="s-hi">sarà colpevole verso il corpo e il sangue del Signore</strong>. Ciascuno, dunque, esamini se stesso e poi mangi del pane e beva dal calice; perché chi mangia e beve <strong class="s-hi">senza riconoscere il corpo del Signore</strong>, mangia e beve la propria condanna. È per questo che tra voi ci sono molti ammalati e infermi e <strong class="s-hi">un buon numero sono morti</strong>.»</blockquote>
                 </div>
                 <p>Comincia da dove i critici preferirebbero non cominciare: «ho ricevuto dal Signore quello che a mia volta vi ho trasmesso». Quello è il vocabolario della tradizione, ciò che si consegna e si riceve di mano in mano. Proprio quel Paolo che viene citato contro la Tradizione appoggia su di essa il rito dell'Eucaristia, e lo fa nella lettera più antica che possediamo sull'argomento.</p>
@@ -676,7 +676,7 @@ const translationsIT = {
             <p>Questo sito è per te se ti trovi in uno di questi posti: dubiti della fede che hai ricevuto e non sai a chi chiederlo; stai cercando tra le tradizioni e nessuno ti dà una risposta che regga il peso; ti sei appena convertito e ti senti solo, senza guida, assediato da ogni parte. Conosco quel posto. Ci sono stato. E so cos'c'è intorno: cattolici tradizionali che a volte danno per scontato ciò che dovrebbero dimostrare e non sanno spiegarlo; e peggio ancora, cattolici tiepidi — quelli che vanno a Messa per abitudine, non sanno cosa credono, non difendono nulla, e sono i primi ad alzare le spalle quando qualcuno attacca la fede davanti a loro.</p>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ Apocalisse 3,15-16</span>
+                <span class="scripture-ref">✝︎ Apocalisse 3,15-16</span>
                 <blockquote>«Conosco le tue opere: tu non sei né freddo né caldo. Magari tu fossi freddo o caldo! Ma poiché sei tiepido, non sei cioè né freddo né caldo, sto per vomitarti dalla mia bocca.»</blockquote>
             </div>
 
@@ -725,7 +725,7 @@ const translationsIT = {
     btnTopics: "Vedi tutti i temi"
   },
   footer: {
-    rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Tutti i diritti riservati.</strong> È vietata la riproduzione totale o parziale senza autorizzazione scritta dell'autore.", text: "&copy; 2026 Fede e Ragione. Ad maiorem Dei gloriam." }
+    rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Tutti i diritti riservati.</strong> È vietata la riproduzione totale o parziale senza autorizzazione scritta dell'autore.", text: "Fede e Ragione. Ad maiorem Dei gloriam." }
 };
 // Se expone en window para que el cargador por idioma pueda tomarlo por nombre.
 // El `const` de arriba queda igual: es lo que leen los verificadores de _TRABAJO.

@@ -63,14 +63,14 @@
     
     <link rel="preload" href="Recursos/Fuentes/cinzel-latin.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="Recursos/Fuentes/montserrat-latin.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="preload" href="css/style.css?v=26" as="style">
+    <link rel="preload" href="css/style.css?v=27" as="style">
     <!-- Iconos del sitio -->
     <link rel="icon" href="favicon.ico?v=2" sizes="16x16 32x32 48x48 96x96">
     <link rel="icon" href="favicon.svg?v=2" type="image/svg+xml">
     <link rel="icon" href="icon-192.png?v=2" type="image/png" sizes="192x192">
     <link rel="apple-touch-icon" href="apple-touch-icon.png?v=2">
     <link rel="manifest" href="site.webmanifest?v=2">
-    <link rel="stylesheet" href="css/style.css?v=26">
+    <link rel="stylesheet" href="css/style.css?v=27">
 </head>
 <body>
     <!-- 1. COMPONENTES GLOBALES -->
@@ -230,8 +230,11 @@
                     display: none !important;
                   }
                   @media (max-width: 640px) {
-                    .temas-herramientas { flex-direction: column; align-items: stretch; }
-                    .temas-filtro { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; }
+                    /* nowrap: con wrap, la columna se volvía multilínea, la línea
+                       tomaba el ancho de la fila de botones (585 px) y la página
+                       entera se ensanchaba a 609 px en un teléfono de 430. */
+                    .temas-herramientas { flex-direction: column; flex-wrap: nowrap; align-items: stretch; }
+                    .temas-filtro { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; min-width: 0; max-width: 100%; }
                     .temas-filtro button { flex: 0 0 auto; }
                     .temas-buscar { min-width: 0; }
                   }
@@ -356,7 +359,7 @@
              marca el tiempo hasta la próxima cita. La rota main.js (8b). -->
         <section class="cita-mini" aria-label="Meditación">
             <div class="cita-mini-card" id="cita-mini">
-                <div class="cita-mini-cruz" aria-hidden="true"><span></span><b>✝</b><span></span></div>
+                <div class="cita-mini-cruz" aria-hidden="true"><span></span><b>✝︎</b><span></span></div>
                 <blockquote class="cita-mini-texto" id="cita-mini-texto">“Yo soy el Camino, la Verdad y la Vida.”</blockquote>
                 <p class="cita-mini-ref" id="cita-mini-ref">Jn 14, 6</p>
                 <div class="cita-mini-tiempo" aria-hidden="true"><span id="cita-mini-barra"></span></div>
@@ -482,14 +485,14 @@
          si se deja antes del overlay, el aviso de derechos y el enlace de
          privacidad aparecen encima del artículo en vez de al final. -->
     <footer>
-        <p data-i18n="footer.text">&copy; 2026 Fé y Razón. Ad maiorem Dei gloriam.</p>
+        <p data-i18n="footer.text">Fé y Razón. Ad maiorem Dei gloriam.</p>
         <p class="footer-rights" data-i18n="footer.rights">&copy; 2026 M. Gabriel Castiglia. Todos los derechos reservados. Prohibida la reproducción total o parcial sin autorización escrita del autor.</p>
         <p class="footer-legal"><a href="privacidad.html" data-i18n="topicPages.privacidad.linkLabel">Privacidad</a></p>
     </footer>
 
     <!-- 6. SCRIPTS -->
     <script src="js/main.js?v=17" defer></script>
-    <script src="js/translations.js?v=24" defer></script>
+    <script src="js/translations.js?v=25" defer></script>
     <script src="js/router.js?v=21" defer></script>
 </body>
 </html>
