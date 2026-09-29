@@ -46,7 +46,7 @@ const translationsFR = {
     category: "Doctrine", date: "Septembre 2026", title: "Le purgatoire", excerpt: "Une prison dont on sort et des péchés pardonnés dans le monde à venir : ce que le Christ enseigne sur la purification.", time: "8 min de lecture", link: "Lire →"
   },
   article8: {
-    category: "Doctrine", date: "Septembre 2026", title: "La loi nouvelle", excerpt: "L’Alliance du Sinaï a pris fin sur la croix, et les apôtres se réunissaient le dimanche : ce que dit l’Écriture sur l’ancienne Loi et la nouvelle.", time: "23 min de lecture", link: "Lire →"
+    category: "Doctrine", date: "Septembre 2026", title: "La loi nouvelle", excerpt: "L’Alliance du Sinaï a pris fin sur la croix, et les apôtres se réunissaient le dimanche : ce que dit l’Écriture sur l’ancienne Loi et la nouvelle.", time: "25 min de lecture", link: "Lire →"
   },
   article9: {
     category: "Apologétique", date: "Septembre 2026", title: "La primauté de Pierre", excerpt: "Les clés du Royaume, la pierre et la charge d'affermir les frères : ce que l'Écriture donne à Pierre.", time: "14 min de lecture", link: "Lire →"
@@ -163,12 +163,12 @@ const translationsFR = {
     },
     "la-nueva-ley": {
       pageTitle: "La loi nouvelle | Foi et Raison",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>La loi nouvelle dans le Christ</h1><p>L’Alliance du Sinaï a pris fin sur la croix, et les apôtres se réunissaient le dimanche dès le jour de la résurrection. Ce que dit l’Écriture sur l’ancienne Loi et la nouvelle, passage par passage.</p><div class="article-meta"><span>23 min de lecture</span><span>Publié en septembre 2026</span></div><a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>La loi nouvelle dans le Christ</h1><p>L’Alliance du Sinaï a pris fin sur la croix, et les apôtres se réunissaient le dimanche dès le jour de la résurrection. Ce que dit l’Écriture sur l’ancienne Loi et la nouvelle, passage par passage.</p><div class="article-meta"><span>25 min de lecture</span><span>Publié en septembre 2026</span></div><a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
       article: `<!--
 Traducción de la-nueva-ley desde el español (29-sep-2026). Citas según la
 traducción católica usual de este idioma, escritas de memoria: sin cotejar.
 -->
-<p>Plusieurs sectes protestantes soutiennent l’hérésie selon laquelle le chrétien reste lié à la Loi de Moïse, ou du moins à la partie de celle-ci que chacune choisit. Celle qui pousse l’erreur le plus loin est celle des adventistes du septième jour : ils gardent le sabbat, s’abstiennent des aliments que la Loi déclarait impurs et accusent l’Église d’avoir changé le jour de Dieu. Ils le disent ainsi : <em>«Le sabbat est le jour que Dieu a sanctifié pour toujours. Le dimanche, c’est Rome qui l’a imposé, et qui le garde obéit au pape et non à Dieu.»</em></p>
+<p>Plusieurs sectes protestantes soutiennent l’hérésie selon laquelle le chrétien reste lié à la Loi de Moïse, ou du moins à la partie de celle-ci que chacune choisit. Celle qui pousse l’erreur le plus loin est celle des adventistes du septième jour : ils gardent le sabbat, s’abstiennent des aliments que la Loi déclarait impurs et accusent l’Église d’avoir changé le jour de Dieu. Ils le disent ainsi : <em>«Le sabbat est le jour que Dieu a sanctifié pour toujours. Le dimanche, c’est Rome qui l’a imposé, et qui le garde obéit au pape et non à Dieu.»</em> Les Témoins de Jéhovah prennent à la même Loi une autre pièce : l’interdiction de manger du sang, qu’ils changent en interdiction des transfusions.</p>
                 <p>La réponse est dans l’Écriture. Paul l’a écrite pour des chrétiens qui s’apprêtaient à faire ce que font aujourd’hui les adventistes : revenir à la Loi après avoir reçu le Christ. C’est la lettre aux Galates, et le passage se lit d’abord en entier, avec ses versets, avant d’être parcouru partie par partie.</p>
                 <h2>Deux femmes, deux Alliances<br>Galates 4, 21 — 5, 12</h2>
                 <div class="scripture-block">
@@ -224,7 +224,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ Jean 20, 19</span>
                     <blockquote>«<strong class="s-hi">Le soir de ce même jour, le premier de la semaine</strong>, alors que les portes du lieu où se trouvaient les disciples étaient verrouillées par crainte des Juifs, Jésus vint, et il était là au milieu d’eux. Il leur dit : “<strong class="s-hi">La paix soit avec vous !</strong>”»</blockquote>
                 </div>
-                <p>Ce même dimanche, les disciples étaient réunis portes verrouillées par crainte des Juifs. Jésus se tient au milieu d’eux et leur dit «La paix soit avec vous !». Il ne les réprimande pas : il les approuve. S’ils faisaient quelque chose de mal, il le leur dirait.</p>
+                <p>Ce même dimanche, et non un jour de sabbat, les disciples étaient réunis portes verrouillées par crainte des Juifs. Jésus se tient au milieu d’eux et leur dit «La paix soit avec vous !». Il ne les réprimande pas : il les approuve. S’ils faisaient quelque chose de mal, il le leur dirait.</p>
                 <h2>Huit jours plus tard, de nouveau un dimanche<br>Jean 20, 26</h2>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Jean 20, 26</span>
@@ -294,6 +294,13 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <blockquote>«<sup class="vn">16</sup>Donc, <strong class="s-hi">que personne ne vous condamne pour des questions de nourriture et de boisson, ou à propos d’une fête, d’une nouvelle lune ou d’un sabbat</strong>. <sup class="vn">17</sup>Tout cela n’est que l’ombre de ce qui devait venir, mais la réalité, c’est le corps du Christ.»</blockquote>
                 </div>
                 <p>Que personne ne condamne les catholiques qui sanctifient le dimanche. C’est ce que font les protestants, en l’occurrence les adventistes : critiquer sans connaître l’Écriture.</p>
+                <h2>Le sang de l’autel<br>Lévitique 17, 10-11</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Lévitique 17, 10-11</span>
+                    <blockquote>«<sup class="vn">10</sup>Si un homme de la maison d’Israël ou un émigré résidant parmi eux <strong class="s-hi">mange du sang, quel qu’il soit</strong>, je me tournerai contre celui qui aura mangé du sang, et je le retrancherai du milieu de son peuple. <sup class="vn">11</sup>Car la vie de la chair est dans le sang. Ce sang, <strong class="s-hi">je vous l’ai donné, moi, pour faire sur l’autel le rite d’expiation pour vos vies</strong> ; car c’est le sang qui fait expiation pour une vie.»</blockquote>
+                </div>
+                <p>Les Témoins de Jéhovah refusent les transfusions sanguines parce qu’ils disent que la Bible interdit de consommer du sang. Ils le tirent des sacrifices du Lévitique et l’interprètent dans le sens qui leur plaît, au point de laisser mourir leurs propres enfants sur une table d’opération.</p>
+                <p>Le verset 11 dit pourquoi c’était interdit : le sang était réservé à l’autel, pour l’expiation. Cet autel et cette expiation ont pris fin sur la croix, où le sang du Christ a fait l’expiation une fois pour toutes. Et une transfusion ne se mange pas et ne s’offre sur aucun autel : on la donne pour sauver une vie, ce que le sang signifiait dans ce même verset.</p>
                 <h2>«Il faut imiter le Christ»<br>Luc 2, 21</h2>
                 <p>Contre tout cela, ces sectes ont quelques arguments. Le premier : <em>«Jésus gardait le sabbat, et le chrétien doit imiter le Christ.»</em></p>
                 <div class="scripture-block">
@@ -352,6 +359,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <li>Les apôtres rompaient le pain le premier jour de la semaine, des siècles avant Constantin, et l’Apocalypse l’appelle le jour du Seigneur.</li>
                     <li>Le Christ est maître du sabbat, et sur la croix il a dit que tout était accompli.</li>
                     <li>La Loi gravée sur la pierre était passagère ; la Nouvelle Alliance est écrite dans le cœur.</li>
+                    <li>Le sang du Lévitique était réservé à l’autel de l’expiation, et cet autel a pris fin sur la croix.</li>
                     <li>Les commandements du chrétien sont ceux du Christ, qui reprend les anciens et ne dit rien du sabbat.</li>
                 </ul>
                 <h2>Conclusion</h2>

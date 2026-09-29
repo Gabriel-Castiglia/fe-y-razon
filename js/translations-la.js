@@ -90,7 +90,7 @@ const translationsLA = {
     date: "Septembri MMXXVI",
     title: "Nova Lex",
     excerpt: "Foedus Sinaiticum in cruce finem habuit, et apostoli die dominica conveniebant: quid Scriptura de Lege veteri et nova dicat.",
-    time: "XXIII min lectura",
+    time: "XXV min lectura",
     link: "Lege →"
   },
   article9: {
@@ -309,7 +309,7 @@ const translationsLA = {
             <h1>Nova Lex in Christo</h1>
             <p>Foedus Sinaiticum in cruce finem habuit, et apostoli die dominica conveniebant inde a die resurrectionis. Quid Scriptura de Lege veteri et nova dicat, locus post locum.</p>
             <div class="article-meta">
-                <span>XXIII min lectura</span>
+                <span>XXV min lectura</span>
                 <span>Editus Septembri MMXXVI</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
@@ -317,7 +317,7 @@ const translationsLA = {
 Traducción de la-nueva-ley desde el español (29-sep-2026). Citas según la
 traducción católica usual de este idioma, escritas de memoria: sin cotejar.
 -->
-<p>Nonnullae sectae protestanticae haeresim tenent christianum adhuc Lege Moysis teneri, vel saltem ea parte eius quam quaeque eligit. Longissime errorem producit secta adventistarum diei septimi: sabbatum servant, a cibis abstinent quos Lex immundos declarabat, et Ecclesiam accusant quod diem Dei mutaverit. Sic dicunt: <em>«Sabbatum est dies quem Deus in aeternum sanctificavit. Dominicam Roma imposuit, et qui eam servat papae oboedit, non Deo.»</em></p>
+<p>Nonnullae sectae protestanticae haeresim tenent christianum adhuc Lege Moysis teneri, vel saltem ea parte eius quam quaeque eligit. Longissime errorem producit secta adventistarum diei septimi: sabbatum servant, a cibis abstinent quos Lex immundos declarabat, et Ecclesiam accusant quod diem Dei mutaverit. Sic dicunt: <em>«Sabbatum est dies quem Deus in aeternum sanctificavit. Dominicam Roma imposuit, et qui eam servat papae oboedit, non Deo.»</em> Testes Iehovae ex eadem Lege aliam partem sumunt: vetitum sanguinis comedendi, quod in vetitum transfusionum convertunt.</p>
                 <p>Responsio in Scriptura est. Paulus eam scripsit christianis qui id facturi erant quod hodie faciunt adventistae: ad Legem redire postquam Christum receperant. Est epistula ad Galatas, et locus primum integer legitur, cum versibus suis, deinde per partes percurritur.</p>
                 <h2>Duae mulieres, duo Foedera<br>Ad Galatas 4, 21 — 5, 12</h2>
                 <div class="scripture-block">
@@ -373,7 +373,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ Ioannes 20, 19</span>
                     <blockquote>«<strong class="s-hi">Cum ergo sero esset die illa prima sabbatorum</strong>, et fores essent clausae, ubi erant discipuli, propter metum Iudaeorum, venit Iesus et stetit in medio et dicit eis: “<strong class="s-hi">Pax vobis!</strong>”»</blockquote>
                 </div>
-                <p>Eadem dominica discipuli foribus clausis propter metum Iudaeorum congregati erant. Iesus stat in medio eorum et dicit eis «Pax vobis!». Non eos obiurgat: probat. Si quid mali facerent, id eis diceret.</p>
+                <p>Eadem dominica, non sabbato, discipuli foribus clausis propter metum Iudaeorum congregati erant. Iesus stat in medio eorum et dicit eis «Pax vobis!». Non eos obiurgat: probat. Si quid mali facerent, id eis diceret.</p>
                 <h2>Post dies octo, iterum dominica<br>Ioannes 20, 26</h2>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Ioannes 20, 26</span>
@@ -443,6 +443,13 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <blockquote>«<sup class="vn">16</sup><strong class="s-hi">Nemo ergo vos iudicet in cibo aut in potu aut ex parte diei festi aut neomeniae aut sabbatorum</strong>, <sup class="vn">17</sup>quae sunt umbra futurorum, corpus autem Christi.»</blockquote>
                 </div>
                 <p>Nemo iudicet catholicos qui dominicam sanctificant. Id faciunt protestantes, hoc in casu adventistae: iudicant Scripturam non cognoscentes.</p>
+                <h2>Sanguis altaris<br>Leviticus 17, 10-11</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Leviticus 17, 10-11</span>
+                    <blockquote>«<sup class="vn">10</sup>Homo quilibet de domo Israel et de advenis, qui peregrinantur inter eos, <strong class="s-hi">si comederit sanguinem</strong>, obfirmabo faciem meam contra animam illius et disperdam eam de populo suo, <sup class="vn">11</sup>quia anima carnis in sanguine est; et <strong class="s-hi">ego dedi illum vobis, ut super altare in eo expietis pro animabus vestris</strong>, et sanguis pro animae piaculo sit.»</blockquote>
+                </div>
+                <p>Testes Iehovae transfusiones sanguinis non admittunt, quia dicunt Bibliam vetare ne sanguis consumatur. Id ex sacrificiis Levitici sumunt et quo volunt interpretantur, usque adeo ut filios suos in mensa chirurgica mori sinant.</p>
+                <p>Versus 11 dicit cur vetitum esset: sanguis altari servabatur, ad expiationem. Illud altare et illa expiatio in cruce finem habuerunt, ubi sanguis Christi semel expiavit. Transfusio autem nec comeditur nec in ullo altari offertur: datur ut vita servetur, quod sanguis in eodem versu significabat.</p>
                 <h2>«Christus imitandus est»<br>Lucas 2, 21</h2>
                 <p>Contra haec omnia hae sectae quaedam argumenta habent. Primum: <em>«Iesus sabbatum servabat, et christianus Christum imitari debet.»</em></p>
                 <div class="scripture-block">
@@ -501,6 +508,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <li>Apostoli primo die hebdomadis panem frangebant, saeculis ante Constantinum, et Apocalypsis eum diem dominicam appellat.</li>
                     <li>Christus dominus est sabbati, et in cruce dixit consummatum esse.</li>
                     <li>Lex in lapide deformata evacuabatur; Novum Foedus in corde scriptum est.</li>
+                    <li>Sanguis Levitici altari expiationis servabatur, et illud altare in cruce finem habuit.</li>
                     <li>Mandata christiani sunt Christi, qui vetera resumit et de sabbato nihil dicit.</li>
                 </ul>
                 <h2>Conclusio</h2>

@@ -93,7 +93,7 @@ const translationsES = {
     date: "Septiembre 2026",
     title: "La nueva ley",
     excerpt: "La Alianza del Sinaí terminó en la cruz y los apóstoles se reunían el domingo: lo que dice la Escritura sobre la Ley antigua y la nueva.",
-    time: "23 min lectura",
+    time: "25 min lectura",
     link: "Leer →"
   },
   article9: {
@@ -344,7 +344,7 @@ Las siete citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
             <h1>La nueva ley en Cristo</h1>
             <p>La Alianza del Sinaí terminó en la cruz, y los apóstoles se reunían el domingo desde el día de la resurrección. Lo que dice la Escritura sobre la Ley antigua y la nueva, pasaje por pasaje.</p>
             <div class="article-meta">
-                <span>23 min lectura</span>
+                <span>25 min lectura</span>
                 <span>Publicado en septiembre de 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Volver a Temas</a>`,
@@ -358,7 +358,7 @@ Texto base de Gabriel: la nueva alianza.docx (29-sep-2026). Las frases en rojo
 son las que él marcó como «Resaltado». Los números de versículo van en
 <sup class="vn">, que cotejo.py quita antes de comparar.
 -->
-<p>Varias sectas protestantes sostienen la herejía de que el cristiano sigue atado a la Ley de Moisés, o por lo menos a la parte de ella que cada una elige. La que lleva el error más lejos es la de los adventistas del séptimo día: guardan el sábado, se abstienen de los alimentos que la Ley declaraba impuros y acusan a la Iglesia de haber cambiado el día de Dios. Lo dicen así: <em>«El sábado es el día que Dios santificó para siempre. El domingo lo impuso Roma, y quien lo guarda obedece al papa y no a Dios.»</em></p>
+<p>Varias sectas protestantes sostienen la herejía de que el cristiano sigue atado a la Ley de Moisés, o por lo menos a la parte de ella que cada una elige. La que lleva el error más lejos es la de los adventistas del séptimo día: guardan el sábado, se abstienen de los alimentos que la Ley declaraba impuros y acusan a la Iglesia de haber cambiado el día de Dios. Lo dicen así: <em>«El sábado es el día que Dios santificó para siempre. El domingo lo impuso Roma, y quien lo guarda obedece al papa y no a Dios.»</em> Los Testigos de Jehová toman de la misma Ley otra pieza: la prohibición de comer sangre, que convierten en la prohibición de las transfusiones.</p>
                 <p>La respuesta está en la Escritura. Pablo la escribió para cristianos que estaban por hacer lo mismo que hacen hoy los adventistas: volver a la Ley después de haber recibido a Cristo. Es la carta a los Gálatas, y el pasaje se lee primero entero, con sus versículos, antes de recorrerlo por partes.</p>
                 <h2>Dos mujeres, dos Alianzas<br>Gálatas 4:21 — 5:12</h2>
                 <!-- fuente: vaticano -->
@@ -423,7 +423,7 @@ son las que él marcó como «Resaltado». Los números de versículo van en
                     <span class="scripture-ref">✝︎ Juan 20:19</span>
                     <blockquote>«<strong class="s-hi">Al atardecer de ese mismo día, el primero de la semana</strong>, estando cerradas las puertas del lugar donde se encontraban los discípulos, por temor a los judíos, llegó Jesús y poniéndose en medio de ellos, les dijo: <strong class="s-hi">¡La paz esté con ustedes!</strong>.»</blockquote>
                 </div>
-                <p>Aquel mismo domingo, los discípulos estaban reunidos a puertas cerradas por miedo a los judíos. Jesús se presenta en medio de ellos y les dice «¡La paz esté con ustedes!». No los reta: los aprueba. Si estuvieran haciendo algo mal, se lo diría.</p>
+                <p>Aquel mismo domingo, y no en sábado, los discípulos estaban reunidos a puertas cerradas por miedo a los judíos. Jesús se presenta en medio de ellos y les dice «¡La paz esté con ustedes!». No los reta: los aprueba. Si estuvieran haciendo algo mal, se lo diría.</p>
                 <h2>Ocho días después, otra vez domingo<br>Juan 20:26</h2>
                 <!-- fuente: vaticano -->
                 <div class="scripture-block">
@@ -504,6 +504,14 @@ son las que él marcó como «Resaltado». Los números de versículo van en
                     <blockquote>«<sup class="vn">16</sup>Por eso, <strong class="s-hi">que nadie los critique por cuestiones de alimento y de bebida, o de días festivos, de novilunios y de sábados</strong>. <sup class="vn">17</sup>Todas esas cosas no son más que la sombra de una realidad futura, que es el Cuerpo de Cristo.»</blockquote>
                 </div>
                 <p>Que nadie critique a los católicos que santifican el domingo. Es lo que hacen los protestantes, en este caso los adventistas: criticar sin conocer la Escritura.</p>
+                <h2>La sangre del altar<br>Levítico 17:10-11</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Levítico 17:10-11</span>
+                    <blockquote>«<sup class="vn">10</sup>Si un hombre de la casa de Israel o alguno de los extranjeros que residen en medio de ustedes, <strong class="s-hi">come cualquier clase de sangre</strong>, yo volveré mi rostro contra esa persona y la excluiré de su pueblo. <sup class="vn">11</sup>Porque la vida de la carne está en la sangre, y <strong class="s-hi">yo mismo les he puesto la sangre sobre el altar, para que les sirva de expiación</strong>, ya que la sangre es la que realiza la expiación, en virtud de la vida que hay en ella.»</blockquote>
+                </div>
+                <p>Los Testigos de Jehová no aceptan transfusiones de sangre porque dicen que la Biblia prohíbe consumir sangre. Lo sacan de los sacrificios del Levítico y lo interpretan para donde quieren, hasta el punto de dejar morir a sus propios hijos en un quirófano.</p>
+                <p>El versículo 11 dice por qué estaba prohibida: la sangre se reservaba para el altar, para la expiación. Ese altar y esa expiación terminaron en la cruz, donde la sangre de Cristo expió de una vez. Y una transfusión no se come ni se ofrece en ningún altar: se da para salvar una vida, que es lo que la sangre significaba en el mismo versículo.</p>
                 <h2>«Hay que imitar a Cristo»<br>Lucas 2:21</h2>
                 <p>Contra todo esto, estas sectas tienen algunos argumentos. El primero: <em>«Jesús guardaba el sábado, y el cristiano tiene que imitar a Cristo.»</em></p>
                 <!-- fuente: vaticano -->
@@ -570,6 +578,7 @@ son las que él marcó como «Resaltado». Los números de versículo van en
                     <li>Los apóstoles partían el pan el primer día de la semana, siglos antes de Constantino, y el Apocalipsis lo llama el Día del Señor.</li>
                     <li>Cristo es dueño del sábado, y en la cruz dijo que todo se había cumplido.</li>
                     <li>La Ley grabada en piedra era pasajera; la Nueva Alianza está escrita en el corazón.</li>
+                    <li>La sangre del Levítico estaba reservada al altar de la expiación, y ese altar terminó en la cruz.</li>
                     <li>Los mandamientos del cristiano son los de Cristo, que retoma los antiguos y no dice nada del sábado.</li>
                 </ul>
                 <h2>Conclusión</h2>

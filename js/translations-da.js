@@ -85,7 +85,7 @@ const translationsDA = {
     date: "September 2026",
     title: "Den nye lov",
     excerpt: "Pagten fra Sinaj endte på korset, og apostlene samledes om søndagen: hvad Skriften siger om den gamle og den nye lov.",
-    time: "23 min læsning",
+    time: "25 min læsning",
     link: "Læs →"
   },
   article9: {
@@ -749,7 +749,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
             <h1>Den nye lov i Kristus</h1>
             <p>Pagten fra Sinaj endte på korset, og apostlene samledes om søndagen fra opstandelsens dag. Hvad Skriften siger om den gamle og den nye lov, skriftsted for skriftsted.</p>
             <div class="article-meta">
-                <span>23 min læsning</span>
+                <span>25 min læsning</span>
                 <span>Udgivet september 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
@@ -757,7 +757,7 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
 Traducción de la-nueva-ley desde el español (29-sep-2026). Citas según la
 traducción católica usual de este idioma, escritas de memoria: sin cotejar.
 -->
-<p>Flere protestantiske sekter hævder den vranglære, at den kristne stadig er bundet af Moseloven, eller i det mindste af den del af den, som hver af dem vælger. Den, der driver vildfarelsen længst, er syvendedagsadventisterne: de holder sabbat, afholder sig fra de spiser, som loven erklærede urene, og anklager Kirken for at have ændret Guds dag. De siger det sådan: <em>«Sabbatten er den dag, Gud helligede for evigt. Søndagen blev indført af Rom, og den, der holder den, adlyder paven og ikke Gud.»</em></p>
+<p>Flere protestantiske sekter hævder den vranglære, at den kristne stadig er bundet af Moseloven, eller i det mindste af den del af den, som hver af dem vælger. Den, der driver vildfarelsen længst, er syvendedagsadventisterne: de holder sabbat, afholder sig fra de spiser, som loven erklærede urene, og anklager Kirken for at have ændret Guds dag. De siger det sådan: <em>«Sabbatten er den dag, Gud helligede for evigt. Søndagen blev indført af Rom, og den, der holder den, adlyder paven og ikke Gud.»</em> Jehovas Vidner tager et andet stykke af den samme lov: forbuddet mod at spise blod, som de gør til et forbud mod transfusioner.</p>
                 <p>Svaret står i Skriften. Paulus skrev det til kristne, der var ved at gøre det, adventisterne gør i dag: vende tilbage til loven efter at have taget imod Kristus. Det er brevet til galaterne, og stedet læses først i sin helhed, med versnumre, før det gennemgås del for del.</p>
                 <h2>To kvinder, to pagter<br>Galaterbrevet 4,21 — 5,12</h2>
                 <div class="scripture-block">
@@ -813,7 +813,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ Johannesevangeliet 20,19</span>
                     <blockquote>«<strong class="s-hi">Om aftenen samme dag, den første dag i ugen</strong>, mens disciplene holdt sig inde bag lukkede døre af frygt for jøderne, kom Jesus og stod midt iblandt dem og sagde til dem: “<strong class="s-hi">Fred være med jer!</strong>”»</blockquote>
                 </div>
-                <p>Samme søndag var disciplene samlet bag lukkede døre af frygt for jøderne. Jesus står midt iblandt dem og siger til dem «Fred være med jer!». Han irettesætter dem ikke: han godkender dem. Hvis de gjorde noget forkert, ville han sige det.</p>
+                <p>Samme søndag, og ikke på en sabbat, var disciplene samlet bag lukkede døre af frygt for jøderne. Jesus står midt iblandt dem og siger til dem «Fred være med jer!». Han irettesætter dem ikke: han godkender dem. Hvis de gjorde noget forkert, ville han sige det.</p>
                 <h2>Otte dage efter, igen søndag<br>Johannesevangeliet 20,26</h2>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Johannesevangeliet 20,26</span>
@@ -883,6 +883,13 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <blockquote>«<sup class="vn">16</sup><strong class="s-hi">Lad derfor ingen dømme jer for, hvad I spiser og drikker, eller når det gælder højtider, nymåner og sabbatter</strong>. <sup class="vn">17</sup>Det er kun en skygge af det, der skulle komme, men virkeligheden er Kristi legeme.»</blockquote>
                 </div>
                 <p>Lad ingen dømme de katolikker, der helligholder søndagen. Det er, hvad protestanterne gør, i dette tilfælde adventisterne: de kritiserer uden at kende Skriften.</p>
+                <h2>Alterets blod<br>Tredje Mosebog 17,10-11</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Tredje Mosebog 17,10-11</span>
+                    <blockquote>«<sup class="vn">10</sup>Hvis nogen af Israels hus eller af de fremmede, der bor iblandt dem, <strong class="s-hi">spiser noget som helst blod</strong>, vil jeg vende mig mod den, der spiser blodet, og udrydde ham af hans folk. <sup class="vn">11</sup>For kødets liv er i blodet, og <strong class="s-hi">jeg har givet jer det på alteret til at skaffe soning for jeres liv</strong>; for det er blodet, der skaffer soning, fordi det er liv.»</blockquote>
+                </div>
+                <p>Jehovas Vidner tager ikke imod blodtransfusioner, fordi de siger, at Bibelen forbyder at indtage blod. Det tager de fra ofrene i Tredje Mosebog og tolker det, som det passer dem, så langt at de lader deres egne børn dø på et operationsbord.</p>
+                <p>Vers 11 siger, hvorfor det var forbudt: blodet var forbeholdt alteret, til soning. Det alter og den soning endte på korset, hvor Kristi blod skaffede soning én gang for alle. Og en transfusion bliver hverken spist eller ofret på noget alter: den gives for at redde et liv, og det var netop det, blodet betød i samme vers.</p>
                 <h2>«Man skal efterligne Kristus»<br>Lukasevangeliet 2,21</h2>
                 <p>Mod alt dette har disse sekter nogle argumenter. Det første: <em>«Jesus holdt sabbatten, og den kristne skal efterligne Kristus.»</em></p>
                 <div class="scripture-block">
@@ -941,6 +948,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <li>Apostlene brød brødet den første dag i ugen, århundreder før Konstantin, og Åbenbaringen kalder den Herrens dag.</li>
                     <li>Kristus er herre over sabbatten, og på korset sagde han, at det var fuldbragt.</li>
                     <li>Loven indridset i sten var forgængelig; den nye pagt er skrevet i hjertet.</li>
+                    <li>Blodet i Tredje Mosebog var forbeholdt soningens alter, og det alter endte på korset.</li>
                     <li>Den kristnes bud er Kristi bud, og han tager de gamle op igen uden at sige noget om sabbatten.</li>
                 </ul>
                 <h2>Konklusion</h2>
