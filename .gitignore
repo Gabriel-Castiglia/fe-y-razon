@@ -4,3 +4,7 @@ Thumbs.db
 .claude/settings.local.json
 _REVISION/
 __pycache__/
+
+# Herramientas y reglas internas: se usan en local, NUNCA se publican (29-sep-2026).
+# Respaldo en iCloud: 0 · PROYECTOS/FE_Y_RAZON/herramientas y Reglas.
+docs/
