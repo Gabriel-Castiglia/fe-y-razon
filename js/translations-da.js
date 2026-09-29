@@ -82,10 +82,10 @@ const translationsDA = {
   },
   article8: {
     category: "Doktrin",
-    date: "Kommer snart",
+    date: "September 2026",
     title: "Den nye lov",
-    excerpt: "Kristi lov, der erstatter den gamle lov og vejleder kristne.",
-    time: "8 min læsning",
+    excerpt: "Pagten fra Sinaj endte på korset, og apostlene samledes om søndagen: hvad Skriften siger om den gamle og den nye lov.",
+    time: "23 min læsning",
     link: "Læs →"
   },
   article9: {
@@ -747,28 +747,209 @@ Derfor, da <strong class="s-hi">vi har så stor en sky af vidner omkring os,</st
                 <span class="eyebrow-text">Specialemne</span>
             </div>
             <h1>Den nye lov i Kristus</h1>
-            <p>Forstå hvordan Kristi lov overgår og fuldbyrder den gamle lov, og inviterer os til at leve i Guds børns kærlighed og frihed.</p>
+            <p>Pagten fra Sinaj endte på korset, og apostlene samledes om søndagen fra opstandelsens dag. Hvad Skriften siger om den gamle og den nye lov, skriftsted for skriftsted.</p>
             <div class="article-meta">
-                <span>8 min læsning</span>
-                <span>Udgivet maj 2026</span>
+                <span>23 min læsning</span>
+                <span>Udgivet september 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
-      article: `<p>Den nye lov er Evangeliets lov, centreret om kærlighedens bud. Kristus afskaffer ikke den gamle lov, men fuldbyrder den og gør den tilgængelig for det menneskelige hjerte.</p>
-                <h2>Kærlighed som målestok</h2>
-                <p>Jesus samler Loven i kærlighed til Gud og næsten. Denne nye regel er ikke en byrde, men en dyb frihed, der transformerer vores handlinger indefra.</p>
+      article: `<!--
+Traducción de la-nueva-ley desde el español (29-sep-2026). Citas según la
+traducción católica usual de este idioma, escritas de memoria: sin cotejar.
+-->
+<p>Flere protestantiske sekter hævder den vranglære, at den kristne stadig er bundet af Moseloven, eller i det mindste af den del af den, som hver af dem vælger. Den, der driver vildfarelsen længst, er syvendedagsadventisterne: de holder sabbat, afholder sig fra de spiser, som loven erklærede urene, og anklager Kirken for at have ændret Guds dag. De siger det sådan: <em>«Sabbatten er den dag, Gud helligede for evigt. Søndagen blev indført af Rom, og den, der holder den, adlyder paven og ikke Gud.»</em></p>
+                <p>Svaret står i Skriften. Paulus skrev det til kristne, der var ved at gøre det, adventisterne gør i dag: vende tilbage til loven efter at have taget imod Kristus. Det er brevet til galaterne, og stedet læses først i sin helhed, med versnumre, før det gennemgås del for del.</p>
+                <h2>To kvinder, to pagter<br>Galaterbrevet 4,21 — 5,12</h2>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝︎ Matt 22:37-38</span>
-                    <blockquote>«<strong class="s-hi">Du skal elske Herren din Gud af hele dit hjerte og din næste som dig selv</strong>»</blockquote>
+                    <span class="scripture-ref">✝︎ Galaterbrevet 4,21 — 5,12</span>
+                    <blockquote>«<sup class="vn">21</sup>Sig mig, I som vil være under loven: Hører I ikke, hvad loven siger? <sup class="vn">22</sup>Der står jo skrevet, at Abraham havde to sønner, en med trælkvinden og en med den frie kvinde. <sup class="vn">23</sup>Men trælkvindens søn var født efter kødet, den frie kvindes søn i kraft af løftet. <sup class="vn">24</sup><strong class="s-hi">Dette har en billedlig betydning: De to kvinder er to pagter</strong>. <strong class="s-hi">Den ene er fra Sinaj bjerg og føder børn til trældom</strong>; det er Hagar. <sup class="vn">25</sup>Hagar betegner Sinaj bjerg i Arabien og svarer til det nuværende Jerusalem, for det lever i trældom med sine børn. <sup class="vn">26</sup><strong class="s-hi">Men det Jerusalem, som er oventil, er frit, og det er vores mor</strong>. <sup class="vn">27</sup>For der står skrevet: Fryd dig, du ufrugtbare, som ikke føder, bryd ud i jubel, du som ikke har veer; for den forladtes børn er flere end hendes, som har en mand. <sup class="vn">28</sup>Men I, brødre, er <strong class="s-hi">ligesom Isak løftets børn</strong>. <sup class="vn">29</sup>Men ligesom dengang den, der var født efter kødet, forfulgte den, der var født efter Ånden, sådan også nu. <sup class="vn">30</sup>Men hvad siger Skriften? Jag trælkvinden og hendes søn bort, for trælkvindens søn skal ikke arve sammen med den frie kvindes søn. <sup class="vn">31</sup>Derfor, brødre, er <strong class="s-hi">vi ikke børn af en trælkvinde, men af den frie</strong>. <sup class="vn">5,1</sup><strong class="s-hi">Til frihed har Kristus sat os fri. Stå derfor fast, og lad jer ikke igen spænde under trældommens åg</strong>. <sup class="vn">5,2</sup>Hør, jeg, Paulus, siger jer: Hvis I lader jer omskære, vil Kristus intet gavne jer. <sup class="vn">5,3</sup>Og <strong class="s-hi">igen forsikrer jeg ethvert menneske, som lader sig omskære, at han er forpligtet til at holde hele loven</strong>. <sup class="vn">5,4</sup><strong class="s-hi">I er skilt fra Kristus</strong>, I som vil retfærdiggøres ved loven; <strong class="s-hi">I er faldet ud af nåden</strong>. <sup class="vn">5,5</sup>For vi venter i Ånden og ved tro på den retfærdighed, vi håber på. <sup class="vn">5,6</sup>For i Kristus Jesus betyder hverken omskærelse eller forhud noget, men tro, som er virksom i kærlighed. <sup class="vn">5,7</sup>I løb så godt; hvem hindrede jer i at adlyde sandheden? <sup class="vn">5,8</sup>Den overtalelse kommer ikke fra ham, som kalder jer. <sup class="vn">5,9</sup>En smule surdej gennemsyrer hele dejen. <sup class="vn">5,10</sup>Jeg har den tillid til jer i Herren, at I ikke vil mene andet; men <strong class="s-hi">den, der skaber uro blandt jer, skal få sin dom, hvem han end er</strong>. <sup class="vn">5,11</sup>Men hvis jeg, brødre, stadig forkynder omskærelse, hvorfor bliver jeg så stadig forfulgt? Så er korsets forargelse jo ophævet. <sup class="vn">5,12</sup><strong class="s-hi">Gid de, som skaber uro blandt jer, ville lade sig skære helt af!</strong>»</blockquote>
                 </div>
-                <h2>Fuldbyrdelse af den gamle lov</h2>
-                <p>Profeterne bebudede en ny lov, der ville leve i hjertet. Kristi undervisning afslører, at ægte lydighed ikke reduceres til ydre handlinger, men til en sand indre indstilling.</p>
+                <h2>Trælkvinden og den frie<br>Galaterbrevet 4,24-26</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Galaterbrevet 4,24-26</span>
+                    <blockquote>«<sup class="vn">24</sup><strong class="s-hi">Dette har en billedlig betydning: De to kvinder er to pagter</strong>. Den ene er fra Sinaj bjerg og <strong class="s-hi">føder børn til trældom</strong>; det er Hagar. <sup class="vn">25</sup>Hagar betegner Sinaj bjerg i Arabien og svarer til det nuværende Jerusalem, for det lever i trældom med sine børn. <sup class="vn">26</sup><strong class="s-hi">Men det Jerusalem, som er oventil, er frit, og det er vores mor</strong>.»</blockquote>
+                </div>
+                <p>Paulus siger det lige ud: fortællingen om Abraham er billedlig, og de to kvinder er de to pagter. Hagar, trælkvinden, er pagten fra Sinaj bjerg. Den anden er Jerusalem oventil, det himmelske, som er frit, og det er de kristnes mor.</p>
+                <p>Før var de trælle under den gamle pagt, de rituelle loves pagt, som skulle lære et folk skikke. Men det var ikke nok i sig selv. Derfor blev den pagt lukket, da mennesket modnedes i sit forhold til Gud, og den nye pagt opstod, den moralske lovs pagt, Jerusalem oventil, himlens pagt, som gør fri.</p>
+                <h2>Den frie kvindes børn<br>Galaterbrevet 4,28-31</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Galaterbrevet 4,28-31</span>
+                    <blockquote>«<sup class="vn">28</sup><strong class="s-hi">Men I, brødre, er ligesom Isak løftets børn</strong>. <sup class="vn">29</sup>Men ligesom dengang den, der var født efter kødet, forfulgte den, der var født efter Ånden, sådan også nu. <sup class="vn">30</sup>Men hvad siger Skriften? Jag trælkvinden og hendes søn bort, for trælkvindens søn skal ikke arve sammen med den frie kvindes søn. <sup class="vn">31</sup>Derfor, brødre, er <strong class="s-hi">vi ikke børn af en trælkvinde, men af den frie</strong>.»</blockquote>
+                </div>
+                <p>Dér står det: de kristne er ikke trælkvindens børn, men den frie kvindes. De er ikke under den gamle pagt, men under den nye, som har andre love.</p>
+                <h2>Ikke tilbage under åget<br>Galaterbrevet 5,1-4</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Galaterbrevet 5,1-4</span>
+                    <blockquote>«<sup class="vn">1</sup><strong class="s-hi">Til frihed har Kristus sat os fri</strong>. <strong class="s-hi">Stå derfor fast, og lad jer ikke igen spænde under trældommens åg</strong>. <sup class="vn">2</sup>Hør, jeg, Paulus, siger jer: Hvis I lader jer omskære, vil Kristus intet gavne jer. <sup class="vn">3</sup>Og <strong class="s-hi">igen forsikrer jeg ethvert menneske, som lader sig omskære, at han er forpligtet til at holde hele loven</strong>. <sup class="vn">4</sup><strong class="s-hi">I er skilt fra Kristus</strong>, I som vil retfærdiggøres ved loven; <strong class="s-hi">I er faldet ud af nåden</strong>.»</blockquote>
+                </div>
+                <p>Hvorfor går man ikke tilbage? Fordi Kristus har sat fri, og derfor beder Paulus dem stå fast og ikke igen lade sig spænde under trældommens åg. Det vil sige: ikke lade adventisterne og andre sekter komme og lyve og trække de kristne tilbage til den gamle pagts love, som ikke længere gælder. Og ikke engang dem alle, for de lader sig ikke omskære: de tager kun dem, der passer dem.</p>
+                <p>Hvorfor gælder de ikke længere? Det forklarer Bibelen også, og den fortsætter: ethvert menneske, som lader sig omskære, er forpligtet til at holde hele loven, den gamle, helt og fuldt. Og de, der vil retfærdiggøres ved loven, er skilt fra Kristus og faldet ud af nåden. Det var derfor, Kristus kom: for at føre mennesket ud af den gamle pagt og give det den nye.</p>
+                <h2>Hvem han end er<br>Galaterbrevet 5,10-12</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Galaterbrevet 5,10-12</span>
+                    <blockquote>«<sup class="vn">10</sup>Jeg har den tillid til jer i Herren, at I ikke vil mene andet; men <strong class="s-hi">den, der skaber uro blandt jer, skal få sin dom, hvem han end er</strong>. <sup class="vn">11</sup>Men hvis jeg, brødre, stadig forkynder omskærelse, hvorfor bliver jeg så stadig forfulgt? Så er korsets forargelse jo ophævet. <sup class="vn">12</sup><strong class="s-hi">Gid de, som skaber uro blandt jer, ville lade sig skære helt af!</strong>»</blockquote>
+                </div>
+                <p>Den, der skaber uro blandt dem, Kristus har sat fri, skal få sin dom, hvem han end er, og det gælder også adventisterne og de andre kætterske og frafaldne sekter. Om urostifterne ønsker Paulus, at de ville lade sig skære helt af. Det er Bibelen, der siger det, ikke denne side. Det ville være bedre for dem at lade sig omskære, skille sig helt fra Kristi nåde og binde sig fuldstændigt til den gamle lov, end at gå rundt og skabe uro ved at lyve for folk.</p>
+                <h2>En anden dag<br>Hebræerbrevet 4,8</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Hebræerbrevet 4,8</span>
+                    <blockquote>«For hvis Josva havde givet dem hvile, <strong class="s-hi">ville Gud ikke senere have talt om en anden dag</strong>.»</blockquote>
+                </div>
+                <p>En anden dag, en senere, ikke den samme. Ordet anden kan ikke tolkes på anden måde: anden betyder, at det ikke er den samme.</p>
+                <p>Adventisterne svarer med det næste vers:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Hebræerbrevet 4,9-11</span>
+                    <blockquote>«<sup class="vn">9</sup>Altså står der en sabbatshvile tilbage for Guds folk. <sup class="vn">10</sup>For <strong class="s-hi">den, der er gået ind til hans hvile, har også fået hvile fra sine gerninger</strong>, ligesom Gud fra sine. <sup class="vn">11</sup><strong class="s-hi">Lad os derfor ivrigt stræbe efter at komme ind til den hvile</strong>, så ingen falder ved at følge det samme eksempel på ulydighed.»</blockquote>
+                </div>
+                <p>Vers 10 og 11 siger, hvilken hvile der er tale om. Det er Guds hvile, som man går ind til for at hvile fra sine egne gerninger, ligesom Gud fra sine, og forfatteren opfordrer til ivrigt at stræbe efter at komme ind til den. Ingen stræber efter at komme ind til en sabbat: den kommer af sig selv hver syvende dag. Den hvile, Hebræerbrevet taler om, er det evige liv, som sabbatten varslede som et forbillede.</p>
+                <h2>Den første dag i ugen<br>Johannesevangeliet 20,1</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Johannesevangeliet 20,1</span>
+                    <blockquote>«Tidligt om morgenen <strong class="s-hi">den første dag i ugen</strong>, mens det endnu var mørkt, kom Maria Magdalene til graven og så, at stenen var taget bort fra graven.»</blockquote>
+                </div>
+                <p>Den første dag i ugen, den der følger efter sabbatten, er søndag: opstandelsens søndag.</p>
+                <h2>Samme søndag<br>Johannesevangeliet 20,19</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Johannesevangeliet 20,19</span>
+                    <blockquote>«<strong class="s-hi">Om aftenen samme dag, den første dag i ugen</strong>, mens disciplene holdt sig inde bag lukkede døre af frygt for jøderne, kom Jesus og stod midt iblandt dem og sagde til dem: “<strong class="s-hi">Fred være med jer!</strong>”»</blockquote>
+                </div>
+                <p>Samme søndag var disciplene samlet bag lukkede døre af frygt for jøderne. Jesus står midt iblandt dem og siger til dem «Fred være med jer!». Han irettesætter dem ikke: han godkender dem. Hvis de gjorde noget forkert, ville han sige det.</p>
+                <h2>Otte dage efter, igen søndag<br>Johannesevangeliet 20,26</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Johannesevangeliet 20,26</span>
+                    <blockquote>«<strong class="s-hi">Otte dage efter var hans disciple atter samlet</strong>, og Thomas var sammen med dem. Da kom Jesus, mens dørene var lukkede, stod midt iblandt dem og sagde: “<strong class="s-hi">Fred være med jer!</strong>”»</blockquote>
+                </div>
+                <p>Otte dage efter, regnet fra den dag, er den følgende søndag. Disciplene er igen samlet, og Jesus godkender dem på ny med den samme hilsen: «Fred være med jer!».</p>
+                <h2>Om søndagen, for at bryde brødet<br>Apostlenes Gerninger 20,7</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Apostlenes Gerninger 20,7</span>
+                    <blockquote>«<strong class="s-hi">Den første dag i ugen, da vi var samlet for at bryde brødet</strong>, talte Paulus til dem, fordi han ville rejse dagen efter, og han blev ved med at tale til midnat.»</blockquote>
+                </div>
+                <p>Det er en gudstjenestelig samling, brødets brydelse (se emnet <a href="tema-la-eucaristia.html">Eukaristien</a>), den første dag i ugen, allerede fra de første kristne. Det skete omkring år 57, mere end to et halvt århundrede før Konstantins lov om søndagen, som er fra år 321. Der er intet argument for at sige, at de alle tog fejl. Hvis de gjorde, tog Paulus fejl sammen med dem.</p>
+                <h2>En fast dag for indsamlingen<br>Første Korintherbrev 16,2</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Første Korintherbrev 16,2</span>
+                    <blockquote>«<strong class="s-hi">Hver søndag</strong> skal enhver af jer lægge noget til side og samle sammen, efter hvad han har evne til, så indsamlingen ikke først skal foretages, når jeg kommer.»</blockquote>
+                </div>
+                <p>Hver søndag: søndagen, endnu en gang.</p>
+                <h2>Herrens dag<br>Johannes’ Åbenbaring 1,10</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Johannes’ Åbenbaring 1,10</span>
+                    <blockquote>«Jeg kom i Ånden <strong class="s-hi">på Herrens dag</strong>, og jeg hørte bag mig en høj røst som af en basun.»</blockquote>
+                </div>
+                <p>Herrens dag. Sådan oversætter katolske bibler det og selv protestantiske, og nogle katolske oversættelser skriver ligefrem «en søndag». Ordet kommer derfra: på latin <em>dies dominica</em>, Herrens dag, som stadig er søndagens navn på spansk, italiensk, portugisisk og fransk.</p>
+                <h2>Herre over sabbatten<br>Markusevangeliet 2,23-28</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Markusevangeliet 2,23-28</span>
+                    <blockquote>«<sup class="vn">23</sup>En sabbat gik Jesus gennem kornmarkerne, og hans disciple begyndte undervejs at plukke aks. <sup class="vn">24</sup>Farisæerne sagde til ham: “Se, hvorfor gør de det, som ikke er tilladt på en sabbat?” <sup class="vn">25</sup>Han svarede dem: “Har I aldrig læst, hvad David gjorde, da han var i nød og han og hans mænd var sultne, <sup class="vn">26</sup>hvordan han på ypperstepræsten Ebjatars tid gik ind i Guds hus og spiste skuebrødene, som kun præsterne må spise, og gav også sine mænd af dem?” <sup class="vn">27</sup>Og han sagde til dem: “<strong class="s-hi">Sabbatten blev til for menneskets skyld, ikke mennesket for sabbattens skyld</strong>. <sup class="vn">28</sup>Derfor er <strong class="s-hi">Menneskesønnen herre også over sabbatten</strong>.”»</blockquote>
+                </div>
+                <p>Sabbatten blev til for menneskets skyld, ikke mennesket for sabbattens skyld, og Menneskesønnen er herre også over sabbatten. Jesus gør med sabbatten, hvad han vil, også at ændre den.</p>
+                <h2>De ville slå ham ihjel for sabbattens skyld<br>Johannesevangeliet 5,18</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Johannesevangeliet 5,18</span>
+                    <blockquote>«Derfor ville jøderne endnu mere slå ham ihjel, fordi han ikke alene <strong class="s-hi">brød sabbatten</strong>, men også kaldte Gud sin egen Fader og dermed gjorde sig selv lig med Gud.»</blockquote>
+                </div>
+                <p>Johannes siger det rent ud: Kristus brød sabbatten, og derfor ville de slå ham ihjel.</p>
+                <h2>Det er fuldbragt<br>Johannesevangeliet 19,30</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Johannesevangeliet 19,30</span>
+                    <blockquote>«Da Jesus havde fået eddiken, sagde han: “<strong class="s-hi">Det er fuldbragt!</strong>” Og han bøjede hovedet og opgav ånden.»</blockquote>
+                </div>
+                <p>Det er den gamle pagts afslutning. Kristus fuldbragte den, hvilede i graven på sabbatten og opstod om søndagen.</p>
+                <p>Mod dette citerer adventisterne Bjergprædikenen:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matthæusevangeliet 5,17-18</span>
+                    <blockquote>«<sup class="vn">17</sup>Tro ikke, at jeg er kommet for at nedbryde loven eller profeterne; <strong class="s-hi">jeg er ikke kommet for at nedbryde, men for at opfylde</strong>. <sup class="vn">18</sup>Sandelig siger jeg jer: Før himlen og jorden forgår, skal ikke et i eller en tøddel forgå af loven, <strong class="s-hi">før alt er sket</strong>.»</blockquote>
+                </div>
+                <p>Teksten sætter en frist. Kristus kom ikke for at nedbryde loven, men for at opfylde den, og loven gælder, før alt er sket. På korset sagde han, at det var fuldbragt. Det, der opfyldes, ophæves ikke: det når sin ende, fordi det har nået det, det var til for.</p>
+                <h2>Døde for loven<br>Romerbrevet 7,1-6</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Romerbrevet 7,1-6</span>
+                    <blockquote>«<sup class="vn">1</sup>Ved I ikke, brødre, for <strong class="s-hi">jeg taler til folk, der kender loven</strong>, at loven kun har magt over et menneske, så længe det lever? <sup class="vn">2</sup>En gift kvinde er ved loven bundet til sin mand, så længe han lever; men dør manden, er hun løst fra den lov, der bandt hende til manden. <sup class="vn">3</sup>Derfor kaldes hun ægteskabsbryder, hvis hun bliver en anden mands, mens hendes mand lever; men dør manden, er hun fri af loven, så hun ikke er ægteskabsbryder, når hun bliver en anden mands. <sup class="vn">4</sup>Sådan er også I, mine brødre, <strong class="s-hi">gjort døde for loven ved Kristi legeme, så I tilhører en anden</strong>, ham, der blev oprejst fra de døde, for at vi skal bære frugt for Gud. <sup class="vn">5</sup>For da vi levede i kødet, virkede <strong class="s-hi">syndens lidenskaber, vakt ved loven, i vore lemmer, så vi bar frugt for døden</strong>. <sup class="vn">6</sup>Men <strong class="s-hi">nu er vi løst fra loven, døde fra det, vi var holdt fangne af</strong>, så vi tjener <strong class="s-hi">i Åndens nye væsen og ikke i bogstavens gamle</strong>.»</blockquote>
+                </div>
+                <p>Paulus taler til folk, der kender loven, og bruger ægteskabet som billede. Kvinden er bundet til sin mand, så længe han lever; når han dør, er hun fri og kan gifte sig med en anden uden at være ægteskabsbryder. Sådan er det også med loven: ved Kristi død er de kristne gjort døde for loven og tilhører nu en anden, ham der opstod. Den lov, der holdt dem fangne, binder dem ikke længere, og de tjener Gud i Åndens nye væsen, ikke i bogstavens gamle.</p>
+                <p>Nu loven er død, gælder den nye pagt.</p>
+                <h2>Ikke på stentavler<br>Andet Korintherbrev 3,3-16</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Andet Korintherbrev 3,3-16</span>
+                    <blockquote>«<sup class="vn">3</sup>I er et brev fra Kristus, skrevet ved vores tjeneste, ikke med blæk, men med den levende Guds ånd, <strong class="s-hi">ikke på stentavler, men på hjerter af kød</strong>. <sup class="vn">4</sup>Den tillid har vi til Gud ved Kristus. <sup class="vn">5</sup>Ikke fordi vi af os selv er i stand til at udtænke noget som noget, der kommer fra os selv; vores evne kommer fra Gud, <sup class="vn">6</sup>som også har gjort os i stand til at være tjenere for en ny pagt, ikke bogstavens, men Åndens; for <strong class="s-hi">bogstaven slår ihjel, men Ånden gør levende</strong>. <sup class="vn">7</sup>Når nu dødens tjeneste, indridset med bogstaver i sten, kom med en sådan herlighed, at israelitterne ikke kunne se på Moses’ ansigt på grund af dets herlighed, <strong class="s-hi">der dog var forgængelig</strong>, <sup class="vn">8</sup>hvor meget større herlighed må så ikke Åndens tjeneste have? <sup class="vn">9</sup>For når fordømmelsens tjeneste var herlig, er retfærdighedens tjeneste langt rigere på herlighed. <sup class="vn">10</sup>Ja, <strong class="s-hi">det, der var herligt, er i denne henseende ikke herligt mere</strong>, fordi den anden herlighed overgår det. <sup class="vn">11</sup>For når det forgængelige kom med herlighed, må det, der varer, have endnu større herlighed. <sup class="vn">12</sup>Da vi har et sådant håb, optræder vi med stor frimodighed, <sup class="vn">13</sup>og ikke som Moses, der <strong class="s-hi">lagde et dække over sit ansigt, for at israelitterne ikke skulle se enden på det forgængelige</strong>. <sup class="vn">14</sup>Men <strong class="s-hi">deres tanker blev forhærdede</strong>. For lige til denne dag hviler det samme dække over oplæsningen af den gamle pagt, og det bliver ikke fjernet, for kun i Kristus forsvinder det. <sup class="vn">15</sup>Ja, <strong class="s-hi">lige til i dag ligger der et dække over deres hjerte, når Moses læses op</strong>; <sup class="vn">16</sup>men <strong class="s-hi">når nogen vender om til Herren, tages dækket bort</strong>.»</blockquote>
+                </div>
+                <p>Ikke på stentavler, men i hjertet. Bogstaven slår ihjel, og Ånden gør levende. Herligheden var forgængelig, og det, der var herligt, er det ikke mere. Dette er Guds ord. Det er ikke sagt af en pave eller en biskop, ingen har opfundet det, og det kommer ikke fra en præst, der en dag rejste sig og fortolkede noget.</p>
+                <p>Moses lagde et dække over sit ansigt, for at israelitterne ikke skulle se enden på det forgængelige, og deres tanker blev forhærdede lige til denne dag, ligesom adventisternes og andre sekters. Lige til i dag ligger der et dække over deres hjerte, når Moses læses op, og det tages kun bort, når de vender om til Herren, det vil sige når de bliver katolikker.</p>
+                <p>Det, der betyder noget, er altså ikke stentavlerne, men hjertet: den moralske lov, ikke den ceremonielle. De moralske bud forsvinder ikke, for Kristus tager dem op igen, som man ser i Matthæus 5. Det, der forgik, var den ceremonielle lov, og med den sabbatsbuddet, som for de kristne er afløst af søndagen (Den Katolske Kirkes Katekismus, 2175).</p>
+                <h2>Lad ingen dømme jer<br>Kolossenserbrevet 2,16-17</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Kolossenserbrevet 2,16-17</span>
+                    <blockquote>«<sup class="vn">16</sup><strong class="s-hi">Lad derfor ingen dømme jer for, hvad I spiser og drikker, eller når det gælder højtider, nymåner og sabbatter</strong>. <sup class="vn">17</sup>Det er kun en skygge af det, der skulle komme, men virkeligheden er Kristi legeme.»</blockquote>
+                </div>
+                <p>Lad ingen dømme de katolikker, der helligholder søndagen. Det er, hvad protestanterne gør, i dette tilfælde adventisterne: de kritiserer uden at kende Skriften.</p>
+                <h2>«Man skal efterligne Kristus»<br>Lukasevangeliet 2,21</h2>
+                <p>Mod alt dette har disse sekter nogle argumenter. Det første: <em>«Jesus holdt sabbatten, og den kristne skal efterligne Kristus.»</em></p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Lukasevangeliet 2,21</span>
+                    <blockquote>«Da otte dage var gået, og <strong class="s-hi">han skulle omskæres</strong>, fik han navnet Jesus, det navn, engelen havde givet ham, før han blev undfanget i moders liv.»</blockquote>
+                </div>
+                <p>Hvis han skal efterlignes, fortæller Lukas, at han blev omskåret efter otte dage. Hvorfor lader de sig ikke omskære? Fordi de efterligner det, der passer dem. Omskærelsen hører ligesom sabbatten til den gamle pagt.</p>
+                <h2>«Hvis I elsker mig, så hold mine bud»<br>Johannesevangeliet 14,15-26</h2>
+                <p>Det andet tager de fra Johannes 14: <em>«Hvis I elsker mig, så hold mine bud. Og buddene er de ti, sabbatten medregnet.»</em> Stedet siger noget andet:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Johannesevangeliet 14,15-26</span>
+                    <blockquote>«<sup class="vn">15</sup><strong class="s-hi">Hvis I elsker mig, så hold mine bud</strong>. <sup class="vn">16</sup>Og jeg vil bede Faderen, og han vil give jer en anden talsmand, som skal være hos jer til evig tid, <sup class="vn">17</sup>sandhedens ånd, som verden ikke kan tage imod, fordi den hverken ser den eller kender den. I kender den, for den bliver hos jer og skal være i jer. <sup class="vn">18</sup>Jeg efterlader jer ikke faderløse; jeg kommer til jer. <sup class="vn">19</sup>Om kort tid ser verden mig ikke mere, men I ser mig, for jeg lever, og I skal leve. <sup class="vn">20</sup>Den dag skal I erkende, at jeg er i min Fader, og at I er i mig og jeg i jer. <sup class="vn">21</sup><strong class="s-hi">Den, der har mine bud og holder dem, han er den, der elsker mig</strong>; og den, der elsker mig, skal elskes af min Fader, og jeg skal elske ham og give mig til kende for ham. <sup class="vn">22</sup>Judas, ikke Iskariot, siger til ham: “Herre, hvordan kan det være, at du vil give dig til kende for os og ikke for verden?” <sup class="vn">23</sup>Jesus svarede ham: “<strong class="s-hi">Hvis nogen elsker mig, vil han holde mit ord</strong>, og min Fader skal elske ham, og vi skal komme til ham og tage bolig hos ham. <sup class="vn">24</sup>Den, der ikke elsker mig, holder ikke mine ord. Og det ord, I hører, er ikke mit, men Faderens, som har sendt mig. <sup class="vn">25</sup>Dette har jeg talt til jer, mens jeg endnu er hos jer. <sup class="vn">26</sup>Men talsmanden, Helligånden, som Faderen vil sende i mit navn, <strong class="s-hi">han skal lære jer alt og minde jer om alt, hvad jeg har sagt jer</strong>.”»</blockquote>
+                </div>
+                <p>Kristus siger ikke «Moses’ bud»: han siger mine bud. Ikke de gamle, men hans egne. Han vender tilbage til dem i vers 21 og 23, og i vers 26 lover han Helligånden, som skal lære dem alt og minde dem om alt, hvad han har sagt.</p>
+                <h2>Det nye bud<br>Johannesevangeliet 13,34-35</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Johannesevangeliet 13,34-35</span>
+                    <blockquote>«<sup class="vn">34</sup><strong class="s-hi">Et nyt bud giver jeg jer</strong>: I skal elske hinanden. Som jeg har elsket jer, skal også I elske hinanden. <sup class="vn">35</sup><strong class="s-hi">Deraf skal alle kende, at I er mine disciple</strong>, hvis I har kærlighed til hinanden.»</blockquote>
+                </div>
+                <p>De sande kristne, og ikke de frafaldne kættere, kendes på, at de følger Kristi bud.</p>
+                <h2>Indtil verdens ende<br>Matthæusevangeliet 28,19-20</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matthæusevangeliet 28,19-20</span>
+                    <blockquote>«<sup class="vn">19</sup>Gå derfor hen og gør alle folkeslagene til mine disciple, idet I døber dem i Faderens og Sønnens og Helligåndens navn <sup class="vn">20</sup>og <strong class="s-hi">lærer dem at holde alt det, som jeg har befalet jer</strong>. Og se, jeg er med jer alle dage <strong class="s-hi">indtil verdens ende</strong>.»</blockquote>
+                </div>
+                <p>Jesus befaler det indtil verdens ende. Ikke én gang, ikke to, ikke kun i begyndelsen. Indtil enden.</p>
+                <p>Og her falder en anden protestantisk lære, den at det er nok at tro, og at gerningerne ikke tæller. Hvis man tror på Kristi ord, og ikke kun på ham, og gør, hvad han siger, bliver det anderledes. Der er gerninger, og troen sættes i værk.</p>
+                <h2>Tegnet på, at vi kender ham<br>Første Johannesbrev 2,3</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Første Johannesbrev 2,3</span>
+                    <blockquote>«Og derpå kan vi vide, at vi kender ham: <strong class="s-hi">at vi holder hans bud</strong>.»</blockquote>
+                </div>
+                <p>Jesu bud. Det, Kristus giver, modtages ved at gøre hans ord, som i Kana, hvor kun tjenerne, der havde gjort, hvad han befalede, vidste, hvad der var sket (se emnet <a href="tema-transubstanciacion.html">Transsubstantiation</a>).</p>
+                <h2>«Men jeg siger jer»<br>Matthæusevangeliet 5,20-28</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matthæusevangeliet 5,20-28</span>
+                    <blockquote>«<sup class="vn">20</sup>For jeg siger jer: Hvis ikke jeres retfærdighed langt overgår de skriftkloges og farisæernes, kommer I slet ikke ind i Himmeriget. <sup class="vn">21</sup>I har hørt, at der er sagt til de gamle: <strong class="s-hi">Du må ikke slå ihjel</strong>. Den, der slår ihjel, skal stilles for retten. <sup class="vn">22</sup><strong class="s-hi">Men jeg siger jer</strong>: Enhver, som bliver vred på sin broder, skal stilles for retten. Den, der siger til sin broder: Raka!, skal stilles for Rådet. Den, der siger: Tåbe!, skal dømmes til Helvedes ild. <sup class="vn">23</sup>Hvis du derfor bærer din gave frem til alteret og dér kommer i tanker om, at din broder har noget imod dig, <sup class="vn">24</sup>så lad din gave blive foran alteret og gå først hen og forlig dig med din broder, og kom så og bær din gave frem. <sup class="vn">25</sup>Skynd dig at blive forligt med din modpart, mens du er på vej med ham, så han ikke overgiver dig til dommeren, og dommeren overgiver dig til betjenten, og du bliver kastet i fængsel. <sup class="vn">26</sup>Sandelig siger jeg dig: Du slipper ikke ud derfra, før du har betalt den sidste øre. <sup class="vn">27</sup>I har hørt, at der er sagt: <strong class="s-hi">Du må ikke bryde et ægteskab</strong>. <sup class="vn">28</sup><strong class="s-hi">Men jeg siger jer</strong>: Enhver, der ser på en kvinde for at begære hende, har allerede begået ægteskabsbrud med hende i sit hjerte.»</blockquote>
+                </div>
+                <p>Kort sagt tager Jesus de gamle bud op igen, og derfor læres de i katekismen. Nogle lader han stå, som de var, og andre ændrer han, som buddet om ægteskabsbrud, som han udvider til tanken. Om sabbatten siger han intet.</p>
+                <h2>«Hvorfor gør I ikke, hvad jeg siger?»<br>Lukasevangeliet 6,46</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Lukasevangeliet 6,46</span>
+                    <blockquote>«Hvorfor kalder I mig “Herre, Herre!” <strong class="s-hi">og gør ikke, hvad jeg siger?</strong>»</blockquote>
+                </div>
+                <p>Hvis de er så ivrige efter at gøre, hvad der er befalet, hvorfor gør de så ikke, hvad Kristus befaler? Fordi de ikke tror det. Hvis de troede det, ville de ikke diskutere det.</p>
+                <h2>Det, Gud ikke tåler<br>Esajas 1,13</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Esajas 1,13</span>
+                    <blockquote>«Kom ikke mere med tomme offergaver, røgelsen er mig en vederstyggelighed. <strong class="s-hi">Nymåne og sabbat og festforsamling</strong>: <strong class="s-hi">jeg tåler ikke uret og festforsamling</strong>.»</blockquote>
+                </div>
+                <p>Herren siger det gennem Esajas: nymåne, sabbat og festforsamling er ham utålelige.</p>
                 <ul>
-                    <li>Den nye lov kalder os til at være jordens salt og verdens lys.</li>
-                    <li>Tilgivelse og barmhjertighed er dens sandeste udtryk.</li>
-                    <li>Vi lever Kristi lov ved at give os selv i kærlighed.</li>
+                    <li>Abrahams to kvinder er de to pagter: Sinaj-pagten føder trælle, og Jerusalem oventil er frit og er de kristnes mor.</li>
+                    <li>Den, der lader sig omskære, er forpligtet til hele loven, og den, der vil retfærdiggøres ved loven, skiller sig fra Kristus.</li>
+                    <li>Kristus opstod om søndagen, viste sig to søndage i træk for de samlede disciple og godkendte dem.</li>
+                    <li>Apostlene brød brødet den første dag i ugen, århundreder før Konstantin, og Åbenbaringen kalder den Herrens dag.</li>
+                    <li>Kristus er herre over sabbatten, og på korset sagde han, at det var fuldbragt.</li>
+                    <li>Loven indridset i sten var forgængelig; den nye pagt er skrevet i hjertet.</li>
+                    <li>Den kristnes bud er Kristi bud, og han tager de gamle op igen uden at sige noget om sabbatten.</li>
                 </ul>
-                <h2>Kristen praksis</h2>
-                <p>Den nye lov bliver konkret liv, når vi dyrker ydmyghed, retfærdighed og medfølelse. Eukaristien og bønnen hjælper os til at leve den dagligt.</p>`,
+                <h2>Konklusion</h2>
+                <p>Pagten fra Sinaj endte, da Kristus fuldbragte den på korset. De kristne er ikke trælkvindens børn, men den frie kvindes, og den, der igen stiller sig under loven, skiller sig fra Kristus. Apostlene samledes om søndagen fra opstandelsens dag, brød brødet den første dag i ugen og kaldte den Herrens dag. Kirken ændrede ikke dagen. Den modtog den fra dem.</p>
+                <p>Derfor gælder Paulus’ ord til kolossenserne stadig for enhver katolik, der helligholder søndagen:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Kolossenserbrevet 2,16</span>
+                    <blockquote>«<strong class="s-hi">Lad derfor ingen dømme jer</strong> for, hvad I spiser og drikker, eller når det gælder højtider, nymåner og sabbatter.»</blockquote>
+                </div>`,
       nav: {
         prevTitle: "Skærsilden og Guds barmhjertighed",
         nextTitle: "Den Hellige Treenighed"

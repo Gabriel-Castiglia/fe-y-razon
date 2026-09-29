@@ -82,10 +82,10 @@ const translationsEN = {
   },
   article8: {
     category: "Doctrine",
-    date: "Coming soon",
+    date: "September 2026",
     title: "The New Law",
-    excerpt: "Christ's law that replaces the Old Law and guides Christians.",
-    time: "8 min read",
+    excerpt: "The Covenant of Sinai ended on the cross, and the apostles gathered on Sunday: what Scripture says about the old Law and the new.",
+    time: "23 min read",
     link: "Read →"
   },
   article9: {
@@ -301,28 +301,209 @@ const translationsEN = {
                 <span class="eyebrow-text">Special Topic</span>
             </div>
             <h1>The New Law in Christ</h1>
-            <p>Understand how Christ’s law surpasses and fulfills the Old Law, inviting us to live in the love and freedom of God’s children.</p>
+            <p>The Covenant of Sinai ended on the cross, and the apostles gathered on Sunday from the day of the resurrection. What Scripture says about the old Law and the new, passage by passage.</p>
             <div class="article-meta">
-                <span>8 min read</span>
-                <span>Published May 2026</span>
+                <span>23 min read</span>
+                <span>Published September 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
-      article: `<p>The new law is the law of the Gospel, centered on the commandment of love. Christ does not abolish the Old Law, but brings it to fulfillment and makes it accessible to the human heart.</p>
-                <h2>Love as the standard</h2>
-                <p>Jesus summarizes the Law in loving God and neighbor. This new rule is not a burden, but a deep freedom that transforms our actions from within.</p>
+      article: `<!--
+Traducción de la-nueva-ley desde el español (29-sep-2026). Citas según la
+traducción católica usual de este idioma, escritas de memoria: sin cotejar.
+-->
+<p>Several Protestant sects hold the heresy that the Christian is still bound to the Law of Moses, or at least to the part of it that each of them chooses. The one that carries the error furthest is the Seventh-day Adventists: they keep the sabbath, abstain from the foods the Law declared unclean, and accuse the Church of having changed God’s day. They put it this way: <em>«The sabbath is the day God sanctified forever. Sunday was imposed by Rome, and whoever keeps it obeys the pope and not God.»</em></p>
+                <p>The answer is in Scripture. Paul wrote it for Christians who were about to do what the Adventists do today: go back to the Law after having received Christ. It is the letter to the Galatians, and the passage is read first in full, with its verses, before going through it part by part.</p>
+                <h2>Two women, two Covenants<br>Galatians 4:21 — 5:12</h2>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝︎ Matthew 22:37-38</span>
-                    <blockquote>«<strong class="s-hi">You shall love the Lord your God with all your heart and your neighbor as yourself</strong>»</blockquote>
+                    <span class="scripture-ref">✝︎ Galatians 4:21 — 5:12</span>
+                    <blockquote>«<sup class="vn">21</sup>Tell me, you who desire to be under law, do you not hear the law? <sup class="vn">22</sup>For it is written that Abraham had two sons, one by a slave and one by a free woman. <sup class="vn">23</sup>But the son of the slave was born according to the flesh, the son of the free woman through promise. <sup class="vn">24</sup><strong class="s-hi">Now this is an allegory: these women are two covenants</strong>. <strong class="s-hi">One is from Mount Sinai, bearing children for slavery</strong>; she is Hagar. <sup class="vn">25</sup>Now Hagar is Mount Sinai in Arabia; she corresponds to the present Jerusalem, for she is in slavery with her children. <sup class="vn">26</sup><strong class="s-hi">But the Jerusalem above is free, and she is our mother</strong>. <sup class="vn">27</sup>For it is written, “Rejoice, O barren one who does not bear; break forth and shout, you who are not in travail; for the children of the desolate one are many more than the children of her that is married.” <sup class="vn">28</sup>Now we, brethren, <strong class="s-hi">like Isaac, are children of promise</strong>. <sup class="vn">29</sup>But as at that time he who was born according to the flesh persecuted him who was born according to the Spirit, so it is now. <sup class="vn">30</sup>But what does the scripture say? “Cast out the slave and her son; for the son of the slave shall not inherit with the son of the free woman.” <sup class="vn">31</sup>So, brethren, <strong class="s-hi">we are not children of the slave but of the free woman</strong>. <sup class="vn">5:1</sup><strong class="s-hi">For freedom Christ has set us free; stand fast therefore, and do not submit again to a yoke of slavery</strong>. <sup class="vn">5:2</sup>Now I, Paul, say to you that if you receive circumcision, Christ will be of no advantage to you. <sup class="vn">5:3</sup><strong class="s-hi">I testify again to every man who receives circumcision that he is bound to keep the whole law</strong>. <sup class="vn">5:4</sup><strong class="s-hi">You are severed from Christ</strong>, you who would be justified by the law; <strong class="s-hi">you have fallen away from grace</strong>. <sup class="vn">5:5</sup>For through the Spirit, by faith, we wait for the hope of righteousness. <sup class="vn">5:6</sup>For in Christ Jesus neither circumcision nor uncircumcision is of any avail, but faith working through love. <sup class="vn">5:7</sup>You were running well; who hindered you from obeying the truth? <sup class="vn">5:8</sup>This persuasion is not from him who called you. <sup class="vn">5:9</sup>A little leaven leavens the whole lump. <sup class="vn">5:10</sup>I have confidence in the Lord that you will take no other view than mine; and <strong class="s-hi">he who is troubling you will bear his judgment, whoever he is</strong>. <sup class="vn">5:11</sup>But if I, brethren, still preach circumcision, why am I still persecuted? In that case the stumbling block of the cross has been removed. <sup class="vn">5:12</sup><strong class="s-hi">I wish those who unsettle you would mutilate themselves!</strong>»</blockquote>
                 </div>
-                <h2>Completing the Old Law</h2>
-                <p>The prophets announced a new law that would live in the heart. Christ’s teaching reveals that authentic obedience is not reduced to external actions, but to a true inner disposition.</p>
+                <h2>The slave and the free woman<br>Galatians 4:24-26</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Galatians 4:24-26</span>
+                    <blockquote>«<sup class="vn">24</sup><strong class="s-hi">Now this is an allegory: these women are two covenants</strong>. One is from Mount Sinai, <strong class="s-hi">bearing children for slavery</strong>; she is Hagar. <sup class="vn">25</sup>Now Hagar is Mount Sinai in Arabia; she corresponds to the present Jerusalem, for she is in slavery with her children. <sup class="vn">26</sup><strong class="s-hi">But the Jerusalem above is free, and she is our mother</strong>.»</blockquote>
+                </div>
+                <p>Paul says it plainly: the story of Abraham is an allegory, and the two women are the two Covenants. Hagar, the slave, is the Covenant of Mount Sinai. The other is the Jerusalem above, the heavenly one, which is free, and she is the mother of Christians.</p>
+                <p>Before, they were slaves of the old Covenant, the one of ritual laws, which served to teach a people its customs. But that was not enough by itself. That is why that pact was closed when man matured in his relationship with God, and the New Covenant arose, the covenant of the moral law, of the Jerusalem above, of heaven, which makes free.</p>
+                <h2>Children of the free woman<br>Galatians 4:28-31</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Galatians 4:28-31</span>
+                    <blockquote>«<sup class="vn">28</sup><strong class="s-hi">Now we, brethren, like Isaac, are children of promise</strong>. <sup class="vn">29</sup>But as at that time he who was born according to the flesh persecuted him who was born according to the Spirit, so it is now. <sup class="vn">30</sup>But what does the scripture say? “Cast out the slave and her son; for the son of the slave shall not inherit with the son of the free woman.” <sup class="vn">31</sup>So, brethren, <strong class="s-hi">we are not children of the slave but of the free woman</strong>.»</blockquote>
+                </div>
+                <p>There it is: Christians are not children of the slave but of the free woman. They are not under the old Covenant but under the new one, which has other laws.</p>
+                <h2>Not back under the yoke<br>Galatians 5:1-4</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Galatians 5:1-4</span>
+                    <blockquote>«<sup class="vn">1</sup><strong class="s-hi">For freedom Christ has set us free</strong>; <strong class="s-hi">stand fast therefore, and do not submit again to a yoke of slavery</strong>. <sup class="vn">2</sup>Now I, Paul, say to you that if you receive circumcision, Christ will be of no advantage to you. <sup class="vn">3</sup><strong class="s-hi">I testify again to every man who receives circumcision that he is bound to keep the whole law</strong>. <sup class="vn">4</sup><strong class="s-hi">You are severed from Christ</strong>, you who would be justified by the law; <strong class="s-hi">you have fallen away from grace</strong>.»</blockquote>
+                </div>
+                <p>Why is there no going back? Because Christ set free, and that is why Paul asks them to stand fast and not submit again to the yoke of slavery. That is, not to let the Adventists and other sects come and lie, and drag Christians back toward laws of the old pact, which no longer bind. And not even all of them, because they are not circumcised: they take only the ones that suit them.</p>
+                <p>Why do they no longer bind? The Bible explains that too, and it goes on: every man who receives circumcision is bound to keep the whole Law, the old one, all of it. And those who would be justified by the Law are severed from Christ and have fallen away from grace. That is what Christ came for: to take man out of the old pact and give him the new one.</p>
+                <h2>Whoever he is<br>Galatians 5:10-12</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Galatians 5:10-12</span>
+                    <blockquote>«<sup class="vn">10</sup>I have confidence in the Lord that you will take no other view than mine; and <strong class="s-hi">he who is troubling you will bear his judgment, whoever he is</strong>. <sup class="vn">11</sup>But if I, brethren, still preach circumcision, why am I still persecuted? In that case the stumbling block of the cross has been removed. <sup class="vn">12</sup><strong class="s-hi">I wish those who unsettle you would mutilate themselves!</strong>»</blockquote>
+                </div>
+                <p>Whoever troubles those whom Christ set free will bear his judgment, whoever he is, and that includes the Adventists and the other heretical and apostate sects. As for the agitators, Paul wishes they would mutilate themselves. The Bible says it, not this site. They would do better to be circumcised, to cut themselves off from the grace of Christ altogether and bind themselves completely to the old Law, instead of going about as troublemakers lying to people.</p>
+                <h2>Another day<br>Hebrews 4:8</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Hebrews 4:8</span>
+                    <blockquote>«For if Joshua had given them rest, <strong class="s-hi">God would not speak later of another day</strong>.»</blockquote>
+                </div>
+                <p>Another day, a later one, not the same. There is no possible interpretation of the word another: another means that it is not the same.</p>
+                <p>The Adventists answer with the next verse:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Hebrews 4:9-11</span>
+                    <blockquote>«<sup class="vn">9</sup>So then, there remains a sabbath rest for the people of God; <sup class="vn">10</sup>for <strong class="s-hi">whoever enters God’s rest also ceases from his labors</strong> as God did from his. <sup class="vn">11</sup><strong class="s-hi">Let us therefore strive to enter that rest</strong>, that no one fall by the same sort of disobedience.»</blockquote>
+                </div>
+                <p>Verses 10 and 11 say what rest this is. It is God’s rest, into which one enters to cease from one’s own labors as God did from his, and the author urges the readers to strive to enter it. No one strives to enter a sabbath: it arrives by itself, every seven days. The rest Hebrews speaks of is eternal life, which the sabbath announced as a figure.</p>
+                <h2>The first day of the week<br>John 20:1</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ John 20:1</span>
+                    <blockquote>«Now <strong class="s-hi">on the first day of the week</strong> Mary Magdalene came to the tomb early, while it was still dark, and saw that the stone had been taken away from the tomb.»</blockquote>
+                </div>
+                <p>The first day of the week, the one that follows the sabbath, is Sunday: Resurrection Sunday.</p>
+                <h2>That same Sunday<br>John 20:19</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ John 20:19</span>
+                    <blockquote>«<strong class="s-hi">On the evening of that day, the first day of the week</strong>, the doors being shut where the disciples were, for fear of the Jews, Jesus came and stood among them and said to them, “<strong class="s-hi">Peace be with you.</strong>”»</blockquote>
+                </div>
+                <p>That same Sunday, the disciples were gathered behind shut doors for fear of the Jews. Jesus stands among them and says to them «Peace be with you». He does not scold them: he approves of them. If they were doing something wrong, he would tell them.</p>
+                <h2>Eight days later, Sunday again<br>John 20:26</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ John 20:26</span>
+                    <blockquote>«<strong class="s-hi">Eight days later, his disciples were again in the house</strong>, and Thomas was with them. The doors were shut, but Jesus came and stood among them, and said, “<strong class="s-hi">Peace be with you.</strong>”»</blockquote>
+                </div>
+                <p>Eight days later, counting from that day, is the following Sunday. The disciples are gathered again, and Jesus approves of them once more with the same greeting: «Peace be with you».</p>
+                <h2>On Sunday, to break bread<br>Acts 20:7</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Acts 20:7</span>
+                    <blockquote>«<strong class="s-hi">On the first day of the week, when we were gathered together to break bread</strong>, Paul talked with them, intending to depart on the morrow; and he prolonged his speech until midnight.»</blockquote>
+                </div>
+                <p>It is a gathering for worship, the breaking of bread (see the topic <a href="tema-la-eucaristia.html">The Eucharist</a>), on the first day of the week, already from the first Christians. It happened around the year 57, more than two and a half centuries before Constantine’s law on Sunday, which dates from the year 321. There is no argument for saying that they were all wrong. If they were, Paul was wrong with them.</p>
+                <h2>A fixed day for the collection<br>1 Corinthians 16:2</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Corinthians 16:2</span>
+                    <blockquote>«<strong class="s-hi">On the first day of every week</strong>, each of you is to put something aside and store it up, as he may prosper, so that contributions need not be made when I come.»</blockquote>
+                </div>
+                <p>The first day of the week: Sunday, once again.</p>
+                <h2>The Lord’s Day<br>Revelation 1:10</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Revelation 1:10</span>
+                    <blockquote>«I was in the Spirit on <strong class="s-hi">the Lord’s day</strong>, and I heard behind me a loud voice like a trumpet.»</blockquote>
+                </div>
+                <p>The Lord’s day. That is how Catholic Bibles translate it, and even Protestant ones such as the King James, and some Catholic translations put simply «on a Sunday». The word comes from there: in Latin, <em>dies dominica</em>, the day of the Lord, which is still the name of Sunday in Spanish, Italian, Portuguese and French.</p>
+                <h2>Lord of the sabbath<br>Mark 2:23-28</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mark 2:23-28</span>
+                    <blockquote>«<sup class="vn">23</sup>One sabbath he was going through the grainfields; and as they made their way his disciples began to pluck heads of grain. <sup class="vn">24</sup>And the Pharisees said to him, “Look, why are they doing what is not lawful on the sabbath?” <sup class="vn">25</sup>And he said to them, “Have you never read what David did, when he was in need and was hungry, he and those who were with him: <sup class="vn">26</sup>how he entered the house of God, when Abiathar was high priest, and ate the bread of the Presence, which it is not lawful for any but the priests to eat, and also gave it to those who were with him?” <sup class="vn">27</sup>And he said to them, “<strong class="s-hi">The sabbath was made for man, not man for the sabbath</strong>; <sup class="vn">28</sup>so <strong class="s-hi">the Son of man is lord even of the sabbath</strong>.”»</blockquote>
+                </div>
+                <p>The sabbath was made for man, not man for the sabbath, and the Son of man is lord even of the sabbath. Jesus does with the sabbath as he wills, even changing it.</p>
+                <h2>They wanted to kill him over the sabbath<br>John 5:18</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ John 5:18</span>
+                    <blockquote>«This was why the Jews sought all the more to kill him, because he not only <strong class="s-hi">broke the sabbath</strong> but also called God his own Father, making himself equal with God.»</blockquote>
+                </div>
+                <p>John says it in so many words: Christ broke the sabbath, and that is why they sought to kill him.</p>
+                <h2>It is finished<br>John 19:30</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ John 19:30</span>
+                    <blockquote>«When Jesus had received the vinegar, he said, “<strong class="s-hi">It is finished</strong>”; and he bowed his head and gave up his spirit.»</blockquote>
+                </div>
+                <p>It is the end of the old Covenant. Christ fulfilled it, rested in the tomb on the sabbath and rose on Sunday.</p>
+                <p>Against this, the Adventists quote the Sermon on the Mount:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matthew 5:17-18</span>
+                    <blockquote>«<sup class="vn">17</sup>Think not that I have come to abolish the law and the prophets; <strong class="s-hi">I have come not to abolish them but to fulfil them</strong>. <sup class="vn">18</sup>For truly, I say to you, till heaven and earth pass away, not an iota, not a dot, will pass from the law <strong class="s-hi">until all is accomplished</strong>.»</blockquote>
+                </div>
+                <p>The text sets a deadline. Christ did not come to abolish the Law but to fulfil it, and the Law stands until all is accomplished. On the cross he said that it was finished. What is fulfilled is not repealed: it comes to its end because it reached what it existed for.</p>
+                <h2>Dead to the Law<br>Romans 7:1-6</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Romans 7:1-6</span>
+                    <blockquote>«<sup class="vn">1</sup>Do you not know, brethren (for <strong class="s-hi">I am speaking to those who know the law</strong>), that the law is binding on a person only during his life? <sup class="vn">2</sup>Thus a married woman is bound by law to her husband as long as he lives; but if her husband dies she is discharged from the law concerning the husband. <sup class="vn">3</sup>Accordingly, she will be called an adulteress if she lives with another man while her husband is alive. But if her husband dies she is free from that law, and if she marries another man she is not an adulteress. <sup class="vn">4</sup>Likewise, my brethren, <strong class="s-hi">you have died to the law through the body of Christ, so that you may belong to another</strong>, to him who has been raised from the dead in order that we may bear fruit for God. <sup class="vn">5</sup>While we were living in the flesh, <strong class="s-hi">our sinful passions, aroused by the law, were at work in our members to bear fruit for death</strong>. <sup class="vn">6</sup>But now <strong class="s-hi">we are discharged from the law, dead to that which held us captive</strong>, so that we serve <strong class="s-hi">not under the old written code but in the new life of the Spirit</strong>.»</blockquote>
+                </div>
+                <p>Paul speaks to those who know the law and uses the analogy of marriage. A woman is bound to her husband while he lives; when he dies, she is free and may marry another man without being an adulteress. So it is with the Law: through the death of Christ, Christians died to the Law and came to belong to another, to him who was raised. The Law that held them captive no longer binds them, and they serve God in the new life of the Spirit, not under the old written code.</p>
+                <p>The Law being dead, the New Covenant now stands.</p>
+                <h2>Not on tablets of stone<br>2 Corinthians 3:3-16</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 2 Corinthians 3:3-16</span>
+                    <blockquote>«<sup class="vn">3</sup>And you show that you are a letter from Christ delivered by us, written not with ink but with the Spirit of the living God, <strong class="s-hi">not on tablets of stone but on tablets of human hearts</strong>. <sup class="vn">4</sup>Such is the confidence that we have through Christ toward God. <sup class="vn">5</sup>Not that we are sufficient of ourselves to claim anything as coming from us; our sufficiency is from God, <sup class="vn">6</sup>who has made us competent to be ministers of a new covenant, not in a written code but in the Spirit; for <strong class="s-hi">the written code kills, but the Spirit gives life</strong>. <sup class="vn">7</sup>Now if the dispensation of death, carved in letters on stone, came with such splendor that the Israelites could not look at Moses’ face because of its brightness, <strong class="s-hi">fading as this was</strong>, <sup class="vn">8</sup>will not the dispensation of the Spirit be attended with greater splendor? <sup class="vn">9</sup>For if there was splendor in the dispensation of condemnation, the dispensation of righteousness must far exceed it in splendor. <sup class="vn">10</sup>Indeed, in this case, <strong class="s-hi">what once had splendor has come to have no splendor at all</strong>, because of the splendor that surpasses it. <sup class="vn">11</sup>For if what faded away came with splendor, what is permanent must have much more splendor. <sup class="vn">12</sup>Since we have such a hope, we are very bold, <sup class="vn">13</sup>not like Moses, who <strong class="s-hi">put a veil over his face so that the Israelites might not see the end of the fading splendor</strong>. <sup class="vn">14</sup>But <strong class="s-hi">their minds were hardened; for to this day</strong>, when they read the old covenant, that same veil remains unlifted, because only through Christ is it taken away. <sup class="vn">15</sup>Yes, <strong class="s-hi">to this day whenever Moses is read a veil lies over their minds</strong>; <sup class="vn">16</sup>but <strong class="s-hi">when a man turns to the Lord the veil is removed</strong>.»</blockquote>
+                </div>
+                <p>Not on tablets of stone but on the heart. The written code kills and the Spirit gives life. The splendor was fading, and what once had splendor has it no longer. This is the word of God. No pope or bishop said it, nobody invented it, and it did not come from some pastor who got up one day and interpreted something.</p>
+                <p>Moses put a veil over his face so that the Israelites might not see the end of what was fading, and their minds were hardened to this day, like those of the Adventists and other sects. To this day, whenever they read Moses, the veil lies over their minds, and it is removed only when they turn to the Lord, that is, when they become Catholics.</p>
+                <p>What matters, then, is not the tablets of stone but the heart: the moral law, not the ceremonial one. The moral commandments do not disappear, because Christ takes them up again, as Matthew 5 shows. What passed away was the ceremonial law, and with it the precept of the sabbath, which for Christians was replaced by Sunday (Catechism of the Catholic Church, 2175).</p>
+                <h2>Let no one pass judgment on you<br>Colossians 2:16-17</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Colossians 2:16-17</span>
+                    <blockquote>«<sup class="vn">16</sup>Therefore <strong class="s-hi">let no one pass judgment on you in questions of food and drink or with regard to a festival or a new moon or a sabbath</strong>. <sup class="vn">17</sup>These are only a shadow of what is to come; but the substance belongs to Christ.»</blockquote>
+                </div>
+                <p>Let no one pass judgment on the Catholics who keep Sunday holy. That is what the Protestants do, in this case the Adventists: they judge without knowing Scripture.</p>
+                <h2>«Christ must be imitated»<br>Luke 2:21</h2>
+                <p>Against all this, these sects have a few arguments. The first: <em>«Jesus kept the sabbath, and the Christian must imitate Christ.»</em></p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Luke 2:21</span>
+                    <blockquote>«And at the end of eight days, <strong class="s-hi">when he was circumcised</strong>, he was called Jesus, the name given by the angel before he was conceived in the womb.»</blockquote>
+                </div>
+                <p>If he must be imitated, Luke tells that at the end of eight days he was circumcised. Why are they not circumcised? Because they imitate what suits them. Circumcision, like the sabbath, belongs to the old pact.</p>
+                <h2>«If you love me, keep my commandments»<br>John 14:15-26</h2>
+                <p>The second they take from John 14: <em>«If you love me, keep my commandments. And the commandments are the ten, the sabbath included.»</em> The passage says something else:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ John 14:15-26</span>
+                    <blockquote>«<sup class="vn">15</sup><strong class="s-hi">If you love me, you will keep my commandments</strong>. <sup class="vn">16</sup>And I will pray the Father, and he will give you another Counselor, to be with you for ever, <sup class="vn">17</sup>even the Spirit of truth, whom the world cannot receive, because it neither sees him nor knows him; you know him, for he dwells with you, and will be in you. <sup class="vn">18</sup>I will not leave you desolate; I will come to you. <sup class="vn">19</sup>Yet a little while, and the world will see me no more, but you will see me; because I live, you will live also. <sup class="vn">20</sup>In that day you will know that I am in my Father, and you in me, and I in you. <sup class="vn">21</sup><strong class="s-hi">He who has my commandments and keeps them, he it is who loves me</strong>; and he who loves me will be loved by my Father, and I will love him and manifest myself to him. <sup class="vn">22</sup>Judas (not Iscariot) said to him, “Lord, how is it that you will manifest yourself to us, and not to the world?” <sup class="vn">23</sup>Jesus answered him, “<strong class="s-hi">If a man loves me, he will keep my word</strong>, and my Father will love him, and we will come to him and make our home with him. <sup class="vn">24</sup>He who does not love me does not keep my words; and the word which you hear is not mine but the Father’s who sent me. <sup class="vn">25</sup>These things I have spoken to you, while I am still with you. <sup class="vn">26</sup>But the Counselor, the Holy Spirit, whom the Father will send in my name, <strong class="s-hi">he will teach you all things, and bring to your remembrance all that I have said to you</strong>.”»</blockquote>
+                </div>
+                <p>Christ does not say «the commandments of Moses»: he says my commandments. Not the old ones, his very own. He comes back to them in verses 21 and 23, and in verse 26 he promises the Holy Spirit, who will teach them all things and bring to their remembrance all that he said to them.</p>
+                <h2>The new commandment<br>John 13:34-35</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ John 13:34-35</span>
+                    <blockquote>«<sup class="vn">34</sup><strong class="s-hi">A new commandment I give to you</strong>, that you love one another; even as I have loved you, that you also love one another. <sup class="vn">35</sup><strong class="s-hi">By this all men will know that you are my disciples</strong>, if you have love for one another.»</blockquote>
+                </div>
+                <p>True Christians, and not apostate heretics, are known by following the commandments of Christ.</p>
+                <h2>To the close of the age<br>Matthew 28:19-20</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matthew 28:19-20</span>
+                    <blockquote>«<sup class="vn">19</sup>Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, <sup class="vn">20</sup><strong class="s-hi">teaching them to observe all that I have commanded you</strong>; and lo, I am with you always, <strong class="s-hi">to the close of the age</strong>.»</blockquote>
+                </div>
+                <p>Jesus commands it to the close of the age. Not once, not twice, not only at the beginning. To the end.</p>
+                <p>And here another Protestant doctrine falls, the one that says believing is enough and works do not count. If one believes in the word of Christ, and not only in him, and does what he says, things change. There are works, and faith is put into practice.</p>
+                <h2>The sign that we know him<br>1 John 2:3</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 John 2:3</span>
+                    <blockquote>«And by this we may be sure that we know him, <strong class="s-hi">if we keep his commandments</strong>.»</blockquote>
+                </div>
+                <p>The commandments of Jesus. What Christ gives is received by fulfilling his word, as at Cana, where only the servants who did what he commanded knew what had happened (see the topic <a href="tema-transubstanciacion.html">Transubstantiation</a>).</p>
+                <h2>«But I say to you»<br>Matthew 5:20-28</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matthew 5:20-28</span>
+                    <blockquote>«<sup class="vn">20</sup>For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven. <sup class="vn">21</sup>You have heard that it was said to the men of old, ‘<strong class="s-hi">You shall not kill</strong>; and whoever kills shall be liable to judgment.’ <sup class="vn">22</sup><strong class="s-hi">But I say to you</strong> that every one who is angry with his brother shall be liable to judgment; whoever insults his brother shall be liable to the council, and whoever says, ‘You fool!’ shall be liable to the hell of fire. <sup class="vn">23</sup>So if you are offering your gift at the altar, and there remember that your brother has something against you, <sup class="vn">24</sup>leave your gift there before the altar and go; first be reconciled to your brother, and then come and offer your gift. <sup class="vn">25</sup>Make friends quickly with your accuser, while you are going with him to court, lest your accuser hand you over to the judge, and the judge to the guard, and you be put in prison; <sup class="vn">26</sup>truly, I say to you, you will never get out till you have paid the last penny. <sup class="vn">27</sup>You have heard that it was said, ‘<strong class="s-hi">You shall not commit adultery</strong>.’ <sup class="vn">28</sup><strong class="s-hi">But I say to you</strong> that every one who looks at a woman lustfully has already committed adultery with her in his heart.»</blockquote>
+                </div>
+                <p>In short, Jesus takes up the old commandments again, and that is why they are taught in the catechism. Some he leaves as they were and others he changes, like the one on adultery, which he extends to thought. Of the sabbath he says nothing.</p>
+                <h2>«Why do you not do what I tell you?»<br>Luke 6:46</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Luke 6:46</span>
+                    <blockquote>«Why do you call me ‘Lord, Lord,’ <strong class="s-hi">and not do what I tell you</strong>?»</blockquote>
+                </div>
+                <p>If they are so eager to do what is commanded, why do they not keep what Christ commands? Because they do not believe it. If they believed it, they would not argue about it.</p>
+                <h2>What God cannot endure<br>Isaiah 1:13</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Isaiah 1:13</span>
+                    <blockquote>«Bring no more vain offerings; incense is an abomination to me. <strong class="s-hi">New moon and sabbath and the calling of assemblies</strong>: <strong class="s-hi">I cannot endure iniquity and solemn assembly</strong>.»</blockquote>
+                </div>
+                <p>The Lord says it through Isaiah: the new moon, the sabbath and the calling of assemblies are unbearable to him.</p>
                 <ul>
-                    <li>The new law calls us to be salt of the earth and light of the world.</li>
-                    <li>Forgiveness and mercy are its truest expression.</li>
-                    <li>We live Christ’s law by giving ourselves in love.</li>
+                    <li>Abraham’s two women are the two Covenants: the one from Sinai bears slaves, and the Jerusalem above is free and is the mother of Christians.</li>
+                    <li>Whoever receives circumcision is bound to the whole Law, and whoever would be justified by the Law is severed from Christ.</li>
+                    <li>Christ rose on Sunday, appeared on two Sundays in a row to the gathered disciples and approved of them.</li>
+                    <li>The apostles broke bread on the first day of the week, centuries before Constantine, and Revelation calls it the Lord’s day.</li>
+                    <li>Christ is lord of the sabbath, and on the cross he said that it was finished.</li>
+                    <li>The Law carved on stone was fading; the New Covenant is written on the heart.</li>
+                    <li>The Christian’s commandments are those of Christ, who takes up the old ones again and says nothing of the sabbath.</li>
                 </ul>
-                <h2>Christian practice</h2>
-                <p>The new law becomes concrete life when we cultivate humility, justice, and compassion. The Eucharist and prayer help us live it daily.</p>`,
+                <h2>Conclusion</h2>
+                <p>The Covenant of Sinai ended when Christ fulfilled it on the cross. Christians are not children of the slave but of the free woman, and whoever places himself under the Law again is severed from Christ. The apostles gathered on Sunday from the day of the resurrection, broke bread on the first day of the week and called it the Lord’s day. The Church did not change the day. She received it from them.</p>
+                <p>That is why Paul’s word to the Colossians still holds for every Catholic who keeps Sunday holy:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Colossians 2:16</span>
+                    <blockquote>«Therefore <strong class="s-hi">let no one pass judgment on you</strong> in questions of food and drink or with regard to a festival or a new moon or a sabbath.»</blockquote>
+                </div>`,
       nav: {
         prevTitle: "Purgatory and God’s Mercy",
         nextTitle: "The Holy Trinity"

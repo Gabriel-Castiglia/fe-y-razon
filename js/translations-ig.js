@@ -46,7 +46,7 @@ const translationsIG = {
     category: "Ozizi", date: "Septemba 2026", title: "Pọgatọrị", excerpt: "Ụlọ mkpọrọ a na-esi apụta na mmehie a na-agbaghara n'ụwa na-abịa: ihe Kraịst kụziri banyere nsacha.", time: "Nkeji 8 ịgụ", link: "Gụọ →"
   },
   article8: {
-    category: "Ozizi", date: "Ọ na-abịa", title: "Iwu Ọhụrụ", excerpt: "Iwu Kraịst nke na-anọchi Iwu Ochie ma na-eduzi Ndị Kraịst.", time: "Nkeji 8 ịgụ", link: "Gụọ →"
+    category: "Ozizi", date: "Septemba 2026", title: "Iwu Ọhụrụ", excerpt: "Ọgbụgba ndụ Saịnaị kwụsịrị n’obe, ndịozi na-ezukọkwa n’ụbọchị Sọnde: ihe Akwụkwọ Nsọ kwuru banyere Iwu ochie na nke ọhụrụ.", time: "Nkeji 23 ịgụ", link: "Gụọ →"
   },
   article9: {
     category: "Apologetics", date: "Septemba 2026", title: "Ịbụ onye mbụ nke Pita", excerpt: "Mkpịsị igodo nke alaeze, okwute na ọrụ ime ka ụmụnna guzosie ike: ihe Akwụkwọ Nsọ nyere Pita.", time: "Nkeji 14 ịgụ", link: "Gụọ →"
@@ -163,11 +163,204 @@ const translationsIG = {
     },
     "la-nueva-ley": {
       pageTitle: "Iwu Ọhụrụ | Okwukwe na Uche",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Isiokwu Pụrụ Iche</span></div><h1>Iwu Ọhụrụ n'ime Kraịst</h1><p>Ghọta etu iwu Kraịst si karịa ma mezuo Iwu Ochie, na-akpọ anyị ka anyị bie ndụ n'ịhụnanya na nnwere onwe nke ụmụ Chineke.</p><div class="article-meta"><span>Nkeji 8 ịgụ</span><span>Ebipụtara na Mee 2026</span></div><a href="temas.html" class="btn-outline-white">Laghachi na Isiokwu</a>`,
-      article: `<p>Iwu ọhụrụ bụ iwu nke Oziọma, gbadoro ụkwụ na iwu ịhụnanya. Kraịst ewepụghị Iwu Ochie, kama Ọ na-ebute ya na mmezu ya ma na-eme ka ọ dị mfe iru n'obi mmadụ.</p><h2>Ịhụnanya dị ka ihe nlele</h2><p>Jizọs na-achịkọta Iwu ahụ na ịhụ Chineke na onye agbata obi n'anya. Iwu ọhụrụ a abụghị ibu, kama nnwere onwe miri emi nke na-agbanwe omume anyị site n'ime.</p><div class="scripture-block">
-                    <span class="scripture-ref">✝︎ Matiu 22:37-38</span>
-                    <blockquote>«<strong class="s-hi">Ị ga-eji obi gị niile hụ Onyenwe anyị Chineke gị n'anya ma hụ onye agbata obi gị n'anya dị ka onwe gị</strong>»</blockquote>
-                </div><h2>Imeli Iwu Ochie</h2><p>Ndị amụma mara ọkwa iwu ọhụrụ nke ga-ebi n'obi. Ozizi Kraịst na-egosi na ezigbo mmezu nke Iwu abụghị naanị omume mpụga, kama ọ bụ n'ezie njikere dị n'ime.</p><ul><li>Iwu ọhụrụ a na-akpọ anyị ka anyị bụrụ nnu nke ụwa na ìhè nke ụwa.</li><li>Mgbaghara na ebere bụ ngosipụta ya kachasị eziokwu.</li><li>Anyị na-ebi iwu Kraịst site n'inye onwe anyị n'ịhụnanya.</li></ul><h2>Omume Onye Kraịst</h2><p>Iwu ọhụrụ na-aghọ ezigbo ndụ mgbe anyị nwere ịdị umeala n'obi, ikpe nkwụmọtọ na ọmịiko. Yukarist na ekpere na-enyere anyị aka ibi ndụ kwa ụbọchị.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Isiokwu Pụrụ Iche</span></div><h1>Iwu Ọhụrụ n'ime Kraịst</h1><p>Ọgbụgba ndụ Saịnaị kwụsịrị n’obe, ndịozi na-ezukọkwa n’ụbọchị Sọnde site n’ụbọchị mbilite n’ọnwụ. Ihe Akwụkwọ Nsọ kwuru banyere Iwu ochie na nke ọhụrụ, otu akụkụ n’otu akụkụ.</p><div class="article-meta"><span>Nkeji 23 ịgụ</span><span>Ebipụtara na Septemba 2026</span></div><a href="temas.html" class="btn-outline-white">Laghachi na Isiokwu</a>`,
+      article: `<!--
+Traducción de la-nueva-ley desde el español (29-sep-2026). Citas según la
+traducción católica usual de este idioma, escritas de memoria: sin cotejar.
+-->
+<p>Ọtụtụ òtù Protestant na-ejide ozizi ụgha na Onye Kraịst ka nọ n’agbụ nke Iwu Mozis, ma ọ bụ ma ọ dịkarịa ala n’akụkụ nke ọ bụla n’ime ha họọrọ. Ndị na-ebugharị njehie a karịa ndị ọzọ bụ ndị Seventh-day Adventist: ha na-edebe Ụbọchị Izu Ike, na-ezere nri ndị Iwu kpọrọ ihe rụrụ arụ, na-ebokwa Nzukọ-nsọ ebubo na ọ gbanwere ụbọchị Chineke. Ha na-ekwu ya otu a: <em>«Ụbọchị Izu Ike bụ ụbọchị Chineke doro nsọ ruo mgbe ebighị ebi. Rom tinyere Sọnde, onye na-edebe ya na-erubere pope isi, ọ bụghị Chineke.»</em></p>
+                <p>Azịza ya dị n’Akwụkwọ Nsọ. Pọl dere ya nye Ndị Kraịst ndị na-achọ ime ihe ndị Adventist na-eme taa: ịlaghachi n’Iwu mgbe ha nabatachara Kraịst. Ọ bụ akwụkwọ ozi e degaara ndị Galeshia, a na-ebu ụzọ gụchaa akụkụ ahụ niile, ya na amaokwu ya, tupu e leba anya n’ya otu akụkụ n’otu akụkụ.</p>
+                <h2>Ụmụ nwanyị abụọ, ọgbụgba ndụ abụọ<br>Ndị Galeshia 4:21 — 5:12</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ndị Galeshia 4:21 — 5:12</span>
+                    <blockquote>«<sup class="vn">21</sup>Gwanụ m, unu ndị chọrọ ịnọ n’okpuru Iwu: ọ̀ bụ na unu anụghị ihe Iwu na-ekwu? <sup class="vn">22</sup>E dere na Ebreham nwere ụmụ nwoke abụọ, otu site n’ohu nwanyị, nke ọzọ site na nwanyị nwere onwe ya. <sup class="vn">23</sup>Ma a mụrụ nwa ohu nwanyị ahụ dịka anụ ahụ si dị, ebe a mụrụ nwa nwanyị nwere onwe ya site na nkwa. <sup class="vn">24</sup><strong class="s-hi">Ihe ndị a bụ ihe atụ: ụmụ nwanyị abụọ ahụ bụ ọgbụgba ndụ abụọ</strong>. <strong class="s-hi">Otu si n’ugwu Saịnaị, na-amụ ụmụ maka ịgba ohu</strong>; nke ahụ bụ Hega. <sup class="vn">25</sup>Hega bụ ugwu Saịnaị dị n’Arebịa, ọ na-anọchitekwa anya Jerusalem nke ugbu a, nke nọ n’ohu ya na ụmụ ya. <sup class="vn">26</sup><strong class="s-hi">Ma Jerusalem nke dị n’elu nwere onwe ya, ọ bụkwa nne anyị</strong>. <sup class="vn">27</sup>N’ihi na e dere: Ṅụrịa ọṅụ, gị nwanyị aga nke na-adịghị amụ nwa; tie mkpu ọṅụ, gị onye na-amaghị ihe mgbu ịmụ nwa; n’ihi na ụmụ nwanyị a gbahapụrụ karịrị ụmụ nke nwere di. <sup class="vn">28</sup>Unu, ụmụnna, bụ <strong class="s-hi">ụmụ nkwa dịka Aịzik</strong>. <sup class="vn">29</sup>Ma dịka n’oge ahụ onye a mụrụ dịka anụ ahụ si dị na-akpagbu onye a mụrụ site na Mmụọ, otu a ka ọ dị ugbu a. <sup class="vn">30</sup>Ma gịnị ka Akwụkwọ Nsọ kwuru? Chụpụ ohu nwanyị ahụ na nwa ya, n’ihi na nwa ohu nwanyị agaghị eketa ihe nketa ya na nwa nwanyị nwere onwe ya. <sup class="vn">31</sup>Ya mere, ụmụnna, <strong class="s-hi">anyị abụghị ụmụ ohu nwanyị, kama anyị bụ ụmụ nwanyị nwere onwe ya</strong>. <sup class="vn">5:1</sup><strong class="s-hi">Kraịst mere ka anyị nwere onwe anyị ka anyị nwee nnwere onwe. Ya mere, guzosienụ ike, unu ekwekwala ka e jiri yok nke ịgba ohu kee unu ọzọ</strong>. <sup class="vn">5:2</sup>Geenụ ntị! Mụ onwe m bụ Pọl na-agwa unu: ọ bụrụ na unu ekwe ka e bie unu úgwù, Kraịst agaghị abara unu uru ọ bụla. <sup class="vn">5:3</sup><strong class="s-hi">Ana m agbakwa onye ọ bụla na-ekwe ka e bie ya úgwù ama ọzọ na ọ ga-edebe Iwu ahụ niile</strong>. <sup class="vn">5:4</sup>Unu ndị na-achọ ka e mee unu ndị ezi omume site n’Iwu, <strong class="s-hi">e kewapụla unu na Kraịst</strong>; <strong class="s-hi">unu adapụla n’amara</strong>. <sup class="vn">5:5</sup>Ma anyị, site na Mmụọ na site n’okwukwe, na-eche olileanya nke ezi omume. <sup class="vn">5:6</sup>N’ihi na n’ime Kraịst Jizọs, ibi úgwù ma ọ bụ ibighị úgwù abaghị uru, kama okwukwe nke na-arụ ọrụ site n’ịhụnanya. <sup class="vn">5:7</sup>Unu na-agba ọsọ nke ọma; onye gbochiri unu ka unu ghara irube isi n’eziokwu? <sup class="vn">5:8</sup>Ntụgharị obi a esiteghị n’aka onye na-akpọ unu. <sup class="vn">5:9</sup>Obere ihe na-eko achịcha na-eme ka ụtụ ọka niile koo. <sup class="vn">5:10</sup>Obi siri m ike n’ime Onyenwe anyị na unu agaghị enwe echiche ọzọ; ma <strong class="s-hi">onye na-akpaghasị unu ga-anata ntaramahụhụ, onye ọ bụla ọ bụ</strong>. <sup class="vn">5:11</sup>Ụmụnna, ọ bụrụ na m ka na-ekwusa ibi úgwù, gịnị mere a ka na-akpagbu m? Ọ bụrụ otu ahụ, e wepụla ihe ịsụ ngọngọ nke obe. <sup class="vn">5:12</sup><strong class="s-hi">Ọ ga-aka mma ma ndị na-akpaghasị unu bepụ onwe ha kpamkpam!</strong>»</blockquote>
+                </div>
+                <h2>Ohu nwanyị na nwanyị nwere onwe ya<br>Ndị Galeshia 4:24-26</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ndị Galeshia 4:24-26</span>
+                    <blockquote>«<sup class="vn">24</sup><strong class="s-hi">Ihe ndị a bụ ihe atụ: ụmụ nwanyị abụọ ahụ bụ ọgbụgba ndụ abụọ</strong>. Otu si n’ugwu Saịnaị, <strong class="s-hi">na-amụ ụmụ maka ịgba ohu</strong>; nke ahụ bụ Hega. <sup class="vn">25</sup>Hega bụ ugwu Saịnaị dị n’Arebịa, ọ na-anọchitekwa anya Jerusalem nke ugbu a, nke nọ n’ohu ya na ụmụ ya. <sup class="vn">26</sup><strong class="s-hi">Ma Jerusalem nke dị n’elu nwere onwe ya, ọ bụkwa nne anyị</strong>.»</blockquote>
+                </div>
+                <p>Pọl kwuru ya n’ụzọ doro anya: akụkọ Ebreham bụ ihe atụ, ụmụ nwanyị abụọ ahụ bụkwa ọgbụgba ndụ abụọ. Hega, ohu nwanyị ahụ, bụ ọgbụgba ndụ nke ugwu Saịnaị. Nke ọzọ bụ Jerusalem nke dị n’elu, nke eluigwe, nke nwere onwe ya, ọ bụkwa nne Ndị Kraịst.</p>
+                <p>Na mbụ ha bụ ndị ohu nke ọgbụgba ndụ ochie, ọgbụgba ndụ nke iwu omenala ofufe, nke e ji kụziere otu mba omenala. Ma nke ahụ n’onwe ya ezughị. Ya mere, e mechiri ọgbụgba ndụ ahụ mgbe mmadụ tozuru n’mmekọrịta ya na Chineke, ọgbụgba ndụ ọhụrụ wee pụta, ọgbụgba ndụ nke iwu omume ọma, nke Jerusalem dị n’elu, nke eluigwe, nke na-eme ka mmadụ nwere onwe ya.</p>
+                <h2>Ụmụ nwanyị nwere onwe ya<br>Ndị Galeshia 4:28-31</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ndị Galeshia 4:28-31</span>
+                    <blockquote>«<sup class="vn">28</sup><strong class="s-hi">Unu, ụmụnna, bụ ụmụ nkwa dịka Aịzik</strong>. <sup class="vn">29</sup>Ma dịka n’oge ahụ onye a mụrụ dịka anụ ahụ si dị na-akpagbu onye a mụrụ site na Mmụọ, otu a ka ọ dị ugbu a. <sup class="vn">30</sup>Ma gịnị ka Akwụkwọ Nsọ kwuru? Chụpụ ohu nwanyị ahụ na nwa ya, n’ihi na nwa ohu nwanyị agaghị eketa ihe nketa ya na nwa nwanyị nwere onwe ya. <sup class="vn">31</sup>Ya mere, ụmụnna, <strong class="s-hi">anyị abụghị ụmụ ohu nwanyị, kama anyị bụ ụmụ nwanyị nwere onwe ya</strong>.»</blockquote>
+                </div>
+                <p>Ọ nọ ebe ahụ: Ndị Kraịst abụghị ụmụ ohu nwanyị, kama ha bụ ụmụ nwanyị nwere onwe ya. Ha anọghị n’okpuru ọgbụgba ndụ ochie, kama n’okpuru nke ọhụrụ, nke nwere iwu ndị ọzọ.</p>
+                <h2>Ịlaghachi n’okpuru yok, mba<br>Ndị Galeshia 5:1-4</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ndị Galeshia 5:1-4</span>
+                    <blockquote>«<sup class="vn">1</sup><strong class="s-hi">Kraịst mere ka anyị nwere onwe anyị ka anyị nwee nnwere onwe</strong>. Ya mere, <strong class="s-hi">guzosienụ ike, unu ekwekwala ka e jiri yok nke ịgba ohu kee unu ọzọ</strong>. <sup class="vn">2</sup>Geenụ ntị! Mụ onwe m bụ Pọl na-agwa unu: ọ bụrụ na unu ekwe ka e bie unu úgwù, Kraịst agaghị abara unu uru ọ bụla. <sup class="vn">3</sup><strong class="s-hi">Ana m agbakwa onye ọ bụla na-ekwe ka e bie ya úgwù ama ọzọ na ọ ga-edebe Iwu ahụ niile</strong>. <sup class="vn">4</sup>Unu ndị na-achọ ka e mee unu ndị ezi omume site n’Iwu, <strong class="s-hi">e kewapụla unu na Kraịst</strong>; <strong class="s-hi">unu adapụla n’amara</strong>.»</blockquote>
+                </div>
+                <p>Gịnị mere a naghị alaghachi azụ? N’ihi na Kraịst mere ka anyị nwere onwe anyị, ya mere Pọl na-arịọ ka ha guzosie ike, ghara ikwe ka e jiri yok nke ịgba ohu kee ha ọzọ. Nke ahụ bụ, ghara ikwe ka ndị Adventist na òtù ndị ọzọ bịa ghaa ụgha, dọghachi Ndị Kraịst azụ n’iwu nke ọgbụgba ndụ ochie, nke na-arụghịzi ọrụ. Ọbụna ọ bụghị ha niile, n’ihi na ha anaghị ekwe ka e bie ha úgwù: ha na-ewere nanị ndị dabara ha.</p>
+                <p>Gịnị mere ha anaghịzi arụ ọrụ? Bible na-akọwakwa nke ahụ, ọ na-agakwa n’ihu: onye ọ bụla na-ekwe ka e bie ya úgwù ga-edebe Iwu ahụ niile, nke ochie, kpamkpam. Ndị na-achọ ka e mee ha ndị ezi omume site n’Iwu, e kewapụla ha na Kraịst, ha adapụkwala n’amara. Ọ bụ maka nke a ka Kraịst ji bịa: iwepụta mmadụ n’ọgbụgba ndụ ochie, nye ya nke ọhụrụ.</p>
+                <h2>Onye ọ bụla ọ bụ<br>Ndị Galeshia 5:10-12</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ndị Galeshia 5:10-12</span>
+                    <blockquote>«<sup class="vn">10</sup>Obi siri m ike n’ime Onyenwe anyị na unu agaghị enwe echiche ọzọ; ma <strong class="s-hi">onye na-akpaghasị unu ga-anata ntaramahụhụ, onye ọ bụla ọ bụ</strong>. <sup class="vn">11</sup>Ụmụnna, ọ bụrụ na m ka na-ekwusa ibi úgwù, gịnị mere a ka na-akpagbu m? Ọ bụrụ otu ahụ, e wepụla ihe ịsụ ngọngọ nke obe. <sup class="vn">12</sup><strong class="s-hi">Ọ ga-aka mma ma ndị na-akpaghasị unu bepụ onwe ha kpamkpam!</strong>»</blockquote>
+                </div>
+                <p>Onye na-akpaghasị ndị Kraịst mere ka ha nwere onwe ha ga-anata ntaramahụhụ, onye ọ bụla ọ bụ, nke a gụnyekwara ndị Adventist na òtù ndị ọzọ nke ozizi ụgha na nnupụisi. Banyere ndị na-akpaghasị, Pọl kwuru na ọ ga-aka mma ma ha bepụ onwe ha kpamkpam. Ọ bụ Bible kwuru ya, ọ bụghị saịtị a. Ọ ga-aka ha mma ka e bie ha úgwù, ha kewapụ onwe ha kpamkpam n’amara Kraịst, kee onwe ha n’Iwu ochie kpamkpam, karịa ịgagharị na-akpa ọgba aghara na-aghara ndị mmadụ ụgha.</p>
+                <h2>Ụbọchị ọzọ<br>Ndị Hibru 4:8</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ndị Hibru 4:8</span>
+                    <blockquote>«N’ihi na ọ bụrụ na Jọshụa nyere ha izu ike, <strong class="s-hi">Chineke agaraghị ekwu mgbe e mesịrị banyere ụbọchị ọzọ</strong>.»</blockquote>
+                </div>
+                <p>Ụbọchị ọzọ, nke na-abịa n’azụ, ọ bụghị otu ụbọchị ahụ. Okwu ahụ bụ ọzọ enweghị nkọwa ọzọ: ọzọ pụtara na ọ bụghị otu ihe ahụ.</p>
+                <p>Ndị Adventist na-eji amaokwu na-esote ya aza:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ndị Hibru 4:9-11</span>
+                    <blockquote>«<sup class="vn">9</sup>Ya mere, izu ike nke Ụbọchị Izu Ike ka fọdụrụ nye ndị Chineke. <sup class="vn">10</sup>N’ihi na <strong class="s-hi">onye ọ bụla batara n’izu ike Chineke na-ezukwa ike site n’ọrụ ya</strong>, dịka Chineke si zuo ike site n’ọrụ nke ya. <sup class="vn">11</sup>Ya mere, <strong class="s-hi">ka anyị gbalịa ịbanye n’izu ike ahụ</strong>, ka onye ọ bụla ghara ịda site n’iṅomi otu ihe atụ nke nnupụisi ahụ.»</blockquote>
+                </div>
+                <p>Amaokwu 10 na 11 na-ekwu ụdị izu ike ọ bụ. Ọ bụ izu ike Chineke, nke mmadụ na-abanye iji zuo ike site n’ọrụ ya dịka Chineke si zuo ike site n’ọrụ nke ya, onye dere ya na-agbakwa ume ka anyị gbalịa ịbanye n’ime ya. Ọ dịghị onye na-agbalị ịbanye n’Ụbọchị Izu Ike: ọ na-abịa n’onwe ya ụbọchị nke asaa ọ bụla. Izu ike akwụkwọ ozi e degaara ndị Hibru na-ekwu bụ ndụ ebighị ebi, nke Ụbọchị Izu Ike kwusara dịka ihe atụ.</p>
+                <h2>Ụbọchị mbụ nke izu<br>Jọn 20:1</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Jọn 20:1</span>
+                    <blockquote>«<strong class="s-hi">N’ụbọchị mbụ nke izu</strong>, n’isi ụtụtụ, mgbe ọchịchịrị ka dị, Meri Magdalin gara n’ili ahụ, hụ na e wepụla nkume ahụ n’ili ahụ.»</blockquote>
+                </div>
+                <p>Ụbọchị mbụ nke izu, nke na-esote Ụbọchị Izu Ike, bụ Sọnde: Sọnde Mbilite n’Ọnwụ.</p>
+                <h2>Otu Sọnde ahụ<br>Jọn 20:19</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Jọn 20:19</span>
+                    <blockquote>«<strong class="s-hi">Na mgbede ụbọchị ahụ, bụ ụbọchị mbụ nke izu</strong>, mgbe e mechiri ụzọ ụlọ ebe ndị na-eso ụzọ nọ n’ihi egwu ndị Juu, Jizọs bịara guzo n’etiti ha, sị ha: “<strong class="s-hi">Udo dịrị unu!</strong>”»</blockquote>
+                </div>
+                <p>Otu Sọnde ahụ, ndị na-eso ụzọ zukọrọ n’ime ụlọ e mechiri ụzọ ya n’ihi egwu ndị Juu. Jizọs guzoro n’etiti ha sị ha «Udo dịrị unu!». Ọ baraghị ha mba: ọ nabatara ha. Ọ bụrụ na ha na-eme ihe ọjọọ, ọ gaara agwa ha.</p>
+                <h2>Mgbe ụbọchị asatọ gasịrị, Sọnde ọzọ<br>Jọn 20:26</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Jọn 20:26</span>
+                    <blockquote>«<strong class="s-hi">Mgbe ụbọchị asatọ gasịrị, ndị na-eso ụzọ ya nọkwa n’ime ụlọ ọzọ</strong>, Tọmọs sokwa ha. Jizọs bịara mgbe e mechiri ụzọ niile, guzo n’etiti ha, sị: “<strong class="s-hi">Udo dịrị unu!</strong>”»</blockquote>
+                </div>
+                <p>Mgbe ụbọchị asatọ gasịrị, ma a gụọ site n’ụbọchị ahụ, ọ bụ Sọnde na-esote ya. Ndị na-eso ụzọ zukọrọ ọzọ, Jizọs nabatakwara ha ọzọ site n’otu ekele ahụ: «Udo dịrị unu!».</p>
+                <h2>Na Sọnde, ịnyawa achịcha<br>Ọrụ Ndịozi 20:7</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ọrụ Ndịozi 20:7</span>
+                    <blockquote>«<strong class="s-hi">N’ụbọchị mbụ nke izu, mgbe anyị zukọrọ ịnyawa achịcha</strong>, Pọl, onye ga-apụ n’echi ya, gwara ha okwu, o wee gbatịa okwu ya ruo n’etiti abalị.»</blockquote>
+                </div>
+                <p>Ọ bụ nzukọ maka ofufe, ịnyawa achịcha (lee isiokwu <a href="tema-la-eucaristia.html">Yukarist</a>), n’ụbọchị mbụ nke izu, site n’oge Ndị Kraịst mbụ. Ọ mere n’ihe dị ka afọ 57, karịa narị afọ abụọ na ọkara tupu iwu Constantine banyere Sọnde, nke bụ n’afọ 321. Ọ dịghị ihe mere a ga-eji sị na ha niile hiere ụzọ. Ọ bụrụ na ha hiere ụzọ, Pọl sokwa ha hie ụzọ.</p>
+                <h2>Ụbọchị a kara aka maka onyinye<br>1 Ndị Kọrịnt 16:2</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Ndị Kọrịnt 16:2</span>
+                    <blockquote>«<strong class="s-hi">N’ụbọchị mbụ nke izu ọ bụla</strong>, ka onye ọ bụla n’ime unu wezụga ihe dịka ihe ọ nwetara si dị, ka a ghara ịnakọta onyinye mgbe m bịara.»</blockquote>
+                </div>
+                <p>Ụbọchị mbụ nke izu: Sọnde, ọzọ.</p>
+                <h2>Ụbọchị Onyenwe anyị<br>Mkpughe 1:10</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mkpughe 1:10</span>
+                    <blockquote>«N’<strong class="s-hi">Ụbọchị Onyenwe anyị</strong>, anọ m n’ime Mmụọ, anụ m n’azụ m otu olu dị ike dịka opi.»</blockquote>
+                </div>
+                <p>Ụbọchị Onyenwe anyị. Otu a ka Bible Katọlik na ọbụna nke Protestant si asụgharị ya, ụfọdụ nsụgharị Katọlik na-edekwa ozugbo «otu Sọnde». Aha ahụ si ebe ahụ: na Latin, <em>dies dominica</em>, ụbọchị Onyenwe anyị, nke ka bụ aha Sọnde n’asụsụ Spanish, Italian, Portuguese na French.</p>
+                <h2>Onyenwe nke Ụbọchị Izu Ike<br>Mak 2:23-28</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mak 2:23-28</span>
+                    <blockquote>«<sup class="vn">23</sup>N’otu Ụbọchị Izu Ike, Jizọs na-agafe n’ubi ọka, ndị na-eso ụzọ ya malitekwa ịkpụ isi ọka ka ha na-aga. <sup class="vn">24</sup>Ndị Farisii sịrị ya: “Lee! Gịnị mere ha ji eme n’Ụbọchị Izu Ike ihe na-ekwesịghị ekwesị?” <sup class="vn">25</sup>Jizọs zara ha: “Ọ̀ bụ na unu agụbeghị ihe Devid mere mgbe ya na ndị so ya nọ ná mkpa, agụụ na-agụkwa ha? <sup class="vn">26</sup>Ọ banyere n’ụlọ Chineke n’oge Abịata bụ onyeisi nchụàjà, rie achịcha onyinye nke ndị nchụàjà nanị kwesịrị iri, nyekwa ndị so ya.” <sup class="vn">27</sup>Ọ gwakwara ha: “<strong class="s-hi">E mere Ụbọchị Izu Ike maka mmadụ, ọ bụghị mmadụ maka Ụbọchị Izu Ike</strong>. <sup class="vn">28</sup>Ya mere, <strong class="s-hi">Nwa nke Mmadụ bụ Onyenwe ọbụna nke Ụbọchị Izu Ike</strong>.”»</blockquote>
+                </div>
+                <p>E mere Ụbọchị Izu Ike maka mmadụ, ọ bụghị mmadụ maka Ụbọchị Izu Ike, Nwa nke Mmadụ bụkwa Onyenwe ọbụna nke Ụbọchị Izu Ike. Jizọs na-eme ihe ọ chọrọ n’Ụbọchị Izu Ike, ọbụna ịgbanwe ya.</p>
+                <h2>Ha chọrọ igbu ya n’ihi Ụbọchị Izu Ike<br>Jọn 5:18</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Jọn 5:18</span>
+                    <blockquote>«N’ihi nke a, ndị Juu gbalịsiri ike karịa igbu ya, n’ihi na ọ bụghị nanị na <strong class="s-hi">ọ na-emebi Ụbọchị Izu Ike</strong>, kama ọ na-akpọkwa Chineke Nna nke ya, na-eme onwe ya ka ya na Chineke hà.»</blockquote>
+                </div>
+                <p>Jọn kwuru ya n’ụzọ doro anya: Kraịst na-emebi Ụbọchị Izu Ike, ọ bụ ya mere ha ji chọọ igbu ya.</p>
+                <h2>Emezuola ya<br>Jọn 19:30</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Jọn 19:30</span>
+                    <blockquote>«Mgbe Jizọs nụrụ mmanya gbara ụka ahụ, o kwuru: “<strong class="s-hi">Emezuola ya!</strong>” O wee hulata isi ya, nyefee mmụọ ya.»</blockquote>
+                </div>
+                <p>Ọ bụ njedebe nke ọgbụgba ndụ ochie. Kraịst mezuru ya, zuo ike n’ili n’Ụbọchị Izu Ike, wee bilie n’ọnwụ na Sọnde.</p>
+                <p>Iji megide nke a, ndị Adventist na-ehota Ozizi n’Elu Ugwu:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matiu 5:17-18</span>
+                    <blockquote>«<sup class="vn">17</sup>Unu echela na m bịara ịkagbu Iwu ma ọ bụ ndị amụma. <strong class="s-hi">Abịaghị m ịkagbu, kama ịmezu</strong>. <sup class="vn">18</sup>N’ezie, asị m unu: ruo mgbe eluigwe na ụwa ga-agafe, ọ dịghị otu mkpụrụedemede nta ma ọ bụ otu ntụpọ nke Iwu ga-agafe, <strong class="s-hi">ruo mgbe ihe niile mezuru</strong>.»</blockquote>
+                </div>
+                <p>Ederede ahụ tinyere oke. Kraịst abịaghị ịkagbu Iwu kama ịmezu ya, Iwu na-arụkwa ọrụ ruo mgbe ihe niile mezuru. N’elu obe, o kwuru na e mezuola ya. Ihe e mezuru anaghị akagbu akagbu: ọ na-eru njedebe ya n’ihi na o ruola ihe mere o ji dịrị.</p>
+                <h2>Nwụrụ anwụ n’ebe Iwu dị<br>Ndị Rom 7:1-6</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ndị Rom 7:1-6</span>
+                    <blockquote>«<sup class="vn">1</sup>Ọ̀ bụ na unu amaghị, ụmụnna, n’ihi na <strong class="s-hi">ana m agwa ndị maara iwu okwu</strong>, na iwu na-achị mmadụ nanị ogologo oge ọ dị ndụ? <sup class="vn">2</sup>Dịka ọmụmaatụ, nwanyị lụrụ di bụ onye iwu kere n’ebe di ya nọ mgbe di ya dị ndụ; ma ọ bụrụ na di ya anwụọ, a tọhapụrụ ya n’iwu ahụ kere ya na di ya. <sup class="vn">3</sup>Ya mere, a ga-akpọ ya onye na-akwa iko ma ọ bụrụ na ya na nwoke ọzọ nọ mgbe di ya ka dị ndụ; ma ọ bụrụ na di ya anwụọ, ọ nwere onwe ya n’iwu ahụ, ọ bụghịkwa onye na-akwa iko ma ọ lụọ nwoke ọzọ. <sup class="vn">4</sup>Otu a kwa, ụmụnna m, <strong class="s-hi">unu anwụọla n’ebe Iwu dị site n’ahụ Kraịst, ka unu bụrụ nke onye ọzọ</strong>, onye ahụ e mere ka o si n’ọnwụ bilie, ka anyị mịrị mkpụrụ nye Chineke. <sup class="vn">5</sup>N’ihi na mgbe anyị bi ndụ dịka anụ ahụ si dị, <strong class="s-hi">agụụ ọjọọ nke mmehie nke Iwu kpalitere na-arụ ọrụ n’akụkụ ahụ anyị, ka anyị mịrị mkpụrụ nke ọnwụ</strong>. <sup class="vn">6</sup>Ma ugbu a <strong class="s-hi">a tọhapụla anyị n’Iwu, ebe anyị nwụrụ n’ebe ihe ahụ kere anyị agbụ dị</strong>, ka anyị na-efe ofufe <strong class="s-hi">n’ụzọ ọhụrụ nke Mmụọ, ọ bụghị n’ụzọ ochie nke ihe e dere ede</strong>.»</blockquote>
+                </div>
+                <p>Pọl na-agwa ndị maara iwu okwu, o jikwa alụmdi na nwunye mee ihe atụ. Nwanyị kere agbụ n’ebe di ya nọ mgbe di ya dị ndụ; mgbe di ya nwụrụ, ọ nwere onwe ya, ọ pụkwara ịlụ onye ọzọ n’akwaghị iko. Otu a ka ọ dị n’Iwu: site n’ọnwụ Kraịst, Ndị Kraịst nwụrụ n’ebe Iwu dị, ha abụrụla nke onye ọzọ, nke onye ahụ si n’ọnwụ bilie. Iwu ahụ kere ha agbụ ekeghịzi ha, ha na-efekwa Chineke n’ụzọ ọhụrụ nke Mmụọ, ọ bụghị n’ụzọ ochie nke ihe e dere ede.</p>
+                <p>Ebe Iwu nwụrụ, ọ bụ ọgbụgba ndụ ọhụrụ na-arụ ọrụ ugbu a.</p>
+                <h2>Ọ bụghị na mbadamba nkume<br>2 Ndị Kọrịnt 3:3-16</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 2 Ndị Kọrịnt 3:3-16</span>
+                    <blockquote>«<sup class="vn">3</sup>O doro anya na unu bụ akwụkwọ ozi Kraịst nke e dere site n’ozi anyị, ọ bụghị na nkụ, kama site na Mmụọ nke Chineke dị ndụ; <strong class="s-hi">ọ bụghị na mbadamba nkume, kama n’obi mmadụ</strong>. <sup class="vn">4</sup>Nke a bụ ntụkwasị obi anyị nwere n’ebe Chineke nọ site na Kraịst. <sup class="vn">5</sup>Ọ bụghị na anyị nwere ike n’onwe anyị ikwu na ihe ọ bụla si n’aka anyị; ike anyị si n’aka Chineke, <sup class="vn">6</sup>onye mere ka anyị ruo eru ịbụ ndị ozi nke ọgbụgba ndụ ọhụrụ, ọ bụghị nke ihe e dere ede, kama nke Mmụọ; n’ihi na <strong class="s-hi">ihe e dere ede na-egbu, ma Mmụọ na-enye ndụ</strong>. <sup class="vn">7</sup>Ọ bụrụ na ozi ahụ nke na-eweta ọnwụ, nke e dere n’mkpụrụedemede na nkume, bịara n’ebube nke mere na ụmụ Izrel enweghị ike ile ihu Mozis anya n’ihi ebube ihu ya, <strong class="s-hi">ọ bụ ezie na ọ bụ nke na-agafe agafe</strong>, <sup class="vn">8</sup>ọ̀ bụ na ozi nke Mmụọ agaghị enwe ebube karịa? <sup class="vn">9</sup>Ọ bụrụ na ozi nke na-eweta ikpe ọmụma nwere ebube, ozi nke na-eweta ezi omume nwere ebube karịa nke ukwuu. <sup class="vn">10</sup>N’ezie, <strong class="s-hi">ihe ahụ nwere ebube enweghịzi ebube</strong> n’ihi ebube a nke karịrị ya. <sup class="vn">11</sup>N’ihi na ọ bụrụ na ihe ahụ na-agafe agafe nwere ebube, ihe nke na-adịgide adịgide ga-enwe ebube karịa. <sup class="vn">12</sup>Ebe anyị nwere olileanya dị otu a, anyị na-eme ihe n’obi ike dị ukwuu, <sup class="vn">13</sup>ọ bụghị dịka Mozis, onye <strong class="s-hi">na-eji ákwà kpuchie ihu ya ka ụmụ Izrel ghara ịhụ njedebe nke ihe ahụ na-agafe agafe</strong>. <sup class="vn">14</sup>Ma <strong class="s-hi">uche ha kpọchiri akpọchi</strong>. Ruo taa, mgbe a na-agụ ọgbụgba ndụ ochie, otu ákwà ahụ ka dị; e wepụghị ya, n’ihi na ọ bụ nanị n’ime Kraịst ka e na-ewepụ ya. <sup class="vn">15</sup>E, <strong class="s-hi">ruo taa, mgbe ọ bụla a na-agụ Mozis, ákwà na-ekpuchi obi ha</strong>; <sup class="vn">16</sup>ma <strong class="s-hi">mgbe mmadụ tụgharịkwuru Onyenwe anyị, a na-ewepụ ákwà ahụ</strong>.»</blockquote>
+                </div>
+                <p>Ọ bụghị na mbadamba nkume kama n’obi. Ihe e dere ede na-egbu, Mmụọ na-enye ndụ. Ebube ahụ na-agafe agafe, ihe nwere ebube enweghịzi ya. Nke a bụ okwu Chineke. Ọ bụghị pope ma ọ bụ bishọp kwuru ya, ọ dịghị onye chepụtara ya, o sighịkwa n’aka onye ụkọchukwu bilitere otu ụbọchị kọwaa ihe n’onwe ya.</p>
+                <p>Mozis na-eji ákwà kpuchie ihu ya ka ụmụ Izrel ghara ịhụ njedebe nke ihe na-agafe agafe, uche ha kpọchiri akpọchi ruo taa, dịka nke ndị Adventist na òtù ndị ọzọ. Ruo taa, mgbe ọ bụla a na-agụ Mozis, ákwà na-ekpuchi obi ha, a na-ewepụkwa ya nanị mgbe ha tụgharịkwuru Onyenwe anyị, ya bụ, mgbe ha ghọrọ ndị Katọlik.</p>
+                <p>Ya mere, ihe dị mkpa abụghị mbadamba nkume kama obi: iwu omume ọma, ọ bụghị iwu omenala ofufe. Iwu omume ọma anaghị apụ n’anya, n’ihi na Kraịst na-eweghachi ha, dịka a na-ahụ na Matiu 5. Ihe gafere bụ iwu omenala ofufe, ya na iwu Ụbọchị Izu Ike, nke Sọnde nọchiri anya ya nye Ndị Kraịst (Katekism nke Nzukọ-nsọ Katọlik, 2175).</p>
+                <h2>Ekwela ka onye ọ bụla kpee unu ikpe<br>Ndị Kọlọsi 2:16-17</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ndị Kọlọsi 2:16-17</span>
+                    <blockquote>«<sup class="vn">16</sup>Ya mere, <strong class="s-hi">ekwela ka onye ọ bụla kpee unu ikpe banyere nri ma ọ bụ ihe ọṅụṅụ, ma ọ bụ banyere ememme, ọnwa ọhụrụ ma ọ bụ Ụbọchị Izu Ike</strong>. <sup class="vn">17</sup>Ihe ndị a bụ nanị onyinyo nke ihe ndị na-abịa; ma eziokwu ya bụ ahụ Kraịst.»</blockquote>
+                </div>
+                <p>Ekwela ka onye ọ bụla kpee ndị Katọlik na-edo Sọnde nsọ ikpe. Nke ahụ bụ ihe ndị Protestant na-eme, ebe a ndị Adventist: ha na-akatọ n’amaghị Akwụkwọ Nsọ.</p>
+                <h2>«A ga-aṅomi Kraịst»<br>Luku 2:21</h2>
+                <p>Iji megide ihe ndị a niile, òtù ndị a nwere ụfọdụ arụmụka. Nke mbụ: <em>«Jizọs debere Ụbọchị Izu Ike, Onye Kraịst ga-aṅomikwa Kraịst.»</em></p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Luku 2:21</span>
+                    <blockquote>«Mgbe ụbọchị asatọ zuru, <strong class="s-hi">mgbe oge iji bie nwata ahụ úgwù ruru</strong>, a kpọrọ ya aha Jizọs, aha mmụọ ozi nyere ya tupu a tụrụ ime ya.»</blockquote>
+                </div>
+                <p>Ọ bụrụ na a ga-aṅomi ya, Luku kọrọ na e biri ya úgwù n’ụbọchị nke asatọ. Gịnị mere ha anaghị ekwe ka e bie ha úgwù? N’ihi na ha na-aṅomi nanị ihe dabara ha. Ibi úgwù, dịka Ụbọchị Izu Ike, bụ nke ọgbụgba ndụ ochie.</p>
+                <h2>«Ọ bụrụ na unu hụrụ m n’anya, debenụ iwu m»<br>Jọn 14:15-26</h2>
+                <p>Nke abụọ ha na-ewere na Jọn 14: <em>«Ọ bụrụ na unu hụrụ m n’anya, debenụ iwu m. Iwu ndị ahụ bụkwa iri ahụ, ya na Ụbọchị Izu Ike.»</em> Akụkụ ahụ na-ekwu ihe ọzọ:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Jọn 14:15-26</span>
+                    <blockquote>«<sup class="vn">15</sup><strong class="s-hi">Ọ bụrụ na unu hụrụ m n’anya, unu ga-edebe iwu m</strong>. <sup class="vn">16</sup>M ga-arịọkwa Nna m, ọ ga-enyekwa unu Onye Inyeaka ọzọ, ka ọ nọnyere unu ruo mgbe ebighị ebi, <sup class="vn">17</sup>ya bụ Mmụọ nke eziokwu, onye ụwa na-enweghị ike ịnabata, n’ihi na ọ naghị ahụ ya, ọ makwaghị ya. Unu maara ya, n’ihi na ọ na-anọnyere unu, ọ ga-anọkwa n’ime unu. <sup class="vn">18</sup>Agaghị m ahapụ unu ka ụmụ mgbei; m ga-alọtara unu. <sup class="vn">19</sup>Obere oge ọzọ, ụwa agaghịzi ahụ m, ma unu ga-ahụ m; n’ihi na m dị ndụ, unu onwe unu ga-adịkwa ndụ. <sup class="vn">20</sup>N’ụbọchị ahụ, unu ga-amata na m nọ n’ime Nna m, unu nọkwa n’ime m, mụ onwe m nọkwa n’ime unu. <sup class="vn">21</sup><strong class="s-hi">Onye nwere iwu m ma na-edebe ha, ọ bụ ya bụ onye hụrụ m n’anya</strong>; onye hụrụ m n’anya, Nna m ga-ahụ ya n’anya, mụ onwe m ga-ahụkwa ya n’anya, gosikwa ya onwe m. <sup class="vn">22</sup>Judas, ọ bụghị Iskarịọt, sịrị ya: “Onyenwe anyị, gịnị mere i ga-egosi anyị onwe gị, ma ị gaghị egosi ụwa?” <sup class="vn">23</sup>Jizọs zara ya: “<strong class="s-hi">Ọ bụrụ na onye ọ bụla hụrụ m n’anya, ọ ga-edebe okwu m</strong>, Nna m ga-ahụkwa ya n’anya, anyị ga-abịakwute ya, biri n’ime ya. <sup class="vn">24</sup>Onye na-ahụghị m n’anya anaghị edebe okwu m. Okwu unu na-anụ abụghị nke m, kama ọ bụ nke Nna m, onye zitere m. <sup class="vn">25</sup>Agwala m unu ihe ndị a mgbe m ka nọnyere unu. <sup class="vn">26</sup>Ma Onye Inyeaka ahụ, bụ Mmụọ Nsọ, onye Nna m ga-ezite n’aha m, <strong class="s-hi">ọ ga-akụziri unu ihe niile, chetaakwa unu ihe niile m gwara unu</strong>.”»</blockquote>
+                </div>
+                <p>Kraịst ekwughị «iwu Mozis»: ọ sịrị iwu m. Ọ bụghị ndị ochie, kama nke ya onwe ya. Ọ laghachiri na ha n’amaokwu 21 na 23, n’amaokwu 26 o kwere nkwa Mmụọ Nsọ, onye ga-akụziri ha ihe niile, chetaakwa ha ihe niile o kwuru.</p>
+                <h2>Iwu ọhụrụ<br>Jọn 13:34-35</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Jọn 13:34-35</span>
+                    <blockquote>«<sup class="vn">34</sup><strong class="s-hi">Ana m enye unu iwu ọhụrụ</strong>: hụrịtanụ onwe unu n’anya. Dịka m si hụ unu n’anya, unu onwe unu hụrịtakwanụ onwe unu n’anya. <sup class="vn">35</sup><strong class="s-hi">Site na nke a ka mmadụ niile ga-eji mara na unu bụ ndị na-eso ụzọ m</strong>: ma ọ bụrụ na unu nwere ịhụnanya n’etiti onwe unu.»</blockquote>
+                </div>
+                <p>A na-amata ezi Ndị Kraịst, ọ bụghị ndị ozizi ụgha nupụrụ isi, site n’ịgbaso iwu Kraịst.</p>
+                <h2>Ruo ọgwụgwụ nke ụwa<br>Matiu 28:19-20</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matiu 28:19-20</span>
+                    <blockquote>«<sup class="vn">19</sup>Ya mere, gaanụ mee mba niile ka ha bụrụ ndị na-eso ụzọ m, na-eme ha baptizim n’aha nke Nna, na nke Ọkpara, na nke Mmụọ Nsọ, <sup class="vn">20</sup><strong class="s-hi">na-akụziri ha idebe ihe niile m nyere unu n’iwu</strong>. Lee, anọnyere m unu ụbọchị niile <strong class="s-hi">ruo ọgwụgwụ nke ụwa</strong>.»</blockquote>
+                </div>
+                <p>Jizọs nyere iwu a ruo ọgwụgwụ nke ụwa. Ọ bụghị otu ugboro, ọ bụghị ugboro abụọ, ọ bụghị nanị na mmalite. Ruo ọgwụgwụ.</p>
+                <p>Ebe a, ozizi Protestant ọzọ dara, nke na-ekwu na ikwere ezuola, na ọrụ abaghị uru. Ọ bụrụ na mmadụ kwere n’okwu Kraịst, ọ bụghị nanị na ya, ma mee ihe o kwuru, ihe na-agbanwe. Ọrụ dị, a na-etinyekwa okwukwe n’ọrụ.</p>
+                <h2>Ihe ịrịba ama na anyị maara ya<br>1 Jọn 2:3</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Jọn 2:3</span>
+                    <blockquote>«Site na nke a ka anyị ji mara na anyị maara ya: <strong class="s-hi">ma ọ bụrụ na anyị na-edebe iwu ya</strong>.»</blockquote>
+                </div>
+                <p>Iwu Jizọs. Ihe Kraịst na-enye ka a na-anata site n’imezu okwu ya, dịka na Kena, ebe ọ bụ nanị ndị ohu mere ihe o nyere n’iwu maara ihe mere (lee isiokwu <a href="tema-transubstanciacion.html">Transubstantiation</a>).</p>
+                <h2>«Ma asị m unu»<br>Matiu 5:20-28</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matiu 5:20-28</span>
+                    <blockquote>«<sup class="vn">20</sup>N’ihi na asị m unu: ọ bụrụ na ezi omume unu akarịghị nke ndị odeakwụkwọ na ndị Farisii, unu agaghị abanye n’alaeze eluigwe. <sup class="vn">21</sup>Unu nụrụ na a gwara ndị oge ochie: <strong class="s-hi">Egbula mmadụ</strong>; onye ọ bụla gburu mmadụ ga-aza ajụjụ n’ikpe. <sup class="vn">22</sup><strong class="s-hi">Ma asị m unu</strong>: onye ọ bụla na-ewere iwe megide nwanne ya ga-aza ajụjụ n’ikpe; onye kpọrọ nwanne ya “Onye nzuzu!” ga-aza ajụjụ n’ihu Kansụl; onye kpọrọ ya “Onye ara!” ga-eru ọkụ Gehena. <sup class="vn">23</sup>Ya mere, ọ bụrụ na ị na-eweta onyinye gị n’ebe ịchụàjà, ma n’ebe ahụ i cheta na nwanne gị nwere ihe megide gị, <sup class="vn">24</sup>hapụ onyinye gị n’ihu ebe ịchụàjà, buru ụzọ gaa mee udo gị na nwanne gị, mgbe ahụ bịa chụọ onyinye gị. <sup class="vn">25</sup>Mee ngwa ngwa ka gị na onye na-ebo gị ebubo dị n’udo mgbe unu ka nọ n’ụzọ, ka o ghara inyefe gị n’aka onye ikpe, onye ikpe enyefee gị n’aka onye nche, a tụba gị n’ụlọ mkpọrọ. <sup class="vn">26</sup>N’ezie, asị m gị: ị gaghị esi n’ebe ahụ pụta ruo mgbe ị kwụrụ kobo ikpeazụ. <sup class="vn">27</sup>Unu nụrụ na e kwuru: <strong class="s-hi">Akwala iko</strong>. <sup class="vn">28</sup><strong class="s-hi">Ma asị m unu</strong>: onye ọ bụla na-ele nwanyị anya iji chọọ ya, akwaworị iko na ya n’obi ya.»</blockquote>
+                </div>
+                <p>N’obere okwu, Jizọs na-eweghachi iwu ochie, ọ bụ ya mere a na-akụzi ha na katekism. Ụfọdụ ọ hapụrụ ka ha dị, ụfọdụ ọ gbanwere, dịka iwu banyere ịkwa iko, nke ọ gbatịrị ruo n’echiche. Banyere Ụbọchị Izu Ike, o kwughị ihe ọ bụla.</p>
+                <h2>«Gịnị mere unu adịghị eme ihe m na-ekwu?»<br>Luku 6:46</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Luku 6:46</span>
+                    <blockquote>«Gịnị mere unu ji akpọ m “Onyenwe anyị, Onyenwe anyị”, <strong class="s-hi">ma unu adịghị eme ihe m na-ekwu?</strong>»</blockquote>
+                </div>
+                <p>Ọ bụrụ na ha chọsiri ike ime ihe e nyere n’iwu, gịnị mere ha anaghị emezu ihe Kraịst nyere n’iwu? N’ihi na ha ekweghị ya. Ọ bụrụ na ha kwere ya, ha agaraghị arụ ụka banyere ya.</p>
+                <h2>Ihe Chineke na-apụghị ịnagide<br>Aịzaya 1:13</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Aịzaya 1:13</span>
+                    <blockquote>«Unu ewetakwala onyinye efu; ihe nsure ọkụ na-esi ísì ụtọ bụ ihe arụ nye m. <strong class="s-hi">Ọnwa ọhụrụ, Ụbọchị Izu Ike na ọkpụkpọ nzukọ</strong>: <strong class="s-hi">enweghị m ike ịnagide ajọ omume na ememme</strong>.»</blockquote>
+                </div>
+                <p>Onyenwe anyị na-ekwu ya site n’ọnụ Aịzaya: ọnwa ọhụrụ, Ụbọchị Izu Ike na ọkpụkpọ nzukọ bụ ihe ọ na-apụghị ịnagide.</p>
+                <ul>
+                    <li>Ụmụ nwanyị abụọ nke Ebreham bụ ọgbụgba ndụ abụọ: nke Saịnaị na-amụ ndị ohu, Jerusalem nke dị n’elu nwere onwe ya, ọ bụkwa nne Ndị Kraịst.</li>
+                    <li>Onye e biri úgwù ga-edebe Iwu ahụ niile, onye na-achọ ka e mee ya onye ezi omume site n’Iwu na-ekewapụ onwe ya na Kraịst.</li>
+                    <li>Kraịst biliri n’ọnwụ na Sọnde, gosi onwe ya ndị na-eso ụzọ zukọrọ Sọnde abụọ n’usoro, nabatakwa ha.</li>
+                    <li>Ndịozi na-anyawa achịcha n’ụbọchị mbụ nke izu, ọtụtụ narị afọ tupu Constantine, Mkpughe na-akpọkwa ya Ụbọchị Onyenwe anyị.</li>
+                    <li>Kraịst bụ Onyenwe nke Ụbọchị Izu Ike, n’elu obe o kwuru na e mezuola ya.</li>
+                    <li>Iwu e dere na nkume na-agafe agafe; ọgbụgba ndụ ọhụrụ ka e dere n’obi.</li>
+                    <li>Iwu Onye Kraịst bụ iwu Kraịst, onye na-eweghachi ndị ochie ma ọ dịghị ihe o kwuru banyere Ụbọchị Izu Ike.</li>
+                </ul>
+                <h2>Nchịkọta</h2>
+                <p>Ọgbụgba ndụ Saịnaị kwụsịrị mgbe Kraịst mezuru ya n’obe. Ndị Kraịst abụghị ụmụ ohu nwanyị kama ụmụ nwanyị nwere onwe ya, onye tinyere onwe ya ọzọ n’okpuru Iwu na-ekewapụ onwe ya na Kraịst. Ndịozi zukọrọ na Sọnde site n’ụbọchị mbilite n’ọnwụ, nyawaa achịcha n’ụbọchị mbụ nke izu, kpọọ ya Ụbọchị Onyenwe anyị. Nzukọ-nsọ agbanweghị ụbọchị ahụ. O natara ya n’aka ha.</p>
+                <p>Ya mere okwu Pọl nye ndị Kọlọsi ka na-emetụta onye Katọlik ọ bụla na-edo Sọnde nsọ:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ndị Kọlọsi 2:16</span>
+                    <blockquote>«Ya mere, <strong class="s-hi">ekwela ka onye ọ bụla kpee unu ikpe</strong> banyere nri ma ọ bụ ihe ọṅụṅụ, ma ọ bụ banyere ememme, ọnwa ọhụrụ ma ọ bụ Ụbọchị Izu Ike.»</blockquote>
+                </div>`,
       nav: { prevTitle: "Pọgatọrị na Ebere Chineke", nextTitle: "Atọ n'Ime Otu Dị Nsọ" }
     },
     "la-primacia-de-pedro": {
@@ -677,7 +870,7 @@ const translationsIG = {
 
             <!-- TODO: verificar cita bíblica Apocalipsis 3,15-16 con traducción católica de Igbo -->
             <div class="scripture-block">
-                <span class="scripture-ref">✝︎ <!-- TODO: verificar nombre del libro Apocalipsis en Igbo -->Ihe Ọkụkụ 3:15-16</span>
+                <span class="scripture-ref">✝︎ Mkpughe 3:15-16</span>
                 <blockquote>«Amaara m omume gị: ị dịghị oyi ma ị dịghị ọkụ. Ọ gaara mma ma ị bụrụ oyi ma ọ bụ ọkụ! Mana n'ihi na ị bụ onye <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Igbo -->jụrụ, ma ị dịghị ọkụ ma ị dịghị oyi, m ga-akpụpụ gị n'ọnụ m.»</blockquote>
             </div>
 

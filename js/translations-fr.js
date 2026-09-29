@@ -46,7 +46,7 @@ const translationsFR = {
     category: "Doctrine", date: "Septembre 2026", title: "Le purgatoire", excerpt: "Une prison dont on sort et des péchés pardonnés dans le monde à venir : ce que le Christ enseigne sur la purification.", time: "8 min de lecture", link: "Lire →"
   },
   article8: {
-    category: "Doctrine", date: "Bientôt", title: "La loi nouvelle", excerpt: "La loi du Christ qui remplace l'Ancienne Loi et guide les chrétiens.", time: "8 min de lecture", link: "Lire →"
+    category: "Doctrine", date: "Septembre 2026", title: "La loi nouvelle", excerpt: "L’Alliance du Sinaï a pris fin sur la croix, et les apôtres se réunissaient le dimanche : ce que dit l’Écriture sur l’ancienne Loi et la nouvelle.", time: "23 min de lecture", link: "Lire →"
   },
   article9: {
     category: "Apologétique", date: "Septembre 2026", title: "La primauté de Pierre", excerpt: "Les clés du Royaume, la pierre et la charge d'affermir les frères : ce que l'Écriture donne à Pierre.", time: "14 min de lecture", link: "Lire →"
@@ -163,11 +163,204 @@ const translationsFR = {
     },
     "la-nueva-ley": {
       pageTitle: "La loi nouvelle | Foi et Raison",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>La loi nouvelle dans le Christ</h1><p>Comprenez comment la loi du Christ dépasse et complète l'Ancienne Loi, nous invitant à vivre dans l'amour et la liberté des enfants de Dieu.</p><div class="article-meta"><span>8 min de lecture</span><span>Publié en mai 2026</span></div><a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
-      article: `<p>La loi nouvelle est la loi de l'Évangile, centrée sur le commandement de l'amour. Le Christ n'élimine pas l'Ancienne Loi, mais la porte à sa plénitude et la rend accessible au cœur humain.</p><h2>L'amour comme critère</h2><p>Jésus résume la Loi par l'amour de Dieu et du prochain. Cette nouvelle norme n'est pas un fardeau, mais une liberté profonde qui transforme nos actions de l'intérieur.</p><div class="scripture-block">
-                    <span class="scripture-ref">✝︎ Matthieu 22, 37-38</span>
-                    <blockquote>«<strong class="s-hi">Tu aimeras le Seigneur ton Dieu de tout ton cœur et ton prochain comme toi-même</strong>»</blockquote>
-                </div><h2>Accomplir l'Ancienne Loi</h2><p>Les prophètes ont annoncé une loi nouvelle qui vivrait dans le cœur. L'enseignement du Christ révèle que l'accomplissement authentique de la Loi ne se réduit pas à des actions extérieures, mais à une véritable disposition intérieure.</p><ul><li>La nouvelle loi nous appelle à être le sel de la terre et la lumière du monde.</li><li>Le pardon et la miséricorde en sont l'expression la plus authentique.</li><li>Nous vivons la loi du Christ en nous donnant par amour.</li></ul><h2>Pratique chrétienne</h2><p>La nouvelle loi devient une vie concrète lorsque nous cultivons l'humilité, la justice et la compassion. L'Eucharistie et la prière nous aident à la vivre au jour le jour.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Thème Spécial</span></div><h1>La loi nouvelle dans le Christ</h1><p>L’Alliance du Sinaï a pris fin sur la croix, et les apôtres se réunissaient le dimanche dès le jour de la résurrection. Ce que dit l’Écriture sur l’ancienne Loi et la nouvelle, passage par passage.</p><div class="article-meta"><span>23 min de lecture</span><span>Publié en septembre 2026</span></div><a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>`,
+      article: `<!--
+Traducción de la-nueva-ley desde el español (29-sep-2026). Citas según la
+traducción católica usual de este idioma, escritas de memoria: sin cotejar.
+-->
+<p>Plusieurs sectes protestantes soutiennent l’hérésie selon laquelle le chrétien reste lié à la Loi de Moïse, ou du moins à la partie de celle-ci que chacune choisit. Celle qui pousse l’erreur le plus loin est celle des adventistes du septième jour : ils gardent le sabbat, s’abstiennent des aliments que la Loi déclarait impurs et accusent l’Église d’avoir changé le jour de Dieu. Ils le disent ainsi : <em>«Le sabbat est le jour que Dieu a sanctifié pour toujours. Le dimanche, c’est Rome qui l’a imposé, et qui le garde obéit au pape et non à Dieu.»</em></p>
+                <p>La réponse est dans l’Écriture. Paul l’a écrite pour des chrétiens qui s’apprêtaient à faire ce que font aujourd’hui les adventistes : revenir à la Loi après avoir reçu le Christ. C’est la lettre aux Galates, et le passage se lit d’abord en entier, avec ses versets, avant d’être parcouru partie par partie.</p>
+                <h2>Deux femmes, deux Alliances<br>Galates 4, 21 — 5, 12</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Galates 4, 21 — 5, 12</span>
+                    <blockquote>«<sup class="vn">21</sup>Dites-moi, vous qui voulez être sous la Loi, n’entendez-vous pas ce que dit la Loi ? <sup class="vn">22</sup>Il est écrit en effet qu’Abraham eut deux fils, l’un de la servante, l’autre de la femme libre. <sup class="vn">23</sup>Mais le fils de la servante est né selon la chair, tandis que le fils de la femme libre est né en vertu de la promesse. <sup class="vn">24</sup><strong class="s-hi">Il y a là une allégorie : ces femmes représentent deux alliances</strong>. <strong class="s-hi">La première, celle du mont Sinaï, enfante pour la servitude</strong> : c’est Agar. <sup class="vn">25</sup>Agar, c’est le mont Sinaï en Arabie ; elle correspond à la Jérusalem actuelle, qui est esclave avec ses enfants. <sup class="vn">26</sup><strong class="s-hi">Mais la Jérusalem d’en haut est libre, et c’est elle notre mère</strong>. <sup class="vn">27</sup>Car il est écrit : Réjouis-toi, stérile, toi qui n’enfantais pas ; éclate en cris de joie, toi qui ne connaissais pas les douleurs ; car les enfants de la délaissée sont plus nombreux que ceux de l’épouse. <sup class="vn">28</sup>Et vous, frères, vous êtes, <strong class="s-hi">comme Isaac, des enfants de la promesse</strong>. <sup class="vn">29</sup>Mais, de même qu’alors l’enfant né selon la chair persécutait celui qui était né selon l’Esprit, ainsi en est-il encore maintenant. <sup class="vn">30</sup>Eh bien, que dit l’Écriture ? Chasse la servante et son fils, car le fils de la servante ne doit pas hériter avec le fils de la femme libre. <sup class="vn">31</sup>Ainsi, frères, <strong class="s-hi">nous ne sommes pas enfants d’une servante, mais de la femme libre</strong>. <sup class="vn">5,1</sup><strong class="s-hi">C’est pour que nous soyons libres que le Christ nous a libérés. Alors tenez bon, et ne vous mettez pas de nouveau sous le joug de l’esclavage</strong>. <sup class="vn">5,2</sup>C’est moi, Paul, qui vous le dis : si vous vous faites circoncire, le Christ ne vous servira plus de rien. <sup class="vn">5,3</sup>Et <strong class="s-hi">j’atteste encore une fois à tout homme qui se fait circoncire qu’il est tenu de pratiquer la Loi intégralement</strong>. <sup class="vn">5,4</sup><strong class="s-hi">Vous avez rompu avec le Christ</strong>, vous qui cherchez la justice dans la Loi ; <strong class="s-hi">vous êtes déchus de la grâce</strong>. <sup class="vn">5,5</sup>Quant à nous, c’est par l’Esprit, en vertu de la foi, que nous attendons l’espérance de la justice. <sup class="vn">5,6</sup>Car, dans le Christ Jésus, ni la circoncision ni l’incirconcision n’ont de valeur, mais la foi opérant par la charité. <sup class="vn">5,7</sup>Vous couriez bien ; qui vous a empêchés d’obéir à la vérité ? <sup class="vn">5,8</sup>Cette influence ne vient pas de celui qui vous appelle. <sup class="vn">5,9</sup>Un peu de levain fait lever toute la pâte. <sup class="vn">5,10</sup>Pour moi, j’ai confiance dans le Seigneur que vous n’aurez pas d’autre pensée. Mais <strong class="s-hi">celui qui vous trouble en portera la peine, quel qu’il soit</strong>. <sup class="vn">5,11</sup>Pour moi, frères, si je prêche encore la circoncision, pourquoi suis-je encore persécuté ? Alors le scandale de la croix est supprimé ! <sup class="vn">5,12</sup><strong class="s-hi">Qu’ils aillent jusqu’à se mutiler, ceux qui vous bouleversent !</strong>»</blockquote>
+                </div>
+                <h2>La servante et la femme libre<br>Galates 4, 24-26</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Galates 4, 24-26</span>
+                    <blockquote>«<sup class="vn">24</sup><strong class="s-hi">Il y a là une allégorie : ces femmes représentent deux alliances</strong>. La première, celle du mont Sinaï, <strong class="s-hi">enfante pour la servitude</strong> : c’est Agar. <sup class="vn">25</sup>Agar, c’est le mont Sinaï en Arabie ; elle correspond à la Jérusalem actuelle, qui est esclave avec ses enfants. <sup class="vn">26</sup><strong class="s-hi">Mais la Jérusalem d’en haut est libre, et c’est elle notre mère</strong>.»</blockquote>
+                </div>
+                <p>Paul le dit sans détour : l’histoire d’Abraham est une allégorie, et les deux femmes sont les deux Alliances. Agar, la servante, est l’Alliance du mont Sinaï. L’autre est la Jérusalem d’en haut, la céleste, qui est libre, et c’est elle la mère des chrétiens.</p>
+                <p>Auparavant, ils étaient esclaves de l’Alliance ancienne, celle des lois rituelles, qui servait à enseigner des coutumes à un peuple. Mais cela ne suffisait pas à lui seul. C’est pourquoi ce pacte s’est refermé quand l’homme a mûri dans sa relation avec Dieu, et la Nouvelle Alliance est apparue, celle de la loi morale, celle de la Jérusalem d’en haut, celle du ciel, qui rend libre.</p>
+                <h2>Enfants de la femme libre<br>Galates 4, 28-31</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Galates 4, 28-31</span>
+                    <blockquote>«<sup class="vn">28</sup>Et vous, frères, <strong class="s-hi">vous êtes, comme Isaac, des enfants de la promesse</strong>. <sup class="vn">29</sup>Mais, de même qu’alors l’enfant né selon la chair persécutait celui qui était né selon l’Esprit, ainsi en est-il encore maintenant. <sup class="vn">30</sup>Eh bien, que dit l’Écriture ? Chasse la servante et son fils, car le fils de la servante ne doit pas hériter avec le fils de la femme libre. <sup class="vn">31</sup>Ainsi, frères, <strong class="s-hi">nous ne sommes pas enfants d’une servante, mais de la femme libre</strong>.»</blockquote>
+                </div>
+                <p>Voilà : les chrétiens ne sont pas enfants de la servante mais de la femme libre. Ils ne sont pas sous l’Alliance ancienne mais sous la nouvelle, qui a d’autres lois.</p>
+                <h2>Ne pas revenir sous le joug<br>Galates 5, 1-4</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Galates 5, 1-4</span>
+                    <blockquote>«<sup class="vn">1</sup><strong class="s-hi">C’est pour que nous soyons libres que le Christ nous a libérés</strong>. Alors <strong class="s-hi">tenez bon, et ne vous mettez pas de nouveau sous le joug de l’esclavage</strong>. <sup class="vn">2</sup>C’est moi, Paul, qui vous le dis : si vous vous faites circoncire, le Christ ne vous servira plus de rien. <sup class="vn">3</sup>Et <strong class="s-hi">j’atteste encore une fois à tout homme qui se fait circoncire qu’il est tenu de pratiquer la Loi intégralement</strong>. <sup class="vn">4</sup><strong class="s-hi">Vous avez rompu avec le Christ</strong>, vous qui cherchez la justice dans la Loi ; <strong class="s-hi">vous êtes déchus de la grâce</strong>.»</blockquote>
+                </div>
+                <p>Pourquoi ne pas revenir en arrière ? Parce que le Christ a libéré, et c’est pourquoi Paul demande de tenir bon et de ne pas se remettre sous le joug de l’esclavage. Autrement dit, ne pas laisser les adventistes et d’autres sectes venir mentir et entraîner de nouveau les chrétiens vers des lois de l’ancien pacte, qui ne sont plus en vigueur. Et pas même toutes, car ils ne se font pas circoncire : ils ne prennent que celles qui leur conviennent.</p>
+                <p>Pourquoi ne sont-elles plus en vigueur ? La Bible l’explique aussi, et elle poursuit : tout homme qui se fait circoncire est tenu de pratiquer la Loi intégralement, l’ancienne, tout entière. Et ceux qui cherchent la justice dans la Loi ont rompu avec le Christ et sont déchus de la grâce. C’est pour cela que le Christ est venu : pour faire sortir l’homme de l’ancien pacte et lui donner le nouveau.</p>
+                <h2>Quel qu’il soit<br>Galates 5, 10-12</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Galates 5, 10-12</span>
+                    <blockquote>«<sup class="vn">10</sup>Pour moi, j’ai confiance dans le Seigneur que vous n’aurez pas d’autre pensée. Mais <strong class="s-hi">celui qui vous trouble en portera la peine, quel qu’il soit</strong>. <sup class="vn">11</sup>Pour moi, frères, si je prêche encore la circoncision, pourquoi suis-je encore persécuté ? Alors le scandale de la croix est supprimé ! <sup class="vn">12</sup><strong class="s-hi">Qu’ils aillent jusqu’à se mutiler, ceux qui vous bouleversent !</strong>»</blockquote>
+                </div>
+                <p>Celui qui trouble ceux que le Christ a libérés en portera la peine, quel qu’il soit, et cela inclut les adventistes et les autres sectes hérétiques et apostates. Quant aux agitateurs, Paul souhaite qu’ils aillent jusqu’à se mutiler. C’est la Bible qui le dit, pas ce site. Mieux vaudrait pour eux se faire circoncire, se couper tout à fait de la grâce du Christ et se lier complètement à l’ancienne Loi, au lieu de jouer les agitateurs en mentant aux gens.</p>
+                <h2>Un autre jour<br>Hébreux 4, 8</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Hébreux 4, 8</span>
+                    <blockquote>«Car si Josué les avait fait entrer dans ce repos, <strong class="s-hi">Dieu ne parlerait pas, après cela, d’un autre jour</strong>.»</blockquote>
+                </div>
+                <p>Un autre jour, postérieur, pas le même. Aucune interprétation n’est possible pour le mot autre : autre veut dire que ce n’est pas le même.</p>
+                <p>Les adventistes répondent avec le verset suivant :</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Hébreux 4, 9-11</span>
+                    <blockquote>«<sup class="vn">9</sup>C’est donc qu’un repos sabbatique est réservé au peuple de Dieu. <sup class="vn">10</sup>Car <strong class="s-hi">celui qui est entré dans son repos se repose lui aussi de ses œuvres</strong>, comme Dieu s’est reposé des siennes. <sup class="vn">11</sup><strong class="s-hi">Efforçons-nous donc d’entrer dans ce repos</strong>, afin que nul ne tombe en suivant cet exemple de désobéissance.»</blockquote>
+                </div>
+                <p>Les versets 10 et 11 disent de quel repos il s’agit. C’est le repos de Dieu, dans lequel on entre pour se reposer de ses propres œuvres comme Dieu s’est reposé des siennes, et l’auteur exhorte à s’efforcer d’y entrer. Personne ne s’efforce d’entrer dans un sabbat : il arrive tout seul, tous les sept jours. Le repos dont parle l’épître aux Hébreux est la vie éternelle, que le sabbat annonçait comme une figure.</p>
+                <h2>Le premier jour de la semaine<br>Jean 20, 1</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Jean 20, 1</span>
+                    <blockquote>«<strong class="s-hi">Le premier jour de la semaine</strong>, Marie Madeleine se rend au tombeau de grand matin ; c’était encore les ténèbres. Elle s’aperçoit que la pierre a été enlevée du tombeau.»</blockquote>
+                </div>
+                <p>Le premier jour de la semaine, celui qui suit le sabbat, c’est le dimanche : le dimanche de la Résurrection.</p>
+                <h2>Ce même dimanche<br>Jean 20, 19</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Jean 20, 19</span>
+                    <blockquote>«<strong class="s-hi">Le soir de ce même jour, le premier de la semaine</strong>, alors que les portes du lieu où se trouvaient les disciples étaient verrouillées par crainte des Juifs, Jésus vint, et il était là au milieu d’eux. Il leur dit : “<strong class="s-hi">La paix soit avec vous !</strong>”»</blockquote>
+                </div>
+                <p>Ce même dimanche, les disciples étaient réunis portes verrouillées par crainte des Juifs. Jésus se tient au milieu d’eux et leur dit «La paix soit avec vous !». Il ne les réprimande pas : il les approuve. S’ils faisaient quelque chose de mal, il le leur dirait.</p>
+                <h2>Huit jours plus tard, de nouveau un dimanche<br>Jean 20, 26</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Jean 20, 26</span>
+                    <blockquote>«<strong class="s-hi">Huit jours plus tard, les disciples se trouvaient de nouveau dans la maison</strong>, et Thomas était avec eux. Jésus vient, alors que les portes étaient verrouillées, et il était là au milieu d’eux. Il dit : “<strong class="s-hi">La paix soit avec vous !</strong>”»</blockquote>
+                </div>
+                <p>Huit jours plus tard, en comptant à partir de ce jour-là, c’est le dimanche suivant. Les disciples sont de nouveau réunis, et Jésus les approuve encore avec la même salutation : «La paix soit avec vous !».</p>
+                <h2>Le dimanche, pour rompre le pain<br>Actes 20, 7</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Actes 20, 7</span>
+                    <blockquote>«<strong class="s-hi">Le premier jour de la semaine, nous étions réunis pour rompre le pain</strong>, et Paul, qui devait partir le lendemain, s’entretenait avec eux ; il prolongea son discours jusqu’au milieu de la nuit.»</blockquote>
+                </div>
+                <p>C’est une réunion de culte, la fraction du pain (voir le thème <a href="tema-la-eucaristia.html">L’Eucharistie</a>), le premier jour de la semaine, dès les premiers chrétiens. Cela se passait vers l’an 57, plus de deux siècles et demi avant la loi de Constantin sur le dimanche, qui date de l’an 321. Il n’y a aucun argument pour dire qu’ils se trompaient tous. S’ils se trompaient, Paul se trompait avec eux.</p>
+                <h2>Un jour fixe pour la collecte<br>1 Corinthiens 16, 2</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Corinthiens 16, 2</span>
+                    <blockquote>«<strong class="s-hi">Le premier jour de la semaine</strong>, que chacun de vous mette de côté chez lui ce qu’il aura pu épargner, afin qu’on n’attende pas ma venue pour recueillir les dons.»</blockquote>
+                </div>
+                <p>Le premier jour de la semaine : le dimanche, encore une fois.</p>
+                <h2>Le jour du Seigneur<br>Apocalypse 1, 10</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Apocalypse 1, 10</span>
+                    <blockquote>«Je fus saisi en esprit <strong class="s-hi">le jour du Seigneur</strong>, et j’entendis derrière moi une voix forte, pareille au son d’une trompette.»</blockquote>
+                </div>
+                <p>Le jour du Seigneur. C’est ainsi que le traduisent les Bibles catholiques, et même les protestantes comme la Segond, et certaines traductions catholiques mettent directement «un dimanche». Le mot vient de là : en latin, <em>dies dominica</em>, le jour du Seigneur, d’où vient le mot dimanche.</p>
+                <h2>Maître du sabbat<br>Marc 2, 23-28</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Marc 2, 23-28</span>
+                    <blockquote>«<sup class="vn">23</sup>Un jour de sabbat, Jésus marchait à travers les champs de blé ; et ses disciples, chemin faisant, se mirent à arracher des épis. <sup class="vn">24</sup>Les pharisiens lui disaient : “Regarde ce qu’ils font le jour du sabbat ! Cela n’est pas permis.” <sup class="vn">25</sup>Et Jésus leur dit : “N’avez-vous jamais lu ce que fit David, lorsqu’il fut dans le besoin et qu’il eut faim, lui et ceux qui étaient avec lui ? <sup class="vn">26</sup>Au temps du grand prêtre Abiatar, il entra dans la maison de Dieu et mangea les pains de l’offrande que nul n’a le droit de manger, sinon les prêtres, et il en donna aussi à ceux qui étaient avec lui.” <sup class="vn">27</sup>Il leur disait encore : “<strong class="s-hi">Le sabbat a été fait pour l’homme, et non pas l’homme pour le sabbat</strong>. <sup class="vn">28</sup>Voilà pourquoi <strong class="s-hi">le Fils de l’homme est maître, même du sabbat</strong>.”»</blockquote>
+                </div>
+                <p>Le sabbat a été fait pour l’homme, et non pas l’homme pour le sabbat, et le Fils de l’homme est maître même du sabbat. Jésus fait du sabbat ce qu’il veut, jusqu’à le changer.</p>
+                <h2>Ils voulaient le tuer à cause du sabbat<br>Jean 5, 18</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Jean 5, 18</span>
+                    <blockquote>«C’est pourquoi, de plus en plus, les Juifs cherchaient à le tuer, car non seulement <strong class="s-hi">il ne respectait pas le sabbat</strong>, mais encore il disait que Dieu était son propre Père, et il se faisait ainsi l’égal de Dieu.»</blockquote>
+                </div>
+                <p>Jean le dit en toutes lettres : le Christ ne respectait pas le sabbat, et c’est pour cela qu’ils cherchaient à le tuer.</p>
+                <h2>Tout est accompli<br>Jean 19, 30</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Jean 19, 30</span>
+                    <blockquote>«Quand il eut pris le vinaigre, Jésus dit : “<strong class="s-hi">Tout est accompli.</strong>” Puis, inclinant la tête, il remit l’esprit.»</blockquote>
+                </div>
+                <p>C’est la fin de l’Alliance ancienne. Le Christ l’a accomplie, il s’est reposé au tombeau le jour du sabbat et il est ressuscité le dimanche.</p>
+                <p>Contre cela, les adventistes citent le Sermon sur la montagne :</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matthieu 5, 17-18</span>
+                    <blockquote>«<sup class="vn">17</sup>Ne pensez pas que je suis venu abolir la Loi ou les Prophètes : <strong class="s-hi">je ne suis pas venu abolir, mais accomplir</strong>. <sup class="vn">18</sup>Amen, je vous le dis : avant que le ciel et la terre disparaissent, pas un seul iota, pas un seul trait ne disparaîtra de la Loi <strong class="s-hi">jusqu’à ce que tout se réalise</strong>.»</blockquote>
+                </div>
+                <p>Le texte fixe un terme. Le Christ n’est pas venu abolir la Loi mais l’accomplir, et la Loi demeure jusqu’à ce que tout se réalise. Sur la croix, il a dit que tout était accompli. Ce qui s’accomplit n’est pas abrogé : il arrive à son terme parce qu’il a atteint ce pour quoi il existait.</p>
+                <h2>Morts à la Loi<br>Romains 7, 1-6</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Romains 7, 1-6</span>
+                    <blockquote>«<sup class="vn">1</sup>Ignorez-vous donc, frères, car <strong class="s-hi">je parle à des gens qui connaissent la loi</strong>, que la loi n’a d’autorité sur l’homme qu’aussi longtemps qu’il vit ? <sup class="vn">2</sup>Ainsi, la femme mariée est liée par la loi à son mari tant qu’il est vivant ; mais si le mari meurt, elle est dégagée de la loi du mari. <sup class="vn">3</sup>Donc, du vivant de son mari, elle sera appelée adultère si elle appartient à un autre homme ; mais si le mari meurt, elle est libre à l’égard de la loi, de sorte qu’elle n’est pas adultère en appartenant à un autre homme. <sup class="vn">4</sup>Ainsi, mes frères, vous aussi, <strong class="s-hi">vous avez été mis à mort à l’égard de la Loi par le corps du Christ, pour appartenir à un autre</strong>, à celui qui est ressuscité d’entre les morts, afin que nous portions du fruit pour Dieu. <sup class="vn">5</sup>Quand nous étions dans la chair, <strong class="s-hi">les passions pécheresses, se servant de la Loi, agissaient dans nos membres, afin que nous portions du fruit pour la mort</strong>. <sup class="vn">6</sup>Mais maintenant, <strong class="s-hi">nous avons été dégagés de la Loi, étant morts à ce qui nous tenait captifs</strong>, de sorte que nous servons <strong class="s-hi">sous le régime nouveau de l’Esprit et non plus sous le régime périmé de la lettre</strong>.»</blockquote>
+                </div>
+                <p>Paul parle à des gens qui connaissent la loi et se sert de l’analogie du mariage. La femme est liée à son mari tant qu’il vit ; quand il meurt, elle est libre et peut épouser un autre homme sans être adultère. Il en va de même avec la Loi : par la mort du Christ, les chrétiens sont morts à la Loi et sont passés à un autre, à celui qui est ressuscité. La Loi qui les tenait captifs ne les lie plus, et ils servent Dieu sous le régime nouveau de l’Esprit, non sous le régime périmé de la lettre.</p>
+                <p>La Loi étant morte, c’est maintenant la Nouvelle Alliance qui est en vigueur.</p>
+                <h2>Non sur des tables de pierre<br>2 Corinthiens 3, 3-16</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 2 Corinthiens 3, 3-16</span>
+                    <blockquote>«<sup class="vn">3</sup>Oui, vous êtes manifestement une lettre du Christ, confiée à notre ministère, écrite non pas avec de l’encre, mais avec l’Esprit du Dieu vivant, <strong class="s-hi">non pas sur des tables de pierre, mais sur des tables de chair, sur vos cœurs</strong>. <sup class="vn">4</sup>Une telle assurance, nous l’avons par le Christ auprès de Dieu. <sup class="vn">5</sup>Ce n’est pas à cause d’une capacité personnelle que nous pourrions nous attribuer ; notre capacité vient de Dieu. <sup class="vn">6</sup>Lui nous a rendus capables d’être les ministres d’une Alliance nouvelle, non pas l’Alliance de la lettre, mais celle de l’Esprit ; car <strong class="s-hi">la lettre tue, mais l’Esprit donne la vie</strong>. <sup class="vn">7</sup>Or, si le ministère de la mort, gravé en lettres sur des pierres, a été entouré de gloire, au point que les fils d’Israël ne pouvaient fixer le visage de Moïse à cause de <strong class="s-hi">la gloire, pourtant passagère</strong>, qui rayonnait de son visage, <sup class="vn">8</sup>combien plus le ministère de l’Esprit sera-t-il entouré de gloire ! <sup class="vn">9</sup>Si, en effet, le ministère de la condamnation a été glorieux, combien plus le ministère de la justice l’emporte-t-il en gloire ! <sup class="vn">10</sup>Non, <strong class="s-hi">ce qui fut glorieux en ce point ne l’est plus</strong>, en comparaison de cette gloire suréminente. <sup class="vn">11</sup>Car si ce qui était passager a été glorieux, combien plus ce qui demeure le sera-t-il ! <sup class="vn">12</sup>Ayant donc une telle espérance, nous agissons avec une grande assurance, <sup class="vn">13</sup>et non pas comme Moïse, qui <strong class="s-hi">mettait un voile sur son visage pour que les fils d’Israël ne voient pas la fin de ce qui était passager</strong>. <sup class="vn">14</sup>Mais <strong class="s-hi">leur intelligence s’est obscurcie</strong>. Jusqu’à ce jour, en effet, lorsqu’on lit l’Ancien Testament, ce même voile demeure ; il n’est pas levé, car c’est dans le Christ qu’il disparaît. <sup class="vn">15</sup>Oui, <strong class="s-hi">jusqu’à ce jour, toutes les fois qu’on lit Moïse, un voile est posé sur leur cœur</strong>. <sup class="vn">16</sup><strong class="s-hi">C’est quand on se convertit au Seigneur que le voile est enlevé</strong>.»</blockquote>
+                </div>
+                <p>Non sur des tables de pierre mais sur le cœur. La lettre tue et l’Esprit donne la vie. La gloire était passagère, et ce qui fut glorieux ne l’est plus. Ceci est parole de Dieu. Aucun pape ni aucun évêque ne l’a dit, personne ne l’a inventé, et cela ne vient d’aucun pasteur qui un jour s’est levé et a interprété quelque chose.</p>
+                <p>Moïse mettait un voile sur son visage pour que les fils d’Israël ne voient pas la fin de ce qui était passager, et leur intelligence s’est obscurcie jusqu’à ce jour, comme celle des adventistes et d’autres sectes. Jusqu’à ce jour, toutes les fois qu’ils lisent Moïse, le voile est posé sur leur cœur, et il n’est enlevé que lorsqu’ils se convertissent au Seigneur, c’est-à-dire lorsqu’ils deviennent catholiques.</p>
+                <p>Ce qui importe, donc, ce ne sont pas les tables de pierre mais le cœur : la loi morale, non la loi cérémonielle. Les commandements moraux ne disparaissent pas, parce que le Christ les reprend, comme on le voit en Matthieu 5. Ce qui est passé, c’est la loi cérémonielle, et avec elle le précepte du sabbat, que le dimanche a remplacé pour les chrétiens (Catéchisme de l’Église catholique, 2175).</p>
+                <h2>Que personne ne vous condamne<br>Colossiens 2, 16-17</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Colossiens 2, 16-17</span>
+                    <blockquote>«<sup class="vn">16</sup>Donc, <strong class="s-hi">que personne ne vous condamne pour des questions de nourriture et de boisson, ou à propos d’une fête, d’une nouvelle lune ou d’un sabbat</strong>. <sup class="vn">17</sup>Tout cela n’est que l’ombre de ce qui devait venir, mais la réalité, c’est le corps du Christ.»</blockquote>
+                </div>
+                <p>Que personne ne condamne les catholiques qui sanctifient le dimanche. C’est ce que font les protestants, en l’occurrence les adventistes : critiquer sans connaître l’Écriture.</p>
+                <h2>«Il faut imiter le Christ»<br>Luc 2, 21</h2>
+                <p>Contre tout cela, ces sectes ont quelques arguments. Le premier : <em>«Jésus gardait le sabbat, et le chrétien doit imiter le Christ.»</em></p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Luc 2, 21</span>
+                    <blockquote>«Quand fut arrivé le huitième jour, <strong class="s-hi">celui de la circoncision</strong>, l’enfant reçut le nom de Jésus, le nom que l’ange lui avait donné avant sa conception.»</blockquote>
+                </div>
+                <p>S’il faut l’imiter, Luc raconte qu’au huitième jour il fut circoncis. Pourquoi ne se font-ils pas circoncire ? Parce qu’ils imitent ce qui leur convient. La circoncision, comme le sabbat, appartient à l’ancien pacte.</p>
+                <h2>«Si vous m’aimez, gardez mes commandements»<br>Jean 14, 15-26</h2>
+                <p>Le deuxième, ils le tirent de Jean 14 : <em>«Si vous m’aimez, gardez mes commandements. Et les commandements, ce sont les dix, sabbat compris.»</em> Le passage dit autre chose :</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Jean 14, 15-26</span>
+                    <blockquote>«<sup class="vn">15</sup><strong class="s-hi">Si vous m’aimez, vous garderez mes commandements</strong>. <sup class="vn">16</sup>Moi, je prierai le Père, et il vous donnera un autre Défenseur qui sera pour toujours avec vous : <sup class="vn">17</sup>l’Esprit de vérité, lui que le monde ne peut recevoir, car il ne le voit pas et ne le connaît pas ; vous, vous le connaissez, car il demeure auprès de vous, et il sera en vous. <sup class="vn">18</sup>Je ne vous laisserai pas orphelins, je reviens vers vous. <sup class="vn">19</sup>D’ici peu de temps, le monde ne me verra plus, mais vous, vous me verrez vivant, et vous vivrez aussi. <sup class="vn">20</sup>En ce jour-là, vous reconnaîtrez que je suis en mon Père, que vous êtes en moi, et moi en vous. <sup class="vn">21</sup><strong class="s-hi">Celui qui reçoit mes commandements et les garde, c’est celui-là qui m’aime</strong> ; et celui qui m’aime sera aimé de mon Père ; moi aussi, je l’aimerai, et je me manifesterai à lui. <sup class="vn">22</sup>Jude, non pas Judas l’Iscariote, lui demanda : “Seigneur, que se passe-t-il ? Est-ce à nous que tu vas te manifester, et non pas au monde ?” <sup class="vn">23</sup>Jésus lui répondit : “<strong class="s-hi">Si quelqu’un m’aime, il gardera ma parole</strong> ; mon Père l’aimera, nous viendrons vers lui et, chez lui, nous nous ferons une demeure. <sup class="vn">24</sup>Celui qui ne m’aime pas ne garde pas mes paroles. Or, la parole que vous entendez n’est pas de moi : elle est du Père, qui m’a envoyé. <sup class="vn">25</sup>Je vous parle ainsi, tant que je demeure avec vous ; <sup class="vn">26</sup>mais le Défenseur, l’Esprit Saint que le Père enverra en mon nom, lui, <strong class="s-hi">vous enseignera tout, et il vous fera souvenir de tout ce que je vous ai dit</strong>.”»</blockquote>
+                </div>
+                <p>Le Christ ne dit pas «les commandements de Moïse» : il dit mes commandements. Pas les anciens, les siens propres. Il y revient aux versets 21 et 23, et au verset 26 il promet l’Esprit Saint, qui leur enseignera tout et leur fera souvenir de tout ce qu’il leur a dit.</p>
+                <h2>Le commandement nouveau<br>Jean 13, 34-35</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Jean 13, 34-35</span>
+                    <blockquote>«<sup class="vn">34</sup><strong class="s-hi">Je vous donne un commandement nouveau</strong> : c’est de vous aimer les uns les autres. Comme je vous ai aimés, vous aussi aimez-vous les uns les autres. <sup class="vn">35</sup><strong class="s-hi">À ceci, tous reconnaîtront que vous êtes mes disciples</strong> : si vous avez de l’amour les uns pour les autres.»</blockquote>
+                </div>
+                <p>Les vrais chrétiens, et non les hérétiques apostats, se reconnaissent à ce qu’ils suivent les commandements du Christ.</p>
+                <h2>Jusqu’à la fin du monde<br>Matthieu 28, 19-20</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matthieu 28, 19-20</span>
+                    <blockquote>«<sup class="vn">19</sup>Allez ! De toutes les nations faites des disciples : baptisez-les au nom du Père, et du Fils, et du Saint-Esprit, <sup class="vn">20</sup><strong class="s-hi">apprenez-leur à observer tout ce que je vous ai commandé</strong>. Et moi, je suis avec vous tous les jours <strong class="s-hi">jusqu’à la fin du monde</strong>.»</blockquote>
+                </div>
+                <p>Jésus le commande jusqu’à la fin du monde. Pas une fois, ni deux, ni seulement au début. Jusqu’à la fin.</p>
+                <p>Et ici tombe une autre doctrine protestante, celle qui dit qu’il suffit de croire et que les œuvres ne comptent pas. Si l’on croit à la parole du Christ, et pas seulement en lui, et que l’on fait ce qu’il dit, tout change. Les œuvres existent, et la foi se met en pratique.</p>
+                <h2>Le signe que nous le connaissons<br>1 Jean 2, 3</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Jean 2, 3</span>
+                    <blockquote>«Voici comment nous savons que nous le connaissons : <strong class="s-hi">si nous gardons ses commandements</strong>.»</blockquote>
+                </div>
+                <p>Les commandements de Jésus. Ce que le Christ donne se reçoit en accomplissant sa parole, comme à Cana, où seuls les serviteurs qui avaient fait ce qu’il avait commandé surent ce qui s’était passé (voir le thème <a href="tema-transubstanciacion.html">Transsubstantiation</a>).</p>
+                <h2>«Eh bien ! moi, je vous dis»<br>Matthieu 5, 20-28</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matthieu 5, 20-28</span>
+                    <blockquote>«<sup class="vn">20</sup>Car je vous le dis : si votre justice ne surpasse pas celle des scribes et des pharisiens, vous n’entrerez pas dans le royaume des Cieux. <sup class="vn">21</sup>Vous avez appris qu’il a été dit aux anciens : <strong class="s-hi">Tu ne commettras pas de meurtre</strong>, et si quelqu’un commet un meurtre, il devra passer en jugement. <sup class="vn">22</sup>Eh bien ! <strong class="s-hi">moi, je vous dis</strong> : Tout homme qui se met en colère contre son frère devra passer en jugement. Si quelqu’un insulte son frère, il devra passer devant le tribunal. Si quelqu’un le traite de fou, il sera passible de la géhenne de feu. <sup class="vn">23</sup>Donc, lorsque tu vas présenter ton offrande à l’autel, si, là, tu te souviens que ton frère a quelque chose contre toi, <sup class="vn">24</sup>laisse ton offrande, là, devant l’autel, va d’abord te réconcilier avec ton frère, et ensuite viens présenter ton offrande. <sup class="vn">25</sup>Mets-toi vite d’accord avec ton adversaire pendant que tu es en chemin avec lui, pour éviter que ton adversaire ne te livre au juge, le juge au garde, et qu’on ne te jette en prison. <sup class="vn">26</sup>Amen, je te le dis : tu n’en sortiras pas avant d’avoir payé jusqu’au dernier sou. <sup class="vn">27</sup>Vous avez appris qu’il a été dit : <strong class="s-hi">Tu ne commettras pas d’adultère</strong>. <sup class="vn">28</sup>Eh bien ! <strong class="s-hi">moi, je vous dis</strong> : Tout homme qui regarde une femme avec convoitise a déjà commis l’adultère avec elle dans son cœur.»</blockquote>
+                </div>
+                <p>En résumé, Jésus reprend les commandements anciens, et c’est pour cela qu’on les enseigne au catéchisme. Il en laisse certains tels qu’ils étaient et en modifie d’autres, comme celui de l’adultère, qu’il étend à la pensée. Du sabbat, il ne dit rien.</p>
+                <h2>«Pourquoi ne faites-vous pas ce que je dis ?»<br>Luc 6, 46</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Luc 6, 46</span>
+                    <blockquote>«Pourquoi m’appelez-vous en disant : “Seigneur ! Seigneur !” et <strong class="s-hi">ne faites-vous pas ce que je dis ?</strong>»</blockquote>
+                </div>
+                <p>S’ils tiennent tant à faire ce qui est commandé, pourquoi n’accomplissent-ils pas ce que le Christ commande ? Parce qu’ils ne le croient pas. S’ils le croyaient, ils ne le discuteraient pas.</p>
+                <h2>Ce que Dieu ne supporte pas<br>Isaïe 1, 13</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Isaïe 1, 13</span>
+                    <blockquote>«Cessez d’apporter de vaines offrandes ; j’ai horreur de l’encens. <strong class="s-hi">Les nouvelles lunes, les sabbats, les assemblées</strong>, <strong class="s-hi">je n’en peux plus de ces crimes et de ces fêtes</strong>.»</blockquote>
+                </div>
+                <p>Le Seigneur le dit par la bouche d’Isaïe : les nouvelles lunes, les sabbats et les assemblées lui sont insupportables.</p>
+                <ul>
+                    <li>Les deux femmes d’Abraham sont les deux Alliances : celle du Sinaï enfante des esclaves, et la Jérusalem d’en haut est libre et elle est la mère des chrétiens.</li>
+                    <li>Celui qui se fait circoncire est tenu à la Loi tout entière, et celui qui cherche la justice dans la Loi rompt avec le Christ.</li>
+                    <li>Le Christ est ressuscité le dimanche, s’est présenté deux dimanches de suite aux disciples réunis et les a approuvés.</li>
+                    <li>Les apôtres rompaient le pain le premier jour de la semaine, des siècles avant Constantin, et l’Apocalypse l’appelle le jour du Seigneur.</li>
+                    <li>Le Christ est maître du sabbat, et sur la croix il a dit que tout était accompli.</li>
+                    <li>La Loi gravée sur la pierre était passagère ; la Nouvelle Alliance est écrite dans le cœur.</li>
+                    <li>Les commandements du chrétien sont ceux du Christ, qui reprend les anciens et ne dit rien du sabbat.</li>
+                </ul>
+                <h2>Conclusion</h2>
+                <p>L’Alliance du Sinaï a pris fin quand le Christ l’a accomplie sur la croix. Les chrétiens ne sont pas enfants de la servante mais de la femme libre, et celui qui se replace sous la Loi rompt avec le Christ. Les apôtres se sont réunis le dimanche dès le jour de la résurrection, ont rompu le pain le premier jour de la semaine et l’ont appelé le jour du Seigneur. L’Église n’a pas changé le jour. Elle l’a reçu d’eux.</p>
+                <p>C’est pourquoi la parole de Paul aux Colossiens vaut toujours pour chaque catholique qui sanctifie le dimanche :</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Colossiens 2, 16</span>
+                    <blockquote>«Donc, <strong class="s-hi">que personne ne vous condamne</strong> pour des questions de nourriture et de boisson, ou à propos d’une fête, d’une nouvelle lune ou d’un sabbat.»</blockquote>
+                </div>`,
       nav: { prevTitle: "Le purgatoire et la miséricorde de Dieu", nextTitle: "La Sainte Trinité" }
     },
     "la-primacia-de-pedro": {
