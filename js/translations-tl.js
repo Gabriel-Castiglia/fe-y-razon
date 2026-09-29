@@ -85,7 +85,7 @@ const translationsTL = {
     date: "Setyembre 2026",
     title: "Ang Bagong Kautusan",
     excerpt: "Nagwakas sa krus ang Tipan ng Sinai, at nagtitipon ang mga apostol tuwing Linggo: ang sinasabi ng Kasulatan tungkol sa lumang Kautusan at sa bago.",
-    time: "23 minuto",
+    time: "25 minuto",
     link: "Basahin →"
   },
   article9: {
@@ -303,7 +303,7 @@ const translationsTL = {
             <h1>Ang Bagong Kautusan kay Kristo</h1>
             <p>Nagwakas sa krus ang Tipan ng Sinai, at nagtitipon ang mga apostol tuwing Linggo mula pa sa araw ng muling pagkabuhay. Ang sinasabi ng Kasulatan tungkol sa lumang Kautusan at sa bago, talata por talata.</p>
             <div class="article-meta">
-                <span>23 minutong pagbabasa</span>
+                <span>25 minutong pagbabasa</span>
                 <span>Nailathala Setyembre 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
@@ -311,7 +311,7 @@ const translationsTL = {
 Traducción de la-nueva-ley desde el español (29-sep-2026). Citas según la
 traducción católica usual de este idioma, escritas de memoria: sin cotejar.
 -->
-<p>Ilang sektang Protestante ang nanghahawak sa erehiyang ang Kristiyano ay nakatali pa rin sa Kautusan ni Moises, o kahit man lang sa bahaging pinipili ng bawat isa sa kanila. Ang pinakamalayo ang dinadala sa kamalian ay ang mga Seventh-day Adventist: nangingilin sila ng Sabbath, umiiwas sa mga pagkaing idineklarang marumi ng Kautusan, at pinararatangan ang Simbahan na binago nito ang araw ng Diyos. Ganito nila ito sinasabi: <em>«Ang Sabbath ang araw na itinalaga ng Diyos magpakailanman. Ang Linggo ay ipinataw ng Roma, at ang nangingilin nito ay sumusunod sa papa at hindi sa Diyos.»</em></p>
+<p>Ilang sektang Protestante ang nanghahawak sa erehiyang ang Kristiyano ay nakatali pa rin sa Kautusan ni Moises, o kahit man lang sa bahaging pinipili ng bawat isa sa kanila. Ang pinakamalayo ang dinadala sa kamalian ay ang mga Seventh-day Adventist: nangingilin sila ng Sabbath, umiiwas sa mga pagkaing idineklarang marumi ng Kautusan, at pinararatangan ang Simbahan na binago nito ang araw ng Diyos. Ganito nila ito sinasabi: <em>«Ang Sabbath ang araw na itinalaga ng Diyos magpakailanman. Ang Linggo ay ipinataw ng Roma, at ang nangingilin nito ay sumusunod sa papa at hindi sa Diyos.»</em> Kumukuha ang mga Saksi ni Jehova ng isa pang piraso sa parehong Kautusan: ang pagbabawal sa pagkain ng dugo, na ginagawa nilang pagbabawal sa pagsasalin ng dugo.</p>
                 <p>Nasa Kasulatan ang sagot. Isinulat ito ni Pablo para sa mga Kristiyanong malapit nang gawin ang ginagawa ngayon ng mga Adventist: bumalik sa Kautusan matapos tanggapin si Cristo. Ito ang sulat sa mga taga-Galacia, at binabasa muna nang buo ang talata, kasama ang mga bilang ng bersikulo, bago suriin nang bahagi-bahagi.</p>
                 <h2>Dalawang babae, dalawang Tipan<br>Mga Taga-Galacia 4:21 — 5:12</h2>
                 <div class="scripture-block">
@@ -367,7 +367,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ Juan 20:19</span>
                     <blockquote>«<strong class="s-hi">Kinagabihan ng araw ding iyon, ang unang araw ng sanlinggo</strong>, habang nakasara ang mga pinto ng bahay na kinaroroonan ng mga alagad dahil sa takot nila sa mga Judio, dumating si Jesus at tumayo sa gitna nila at sinabi: “<strong class="s-hi">Sumainyo ang kapayapaan!</strong>”»</blockquote>
                 </div>
-                <p>Nang Linggo ring iyon, nagkakatipon ang mga alagad sa likod ng mga saradong pinto dahil sa takot sa mga Judio. Tumayo si Jesus sa gitna nila at sinabi sa kanila «Sumainyo ang kapayapaan!». Hindi niya sila pinagsabihan: sinang-ayunan niya sila. Kung may ginagawa silang mali, sasabihin niya iyon.</p>
+                <p>Nang Linggo ring iyon, at hindi sa Sabbath, nagkakatipon ang mga alagad sa likod ng mga saradong pinto dahil sa takot sa mga Judio. Tumayo si Jesus sa gitna nila at sinabi sa kanila «Sumainyo ang kapayapaan!». Hindi niya sila pinagsabihan: sinang-ayunan niya sila. Kung may ginagawa silang mali, sasabihin niya iyon.</p>
                 <h2>Makalipas ang walong araw, Linggo muli<br>Juan 20:26</h2>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Juan 20:26</span>
@@ -437,6 +437,13 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <blockquote>«<sup class="vn">16</sup>Kaya <strong class="s-hi">huwag kayong pahatulan ninuman tungkol sa pagkain o inumin, o tungkol sa mga pista, bagong buwan o Araw ng Pamamahinga</strong>. <sup class="vn">17</sup>Ang mga ito ay anino lamang ng mga bagay na darating, ngunit ang katotohanan ay ang katawan ni Cristo.»</blockquote>
                 </div>
                 <p>Huwag hatulan ninuman ang mga Katolikong nangingilin ng Linggo. Iyan ang ginagawa ng mga Protestante, dito ay ng mga Adventist: pumupuna nang hindi nakaaalam ng Kasulatan.</p>
+                <h2>Ang dugo ng dambana<br>Levitico 17:10-11</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Levitico 17:10-11</span>
+                    <blockquote>«<sup class="vn">10</sup>Sinumang tao sa sambahayan ng Israel o sa mga dayuhang naninirahan sa gitna nila na <strong class="s-hi">kumain ng anumang dugo</strong>, haharapin ko ang taong iyon na kumain ng dugo at ihihiwalay ko siya sa kanyang bayan. <sup class="vn">11</sup>Sapagkat ang buhay ng laman ay nasa dugo, at <strong class="s-hi">ibinigay ko ito sa inyo sa ibabaw ng dambana upang maging pantubos sa inyong buhay</strong>; sapagkat ang dugo ang tumutubos, dahil sa buhay na nasa kanya.»</blockquote>
+                </div>
+                <p>Hindi tumatanggap ng pagsasalin ng dugo ang mga Saksi ni Jehova dahil sinasabi nilang ipinagbabawal ng Biblia ang pagkain ng dugo. Kinukuha nila ito sa mga handog ng Levitico at binibigyan ng kahulugang gusto nila, hanggang sa hayaang mamatay ang sarili nilang mga anak sa operating table.</p>
+                <p>Sinasabi ng bersikulo 11 kung bakit ito ipinagbabawal: ang dugo ay nakalaan sa dambana, para sa pagtubos. Ang dambanang iyon at ang pagtubos na iyon ay nagwakas sa krus, kung saan ang dugo ni Cristo ang tumubos nang minsan at magpakailanman. At ang pagsasalin ng dugo ay hindi kinakain ni inihahandog sa anumang dambana: ibinibigay ito upang iligtas ang isang buhay, na siyang kahulugan ng dugo sa bersikulo ring iyon.</p>
                 <h2>«Dapat tularan si Cristo»<br>Lucas 2:21</h2>
                 <p>Laban sa lahat ng ito, may ilang argumento ang mga sektang ito. Ang una: <em>«Nangilin si Jesus ng Sabbath, at dapat tularan ng Kristiyano si Cristo.»</em></p>
                 <div class="scripture-block">
@@ -495,6 +502,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <li>Nagpipiraso ng tinapay ang mga apostol sa unang araw ng sanlinggo, ilang siglo bago si Constantino, at tinatawag ito ng Pahayag na Araw ng Panginoon.</li>
                     <li>Si Cristo ay Panginoon ng Araw ng Pamamahinga, at sa krus ay sinabi niyang naganap na.</li>
                     <li>Panandalian ang Kautusang inukit sa bato; ang Bagong Tipan ay nakasulat sa puso.</li>
+                    <li>Ang dugo sa Levitico ay nakalaan sa dambana ng pagtubos, at nagwakas ang dambanang iyon sa krus.</li>
                     <li>Ang mga utos ng Kristiyano ay ang mga utos ni Cristo, na muling inaangkin ang mga luma at walang sinasabi tungkol sa Sabbath.</li>
                 </ul>
                 <h2>Konklusyon</h2>

@@ -46,7 +46,7 @@ const translationsLN = {
     category: "Mateya", date: "Sanza ya libwa 2026", title: "Purgatorio", excerpt: "Boloko oyo moto abimaka mpe masumu oyo elimbisamaka na mokili oyo ekoya: oyo Klisto alakisi mpo na bopetoli.", time: "Min 8 botangi", link: "Tanga →"
   },
   article8: {
-    category: "Mateya", date: "Sanza ya libwa 2026", title: "Mobeko ya Sika", excerpt: "Boyokani ya Sinai esilaki na ekulusu, mpe bapostolo bazalaki kosangana mokolo ya lomingo: oyo Makomami elobi mpo na Mobeko ya kala mpe ya sika.", time: "Min 23 botangi", link: "Tanga →"
+    category: "Mateya", date: "Sanza ya libwa 2026", title: "Mobeko ya Sika", excerpt: "Boyokani ya Sinai esilaki na ekulusu, mpe bapostolo bazalaki kosangana mokolo ya lomingo: oyo Makomami elobi mpo na Mobeko ya kala mpe ya sika.", time: "Min 25 botangi", link: "Tanga →"
   },
   article9: {
     category: "Apologetiki", date: "Sanza ya libwa 2026", title: "Bokambi ya Petro", excerpt: "Bafungola ya Bokonzi, libanga mpe mosala ya kolendisa bandeko: oyo Makomami epesi Petro.", time: "Min 14 botangi", link: "Tanga →"
@@ -163,12 +163,12 @@ const translationsLN = {
     },
     "la-nueva-ley": {
       pageTitle: "Mobeko ya Sika | Kondima mpe Mayele",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Liséki Monene</span></div><h1>Mobeko ya Sika na Klisto</h1><p>Boyokani ya Sinai esilaki na ekulusu, mpe bapostolo bazalaki kosangana mokolo ya lomingo banda mokolo ya lisekwa. Oyo Makomami elobi mpo na Mobeko ya kala mpe ya sika, eteni na eteni.</p><div class="article-meta"><span>Min 23 botangi</span><span>Ebimisami na sanza ya libwa 2026</span></div><a href="temas.html" class="btn-outline-white">Zonga na Mitó ya makambo</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Liséki Monene</span></div><h1>Mobeko ya Sika na Klisto</h1><p>Boyokani ya Sinai esilaki na ekulusu, mpe bapostolo bazalaki kosangana mokolo ya lomingo banda mokolo ya lisekwa. Oyo Makomami elobi mpo na Mobeko ya kala mpe ya sika, eteni na eteni.</p><div class="article-meta"><span>Min 25 botangi</span><span>Ebimisami na sanza ya libwa 2026</span></div><a href="temas.html" class="btn-outline-white">Zonga na Mitó ya makambo</a>`,
       article: `<!--
 Traducción de la-nueva-ley desde el español (29-sep-2026). Citas según la
 traducción católica usual de este idioma, escritas de memoria: sin cotejar.
 -->
-<p>Mangomba mingi ya baprotestanti bazali kolanda bokosi ete moklisto azali naino ya kokangama na Mobeko ya Moize, to ata na eteni ya yango oyo moko na moko aponi. Oyo bamemi libunga mosika koleka ezali ya ba-adventiste ya mokolo ya nsambo: batosaka sabato, baboyaka bilei oyo Mobeko elobaki ete ezali mbindo, mpe bafundaka Eklezia ete ebongolaki mokolo ya Nzambe. Balobaka boye: <em>«Sabato ezali mokolo oyo Nzambe asantisaki libela. Lomingo, Roma nde etiaki yango, mpe oyo atosaka yango atosaka papa kasi Nzambe te.»</em></p>
+<p>Mangomba mingi ya baprotestanti bazali kolanda bokosi ete moklisto azali naino ya kokangama na Mobeko ya Moize, to ata na eteni ya yango oyo moko na moko aponi. Oyo bamemi libunga mosika koleka ezali ya ba-adventiste ya mokolo ya nsambo: batosaka sabato, baboyaka bilei oyo Mobeko elobaki ete ezali mbindo, mpe bafundaka Eklezia ete ebongolaki mokolo ya Nzambe. Balobaka boye: <em>«Sabato ezali mokolo oyo Nzambe asantisaki libela. Lomingo, Roma nde etiaki yango, mpe oyo atosaka yango atosaka papa kasi Nzambe te.»</em> Batatoli ya Yehova bazwaka eteni mosusu na Mobeko wana moko: epekiseli ya kolya makila, oyo babongolaka yango epekiseli ya kozwa makila na lopitalo.</p>
                 <p>Eyano ezali na Makomami. Polo akomaki yango mpo na baklisto oyo bazalaki pene ya kosala oyo ba-adventiste bazali kosala lelo: kozonga na Mobeko nsima ya koyamba Klisto. Ezali mokanda epai ya Bagalatia, mpe eteni yango etangami liboso mobimba, na mituya ya mikapo, liboso ya kolandela yango eteni na eteni.</p>
                 <h2>Basi mibale, mayokani mibale<br>Bagalatia 4:21 — 5:12</h2>
                 <div class="scripture-block">
@@ -224,7 +224,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ Yoane 20:19</span>
                     <blockquote>«<strong class="s-hi">Na pokwa ya mokolo wana, mokolo ya liboso ya poso</strong>, bayekoli bazalaki kati na ndako, bizibeli ekangami mpo na kobanga Bayuda. Yesu ayaki, atelemaki kati na bango mpe alobaki na bango: “<strong class="s-hi">Kimia ezala na bino!</strong>”»</blockquote>
                 </div>
-                <p>Lomingo wana moko, bayekoli bazalaki elongo na bizibeli ekangami mpo na kobanga Bayuda. Yesu atelemi kati na bango mpe alobi na bango «Kimia ezala na bino!». Apameli bango te: andimi bango. Soki bazalaki kosala mabe, alingaki koyebisa bango.</p>
+                <p>Lomingo wana moko, kasi na sabato te, bayekoli bazalaki elongo na bizibeli ekangami mpo na kobanga Bayuda. Yesu atelemi kati na bango mpe alobi na bango «Kimia ezala na bino!». Apameli bango te: andimi bango. Soki bazalaki kosala mabe, alingaki koyebisa bango.</p>
                 <h2>Mikolo mwambe na nsima, lomingo lisusu<br>Yoane 20:26</h2>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Yoane 20:26</span>
@@ -294,6 +294,13 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <blockquote>«<sup class="vn">16</sup>Yango wana, <strong class="s-hi">moto moko te asambisa bino mpo na bilei to mpo na bimeli, to mpo na mikolo ya fete, sanza ya sika to sabato</strong>. <sup class="vn">17</sup>Makambo wana ezali kaka elili ya makambo oyo ekoya; kasi solo ezali nzoto ya Klisto.»</blockquote>
                 </div>
                 <p>Moto moko te asambisa bakatolike oyo basantisaka lomingo. Yango nde baprotestanti basalaka, awa ba-adventiste: bafundaka kozanga koyeba Makomami.</p>
+                <h2>Makila ya etumbelo<br>Balevi 17:10-11</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Balevi 17:10-11</span>
+                    <blockquote>«<sup class="vn">10</sup>Soki moto moko ya ndako ya Isalaele to mopaya oyo afandi kati na bango <strong class="s-hi">alei makila ya lolenge nyonso</strong>, nakobalolela ye oyo alei makila elongi na ngai mpe nakolongola ye kati na bato na ye. <sup class="vn">11</sup>Mpo bomoi ya nzoto ezali kati na makila, mpe ngai <strong class="s-hi">napesaki bino yango likolo ya etumbelo mpo na kosala bolimbisi mpo na bomoi na bino</strong>; mpo makila nde esalaka bolimbisi na nguya ya bomoi oyo ezali kati na yango.»</blockquote>
+                </div>
+                <p>Batatoli ya Yehova bandimaka te kozwa makila na lopitalo mpo balobaka ete Biblia epekisi kolya makila. Bazwaka yango na mbeka ya Balevi mpe balimbolaka yango ndenge balingi, kino kotika bana na bango moko bakufa na mesa ya lopitalo.</p>
+                <p>Vese 11 elobi mpo na nini yango epekisamaki: makila ezalaki mpo na etumbelo, mpo na bolimbisi. Etumbelo wana mpe bolimbisi wana esilaki na ekulusu, esika makila ya Klisto esalaki bolimbisi mbala moko mpo na libela. Mpe kopesa makila na lopitalo ezali te kolya, mpe bapesaka yango te likolo ya etumbelo moko: bapesaka yango mpo na kobikisa bomoi, oyo nde makila elakisaki na vese yango moko.</p>
                 <h2>«Tosengeli kolanda ndakisa ya Klisto»<br>Luka 2:21</h2>
                 <p>Mpo na koboya makambo oyo nyonso, mangomba oyo bazali na mwa bantina. Ya liboso: <em>«Yesu azalaki kotosa sabato, mpe moklisto asengeli kolanda ndakisa ya Klisto.»</em></p>
                 <div class="scripture-block">
@@ -352,6 +359,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <li>Bapostolo bazalaki kobuka lipa na mokolo ya liboso ya poso, bikeke liboso ya Konstantino, mpe Apokalise ebengi yango Mokolo ya Nkolo.</li>
                     <li>Klisto azali Nkolo ya sabato, mpe na ekulusu alobaki ete esili kokokisama.</li>
                     <li>Mobeko oyo ekomamaki na mabanga ezalaki mpo na mwa ntango; Boyokani ya Sika ekomami na motema.</li>
+                    <li>Makila ya Balevi ezalaki mpo na etumbelo ya bolimbisi, mpe etumbelo wana esilaki na ekulusu.</li>
                     <li>Mibeko ya moklisto ezali ya Klisto, oyo azongisi oyo ya kala mpe alobi eloko te mpo na sabato.</li>
                 </ul>
                 <h2>Bosukisi</h2>

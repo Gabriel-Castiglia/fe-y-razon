@@ -46,7 +46,7 @@ const translationsSW = {
     category: "Mafundisho", date: "Septemba 2026", title: "Toharani", excerpt: "Gereza ambalo mtu hutoka na dhambi zinazosamehewa katika ulimwengu ujao: anachofundisha Kristo juu ya utakaso.", time: "Dakika 8 kusoma", link: "Soma →"
   },
   article8: {
-    category: "Mafundisho", date: "Septemba 2026", title: "Sheria Mpya", excerpt: "Agano la Sinai lilikoma msalabani, na mitume walikutana siku ya Jumapili: yale ambayo Maandiko yanasema kuhusu Sheria ya zamani na ile mpya.", time: "Dakika 23 kusoma", link: "Soma →"
+    category: "Mafundisho", date: "Septemba 2026", title: "Sheria Mpya", excerpt: "Agano la Sinai lilikoma msalabani, na mitume walikutana siku ya Jumapili: yale ambayo Maandiko yanasema kuhusu Sheria ya zamani na ile mpya.", time: "Dakika 25 kusoma", link: "Soma →"
   },
   article9: {
     category: "Apologetiki", date: "Septemba 2026", title: "Ukuu wa Petro", excerpt: "Funguo za Ufalme, mwamba na kazi ya kuwaimarisha ndugu: yale ambayo Maandiko yanampa Petro.", time: "Dakika 14 kusoma", link: "Soma →"
@@ -163,12 +163,12 @@ const translationsSW = {
     },
     "la-nueva-ley": {
       pageTitle: "Sheria Mpya | Imani na Akili",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Sheria Mpya katika Kristo</h1><p>Agano la Sinai lilikoma msalabani, na mitume walikutana siku ya Jumapili tangu siku ya ufufuko. Yale ambayo Maandiko yanasema kuhusu Sheria ya zamani na ile mpya, kifungu kwa kifungu.</p><div class="article-meta"><span>Dakika 23 kusoma</span><span>Imechapishwa Septemba 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Sheria Mpya katika Kristo</h1><p>Agano la Sinai lilikoma msalabani, na mitume walikutana siku ya Jumapili tangu siku ya ufufuko. Yale ambayo Maandiko yanasema kuhusu Sheria ya zamani na ile mpya, kifungu kwa kifungu.</p><div class="article-meta"><span>Dakika 25 kusoma</span><span>Imechapishwa Septemba 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
       article: `<!--
 Traducción de la-nueva-ley desde el español (29-sep-2026). Citas según la
 traducción católica usual de este idioma, escritas de memoria: sin cotejar.
 -->
-<p>Madhehebu kadhaa ya Kiprotestanti yanashikilia uzushi kwamba Mkristo bado amefungwa na Sheria ya Mose, au angalau na sehemu yake ambayo kila dhehebu linachagua. Wanaoupeleka upotofu huo mbali zaidi ni Waadventista wa Sabato: wanashika Sabato, wanajiepusha na vyakula ambavyo Sheria iliviita najisi, na wanalishtaki Kanisa kwamba lilibadilisha siku ya Mungu. Wanasema hivi: <em>«Sabato ni siku ambayo Mungu aliitakasa milele. Jumapili iliwekwa na Roma, na anayeishika anamtii papa na si Mungu.»</em></p>
+<p>Madhehebu kadhaa ya Kiprotestanti yanashikilia uzushi kwamba Mkristo bado amefungwa na Sheria ya Mose, au angalau na sehemu yake ambayo kila dhehebu linachagua. Wanaoupeleka upotofu huo mbali zaidi ni Waadventista wa Sabato: wanashika Sabato, wanajiepusha na vyakula ambavyo Sheria iliviita najisi, na wanalishtaki Kanisa kwamba lilibadilisha siku ya Mungu. Wanasema hivi: <em>«Sabato ni siku ambayo Mungu aliitakasa milele. Jumapili iliwekwa na Roma, na anayeishika anamtii papa na si Mungu.»</em> Mashahidi wa Yehova wanachukua kipande kingine katika Sheria hiyo hiyo: katazo la kula damu, ambalo wanalifanya katazo la kuongezewa damu.</p>
                 <p>Jibu liko katika Maandiko. Paulo aliliandika kwa Wakristo waliokuwa karibu kufanya yale wanayofanya Waadventista leo: kurudi kwenye Sheria baada ya kumpokea Kristo. Ni barua kwa Wagalatia, na kifungu kinasomwa kwanza chote, pamoja na aya zake, kabla ya kuchambuliwa sehemu kwa sehemu.</p>
                 <h2>Wanawake wawili, Maagano mawili<br>Wagalatia 4:21 — 5:12</h2>
                 <div class="scripture-block">
@@ -224,7 +224,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ Yohane 20:19</span>
                     <blockquote>«<strong class="s-hi">Jioni ya siku ile ile, siku ya kwanza ya juma</strong>, wanafunzi walikuwa wamekutana ndani ya nyumba, milango imefungwa kwa kuwaogopa Wayahudi. Yesu akaja, akasimama katikati yao, akawaambia: “<strong class="s-hi">Amani iwe nanyi!</strong>”»</blockquote>
                 </div>
-                <p>Jumapili ile ile, wanafunzi walikuwa wamekutana milango imefungwa kwa kuwaogopa Wayahudi. Yesu anasimama katikati yao na kuwaambia «Amani iwe nanyi!». Hawakemei: anawakubali. Kama wangekuwa wanafanya jambo baya, angewaambia.</p>
+                <p>Jumapili ile ile, na si siku ya Sabato, wanafunzi walikuwa wamekutana milango imefungwa kwa kuwaogopa Wayahudi. Yesu anasimama katikati yao na kuwaambia «Amani iwe nanyi!». Hawakemei: anawakubali. Kama wangekuwa wanafanya jambo baya, angewaambia.</p>
                 <h2>Siku nane baadaye, tena Jumapili<br>Yohane 20:26</h2>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Yohane 20:26</span>
@@ -294,6 +294,13 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <blockquote>«<sup class="vn">16</sup>Kwa hiyo, <strong class="s-hi">mtu yeyote asiwahukumu ninyi kuhusu vyakula au vinywaji, au kuhusu sikukuu, mwezi mpya au Sabato</strong>. <sup class="vn">17</sup>Mambo hayo ni kivuli tu cha yale yatakayokuja; ukweli wenyewe ni mwili wa Kristo.»</blockquote>
                 </div>
                 <p>Mtu yeyote asiwahukumu Wakatoliki wanaoitakasa Jumapili. Hilo ndilo wanalofanya Waprotestanti, hapa Waadventista: wanakosoa bila kuyajua Maandiko.</p>
+                <h2>Damu ya madhabahu<br>Walawi 17:10-11</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Walawi 17:10-11</span>
+                    <blockquote>«<sup class="vn">10</sup>Mtu yeyote wa nyumba ya Israeli, au mgeni anayekaa kati yao, <strong class="s-hi">akila damu ya aina yoyote</strong>, nitaugeuza uso wangu dhidi ya mtu huyo aliyekula damu, na kumtenga na watu wake. <sup class="vn">11</sup>Kwa maana uhai wa kiumbe umo katika damu; nami <strong class="s-hi">nimewapa damu hiyo juu ya madhabahu ili kuwafanyia upatanisho kwa ajili ya maisha yenu</strong>; kwa maana ni damu inayofanya upatanisho kwa sababu ya uhai uliomo.»</blockquote>
+                </div>
+                <p>Mashahidi wa Yehova hawakubali kuongezewa damu kwa sababu wanasema Biblia inakataza kutumia damu. Wanalitoa hilo katika dhabihu za Walawi na kulifasiri wanavyotaka, hata kuwaacha watoto wao wenyewe wafe mezani pa upasuaji.</p>
+                <p>Aya ya 11 inasema kwa nini ilikatazwa: damu iliwekwa kwa ajili ya madhabahu, kwa upatanisho. Madhabahu hiyo na upatanisho huo vilikoma msalabani, ambapo damu ya Kristo ilifanya upatanisho mara moja kwa daima. Na kuongezewa damu hakuliwi wala hakutolewi juu ya madhabahu yoyote: kunatolewa ili kuokoa uhai, ambao ndio maana ya damu katika aya hiyo hiyo.</p>
                 <h2>«Lazima kumwiga Kristo»<br>Luka 2:21</h2>
                 <p>Dhidi ya haya yote, madhehebu haya yana hoja kadhaa. Ya kwanza: <em>«Yesu aliishika Sabato, na Mkristo lazima amwige Kristo.»</em></p>
                 <div class="scripture-block">
@@ -352,6 +359,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <li>Mitume walimega mkate siku ya kwanza ya juma, karne nyingi kabla ya Konstantino, na Ufunuo unaiita Siku ya Bwana.</li>
                     <li>Kristo ni Bwana wa Sabato, na msalabani alisema kwamba imekamilika.</li>
                     <li>Sheria iliyochorwa juu ya mawe ilikuwa ya kupita; Agano Jipya limeandikwa moyoni.</li>
+                    <li>Damu ya Walawi iliwekwa kwa ajili ya madhabahu ya upatanisho, na madhabahu hiyo ilikoma msalabani.</li>
                     <li>Amri za Mkristo ni za Kristo, anayezichukua tena zile za kale bila kusema chochote juu ya Sabato.</li>
                 </ul>
                 <h2>Hitimisho</h2>

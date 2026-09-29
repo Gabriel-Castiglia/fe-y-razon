@@ -46,7 +46,7 @@ const translationsIG = {
     category: "Ozizi", date: "Septemba 2026", title: "Pọgatọrị", excerpt: "Ụlọ mkpọrọ a na-esi apụta na mmehie a na-agbaghara n'ụwa na-abịa: ihe Kraịst kụziri banyere nsacha.", time: "Nkeji 8 ịgụ", link: "Gụọ →"
   },
   article8: {
-    category: "Ozizi", date: "Septemba 2026", title: "Iwu Ọhụrụ", excerpt: "Ọgbụgba ndụ Saịnaị kwụsịrị n’obe, ndịozi na-ezukọkwa n’ụbọchị Sọnde: ihe Akwụkwọ Nsọ kwuru banyere Iwu ochie na nke ọhụrụ.", time: "Nkeji 23 ịgụ", link: "Gụọ →"
+    category: "Ozizi", date: "Septemba 2026", title: "Iwu Ọhụrụ", excerpt: "Ọgbụgba ndụ Saịnaị kwụsịrị n’obe, ndịozi na-ezukọkwa n’ụbọchị Sọnde: ihe Akwụkwọ Nsọ kwuru banyere Iwu ochie na nke ọhụrụ.", time: "Nkeji 25 ịgụ", link: "Gụọ →"
   },
   article9: {
     category: "Apologetics", date: "Septemba 2026", title: "Ịbụ onye mbụ nke Pita", excerpt: "Mkpịsị igodo nke alaeze, okwute na ọrụ ime ka ụmụnna guzosie ike: ihe Akwụkwọ Nsọ nyere Pita.", time: "Nkeji 14 ịgụ", link: "Gụọ →"
@@ -163,12 +163,12 @@ const translationsIG = {
     },
     "la-nueva-ley": {
       pageTitle: "Iwu Ọhụrụ | Okwukwe na Uche",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Isiokwu Pụrụ Iche</span></div><h1>Iwu Ọhụrụ n'ime Kraịst</h1><p>Ọgbụgba ndụ Saịnaị kwụsịrị n’obe, ndịozi na-ezukọkwa n’ụbọchị Sọnde site n’ụbọchị mbilite n’ọnwụ. Ihe Akwụkwọ Nsọ kwuru banyere Iwu ochie na nke ọhụrụ, otu akụkụ n’otu akụkụ.</p><div class="article-meta"><span>Nkeji 23 ịgụ</span><span>Ebipụtara na Septemba 2026</span></div><a href="temas.html" class="btn-outline-white">Laghachi na Isiokwu</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Isiokwu Pụrụ Iche</span></div><h1>Iwu Ọhụrụ n'ime Kraịst</h1><p>Ọgbụgba ndụ Saịnaị kwụsịrị n’obe, ndịozi na-ezukọkwa n’ụbọchị Sọnde site n’ụbọchị mbilite n’ọnwụ. Ihe Akwụkwọ Nsọ kwuru banyere Iwu ochie na nke ọhụrụ, otu akụkụ n’otu akụkụ.</p><div class="article-meta"><span>Nkeji 25 ịgụ</span><span>Ebipụtara na Septemba 2026</span></div><a href="temas.html" class="btn-outline-white">Laghachi na Isiokwu</a>`,
       article: `<!--
 Traducción de la-nueva-ley desde el español (29-sep-2026). Citas según la
 traducción católica usual de este idioma, escritas de memoria: sin cotejar.
 -->
-<p>Ọtụtụ òtù Protestant na-ejide ozizi ụgha na Onye Kraịst ka nọ n’agbụ nke Iwu Mozis, ma ọ bụ ma ọ dịkarịa ala n’akụkụ nke ọ bụla n’ime ha họọrọ. Ndị na-ebugharị njehie a karịa ndị ọzọ bụ ndị Seventh-day Adventist: ha na-edebe Ụbọchị Izu Ike, na-ezere nri ndị Iwu kpọrọ ihe rụrụ arụ, na-ebokwa Nzukọ-nsọ ebubo na ọ gbanwere ụbọchị Chineke. Ha na-ekwu ya otu a: <em>«Ụbọchị Izu Ike bụ ụbọchị Chineke doro nsọ ruo mgbe ebighị ebi. Rom tinyere Sọnde, onye na-edebe ya na-erubere pope isi, ọ bụghị Chineke.»</em></p>
+<p>Ọtụtụ òtù Protestant na-ejide ozizi ụgha na Onye Kraịst ka nọ n’agbụ nke Iwu Mozis, ma ọ bụ ma ọ dịkarịa ala n’akụkụ nke ọ bụla n’ime ha họọrọ. Ndị na-ebugharị njehie a karịa ndị ọzọ bụ ndị Seventh-day Adventist: ha na-edebe Ụbọchị Izu Ike, na-ezere nri ndị Iwu kpọrọ ihe rụrụ arụ, na-ebokwa Nzukọ-nsọ ebubo na ọ gbanwere ụbọchị Chineke. Ha na-ekwu ya otu a: <em>«Ụbọchị Izu Ike bụ ụbọchị Chineke doro nsọ ruo mgbe ebighị ebi. Rom tinyere Sọnde, onye na-edebe ya na-erubere pope isi, ọ bụghị Chineke.»</em> Ndịàmà Jehova na-ewere akụkụ ọzọ n’otu Iwu ahụ: mmachibido iri ọbara, nke ha na-eme ka ọ bụrụ mmachibido ịnye ọbara n’ụlọ ọgwụ.</p>
                 <p>Azịza ya dị n’Akwụkwọ Nsọ. Pọl dere ya nye Ndị Kraịst ndị na-achọ ime ihe ndị Adventist na-eme taa: ịlaghachi n’Iwu mgbe ha nabatachara Kraịst. Ọ bụ akwụkwọ ozi e degaara ndị Galeshia, a na-ebu ụzọ gụchaa akụkụ ahụ niile, ya na amaokwu ya, tupu e leba anya n’ya otu akụkụ n’otu akụkụ.</p>
                 <h2>Ụmụ nwanyị abụọ, ọgbụgba ndụ abụọ<br>Ndị Galeshia 4:21 — 5:12</h2>
                 <div class="scripture-block">
@@ -224,7 +224,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ Jọn 20:19</span>
                     <blockquote>«<strong class="s-hi">Na mgbede ụbọchị ahụ, bụ ụbọchị mbụ nke izu</strong>, mgbe e mechiri ụzọ ụlọ ebe ndị na-eso ụzọ nọ n’ihi egwu ndị Juu, Jizọs bịara guzo n’etiti ha, sị ha: “<strong class="s-hi">Udo dịrị unu!</strong>”»</blockquote>
                 </div>
-                <p>Otu Sọnde ahụ, ndị na-eso ụzọ zukọrọ n’ime ụlọ e mechiri ụzọ ya n’ihi egwu ndị Juu. Jizọs guzoro n’etiti ha sị ha «Udo dịrị unu!». Ọ baraghị ha mba: ọ nabatara ha. Ọ bụrụ na ha na-eme ihe ọjọọ, ọ gaara agwa ha.</p>
+                <p>Otu Sọnde ahụ, ọ bụghị n’Ụbọchị Izu Ike, ndị na-eso ụzọ zukọrọ n’ime ụlọ e mechiri ụzọ ya n’ihi egwu ndị Juu. Jizọs guzoro n’etiti ha sị ha «Udo dịrị unu!». Ọ baraghị ha mba: ọ nabatara ha. Ọ bụrụ na ha na-eme ihe ọjọọ, ọ gaara agwa ha.</p>
                 <h2>Mgbe ụbọchị asatọ gasịrị, Sọnde ọzọ<br>Jọn 20:26</h2>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Jọn 20:26</span>
@@ -294,6 +294,13 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <blockquote>«<sup class="vn">16</sup>Ya mere, <strong class="s-hi">ekwela ka onye ọ bụla kpee unu ikpe banyere nri ma ọ bụ ihe ọṅụṅụ, ma ọ bụ banyere ememme, ọnwa ọhụrụ ma ọ bụ Ụbọchị Izu Ike</strong>. <sup class="vn">17</sup>Ihe ndị a bụ nanị onyinyo nke ihe ndị na-abịa; ma eziokwu ya bụ ahụ Kraịst.»</blockquote>
                 </div>
                 <p>Ekwela ka onye ọ bụla kpee ndị Katọlik na-edo Sọnde nsọ ikpe. Nke ahụ bụ ihe ndị Protestant na-eme, ebe a ndị Adventist: ha na-akatọ n’amaghị Akwụkwọ Nsọ.</p>
+                <h2>Ọbara nke ebe ịchụàjà<br>Levitikọs 17:10-11</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Levitikọs 17:10-11</span>
+                    <blockquote>«<sup class="vn">10</sup>Ọ bụrụ na onye ọ bụla n’ụlọ Izrel, ma ọ bụ onye ọbịa bi n’etiti ha, <strong class="s-hi">eri ọbara ọ bụla</strong>, m ga-eche ihu m megide onye ahụ riri ọbara, bepụ ya n’etiti ndị ya. <sup class="vn">11</sup>N’ihi na ndụ nke anụ ahụ dị n’ọbara; <strong class="s-hi">enyewo m unu ya n’elu ebe ịchụàjà ka e jiri ya mee mkpuchi mmehie maka ndụ unu</strong>; n’ihi na ọ bụ ọbara na-eme mkpuchi mmehie n’ihi ndụ dị n’ime ya.»</blockquote>
+                </div>
+                <p>Ndịàmà Jehova anaghị anabata ịnye ọbara n’ụlọ ọgwụ n’ihi na ha na-ekwu na Bible machibidoro iri ọbara. Ha na-ewepụta ya n’àjà nke Levitikọs ma na-akọwa ya ka ha si chọọ, ruo n’ịhapụ ụmụ nke ha ka ha nwụọ n’elu tebụl ịwa ahụ.</p>
+                <p>Amaokwu 11 na-ekwu ihe mere e ji machibido ya: e debere ọbara maka ebe ịchụàjà, maka mkpuchi mmehie. Ebe ịchụàjà ahụ na mkpuchi mmehie ahụ kwụsịrị n’obe, ebe ọbara Kraịst mere mkpuchi mmehie otu ugboro ruo mgbe ebighị ebi. Ịnye ọbara n’ụlọ ọgwụ abụghị iri ya, a naghịkwa enye ya n’elu ebe ịchụàjà ọ bụla: a na-enye ya iji zọpụta ndụ, nke bụ ihe ọbara pụtara n’otu amaokwu ahụ.</p>
                 <h2>«A ga-aṅomi Kraịst»<br>Luku 2:21</h2>
                 <p>Iji megide ihe ndị a niile, òtù ndị a nwere ụfọdụ arụmụka. Nke mbụ: <em>«Jizọs debere Ụbọchị Izu Ike, Onye Kraịst ga-aṅomikwa Kraịst.»</em></p>
                 <div class="scripture-block">
@@ -352,6 +359,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <li>Ndịozi na-anyawa achịcha n’ụbọchị mbụ nke izu, ọtụtụ narị afọ tupu Constantine, Mkpughe na-akpọkwa ya Ụbọchị Onyenwe anyị.</li>
                     <li>Kraịst bụ Onyenwe nke Ụbọchị Izu Ike, n’elu obe o kwuru na e mezuola ya.</li>
                     <li>Iwu e dere na nkume na-agafe agafe; ọgbụgba ndụ ọhụrụ ka e dere n’obi.</li>
+                    <li>Ọbara nke Levitikọs bụ maka ebe ịchụàjà nke mkpuchi mmehie, ebe ịchụàjà ahụ kwụsịrịkwa n’obe.</li>
                     <li>Iwu Onye Kraịst bụ iwu Kraịst, onye na-eweghachi ndị ochie ma ọ dịghị ihe o kwuru banyere Ụbọchị Izu Ike.</li>
                 </ul>
                 <h2>Nchịkọta</h2>

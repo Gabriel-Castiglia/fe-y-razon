@@ -46,7 +46,7 @@ const translationsIT = {
     category: "Dottrina", date: "Settembre 2026", title: "Il purgatorio", excerpt: "Un carcere da cui si esce e peccati perdonati nel mondo futuro: ciò che Cristo insegna sulla purificazione.", time: "8 min di lettura", link: "Leggi →"
   },
   article8: {
-    category: "Dottrina", date: "Settembre 2026", title: "La nuova legge", excerpt: "L’Alleanza del Sinai è finita sulla croce, e gli apostoli si riunivano la domenica: quello che dice la Scrittura sulla Legge antica e sulla nuova.", time: "23 min di lettura", link: "Leggi →"
+    category: "Dottrina", date: "Settembre 2026", title: "La nuova legge", excerpt: "L’Alleanza del Sinai è finita sulla croce, e gli apostoli si riunivano la domenica: quello che dice la Scrittura sulla Legge antica e sulla nuova.", time: "25 min di lettura", link: "Leggi →"
   },
   article9: {
     category: "Apologetica", date: "Settembre 2026", title: "Il primato di Pietro", excerpt: "Le chiavi del Regno, la pietra e l'incarico di confermare i fratelli: ciò che la Scrittura dà a Pietro.", time: "14 min di lettura", link: "Leggi →"
@@ -163,12 +163,12 @@ const translationsIT = {
     },
     "la-nueva-ley": {
       pageTitle: "La nuova legge | Fede e Ragione",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>La nuova legge in Cristo</h1><p>L’Alleanza del Sinai è finita sulla croce, e gli apostoli si riunivano la domenica fin dal giorno della risurrezione. Quello che dice la Scrittura sulla Legge antica e sulla nuova, passo per passo.</p><div class="article-meta"><span>23 min di lettura</span><span>Pubblicato a settembre 2026</span></div><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Speciale</span></div><h1>La nuova legge in Cristo</h1><p>L’Alleanza del Sinai è finita sulla croce, e gli apostoli si riunivano la domenica fin dal giorno della risurrezione. Quello che dice la Scrittura sulla Legge antica e sulla nuova, passo per passo.</p><div class="article-meta"><span>25 min di lettura</span><span>Pubblicato a settembre 2026</span></div><a href="temas.html" class="btn-outline-white">Torna ai Temi</a>`,
       article: `<!--
 Traducción de la-nueva-ley desde el español (29-sep-2026). Citas según la
 traducción católica usual de este idioma, escritas de memoria: sin cotejar.
 -->
-<p>Diverse sette protestanti sostengono l’eresia secondo cui il cristiano resta legato alla Legge di Mosè, o almeno alla parte di essa che ciascuna sceglie. Quella che spinge l’errore più lontano è la setta degli avventisti del settimo giorno: osservano il sabato, si astengono dai cibi che la Legge dichiarava impuri e accusano la Chiesa di aver cambiato il giorno di Dio. Lo dicono così: <em>«Il sabato è il giorno che Dio ha santificato per sempre. La domenica l’ha imposta Roma, e chi la osserva obbedisce al papa e non a Dio.»</em></p>
+<p>Diverse sette protestanti sostengono l’eresia secondo cui il cristiano resta legato alla Legge di Mosè, o almeno alla parte di essa che ciascuna sceglie. Quella che spinge l’errore più lontano è la setta degli avventisti del settimo giorno: osservano il sabato, si astengono dai cibi che la Legge dichiarava impuri e accusano la Chiesa di aver cambiato il giorno di Dio. Lo dicono così: <em>«Il sabato è il giorno che Dio ha santificato per sempre. La domenica l’ha imposta Roma, e chi la osserva obbedisce al papa e non a Dio.»</em> I Testimoni di Geova prendono dalla stessa Legge un altro pezzo: il divieto di mangiare sangue, che trasformano nel divieto delle trasfusioni.</p>
                 <p>La risposta è nella Scrittura. Paolo l’ha scritta per cristiani che stavano per fare ciò che oggi fanno gli avventisti: tornare alla Legge dopo aver ricevuto Cristo. È la lettera ai Gàlati, e il passo si legge prima per intero, con i suoi versetti, prima di percorrerlo parte per parte.</p>
                 <h2>Due donne, due Alleanze<br>Galati 4,21 — 5,12</h2>
                 <div class="scripture-block">
@@ -224,7 +224,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ Giovanni 20,19</span>
                     <blockquote>«<strong class="s-hi">La sera di quel giorno, il primo della settimana</strong>, mentre erano chiuse le porte del luogo dove si trovavano i discepoli per timore dei Giudei, venne Gesù, stette in mezzo e disse loro: “<strong class="s-hi">Pace a voi!</strong>”»</blockquote>
                 </div>
-                <p>Quella stessa domenica, i discepoli erano riuniti a porte chiuse per timore dei Giudei. Gesù sta in mezzo a loro e dice loro «Pace a voi!». Non li rimprovera: li approva. Se stessero facendo qualcosa di male, glielo direbbe.</p>
+                <p>Quella stessa domenica, e non di sabato, i discepoli erano riuniti a porte chiuse per timore dei Giudei. Gesù sta in mezzo a loro e dice loro «Pace a voi!». Non li rimprovera: li approva. Se stessero facendo qualcosa di male, glielo direbbe.</p>
                 <h2>Otto giorni dopo, di nuovo domenica<br>Giovanni 20,26</h2>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Giovanni 20,26</span>
@@ -294,6 +294,13 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <blockquote>«<sup class="vn">16</sup><strong class="s-hi">Nessuno dunque vi condanni in fatto di cibo o di bevanda, o per feste, noviluni e sabati</strong>: <sup class="vn">17</sup>queste cose sono ombra di quelle future, ma la realtà è di Cristo.»</blockquote>
                 </div>
                 <p>Nessuno condanni i cattolici che santificano la domenica. È ciò che fanno i protestanti, in questo caso gli avventisti: criticare senza conoscere la Scrittura.</p>
+                <h2>Il sangue dell’altare<br>Levitico 17,10-11</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Levitico 17,10-11</span>
+                    <blockquote>«<sup class="vn">10</sup>Ogni uomo della casa d’Israele o straniero che dimora in mezzo a loro, il quale <strong class="s-hi">mangi qualsiasi specie di sangue</strong>, contro di lui, che ha mangiato il sangue, io volgerò il mio volto e lo eliminerò dal suo popolo. <sup class="vn">11</sup>Poiché la vita della carne è nel sangue. Perciò <strong class="s-hi">vi ho concesso di porlo sull’altare in espiazione per le vostre vite</strong>; perché il sangue espia, in quanto è la vita.»</blockquote>
+                </div>
+                <p>I Testimoni di Geova non accettano le trasfusioni di sangue perché dicono che la Bibbia proibisce di consumare sangue. Lo ricavano dai sacrifici del Levitico e lo interpretano dove vogliono, fino al punto di lasciar morire i propri figli su un tavolo operatorio.</p>
+                <p>Il versetto 11 dice perché era proibito: il sangue era riservato all’altare, per l’espiazione. Quell’altare e quell’espiazione sono finiti sulla croce, dove il sangue di Cristo ha espiato una volta per sempre. E una trasfusione non si mangia né si offre su nessun altare: si dà per salvare una vita, che è ciò che il sangue significava in quello stesso versetto.</p>
                 <h2>«Bisogna imitare Cristo»<br>Luca 2,21</h2>
                 <p>Contro tutto questo, queste sette hanno alcuni argomenti. Il primo: <em>«Gesù osservava il sabato, e il cristiano deve imitare Cristo.»</em></p>
                 <div class="scripture-block">
@@ -352,6 +359,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <li>Gli apostoli spezzavano il pane il primo giorno della settimana, secoli prima di Costantino, e l’Apocalisse lo chiama il giorno del Signore.</li>
                     <li>Cristo è signore del sabato, e sulla croce disse che tutto era compiuto.</li>
                     <li>La Legge incisa sulla pietra era effimera; la Nuova Alleanza è scritta nel cuore.</li>
+                    <li>Il sangue del Levitico era riservato all’altare dell’espiazione, e quell’altare è finito sulla croce.</li>
                     <li>I comandamenti del cristiano sono quelli di Cristo, che riprende quelli antichi e non dice nulla del sabato.</li>
                 </ul>
                 <h2>Conclusione</h2>

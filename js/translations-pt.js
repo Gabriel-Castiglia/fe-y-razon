@@ -46,7 +46,7 @@ const translationsPT = {
     category: "Doutrina", date: "Setembro 2026", title: "O purgatório", excerpt: "Uma prisão da qual se sai e pecados perdoados no mundo futuro: o que Cristo ensina sobre a purificação.", time: "8 min leitura", link: "Ler →"
   },
   article8: {
-    category: "Doutrina", date: "Setembro 2026", title: "A nova lei", excerpt: "A Aliança do Sinai terminou na cruz, e os apóstolos se reuniam no domingo: o que diz a Escritura sobre a Lei antiga e a nova.", time: "23 min leitura", link: "Ler →"
+    category: "Doutrina", date: "Setembro 2026", title: "A nova lei", excerpt: "A Aliança do Sinai terminou na cruz, e os apóstolos se reuniam no domingo: o que diz a Escritura sobre a Lei antiga e a nova.", time: "25 min leitura", link: "Ler →"
   },
   article9: {
     category: "Apologética", date: "Setembro 2026", title: "A primazia de Pedro", excerpt: "As chaves do Reino, a pedra e o encargo de confirmar os irmãos: o que a Escritura dá a Pedro.", time: "14 min leitura", link: "Ler →"
@@ -163,12 +163,12 @@ const translationsPT = {
     },
     "la-nueva-ley": {
       pageTitle: "A nova lei | Fé e Razão",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>A nova lei em Cristo</h1><p>A Aliança do Sinai terminou na cruz, e os apóstolos se reuniam no domingo desde o dia da ressurreição. O que diz a Escritura sobre a Lei antiga e a nova, passagem por passagem.</p><div class="article-meta"><span>23 min leitura</span><span>Publicado em setembro de 2026</span></div><a href="temas.html" class="btn-outline-white">Voltar aos Temas</a>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Tema Especial</span></div><h1>A nova lei em Cristo</h1><p>A Aliança do Sinai terminou na cruz, e os apóstolos se reuniam no domingo desde o dia da ressurreição. O que diz a Escritura sobre a Lei antiga e a nova, passagem por passagem.</p><div class="article-meta"><span>25 min leitura</span><span>Publicado em setembro de 2026</span></div><a href="temas.html" class="btn-outline-white">Voltar aos Temas</a>`,
       article: `<!--
 Traducción de la-nueva-ley desde el español (29-sep-2026). Citas según la
 traducción católica usual de este idioma, escritas de memoria: sin cotejar.
 -->
-<p>Várias seitas protestantes sustentam a heresia de que o cristão continua preso à Lei de Moisés, ou pelo menos à parte dela que cada uma escolhe. A que leva o erro mais longe é a dos adventistas do sétimo dia: guardam o sábado, abstêm-se dos alimentos que a Lei declarava impuros e acusam a Igreja de ter mudado o dia de Deus. Dizem assim: <em>«O sábado é o dia que Deus santificou para sempre. O domingo foi imposto por Roma, e quem o guarda obedece ao papa e não a Deus.»</em></p>
+<p>Várias seitas protestantes sustentam a heresia de que o cristão continua preso à Lei de Moisés, ou pelo menos à parte dela que cada uma escolhe. A que leva o erro mais longe é a dos adventistas do sétimo dia: guardam o sábado, abstêm-se dos alimentos que a Lei declarava impuros e acusam a Igreja de ter mudado o dia de Deus. Dizem assim: <em>«O sábado é o dia que Deus santificou para sempre. O domingo foi imposto por Roma, e quem o guarda obedece ao papa e não a Deus.»</em> As Testemunhas de Jeová tiram da mesma Lei outra peça: a proibição de comer sangue, que transformam na proibição das transfusões.</p>
                 <p>A resposta está na Escritura. Paulo a escreveu para cristãos que estavam prestes a fazer o que os adventistas fazem hoje: voltar à Lei depois de terem recebido a Cristo. É a carta aos Gálatas, e a passagem é lida primeiro inteira, com seus versículos, antes de ser percorrida por partes.</p>
                 <h2>Duas mulheres, duas Alianças<br>Gálatas 4, 21 — 5, 12</h2>
                 <div class="scripture-block">
@@ -224,7 +224,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ João 20, 19</span>
                     <blockquote>«<strong class="s-hi">Ao anoitecer daquele dia, o primeiro da semana</strong>, estando fechadas as portas do lugar onde os discípulos se encontravam, por medo dos judeus, Jesus entrou e, pondo-se no meio deles, disse: “<strong class="s-hi">A paz esteja convosco!</strong>”»</blockquote>
                 </div>
-                <p>Naquele mesmo domingo, os discípulos estavam reunidos de portas fechadas por medo dos judeus. Jesus se põe no meio deles e lhes diz «A paz esteja convosco!». Não os repreende: aprova-os. Se estivessem fazendo algo errado, lhes diria.</p>
+                <p>Naquele mesmo domingo, e não num sábado, os discípulos estavam reunidos de portas fechadas por medo dos judeus. Jesus se põe no meio deles e lhes diz «A paz esteja convosco!». Não os repreende: aprova-os. Se estivessem fazendo algo errado, lhes diria.</p>
                 <h2>Oito dias depois, outra vez domingo<br>João 20, 26</h2>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ João 20, 26</span>
@@ -294,6 +294,13 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <blockquote>«<sup class="vn">16</sup>Portanto, <strong class="s-hi">ninguém vos condene por causa de comida ou bebida, ou a respeito de festas, luas novas ou sábados</strong>. <sup class="vn">17</sup>Tudo isso não passa de sombra do que havia de vir; a realidade é o corpo de Cristo.»</blockquote>
                 </div>
                 <p>Que ninguém condene os católicos que santificam o domingo. É o que fazem os protestantes, neste caso os adventistas: criticar sem conhecer a Escritura.</p>
+                <h2>O sangue do altar<br>Levítico 17, 10-11</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Levítico 17, 10-11</span>
+                    <blockquote>«<sup class="vn">10</sup>Se um homem da casa de Israel, ou dos estrangeiros que habitam no meio deles, <strong class="s-hi">comer qualquer espécie de sangue</strong>, voltarei o meu rosto contra aquele que comer o sangue e o exterminarei do meio do seu povo. <sup class="vn">11</sup>Porque a vida da carne está no sangue; <strong class="s-hi">eu vo-lo dei sobre o altar para fazer a expiação por vossas vidas</strong>, pois é o sangue que faz a expiação pela vida.»</blockquote>
+                </div>
+                <p>As Testemunhas de Jeová não aceitam transfusões de sangue porque dizem que a Bíblia proíbe consumir sangue. Tiram isso dos sacrifícios do Levítico e o interpretam para onde querem, a ponto de deixar morrer os próprios filhos numa sala de cirurgia.</p>
+                <p>O versículo 11 diz por que era proibido: o sangue estava reservado ao altar, para a expiação. Esse altar e essa expiação terminaram na cruz, onde o sangue de Cristo expiou de uma vez por todas. E uma transfusão não se come nem se oferece em altar algum: dá-se para salvar uma vida, que é o que o sangue significava nesse mesmo versículo.</p>
                 <h2>«É preciso imitar a Cristo»<br>Lucas 2, 21</h2>
                 <p>Contra tudo isso, essas seitas têm alguns argumentos. O primeiro: <em>«Jesus guardava o sábado, e o cristão tem de imitar a Cristo.»</em></p>
                 <div class="scripture-block">
@@ -352,6 +359,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <li>Os apóstolos partiam o pão no primeiro dia da semana, séculos antes de Constantino, e o Apocalipse o chama o dia do Senhor.</li>
                     <li>Cristo é senhor do sábado, e na cruz disse que tudo estava consumado.</li>
                     <li>A Lei gravada em pedra era passageira; a Nova Aliança está escrita no coração.</li>
+                    <li>O sangue do Levítico estava reservado ao altar da expiação, e esse altar terminou na cruz.</li>
                     <li>Os mandamentos do cristão são os de Cristo, que retoma os antigos e não diz nada do sábado.</li>
                 </ul>
                 <h2>Conclusão</h2>

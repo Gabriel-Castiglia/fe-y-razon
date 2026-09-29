@@ -85,7 +85,7 @@ const translationsEN = {
     date: "September 2026",
     title: "The New Law",
     excerpt: "The Covenant of Sinai ended on the cross, and the apostles gathered on Sunday: what Scripture says about the old Law and the new.",
-    time: "23 min read",
+    time: "25 min read",
     link: "Read →"
   },
   article9: {
@@ -303,7 +303,7 @@ const translationsEN = {
             <h1>The New Law in Christ</h1>
             <p>The Covenant of Sinai ended on the cross, and the apostles gathered on Sunday from the day of the resurrection. What Scripture says about the old Law and the new, passage by passage.</p>
             <div class="article-meta">
-                <span>23 min read</span>
+                <span>25 min read</span>
                 <span>Published September 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
@@ -311,7 +311,7 @@ const translationsEN = {
 Traducción de la-nueva-ley desde el español (29-sep-2026). Citas según la
 traducción católica usual de este idioma, escritas de memoria: sin cotejar.
 -->
-<p>Several Protestant sects hold the heresy that the Christian is still bound to the Law of Moses, or at least to the part of it that each of them chooses. The one that carries the error furthest is the Seventh-day Adventists: they keep the sabbath, abstain from the foods the Law declared unclean, and accuse the Church of having changed God’s day. They put it this way: <em>«The sabbath is the day God sanctified forever. Sunday was imposed by Rome, and whoever keeps it obeys the pope and not God.»</em></p>
+<p>Several Protestant sects hold the heresy that the Christian is still bound to the Law of Moses, or at least to the part of it that each of them chooses. The one that carries the error furthest is the Seventh-day Adventists: they keep the sabbath, abstain from the foods the Law declared unclean, and accuse the Church of having changed God’s day. They put it this way: <em>«The sabbath is the day God sanctified forever. Sunday was imposed by Rome, and whoever keeps it obeys the pope and not God.»</em> Jehovah’s Witnesses take another piece from the same Law: the prohibition of eating blood, which they turn into a prohibition of transfusions.</p>
                 <p>The answer is in Scripture. Paul wrote it for Christians who were about to do what the Adventists do today: go back to the Law after having received Christ. It is the letter to the Galatians, and the passage is read first in full, with its verses, before going through it part by part.</p>
                 <h2>Two women, two Covenants<br>Galatians 4:21 — 5:12</h2>
                 <div class="scripture-block">
@@ -367,7 +367,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ John 20:19</span>
                     <blockquote>«<strong class="s-hi">On the evening of that day, the first day of the week</strong>, the doors being shut where the disciples were, for fear of the Jews, Jesus came and stood among them and said to them, “<strong class="s-hi">Peace be with you.</strong>”»</blockquote>
                 </div>
-                <p>That same Sunday, the disciples were gathered behind shut doors for fear of the Jews. Jesus stands among them and says to them «Peace be with you». He does not scold them: he approves of them. If they were doing something wrong, he would tell them.</p>
+                <p>That same Sunday, and not on the sabbath, the disciples were gathered behind shut doors for fear of the Jews. Jesus stands among them and says to them «Peace be with you». He does not scold them: he approves of them. If they were doing something wrong, he would tell them.</p>
                 <h2>Eight days later, Sunday again<br>John 20:26</h2>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ John 20:26</span>
@@ -437,6 +437,13 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <blockquote>«<sup class="vn">16</sup>Therefore <strong class="s-hi">let no one pass judgment on you in questions of food and drink or with regard to a festival or a new moon or a sabbath</strong>. <sup class="vn">17</sup>These are only a shadow of what is to come; but the substance belongs to Christ.»</blockquote>
                 </div>
                 <p>Let no one pass judgment on the Catholics who keep Sunday holy. That is what the Protestants do, in this case the Adventists: they judge without knowing Scripture.</p>
+                <h2>The blood of the altar<br>Leviticus 17:10-11</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Leviticus 17:10-11</span>
+                    <blockquote>«<sup class="vn">10</sup>If any man of the house of Israel or of the strangers that sojourn among them <strong class="s-hi">eats any blood</strong>, I will set my face against that person who eats blood, and will cut him off from among his people. <sup class="vn">11</sup>For the life of the flesh is in the blood; and <strong class="s-hi">I have given it for you upon the altar to make atonement for your souls</strong>; for it is the blood that makes atonement, by reason of the life.»</blockquote>
+                </div>
+                <p>Jehovah’s Witnesses refuse blood transfusions because they say the Bible forbids consuming blood. They take it from the sacrifices of Leviticus and interpret it wherever they please, to the point of letting their own children die on an operating table.</p>
+                <p>Verse 11 says why it was forbidden: the blood was reserved for the altar, for atonement. That altar and that atonement ended on the cross, where the blood of Christ made atonement once for all. And a transfusion is neither eaten nor offered on any altar: it is given to save a life, which is what blood meant in that very verse.</p>
                 <h2>«Christ must be imitated»<br>Luke 2:21</h2>
                 <p>Against all this, these sects have a few arguments. The first: <em>«Jesus kept the sabbath, and the Christian must imitate Christ.»</em></p>
                 <div class="scripture-block">
@@ -495,6 +502,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <li>The apostles broke bread on the first day of the week, centuries before Constantine, and Revelation calls it the Lord’s day.</li>
                     <li>Christ is lord of the sabbath, and on the cross he said that it was finished.</li>
                     <li>The Law carved on stone was fading; the New Covenant is written on the heart.</li>
+                    <li>The blood of Leviticus was reserved for the altar of atonement, and that altar ended on the cross.</li>
                     <li>The Christian’s commandments are those of Christ, who takes up the old ones again and says nothing of the sabbath.</li>
                 </ul>
                 <h2>Conclusion</h2>
