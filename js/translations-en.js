@@ -165,42 +165,42 @@ const translationsEN = {
                 <h2>"Till he should pay all his debt"<br>Matthew 18:23-35</h2>
                 <p>Jesus explains the Kingdom of Heaven with the parable of the servant who would not forgive.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matthew 18:23-35</span>
+                    <span class="scripture-ref">✝︎ Matthew 18:23-35</span>
                     <blockquote>«Therefore <strong class="s-hi">the kingdom of heaven may be compared to a king who wished to settle accounts with his servants</strong>. … And in anger his lord <strong class="s-hi">delivered him to the jailers, till he should pay all his debt. So also my heavenly Father will do to every one of you</strong>, if you do not forgive your brother from your heart.»</blockquote>
                 </div>
                 <p>The punishment has a limit: it lasts until the servant pays all he owes. First he pays, then he goes out. No one leaves hell, so that prison is not hell. And Jesus does not leave the parable as a story about some king: <em>"So also my heavenly Father will do to every one of you."</em> It is not an interpretation of the Church or a supposition. Christ said it.</p>
                 <h2>The prison one leaves<br>Matthew 5:25-26</h2>
                 <p>In the Sermon on the Mount, Jesus uses the same image.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matthew 5:25-26</span>
+                    <span class="scripture-ref">✝︎ Matthew 5:25-26</span>
                     <blockquote>«Make friends quickly with your accuser, while you are going with him to court, <strong class="s-hi">lest your accuser hand you over to the judge, and the judge to the guard, and you be put in prison</strong>; truly, I say to you, <strong class="s-hi">you will never get out till you have paid the last penny</strong>.»</blockquote>
                 </div>
                 <p>The judge is God, the guard is his angels and the prison is purgatory. "Till you have paid" means there is a moment when the debt ends and the door opens. The prison is not eternal. Hell is.</p>
                 <h2>Forgiveness in the age to come<br>Matthew 12:32</h2>
                 <p>Speaking of the sin against the Holy Spirit, Jesus distinguishes two times.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matthew 12:32</span>
+                    <span class="scripture-ref">✝︎ Matthew 12:32</span>
                     <blockquote>«And whoever says a word against the Son of man will be forgiven; but whoever speaks against the Holy Spirit <strong class="s-hi">will not be forgiven, either in this age or in the age to come</strong>.»</blockquote>
                 </div>
                 <p>If no sin were forgiven after death, saying that this one will not be forgiven "in the age to come" would make no sense. Jesus takes for granted that some sins are forgiven in this world and others in the next. Not this one; others, yes. In heaven there is nothing to forgive, and in hell there is no forgiveness. That forgiveness in the age to come happens somewhere else.</p>
                 <h2>Not all sin is deadly<br>1 John 5:16-17</h2>
                 <p>John distinguishes two kinds of sin.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 John 5:16-17</span>
+                    <span class="scripture-ref">✝︎ 1 John 5:16-17</span>
                     <blockquote>«If any one sees his brother committing <strong class="s-hi">what is not a mortal sin</strong>, <strong class="s-hi">he will ask, and God will give him life</strong> for those whose sin is not mortal. There is sin which is mortal; <strong class="s-hi">I do not say that one is to pray for that</strong>. All wrongdoing is sin, but <strong class="s-hi">there is sin which is not mortal</strong>.»</blockquote>
                 </div>
                 <p>There are sins that lead to death and sins that do not. The Church calls them mortal and venial. For the brother who sins without reaching death one prays, and God gives him life. Whoever dies with sins that do not lead to death is not condemned, but neither is he clean. Between condemnation and the presence of God there remains exactly that: purification.</p>
                 <h2>The dead are alive<br>John 11:21-27</h2>
                 <p>Jesus answers the Adventists and the Jehovah's Witnesses at the tomb of Lazarus.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ John 11:21-27</span>
+                    <span class="scripture-ref">✝︎ John 11:21-27</span>
                     <blockquote>«Martha said to Jesus, "Lord, if you had been here, my brother would not have died. And even now I know that whatever you ask from God, God will give you." Jesus said to her, "Your brother will rise again." Martha said to him, "I know that he will rise again in the resurrection at the last day." Jesus said to her, "I am the resurrection and the life; he who believes in me, <strong class="s-hi">though he die, yet shall he live</strong>, and whoever lives and believes in me <strong class="s-hi">shall never die</strong>. Do you believe this?" She said to him, "Yes, Lord; I believe that you are the Christ, the Son of God, he who is coming into the world."»</blockquote>
                 </div>
                 <p>Martha speaks of the resurrection on the last day, and Jesus goes further: whoever believes in him, though he die, lives, and never dies. The death of the body does not put out the life of the one who believes. The dead in Christ are not asleep in nothingness waiting for the end of the world. They are alive.</p>
                 <h2>The spirit returns to God<br>Ecclesiastes 12:7</h2>
                 <p>The same book the objection comes from says what happens when someone dies.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Ecclesiastes 12:7</span>
+                    <span class="scripture-ref">✝︎ Ecclesiastes 12:7</span>
                     <blockquote>«and the dust returns to the earth as it was, and <strong class="s-hi">the spirit returns to God</strong> who gave it.»</blockquote>
                 </div>
                 <p>The body returns to the earth and the spirit returns to God. The Hebrew word is <em>ruach</em>, which is also translated as breath; either way, what returns to God is what he gave. The line from Ecclesiastes 9:5 that the Adventists quote is completed in the next verse: the dead <em>"have no more for ever any share in all that is done under the sun"</em> (Eccl 9:6). They know nothing of what happens in this world. That does not say they have ceased to exist.</p>
@@ -236,31 +236,31 @@ const translationsEN = {
                 <h2>I am the bread of life<br>John 6:47-51</h2>
                 <p>Jesus does not say "I represent the bread of life" or "I am like the bread of life." He says:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ John 6:47-51</span>
+                    <span class="scripture-ref">✝︎ John 6:47-51</span>
                     <blockquote>«Truly, truly, I say to you, whoever believes has eternal life. <strong class="s-hi">I am the bread of life.</strong> Your fathers ate the manna in the wilderness, and they died. This is the bread that comes down from heaven, so that one may eat of it and not die. I am the living bread that came down from heaven. If anyone eats of this bread, he will live forever. And <strong class="s-hi">the bread that I will give for the life of the world is my flesh.</strong>»</blockquote>
                 </div>
                 <p>The verb "am" does not indicate representation — it indicates identity. And what follows leaves no room for symbolic interpretation:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ John 6:53-55</span>
+                    <span class="scripture-ref">✝︎ John 6:53-55</span>
                     <blockquote>«Truly, truly, I say to you, <strong class="s-hi">unless you eat the flesh of the Son of Man and drink his blood, you have no life in you.</strong> Whoever feeds on my flesh and drinks my blood has eternal life, and I will raise him up on the last day. For <strong class="s-hi">my flesh is true food, and my blood is true drink.</strong>»</blockquote>
                 </div>
                 <p>He does not say "unless you remember" or "unless you contemplate." He says <em>eat</em> and <em>drink</em>. And He repeats it in different words to remove all ambiguity: <em>true food</em> and <em>true drink</em>. The word "true" expressly excludes the symbolic.</p>
                 <h2>The metaphor objection<br>John 15:1</h2>
                 <p>The standard objection is: "It is a metaphor, like when He says 'I am the vine' or 'I am the door'." We need to go to the Bible. When Jesus said <em>"I am the true vine"</em> (Jn 15:1), nobody left. When He said "eat my flesh," many walked away. The difference is decisive:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ John 6:60</span>
+                    <span class="scripture-ref">✝︎ John 6:60</span>
                     <blockquote>«When many of his disciples heard it, they said, <strong class="s-hi">'This is a hard saying; who can listen to it?'</strong>»</blockquote>
                 </div>
                 <p>Jesus does not correct them by saying "you misunderstood — it was a metaphor." He lets them go. That is the strongest proof: if it were symbolic, the good shepherd would have held them back with a clarification. He does not.</p>
                 <h2>This causes division<br>John 6:66-67</h2>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ John 6:66-67</span>
+                    <span class="scripture-ref">✝︎ John 6:66-67</span>
                     <blockquote>«After this many of his disciples turned back and no longer walked with him. So Jesus said to the twelve, <strong class="s-hi">'Do you want to go away as well?'</strong>»</blockquote>
                 </div>
                 <p>He does not relent. He does not soften. He does not negotiate the meaning. Jesus is the good shepherd who would not let a single sheep be lost over a misunderstanding — but on this He is immovable.</p>
                 <h2>There is no other interpretation<br>John 6:68</h2>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ John 6:68</span>
+                    <span class="scripture-ref">✝︎ John 6:68</span>
                     <blockquote>«Simon Peter answered him, <strong class="s-hi">'Lord, to whom shall we go? You have the words of eternal life.'</strong>»</blockquote>
                 </div>
                 <p>Peter does not say he understands everything. He says he trusts. That is faith: not having all the answers, but knowing in Whom you believe.</p>
@@ -273,12 +273,12 @@ const translationsEN = {
                 <h2>Paul confirms it — an independent witness<br>1 Corinthians 10:16 and 11:27-29</h2>
                 <p>Paul writes his first letter to the Corinthians before the Gospel of John was written. Two completely independent witnesses. Paul says:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Corinthians 10:16</span>
+                    <span class="scripture-ref">✝︎ 1 Corinthians 10:16</span>
                     <blockquote>«<strong class="s-hi">The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?</strong>»</blockquote>
                 </div>
                 <p>He does not say "remembrance." He says <em>participation</em> — real, effective contact. And then:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Corinthians 11:27-29</span>
+                    <span class="scripture-ref">✝︎ 1 Corinthians 11:27-29</span>
                     <blockquote>«<strong class="s-hi">Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord.</strong> Let a person examine himself, then, and so eat of the bread and drink of the cup. For anyone who eats and drinks <strong class="s-hi">without discerning the body</strong> eats and drinks judgment on himself.»</blockquote>
                 </div>
                 <p>The Greek word ἔνοχος — "guilty" — implies culpability for a real crime. You cannot be guilty of a crime against a symbol. Paul also says "without discerning the body." If it were only bread, what body would there be to discern?</p>
@@ -311,7 +311,7 @@ const translationsEN = {
                 <h2>Love as the standard</h2>
                 <p>Jesus summarizes the Law in loving God and neighbor. This new rule is not a burden, but a deep freedom that transforms our actions from within.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matthew 22:37-38</span>
+                    <span class="scripture-ref">✝︎ Matthew 22:37-38</span>
                     <blockquote>«<strong class="s-hi">You shall love the Lord your God with all your heart and your neighbor as yourself</strong>»</blockquote>
                 </div>
                 <h2>Completing the Old Law</h2>
@@ -346,14 +346,14 @@ const translationsEN = {
                 <h2>Christ is the cornerstone, and there are foundations<br>Ephesians 2:20-22</h2>
                 <p>Before arguing over whether Peter is a rock, it helps to see how Paul uses that image.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Ephesians 2:20-22</span>
+                    <span class="scripture-ref">✝︎ Ephesians 2:20-22</span>
                     <blockquote>«…built upon the foundation of the apostles and prophets, <strong>Christ Jesus himself being the cornerstone</strong>, in whom <strong>the whole structure</strong> is joined together and <strong>grows</strong> into a holy temple in the Lord; in whom you also are built into it for a dwelling place of God in the Spirit.»</blockquote>
                 </div>
                 <p>Paul does not set Christ and the apostles in competition: he sets them in the same building. Christ is the cornerstone, the stone that bears and aligns everything else; the apostles and prophets are the foundation, and they are so in him. That the apostles are a foundation takes nothing away from Christ. And the building is not finished: it grows, with stones laid on top of the first ones. The objection forces a choice between Christ and the apostles. Paul does not choose.</p>
                 <h2>"You are Peter": the keys of the Kingdom<br>Matthew 16:16-19</h2>
                 <p>The central passage is Jesus' answer to Peter's confession.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matthew 16:16-19</span>
+                    <span class="scripture-ref">✝︎ Matthew 16:16-19</span>
                     <blockquote>«Simon Peter replied, "You are the Christ, the Son of the living God." And Jesus answered him, "Blessed are you, Simon Bar-Jona! For flesh and blood has not revealed this to you, but my Father who is in heaven. And I tell you, <strong class="s-hi">you are Peter, and on this rock I will build my church</strong><strong>, and the powers of death shall not prevail against it</strong>. <strong class="s-hi">I will give you</strong> <strong>the keys of the kingdom of heaven, and whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven</strong>."»</blockquote>
                 </div>
                 <p>Jesus spoke Aramaic, and in Aramaic there is only one word: <em>kepha</em>, rock. John's Gospel keeps the original name at the first meeting: <em>"So you are Simon the son of John? You shall be called Cephas"</em>, which means Peter (Jn 1:42), and Paul goes on calling him Cephas in his letters. In Greek, <em>petra</em> is a feminine word and cannot serve as a man's name, so it was given the masculine ending: <em>Petros</em>. The difference between a little stone and a rock is not in what Jesus said. It is in the translator's grammar.</p>
@@ -362,7 +362,7 @@ const translationsEN = {
                 <h2>Living stones: no one takes Christ's place<br>1 Peter 2:3-8</h2>
                 <p>The best answer to the objection about the rock comes from Peter himself.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Peter 2:3-8</span>
+                    <span class="scripture-ref">✝︎ 1 Peter 2:3-8</span>
                     <blockquote>«…for you have tasted the kindness of <strong>the Lord</strong>. Come to <strong>him, to that living stone</strong>, rejected by men but in God's sight chosen and precious; and like <strong>living stones</strong> be <strong>yourselves</strong> built into a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ. For it stands in scripture: "Behold, I am laying in Zion a stone, a cornerstone chosen and precious, and he who believes in him will not be put to shame." To you therefore who believe, he is precious, but for those who do not believe, "The very stone which the builders rejected has become the head of the corner," and "A stone that will make men stumble, a rock that will make them fall"; <strong class="s-hi">for they stumble because they disobey the word, as they were destined to do</strong>.»</blockquote>
                 </div>
                 <p>The man Christ called a rock does not claim Christ's place. He calls Christ "that living stone", the cornerstone chosen by God, and all believers "living stones" built upon it. Scripture uses the image of the stone for Christ, for the apostles and for the faithful, each in his own place, and nowhere in the New Testament does that appear as a rivalry. Peter does not dispute Christ's place: he points to it.</p>
@@ -370,18 +370,18 @@ const translationsEN = {
                 <h2>The household of God is the Church<br>1 Timothy 3:15</h2>
                 <p>Paul writes to Timothy about how one ought to behave, and says where:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Timothy 3:15</span>
+                    <span class="scripture-ref">✝︎ 1 Timothy 3:15</span>
                     <blockquote>«…you may know how one ought to behave in <strong>the household of God, which is the church</strong> of the living God, <strong>the pillar and bulwark of the truth</strong>.»</blockquote>
                 </div>
                 <p>Paul does not say that Scripture is the pillar and bulwark of the truth. He says the Church is, and he calls it the household of the living God. There is nothing to add, except one thing: a house has an owner, it has doors, and it has someone who keeps the keys.</p>
                 <h2>A house with someone to govern it<br>1 Timothy 3:1-5 and 3:8</h2>
                 <p>A few lines earlier, Paul describes who governs that house.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Timothy 3:1-5</span>
+                    <span class="scripture-ref">✝︎ 1 Timothy 3:1-5</span>
                     <blockquote>«The saying is sure: If any one aspires to <strong>the office of bishop</strong>, he desires a noble task. Now <strong>a bishop</strong> must be above reproach, the husband of one wife, temperate, sensible, dignified, hospitable, an apt teacher, no drunkard, not violent but gentle, not quarrelsome, and no lover of money. <strong>He must manage</strong> his own household well, keeping his children submissive and respectful in every way; for if a man does not know how to manage his own household, how can he care for God's church?»</blockquote>
                 </div>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Timothy 3:8</span>
+                    <span class="scripture-ref">✝︎ 1 Timothy 3:8</span>
                     <blockquote>«<strong>Deacons</strong> likewise must be serious, not double-tongued, not addicted to much wine, not greedy for gain.»</blockquote>
                 </div>
                 <p>The Greek words Paul uses are <em>episkopé</em> and <em>episkopos</em>: from them comes, letter by letter, the word bishop. And <em>diakonos</em> is deacon. The Church of Christ has bishops and deacons, that is, hierarchy and authority, and Paul sets the requirements for each office. A community where no one presides and no one governs may have the Bible in hand and good will, but it does not have the shape of the Church Paul describes. It is a work of men.</p>
@@ -389,35 +389,35 @@ const translationsEN = {
                 <h2>The wolves come from within<br>Acts 20:29-30</h2>
                 <p>Paul takes leave of the elders of Ephesus with a warning.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Acts 20:29-30</span>
+                    <span class="scripture-ref">✝︎ Acts 20:29-30</span>
                     <blockquote>«I know that after my departure <strong>fierce wolves</strong> will come in among you, not sparing the flock; and <strong>from among your own selves</strong> will arise men speaking <strong>perverse things</strong>, to draw away the disciples after them.»</blockquote>
                 </div>
                 <p>Paul announces two threats: the wolves who will come in from outside, and the men who will arise from within, from among the shepherds themselves, drawing disciples after them. The second is the one history repeated. The rupture of the sixteenth century was not begun by outsiders: Luther was an Augustinian friar and a priest, and Zwingli was a priest in Zurich. Both had been formed in the Church they later left. And the warning presupposes what the objection denies: a flock with boundaries, one that can be left and out of which others can be drawn away.</p>
                 <h2>The Church already existed, and Saul persecuted it<br>Acts 8:1-3</h2>
                 <p>Before his conversion, Paul knew very well where the Church was.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Acts 8:1-3</span>
+                    <span class="scripture-ref">✝︎ Acts 8:1-3</span>
                     <blockquote>«<strong>And <strong class="s-hi">Saul</strong> was consenting to his death. And on that day <strong class="s-hi">a great persecution arose against the church</strong> in Jerusalem; and they were all scattered throughout the region of Judea and Samaria, except the apostles. Devout men buried Stephen, and made great lamentation over him. But <strong class="s-hi">Saul</strong> <strong class="s-hi">was laying waste the church</strong>, and entering house after house, he dragged off men and women and committed them to prison.</strong>»</blockquote>
                 </div>
                 <p>Years before the first letter of the New Testament was written, the Church already had a name, a city and persecutors. Saul was not persecuting an idea or an invisible communion of souls: he went from house to house and took men and women to prison. One persecutes what one can find. The Church of Christ existed, it was visible, and its members had names and addresses. Rome did not invent it: Saul already knew where to look for it.</p>
                 <h2>To persecute the Church is to persecute Christ<br>Acts 9:3-5</h2>
                 <p>On the road to Damascus, Christ tells Saul whom he was persecuting.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Acts 9:3-5</span>
+                    <span class="scripture-ref">✝︎ Acts 9:3-5</span>
                     <blockquote>«Now as he journeyed he approached Damascus, and suddenly a light from heaven flashed about him. And he fell to the ground and heard a voice saying to him, "Saul, Saul, <strong class="s-hi">why do you persecute me?</strong>" And he said, "Who are you, Lord?" And he said, "<strong class="s-hi">I am Jesus, whom you are persecuting</strong>."»</blockquote>
                 </div>
                 <p>Saul had never seen Jesus nor laid a hand on him. He had imprisoned Christians. And Jesus does not ask him why he persecutes his followers: he asks why he persecutes him. Christ and his Church are one, to the point that the blow received by one is received by the other. Separating Christ from his Church is an operation Christ himself did not accept on the road to Damascus.</p>
                 <h2>"Strengthen your brethren"<br>Luke 22:31-32</h2>
                 <p>On the night of the Last Supper, Jesus addresses Peter by name.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Luke 22:31-32</span>
+                    <span class="scripture-ref">✝︎ Luke 22:31-32</span>
                     <blockquote>«Simon, Simon, behold, Satan demanded to have you, that he might sift you like wheat, but <strong class="s-hi">I have prayed for you</strong> that your faith may not fail; and when you have turned again, <strong class="s-hi">strengthen your brethren</strong>.»</blockquote>
                 </div>
                 <p>In Greek the first "you" is plural: Satan demanded to sift them all. The second is singular: Jesus prayed for one alone, and to that one he entrusts the task of strengthening the rest. He does not give the charge to the strongest. Two verses later he tells him that this very night he will deny him three times. Peter is a weak and sinful man, and even so the task of strengthening his brethren in the faith is entrusted to him alone. The firmness does not come from Peter: it comes from Christ's prayer for Peter.</p>
                 <h2>Three times: "Feed my sheep"<br>John 21:15-17</h2>
                 <p>After the resurrection, on the shore of the lake, Jesus returns to that charge.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ John 21:15-17</span>
+                    <span class="scripture-ref">✝︎ John 21:15-17</span>
                     <blockquote>«When they had finished breakfast, Jesus said to Simon Peter, "Simon, son of John, <strong class="s-hi">do you love me more than these?</strong>" He said to him, "Yes, Lord; you know that I love you." He said to him, "<strong class="s-hi">Feed my lambs</strong>." A second time he said to him, "Simon, son of John, do you love me?" He said to him, "Yes, Lord; you know that I love you." He said to him, "<strong class="s-hi">Tend my sheep</strong>." He said to him the third time, "Simon, son of John, do you love me?" Peter was grieved because he said to him the third time, "Do you love me?" And he said to him, "Lord, you know everything; you know that I love you." Jesus said to him, "<strong class="s-hi">Feed my sheep</strong>."»</blockquote>
                 </div>
                 <p>Peter denied him three times and Jesus asks him three times. He does not reproach him for the betrayal: he asks for love and, after each answer, hands him the flock. "More than these" compares him with the other disciples on the shore, and the charge is for him alone. But the flock is not Peter's. Christ says "my lambs", "my sheep": Peter tends what belongs to another, by commission, like the steward who keeps the keys of a house that is not his own. Christ chooses a sinner to shepherd his sheep, and the strength of the charge lies in the one who gives it.</p>
@@ -459,47 +459,47 @@ const translationsEN = {
                 <h2>"Let us make": the plural at the beginning<br>Genesis 1:26</h2>
                 <p>The first sign is on the first page of the Bible.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Genesis 1:26</span>
+                    <span class="scripture-ref">✝︎ Genesis 1:26</span>
                     <blockquote>«Then God said, <strong class="s-hi">"Let us make man in our image, after our likeness;</strong> and let them have dominion over the fish of the sea, and over the birds of the air, and over the cattle, and over all the earth, and over every creeping thing that creeps upon the earth."»</blockquote>
                 </div>
                 <p>God speaks in the plural, and there is no one else in the scene. It is not the angels: angels do not create, and man comes out in the image of God, not in theirs. The next verse returns to the singular: <em>«So God created man in his own image»</em> (Gen 1:27). One who says "us." This verse alone does not prove the Trinity, and the Church does not use it that way. It is an announcement that the rest of Scripture will make clear.</p>
                 <h2>The First and the Last, sent<br>Isaiah 48:16</h2>
                 <p>In Isaiah 48 God speaks, and he presents himself with a title no one else can bear: <em>«I am He, I am the first, and I am the last»</em> (Is 48:12). He is the one who laid the foundation of the earth and spread out the heavens. Four verses later, the one speaking says this:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Isaiah 48:16</span>
+                    <span class="scripture-ref">✝︎ Isaiah 48:16</span>
                     <blockquote>«Draw near to me, hear this: from the beginning I have not spoken in secret, from the time it came to be I have been there. <strong class="s-hi">And now the Lord God has sent me and his Spirit.</strong>»</blockquote>
                 </div>
                 <p>The one who has been there from the beginning is sent, and he is sent by the Lord God and his Spirit. In a single passage of the Old Testament the one who sends, the one sent and the Spirit appear together. Centuries later, the Book of Revelation puts that same title on the lips of Jesus: <em>«I am the first and the last, and the living one; I died, and behold I am alive for evermore»</em> (Rev 1:17-18).</p>
                 <h2>The three at the Jordan<br>Mark 1:10-11</h2>
                 <p>At the baptism of Jesus the objection of the titles is left with nowhere to stand.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Mark 1:10-11</span>
+                    <span class="scripture-ref">✝︎ Mark 1:10-11</span>
                     <blockquote>«And when he came up out of the water, immediately he saw the heavens opened and <strong class="s-hi">the Spirit descending upon him</strong> like a dove; and <strong>a voice came from heaven</strong>, <strong class="s-hi">"Thou art my beloved Son</strong>; with thee I am well pleased."»</blockquote>
                 </div>
                 <p>The Son comes out of the water, the Spirit comes down upon him and the Father speaks from heaven, at the same moment. If these were three ways in which a single person manifests himself, that person would be at once in the water, coming down upon himself and speaking to himself from above. Matthew tells the same scene (Mt 3:16-17). No one says "you" to himself from heaven.</p>
                 <h2>The Father speaks to the Son<br>Hebrews 1:5</h2>
                 <p>The Letter to the Hebrews returns to that voice to show that the Son is above the angels.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Hebrews 1:5</span>
+                    <span class="scripture-ref">✝︎ Hebrews 1:5</span>
                     <blockquote>«For to what angel did God ever say, <strong class="s-hi">"Thou art my Son, today I have begotten thee"</strong>? Or again, <strong>"I will be to him a father, and he shall be to me a son"</strong>?»</blockquote>
                 </div>
                 <p>One speaks and the other is addressed. And three verses further on, the Father calls the Son God: <em>«But of the Son he says, "Thy throne, O God, is for ever and ever"»</em> (Heb 1:8). The Son is God, and the Father, who speaks to him, is not he.</p>
                 <h2>With the Father, before the world<br>John 17:5</h2>
                 <p>For the United Pentecostals, the Son begins in Bethlehem: "Son" would be the name of Jesus' humanity, and "Father" the name of the God who dwells in it. John answers this in his first letter.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 John 1:2-3</span>
+                    <span class="scripture-ref">✝︎ 1 John 1:2-3</span>
                     <blockquote>«The life was made manifest, and we saw it, and testify to it, and proclaim to you <strong class="s-hi">the eternal life which was with the Father</strong> and was made manifest to us. That which we have seen and heard we proclaim also to you, so that you may have fellowship with us; and our fellowship is <strong>with the Father and with his Son Jesus Christ</strong>.»</blockquote>
                 </div>
                 <p>What the apostles saw and touched was with the Father before it was made manifest. No one is with himself. It is what John had written at the opening of his Gospel: <em>«the Word was with God, and the Word was God»</em> (Jn 1:1). And Jesus says it in his own words on the night before he died:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ John 17:5</span>
+                    <span class="scripture-ref">✝︎ John 17:5</span>
                     <blockquote>«And now, Father, glorify me in thy own presence <strong class="s-hi">with the glory which I had with thee before the world was made</strong>.»</blockquote>
                 </div>
                 <p>Jesus asks the Father for the glory he had with him before creation. If the Son had begun in Bethlehem, he would have no earlier glory to claim, nor anyone with whom he had shared it. In the same prayer he insists: <em>«thou didst love me before the foundation of the world»</em> (Jn 17:24). Before the world there was one who loved and another who was loved.</p>
                 <h2>Two witnesses<br>John 8:16-18</h2>
                 <p>Arguing with the Pharisees, Jesus appeals to the Law of Moses, which did not accept a single witness (Deut 19:15).</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ John 8:16-18</span>
+                    <span class="scripture-ref">✝︎ John 8:16-18</span>
                     <blockquote>«Yet even if I do judge, my judgment is true, for <strong class="s-hi">it is not I alone that judge, but I and he who sent me</strong>. In your law it is written that <strong>the testimony of two men is true</strong>; I bear witness to myself, and the Father who sent me bears witness to me.»</blockquote>
                 </div>
                 <p>Jesus presents two witnesses: himself and the Father. If they were a single person with two names, he would be passing off one witness as two, and his argument before the Pharisees would be a trick. Jesus counts two. The United Pentecostals count one.</p>
@@ -507,31 +507,31 @@ const translationsEN = {
                 <h2>Another Counselor<br>John 14:16-17</h2>
                 <p>About the Holy Spirit, the decisive word is spoken by Jesus at the Last Supper.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ John 14:16-17</span>
+                    <span class="scripture-ref">✝︎ John 14:16-17</span>
                     <blockquote>«And I will pray the Father, and he will give you <strong class="s-hi">another Counselor</strong>, to be with you for ever, even <strong>the Spirit of truth</strong>, whom the world cannot receive, because it neither sees him nor knows him; you know him, for he dwells with you, and will be in you.»</blockquote>
                 </div>
                 <p>The Son prays, the Father gives, and what he gives is another Counselor. The Paraclete is the one who accompanies and defends; Jesus had been that for his disciples for three years, and now he announces another. If the Holy Spirit were Jesus under another name, he would not be another. In the following chapters each appears with what is his own: the Holy Spirit is the one <em>«whom the Father will send in my name»</em> (Jn 14:26), and <em>«he will not speak on his own authority, but whatever he hears he will speak»</em> (Jn 16:13).</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ John 15:26</span>
+                    <span class="scripture-ref">✝︎ John 15:26</span>
                     <blockquote>«But when <strong class="s-hi">the Counselor comes, whom I shall send to you from the Father</strong>, even the Spirit of truth, who proceeds from the Father, <strong>he will bear witness to me</strong>.»</blockquote>
                 </div>
                 <p>In a single verse the Son sends, the Spirit proceeds from the Father and the Spirit bears witness to the Son. There are three subjects in one sentence, and none of them is a title of another. The one who hears, speaks, is sent and bears witness is not a force or a mode. He is someone.</p>
                 <h2>In the name of the Father, of the Son and of the Holy Spirit<br>Matthew 28:19</h2>
                 <p>That leaves baptism. The United Pentecostals reject the Trinitarian formula and baptize "in the name of Jesus," relying on passages like this one:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Acts 19:2-5</span>
+                    <span class="scripture-ref">✝︎ Acts 19:2-5</span>
                     <blockquote>«And he said to them, <strong class="s-hi">"Did you receive the Holy Spirit when you believed?"</strong> And they said, <strong>"No, we have never even heard that there is a Holy Spirit."</strong> And he said, "Into what then were you baptized?" They said, "Into John's baptism." And Paul said, "John baptized with the baptism of repentance, telling the people to believe in the one who was to come after him, that is, Jesus." On hearing this, they were baptized in the name of the Lord Jesus.»</blockquote>
                 </div>
                 <p>The passage serves the opposite purpose. The first thing Paul asks is whether they received the Holy Spirit. When they answer that they do not even know he exists, he understands that the baptism they have is not the Christian one, and asks which one they received: John's. "In the name of the Lord Jesus" is what separates one baptism from the other. Luke is not transcribing the words spoken over the water. Those words were given by Jesus:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matthew 28:19</span>
+                    <span class="scripture-ref">✝︎ Matthew 28:19</span>
                     <blockquote>«Go therefore and make disciples of all nations, baptizing them <strong class="s-hi">in the name of the Father and of the Son and of the Holy Spirit</strong>…»</blockquote>
                 </div>
                 <p>"In the name," in the singular, and then three. One name, because God is one. Three named, because they are three. It is the formula the Church received from Jesus and with which she baptizes to this day.</p>
                 <h2>The three in the apostles' greeting<br>2 Corinthians 13:14</h2>
                 <p>Paul closes his second letter to the Corinthians with this blessing.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 2 Corinthians 13:14</span>
+                    <span class="scripture-ref">✝︎ 2 Corinthians 13:14</span>
                     <blockquote>«<strong class="s-hi">The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit</strong> be with you all.»</blockquote>
                 </div>
                 <p>The three, side by side, each with what he gives. It is not an isolated phrase. In the first letter to the Corinthians, the gifts come from <em>«the same Spirit»</em>, the services from <em>«the same Lord»</em> and the workings from <em>«the same God»</em> (1 Cor 12:4-6). To the Ephesians he writes: <em>«one Spirit… one Lord… one God and Father of us all»</em> (Eph 4:4-6). And Peter opens his first letter the same way: <em>«chosen and destined by God the Father and sanctified by the Spirit for obedience to Jesus Christ»</em> (1 Pet 1:2). The apostles named the three already in their greetings.</p>
@@ -568,7 +568,7 @@ const translationsEN = {
             <h2>Knowledge is perfected after death<br>1 Corinthians 13:9-13</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ 1 Corinthians 13:9-13</span>
+                <span class="scripture-ref">✝︎ 1 Corinthians 13:9-13</span>
                 <blockquote>«For <strong class="s-hi">we know in part and we prophesy in part;</strong> but when the perfect comes, the partial will pass away. When I was a child, I used to talk as a child, think as a child, reason as a child; when I became a man, I put aside childish things. At present we see indistinctly, as in a mirror, but then face to face. At present I know partially; then <strong class="s-hi">I shall know fully, as I am fully known.</strong> So faith, hope, love remain, these three; but the greatest of these is love.»</blockquote>
             </div>
 
@@ -577,7 +577,7 @@ const translationsEN = {
             <h2>After death, we shall see God as he is<br>1 John 3:2</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ 1 John 3:2</span>
+                <span class="scripture-ref">✝︎ 1 John 3:2</span>
                 <blockquote>«Beloved, we are God’s children now; what we shall be has not yet been revealed. We do know that when it is revealed <strong class="s-hi">we shall be like him, for we shall see him as he is.</strong>»</blockquote>
             </div>
 
@@ -586,7 +586,7 @@ const translationsEN = {
             <h2>After death comes heaven<br>John 14:1-4</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ John 14:1-4</span>
+                <span class="scripture-ref">✝︎ John 14:1-4</span>
                 <blockquote>«Do not let your hearts be troubled. You have faith in God; have faith also in me. In my Father’s house there are many dwelling places. If there were not, would I have told you that I am going to prepare a place for you? And if I go and prepare a place for you, I will come back again and take you to myself, so that where I am you also may be. Where I am going you know the way.»</blockquote>
             </div>
 
@@ -595,7 +595,7 @@ const translationsEN = {
             <h2>The saints: the great cloud of witnesses<br>Hebrews 11:1 — 12:3</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ Hebrews 11:1 — 12:3</span>
+                <span class="scripture-ref">✝︎ Hebrews 11:1 — 12:3</span>
                 <blockquote>«<strong class="s-hi">Faith is the realization of what is hoped for and evidence of things not seen. Because of it the ancients were well attested.</strong><br><br>
 By faith we understand that the universe was ordered by the word of God, so that what is visible came into being through the invisible.<br><br>
 By faith <strong class="s-name">Abel</strong> offered God a sacrifice greater than Cain’s. Through this he was attested to be righteous, God bearing witness to his gifts, and through this, though dead, he still speaks. By faith <strong class="s-name">Enoch</strong> was taken up so that he should not see death, and he was found no more, because God had taken him. Before he was taken up, he was attested to have pleased God. Without faith it is impossible to please him, for anyone who approaches God must believe that he exists and that he rewards those who seek him. By faith <strong class="s-name">Noah</strong>, warned about what was not yet seen, with reverence built an ark for the salvation of his household. Through this he condemned the world and inherited the righteousness that comes through faith.<br><br>
@@ -612,7 +612,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
             <h2>The soul does not sleep — Christ preached to the spirits<br>1 Peter 3:18-22</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ 1 Peter 3:18-22</span>
+                <span class="scripture-ref">✝︎ 1 Peter 3:18-22</span>
                 <blockquote>«For <strong class="s-hi">Christ also suffered for sins once,</strong> the righteous for the sake of the unrighteous, that he might lead you to God. Put to death in the flesh, <strong class="s-hi">he was brought to life in the spirit. In it he also went to preach to the spirits in prison,</strong> who had once been disobedient while God patiently waited in the days of Noah during the building of the ark, in which a few persons, eight in all, were saved through water. This prefigured baptism, which <strong class="s-hi">saves you now.</strong> It is not a removal of dirt from the body but an appeal to God for a clear conscience, through the resurrection of Jesus Christ, who has gone into heaven and is at the right hand of God, with angels, authorities, and powers subject to him.»</blockquote>
             </div>
 
@@ -621,7 +621,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
             <h2>The saints are in the heavenly Jerusalem<br>Hebrews 12:22-24</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ Hebrews 12:22-24</span>
+                <span class="scripture-ref">✝︎ Hebrews 12:22-24</span>
                 <blockquote>«No, you have approached <strong class="s-hi">Mount Zion and the city of the living God, the heavenly Jerusalem,</strong> and countless angels in festal gathering, and the assembly of the firstborn enrolled in heaven, and God the judge of all, <strong class="s-hi">and the spirits of the just made perfect,</strong> and Jesus, the mediator of a new covenant, and the sprinkled blood that speaks more eloquently than that of Abel.»</blockquote>
             </div>
 
@@ -630,7 +630,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
             <h2>The saints carry the prayers before the throne<br>Revelation 5:8</h2>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ Revelation 5:8</span>
+                <span class="scripture-ref">✝︎ Revelation 5:8</span>
                 <blockquote>«When he took it, the four living creatures and the twenty-four elders fell down before the Lamb. Each of the elders held a harp and <strong class="s-hi">gold bowls filled with incense, which are the prayers of the holy ones.</strong>»</blockquote>
             </div>
 
@@ -664,7 +664,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <p>Luke tells us that many undertook to compile an account of the events that took place among them, <em>"just as they were handed down to us by those who from the first were eyewitnesses and servants of the word"</em> (Lk 1:2). These are not legends: they are testimonies. What Jesus said, lived and taught was seen and transmitted by real witnesses.</p>
                 <p>Martha, before the tomb of her brother, recognizes Him without hesitation: <em>"Yes, Lord, I believe that you are the Messiah, the Son of God, who is to come into the world"</em> (Jn 11:27). Faith is not irrational: it is a response to a revelation verified by those who lived it.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Luke 1:4</span>
+                    <span class="scripture-ref">✝︎ Luke 1:4</span>
                     <blockquote>«<strong class="s-hi">So that you may know the certainty of the things you have been taught.</strong>»</blockquote>
                 </div>
                 <h2>We must read the Word of God<br>Luke 8:5-8, 8:11-12 and Psalm 119</h2>
@@ -672,7 +672,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <p>Psalm 119:72 says that the law of God is worth more than thousands of pieces of silver and gold. And if someone asks what is gained by reading the Bible, Paul answers: <em>"from infancy you have known the Holy Scriptures, <strong>which are able to make you wise for salvation through faith in Christ Jesus</strong>"</em> (2 Tim 3:15).</p>
                 <p>Psalm 119:103-105 gives us the most beautiful image: <em>"How sweet are your words to my taste, sweeter than honey to my mouth!... <strong>Your word is a lamp for my feet, a light on my path.</strong>"</em> Whoever does not read the Word of God walks in darkness.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Psalm 119:105</span>
+                    <span class="scripture-ref">✝︎ Psalm 119:105</span>
                     <blockquote>«<strong class="s-hi">Your word is a lamp for my feet, a light on my path.</strong>»</blockquote>
                 </div>
                 <h2>The Word is from God<br>2 Peter 1:19 and John 17:17</h2>
@@ -681,13 +681,13 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <p>Peter had fished all night and caught nothing. By human experience, casting the nets during the day made no sense at all. But he said something that sums up all of faith: <em>"Master, we've worked hard all night and haven't caught anything. <strong>But because you say so, I will let down the nets</strong>"</em> (Lk 5:5). And that is exactly why Jesus made him a fisher of men — Peter specifically, not the others (Lk 5:10).</p>
                 <p>At Cana, the Virgin Mary gives the servants the definitive instruction: <em>"<strong>Do whatever he tells you</strong>"</em> (Jn 2:5). The jars were filled with water, but turned into wine when the servants carried out His orders to the end (Jn 2:8). Faith is not only believing — it is obeying.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Luke 5:5</span>
+                    <span class="scripture-ref">✝︎ Luke 5:5</span>
                     <blockquote>«<strong class="s-hi">But because you say so, I will let down the nets.</strong>»</blockquote>
                 </div>
                 <h2>Where did your Bible come from?<br>Sola scriptura and its problems</h2>
                 <p>Some say: "Scripture alone is the rule of faith. The Bible is sufficient." Very well. Let us go to the Bible.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 2 Timothy 3:16-17</span>
+                    <span class="scripture-ref">✝︎ 2 Timothy 3:16-17</span>
                     <blockquote>«<strong class="s-hi">All Scripture is breathed out by God and profitable</strong> for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work.»</blockquote>
                 </div>
                 <p>The word Paul uses is "profitable" — in Greek ὠφέλιμος — not "exclusive" or "sole rule of faith." The verse never says Scripture alone is sufficient for everything. And there is something more important: if the only criterion of truth were "what the Bible says," then sola scriptura would have to be in the Bible to be valid. It is not. The argument refutes itself by its own standard.</p>
@@ -696,36 +696,36 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <h2>Oral tradition is biblical<br>2 Thessalonians 2:15 and 2 Timothy 2:2</h2>
                 <p>Paul did not teach only through letters. He commanded that oral tradition also be kept:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 2 Thessalonians 2:15</span>
+                    <span class="scripture-ref">✝︎ 2 Thessalonians 2:15</span>
                     <blockquote>«So then, brothers, <strong class="s-hi">stand firm and hold to the traditions that you were taught by us, either by our spoken word or by our letter.</strong>»</blockquote>
                 </div>
                 <p>And he entrusted that tradition to be handed on from generation to generation:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 2 Timothy 2:2</span>
+                    <span class="scripture-ref">✝︎ 2 Timothy 2:2</span>
                     <blockquote>«<strong class="s-hi">What you have heard from me in the presence of many witnesses entrust to faithful men, who will be able to teach others also.</strong>»</blockquote>
                 </div>
                 <p>Four generations of transmission in one verse: Paul → Timothy → faithful men → others. And John himself acknowledges this at the end of his Gospel:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ John 21:25</span>
+                    <span class="scripture-ref">✝︎ John 21:25</span>
                     <blockquote>«<strong class="s-hi">Now there are also many other things that Jesus did. Were every one of them to be written, I suppose that the world itself could not contain the books that would be written.</strong>»</blockquote>
                 </div>
                 <p>Jesus Himself never wrote a single line. He sent apostles to preach, not to write.</p>
                 <h2>Private interpretation is forbidden by Scripture<br>2 Peter 1:20-21</h2>
                 <p>Peter states it plainly:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 2 Peter 1:20-21</span>
+                    <span class="scripture-ref">✝︎ 2 Peter 1:20-21</span>
                     <blockquote>«<strong class="s-hi">Knowing this first of all, that no prophecy of Scripture comes from someone's own interpretation.</strong> For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit.»</blockquote>
                 </div>
                 <p>Since 1517, there are more than 45,000 distinct denominations that read the same Bible and reach opposing conclusions about baptism, the Eucharist, salvation, and morality. Jesus prayed for something different: <em>"<strong>that they may all be one</strong>"</em> (Jn 17:21). The question that must be asked: can the Holy Spirit simultaneously guide all those contradictory positions?</p>
                 <h2>The Church is the pillar of truth<br>1 Timothy 3:15 and Matthew 16:18</h2>
                 <p>The Bible does not call itself the pillar of truth. It calls the Church that:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Timothy 3:15</span>
+                    <span class="scripture-ref">✝︎ 1 Timothy 3:15</span>
                     <blockquote>«The church of the living God, <strong class="s-hi">a pillar and buttress of the truth.</strong>»</blockquote>
                 </div>
                 <p>And Jesus made an institutional promise about it:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Matthew 16:18</span>
+                    <span class="scripture-ref">✝︎ Matthew 16:18</span>
                     <blockquote>«And I tell you, you are Peter, and on this rock I will build my church, <strong class="s-hi">and the gates of hell shall not prevail against it.</strong>»</blockquote>
                 </div>
                 <p>That promise protects the Magisterium — the Church's official teaching — from ever definitively teaching error. It does not mean every member is impeccable. It means that the truth Christ entrusted to His Church cannot be destroyed.</p>
@@ -753,31 +753,31 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <h2>A man taken from among men<br>Hebrews 5:1-2</h2>
                 <p>The Letter to the Hebrews is unambiguous from the start:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Hebrews 5:1-2</span>
+                    <span class="scripture-ref">✝︎ Hebrews 5:1-2</span>
                     <blockquote>«<strong class="s-hi">Every high priest is taken from among men</strong> and appointed on behalf of men in matters pertaining to God, to offer both gifts and sacrifices for sins; he is able to deal gently with the ignorant and misguided, since he himself also is clothed in weakness.»</blockquote>
                 </div>
                 <p>The priest is not above the human condition. He shares the same struggles, temptations, and weaknesses as every believer. That is the foundation of pastoral compassion: no one can truly accompany another through what he has never experienced. The priest can deal gently with others because he too is clothed in weakness.</p>
                 <h2>Holy because God sanctifies, not by personal merit<br>Leviticus 21:6-8</h2>
                 <p>In Leviticus, God commands that priests are to be considered holy. But the holiness required of them is not absolute moral perfection — it is consecration: they are set apart for God and His service:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Leviticus 21:6-8</span>
+                    <span class="scripture-ref">✝︎ Leviticus 21:6-8</span>
                     <blockquote>«They shall be holy to their God and not profane the name of their God... <strong class="s-hi">You shall consecrate him, for he offers the bread of your God; he shall be holy to you, for I the Lord, who sanctify you, am holy.</strong>»</blockquote>
                 </div>
                 <p>The people must consider the priest holy not because of his own merit, but because of God. The holiness of the ministry comes from the One who instituted it. This frees us from a false expectation: our faith rests on the faithfulness of God, not on the personal virtue of the minister.</p>
                 <h2>"We are all priests" — the objection and its limits<br>1 Peter 2:9 and Hebrews 5:4</h2>
                 <p>Peter says it plainly:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Peter 2:9</span>
+                    <span class="scripture-ref">✝︎ 1 Peter 2:9</span>
                     <blockquote>«<strong class="s-hi">You are a chosen race, a royal priesthood, a holy nation</strong>, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light.»</blockquote>
                 </div>
                 <p>The baptismal priesthood is real. Nobody denies it. But there are two priesthoods in the New Testament, not one. The same Letter to the Hebrews distinguishes them precisely:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Hebrews 5:4</span>
+                    <span class="scripture-ref">✝︎ Hebrews 5:4</span>
                     <blockquote>«<strong class="s-hi">No one takes this honor for himself, but only when called by God, just as Aaron was.</strong>»</blockquote>
                 </div>
                 <p>One priesthood is received at baptism; the other requires a specific call and consecration. This is not a late invention. When Korah and his company argued that <em>"all the congregation are holy, every one of them"</em> (Num 16:3) — claiming access to the ministerial priesthood without a vocation — the earth opened and swallowed them. And in the New Testament:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Acts 14:23</span>
+                    <span class="scripture-ref">✝︎ Acts 14:23</span>
                     <blockquote>«<strong class="s-hi">When they had appointed elders for them in every church</strong>, having prayed with fasting, they commended them to the Lord in whom they had believed.»</blockquote>
                 </div>
                 <p>Paul instructs Titus: <em>"The reason I left you in Crete was so that you might put what was still unfinished in order and <strong>appoint elders in every town</strong>"</em> (Tit 1:5). He reminds Timothy: <em>"Do not neglect the gift you have, which was given you by prophecy when <strong>the council of elders laid their hands on you</strong>"</em> (1 Tim 4:14). This is structure, not metaphor.</p>
@@ -788,19 +788,19 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <h2>The forgiveness of sins — John 20:22-23</h2>
                 <p>We return to the starting point. The Risen Jesus appears to the apostles, breathes on them — the same gesture as in Genesis 2:7 when He breathed life into man — and says:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ John 20:22-23</span>
+                    <span class="scripture-ref">✝︎ John 20:22-23</span>
                     <blockquote>«Receive the Holy Spirit. <strong class="s-hi">Whose sins you forgive are forgiven them, and whose sins you retain are retained.</strong>»</blockquote>
                 </div>
                 <p>How do you retain someone's sins without knowing what they are? You cannot. This verse requires that the penitent declare his sins. That is sacramental confession, instituted by Christ Himself with His own breath.</p>
                 <h2>The altar and sacrifice in the New Testament<br>Hebrews 13:10 and Malachi 1:11</h2>
                 <p>If there is no priesthood and no sacrifice in the New Testament, why does the Letter to the Hebrews say this?</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Hebrews 13:10</span>
+                    <span class="scripture-ref">✝︎ Hebrews 13:10</span>
                     <blockquote>«<strong class="s-hi">We have an altar</strong> from which those who serve the tent have no right to eat.»</blockquote>
                 </div>
                 <p>And the prophet Malachi, centuries before Christ, announced:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ Malachi 1:11</span>
+                    <span class="scripture-ref">✝︎ Malachi 1:11</span>
                     <blockquote>«For from the rising of the sun to its setting my name is great among the nations, and <strong class="s-hi">in every place incense is offered to my name, and a pure offering</strong>, for my name is great among the nations, says the Lord of hosts.»</blockquote>
                 </div>
                 <p>A pure offering in every place on earth. The Fathers of the first centuries recognized in this the Eucharist — the only sacrifice that fulfills this prophecy.</p>
@@ -836,14 +836,14 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <h2>The Word does not describe: it makes<br>John 1:1-3</h2>
                 <p>Before arguing about what can happen to bread, one has to know what a word of God is.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ John 1:1-3</span>
+                    <span class="scripture-ref">✝︎ John 1:1-3</span>
                     <blockquote>«In the beginning was <strong class="s-hi">the Word</strong>, and the Word was with God, and <strong class="s-hi">the Word was God</strong>. He was in the beginning with God; <strong class="s-hi">all things were made through him</strong>, and without him was not anything made that was made.»</blockquote>
                 </div>
                 <p>The Word of God does not describe reality: it causes it. Nothing that exists existed before the Word spoke it, and everything that exists exists because the Word spoke it. That is the starting point, and it is no small one: to ask how bread can stop being bread is to ask, in other words, how nothing could stop being nothing. It has already happened once. It happened for the same reason.</p>
                 <h2>Cana: the water changed when they obeyed him<br>John 2:6-9</h2>
                 <p>There is one case where that Word acts before witnesses and upon a concrete substance.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ John 2:6-9</span>
+                    <span class="scripture-ref">✝︎ John 2:6-9</span>
                     <blockquote>«Now six stone jars were standing there, for the Jewish rites of purification, each holding twenty or thirty gallons. Jesus said to them, <strong class="s-hi">"Fill the jars with water."</strong> And they filled them up to the brim. He said to them, "Now draw some out, and take it to the steward of the feast." <strong class="s-hi">So they took it.</strong> When the steward of the feast tasted <strong class="s-hi">the water now become wine</strong>, and did not know where it came from (<strong class="s-hi">though the servants who had drawn the water knew</strong>), the steward of the feast called the bridegroom.»</blockquote>
                 </div>
                 <p>It is worth looking at where the miracle is. Jesus does not touch the water. He makes no gesture over the jars, he pronounces no formula upon them. He gives an order — "fill", "draw" — and some servants carry it out. Between the order obeyed and the steward's cup, the water stopped being water. What changed the substance was a word obeyed.</p>
@@ -851,7 +851,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <h2>The same mouth, the same formula<br>John 6:47-51</h2>
                 <p>The one who ordered the jars filled goes on to say this:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ John 6:47-51</span>
+                    <span class="scripture-ref">✝︎ John 6:47-51</span>
                     <blockquote>«<strong class="s-hi">Truly, truly, I say to you</strong>, whoever believes has eternal life. <strong class="s-hi">I am the bread of life.</strong> Your fathers ate the manna in the wilderness, and they died. This is the bread that comes down from heaven, so that one may eat of it and not die. I am the living bread that came down from heaven. If anyone eats of this bread, he will live forever. And the bread that I will give for the life of the world is <strong class="s-hi">my flesh</strong>.»</blockquote>
                 </div>
                 <p>"Truly, truly, I say to you" is the formula with which Christ prefaces what admits of no discussion, and what follows is not a comparison but an identification: "I am", not "I represent". If that word turned water into wine without anyone seeing the moment, this one needs no less. It is the same mouth and the same kind of word.</p>
@@ -859,14 +859,14 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <h2>Paul does not say symbol: he says participation<br>1 Corinthians 10:16</h2>
                 <p>Paul writes before the Gospel of John is composed, and he arrives at the same place on his own.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Corinthians 10:16</span>
+                    <span class="scripture-ref">✝︎ 1 Corinthians 10:16</span>
                     <blockquote>«The cup of blessing that we bless, is it not <strong class="s-hi">a participation in the blood of Christ</strong>? The bread that we break, is it not <strong class="s-hi">a participation in the body of Christ</strong>?»</blockquote>
                 </div>
                 <p>There are three words Paul does not use: symbol, representation, remembrance. The one he does use is <em>koinōnia</em> — participation, real sharing, effective contact, having a part in something. No one has a part in a metaphor. And it is worth looking at what he names at the end of each question: he does not say the cup is a participation in the wine, or the bread in the bread. He says the blood of Christ and the body of Christ.</p>
                 <h2>I received from the Lord — and that is why there are dead<br>1 Corinthians 11:23-30</h2>
                 <p>The decisive passage is the one that follows, and it should be read whole before it is commented on.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝ 1 Corinthians 11:23-30</span>
+                    <span class="scripture-ref">✝︎ 1 Corinthians 11:23-30</span>
                     <blockquote>«For I <strong class="s-hi">received from the Lord what I also delivered to you</strong>, that the Lord Jesus on the night when he was betrayed took bread, and when he had given thanks, he broke it, and said, <strong class="s-hi">"This is my body</strong> which is for you. Do this in remembrance of me." In the same way also the cup, after supper, saying, "This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me." For as often as you eat this bread and drink the cup, you proclaim the Lord's death <strong class="s-hi">until he comes</strong>. Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner <strong class="s-hi">will be guilty of profaning the body and blood of the Lord</strong>. Let a man examine himself, and so eat of the bread and drink of the cup. For any one who eats and drinks <strong class="s-hi">without discerning the body</strong> eats and drinks judgment upon himself. That is why many of you are weak and ill, and <strong class="s-hi">some have died</strong>.»</blockquote>
                 </div>
                 <p>He begins where the critics would rather not begin: "I received from the Lord what I also delivered to you." That is the vocabulary of tradition — what is handed on and received from hand to hand. The very Paul who is quoted against Tradition rests the rite of the Eucharist upon it, and he does so in the oldest letter we possess on the subject.</p>
@@ -1005,7 +1005,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
             <p>This site is for you if you're in one of these places: you doubt the faith you received and don't know who to ask; you're searching among traditions and no one gives you an answer that can bear the weight; you just converted and feel alone, without a guide, assailed from all sides. I know that place. I was there. And I know what's around it: traditional Catholics who sometimes take for granted what they ought to demonstrate and can't explain it; and worse, lukewarm Catholics — those who go to Mass out of habit, don't know what they believe, defend nothing, and are the first to shrug their shoulders when someone attacks the faith in front of them.</p>
 
             <div class="scripture-block">
-                <span class="scripture-ref">✝ Revelation 3:15-16</span>
+                <span class="scripture-ref">✝︎ Revelation 3:15-16</span>
                 <blockquote>«I know your works: you are neither cold nor hot. Would that you were cold or hot! So, because you are lukewarm, and neither cold nor hot, I will spew you out of my mouth.»</blockquote>
             </div>
 
@@ -1057,7 +1057,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. All rights reserved.</strong> No part of this site may be reproduced without the author's written permission.",
-    text: "&copy; 2026 Faith and Reason. Ad maiorem Dei gloriam."
+    text: "Faith and Reason. Ad maiorem Dei gloriam."
   }
 };
 // Se expone en window para que el cargador por idioma pueda tomarlo por nombre.

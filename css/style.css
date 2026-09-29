@@ -116,6 +116,11 @@
 
 html {
   scroll-behavior: smooth;
+  /* Barrera: si algo se pasa del ancho, se recorta en vez de ensanchar la
+     página entera (en iPhone eso achicaba y corría todo). clip y no hidden:
+     no crea contenedor de scroll, así que no rompe position: sticky. El
+     desborde en sí lo detecta docs/desborde.py. */
+  overflow-x: clip;
 }
 
 body {
@@ -1993,10 +1998,15 @@ header.scrolled .hamburger span {
     left: 24px;
   }
 
+  /* El hero ocupa el primer pantallazo entero (29-sep-2026: con 85svh/75svh se
+     veía cortado y asomaba la sección siguiente). min-height y no height: si el
+     texto no entra, el bloque crece en vez de cortarse. El padding de abajo
+     reserva el lugar del indicador «Scroll», que se encimaba con «Nuestra misión». */
   .hero {
-    height: 85vh;
-    height: 85svh;
-    min-height: 560px;
+    height: auto;
+    min-height: calc(100vh - 68px);
+    min-height: calc(100svh - 68px);
+    padding: 48px 0 120px;
   }
 
   .meditacion-section {
@@ -2030,11 +2040,7 @@ header.scrolled .hamburger span {
     font-size: 16px;
   }
 
-  .hero {
-    height: 75vh;
-    height: 75svh;
-    min-height: 480px;
-  }
+  /* .hero: ver el bloque de 860px */
 
   .hero h1 {
     font-size: clamp(40px, 12vw, 72px);
