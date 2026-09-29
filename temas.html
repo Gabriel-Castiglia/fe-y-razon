@@ -234,8 +234,10 @@
                        tomaba el ancho de la fila de botones (585 px) y la página
                        entera se ensanchaba a 609 px en un teléfono de 430. */
                     .temas-herramientas { flex-direction: column; flex-wrap: nowrap; align-items: stretch; }
-                    .temas-filtro { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; min-width: 0; max-width: 100%; }
-                    .temas-filtro button { flex: 0 0 auto; }
+                    /* Las categorías se acomodan en varias líneas, como las
+                       tarjetas, en vez de una fila que había que deslizar. */
+                    .temas-filtro { min-width: 0; max-width: 100%; }
+                    .temas-filtro button { flex: 0 1 auto; max-width: 100%; }
                     .temas-buscar { min-width: 0; }
                   }
                 </style>
