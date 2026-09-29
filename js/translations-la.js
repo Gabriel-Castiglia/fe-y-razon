@@ -87,10 +87,10 @@ const translationsLA = {
   },
   article8: {
     category: "Doctrina",
-    date: "Mox veniet",
+    date: "Septembri MMXXVI",
     title: "Nova Lex",
-    excerpt: "Lex Christi quae Legem Veterem complet et christianos dirigit.",
-    time: "VIII min lectura",
+    excerpt: "Foedus Sinaiticum in cruce finem habuit, et apostoli die dominica conveniebant: quid Scriptura de Lege veteri et nova dicat.",
+    time: "XXIII min lectura",
     link: "Lege →"
   },
   article9: {
@@ -307,28 +307,209 @@ const translationsLA = {
                 <span class="eyebrow-text">Thema Speciale</span>
             </div>
             <h1>Nova Lex in Christo</h1>
-            <p>Intellege quomodo lex Christi Legem Veterem superet et compleat, nos invitans ad vivendum in amore et libertate filiorum Dei.</p>
+            <p>Foedus Sinaiticum in cruce finem habuit, et apostoli die dominica conveniebant inde a die resurrectionis. Quid Scriptura de Lege veteri et nova dicat, locus post locum.</p>
             <div class="article-meta">
-                <span>VIII min lectura</span>
-                <span>Editus Maio MMXXVI</span>
+                <span>XXIII min lectura</span>
+                <span>Editus Septembri MMXXVI</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
-      article: `<p>Nova lex est lex Evangelii, centrata in mandato amoris. Christus Legem Veterem non abolet, sed ad plenitudinem perducit eamque cordi humano accessibilem reddit.</p>
-                <h2>Amor ut criterium</h2>
-                <p>Iesus Legem in amore Dei et proximi resumit. Haec nova norma non est onus, sed profunda libertas quae actiones nostras ab interiori transformat.</p>
+      article: `<!--
+Traducción de la-nueva-ley desde el español (29-sep-2026). Citas según la
+traducción católica usual de este idioma, escritas de memoria: sin cotejar.
+-->
+<p>Nonnullae sectae protestanticae haeresim tenent christianum adhuc Lege Moysis teneri, vel saltem ea parte eius quam quaeque eligit. Longissime errorem producit secta adventistarum diei septimi: sabbatum servant, a cibis abstinent quos Lex immundos declarabat, et Ecclesiam accusant quod diem Dei mutaverit. Sic dicunt: <em>«Sabbatum est dies quem Deus in aeternum sanctificavit. Dominicam Roma imposuit, et qui eam servat papae oboedit, non Deo.»</em></p>
+                <p>Responsio in Scriptura est. Paulus eam scripsit christianis qui id facturi erant quod hodie faciunt adventistae: ad Legem redire postquam Christum receperant. Est epistula ad Galatas, et locus primum integer legitur, cum versibus suis, deinde per partes percurritur.</p>
+                <h2>Duae mulieres, duo Foedera<br>Ad Galatas 4, 21 — 5, 12</h2>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝︎ Mt 22, 37-38</span>
-                    <blockquote>«<strong class="s-hi">Diliges Dominum Deum tuum ex toto corde tuo et proximum tuum sicut teipsum</strong>»</blockquote>
+                    <span class="scripture-ref">✝︎ Ad Galatas 4, 21 — 5, 12</span>
+                    <blockquote>«<sup class="vn">21</sup>Dicite mihi, qui sub lege vultis esse: legem non auditis? <sup class="vn">22</sup>Scriptum est enim quoniam Abraham duos filios habuit, unum de ancilla et unum de libera. <sup class="vn">23</sup>Sed qui de ancilla, secundum carnem natus est; qui autem de libera, per promissionem. <sup class="vn">24</sup><strong class="s-hi">Quae sunt per allegoriam dicta: ista enim sunt duo testamenta</strong>, <strong class="s-hi">unum quidem a monte Sina in servitutem generans</strong>, quae est Agar. <sup class="vn">25</sup>Sina enim mons est in Arabia, qui confinis est ei, quae nunc est Ierusalem, servit enim cum filiis suis. <sup class="vn">26</sup><strong class="s-hi">Illa autem, quae sursum est Ierusalem, libera est, quae est mater nostra</strong>. <sup class="vn">27</sup>Scriptum est enim: Laetare, sterilis, quae non paris, erumpe et exclama, quae non parturis, quia multi filii desertae, magis quam eius, quae habet virum. <sup class="vn">28</sup>Vos autem, fratres, <strong class="s-hi">secundum Isaac promissionis filii estis</strong>. <sup class="vn">29</sup>Sed quomodo tunc is, qui secundum carnem natus fuerat, persequebatur eum, qui secundum spiritum, ita et nunc. <sup class="vn">30</sup>Sed quid dicit Scriptura? Eice ancillam et filium eius; non enim heres erit filius ancillae cum filio liberae. <sup class="vn">31</sup>Itaque, fratres, <strong class="s-hi">non sumus ancillae filii sed liberae</strong>. <sup class="vn">5,1</sup><strong class="s-hi">Hac libertate nos Christus liberavit; state igitur et nolite iterum iugo servitutis contineri</strong>. <sup class="vn">5,2</sup>Ecce ego Paulus dico vobis quoniam si circumcidamini, Christus vobis nihil proderit. <sup class="vn">5,3</sup><strong class="s-hi">Testificor autem rursus omni homini circumcidenti se quoniam debitor est universae legis faciendae</strong>. <sup class="vn">5,4</sup><strong class="s-hi">Evacuati estis a Christo</strong>, qui in lege iustificamini; <strong class="s-hi">a gratia excidistis</strong>. <sup class="vn">5,5</sup>Nos enim Spiritu ex fide spem iustitiae exspectamus. <sup class="vn">5,6</sup>Nam in Christo Iesu neque circumcisio aliquid valet neque praeputium, sed fides, quae per caritatem operatur. <sup class="vn">5,7</sup>Currebatis bene; quis vos impedivit veritati non oboedire? <sup class="vn">5,8</sup>Persuasio haec non est ex eo, qui vocat vos. <sup class="vn">5,9</sup>Modicum fermentum totam massam corrumpit. <sup class="vn">5,10</sup>Ego confido in vobis in Domino, quod nihil aliud sapietis; <strong class="s-hi">qui autem conturbat vos, portabit iudicium, quicumque est ille</strong>. <sup class="vn">5,11</sup>Ego autem, fratres, si circumcisionem adhuc praedico, quid adhuc persecutionem patior? Ergo evacuatum est scandalum crucis. <sup class="vn">5,12</sup><strong class="s-hi">Utinam et abscidantur, qui vos conturbant!</strong>»</blockquote>
                 </div>
-                <h2>Legem Veterem complere</h2>
-                <p>Prophetae novam legem annuntiaverunt quae in corde habitaret. Doctrina Christi revelat quod authentica Legis observantia non reducitur ad actiones externas, sed ad veram dispositionem interiorem.</p>
+                <h2>Ancilla et libera<br>Ad Galatas 4, 24-26</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ad Galatas 4, 24-26</span>
+                    <blockquote>«<sup class="vn">24</sup><strong class="s-hi">Quae sunt per allegoriam dicta: ista enim sunt duo testamenta</strong>, unum quidem a monte Sina <strong class="s-hi">in servitutem generans</strong>, quae est Agar. <sup class="vn">25</sup>Sina enim mons est in Arabia, qui confinis est ei, quae nunc est Ierusalem, servit enim cum filiis suis. <sup class="vn">26</sup><strong class="s-hi">Illa autem, quae sursum est Ierusalem, libera est, quae est mater nostra</strong>.»</blockquote>
+                </div>
+                <p>Paulus id aperte dicit: historia Abrahae est allegoria, et duae mulieres sunt duo Foedera. Agar, ancilla, est Foedus montis Sina. Altera est Ierusalem quae sursum est, caelestis, quae libera est, et ipsa est mater christianorum.</p>
+                <p>Antea servi erant Foederis veteris, legum ritualium, quod populum mores docebat. Sed id per se non sufficiebat. Ideo illud pactum clausum est cum homo in necessitudine sua cum Deo maturuit, et ortum est Novum Foedus, legis moralis, Ierusalem quae sursum est, caeli, quod liberos facit.</p>
+                <h2>Filii liberae<br>Ad Galatas 4, 28-31</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ad Galatas 4, 28-31</span>
+                    <blockquote>«<sup class="vn">28</sup><strong class="s-hi">Vos autem, fratres, secundum Isaac promissionis filii estis</strong>. <sup class="vn">29</sup>Sed quomodo tunc is, qui secundum carnem natus fuerat, persequebatur eum, qui secundum spiritum, ita et nunc. <sup class="vn">30</sup>Sed quid dicit Scriptura? Eice ancillam et filium eius; non enim heres erit filius ancillae cum filio liberae. <sup class="vn">31</sup>Itaque, fratres, <strong class="s-hi">non sumus ancillae filii sed liberae</strong>.»</blockquote>
+                </div>
+                <p>En: christiani non sunt filii ancillae sed liberae. Non sub Foedere vetere sunt sed sub novo, quod alias leges habet.</p>
+                <h2>Non iterum sub iugo<br>Ad Galatas 5, 1-4</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ad Galatas 5, 1-4</span>
+                    <blockquote>«<sup class="vn">1</sup><strong class="s-hi">Hac libertate nos Christus liberavit</strong>; <strong class="s-hi">state igitur et nolite iterum iugo servitutis contineri</strong>. <sup class="vn">2</sup>Ecce ego Paulus dico vobis quoniam si circumcidamini, Christus vobis nihil proderit. <sup class="vn">3</sup><strong class="s-hi">Testificor autem rursus omni homini circumcidenti se quoniam debitor est universae legis faciendae</strong>. <sup class="vn">4</sup><strong class="s-hi">Evacuati estis a Christo</strong>, qui in lege iustificamini; <strong class="s-hi">a gratia excidistis</strong>.»</blockquote>
+                </div>
+                <p>Cur non reditur? Quia Christus liberavit, et ideo Paulus rogat ut stent neque iterum iugo servitutis contineantur. Id est, ne sinant adventistas aliasque sectas venire ad mentiendum et christianos iterum ad leges pacti veteris trahendum, quae iam non valent. Ac ne omnes quidem, quia non circumciduntur: eas tantum sumunt quae sibi conveniunt.</p>
+                <p>Cur iam non valent? Biblia id quoque explicat, et pergit: omnis homo qui se circumcidit debitor est universae Legis faciendae, veteris, totius. Et qui in Lege iustificari volunt evacuati sunt a Christo et a gratia exciderunt. Ad hoc Christus venit: ut hominem ex pacto vetere educeret et ei novum daret.</p>
+                <h2>Quicumque est ille<br>Ad Galatas 5, 10-12</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ad Galatas 5, 10-12</span>
+                    <blockquote>«<sup class="vn">10</sup>Ego confido in vobis in Domino, quod nihil aliud sapietis; <strong class="s-hi">qui autem conturbat vos, portabit iudicium, quicumque est ille</strong>. <sup class="vn">11</sup>Ego autem, fratres, si circumcisionem adhuc praedico, quid adhuc persecutionem patior? Ergo evacuatum est scandalum crucis. <sup class="vn">12</sup><strong class="s-hi">Utinam et abscidantur, qui vos conturbant!</strong>»</blockquote>
+                </div>
+                <p>Qui conturbat eos quos Christus liberavit portabit iudicium, quicumque est ille, et hoc adventistas ceterasque sectas haereticas et apostaticas comprehendit. De seditiosis autem Paulus optat ut abscidantur. Biblia hoc dicit, non haec pagina. Melius eis esset circumcidi, a gratia Christi omnino recedere et se totos Legi veteri alligare, quam tumultuari hominibus mentiendo.</p>
+                <h2>Alius dies<br>Ad Hebraeos 4, 8</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ad Hebraeos 4, 8</span>
+                    <blockquote>«Nam si eis Iesus requiem praestitisset, <strong class="s-hi">non de alio loqueretur posthac die</strong>.»</blockquote>
+                </div>
+                <p>Alius dies, posterior, non idem. Nulla interpretatio verbi alius possibilis est: alius significat non eundem.</p>
+                <p>Adventistae versu sequenti respondent:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ad Hebraeos 4, 9-11</span>
+                    <blockquote>«<sup class="vn">9</sup>Itaque relinquitur sabbatismus populo Dei. <sup class="vn">10</sup><strong class="s-hi">Qui enim ingressus est in requiem eius, etiam ipse requievit ab operibus suis</strong>, sicut a suis Deus. <sup class="vn">11</sup><strong class="s-hi">Festinemus ergo ingredi in illam requiem</strong>, ut ne in idipsum quis incidat incredulitatis exemplum.»</blockquote>
+                </div>
+                <p>Versus 10 et 11 dicunt de qua requie agatur. Est requies Dei, in quam intratur ut ab operibus propriis requiescatur sicut Deus a suis, et auctor hortatur ut festinemus in eam ingredi. Nemo festinat in sabbatum ingredi: sua sponte venit, septimo quoque die. Requies de qua epistula ad Hebraeos loquitur est vita aeterna, quam sabbatum ut figura nuntiabat.</p>
+                <h2>Prima sabbatorum<br>Ioannes 20, 1</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ioannes 20, 1</span>
+                    <blockquote>«<strong class="s-hi">Prima autem sabbatorum</strong> Maria Magdalene venit mane, cum adhuc tenebrae essent, ad monumentum et videt lapidem sublatum a monumento.»</blockquote>
+                </div>
+                <p>Primus dies hebdomadis, qui sabbatum sequitur, est dominica: Dominica Resurrectionis.</p>
+                <h2>Eadem dominica<br>Ioannes 20, 19</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ioannes 20, 19</span>
+                    <blockquote>«<strong class="s-hi">Cum ergo sero esset die illa prima sabbatorum</strong>, et fores essent clausae, ubi erant discipuli, propter metum Iudaeorum, venit Iesus et stetit in medio et dicit eis: “<strong class="s-hi">Pax vobis!</strong>”»</blockquote>
+                </div>
+                <p>Eadem dominica discipuli foribus clausis propter metum Iudaeorum congregati erant. Iesus stat in medio eorum et dicit eis «Pax vobis!». Non eos obiurgat: probat. Si quid mali facerent, id eis diceret.</p>
+                <h2>Post dies octo, iterum dominica<br>Ioannes 20, 26</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ioannes 20, 26</span>
+                    <blockquote>«Et <strong class="s-hi">post dies octo iterum erant intus discipuli eius</strong>, et Thomas cum eis. Venit Iesus ianuis clausis et stetit in medio et dixit: “<strong class="s-hi">Pax vobis!</strong>”»</blockquote>
+                </div>
+                <p>Post dies octo, ab illo die numerando, est dominica sequens. Discipuli iterum congregati sunt, et Iesus eos eadem salutatione iterum probat: «Pax vobis!».</p>
+                <h2>Dominica, ad frangendum panem<br>Actus 20, 7</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Actus 20, 7</span>
+                    <blockquote>«<strong class="s-hi">In una autem sabbatorum, cum convenissemus ad frangendum panem</strong>, Paulus disputabat eis, profecturus in crastinum, protraxitque sermonem usque in mediam noctem.»</blockquote>
+                </div>
+                <p>Est conventus cultus, fractio panis (vide thema <a href="tema-la-eucaristia.html">Eucharistia</a>), primo die hebdomadis, iam inde a primis christianis. Accidit circa annum 57, plus quam duo saecula cum dimidio ante legem Constantini de dominica, quae anni 321 est. Nullum argumentum est ad dicendum omnes errasse. Si erraverunt, Paulus cum eis erravit.</p>
+                <h2>Dies statutus collectae<br>1 ad Corinthios 16, 2</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 ad Corinthios 16, 2</span>
+                    <blockquote>«<strong class="s-hi">Per primam sabbati</strong> unusquisque vestrum apud se ponat recondens, quod ei beneplacuerit, ut non, quando venero, tunc collectae fiant.»</blockquote>
+                </div>
+                <p>Primus dies hebdomadis: dominica, iterum.</p>
+                <h2>Dies Domini<br>Apocalypsis 1, 10</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Apocalypsis 1, 10</span>
+                    <blockquote>«Fui in Spiritu <strong class="s-hi">in dominica die</strong> et audivi post me vocem magnam tamquam tubae.»</blockquote>
+                </div>
+                <p>Dies dominica. Sic vertunt Bibliae catholicae et etiam protestanticae, et quaedam versiones catholicae simpliciter «dominica» ponunt. Inde nomen venit: <em>dies dominica</em>, dies Domini, unde dominica in linguis romanicis vocatur.</p>
+                <h2>Dominus sabbati<br>Marcus 2, 23-28</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Marcus 2, 23-28</span>
+                    <blockquote>«<sup class="vn">23</sup>Et factum est, cum ipse sabbatis ambularet per sata, discipuli eius coeperunt praegredi vellentes spicas. <sup class="vn">24</sup>Pharisaei autem dicebant ei: “Ecce, quid faciunt sabbatis, quod non licet?” <sup class="vn">25</sup>Et ait illis: “Numquam legistis quid fecerit David, quando necessitatem habuit et esuriit ipse et qui cum eo erant? <sup class="vn">26</sup>Quomodo introivit in domum Dei sub Abiathar principe sacerdotum et panes propositionis manducavit, quos non licet manducare nisi sacerdotibus, et dedit etiam eis, qui cum eo erant?” <sup class="vn">27</sup>Et dicebat eis: “<strong class="s-hi">Sabbatum propter hominem factum est, et non homo propter sabbatum</strong>; <sup class="vn">28</sup>itaque <strong class="s-hi">dominus est Filius hominis etiam sabbati</strong>.”»</blockquote>
+                </div>
+                <p>Sabbatum propter hominem factum est, et non homo propter sabbatum, et Filius hominis dominus est etiam sabbati. Iesus de sabbato facit quod vult, etiam illud mutare.</p>
+                <h2>Eum propter sabbatum interficere volebant<br>Ioannes 5, 18</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ioannes 5, 18</span>
+                    <blockquote>«Propterea ergo magis quaerebant eum Iudaei interficere, quia non solum <strong class="s-hi">solvebat sabbatum</strong>, sed et Patrem suum dicebat Deum, aequalem se faciens Deo.»</blockquote>
+                </div>
+                <p>Ioannes id aperte dicit: Christus solvebat sabbatum, et ideo eum interficere quaerebant.</p>
+                <h2>Consummatum est<br>Ioannes 19, 30</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ioannes 19, 30</span>
+                    <blockquote>«Cum ergo accepisset acetum, Iesus dixit: “<strong class="s-hi">Consummatum est!</strong>” Et inclinato capite tradidit spiritum.»</blockquote>
+                </div>
+                <p>Est finis Foederis veteris. Christus illud implevit, sabbato in sepulcro requievit et dominica resurrexit.</p>
+                <p>Contra hoc adventistae Sermonem in monte afferunt:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matthaeus 5, 17-18</span>
+                    <blockquote>«<sup class="vn">17</sup>Nolite putare quoniam veni solvere Legem aut Prophetas; <strong class="s-hi">non veni solvere, sed adimplere</strong>. <sup class="vn">18</sup>Amen quippe dico vobis: Donec transeat caelum et terra, iota unum aut unus apex non praeteribit a Lege, <strong class="s-hi">donec omnia fiant</strong>.»</blockquote>
+                </div>
+                <p>Textus terminum ponit. Christus non venit Legem solvere sed adimplere, et Lex valet donec omnia fiant. In cruce dixit omnia consummata esse. Quod impletur non abrogatur: ad finem suum pervenit, quia id attigit propter quod erat.</p>
+                <h2>Mortui Legi<br>Ad Romanos 7, 1-6</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ad Romanos 7, 1-6</span>
+                    <blockquote>«<sup class="vn">1</sup>An ignoratis, fratres, <strong class="s-hi">scientibus enim legem loquor</strong>, quia lex in homine dominatur, quanto tempore vivit? <sup class="vn">2</sup>Nam quae sub viro est mulier, viventi viro alligata est lege; si autem mortuus fuerit vir, soluta est a lege viri. <sup class="vn">3</sup>Igitur, vivente viro, adultera vocabitur, si fuerit cum alio viro; si autem mortuus fuerit vir, libera est a lege, ut non sit adultera, si fuerit cum alio viro. <sup class="vn">4</sup>Itaque, fratres mei, <strong class="s-hi">et vos mortificati estis legi per corpus Christi, ut sitis alterius</strong>, eius qui ex mortuis resurrexit, ut fructificemus Deo. <sup class="vn">5</sup>Cum enim essemus in carne, <strong class="s-hi">passiones peccatorum, quae per legem erant, operabantur in membris nostris, ut fructificarent morti</strong>; <sup class="vn">6</sup>nunc autem <strong class="s-hi">soluti sumus a lege, morientes in quo detinebamur</strong>, ita ut serviamus <strong class="s-hi">in novitate Spiritus et non in vetustate litterae</strong>.»</blockquote>
+                </div>
+                <p>Paulus scientibus legem loquitur et similitudine matrimonii utitur. Mulier viro alligata est dum vivit; cum ille moritur, libera est et alii viro nubere potest quin adultera sit. Idem de Lege: per mortem Christi christiani mortificati sunt Legi et alterius facti sunt, eius qui resurrexit. Lex quae eos detinebat iam non ligat, et Deo serviunt in novitate Spiritus, non in vetustate litterae.</p>
+                <p>Mortua Lege, nunc Novum Foedus valet.</p>
+                <h2>Non in tabulis lapideis<br>2 ad Corinthios 3, 3-16</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 2 ad Corinthios 3, 3-16</span>
+                    <blockquote>«<sup class="vn">3</sup>Manifestati quoniam epistula estis Christi ministrata a nobis, scripta non atramento sed Spiritu Dei vivi, <strong class="s-hi">non in tabulis lapideis sed in tabulis cordis carnalibus</strong>. <sup class="vn">4</sup>Fiduciam autem talem habemus per Christum ad Deum, <sup class="vn">5</sup>non quod sufficientes simus cogitare aliquid a nobis quasi ex nobis, sed sufficientia nostra ex Deo est, <sup class="vn">6</sup>qui et idoneos nos fecit ministros novi testamenti, non litterae sed Spiritus: <strong class="s-hi">littera enim occidit, Spiritus autem vivificat</strong>. <sup class="vn">7</sup>Quod si ministratio mortis litteris deformata in lapidibus fuit in gloria, ita ut non possent intendere filii Israel in faciem Moysis propter gloriam vultus eius, <strong class="s-hi">quae evacuatur,</strong> <sup class="vn">8</sup>quomodo non magis ministratio Spiritus erit in gloria? <sup class="vn">9</sup>Nam si ministerium damnationis gloria est, multo magis abundat ministerium iustitiae in gloria. <sup class="vn">10</sup>Nam <strong class="s-hi">nec glorificatum est, quod claruit in hac parte</strong>, propter excellentem gloriam; <sup class="vn">11</sup>si enim, quod evacuatur, per gloriam est, multo magis, quod manet, in gloria est. <sup class="vn">12</sup>Habentes igitur talem spem multa fiducia utimur <sup class="vn">13</sup>et non sicut Moyses <strong class="s-hi">ponebat velamen super faciem suam, ut non intenderent filii Israel in finem illius, quod evacuatur</strong>. <sup class="vn">14</sup>Sed <strong class="s-hi">obtusi sunt sensus eorum</strong>. Usque in hodiernum enim diem idipsum velamen in lectione veteris testamenti manet non revelatum, quoniam in Christo evacuatur; <sup class="vn">15</sup>sed <strong class="s-hi">usque in hodiernum diem, cum legitur Moyses, velamen positum est super cor eorum</strong>; <sup class="vn">16</sup><strong class="s-hi">quando autem conversus fuerit ad Dominum, auferetur velamen</strong>.»</blockquote>
+                </div>
+                <p>Non in tabulis lapideis sed in corde. Littera occidit, Spiritus autem vivificat. Gloria evacuabatur, et quod gloriosum fuit iam non est. Hoc est verbum Dei. Non id dixit papa neque episcopus, nemo id finxit, neque ex pastore aliquo exiit qui quadam die surrexit et aliquid interpretatus est.</p>
+                <p>Moyses velamen super faciem suam ponebat ne filii Israel in finem eius quod evacuabatur intenderent, et obtusi sunt sensus eorum usque in hodiernum diem, sicut adventistarum aliarumque sectarum. Usque in hodiernum diem, cum legitur Moyses, velamen super cor eorum positum est, et aufertur tantum cum ad Dominum convertuntur, id est cum catholici fiunt.</p>
+                <p>Quod ergo refert non sunt tabulae lapideae sed cor: lex moralis, non caeremonialis. Praecepta moralia non evanescunt, quia Christus ea resumit, ut in Matthaeo 5 videtur. Quod transiit est lex caeremonialis, et cum ea praeceptum sabbati, cui christianis dominica successit (Catechismus Catholicae Ecclesiae, 2175).</p>
+                <h2>Nemo vos iudicet<br>Ad Colossenses 2, 16-17</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ad Colossenses 2, 16-17</span>
+                    <blockquote>«<sup class="vn">16</sup><strong class="s-hi">Nemo ergo vos iudicet in cibo aut in potu aut ex parte diei festi aut neomeniae aut sabbatorum</strong>, <sup class="vn">17</sup>quae sunt umbra futurorum, corpus autem Christi.»</blockquote>
+                </div>
+                <p>Nemo iudicet catholicos qui dominicam sanctificant. Id faciunt protestantes, hoc in casu adventistae: iudicant Scripturam non cognoscentes.</p>
+                <h2>«Christus imitandus est»<br>Lucas 2, 21</h2>
+                <p>Contra haec omnia hae sectae quaedam argumenta habent. Primum: <em>«Iesus sabbatum servabat, et christianus Christum imitari debet.»</em></p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Lucas 2, 21</span>
+                    <blockquote>«Et postquam consummati sunt dies octo, <strong class="s-hi">ut circumcideretur</strong>, vocatum est nomen eius Iesus, quod vocatum est ab angelo, priusquam in utero conciperetur.»</blockquote>
+                </div>
+                <p>Si imitandus est, Lucas narrat eum post dies octo circumcisum esse. Cur ipsi non circumciduntur? Quia imitantur quod sibi convenit. Circumcisio, sicut sabbatum, ad pactum vetus pertinet.</p>
+                <h2>«Si diligitis me, mandata mea servate»<br>Ioannes 14, 15-26</h2>
+                <p>Alterum ex Ioanne 14 sumunt: <em>«Si diligitis me, mandata mea servate. Mandata autem sunt decem, sabbato comprehenso.»</em> Locus aliud dicit:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ioannes 14, 15-26</span>
+                    <blockquote>«<sup class="vn">15</sup><strong class="s-hi">Si diligitis me, mandata mea servabitis</strong>; <sup class="vn">16</sup>et ego rogabo Patrem, et alium Paraclitum dabit vobis, ut maneat vobiscum in aeternum, <sup class="vn">17</sup>Spiritum veritatis, quem mundus non potest accipere, quia non videt eum nec cognoscit. Vos cognoscitis eum, quia apud vos manet et in vobis erit. <sup class="vn">18</sup>Non relinquam vos orphanos, venio ad vos. <sup class="vn">19</sup>Adhuc modicum, et mundus me iam non videt; vos autem videtis me, quia ego vivo et vos vivetis. <sup class="vn">20</sup>In illo die vos cognoscetis quia ego sum in Patre meo, et vos in me, et ego in vobis. <sup class="vn">21</sup><strong class="s-hi">Qui habet mandata mea et servat ea, ille est, qui diligit me</strong>; qui autem diligit me, diligetur a Patre meo, et ego diligam eum et manifestabo ei meipsum. <sup class="vn">22</sup>Dicit ei Iudas, non ille Iscariotes: “Domine, et quid factum est, quia nobis manifestaturus es teipsum et non mundo?” <sup class="vn">23</sup>Respondit Iesus et dixit ei: “<strong class="s-hi">Si quis diligit me, sermonem meum servabit</strong>, et Pater meus diliget eum, et ad eum veniemus et mansionem apud eum faciemus. <sup class="vn">24</sup>Qui non diligit me, sermones meos non servat; et sermo, quem auditis, non est meus, sed eius qui misit me, Patris. <sup class="vn">25</sup>Haec locutus sum vobis apud vos manens. <sup class="vn">26</sup>Paraclitus autem, Spiritus Sanctus, quem mittet Pater in nomine meo, <strong class="s-hi">ille vos docebit omnia et suggeret vobis omnia, quae dixi vobis</strong>.”»</blockquote>
+                </div>
+                <p>Christus non dicit «mandata Moysis»: dicit mandata mea. Non vetera, sua propria. Ad ea redit in versibus 21 et 23, et in versu 26 Spiritum Sanctum promittit, qui eos omnia docebit et eis suggeret omnia quae ipse dixit.</p>
+                <h2>Mandatum novum<br>Ioannes 13, 34-35</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ioannes 13, 34-35</span>
+                    <blockquote>«<sup class="vn">34</sup><strong class="s-hi">Mandatum novum do vobis</strong>, ut diligatis invicem; sicut dilexi vos, ut et vos diligatis invicem. <sup class="vn">35</sup><strong class="s-hi">In hoc cognoscent omnes quia mei discipuli estis</strong>, si dilectionem habueritis ad invicem.»</blockquote>
+                </div>
+                <p>Veri christiani, non haeretici apostatae, cognoscuntur eo quod mandata Christi sequuntur.</p>
+                <h2>Usque ad consummationem saeculi<br>Matthaeus 28, 19-20</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matthaeus 28, 19-20</span>
+                    <blockquote>«<sup class="vn">19</sup>Euntes ergo docete omnes gentes, baptizantes eos in nomine Patris et Filii et Spiritus Sancti, <sup class="vn">20</sup><strong class="s-hi">docentes eos servare omnia, quaecumque mandavi vobis</strong>. Et ecce ego vobiscum sum omnibus diebus <strong class="s-hi">usque ad consummationem saeculi</strong>.»</blockquote>
+                </div>
+                <p>Iesus id praecipit usque ad consummationem saeculi. Non semel, neque bis, neque solum initio. Usque ad finem.</p>
+                <p>Et hic alia doctrina protestantica cadit, quae dicit satis esse credere nec opera valere. Si quis verbo Christi credit, non tantum in eum, et facit quod dicit, res mutatur. Opera sunt, et fides in usum deducitur.</p>
+                <h2>Signum quod eum cognovimus<br>1 Ioannis 2, 3</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Ioannis 2, 3</span>
+                    <blockquote>«Et in hoc scimus quoniam cognovimus eum: <strong class="s-hi">si mandata eius observemus</strong>.»</blockquote>
+                </div>
+                <p>Mandata Iesu. Quod Christus dat accipitur verbum eius implendo, sicut in Cana, ubi soli ministri qui fecerant quod ipse iusserat sciverunt quid accidisset (vide thema <a href="tema-transubstanciacion.html">Transsubstantiatio</a>).</p>
+                <h2>«Ego autem dico vobis»<br>Matthaeus 5, 20-28</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matthaeus 5, 20-28</span>
+                    <blockquote>«<sup class="vn">20</sup>Dico enim vobis: Nisi abundaverit iustitia vestra plus quam scribarum et pharisaeorum, non intrabitis in regnum caelorum. <sup class="vn">21</sup>Audistis quia dictum est antiquis: <strong class="s-hi">Non occides</strong>; qui autem occiderit, reus erit iudicio. <sup class="vn">22</sup><strong class="s-hi">Ego autem dico vobis</strong>: Omnis, qui irascitur fratri suo, reus erit iudicio; qui autem dixerit fratri suo: “Racha”, reus erit concilio; qui autem dixerit: “Fatue”, reus erit gehennae ignis. <sup class="vn">23</sup>Si ergo offeres munus tuum ad altare, et ibi recordatus fueris quia frater tuus habet aliquid adversum te, <sup class="vn">24</sup>relinque ibi munus tuum ante altare et vade, prius reconciliari fratri tuo et tunc veniens offer munus tuum. <sup class="vn">25</sup>Esto consentiens adversario tuo cito, dum es in via cum eo, ne forte tradat te adversarius iudici, et iudex tradat te ministro, et in carcerem mittaris. <sup class="vn">26</sup>Amen dico tibi: Non exies inde, donec reddas novissimum quadrantem. <sup class="vn">27</sup>Audistis quia dictum est: <strong class="s-hi">Non moechaberis</strong>. <sup class="vn">28</sup><strong class="s-hi">Ego autem dico vobis</strong>: Omnis, qui viderit mulierem ad concupiscendum eam, iam moechatus est eam in corde suo.»</blockquote>
+                </div>
+                <p>Summatim, Iesus mandata vetera resumit, et ideo in catechesi docentur. Quaedam relinquit ut erant, alia mutat, sicut illud de adulterio, quod ad cogitationem extendit. De sabbato nihil dicit.</p>
+                <h2>«Cur non facitis quae dico?»<br>Lucas 6, 46</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Lucas 6, 46</span>
+                    <blockquote>«Quid autem vocatis me: “Domine, Domine”, <strong class="s-hi">et non facitis, quae dico?</strong>»</blockquote>
+                </div>
+                <p>Si tantopere volunt facere quod praeceptum est, cur non faciunt quod Christus praecipit? Quia non credunt. Si crederent, non disputarent.</p>
+                <h2>Quod Deus non sustinet<br>Isaias 1, 13</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Isaias 1, 13</span>
+                    <blockquote>«Ne afferatis ultra oblationem frustra; incensum abominatio est mihi. <strong class="s-hi">Neomeniam et sabbatum et convocationes</strong>: <strong class="s-hi">non possum iniquitatem et sollemnitatem</strong>.»</blockquote>
+                </div>
+                <p>Dominus per os Isaiae dicit: neomenia, sabbatum et convocationes ei intolerabilia sunt.</p>
                 <ul>
-                    <li>Nova lex nos vocat esse sal terrae et lux mundi.</li>
-                    <li>Venia et misericordia sunt eius expressio verissima.</li>
-                    <li>Legem Christi vivimus nos tradendo propter amorem.</li>
+                    <li>Duae mulieres Abrahae sunt duo Foedera: Sinaiticum servos generat, Ierusalem autem quae sursum est libera est et mater christianorum.</li>
+                    <li>Qui se circumcidit universae Legi debitor est, et qui in Lege iustificari vult evacuatur a Christo.</li>
+                    <li>Christus dominica resurrexit, duabus dominicis continuis discipulis congregatis apparuit eosque probavit.</li>
+                    <li>Apostoli primo die hebdomadis panem frangebant, saeculis ante Constantinum, et Apocalypsis eum diem dominicam appellat.</li>
+                    <li>Christus dominus est sabbati, et in cruce dixit consummatum esse.</li>
+                    <li>Lex in lapide deformata evacuabatur; Novum Foedus in corde scriptum est.</li>
+                    <li>Mandata christiani sunt Christi, qui vetera resumit et de sabbato nihil dicit.</li>
                 </ul>
-                <h2>Praxis christiana</h2>
-                <p>Nova lex fit vita concreta quando humilitatem, iustitiam et compassionem colimus. Eucharistia et oratio nos adiuvant eam cotidie vivere.</p>`,
+                <h2>Conclusio</h2>
+                <p>Foedus Sinaiticum finem habuit cum Christus illud in cruce implevit. Christiani non sunt filii ancillae sed liberae, et qui se iterum sub Lege ponit evacuatur a Christo. Apostoli dominica convenerunt inde a die resurrectionis, primo die hebdomadis panem fregerunt eumque diem Domini appellaverunt. Ecclesia diem non mutavit. Ab eis accepit.</p>
+                <p>Ideo verbum Pauli ad Colossenses adhuc valet pro unoquoque catholico qui dominicam sanctificat:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ad Colossenses 2, 16</span>
+                    <blockquote>«<strong class="s-hi">Nemo ergo vos iudicet</strong> in cibo aut in potu aut ex parte diei festi aut neomeniae aut sabbatorum,»</blockquote>
+                </div>`,
       nav: {
         prevTitle: "Purgatorium et misericordia Dei",
         nextTitle: "Sanctissima Trinitas"

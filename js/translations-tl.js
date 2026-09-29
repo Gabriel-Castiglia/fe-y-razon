@@ -82,10 +82,10 @@ const translationsTL = {
   },
   article8: {
     category: "Doktrina",
-    date: "Paparating na",
+    date: "Setyembre 2026",
     title: "Ang Bagong Kautusan",
-    excerpt: "Ang kautusan ni Kristo na pumapalit sa Lumang Kautusan at gumagabay sa mga Kristiyano.",
-    time: "8 minuto",
+    excerpt: "Nagwakas sa krus ang Tipan ng Sinai, at nagtitipon ang mga apostol tuwing Linggo: ang sinasabi ng Kasulatan tungkol sa lumang Kautusan at sa bago.",
+    time: "23 minuto",
     link: "Basahin →"
   },
   article9: {
@@ -301,28 +301,209 @@ const translationsTL = {
                 <span class="eyebrow-text">Espesyal na Paksa</span>
             </div>
             <h1>Ang Bagong Kautusan kay Kristo</h1>
-            <p>Unawain kung paano nilampasan at tinupad ng kautusan ni Kristo ang Lumang Kautusan, na nagaanyaya sa atin na mamuhay sa pagmamahal at kalayaan ng mga anak ng Diyos.</p>
+            <p>Nagwakas sa krus ang Tipan ng Sinai, at nagtitipon ang mga apostol tuwing Linggo mula pa sa araw ng muling pagkabuhay. Ang sinasabi ng Kasulatan tungkol sa lumang Kautusan at sa bago, talata por talata.</p>
             <div class="article-meta">
-                <span>8 minutong pagbabasa</span>
-                <span>Nailathala Mayo 2026</span>
+                <span>23 minutong pagbabasa</span>
+                <span>Nailathala Setyembre 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
-      article: `<p>Ang bagong kautusan ay ang kautusan ng Ebanghelyo, nakasentro sa utos ng pagmamahal. Hindi inalis ni Kristo ang Lumang Kautusan, kundi dinala Niya ito sa katuparan at ginawa itong naa-abot ng puso ng tao.</p>
-                <h2>Pagmamahal bilang pamantayan</h2>
-                <p>Ibinubuod ni Hesus ang Kautusan sa pagmamahal sa Diyos at sa kapwa. Ang bagong tuntunin na ito ay hindi pabigat, kundi malalim na kalayaang nagbabago ng ating mga gawa mula sa loob.</p>
+      article: `<!--
+Traducción de la-nueva-ley desde el español (29-sep-2026). Citas según la
+traducción católica usual de este idioma, escritas de memoria: sin cotejar.
+-->
+<p>Ilang sektang Protestante ang nanghahawak sa erehiyang ang Kristiyano ay nakatali pa rin sa Kautusan ni Moises, o kahit man lang sa bahaging pinipili ng bawat isa sa kanila. Ang pinakamalayo ang dinadala sa kamalian ay ang mga Seventh-day Adventist: nangingilin sila ng Sabbath, umiiwas sa mga pagkaing idineklarang marumi ng Kautusan, at pinararatangan ang Simbahan na binago nito ang araw ng Diyos. Ganito nila ito sinasabi: <em>«Ang Sabbath ang araw na itinalaga ng Diyos magpakailanman. Ang Linggo ay ipinataw ng Roma, at ang nangingilin nito ay sumusunod sa papa at hindi sa Diyos.»</em></p>
+                <p>Nasa Kasulatan ang sagot. Isinulat ito ni Pablo para sa mga Kristiyanong malapit nang gawin ang ginagawa ngayon ng mga Adventist: bumalik sa Kautusan matapos tanggapin si Cristo. Ito ang sulat sa mga taga-Galacia, at binabasa muna nang buo ang talata, kasama ang mga bilang ng bersikulo, bago suriin nang bahagi-bahagi.</p>
+                <h2>Dalawang babae, dalawang Tipan<br>Mga Taga-Galacia 4:21 — 5:12</h2>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝︎ Mateo 22:37-38</span>
-                    <blockquote>«<strong class="s-hi">Mahalin mo ang Panginoon mong Diyos nang buong puso mo at ang iyong kapwa gaya ng iyong sarili</strong>»</blockquote>
+                    <span class="scripture-ref">✝︎ Mga Taga-Galacia 4:21 — 5:12</span>
+                    <blockquote>«<sup class="vn">21</sup>Sabihin nga ninyo sa akin, kayong nagnanais na mapasailalim sa Kautusan: hindi ba ninyo naririnig ang sinasabi ng Kautusan? <sup class="vn">22</sup>Sapagkat nasusulat na si Abraham ay nagkaroon ng dalawang anak na lalaki, isa sa aliping babae at isa sa babaing malaya. <sup class="vn">23</sup>Ang anak sa aliping babae ay ipinanganak ayon sa laman, ngunit ang anak sa babaing malaya ay ipinanganak bilang katuparan ng pangako. <sup class="vn">24</sup><strong class="s-hi">Ito ay isang talinghaga: ang dalawang babae ay kumakatawan sa dalawang tipan</strong>. <strong class="s-hi">Ang isa ay mula sa bundok ng Sinai at nagsisilang ng mga alipin</strong>; ito si Agar. <sup class="vn">25</sup>Si Agar ay ang bundok ng Sinai sa Arabia at tumutukoy sa Jerusalem ngayon, sapagkat siya at ang kanyang mga anak ay nasa pagkaalipin. <sup class="vn">26</sup><strong class="s-hi">Ngunit ang Jerusalem sa itaas ay malaya, at siya ang ating ina</strong>. <sup class="vn">27</sup>Sapagkat nasusulat: Magalak ka, ikaw na baog na hindi nanganganak; sumigaw ka sa tuwa, ikaw na hindi nakaranas ng hirap sa panganganak; sapagkat mas marami ang mga anak ng babaing pinabayaan kaysa sa babaing may asawa. <sup class="vn">28</sup>Kayo, mga kapatid, ay <strong class="s-hi">mga anak ng pangako, tulad ni Isaac</strong>. <sup class="vn">29</sup>Ngunit kung paanong noon ay inuusig ng ipinanganak ayon sa laman ang ipinanganak ayon sa Espiritu, gayundin ngayon. <sup class="vn">30</sup>Ngunit ano ang sinasabi ng Kasulatan? Palayasin mo ang aliping babae at ang kanyang anak, sapagkat ang anak ng aliping babae ay hindi magiging tagapagmana kasama ng anak ng babaing malaya. <sup class="vn">31</sup>Kaya nga, mga kapatid, <strong class="s-hi">hindi tayo mga anak ng aliping babae kundi ng babaing malaya</strong>. <sup class="vn">5:1</sup><strong class="s-hi">Pinalaya tayo ni Cristo upang tayo ay maging malaya. Kaya magpakatatag kayo at huwag nang pasakop muli sa pamatok ng pagkaalipin</strong>. <sup class="vn">5:2</sup>Makinig kayo! Akong si Pablo ang nagsasabi sa inyo: kung magpapatuli kayo, wala nang kabuluhan si Cristo para sa inyo. <sup class="vn">5:3</sup><strong class="s-hi">Muli kong pinatotohanan sa bawat taong nagpapatuli na siya ay obligadong tumupad sa buong Kautusan</strong>. <sup class="vn">5:4</sup>Kayong naghahangad na maging matuwid sa pamamagitan ng Kautusan ay <strong class="s-hi">nahiwalay na kay Cristo</strong>; <strong class="s-hi">nawalan na kayo ng biyaya</strong>. <sup class="vn">5:5</sup>Ngunit tayo, sa pamamagitan ng Espiritu at dahil sa pananampalataya, ay naghihintay sa pag-asang maging matuwid. <sup class="vn">5:6</sup>Sapagkat kay Cristo Jesus, walang halaga ang pagiging tuli o di-tuli, kundi ang pananampalatayang gumagawa sa pamamagitan ng pag-ibig. <sup class="vn">5:7</sup>Mahusay ang inyong pagtakbo; sino ang humadlang sa inyo upang hindi na kayo sumunod sa katotohanan? <sup class="vn">5:8</sup>Ang panghihikayat na iyan ay hindi galing sa tumatawag sa inyo. <sup class="vn">5:9</sup>Ang kaunting lebadura ay nagpapaalsa sa buong masa. <sup class="vn">5:10</sup>Nagtitiwala ako sa Panginoon na hindi kayo mag-iisip ng iba; ngunit <strong class="s-hi">ang gumugulo sa inyo ay parurusahan, sinuman siya</strong>. <sup class="vn">5:11</sup>Mga kapatid, kung nangangaral pa ako ng pagtutuli, bakit inuusig pa rin ako? Kung gayon, nawala na sana ang katitisuran ng krus. <sup class="vn">5:12</sup><strong class="s-hi">Mabuti pang tuluyan nang kapunin ang kanilang sarili ng mga nanggugulo sa inyo!</strong>»</blockquote>
                 </div>
-                <h2>Pagkumpleto ng Lumang Kautusan</h2>
-                <p>Inihula ng mga propeta ang isang bagong kautusan na mabubuhay sa puso. Ipinahayag ng turo ni Kristo na ang tunay na pagsunod sa Kautusan ay hindi limitado sa mga panlabas na kilos, kundi sa tunay na panloob na disposisyon.</p>
+                <h2>Ang alipin at ang malaya<br>Mga Taga-Galacia 4:24-26</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mga Taga-Galacia 4:24-26</span>
+                    <blockquote>«<sup class="vn">24</sup><strong class="s-hi">Ito ay isang talinghaga: ang dalawang babae ay kumakatawan sa dalawang tipan</strong>. Ang isa ay mula sa bundok ng Sinai at <strong class="s-hi">nagsisilang ng mga alipin</strong>; ito si Agar. <sup class="vn">25</sup>Si Agar ay ang bundok ng Sinai sa Arabia at tumutukoy sa Jerusalem ngayon, sapagkat siya at ang kanyang mga anak ay nasa pagkaalipin. <sup class="vn">26</sup><strong class="s-hi">Ngunit ang Jerusalem sa itaas ay malaya, at siya ang ating ina</strong>.»</blockquote>
+                </div>
+                <p>Tahasang sinasabi ito ni Pablo: talinghaga ang kuwento ni Abraham, at ang dalawang babae ay ang dalawang Tipan. Si Agar, ang alipin, ay ang Tipan ng bundok ng Sinai. Ang isa pa ay ang Jerusalem sa itaas, ang makalangit, na malaya, at siya ang ina ng mga Kristiyano.</p>
+                <p>Dati ay alipin sila ng lumang Tipan, ang tipan ng mga batas ng ritwal, na nagsilbing pagtuturo ng mga kaugalian sa isang bayan. Ngunit hindi iyon sapat sa ganang sarili. Kaya isinara ang tipang iyon nang tumanda ang tao sa kanyang ugnayan sa Diyos, at sumibol ang Bagong Tipan, ang tipan ng batas moral, ng Jerusalem sa itaas, ng langit, na nagpapalaya.</p>
+                <h2>Mga anak ng malaya<br>Mga Taga-Galacia 4:28-31</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mga Taga-Galacia 4:28-31</span>
+                    <blockquote>«<sup class="vn">28</sup><strong class="s-hi">Kayo, mga kapatid, ay mga anak ng pangako, tulad ni Isaac</strong>. <sup class="vn">29</sup>Ngunit kung paanong noon ay inuusig ng ipinanganak ayon sa laman ang ipinanganak ayon sa Espiritu, gayundin ngayon. <sup class="vn">30</sup>Ngunit ano ang sinasabi ng Kasulatan? Palayasin mo ang aliping babae at ang kanyang anak, sapagkat ang anak ng aliping babae ay hindi magiging tagapagmana kasama ng anak ng babaing malaya. <sup class="vn">31</sup>Kaya nga, mga kapatid, <strong class="s-hi">hindi tayo mga anak ng aliping babae kundi ng babaing malaya</strong>.»</blockquote>
+                </div>
+                <p>Ayan: ang mga Kristiyano ay hindi mga anak ng alipin kundi ng malaya. Wala sila sa ilalim ng lumang Tipan kundi ng bago, na may ibang mga batas.</p>
+                <h2>Hindi na babalik sa pamatok<br>Mga Taga-Galacia 5:1-4</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mga Taga-Galacia 5:1-4</span>
+                    <blockquote>«<sup class="vn">1</sup><strong class="s-hi">Pinalaya tayo ni Cristo upang tayo ay maging malaya</strong>. Kaya <strong class="s-hi">magpakatatag kayo at huwag nang pasakop muli sa pamatok ng pagkaalipin</strong>. <sup class="vn">2</sup>Makinig kayo! Akong si Pablo ang nagsasabi sa inyo: kung magpapatuli kayo, wala nang kabuluhan si Cristo para sa inyo. <sup class="vn">3</sup><strong class="s-hi">Muli kong pinatotohanan sa bawat taong nagpapatuli na siya ay obligadong tumupad sa buong Kautusan</strong>. <sup class="vn">4</sup>Kayong naghahangad na maging matuwid sa pamamagitan ng Kautusan ay <strong class="s-hi">nahiwalay na kay Cristo</strong>; <strong class="s-hi">nawalan na kayo ng biyaya</strong>.»</blockquote>
+                </div>
+                <p>Bakit hindi na bumabalik? Dahil pinalaya tayo ni Cristo, at kaya hinihiling ni Pablo na magpakatatag at huwag nang pasakop muli sa pamatok ng pagkaalipin. Ibig sabihin, huwag hayaang dumating ang mga Adventist at iba pang sekta upang magsinungaling at hilahin muli ang mga Kristiyano sa mga batas ng lumang tipan na wala nang bisa. At hindi pa nga lahat, dahil hindi sila nagpapatuli: kinukuha lamang nila ang mga naaayon sa kanila.</p>
+                <p>Bakit wala nang bisa? Ipinaliliwanag din ito ng Biblia, at nagpapatuloy: ang bawat nagpapatuli ay obligadong tumupad sa buong Kautusan, ang luma, nang buo. At ang naghahangad na maging matuwid sa pamamagitan ng Kautusan ay nahiwalay na kay Cristo at nawalan ng biyaya. Ito ang dahilan ng pagparito ni Cristo: upang ilabas ang tao sa lumang tipan at ibigay sa kanya ang bago.</p>
+                <h2>Sinuman siya<br>Mga Taga-Galacia 5:10-12</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mga Taga-Galacia 5:10-12</span>
+                    <blockquote>«<sup class="vn">10</sup>Nagtitiwala ako sa Panginoon na hindi kayo mag-iisip ng iba; ngunit <strong class="s-hi">ang gumugulo sa inyo ay parurusahan, sinuman siya</strong>. <sup class="vn">11</sup>Mga kapatid, kung nangangaral pa ako ng pagtutuli, bakit inuusig pa rin ako? Kung gayon, nawala na sana ang katitisuran ng krus. <sup class="vn">12</sup><strong class="s-hi">Mabuti pang tuluyan nang kapunin ang kanilang sarili ng mga nanggugulo sa inyo!</strong>»</blockquote>
+                </div>
+                <p>Ang gumugulo sa mga pinalaya ni Cristo ay parurusahan, sinuman siya, at kasama rito ang mga Adventist at ang iba pang sektang erehe at apostata. Tungkol sa mga nanggugulo, sinabi ni Pablo na mabuti pang tuluyan nilang kapunin ang kanilang sarili. Ang Biblia ang nagsasabi nito, hindi ang site na ito. Mas mabuti pa para sa kanila na magpatuli, tuluyang humiwalay sa biyaya ni Cristo at itali ang sarili nang lubos sa lumang Kautusan, kaysa manggulo at magsinungaling sa mga tao.</p>
+                <h2>Ibang araw<br>Mga Hebreo 4:8</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mga Hebreo 4:8</span>
+                    <blockquote>«Sapagkat kung naibigay na ni Josue sa kanila ang kapahingahan, <strong class="s-hi">hindi na sana nagsalita ang Diyos pagkatapos tungkol sa ibang araw</strong>.»</blockquote>
+                </div>
+                <p>Ibang araw, isang araw na kasunod, hindi ang dati. Walang ibang posibleng kahulugan ang salitang iba: ang iba ay hindi ang dati.</p>
+                <p>Sumasagot ang mga Adventist gamit ang kasunod na bersikulo:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mga Hebreo 4:9-11</span>
+                    <blockquote>«<sup class="vn">9</sup>Kaya may nalalabi pang pamamahinga ng Sabbath para sa bayan ng Diyos. <sup class="vn">10</sup>Sapagkat <strong class="s-hi">ang pumasok sa kapahingahan ng Diyos ay nagpapahinga rin mula sa kanyang mga gawa</strong>, gaya ng Diyos mula sa kanyang mga gawa. <sup class="vn">11</sup>Kaya <strong class="s-hi">pagsikapan nating makapasok sa kapahingahang iyon</strong>, upang walang sinumang mahulog sa ganoon ding halimbawa ng pagsuway.»</blockquote>
+                </div>
+                <p>Sinasabi ng bersikulo 10 at 11 kung anong kapahingahan ito. Ito ang kapahingahan ng Diyos, na pinapasukan upang magpahinga mula sa sariling mga gawa gaya ng Diyos mula sa kanyang mga gawa, at hinihikayat ng may-akda na pagsikapang makapasok dito. Walang nagsisikap na makapasok sa isang Sabbath: kusa itong dumarating tuwing ikapitong araw. Ang kapahingahang tinutukoy ng sulat sa mga Hebreo ay ang buhay na walang hanggan, na ipinahayag ng Sabbath bilang larawan.</p>
+                <h2>Ang unang araw ng sanlinggo<br>Juan 20:1</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 20:1</span>
+                    <blockquote>«<strong class="s-hi">Nang unang araw ng sanlinggo</strong>, maagang-maaga pa at madilim pa, pumunta si Maria Magdalena sa libingan at nakita niyang naalis na ang bato sa libingan.»</blockquote>
+                </div>
+                <p>Ang unang araw ng sanlinggo, ang kasunod ng Sabbath, ay ang Linggo: ang Linggo ng Muling Pagkabuhay.</p>
+                <h2>Nang Linggo ring iyon<br>Juan 20:19</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 20:19</span>
+                    <blockquote>«<strong class="s-hi">Kinagabihan ng araw ding iyon, ang unang araw ng sanlinggo</strong>, habang nakasara ang mga pinto ng bahay na kinaroroonan ng mga alagad dahil sa takot nila sa mga Judio, dumating si Jesus at tumayo sa gitna nila at sinabi: “<strong class="s-hi">Sumainyo ang kapayapaan!</strong>”»</blockquote>
+                </div>
+                <p>Nang Linggo ring iyon, nagkakatipon ang mga alagad sa likod ng mga saradong pinto dahil sa takot sa mga Judio. Tumayo si Jesus sa gitna nila at sinabi sa kanila «Sumainyo ang kapayapaan!». Hindi niya sila pinagsabihan: sinang-ayunan niya sila. Kung may ginagawa silang mali, sasabihin niya iyon.</p>
+                <h2>Makalipas ang walong araw, Linggo muli<br>Juan 20:26</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 20:26</span>
+                    <blockquote>«<strong class="s-hi">Makalipas ang walong araw, nasa loob muli ng bahay ang mga alagad</strong>, at kasama nila si Tomas. Dumating si Jesus kahit nakasara ang mga pinto, tumayo sa gitna nila at sinabi: “<strong class="s-hi">Sumainyo ang kapayapaan!</strong>”»</blockquote>
+                </div>
+                <p>Makalipas ang walong araw, bilang mula sa araw na iyon, ay ang kasunod na Linggo. Nagkakatipon muli ang mga alagad, at muli silang sinang-ayunan ni Jesus sa parehong pagbati: «Sumainyo ang kapayapaan!».</p>
+                <h2>Tuwing Linggo, upang magpiraso ng tinapay<br>Mga Gawa 20:7</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mga Gawa 20:7</span>
+                    <blockquote>«<strong class="s-hi">Nang unang araw ng sanlinggo, nagtipon kami upang magpiraso ng tinapay</strong>. Nangaral si Pablo sa kanila, at dahil aalis siya kinabukasan, pinahaba niya ang kanyang pananalita hanggang hatinggabi.»</blockquote>
+                </div>
+                <p>Isa itong pagtitipon para sa pagsamba, ang pagpipiraso ng tinapay (tingnan ang paksang <a href="tema-la-eucaristia.html">Ang Eukaristiya</a>), sa unang araw ng sanlinggo, mula pa sa mga unang Kristiyano. Nangyari ito noong mga taong 57, higit sa dalawa at kalahating siglo bago ang batas ni Constantino tungkol sa Linggo, na mula sa taong 321. Walang argumento para sabihing nagkamali silang lahat. Kung nagkamali sila, nagkamali rin si Pablo kasama nila.</p>
+                <h2>Isang takdang araw para sa ambagan<br>1 Corinto 16:2</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Corinto 16:2</span>
+                    <blockquote>«<strong class="s-hi">Tuwing unang araw ng sanlinggo</strong>, ang bawat isa sa inyo ay magtabi ng anumang maiipon ayon sa kanyang kinikita, upang hindi na kailangang mangolekta pagdating ko.»</blockquote>
+                </div>
+                <p>Ang unang araw ng sanlinggo: Linggo, muli.</p>
+                <h2>Ang Araw ng Panginoon<br>Pahayag 1:10</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Pahayag 1:10</span>
+                    <blockquote>«Noong <strong class="s-hi">Araw ng Panginoon</strong>, ako ay nilukuban ng Espiritu at narinig ko sa likuran ko ang isang malakas na tinig na tulad ng tunog ng trumpeta.»</blockquote>
+                </div>
+                <p>Ang Araw ng Panginoon. Ganito ito isinasalin ng mga Bibliang Katoliko at maging ng mga Protestante, at may mga saling Katoliko na naglalagay pa ng «isang Linggo». Doon nagmula ang salita: sa Latin, <em>dies dominica</em>, ang araw ng Panginoon, na pinagmulan ng Espanyol na domingo at ng ating Linggo.</p>
+                <h2>Panginoon ng Araw ng Pamamahinga<br>Marcos 2:23-28</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Marcos 2:23-28</span>
+                    <blockquote>«<sup class="vn">23</sup>Isang Araw ng Pamamahinga, dumaan si Jesus sa triguhan, at habang naglalakad ay nagsimulang pumitas ng mga uhay ang kanyang mga alagad. <sup class="vn">24</sup>Sinabi sa kanya ng mga Pariseo: “Tingnan mo! Bakit nila ginagawa sa Araw ng Pamamahinga ang hindi ipinahihintulot?” <sup class="vn">25</sup>Sumagot si Jesus: “Hindi pa ba ninyo nababasa ang ginawa ni David nang siya at ang kanyang mga kasama ay mangailangan at magutom? <sup class="vn">26</sup>Pumasok siya sa bahay ng Diyos nang si Abiatar ang pinakapunong pari, at kinain niya ang tinapay na handog na ang mga pari lamang ang pinahihintulutang kumain, at binigyan pa niya ang kanyang mga kasama.” <sup class="vn">27</sup>At sinabi pa niya sa kanila: “<strong class="s-hi">Ginawa ang Araw ng Pamamahinga para sa tao, at hindi ang tao para sa Araw ng Pamamahinga</strong>. <sup class="vn">28</sup>Kaya <strong class="s-hi">ang Anak ng Tao ay Panginoon maging ng Araw ng Pamamahinga</strong>.”»</blockquote>
+                </div>
+                <p>Ginawa ang Araw ng Pamamahinga para sa tao, at hindi ang tao para sa Araw ng Pamamahinga, at ang Anak ng Tao ay Panginoon maging ng Araw ng Pamamahinga. Ginagawa ni Jesus sa Sabbath ang naisin niya, kahit baguhin pa ito.</p>
+                <h2>Nais nila siyang patayin dahil sa Sabbath<br>Juan 5:18</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 5:18</span>
+                    <blockquote>«Dahil dito, lalong nagsikap ang mga Judio na patayin siya, sapagkat hindi lamang niya <strong class="s-hi">nilalabag ang Araw ng Pamamahinga</strong>, kundi tinatawag pa niyang sariling Ama ang Diyos, at sa gayon ay ipinapantay ang sarili sa Diyos.»</blockquote>
+                </div>
+                <p>Tahasang sinasabi ito ni Juan: nilalabag ni Cristo ang Sabbath, at dahil dito ay nais nila siyang patayin.</p>
+                <h2>Naganap na<br>Juan 19:30</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 19:30</span>
+                    <blockquote>«Nang matikman ni Jesus ang maasim na alak, sinabi niya: “<strong class="s-hi">Naganap na!</strong>” Pagkatapos ay yumuko siya at nalagot ang kanyang hininga.»</blockquote>
+                </div>
+                <p>Ito ang wakas ng lumang Tipan. Tinupad ito ni Cristo, nagpahinga sa libingan noong Sabbath at muling nabuhay noong Linggo.</p>
+                <p>Laban dito, sinisipi ng mga Adventist ang Sermon sa Bundok:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mateo 5:17-18</span>
+                    <blockquote>«<sup class="vn">17</sup>Huwag ninyong isiping naparito ako upang pawalang-bisa ang Kautusan o ang mga Propeta. <strong class="s-hi">Naparito ako hindi upang pawalang-bisa kundi upang ganapin</strong>. <sup class="vn">18</sup>Tandaan ninyo: hangga’t hindi naglalaho ang langit at ang lupa, hindi mawawala sa Kautusan ang kahit isang tuldok o kudlit, <strong class="s-hi">hanggang hindi natutupad ang lahat</strong>.»</blockquote>
+                </div>
+                <p>May itinakdang hangganan ang teksto. Hindi naparito si Cristo upang pawalang-bisa ang Kautusan kundi upang ganapin ito, at may bisa ang Kautusan hanggang hindi natutupad ang lahat. Sa krus, sinabi niyang naganap na. Ang natupad ay hindi pinawawalang-bisa: dumarating ito sa wakas nito dahil naabot na nito ang dahilan ng pag-iral nito.</p>
+                <h2>Patay na sa Kautusan<br>Mga Taga-Roma 7:1-6</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mga Taga-Roma 7:1-6</span>
+                    <blockquote>«<sup class="vn">1</sup>Hindi ba ninyo alam, mga kapatid, sapagkat <strong class="s-hi">nagsasalita ako sa mga taong nakaaalam ng kautusan</strong>, na ang kautusan ay may kapangyarihan lamang sa tao habang siya ay nabubuhay? <sup class="vn">2</sup>Halimbawa, ang babaing may asawa ay nakatali sa kanyang asawa ayon sa kautusan habang ito ay nabubuhay; ngunit kapag namatay ang asawa, malaya na siya sa kautusang nagbubuklod sa kanya sa asawa. <sup class="vn">3</sup>Kaya ituturing siyang mangangalunya kung makikisama siya sa ibang lalaki habang buhay pa ang kanyang asawa; ngunit kung mamatay ang asawa, malaya na siya sa kautusan, at hindi siya mangangalunya kung mag-asawa siya ng iba. <sup class="vn">4</sup>Gayundin naman, mga kapatid, <strong class="s-hi">kayo ay namatay na sa Kautusan sa pamamagitan ng katawan ni Cristo, upang kayo ay maging sa iba</strong>, sa kanya na muling binuhay mula sa mga patay, upang tayo ay mamunga para sa Diyos. <sup class="vn">5</sup>Sapagkat noong tayo ay namumuhay pa ayon sa laman, <strong class="s-hi">ang makasalanang pagnanasa na pinukaw ng Kautusan ay kumikilos sa ating mga bahagi ng katawan upang mamunga ng kamatayan</strong>. <sup class="vn">6</sup>Ngunit ngayon, <strong class="s-hi">pinalaya na tayo sa Kautusan, sapagkat namatay na tayo sa bumibihag sa atin</strong>, kaya naglilingkod tayo <strong class="s-hi">sa bagong pamumuhay ng Espiritu at hindi sa lumang pamumuhay ng nakasulat na titik</strong>.»</blockquote>
+                </div>
+                <p>Nagsasalita si Pablo sa mga taong nakaaalam ng kautusan at ginagamit ang halimbawa ng pag-aasawa. Nakatali ang babae sa kanyang asawa habang ito ay buhay; kapag namatay ito, malaya na siya at maaaring mag-asawa ng iba nang hindi nangangalunya. Gayundin sa Kautusan: sa pamamagitan ng kamatayan ni Cristo, namatay na ang mga Kristiyano sa Kautusan at napasa-iba na sila, sa kanya na muling nabuhay. Hindi na sila nakatali sa Kautusang bumihag sa kanila, at naglilingkod sila sa Diyos sa bagong pamumuhay ng Espiritu, hindi sa lumang pamumuhay ng titik.</p>
+                <p>Patay na ang Kautusan; ang Bagong Tipan na ang may bisa.</p>
+                <h2>Hindi sa mga tapyas na bato<br>2 Corinto 3:3-16</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 2 Corinto 3:3-16</span>
+                    <blockquote>«<sup class="vn">3</sup>Maliwanag na kayo ay sulat ni Cristo na isinulat sa pamamagitan ng aming paglilingkod, hindi sa tinta kundi sa Espiritu ng Diyos na buhay, <strong class="s-hi">hindi sa mga tapyas na bato kundi sa mga puso ng tao</strong>. <sup class="vn">4</sup>Ganito ang aming pagtitiwala sa Diyos sa pamamagitan ni Cristo. <sup class="vn">5</sup>Hindi sa kami ay may kakayahan sa aming sarili na angkinin ang anumang bagay na parang galing sa amin; ang aming kakayahan ay mula sa Diyos, <sup class="vn">6</sup>na siyang nagbigay sa amin ng kakayahang maging mga lingkod ng isang bagong tipan, hindi ng nakasulat na titik kundi ng Espiritu; sapagkat <strong class="s-hi">ang titik ay pumapatay, ngunit ang Espiritu ay nagbibigay-buhay</strong>. <sup class="vn">7</sup>Kung ang paglilingkod na nagdudulot ng kamatayan, na inukit sa mga titik sa bato, ay dumating na may kaluwalhatian, anupat hindi makatingin ang mga Israelita sa mukha ni Moises dahil sa ningning nito, <strong class="s-hi">bagaman panandalian lamang</strong>, <sup class="vn">8</sup>hindi ba lalong maluwalhati ang paglilingkod ng Espiritu? <sup class="vn">9</sup>Kung maluwalhati ang paglilingkod na nagdudulot ng hatol, lalong higit na maluwalhati ang paglilingkod na nagdudulot ng katuwiran. <sup class="vn">10</sup>Sa katunayan, <strong class="s-hi">ang dating maluwalhati ay wala nang kaluwalhatian ngayon</strong> dahil sa higit na dakilang kaluwalhatian. <sup class="vn">11</sup>Sapagkat kung ang panandalian ay may kaluwalhatian, lalong higit ang kaluwalhatian ng nananatili. <sup class="vn">12</sup>Dahil may ganito kaming pag-asa, buong tapang kaming nagsasalita, <sup class="vn">13</sup>hindi tulad ni Moises na <strong class="s-hi">nagtakip ng belo sa kanyang mukha upang hindi makita ng mga Israelita ang katapusan ng panandaliang ningning</strong>. <sup class="vn">14</sup>Ngunit <strong class="s-hi">pumurol ang kanilang pag-iisip</strong>. Hanggang sa araw na ito, kapag binabasa ang lumang tipan, nananatili pa rin ang belong iyon; hindi ito inaalis, sapagkat kay Cristo lamang ito naaalis. <sup class="vn">15</sup>Oo, <strong class="s-hi">hanggang sa araw na ito, tuwing binabasa si Moises, may belong nakatakip sa kanilang puso</strong>; <sup class="vn">16</sup>ngunit <strong class="s-hi">kapag ang isang tao ay nagbalik-loob sa Panginoon, inaalis ang belo</strong>.»</blockquote>
+                </div>
+                <p>Hindi sa mga tapyas na bato kundi sa puso. Ang titik ay pumapatay at ang Espiritu ay nagbibigay-buhay. Panandalian ang ningning, at ang dating maluwalhati ay hindi na ngayon. Ito ay salita ng Diyos. Hindi ito sinabi ng isang papa o obispo, walang sinumang nag-imbento nito, at hindi ito nagmula sa isang pastor na isang araw ay tumayo at nagbigay ng sariling interpretasyon.</p>
+                <p>Nagtakip si Moises ng belo sa kanyang mukha upang hindi makita ng mga Israelita ang katapusan ng panandalian, at pumurol ang kanilang pag-iisip hanggang sa araw na ito, gaya ng sa mga Adventist at iba pang sekta. Hanggang sa araw na ito, tuwing binabasa si Moises, may belong nakatakip sa kanilang puso, at naaalis lamang ito kapag nagbalik-loob sila sa Panginoon, ibig sabihin, kapag naging Katoliko sila.</p>
+                <p>Kung gayon, ang mahalaga ay hindi ang mga tapyas na bato kundi ang puso: ang batas moral, hindi ang batas ng seremonya. Hindi naglalaho ang mga utos moral, sapagkat muling inaangkin ni Cristo ang mga ito, gaya ng makikita sa Mateo 5. Ang lumipas ay ang batas ng seremonya, at kasama nito ang utos tungkol sa Sabbath, na para sa mga Kristiyano ay pinalitan ng Linggo (Katesismo ng Simbahang Katolika, 2175).</p>
+                <h2>Huwag kayong pahatulan ninuman<br>Mga Taga-Colosas 2:16-17</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mga Taga-Colosas 2:16-17</span>
+                    <blockquote>«<sup class="vn">16</sup>Kaya <strong class="s-hi">huwag kayong pahatulan ninuman tungkol sa pagkain o inumin, o tungkol sa mga pista, bagong buwan o Araw ng Pamamahinga</strong>. <sup class="vn">17</sup>Ang mga ito ay anino lamang ng mga bagay na darating, ngunit ang katotohanan ay ang katawan ni Cristo.»</blockquote>
+                </div>
+                <p>Huwag hatulan ninuman ang mga Katolikong nangingilin ng Linggo. Iyan ang ginagawa ng mga Protestante, dito ay ng mga Adventist: pumupuna nang hindi nakaaalam ng Kasulatan.</p>
+                <h2>«Dapat tularan si Cristo»<br>Lucas 2:21</h2>
+                <p>Laban sa lahat ng ito, may ilang argumento ang mga sektang ito. Ang una: <em>«Nangilin si Jesus ng Sabbath, at dapat tularan ng Kristiyano si Cristo.»</em></p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Lucas 2:21</span>
+                    <blockquote>«Pagsapit ng ikawalong araw, <strong class="s-hi">nang tuliin ang sanggol</strong>, pinangalanan siyang Jesus, ang pangalang ibinigay ng anghel bago pa siya ipaglihi.»</blockquote>
+                </div>
+                <p>Kung dapat siyang tularan, isinasalaysay ni Lucas na tinuli siya sa ikawalong araw. Bakit hindi sila nagpapatuli? Dahil tinutularan lamang nila ang naaayon sa kanila. Ang pagtutuli, gaya ng Sabbath, ay bahagi ng lumang tipan.</p>
+                <h2>«Kung iniibig ninyo ako, tuparin ninyo ang aking mga utos»<br>Juan 14:15-26</h2>
+                <p>Ang ikalawa ay kinukuha nila sa Juan 14: <em>«Kung iniibig ninyo ako, tuparin ninyo ang aking mga utos. At ang mga utos ay ang sampu, kasama ang Sabbath.»</em> Iba ang sinasabi ng talata:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 14:15-26</span>
+                    <blockquote>«<sup class="vn">15</sup><strong class="s-hi">Kung iniibig ninyo ako, tutuparin ninyo ang aking mga utos</strong>. <sup class="vn">16</sup>At hihilingin ko sa Ama, at bibigyan niya kayo ng isa pang Tagapagtanggol na makakasama ninyo magpakailanman, <sup class="vn">17</sup>ang Espiritu ng Katotohanan, na hindi matatanggap ng sanlibutan sapagkat hindi siya nito nakikita ni nakikilala. Kilala ninyo siya, sapagkat siya ay nananatili sa inyo at nasa inyo. <sup class="vn">18</sup>Hindi ko kayo iiwang mga ulila; babalik ako sa inyo. <sup class="vn">19</sup>Kaunting panahon na lamang at hindi na ako makikita ng sanlibutan, ngunit makikita ninyo ako; sapagkat ako ay buhay, kayo man ay mabubuhay. <sup class="vn">20</sup>Sa araw na iyon, malalaman ninyo na ako ay nasa aking Ama, at kayo ay nasa akin, at ako ay nasa inyo. <sup class="vn">21</sup><strong class="s-hi">Ang tumatanggap ng aking mga utos at tumutupad sa mga ito, siya ang umiibig sa akin</strong>; at ang umiibig sa akin ay iibigin ng aking Ama, at iibigin ko rin siya at ipakikilala ko ang aking sarili sa kanya. <sup class="vn">22</sup>Sinabi sa kanya ni Judas, hindi ang Iscariote: “Panginoon, bakit sa amin mo ipakikilala ang iyong sarili at hindi sa sanlibutan?” <sup class="vn">23</sup>Sumagot si Jesus: “<strong class="s-hi">Ang umiibig sa akin ay tutupad sa aking salita</strong>; iibigin siya ng aking Ama, at pupunta kami sa kanya at mananahan sa kanya. <sup class="vn">24</sup>Ang hindi umiibig sa akin ay hindi tumutupad sa aking mga salita. At ang salitang inyong naririnig ay hindi akin kundi sa Amang nagsugo sa akin. <sup class="vn">25</sup>Sinasabi ko ito sa inyo habang kasama pa ninyo ako. <sup class="vn">26</sup>Ngunit ang Tagapagtanggol, ang Espiritu Santo na isusugo ng Ama sa aking pangalan, <strong class="s-hi">ang magtuturo sa inyo ng lahat ng bagay at magpapaalala sa inyo ng lahat ng sinabi ko sa inyo</strong>.”»</blockquote>
+                </div>
+                <p>Hindi sinasabi ni Cristo «ang mga utos ni Moises»: sinasabi niya ang aking mga utos. Hindi ang mga luma, kundi ang kanya mismo. Binabalikan niya ang mga ito sa bersikulo 21 at 23, at sa bersikulo 26 ay ipinangangako niya ang Espiritu Santo, na magtuturo sa kanila ng lahat ng bagay at magpapaalala sa kanila ng lahat ng kanyang sinabi.</p>
+                <h2>Ang bagong utos<br>Juan 13:34-35</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 13:34-35</span>
+                    <blockquote>«<sup class="vn">34</sup><strong class="s-hi">Isang bagong utos ang ibinibigay ko sa inyo</strong>: mag-ibigan kayo. Kung paanong inibig ko kayo, gayundin naman mag-ibigan kayo. <sup class="vn">35</sup><strong class="s-hi">Dito makikilala ng lahat na kayo ay mga alagad ko</strong>: kung kayo ay nag-iibigan.»</blockquote>
+                </div>
+                <p>Ang tunay na mga Kristiyano, at hindi ang mga ereheng apostata, ay nakikilala sa pagsunod nila sa mga utos ni Cristo.</p>
+                <h2>Hanggang sa katapusan ng panahon<br>Mateo 28:19-20</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mateo 28:19-20</span>
+                    <blockquote>«<sup class="vn">19</sup>Kaya humayo kayo at gawin ninyong alagad ko ang lahat ng bansa. Binyagan ninyo sila sa pangalan ng Ama, at ng Anak, at ng Espiritu Santo, <sup class="vn">20</sup>at <strong class="s-hi">turuan ninyo silang tuparin ang lahat ng iniutos ko sa inyo</strong>. Tandaan ninyo, ako ay kasama ninyo palagi <strong class="s-hi">hanggang sa katapusan ng panahon</strong>.»</blockquote>
+                </div>
+                <p>Iniuutos ito ni Jesus hanggang sa katapusan ng panahon. Hindi minsan, hindi dalawang beses, hindi lamang sa simula. Hanggang sa wakas.</p>
+                <p>At dito bumabagsak ang isa pang aral na Protestante, ang nagsasabing sapat na ang maniwala at hindi mahalaga ang mga gawa. Kung naniniwala ang tao sa salita ni Cristo, at hindi lamang sa kanya, at ginagawa ang kanyang sinasabi, nag-iiba ang lahat. May mga gawa, at isinasagawa ang pananampalataya.</p>
+                <h2>Ang tanda na kilala natin siya<br>1 Juan 2:3</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Juan 2:3</span>
+                    <blockquote>«Dito natin nalalaman na kilala natin siya: <strong class="s-hi">kung tinutupad natin ang kanyang mga utos</strong>.»</blockquote>
+                </div>
+                <p>Ang mga utos ni Jesus. Ang ibinibigay ni Cristo ay tinatanggap sa pagtupad ng kanyang salita, gaya sa Cana, kung saan ang mga katulong lamang na gumawa ng iniutos niya ang nakaalam kung ano ang nangyari (tingnan ang paksang <a href="tema-transubstanciacion.html">Transubstansiyasyon</a>).</p>
+                <h2>«Ngunit sinasabi ko sa inyo»<br>Mateo 5:20-28</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mateo 5:20-28</span>
+                    <blockquote>«<sup class="vn">20</sup>Sinasabi ko sa inyo: kung ang inyong katuwiran ay hindi hihigit sa katuwiran ng mga eskriba at ng mga Pariseo, hindi kayo makapapasok sa kaharian ng langit. <sup class="vn">21</sup>Narinig ninyo na sinabi sa mga tao noong una: <strong class="s-hi">Huwag kang papatay</strong>; ang pumatay ay mananagot sa hukuman. <sup class="vn">22</sup><strong class="s-hi">Ngunit sinasabi ko sa inyo</strong>: ang sinumang nagagalit sa kanyang kapatid ay mananagot sa hukuman; ang sinumang nagsabi sa kanyang kapatid ng “Hangal!” ay mananagot sa Sanedrin; at ang sinumang nagsabi ng “Ulol!” ay mananagot sa apoy ng impiyerno. <sup class="vn">23</sup>Kaya kung naghahandog ka sa dambana at doon ay naalala mong may sama ng loob sa iyo ang iyong kapatid, <sup class="vn">24</sup>iwan mo ang iyong handog sa harap ng dambana, at humayo ka muna at makipagkasundo sa iyong kapatid; pagkatapos ay bumalik ka at ihandog mo ang iyong handog. <sup class="vn">25</sup>Makipagkasundo ka agad sa iyong kalaban habang kayo ay nasa daan pa papunta sa hukuman, baka ibigay ka niya sa hukom, at ibigay ka ng hukom sa bantay, at ikaw ay ibilanggo. <sup class="vn">26</sup>Tandaan mo: hindi ka makalalabas doon hangga’t hindi mo nababayaran ang kahuli-hulihang sentimo. <sup class="vn">27</sup>Narinig ninyo na sinabi: <strong class="s-hi">Huwag kang mangangalunya</strong>. <sup class="vn">28</sup><strong class="s-hi">Ngunit sinasabi ko sa inyo</strong>: ang sinumang tumingin sa isang babae nang may pagnanasa ay nagkasala na ng pangangalunya sa kanya sa kanyang puso.»</blockquote>
+                </div>
+                <p>Sa madaling salita, muling inaangkin ni Jesus ang mga lumang utos, at kaya itinuturo ang mga ito sa katesismo. Iniiwan niya ang ilan gaya ng dati at binabago ang iba, gaya ng utos tungkol sa pangangalunya, na pinalalawak niya hanggang sa isip. Tungkol sa Sabbath, wala siyang sinasabi.</p>
+                <h2>«Bakit hindi ninyo ginagawa ang sinasabi ko?»<br>Lucas 6:46</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Lucas 6:46</span>
+                    <blockquote>«Bakit ninyo ako tinatawag na “Panginoon, Panginoon”, ngunit <strong class="s-hi">hindi naman ninyo ginagawa ang sinasabi ko?</strong>»</blockquote>
+                </div>
+                <p>Kung gustong-gusto nilang gawin ang iniutos, bakit hindi nila tinutupad ang iniuutos ni Cristo? Dahil hindi nila ito pinaniniwalaan. Kung pinaniniwalaan nila ito, hindi na nila ito pagtatalunan.</p>
+                <h2>Ang hindi matiis ng Diyos<br>Isaias 1:13</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Isaias 1:13</span>
+                    <blockquote>«Huwag na kayong magdala ng walang kabuluhang handog; kasuklam-suklam sa akin ang insenso. <strong class="s-hi">Ang bagong buwan, ang Araw ng Pamamahinga, ang pagtawag sa kapulungan</strong>: <strong class="s-hi">hindi ko matiis ang kasamaan kasabay ng banal na pagtitipon</strong>.»</blockquote>
+                </div>
+                <p>Sinasabi ito ng Panginoon sa bibig ni Isaias: hindi niya matiis ang bagong buwan, ang Araw ng Pamamahinga at ang pagtawag sa kapulungan.</p>
                 <ul>
-                    <li>Tinatawag tayo ng bagong kautusan na maging asin ng lupa at ilaw ng mundo.</li>
-                    <li>Ang kapatawaran at awa ay ang pinaka-tunay na pagpapahayag nito.</li>
-                    <li>Namamuhay tayo sa kautusan ni Kristo sa pamamagitan ng pagbibigay ng ating sarili sa pagmamahal.</li>
+                    <li>Ang dalawang babae ni Abraham ay ang dalawang Tipan: ang sa Sinai ay nagsisilang ng mga alipin, at ang Jerusalem sa itaas ay malaya at siyang ina ng mga Kristiyano.</li>
+                    <li>Ang nagpapatuli ay obligadong tumupad sa buong Kautusan, at ang naghahangad na maging matuwid sa Kautusan ay humihiwalay kay Cristo.</li>
+                    <li>Muling nabuhay si Cristo noong Linggo, nagpakita nang dalawang magkasunod na Linggo sa mga alagad na nagkakatipon at sinang-ayunan sila.</li>
+                    <li>Nagpipiraso ng tinapay ang mga apostol sa unang araw ng sanlinggo, ilang siglo bago si Constantino, at tinatawag ito ng Pahayag na Araw ng Panginoon.</li>
+                    <li>Si Cristo ay Panginoon ng Araw ng Pamamahinga, at sa krus ay sinabi niyang naganap na.</li>
+                    <li>Panandalian ang Kautusang inukit sa bato; ang Bagong Tipan ay nakasulat sa puso.</li>
+                    <li>Ang mga utos ng Kristiyano ay ang mga utos ni Cristo, na muling inaangkin ang mga luma at walang sinasabi tungkol sa Sabbath.</li>
                 </ul>
-                <h2>Kristiyanong pagsasabuhay</h2>
-                <p>Nagiging konkretong buhay ang bagong kautusan kapag naglinang tayo ng kababaang-loob, katarungan, at habag. Ang Eukaristiya at panalangin ay tumutulong sa atin na mabuhay ito araw-araw.</p>`,
+                <h2>Konklusyon</h2>
+                <p>Nagwakas ang Tipan ng Sinai nang tuparin ito ni Cristo sa krus. Ang mga Kristiyano ay hindi mga anak ng alipin kundi ng malaya, at ang muling nagpapasailalim sa Kautusan ay humihiwalay kay Cristo. Nagtipon ang mga apostol tuwing Linggo mula pa sa araw ng muling pagkabuhay, nagpiraso ng tinapay sa unang araw ng sanlinggo at tinawag itong Araw ng Panginoon. Hindi binago ng Simbahan ang araw. Tinanggap niya ito mula sa kanila.</p>
+                <p>Kaya ang salita ni Pablo sa mga taga-Colosas ay may bisa pa rin para sa bawat Katolikong nangingilin ng Linggo:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mga Taga-Colosas 2:16</span>
+                    <blockquote>«Kaya <strong class="s-hi">huwag kayong pahatulan ninuman</strong> tungkol sa pagkain o inumin, o tungkol sa mga pista, bagong buwan o Araw ng Pamamahinga.»</blockquote>
+                </div>`,
       nav: {
         prevTitle: "Ang Purgatoryo at Awa ng Diyos",
         nextTitle: "Ang Banal na Santatlo"

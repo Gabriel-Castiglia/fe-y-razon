@@ -46,7 +46,7 @@ const translationsLN = {
     category: "Mateya", date: "Sanza ya libwa 2026", title: "Purgatorio", excerpt: "Boloko oyo moto abimaka mpe masumu oyo elimbisamaka na mokili oyo ekoya: oyo Klisto alakisi mpo na bopetoli.", time: "Min 8 botangi", link: "Tanga →"
   },
   article8: {
-    category: "Mateya", date: "Ekoya", title: "Mobeko ya Sika", excerpt: "Mobeko ya Klisto oyo ezali kozwa esika ya Mobeko ya Kala mpe ezali kotambwisa bakristo.", time: "Min 8 botangi", link: "Tanga →"
+    category: "Mateya", date: "Sanza ya libwa 2026", title: "Mobeko ya Sika", excerpt: "Boyokani ya Sinai esilaki na ekulusu, mpe bapostolo bazalaki kosangana mokolo ya lomingo: oyo Makomami elobi mpo na Mobeko ya kala mpe ya sika.", time: "Min 23 botangi", link: "Tanga →"
   },
   article9: {
     category: "Apologetiki", date: "Sanza ya libwa 2026", title: "Bokambi ya Petro", excerpt: "Bafungola ya Bokonzi, libanga mpe mosala ya kolendisa bandeko: oyo Makomami epesi Petro.", time: "Min 14 botangi", link: "Tanga →"
@@ -163,11 +163,204 @@ const translationsLN = {
     },
     "la-nueva-ley": {
       pageTitle: "Mobeko ya Sika | Kondima mpe Mayele",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Liséki Monene</span></div><h1>Mobeko ya Sika na Klisto</h1><p>Sosola ndenge mobeko ya Klisto eleki mpe ekokisaka Mobeko ya Kala, mpe ebiangi biso na kobika na bolingo mpe bonsomi ya bana ya Nzambe.</p><div class="article-meta"><span>Min 8 botangi</span><span>Ebimisami na Sanza ya mitano 2026</span></div><a href="temas.html" class="btn-outline-white">Zonga na Mitó ya makambo</a>`,
-      article: `<p>Mobeko ya sika ezali mobeko ya Evanzile, etiami na mobeko ya bolingo. Klisto abomi Mobeko ya kala te, kasi amemi yango na litondi na yango mpe akomisi yango pene na motema ya moto.</p><h2>Bolingo lokola mibeko</h2><p>Yesu akusisi Mobeko na kolinga Nzambe mpe mozalani. Mobeko oyo ya sika ezali bozito te, kasi bonsomi ya mozindo oyo ebongolaka misala na biso uta na kati.</p><div class="scripture-block">
-                    <span class="scripture-ref">✝︎ Matai 22:37-38</span>
-                    <blockquote>«<strong class="s-hi">Okolinga Nkolo Nzambe na yo na motema na yo nionso mpe mozalani na yo lokola yo moko</strong>»</blockquote>
-                </div><h2>Kokokisa mobeko ya kala</h2><p>Baprofeta basakolaki mobeko ya sika oyo ekozala na motema. Mateya ya Klisto emonisi ete kokokisa ya solo ya Mobeko esuki kaka na misala ya libanda te, kasi na etelemelo ya solo ya kati.</p><ul><li>Mobeko ya sika ebiangi biso na kozala mungwa ya mabele mpe pole ya mokili.</li><li>Bolimbisi mpe mawa ezali komonisa na yango ya solo mpenza.</li><li>Tobikaka mobeko ya Klisto na komipesa na bolingo.</li></ul><h2>Mosala ya mokristo</h2><p>Mobeko ya sika ekomaka bomoi ya solo tango to kolaka na komikitisa, bosembo mpe mawa. Eukarisiti mpe libondeli esalisaka biso na kobika yango mokolo na mokolo.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Liséki Monene</span></div><h1>Mobeko ya Sika na Klisto</h1><p>Boyokani ya Sinai esilaki na ekulusu, mpe bapostolo bazalaki kosangana mokolo ya lomingo banda mokolo ya lisekwa. Oyo Makomami elobi mpo na Mobeko ya kala mpe ya sika, eteni na eteni.</p><div class="article-meta"><span>Min 23 botangi</span><span>Ebimisami na sanza ya libwa 2026</span></div><a href="temas.html" class="btn-outline-white">Zonga na Mitó ya makambo</a>`,
+      article: `<!--
+Traducción de la-nueva-ley desde el español (29-sep-2026). Citas según la
+traducción católica usual de este idioma, escritas de memoria: sin cotejar.
+-->
+<p>Mangomba mingi ya baprotestanti bazali kolanda bokosi ete moklisto azali naino ya kokangama na Mobeko ya Moize, to ata na eteni ya yango oyo moko na moko aponi. Oyo bamemi libunga mosika koleka ezali ya ba-adventiste ya mokolo ya nsambo: batosaka sabato, baboyaka bilei oyo Mobeko elobaki ete ezali mbindo, mpe bafundaka Eklezia ete ebongolaki mokolo ya Nzambe. Balobaka boye: <em>«Sabato ezali mokolo oyo Nzambe asantisaki libela. Lomingo, Roma nde etiaki yango, mpe oyo atosaka yango atosaka papa kasi Nzambe te.»</em></p>
+                <p>Eyano ezali na Makomami. Polo akomaki yango mpo na baklisto oyo bazalaki pene ya kosala oyo ba-adventiste bazali kosala lelo: kozonga na Mobeko nsima ya koyamba Klisto. Ezali mokanda epai ya Bagalatia, mpe eteni yango etangami liboso mobimba, na mituya ya mikapo, liboso ya kolandela yango eteni na eteni.</p>
+                <h2>Basi mibale, mayokani mibale<br>Bagalatia 4:21 — 5:12</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Bagalatia 4:21 — 5:12</span>
+                    <blockquote>«<sup class="vn">21</sup>Bóyebisa ngai, bino baye bolingi kozala na nse ya Mobeko: boyokaka te oyo Mobeko elobi? <sup class="vn">22</sup>Ekomami ete Abalayama azalaki na bana mibali mibale, moko na mwasi moombo mpe mosusu na mwasi ya bonsomi. <sup class="vn">23</sup>Kasi mwana ya mwasi moombo abotamaki engebene na mosuni, mpe mwana ya mwasi ya bonsomi abotamaki na nguya ya elaka. <sup class="vn">24</sup><strong class="s-hi">Makambo oyo ezali ndakisa: basi wana mibale bazali mayokani mibale</strong>. <strong class="s-hi">Moko euti na ngomba Sinai mpe ebotaka bana mpo na bowumbu</strong>; yango ezali Agala. <sup class="vn">25</sup>Agala azali ngomba Sinai na Arabia, mpe azali elilingi ya Yelusaleme ya lelo, oyo ezali na bowumbu elongo na bana na yango. <sup class="vn">26</sup><strong class="s-hi">Kasi Yelusaleme ya likolo ezali na bonsomi, mpe yango ezali mama na biso</strong>. <sup class="vn">27</sup>Mpo ekomami: Sepela, yo mwasi ekomba oyo obotaka te; ganga na esengo, yo oyo oyebi pasi ya kobota te; mpo bana ya mwasi oyo batiki bazali ebele koleka ya mwasi oyo azali na mobali. <sup class="vn">28</sup>Bino, bandeko, bozali <strong class="s-hi">bana ya elaka lokola Isaka</strong>. <sup class="vn">29</sup>Kasi ndenge na ntango wana oyo abotamaki engebene na mosuni azalaki konyokola oyo abotamaki engebene na Molimo, ezali mpe bongo sikawa. <sup class="vn">30</sup>Kasi Makomami elobi nini? Benga mwasi moombo mpe mwana na ye, mpo mwana ya mwasi moombo akozwa libula elongo na mwana ya mwasi ya bonsomi te. <sup class="vn">31</sup>Yango wana, bandeko, <strong class="s-hi">tozali bana ya mwasi moombo te, kasi ya mwasi ya bonsomi</strong>. <sup class="vn">5:1</sup><strong class="s-hi">Klisto asikolaki biso mpo tozala na bonsomi. Bongo bótelema ngwi, mpe bóndima lisusu te kokangama na ekangiseli ya bowumbu</strong>. <sup class="vn">5:2</sup>Bóyoka! Ngai Polo nazali koyebisa bino: soki bondimi kokatama ngenga, Klisto akozala na litomba moko te mpo na bino. <sup class="vn">5:3</sup><strong class="s-hi">Nazali kotatola lisusu epai ya moto nyonso oyo andimi kokatama ngenga ete asengeli kotosa Mobeko mobimba</strong>. <sup class="vn">5:4</sup>Bino baye bolingi kokoma bayengebene na nzela ya Mobeko, <strong class="s-hi">bokabwani na Klisto</strong>; <strong class="s-hi">bokwei libanda ya ngolu</strong>. <sup class="vn">5:5</sup>Kasi biso, na nzela ya Molimo mpe na kondima, tozali kozela elikya ya bosembo. <sup class="vn">5:6</sup>Mpo kati na Klisto Yesu, kokatama ngenga to kokatama te ezali na ntina te, kasi kondima oyo esalaka na nzela ya bolingo. <sup class="vn">5:7</sup>Bozalaki kokima malamu; nani akangaki bino nzela mpo botosa lisusu solo te? <sup class="vn">5:8</sup>Bolendisi wana euti te epai ya ye oyo azali kobenga bino. <sup class="vn">5:9</sup>Nkisi moke ya levire evimbisaka farine mobimba. <sup class="vn">5:10</sup>Nazali na elikya kati na Nkolo ete bokozala na makanisi mosusu te; kasi <strong class="s-hi">oyo azali kotungisa bino akozwa etumbu, ata azali nani</strong>. <sup class="vn">5:11</sup>Bandeko, soki nazali naino kosakola kokatama ngenga, mpo na nini bazali naino konyokola ngai? Soki bongo, libaku ya ekulusu elongwaki. <sup class="vn">5:12</sup><strong class="s-hi">Ekoleka malamu baye bazali kotungisa bino bamikata nyonso!</strong>»</blockquote>
+                </div>
+                <h2>Mwasi moombo mpe mwasi ya bonsomi<br>Bagalatia 4:24-26</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Bagalatia 4:24-26</span>
+                    <blockquote>«<sup class="vn">24</sup><strong class="s-hi">Makambo oyo ezali ndakisa: basi wana mibale bazali mayokani mibale</strong>. Moko euti na ngomba Sinai mpe <strong class="s-hi">ebotaka bana mpo na bowumbu</strong>; yango ezali Agala. <sup class="vn">25</sup>Agala azali ngomba Sinai na Arabia, mpe azali elilingi ya Yelusaleme ya lelo, oyo ezali na bowumbu elongo na bana na yango. <sup class="vn">26</sup><strong class="s-hi">Kasi Yelusaleme ya likolo ezali na bonsomi, mpe yango ezali mama na biso</strong>.»</blockquote>
+                </div>
+                <p>Polo alobi yango polele: lisolo ya Abalayama ezali ndakisa, mpe basi mibale bazali mayokani mibale. Agala, mwasi moombo, azali boyokani ya ngomba Sinai. Mosusu azali Yelusaleme ya likolo, ya lola, oyo ezali na bonsomi, mpe yango ezali mama ya baklisto.</p>
+                <p>Liboso bazalaki baombo ya boyokani ya kala, boyokani ya mibeko ya milulu, oyo ezalaki mpo na koteya bonkoko epai ya ekolo moko. Kasi yango moko ekokaki te. Yango wana boyokani wana ekangamaki ntango moto akolaki na boyokani na ye na Nzambe, mpe Boyokani ya Sika ebimaki, boyokani ya mobeko ya bizaleli malamu, ya Yelusaleme ya likolo, ya lola, oyo epesaka bonsomi.</p>
+                <h2>Bana ya mwasi ya bonsomi<br>Bagalatia 4:28-31</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Bagalatia 4:28-31</span>
+                    <blockquote>«<sup class="vn">28</sup><strong class="s-hi">Bino, bandeko, bozali bana ya elaka lokola Isaka</strong>. <sup class="vn">29</sup>Kasi ndenge na ntango wana oyo abotamaki engebene na mosuni azalaki konyokola oyo abotamaki engebene na Molimo, ezali mpe bongo sikawa. <sup class="vn">30</sup>Kasi Makomami elobi nini? Benga mwasi moombo mpe mwana na ye, mpo mwana ya mwasi moombo akozwa libula elongo na mwana ya mwasi ya bonsomi te. <sup class="vn">31</sup>Yango wana, bandeko, <strong class="s-hi">tozali bana ya mwasi moombo te, kasi ya mwasi ya bonsomi</strong>.»</blockquote>
+                </div>
+                <p>Yango wana: baklisto bazali bana ya mwasi moombo te, kasi ya mwasi ya bonsomi. Bazali na nse ya boyokani ya kala te, kasi na nse ya boyokani ya sika, oyo ezali na mibeko mosusu.</p>
+                <h2>Kozonga na ekangiseli te<br>Bagalatia 5:1-4</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Bagalatia 5:1-4</span>
+                    <blockquote>«<sup class="vn">1</sup><strong class="s-hi">Klisto asikolaki biso mpo tozala na bonsomi</strong>. Bongo <strong class="s-hi">bótelema ngwi, mpe bóndima lisusu te kokangama na ekangiseli ya bowumbu</strong>. <sup class="vn">2</sup>Bóyoka! Ngai Polo nazali koyebisa bino: soki bondimi kokatama ngenga, Klisto akozala na litomba moko te mpo na bino. <sup class="vn">3</sup><strong class="s-hi">Nazali kotatola lisusu epai ya moto nyonso oyo andimi kokatama ngenga ete asengeli kotosa Mobeko mobimba</strong>. <sup class="vn">4</sup>Bino baye bolingi kokoma bayengebene na nzela ya Mobeko, <strong class="s-hi">bokabwani na Klisto</strong>; <strong class="s-hi">bokwei libanda ya ngolu</strong>.»</blockquote>
+                </div>
+                <p>Mpo na nini kozonga nsima te? Mpo Klisto asikolaki, mpe yango wana Polo asengi batelema ngwi mpe bandima lisusu te kokangama na ekangiseli ya bowumbu. Elingi koloba: kotika te ete ba-adventiste mpe mangomba mosusu baya kokosa mpe kobenda baklisto lisusu epai ya mibeko ya boyokani ya kala, oyo ezali lisusu na nguya te. Mpe ata nyonso te, mpo bango bakatamaka ngenga te: bazwaka kaka oyo ebongi na bango.</p>
+                <p>Mpo na nini ezali lisusu na nguya te? Biblia elimboli yango mpe, mpe ekobi: moto nyonso oyo akatami ngenga asengeli kotosa Mobeko mobimba, ya kala, nyonso. Mpe baye balingi kokoma bayengebene na nzela ya Mobeko bakabwani na Klisto mpe bakwei libanda ya ngolu. Yango nde Klisto ayaki kosala: kobimisa moto na boyokani ya kala mpe kopesa ye oyo ya sika.</p>
+                <h2>Ata azali nani<br>Bagalatia 5:10-12</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Bagalatia 5:10-12</span>
+                    <blockquote>«<sup class="vn">10</sup>Nazali na elikya kati na Nkolo ete bokozala na makanisi mosusu te; kasi <strong class="s-hi">oyo azali kotungisa bino akozwa etumbu, ata azali nani</strong>. <sup class="vn">11</sup>Bandeko, soki nazali naino kosakola kokatama ngenga, mpo na nini bazali naino konyokola ngai? Soki bongo, libaku ya ekulusu elongwaki. <sup class="vn">12</sup><strong class="s-hi">Ekoleka malamu baye bazali kotungisa bino bamikata nyonso!</strong>»</blockquote>
+                </div>
+                <p>Oyo azali kotungisa baye Klisto asikolaki akozwa etumbu, ata azali nani, mpe yango ezali mpe mpo na ba-adventiste mpe mangomba mosusu ya bokosi mpe ya botomboki. Mpo na batungisi, Polo alobi ete ekoleka malamu bamikata nyonso. Biblia nde elobi yango, site oyo te. Ekoleka malamu mpo na bango bakatama ngenga, bakabwana mobimba na ngolu ya Klisto mpe bamikanga nyonso na Mobeko ya kala, na esika ya kotambola kotungisa bato mpe kokosa bango.</p>
+                <h2>Mokolo mosusu<br>Baebele 4:8</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Baebele 4:8</span>
+                    <blockquote>«Soki Yozuwe apesaki bango bopemi, <strong class="s-hi">Nzambe alingaki koloba te na nsima mpo na mokolo mosusu</strong>.»</blockquote>
+                </div>
+                <p>Mokolo mosusu, ya nsima, kasi oyo moko te. Liloba mosusu ezali na ndimbola mosusu te: mosusu elingi koloba ete ezali oyo moko te.</p>
+                <p>Ba-adventiste bazongisaka na vese oyo elandi:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Baebele 4:9-11</span>
+                    <blockquote>«<sup class="vn">9</sup>Bongo, bopemi ya sabato etikali naino mpo na bato ya Nzambe. <sup class="vn">10</sup>Mpo <strong class="s-hi">moto oyo akoti na bopemi ya Nzambe apemi mpe na misala na ye</strong>, ndenge Nzambe apemaki na misala na ye. <sup class="vn">11</sup>Yango wana, <strong class="s-hi">tomipesa mpo na kokota na bopemi wana</strong>, mpo moto moko te akwea na ndakisa wana ya kozanga botosi.»</blockquote>
+                </div>
+                <p>Vese 10 mpe 11 elobi bopemi nini ezali. Ezali bopemi ya Nzambe, oyo moto akotaka mpo apema na misala na ye ndenge Nzambe apemaki na misala na ye, mpe mokomi alendisi ete tomipesa mpo na kokota kuna. Moto moko te amipesaka mpo na kokota na sabato: eyaka yango moko mikolo nsambo nyonso. Bopemi oyo mokanda epai ya Baebele elobeli ezali bomoi ya seko, oyo sabato ezalaki kosakola lokola elilingi.</p>
+                <h2>Mokolo ya liboso ya poso<br>Yoane 20:1</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yoane 20:1</span>
+                    <blockquote>«<strong class="s-hi">Mokolo ya liboso ya poso</strong>, na ntongo mpenza, ntango molili ezalaki naino, Maria Magadala akendeki na lilita mpe amonaki ete libanga elongolami na lilita.»</blockquote>
+                </div>
+                <p>Mokolo ya liboso ya poso, oyo elandaka sabato, ezali lomingo: Lomingo ya Lisekwa.</p>
+                <h2>Lomingo wana moko<br>Yoane 20:19</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yoane 20:19</span>
+                    <blockquote>«<strong class="s-hi">Na pokwa ya mokolo wana, mokolo ya liboso ya poso</strong>, bayekoli bazalaki kati na ndako, bizibeli ekangami mpo na kobanga Bayuda. Yesu ayaki, atelemaki kati na bango mpe alobaki na bango: “<strong class="s-hi">Kimia ezala na bino!</strong>”»</blockquote>
+                </div>
+                <p>Lomingo wana moko, bayekoli bazalaki elongo na bizibeli ekangami mpo na kobanga Bayuda. Yesu atelemi kati na bango mpe alobi na bango «Kimia ezala na bino!». Apameli bango te: andimi bango. Soki bazalaki kosala mabe, alingaki koyebisa bango.</p>
+                <h2>Mikolo mwambe na nsima, lomingo lisusu<br>Yoane 20:26</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yoane 20:26</span>
+                    <blockquote>«<strong class="s-hi">Mikolo mwambe na nsima, bayekoli na ye bazalaki lisusu kati na ndako</strong>, mpe Toma azalaki elongo na bango. Yesu ayaki ata bizibeli ekangamaki, atelemaki kati na bango mpe alobaki: “<strong class="s-hi">Kimia ezala na bino!</strong>”»</blockquote>
+                </div>
+                <p>Mikolo mwambe na nsima, soki totangi banda mokolo wana, ezali lomingo oyo elandi. Bayekoli bazali lisusu elongo, mpe Yesu andimi bango lisusu na mbote wana moko: «Kimia ezala na bino!».</p>
+                <h2>Lomingo, mpo na kobuka lipa<br>Misala 20:7</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Misala 20:7</span>
+                    <blockquote>«<strong class="s-hi">Mokolo ya liboso ya poso, ntango tosanganaki mpo na kobuka lipa</strong>, Polo, oyo asengelaki kokende mokolo oyo elandi, azalaki kosolola na bango mpe aumisaki maloba na ye kino na katikati ya butu.»</blockquote>
+                </div>
+                <p>Ezali liyangani mpo na losambo, kobuka lipa (tala motó ya likambo <a href="tema-la-eucaristia.html">Eukarisiti</a>), na mokolo ya liboso ya poso, banda baklisto ya liboso. Esalemaki pene na mobu 57, koleka bikeke mibale na ndambo liboso ya mobeko ya Konstantino mpo na lomingo, oyo ezali ya mobu 321. Ntina ezali te ya koloba ete bango nyonso bazalaki na libunga. Soki bazalaki na libunga, Polo mpe azalaki na libunga elongo na bango.</p>
+                <h2>Mokolo moko oyo etiamaki mpo na makabo<br>1 Bakorinti 16:2</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Bakorinti 16:2</span>
+                    <blockquote>«<strong class="s-hi">Mokolo ya liboso ya poso nyonso</strong>, moto na moto kati na bino atia pembeni eteni ndenge azwi, mpo bayanganisa makabo te ntango nakoya.»</blockquote>
+                </div>
+                <p>Mokolo ya liboso ya poso: lomingo, lisusu.</p>
+                <h2>Mokolo ya Nkolo<br>Apokalise 1:10</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Apokalise 1:10</span>
+                    <blockquote>«Na <strong class="s-hi">Mokolo ya Nkolo</strong> nazalaki kati na Molimo, mpe nayokaki nsima na ngai mongongo makasi lokola ya kelelo.»</blockquote>
+                </div>
+                <p>Mokolo ya Nkolo. Ndenge wana nde Biblia ya katolike mpe ata ya baprotestanti ebongolaka yango, mpe mabongoli mosusu ya katolike ekomaka polele «lomingo moko». Nkombo yango euti wana: na lilatini, <em>dies dominica</em>, mokolo ya Nkolo, oyo ezali naino nkombo ya lomingo na lispanyola, litaliano, lipulutugeze mpe lifalanse.</p>
+                <h2>Nkolo ya sabato<br>Malako 2:23-28</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Malako 2:23-28</span>
+                    <blockquote>«<sup class="vn">23</sup>Mokolo moko ya sabato, Yesu azalaki koleka na bilanga ya ble, mpe bayekoli na ye, ntango bazalaki kotambola, babandaki kokata mito ya ble. <sup class="vn">24</sup>Bafalisai balobaki na ye: “Tala! Mpo na nini bazali kosala na mokolo ya sabato likambo oyo endimami te?” <sup class="vn">25</sup>Yesu azongiselaki bango: “Botangaki naino te oyo Davidi asalaki ntango ye mpe baninga na ye bazalaki na bosenga mpe na nzala? <sup class="vn">26</sup>Akotaki na ndako ya Nzambe na ntango ya nganga-nzambe mokonzi Abiatala, alyaki mampa ya likabo oyo esengeli kaka na banganga-nzambe, mpe apesaki yango mpe na baninga na ye.” <sup class="vn">27</sup>Mpe alobaki na bango: “<strong class="s-hi">Sabato esalemaki mpo na moto, kasi moto te mpo na sabato</strong>. <sup class="vn">28</sup>Yango wana <strong class="s-hi">Mwana na Moto azali Nkolo ata ya sabato</strong>.”»</blockquote>
+                </div>
+                <p>Sabato esalemaki mpo na moto, kasi moto te mpo na sabato, mpe Mwana na Moto azali Nkolo ata ya sabato. Yesu asalaka na sabato oyo alingi, ata kobongola yango.</p>
+                <h2>Balingaki koboma ye mpo na sabato<br>Yoane 5:18</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yoane 5:18</span>
+                    <blockquote>«Mpo na yango Bayuda balukaki lisusu makasi koboma ye, mpo <strong class="s-hi">azalaki kobuka sabato</strong>, mpe lisusu azalaki kobenga Nzambe Tata na ye moko, mpe na bongo azalaki komikomisa ndenge moko na Nzambe.»</blockquote>
+                </div>
+                <p>Yoane alobi yango polele: Klisto azalaki kobuka sabato, mpe yango wana balukaki koboma ye.</p>
+                <h2>Esili kokokisama<br>Yoane 19:30</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yoane 19:30</span>
+                    <blockquote>«Ntango Yesu ameli vinyo ya ngai, alobaki: “<strong class="s-hi">Esili kokokisama!</strong>” Mpe agumbaki moto mpe akabaki molimo.»</blockquote>
+                </div>
+                <p>Ezali nsuka ya boyokani ya kala. Klisto akokisaki yango, apemaki na lilita na mokolo ya sabato mpe asekwaki na lomingo.</p>
+                <p>Mpo na koboya yango, ba-adventiste batangaka Mateya ya likolo ya ngomba:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matai 5:17-18</span>
+                    <blockquote>«<sup class="vn">17</sup>Bókanisa te ete nayaki kolongola Mobeko to Basakoli. <strong class="s-hi">Nayaki kolongola te, kasi kokokisa</strong>. <sup class="vn">18</sup>Na solo nalobi na bino: kino likolo mpe mabele ekoleka, ata elembo moke moko to ponto moko ya Mobeko ekoleka te, <strong class="s-hi">kino makambo nyonso ekokokisama</strong>.»</blockquote>
+                </div>
+                <p>Makomi etii ndelo. Klisto ayaki kolongola Mobeko te kasi kokokisa yango, mpe Mobeko ezali na nguya kino makambo nyonso ekokokisama. Na ekulusu alobaki ete esili kokokisama. Oyo ekokisami elongolami te: ekomi na nsuka na yango mpo ekokisi oyo mpo na yango ezalaki.</p>
+                <h2>Bakufi mpo na Mobeko<br>Baroma 7:1-6</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Baroma 7:1-6</span>
+                    <blockquote>«<sup class="vn">1</sup>Boyebi te, bandeko, mpo <strong class="s-hi">nazali koloba na bato oyo bayebi mobeko</strong>, ete mobeko ezali na bokonzi likolo ya moto kaka na ntango azali na bomoi? <sup class="vn">2</sup>Na ndakisa, mwasi oyo abalá akangami na mobeko epai ya mobali na ye ntango mobali azali na bomoi; kasi soki mobali akufi, mwasi asikoli na mobeko oyo ekangisaki ye na mobali. <sup class="vn">3</sup>Yango wana, soki azali na mobali mosusu ntango mobali na ye azali na bomoi, bakobenga ye mwasi ya ekobo; kasi soki mobali akufi, azali na bonsomi na mobeko yango, mpe azali mwasi ya ekobo te soki abali mobali mosusu. <sup class="vn">4</sup>Ndenge moko mpe, bandeko na ngai, <strong class="s-hi">bino bokufi mpo na Mobeko na nzela ya nzoto ya Klisto, mpo bozala ya mosusu</strong>, ya ye oyo asekwaki na bawei, mpo tobota mbuma mpo na Nzambe. <sup class="vn">5</sup>Mpo ntango tozalaki kobika engebene na mosuni, <strong class="s-hi">baposa mabe ya masumu, oyo Mobeko elamusaki, ezalaki kosala kati na binama na biso mpo tobota mbuma ya kufa</strong>. <sup class="vn">6</sup>Kasi sikawa <strong class="s-hi">tosikolami na Mobeko, mpo tokufi mpo na oyo ekangaki biso</strong>, mpo tosalela Nzambe <strong class="s-hi">na bomoi ya sika ya Molimo, kasi na bomoi ya kala ya mikanda te</strong>.»</blockquote>
+                </div>
+                <p>Polo azali koloba na bato oyo bayebi mobeko mpe asaleli ndakisa ya libala. Mwasi akangami na mobali na ye ntango mobali azali na bomoi; soki mobali akufi, mwasi azali na bonsomi mpe akoki kobala mobali mosusu kozanga kozala mwasi ya ekobo. Ezali mpe bongo na Mobeko: na kufa ya Klisto, baklisto bakufi mpo na Mobeko mpe bakomi ya mosusu, ya ye oyo asekwaki. Mobeko oyo ekangaki bango ekangaka bango lisusu te, mpe basalelaka Nzambe na bomoi ya sika ya Molimo, na bomoi ya kala ya mikanda te.</p>
+                <p>Lokola Mobeko ekufi, sikawa Boyokani ya Sika nde ezali na nguya.</p>
+                <h2>Na bitando ya mabanga te<br>2 Bakorinti 3:3-16</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 2 Bakorinti 3:3-16</span>
+                    <blockquote>«<sup class="vn">3</sup>Ezali polele ete bino bozali mokanda ya Klisto oyo ekomami na nzela ya mosala na biso, na mayi ya kokoma te, kasi na Molimo ya Nzambe na bomoi; <strong class="s-hi">na bitando ya mabanga te, kasi na mitema ya bato</strong>. <sup class="vn">4</sup>Tozali na elikya ya ndenge wana epai ya Nzambe na nzela ya Klisto. <sup class="vn">5</sup>Ezali te ete tokoki na biso moko komipesa likambo moko lokola euti epai na biso; makoki na biso euti na Nzambe, <sup class="vn">6</sup>oyo akomisaki biso basali ya boyokani ya sika, ya mikanda te, kasi ya Molimo; mpo <strong class="s-hi">mikanda ebomaka, kasi Molimo apesaka bomoi</strong>. <sup class="vn">7</sup>Soki mosala oyo ememaka kufa, oyo ekomamaki na mikanda likolo ya mabanga, eyaki na nkembo boye ete bana ya Isalaele bakokaki kotala elongi ya Moize te mpo na kongenga na yango, <strong class="s-hi">atako ezalaki mpo na mwa ntango</strong>, <sup class="vn">8</sup>boni mosala ya Molimo ekozala na nkembo koleka te? <sup class="vn">9</sup>Soki mosala oyo ememaka etumbu ezalaki na nkembo, mosala oyo ememaka bosembo ezali na nkembo mingi koleka. <sup class="vn">10</sup>Na solo, <strong class="s-hi">oyo ezalaki na nkembo ezali lisusu na nkembo te</strong> mpo na nkembo oyo eleki yango. <sup class="vn">11</sup>Mpo soki oyo ezalaki mpo na mwa ntango ezalaki na nkembo, oyo ewumelaka ekozala na nkembo koleka. <sup class="vn">12</sup>Lokola tozali na elikya ya ndenge wana, tozali kosala na mpiko mingi, <sup class="vn">13</sup>kasi lokola Moize te, oyo <strong class="s-hi">azalaki kozipa elongi na ye na elamba mpo bana ya Isalaele bamona te nsuka ya oyo ezalaki mpo na mwa ntango</strong>. <sup class="vn">14</sup>Kasi <strong class="s-hi">makanisi na bango ekomaki makasi</strong>. Kino lelo, ntango bazali kotanga boyokani ya kala, elamba wana etikali; elongwaka te, mpo elongwaka kaka kati na Klisto. <sup class="vn">15</sup>Iyo, <strong class="s-hi">kino lelo, ntango nyonso bazali kotanga Moize, elamba ezipi mitema na bango</strong>; <sup class="vn">16</sup>kasi <strong class="s-hi">ntango moto abongoli motema epai ya Nkolo, elamba elongwaka</strong>.»</blockquote>
+                </div>
+                <p>Na bitando ya mabanga te kasi na motema. Mikanda ebomaka mpe Molimo apesaka bomoi. Kongenga ezalaki mpo na mwa ntango, mpe oyo ezalaki na nkembo ezali lisusu na nkembo te. Oyo ezali liloba ya Nzambe. Papa te to episkopo te nde alobaki yango, moto moko te abimisaki yango, mpe euti te epai ya mopasitoro moko oyo mokolo moko atelemaki mpe alimbolaki likambo moko.</p>
+                <p>Moize azalaki kozipa elongi na ye na elamba mpo bana ya Isalaele bamona te nsuka ya oyo ezalaki mpo na mwa ntango, mpe makanisi na bango ekomaki makasi kino lelo, lokola ya ba-adventiste mpe ya mangomba mosusu. Kino lelo, ntango nyonso bazali kotanga Moize, elamba ezipi mitema na bango, mpe elongwaka kaka ntango babongoli motema epai ya Nkolo, elingi koloba ntango bakomi bakatolike.</p>
+                <p>Bongo, oyo ezali na ntina ezali bitando ya mabanga te kasi motema: mobeko ya bizaleli malamu, kasi mobeko ya milulu te. Mibeko ya bizaleli malamu esilaka te, mpo Klisto azongisi yango, ndenge emonanaka na Matai 5. Oyo elekaki ezali mobeko ya milulu, mpe elongo na yango mobeko ya sabato, oyo mpo na baklisto lomingo ezwi esika na yango (Katekisimo ya Eklezia Katolike, 2175).</p>
+                <h2>Moto moko te asambisa bino<br>Bakolose 2:16-17</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Bakolose 2:16-17</span>
+                    <blockquote>«<sup class="vn">16</sup>Yango wana, <strong class="s-hi">moto moko te asambisa bino mpo na bilei to mpo na bimeli, to mpo na mikolo ya fete, sanza ya sika to sabato</strong>. <sup class="vn">17</sup>Makambo wana ezali kaka elili ya makambo oyo ekoya; kasi solo ezali nzoto ya Klisto.»</blockquote>
+                </div>
+                <p>Moto moko te asambisa bakatolike oyo basantisaka lomingo. Yango nde baprotestanti basalaka, awa ba-adventiste: bafundaka kozanga koyeba Makomami.</p>
+                <h2>«Tosengeli kolanda ndakisa ya Klisto»<br>Luka 2:21</h2>
+                <p>Mpo na koboya makambo oyo nyonso, mangomba oyo bazali na mwa bantina. Ya liboso: <em>«Yesu azalaki kotosa sabato, mpe moklisto asengeli kolanda ndakisa ya Klisto.»</em></p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Luka 2:21</span>
+                    <blockquote>«Ntango mikolo mwambe ekokaki <strong class="s-hi">mpo na kokata mwana ngenga</strong>, bapesaki ye nkombo Yesu, nkombo oyo anzelu apesaki ye liboso ete azwama na libumu.»</blockquote>
+                </div>
+                <p>Soki tosengeli kolanda ndakisa na ye, Luka alobi ete bakataki ye ngenga na mokolo ya mwambe. Mpo na nini bango bakatamaka ngenga te? Mpo balandaka kaka oyo ebongi na bango. Kokatama ngenga, lokola sabato, ezali ya boyokani ya kala.</p>
+                <h2>«Soki bolingi ngai, bótosa mibeko na ngai»<br>Yoane 14:15-26</h2>
+                <p>Ya mibale bazwaka yango na Yoane 14: <em>«Soki bolingi ngai, bótosa mibeko na ngai. Mpe mibeko ezali oyo zomi, elongo na sabato.»</em> Eteni yango elobi likambo mosusu:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yoane 14:15-26</span>
+                    <blockquote>«<sup class="vn">15</sup><strong class="s-hi">Soki bolingi ngai, bokotosa mibeko na ngai</strong>. <sup class="vn">16</sup>Mpe ngai nakobondela Tata, mpe akopesa bino Mosungi mosusu oyo akozala na bino libela, <sup class="vn">17</sup>Molimo ya solo, oyo mokili ekoki koyamba te, mpo emonaka ye te mpe eyebi ye te. Bino boyebi ye, mpo afandi na bino mpe akozala kati na bino. <sup class="vn">18</sup>Nakotika bino lokola bana bitike te; nakozonga epai na bino. <sup class="vn">19</sup>Mwa ntango moke, mpe mokili ekomona ngai lisusu te, kasi bino bokomona ngai; mpo ngai nazali na bomoi, mpe bino bokozala na bomoi. <sup class="vn">20</sup>Na mokolo wana bokoyeba ete ngai nazali kati na Tata na ngai, mpe bino kati na ngai, mpe ngai kati na bino. <sup class="vn">21</sup><strong class="s-hi">Oyo azali na mibeko na ngai mpe atosaka yango, ye nde alingaka ngai</strong>; mpe oyo alingaka ngai, Tata na ngai akolinga ye, mpe ngai nakolinga ye mpe nakomimonisa epai na ye. <sup class="vn">22</sup>Yuda, Isakalioti te, alobaki na ye: “Nkolo, ndenge nini okomimonisa epai na biso kasi epai ya mokili te?” <sup class="vn">23</sup>Yesu azongiselaki ye: “<strong class="s-hi">Soki moto alingi ngai, akotosa liloba na ngai</strong>, mpe Tata na ngai akolinga ye, mpe tokoya epai na ye mpe tokofanda na ye. <sup class="vn">24</sup>Oyo alingaka ngai te atosaka maloba na ngai te. Mpe liloba oyo bozali koyoka ezali ya ngai te, kasi ya Tata oyo atindaki ngai. <sup class="vn">25</sup>Nalobi na bino makambo oyo ntango nazali naino elongo na bino. <sup class="vn">26</sup>Kasi Mosungi, Molimo Mosantu, oyo Tata akotinda na nkombo na ngai, ye <strong class="s-hi">akoteya bino makambo nyonso mpe akokundolela bino makambo nyonso oyo nalobaki na bino</strong>.”»</blockquote>
+                </div>
+                <p>Klisto alobi te «mibeko ya Moize»: alobi mibeko na ngai. Ya kala te, kasi ya ye moko. Azongeli yango na vese 21 mpe 23, mpe na vese 26 alaki Molimo Mosantu, oyo akoteya bango makambo nyonso mpe akokundolela bango nyonso oyo alobaki.</p>
+                <h2>Mobeko ya sika<br>Yoane 13:34-35</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yoane 13:34-35</span>
+                    <blockquote>«<sup class="vn">34</sup><strong class="s-hi">Nazali kopesa bino mobeko ya sika</strong>: bólingana. Ndenge ngai nalingaki bino, bino mpe bólingana bongo. <sup class="vn">35</sup>Na likambo oyo <strong class="s-hi">bato nyonso bakoyeba ete bozali bayekoli na ngai</strong>: soki bozali na bolingo bino na bino.»</blockquote>
+                </div>
+                <p>Baklisto ya solo, kasi bato ya bokosi oyo batombokaki te, bayebanaka na kolanda mibeko ya Klisto.</p>
+                <h2>Kino nsuka ya mokili<br>Matai 28:19-20</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matai 28:19-20</span>
+                    <blockquote>«<sup class="vn">19</sup>Bongo bókende, bókomisa bato ya mabota nyonso bayekoli na ngai, bóbatisa bango na nkombo ya Tata, mpe ya Mwana, mpe ya Molimo Mosantu, <sup class="vn">20</sup><strong class="s-hi">bóteya bango kotosa makambo nyonso oyo napesaki bino mitindo</strong>. Mpe tala, nazali elongo na bino mikolo nyonso <strong class="s-hi">kino nsuka ya mokili</strong>.»</blockquote>
+                </div>
+                <p>Yesu apesi mitindo yango kino nsuka ya mokili. Mbala moko te, mbala mibale te, kaka na ebandeli te. Kino nsuka.</p>
+                <p>Mpe awa mateya mosusu ya baprotestanti ekweyi, oyo elobaka ete kondima ekoki mpe misala ezali na ntina te. Soki moto andimi liloba ya Klisto, kasi ye moko kaka te, mpe asali oyo alobi, makambo ebongwani. Misala ezali, mpe kondima esalelamaka.</p>
+                <h2>Elembo ete toyebi ye<br>1 Yoane 2:3</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Yoane 2:3</span>
+                    <blockquote>«Na likambo oyo toyebi ete toyebi ye: <strong class="s-hi">soki tozali kotosa mibeko na ye</strong>.»</blockquote>
+                </div>
+                <p>Mibeko ya Yesu. Oyo Klisto apesaka ezwamaka na kokokisa liloba na ye, lokola na Kana, esika kaka basaleli oyo basalaki oyo apesaki mitindo nde bayebaki oyo esalemaki (tala motó ya likambo <a href="tema-transubstanciacion.html">Transsubstantiation</a>).</p>
+                <h2>«Kasi ngai nalobi na bino»<br>Matai 5:20-28</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matai 5:20-28</span>
+                    <blockquote>«<sup class="vn">20</sup>Mpo nalobi na bino: soki bosembo na bino eleki te oyo ya bakomeli mpe ya Bafalisai, bokokota te na bokonzi ya likolo. <sup class="vn">21</sup>Boyokaki ete balobaki na bato ya kala: <strong class="s-hi">Okoboma te</strong>; mpe oyo akoboma akosambisama. <sup class="vn">22</sup><strong class="s-hi">Kasi ngai nalobi na bino</strong>: moto nyonso oyo asilikeli ndeko na ye akosambisama; oyo akobenga ndeko na ye “Zoba” akomema likambo na Likita; mpe oyo akobenga ye “Liboma” akobwakama na moto ya lifelo. <sup class="vn">23</sup>Yango wana, soki ozali kopesa likabo na yo na etumbelo mpe kuna okanisi ete ndeko na yo azali na likambo na yo, <sup class="vn">24</sup>tika likabo na yo liboso ya etumbelo, kende liboso koyokana na ndeko na yo, mpe na nsima zonga kopesa likabo na yo. <sup class="vn">25</sup>Yokana noki na monguna na yo ntango bozali naino na nzela, noki te monguna akaba yo na mosambisi, mpe mosambisi akaba yo na mokengeli, mpe bakobwaka yo na boloko. <sup class="vn">26</sup>Na solo nalobi na yo: okobima kuna te kino okofuta mbongo ya nsuka. <sup class="vn">27</sup>Boyokaki ete balobaki: <strong class="s-hi">Okosala ekobo te</strong>. <sup class="vn">28</sup><strong class="s-hi">Kasi ngai nalobi na bino</strong>: moto nyonso oyo akotala mwasi na posa mabe asili kosala na ye ekobo na motema na ye.»</blockquote>
+                </div>
+                <p>Na mokuse, Yesu azongisi mibeko ya kala, mpe yango wana bateyaka yango na katekisimo. Mosusu atiki yango ndenge ezalaki, mpe mosusu abongoli yango, lokola mobeko ya ekobo, oyo alayisi yango kino na makanisi. Mpo na sabato alobi eloko te.</p>
+                <h2>«Mpo na nini bosalaka te oyo nalobaka?»<br>Luka 6:46</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Luka 6:46</span>
+                    <blockquote>«Mpo na nini bobengaka ngai “Nkolo, Nkolo”, kasi <strong class="s-hi">bosalaka te oyo nalobaka?</strong>»</blockquote>
+                </div>
+                <p>Soki balingi mingi kosala oyo epesami mitindo, mpo na nini bakokisaka te oyo Klisto apesaka mitindo? Mpo bandimaka yango te. Soki bandimaki yango, balingaki kowelana na yango te.</p>
+                <h2>Oyo Nzambe akoki kondima te<br>Yisaya 1:13</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yisaya 1:13</span>
+                    <blockquote>«Bóyeisa lisusu te makabo ya mpamba; mpaka ya malasi ezali eloko ya nsoni epai na ngai. <strong class="s-hi">Sanza ya sika, sabato mpe mayangani</strong>: <strong class="s-hi">nakoki kondima te mabe elongo na feti</strong>.»</blockquote>
+                </div>
+                <p>Nkolo alobi yango na monoko ya Yisaya: sanza ya sika, sabato mpe mayangani ezali makambo oyo akoki kondima te.</p>
+                <ul>
+                    <li>Basi mibale ya Abalayama bazali mayokani mibale: ya Sinai ebotaka baombo, mpe Yelusaleme ya likolo ezali na bonsomi mpe ezali mama ya baklisto.</li>
+                    <li>Oyo akatami ngenga asengeli kotosa Mobeko mobimba, mpe oyo alingi kokoma moyengebene na nzela ya Mobeko akabwani na Klisto.</li>
+                    <li>Klisto asekwaki na lomingo, amimonisaki na mayangani ya bayekoli na lomingo mibale ya kolandana mpe andimaki bango.</li>
+                    <li>Bapostolo bazalaki kobuka lipa na mokolo ya liboso ya poso, bikeke liboso ya Konstantino, mpe Apokalise ebengi yango Mokolo ya Nkolo.</li>
+                    <li>Klisto azali Nkolo ya sabato, mpe na ekulusu alobaki ete esili kokokisama.</li>
+                    <li>Mobeko oyo ekomamaki na mabanga ezalaki mpo na mwa ntango; Boyokani ya Sika ekomami na motema.</li>
+                    <li>Mibeko ya moklisto ezali ya Klisto, oyo azongisi oyo ya kala mpe alobi eloko te mpo na sabato.</li>
+                </ul>
+                <h2>Bosukisi</h2>
+                <p>Boyokani ya Sinai esilaki ntango Klisto akokisaki yango na ekulusu. Baklisto bazali bana ya mwasi moombo te kasi ya mwasi ya bonsomi, mpe oyo amitii lisusu na nse ya Mobeko akabwani na Klisto. Bapostolo basanganaki na lomingo banda mokolo ya lisekwa, babukaki lipa na mokolo ya liboso ya poso mpe babengaki yango Mokolo ya Nkolo. Eklezia ebongolaki mokolo te. Ezwaki yango epai na bango.</p>
+                <p>Yango wana liloba ya Polo epai ya Bakolose ezali naino na ntina mpo na mokatolike nyonso oyo asantisaka lomingo:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Bakolose 2:16</span>
+                    <blockquote>«Yango wana, <strong class="s-hi">moto moko te asambisa bino</strong> mpo na bilei to mpo na bimeli, to mpo na mikolo ya fete, sanza ya sika to sabato.»</blockquote>
+                </div>`,
       nav: { prevTitle: "Purgatorio mpe mawa ya Nzambe", nextTitle: "Trinité Mosantu" }
     },
     "la-primacia-de-pedro": {

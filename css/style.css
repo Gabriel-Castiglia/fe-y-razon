@@ -1190,6 +1190,14 @@ html[lang="pt"] [data-complete-for~="pt"] {
   color: var(--gold);
   font-weight: 700;
 }
+/* Número de versículo dentro de una cita larga (la-nueva-ley) */
+.article-body blockquote sup.vn {
+  font-style: normal;
+  font-size: 0.68em;
+  margin: 0 3px 0 2px;
+  vertical-align: super;
+  line-height: 0;
+}
 .article-body .article-footnote {
   margin-top: 48px;
   padding-top: 20px;

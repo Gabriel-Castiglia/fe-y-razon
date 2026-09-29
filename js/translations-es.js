@@ -90,10 +90,10 @@ const translationsES = {
   },
   article8: {
     category: "Doctrina",
-    date: "Próximamente",
+    date: "Septiembre 2026",
     title: "La nueva ley",
-    excerpt: "La ley de Cristo que reemplaza la Antigua Ley y guía a los cristianos.",
-    time: "8 min lectura",
+    excerpt: "La Alianza del Sinaí terminó en la cruz y los apóstoles se reunían el domingo: lo que dice la Escritura sobre la Ley antigua y la nueva.",
+    time: "23 min lectura",
     link: "Leer →"
   },
   article9: {
@@ -342,37 +342,244 @@ Las siete citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
                 <span class="eyebrow-text">Tema Especial</span>
             </div>
             <h1>La nueva ley en Cristo</h1>
-            <p>Entiende cómo la ley de Cristo supera y completa la Antigua Ley, invitándonos a vivir en el amor y la libertad de los hijos de Dios.</p>
+            <p>La Alianza del Sinaí terminó en la cruz, y los apóstoles se reunían el domingo desde el día de la resurrección. Lo que dice la Escritura sobre la Ley antigua y la nueva, pasaje por pasaje.</p>
             <div class="article-meta">
-                <span>8 min lectura</span>
-                <span>Publicado en mayo de 2026</span>
+                <span>23 min lectura</span>
+                <span>Publicado en septiembre de 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Volver a Temas</a>`,
       article: `<!--
-REGLA: Todas las citas bíblicas en español deben provenir de la
-"Biblia de Jerusalén Latinoamericana" (sin "vosotros"). Si no está
-disponible para un versículo, usar la versión oficial en vatican.va.
+REGLA: Las citas bíblicas en español salen de "El Libro del Pueblo de Dios"
+(vatican.va/archive/ESL0506/) o de la Biblia de Jerusalén Latinoamericana,
+según cuál sirva mejor al argumento; cada cita declara la suya con
+la marca "fuente:" que la precede. Ambas usan "ustedes".
 NUNCA Reina-Valera ni traducciones protestantes.
+Texto base de Gabriel: la nueva alianza.docx (29-sep-2026). Las frases en rojo
+son las que él marcó como «Resaltado». Los números de versículo van en
+<sup class="vn">, que cotejo.py quita antes de comparar.
 -->
-<!-- TODO: agregar [Crítica común] — identificar qué grupos atacan la ley nueva (p. ej., quienes dicen que el Antiguo Testamento fue abolido, o los que niegan la moral cristiana) -->
-<!-- TODO: agregar [Cita bíblica] — la cita "Amarás al Señor..." necesita referencia completa (Mt 22:37-39) y formato scripture-block con texto verificado en BJL -->
-<!-- TODO: agregar [Conclusión] -->
-<p>La nueva ley es la ley del Evangelio, centrada en el mandamiento del amor. Cristo no elimina la Ley antigua, sino que la lleva a su plenitud y la hace accesible al corazón humano.</p>
-                <h2>Amor como criterio</h2>
-                <p>Jesús resume la Ley en amar a Dios y al prójimo. Esta nueva norma no es una carga, sino una libertad profunda que transforma nuestras acciones desde el interior.</p>
+<p>Varias sectas protestantes sostienen la herejía de que el cristiano sigue atado a la Ley de Moisés, o por lo menos a la parte de ella que cada una elige. La que lleva el error más lejos es la de los adventistas del séptimo día: guardan el sábado, se abstienen de los alimentos que la Ley declaraba impuros y acusan a la Iglesia de haber cambiado el día de Dios. Lo dicen así: <em>«El sábado es el día que Dios santificó para siempre. El domingo lo impuso Roma, y quien lo guarda obedece al papa y no a Dios.»</em></p>
+                <p>La respuesta está en la Escritura. Pablo la escribió para cristianos que estaban por hacer lo mismo que hacen hoy los adventistas: volver a la Ley después de haber recibido a Cristo. Es la carta a los Gálatas, y el pasaje se lee primero entero, con sus versículos, antes de recorrerlo por partes.</p>
+                <h2>Dos mujeres, dos Alianzas<br>Gálatas 4:21 — 5:12</h2>
+                <!-- fuente: vaticano -->
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝︎ Mateo 22:37-38</span>
-                    <blockquote>«<strong class="s-hi">Amarás al Señor tu Dios con todo tu corazón y a tu prójimo como a ti mismo</strong>»</blockquote>
+                    <span class="scripture-ref">✝︎ Gálatas 4:21 — 5:12</span>
+                    <blockquote>«<sup class="vn">21</sup>Ustedes que quieren someterse a la Ley, díganme: ¿No entienden lo que dice la Ley? <sup class="vn">22</sup>Porque está escrito que Abraham tuvo dos hijos: uno de su esclava y otro de su mujer, que era libre. <sup class="vn">23</sup>El hijo de la esclava nació según la carne; en cambio, el hijo de la mujer libre, nació en virtud de la promesa. <sup class="vn">24</sup><strong class="s-hi">Hay en todo esto un simbolismo: estas dos mujeres representan las dos Alianzas</strong>. <strong class="s-hi">La primera Alianza, la del monte Sinaí, que engendró un pueblo para la esclavitud</strong>, está representada por Agar, <sup class="vn">25</sup>porque el monte Sinaí está en Arabia, y corresponde a la Jerusalén actual, ya que ella con sus hijos viven en la esclavitud. <sup class="vn">26</sup><strong class="s-hi">Pero hay otra Jerusalén, la celestial, que es libre, y ella es nuestra madre</strong>. <sup class="vn">27</sup>Porque dice la Escritura: ¡Alégrate, tú que eres estéril y no das a luz; prorrumpe en gritos de alegría, tú que no conoces los dolores del parto! Porque serán más numerosos los hijos de la mujer abandonada que los hijos de la que tiene marido. <sup class="vn">28</sup>Nosotros, hermanos, <strong class="s-hi">somos como Isaac, hijos de la promesa</strong>. <sup class="vn">29</sup>Y así como entonces el hijo nacido según la carne perseguía al hijo nacido por obra del Espíritu, así también sucede ahora. <sup class="vn">30</sup>Pero dice la Escritura: Echa a la esclava y a su hijo, porque el hijo de la esclava no va a compartir la herencia con el hijo de la mujer libre. <sup class="vn">31</sup>Por lo tanto, hermanos, <strong class="s-hi">no somos hijos de una esclava, sino de la mujer libre</strong>. <sup class="vn">5:1</sup><strong class="s-hi">Esta es la libertad que nos ha dado Cristo. Manténganse firmes para no caer de nuevo bajo el yugo de la esclavitud</strong>. <sup class="vn">5:2</sup>Yo mismo, Pablo, les digo: si ustedes se hacen circuncidar, Cristo no les servirá de nada. <sup class="vn">5:3</sup><strong class="s-hi">Les vuelvo a insistir: todos los que se circuncidan, están obligados a observar íntegramente la Ley</strong>. <sup class="vn">5:4</sup>Si ustedes buscan la justicia por medio de la Ley, <strong class="s-hi">han roto con Cristo y quedan fuera del dominio de la gracia</strong>. <sup class="vn">5:5</sup>Porque a nosotros, el Espíritu, nos hace esperar por la fe los bienes de la justicia. <sup class="vn">5:6</sup>En efecto, en Cristo Jesús, ya no cuenta la circuncisión ni la incircuncisión, sino la fe que obra por medio del amor. <sup class="vn">5:7</sup>¡Ustedes andaban tan bien...! ¿Quién les impidió mantenerse fieles a la verdad? <sup class="vn">5:8</sup>¡No habrá sido a instancias de aquel que los llama! <sup class="vn">5:9</sup>Un poco de levadura hace fermentar toda la masa. <sup class="vn">5:10</sup>Yo espero en el Señor que ustedes no cambiarán de parecer. En cuanto a aquel que los está perturbando, <strong class="s-hi">será castigado, sea quien sea</strong>. <sup class="vn">5:11</sup>Hermanos, si yo predicara todavía la circuncisión, no me perseguirían. ¡Pero entonces, habría terminado el escándalo de la cruz! <sup class="vn">5:12</sup>En cuanto a los agitadores, <strong class="s-hi">ojalá que llegaran hasta la mutilación total</strong>.»</blockquote>
                 </div>
-                <h2>Completar la ley antigua</h2>
-                <p>Los profetas anunciaron una ley nueva que viviría en el corazón. La enseñanza de Cristo revela que el cumplimiento auténtico de la Ley no se reduce a acciones externas, sino a una disposición interior verdadera.</p>
+                <h2>La esclava y la libre<br>Gálatas 4:24-26</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Gálatas 4:24-26</span>
+                    <blockquote>«<sup class="vn">24</sup><strong class="s-hi">Hay en todo esto un simbolismo: estas dos mujeres representan las dos Alianzas</strong>. La primera Alianza, la del monte Sinaí, que <strong class="s-hi">engendró un pueblo para la esclavitud</strong>, está representada por Agar, <sup class="vn">25</sup>porque el monte Sinaí está en Arabia, y corresponde a la Jerusalén actual, ya que ella con sus hijos viven en la esclavitud. <sup class="vn">26</sup><strong class="s-hi">Pero hay otra Jerusalén, la celestial, que es libre, y ella es nuestra madre</strong>.»</blockquote>
+                </div>
+                <p>Pablo lo dice sin rodeos: la historia de Abraham es un símbolo, y las dos mujeres son las dos Alianzas. Agar, la esclava, es la Alianza del monte Sinaí. La otra es la Jerusalén de arriba, la celestial, que es libre, y esa es la madre de los cristianos.</p>
+                <p>Antes eran esclavos de la Alianza vieja, la de las leyes rituales, que servía para enseñarle costumbres a un pueblo. Pero eso no alcanzaba por sí solo. Por eso aquel pacto se cerró cuando el hombre maduró en su relación con Dios, y surgió la Nueva Alianza, la de la ley moral, la de la Jerusalén de arriba, la del cielo, que hace libres.</p>
+                <h2>Hijos de la libre<br>Gálatas 4:28-31</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Gálatas 4:28-31</span>
+                    <blockquote>«<sup class="vn">28</sup><strong class="s-hi">Nosotros, hermanos, somos como Isaac, hijos de la promesa</strong>. <sup class="vn">29</sup>Y así como entonces el hijo nacido según la carne perseguía al hijo nacido por obra del Espíritu, así también sucede ahora. <sup class="vn">30</sup>Pero dice la Escritura: Echa a la esclava y a su hijo, porque el hijo de la esclava no va a compartir la herencia con el hijo de la mujer libre. <sup class="vn">31</sup>Por lo tanto, hermanos, <strong class="s-hi">no somos hijos de una esclava, sino de la mujer libre</strong>.»</blockquote>
+                </div>
+                <p>Ahí está: los cristianos no son hijos de la esclava sino de la libre. No están bajo la Alianza antigua sino bajo la nueva, que tiene otras leyes.</p>
+                <h2>No volver al yugo<br>Gálatas 5:1-4</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Gálatas 5:1-4</span>
+                    <blockquote>«<sup class="vn">1</sup><strong class="s-hi">Esta es la libertad que nos ha dado Cristo</strong>. <strong class="s-hi">Manténganse firmes para no caer de nuevo bajo el yugo de la esclavitud</strong>. <sup class="vn">2</sup>Yo mismo, Pablo, les digo: si ustedes se hacen circuncidar, Cristo no les servirá de nada. <sup class="vn">3</sup><strong class="s-hi">Les vuelvo a insistir: todos los que se circuncidan, están obligados a observar íntegramente la Ley</strong>. <sup class="vn">4</sup>Si ustedes buscan la justicia por medio de la Ley, <strong class="s-hi">han roto con Cristo y quedan fuera del dominio de la gracia</strong>.»</blockquote>
+                </div>
+                <p>¿Por qué no se vuelve atrás? Porque Cristo liberó, y por eso Pablo pide mantenerse firmes y no caer de nuevo bajo el yugo de la esclavitud. Es decir, no dejar que los adventistas y otras sectas vengan a mentir y a arrastrar a los cristianos otra vez hacia leyes del pacto viejo, que ya no rigen. Y ni siquiera son todas, porque no se circuncidan: toman solamente las que les convienen.</p>
+                <p>¿Por qué no rigen? La Biblia también lo explica, y sigue: todos los que se circuncidan quedan obligados a observar íntegramente la Ley, la vieja, entera. Y los que buscan la justicia por medio de la Ley han roto con Cristo y quedan fuera de la gracia. Para eso vino Cristo: para sacar al hombre del pacto viejo y darle el nuevo.</p>
+                <h2>Sea quien sea<br>Gálatas 5:10-12</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Gálatas 5:10-12</span>
+                    <blockquote>«<sup class="vn">10</sup>Yo espero en el Señor que ustedes no cambiarán de parecer. En cuanto a aquel que los está perturbando, <strong class="s-hi">será castigado, sea quien sea</strong>. <sup class="vn">11</sup>Hermanos, si yo predicara todavía la circuncisión, no me perseguirían. ¡Pero entonces, habría terminado el escándalo de la cruz! <sup class="vn">12</sup>En cuanto a los agitadores, <strong class="s-hi">ojalá que llegaran hasta la mutilación total</strong>.»</blockquote>
+                </div>
+                <p>El que perturba a los que Cristo liberó será castigado, sea quien sea, y eso incluye a los adventistas y a las demás sectas heréticas y apóstatas. Sobre los agitadores, Pablo desea que llegaran hasta la mutilación total. Lo dice la Biblia, no este sitio. Más les convendría circuncidarse, apartarse del todo de la gracia de Cristo y atarse por completo a la Ley vieja, en vez de andar de revoltosos mintiéndole a la gente.</p>
+                <h2>Otro día<br>Hebreos 4:8</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Hebreos 4:8</span>
+                    <blockquote>«Porque si Josué hubiera introducido a los israelitas en ese Reposo, <strong class="s-hi">Dios no habría hablado después acerca de otro día</strong>.»</blockquote>
+                </div>
+                <p>Otro día, posterior, no el mismo. No hay interpretación posible para la palabra otro: otro quiere decir que no es el mismo.</p>
+                <p>Los adventistas responden con el versículo siguiente, que en la traducción del Vaticano dice así:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Hebreos 4:9-11</span>
+                    <blockquote>«<sup class="vn">9</sup>Queda, por lo tanto, reservado un Reposo, el del séptimo día, para el Pueblo de Dios. <sup class="vn">10</sup>Y <strong class="s-hi">aquel que entra en el Reposo de Dios descansa de sus trabajos</strong>, como Dios descansó de los suyos. <sup class="vn">11</sup><strong class="s-hi">Esforcémonos, entonces, por entrar en ese Reposo</strong>, a fin de que nadie caiga imitando aquel ejemplo de desobediencia.»</blockquote>
+                </div>
+                <p>Los versículos 10 y 11 dicen de qué reposo se trata. Es el Reposo de Dios, con mayúscula, en el que se entra para descansar de los propios trabajos como Dios descansó de los suyos, y el autor exhorta a esforzarse por entrar en él. Nadie se esfuerza por entrar en un sábado: llega solo, cada siete días. El reposo del que habla Hebreos es la vida eterna, que el sábado anunciaba como figura.</p>
+                <h2>El primer día de la semana<br>Juan 20:1</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 20:1</span>
+                    <blockquote>«<strong class="s-hi">El primer día de la semana</strong>, de madrugada, cuando todavía estaba oscuro, María Magdalena fue al sepulcro y vio que la piedra había sido sacada.»</blockquote>
+                </div>
+                <p>El primer día de la semana, el que sigue al sábado, es el domingo: el Domingo de Resurrección.</p>
+                <h2>Aquel mismo domingo<br>Juan 20:19</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 20:19</span>
+                    <blockquote>«<strong class="s-hi">Al atardecer de ese mismo día, el primero de la semana</strong>, estando cerradas las puertas del lugar donde se encontraban los discípulos, por temor a los judíos, llegó Jesús y poniéndose en medio de ellos, les dijo: <strong class="s-hi">¡La paz esté con ustedes!</strong>.»</blockquote>
+                </div>
+                <p>Aquel mismo domingo, los discípulos estaban reunidos a puertas cerradas por miedo a los judíos. Jesús se presenta en medio de ellos y les dice «¡La paz esté con ustedes!». No los reta: los aprueba. Si estuvieran haciendo algo mal, se lo diría.</p>
+                <h2>Ocho días después, otra vez domingo<br>Juan 20:26</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 20:26</span>
+                    <blockquote>«<strong class="s-hi">Ocho días más tarde, estaban de nuevo los discípulos reunidos</strong> en la casa, y estaba con ellos Tomás. Entonces apareció Jesús, estando cerradas las puertas, se puso en medio de ellos y les dijo: <strong class="s-hi">¡La paz esté con ustedes!</strong>.»</blockquote>
+                </div>
+                <p>Ocho días más tarde, contando desde aquel día, es el domingo siguiente. Los discípulos están otra vez reunidos, y Jesús vuelve a aprobarlos con el mismo saludo: «¡La paz esté con ustedes!».</p>
+                <h2>El domingo, para partir el pan<br>Hechos 20:7</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Hechos 20:7</span>
+                    <blockquote>«<strong class="s-hi">El primer día de la semana, cuando nos reunimos para partir el pan</strong>, Pablo, que debía salir al día siguiente, dirigió la palabra a la asamblea y su discurso se prolongó hasta la medianoche.»</blockquote>
+                </div>
+                <p>Es una reunión para el culto, la fracción del pan (véase el tema <a href="tema-la-eucaristia.html">La Eucaristía</a>), el primer día de la semana, ya desde los primeros cristianos. Ocurrió hacia el año 57, más de dos siglos y medio antes de la ley de Constantino sobre el domingo, que es del año 321. No hay argumento para decir que todos estaban equivocados. Si lo estaban, Pablo se equivocaba con ellos.</p>
+                <h2>Un día fijo para la colecta<br>1 Corintios 16:2</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Corintios 16:2</span>
+                    <blockquote>«<strong class="s-hi">El primer día de la semana</strong>, cada uno de ustedes guarde en su casa lo que haya podido ahorrar, para que las donaciones no se recojan solamente a mi llegada.»</blockquote>
+                </div>
+                <p>El primer día de la semana: el domingo, otra vez.</p>
+                <h2>El Día del Señor<br>Apocalipsis 1:10</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Apocalipsis 1:10</span>
+                    <blockquote>«<strong class="s-hi">El Día del Señor</strong> fui arrebatado por el Espíritu y oí detrás de mí una voz fuerte como una trompeta, que decía:.»</blockquote>
+                </div>
+                <p>El Día del Señor. Con ese término lo traducen la Biblia de Jerusalén y hasta la Reina-Valera de los protestantes, y la Biblia Latinoamericana, católica, pone directamente «un domingo». De ahí viene la palabra: en latín, <em>dies dominica</em>, el día del Señor.</p>
+                <h2>Dueño del sábado<br>Marcos 2:23-28</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Marcos 2:23-28</span>
+                    <blockquote>«<sup class="vn">23</sup>Un sábado en que Jesús atravesaba unos sembrados, sus discípulos comenzaron a arrancar espigas al pasar. <sup class="vn">24</sup>Entonces los fariseos le dijeron: ¡Mira! ¿Por qué hacen en sábado lo que no está permitido? <sup class="vn">25</sup>Él les respondió: ¿Ustedes no han leído nunca lo que hizo David, cuando él y sus compañeros se vieron obligados por el hambre, <sup class="vn">26</sup>cómo entró en la Casa de Dios, en el tiempo del Sumo Sacerdote Abiatar, y comió y dio a sus compañeros los panes de la ofrenda, que sólo pueden comer los sacerdotes? <sup class="vn">27</sup>Y agregó: <strong class="s-hi">El sábado ha sido hecho para el hombre, y no el hombre para el sábado</strong>. <sup class="vn">28</sup>De manera que <strong class="s-hi">el Hijo del hombre es dueño también del sábado</strong>.»</blockquote>
+                </div>
+                <p>El sábado fue hecho para el hombre, y no el hombre para el sábado, y el Hijo del hombre es dueño también del sábado. Jesús hace con el sábado lo que quiere, incluso cambiarlo.</p>
+                <h2>Lo querían matar por el sábado<br>Juan 5:18</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 5:18</span>
+                    <blockquote>«Pero para los judíos esta era una razón más para matarlo, porque no sólo <strong class="s-hi">violaba el sábado</strong>, sino que se hacía igual a Dios, llamándolo su propio Padre.»</blockquote>
+                </div>
+                <p>Juan lo dice con todas las letras: Cristo violaba el sábado, y por eso lo querían matar.</p>
+                <h2>Todo se ha cumplido<br>Juan 19:30</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 19:30</span>
+                    <blockquote>«Después de beber el vinagre, dijo Jesús: <strong class="s-hi">Todo se ha cumplido</strong>. E inclinando la cabeza, entregó su espíritu.»</blockquote>
+                </div>
+                <p>Es el fin de la antigua Alianza. Cristo la cumplió, descansó el sábado en el sepulcro y resucitó el domingo.</p>
+                <p>Contra esto, los adventistas citan el Sermón de la Montaña:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mateo 5:17-18</span>
+                    <blockquote>«<sup class="vn">17</sup>No piensen que vine para abolir la Ley o los Profetas: <strong class="s-hi">yo no he venido a abolir, sino a dar cumplimiento</strong>. <sup class="vn">18</sup>Les aseguro que no desaparecerá ni una i ni una coma de la Ley, antes que desaparezcan el cielo y la tierra, <strong class="s-hi">hasta que todo se realice</strong>.»</blockquote>
+                </div>
+                <p>El texto pone un plazo. Cristo no vino a abolir la Ley sino a darle cumplimiento, y la Ley rige hasta que todo se realice. En la cruz dijo que todo se había cumplido. Lo que se cumple no se deroga: llega a su fin porque alcanzó aquello para lo que existía.</p>
+                <h2>Muertos a la Ley<br>Romanos 7:1-6</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Romanos 7:1-6</span>
+                    <blockquote>«<sup class="vn">1</sup>¿Acaso ustedes ignoran, hermanos –<strong class="s-hi">hablo a gente que entiende de leyes</strong>– que el hombre está sujeto a la ley únicamente mientras vive? <sup class="vn">2</sup>Así, una mujer casada permanece ligada por la ley a su esposo mientras él viva; pero al morir el esposo, queda desligada de la ley que la unía a él. <sup class="vn">3</sup>Por lo tanto, será tenida por adúltera si en vida de su marido se une a otro hombre. En cambio, si su esposo muere, quedará desligada de la ley, y no será considerada adúltera si se casa con otro hombre. <sup class="vn">4</sup>De igual manera, hermanos, <strong class="s-hi">por la unión con el cuerpo de Cristo, ustedes han muerto a la Ley, para pertenecer a otro</strong>, a aquel que resucitó a fin de que podamos dar frutos para Dios. <sup class="vn">5</sup>Porque mientras vivíamos según la naturaleza carnal, <strong class="s-hi">las malas pasiones, estimuladas por la Ley, obraban en nuestros miembros para hacernos producir frutos de muerte</strong>. <sup class="vn">6</sup>Pero ahora, <strong class="s-hi">muertos a todo aquello que nos tenía esclavizados, hemos sido liberados de la Ley</strong>, de manera que podamos servir a Dios <strong class="s-hi">con un espíritu nuevo y no según una letra envejecida</strong>.»</blockquote>
+                </div>
+                <p>Pablo habla a gente que entiende de leyes y usa la analogía del matrimonio. La mujer queda ligada a su marido mientras él vive; cuando él muere, queda libre y puede casarse con otro sin ser adúltera. Con la Ley pasa lo mismo: por la muerte de Cristo, los cristianos murieron a la Ley y pasaron a pertenecer a otro, al que resucitó. La Ley que los tenía esclavizados ya no los ata, y sirven a Dios con un espíritu nuevo, no según una letra envejecida.</p>
+                <p>Muerta la Ley, ahora rige la Nueva Alianza.</p>
+                <h2>No en tablas de piedra<br>2 Corintios 3:3-16</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 2 Corintios 3:3-16</span>
+                    <blockquote>«<sup class="vn">3</sup>Evidentemente ustedes son una carta que Cristo escribió por intermedio nuestro, no con tinta, sino con el Espíritu del Dios viviente, <strong class="s-hi">no en tablas de piedra, sino de carne, es decir, en los corazones</strong>. <sup class="vn">4</sup>Es Cristo el que nos da esta seguridad delante de Dios, <sup class="vn">5</sup>no porque podamos atribuirnos algo que venga de nosotros mismos, ya que toda nuestra capacidad viene de Dios. <sup class="vn">6</sup>Él nos ha capacitado para que seamos los ministros de una Nueva Alianza, que no reside en la letra, sino en el Espíritu; porque <strong class="s-hi">la letra mata, pero el Espíritu da vida</strong>. <sup class="vn">7</sup>Ahora bien, si el ministerio que lleva a la muerte –grabado sobre piedras– fue inaugurado con tanta gloria que los israelitas no podían fijar sus ojos en el rostro de Moisés, por <strong class="s-hi">el resplandor –aunque pasajero–</strong> de ese rostro, <sup class="vn">8</sup>¡cuánto más glorioso será el ministerio del Espíritu! <sup class="vn">9</sup>Y si el ministerio que llevaba a la condenación fue tan glorioso, ¡cuál no será la gloria del ministerio que conduce a la justicia! <sup class="vn">10</sup>En realidad, <strong class="s-hi">aquello que fue glorioso bajo cierto aspecto ya no lo es más</strong> en comparación con esta gloria extraordinaria. <sup class="vn">11</sup>Porque si lo que era transitorio se ha manifestado con tanta gloria, ¡cuánto más glorioso será lo que es permanente! <sup class="vn">12</sup>Animados con esta esperanza, nos comportamos con absoluta franqueza, <sup class="vn">13</sup>y no como Moisés, que <strong class="s-hi">se cubría el rostro con un velo para impedir que los israelitas vieran el fin de un esplendor pasajero</strong>. <sup class="vn">14</sup>Pero <strong class="s-hi">se les oscureció el entendimiento, y ese mismo velo permanece hasta el día de hoy</strong> en la lectura del Antiguo Testamento, porque es Cristo el que lo hace desaparecer. <sup class="vn">15</sup>Sí, <strong class="s-hi">hasta el día de hoy aquel velo les cubre la inteligencia siempre que leen a Moisés</strong>. <sup class="vn">16</sup>Pero <strong class="s-hi">al que se convierte al Señor, se le cae el velo</strong>.»</blockquote>
+                </div>
+                <p>No en tablas de piedra sino en el corazón. La letra mata y el Espíritu da vida. El resplandor era pasajero, y lo que fue glorioso ya no lo es. Esto es palabra de Dios. No lo dijo un papa ni un obispo, no lo inventó nadie, ni salió de ningún pastor que un día se levantó e interpretó algo.</p>
+                <p>Moisés se cubría el rostro con un velo para que los israelitas no vieran el fin de lo que era pasajero, y se les oscureció el entendimiento hasta el día de hoy, como a los adventistas y a otras sectas. Hasta el día de hoy, siempre que leen a Moisés, el velo les cubre la inteligencia, y solo se les cae cuando se convierten al Señor, es decir, cuando se hacen católicos.</p>
+                <p>Lo importante, entonces, no son las tablas de piedra sino el corazón: la ley moral, no la ceremonial. Los mandamientos morales no desaparecen, porque Cristo los retoma, como se ve en Mateo 5. Lo que pasó fue la ley ceremonial, y con ella el precepto del sábado, que para los cristianos quedó reemplazado por el domingo (Catecismo de la Iglesia Católica, 2175).</p>
+                <h2>Que nadie los critique<br>Colosenses 2:16-17</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Colosenses 2:16-17</span>
+                    <blockquote>«<sup class="vn">16</sup>Por eso, <strong class="s-hi">que nadie los critique por cuestiones de alimento y de bebida, o de días festivos, de novilunios y de sábados</strong>. <sup class="vn">17</sup>Todas esas cosas no son más que la sombra de una realidad futura, que es el Cuerpo de Cristo.»</blockquote>
+                </div>
+                <p>Que nadie critique a los católicos que santifican el domingo. Es lo que hacen los protestantes, en este caso los adventistas: criticar sin conocer la Escritura.</p>
+                <h2>«Hay que imitar a Cristo»<br>Lucas 2:21</h2>
+                <p>Contra todo esto, estas sectas tienen algunos argumentos. El primero: <em>«Jesús guardaba el sábado, y el cristiano tiene que imitar a Cristo.»</em></p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Lucas 2:21</span>
+                    <blockquote>«Ocho días después, <strong class="s-hi">llegó el tiempo de circuncidar al niño</strong> y se le puso el nombre de Jesús, nombre que le había sido dado por el Ángel antes de su concepción.»</blockquote>
+                </div>
+                <p>Si hay que imitarlo, Lucas cuenta que a los ocho días lo circuncidaron. ¿Por qué no se circuncidan? Porque imitan lo que les conviene. La circuncisión, igual que el sábado, es del antiguo pacto.</p>
+                <h2>«Si me aman, guarden mis mandamientos»<br>Juan 14:15-26</h2>
+                <p>El segundo lo toman de Juan 14: <em>«Si me aman, guarden mis mandamientos. Y los mandamientos son los diez, con el sábado incluido.»</em> El pasaje dice otra cosa:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 14:15-26</span>
+                    <blockquote>«<sup class="vn">15</sup><strong class="s-hi">Si ustedes me aman, cumplirán mis mandamientos</strong>. <sup class="vn">16</sup>Y yo rogaré al Padre, y él les dará otro Paráclito para que esté siempre con ustedes: <sup class="vn">17</sup>el Espíritu de la Verdad, a quien el mundo no puede recibir, porque no lo ve ni lo conoce. Ustedes, en cambio, lo conocen, porque él permanece con ustedes y estará en ustedes. <sup class="vn">18</sup>No los dejaré huérfanos, volveré a ustedes. <sup class="vn">19</sup>Dentro de poco el mundo ya no me verá, pero ustedes sí me verán, porque yo vivo y también ustedes vivirán. <sup class="vn">20</sup>Aquel día comprenderán que yo estoy en mi Padre, y que ustedes están en mí y yo en ustedes. <sup class="vn">21</sup><strong class="s-hi">El que recibe mis mandamientos y los cumple, ese es el que me ama</strong>; y el que me ama será amado por mi Padre, y yo lo amaré y me manifestaré a él. <sup class="vn">22</sup>Judas –no el Iscariote– le dijo: Señor, ¿por qué te vas a manifestar a nosotros y no al mundo? <sup class="vn">23</sup>Jesús le respondió: <strong class="s-hi">El que me ama será fiel a mi palabra</strong>, y mi Padre lo amará; iremos a él y habitaremos en él. <sup class="vn">24</sup>El que no me ama no es fiel a mis palabras. La palabra que ustedes oyeron no es mía, sino del Padre que me envió. <sup class="vn">25</sup>Yo les digo estas cosas mientras permanezco con ustedes. <sup class="vn">26</sup>Pero el Paráclito, el Espíritu Santo, que el Padre enviará en mi Nombre, <strong class="s-hi">les enseñará todo y les recordará lo que les he dicho</strong>.»</blockquote>
+                </div>
+                <p>Cristo no dice «los mandamientos de Moisés»: dice mis mandamientos. No los viejos, los suyos propios. Vuelve sobre ellos en los versículos 21 y 23, y en el 26 promete el Espíritu Santo, que les enseñará todo y les recordará lo que él les dijo.</p>
+                <h2>El mandamiento nuevo<br>Juan 13:34-35</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 13:34-35</span>
+                    <blockquote>«<sup class="vn">34</sup><strong class="s-hi">Les doy un mandamiento nuevo</strong>: ámense los unos a los otros. Así como yo los he amado, ámense también ustedes los unos a los otros. <sup class="vn">35</sup><strong class="s-hi">En esto todos reconocerán que ustedes son mis discípulos</strong>: en el amor que se tengan los unos a los otros.»</blockquote>
+                </div>
+                <p>Los verdaderos cristianos, y no los herejes apóstatas, se reconocen por seguir los mandamientos de Cristo.</p>
+                <h2>Hasta el fin del mundo<br>Mateo 28:19-20</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mateo 28:19-20</span>
+                    <blockquote>«<sup class="vn">19</sup>Vayan, y hagan que todos los pueblos sean mis discípulos, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo, <sup class="vn">20</sup>y <strong class="s-hi">enseñándoles a cumplir todo lo que yo les he mandado</strong>. Y yo estaré siempre con ustedes <strong class="s-hi">hasta el fin del mundo</strong>.»</blockquote>
+                </div>
+                <p>Lo manda Jesús hasta el fin del mundo. No una vez, ni dos, ni solamente al principio. Hasta el fin.</p>
+                <p>Y aquí se cae otra doctrina protestante, la de que basta con creer y las obras no cuentan. Si se cree en la palabra de Cristo, y no solamente en él, y se hace lo que dice, la cosa cambia. Hay obras, y la fe se pone en práctica.</p>
+                <h2>La señal de que lo conocemos<br>1 Juan 2:3</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Juan 2:3</span>
+                    <blockquote>«La señal de que lo conocemos, <strong class="s-hi">es que cumplimos sus mandamientos</strong>.»</blockquote>
+                </div>
+                <p>Los mandamientos de Jesús. Lo que Cristo da se recibe al cumplir su palabra, como en Caná, donde solo los sirvientes que hicieron lo que él mandó supieron lo que había ocurrido (véase el tema <a href="tema-transubstanciacion.html">Transubstanciación</a>).</p>
+                <h2>«Pero yo les digo»<br>Mateo 5:20-28</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mateo 5:20-28</span>
+                    <blockquote>«<sup class="vn">20</sup>Les aseguro que si la justicia de ustedes no es superior a la de los escribas y fariseos, no entrarán en el Reino de los Cielos. <sup class="vn">21</sup>Ustedes han oído que se dijo a los antepasados: <strong class="s-hi">No matarás</strong>, y el que mata, debe ser llevado ante el tribunal. <sup class="vn">22</sup><strong class="s-hi">Pero yo les digo</strong> que todo aquel que se irrita contra su hermano, merece ser condenado por un tribunal. Y todo aquel que lo insulta, merece ser castigado por el Sanedrín. Y el que lo maldice, merece la Gehena de fuego. <sup class="vn">23</sup>Por lo tanto, si al presentar tu ofrenda en el altar, te acuerdas de que tu hermano tiene alguna queja contra ti, <sup class="vn">24</sup>deja tu ofrenda ante el altar, ve a reconciliarte con tu hermano, y sólo entonces vuelve a presentar tu ofrenda. <sup class="vn">25</sup>Trata de llegar en seguida a un acuerdo con tu adversario, mientras vas caminando con él, no sea que el adversario te entregue al juez, y el juez al guardia, y te pongan preso. <sup class="vn">26</sup>Te aseguro que no saldrás de allí hasta que hayas pagado el último centavo. <sup class="vn">27</sup>Ustedes han oído que se dijo: <strong class="s-hi">No cometerás adulterio</strong>. <sup class="vn">28</sup><strong class="s-hi">Pero yo les digo</strong>: El que mira a una mujer deseándola, ya cometió adulterio con ella en su corazón.»</blockquote>
+                </div>
+                <p>En resumen, Jesús retoma los mandamientos antiguos, y por eso se enseñan en el catecismo. A algunos los deja como estaban y a otros los modifica, como el del adulterio, que lo amplía al pensamiento. Del sábado no dice nada.</p>
+                <h2>«¿Por qué no hacen lo que les digo?»<br>Lucas 6:46</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Lucas 6:46</span>
+                    <blockquote>«¿Por qué ustedes me llaman: Señor, Señor, <strong class="s-hi">y no hacen lo que les digo</strong>?»</blockquote>
+                </div>
+                <p>Si tanto quieren hacer lo que está mandado, ¿por qué no cumplen lo que Cristo manda? Porque no lo creen. Si lo creyeran, no lo discutirían.</p>
+                <h2>Lo que Dios no soporta<br>Isaías 1:13</h2>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Isaías 1:13</span>
+                    <blockquote>«No me sigan trayendo vanas ofrendas; el incienso es para mí una abominación. <strong class="s-hi">Luna nueva, sábado, convocación a la asamblea</strong>... <strong class="s-hi">¡no puedo aguantar la falsedad y la fiesta!</strong>.»</blockquote>
+                </div>
+                <p>Lo dice el Señor por boca de Isaías: la luna nueva, el sábado y la convocación a la asamblea le resultan insoportables.</p>
                 <ul>
-                    <li>La nueva ley nos llama a ser sal de la tierra y luz del mundo.</li>
-                    <li>El perdón y la misericordia son su expresión más genuina.</li>
-                    <li>Vivimos la ley de Cristo al entregarnos por amor.</li>
+                    <li>Las dos mujeres de Abraham son las dos Alianzas: la del Sinaí engendra esclavos, y la Jerusalén celestial es libre y es la madre de los cristianos.</li>
+                    <li>El que se circuncida queda obligado a la Ley entera, y el que busca la justicia por la Ley rompe con Cristo.</li>
+                    <li>Cristo resucitó el domingo, se presentó dos domingos seguidos ante los discípulos reunidos y los aprobó.</li>
+                    <li>Los apóstoles partían el pan el primer día de la semana, siglos antes de Constantino, y el Apocalipsis lo llama el Día del Señor.</li>
+                    <li>Cristo es dueño del sábado, y en la cruz dijo que todo se había cumplido.</li>
+                    <li>La Ley grabada en piedra era pasajera; la Nueva Alianza está escrita en el corazón.</li>
+                    <li>Los mandamientos del cristiano son los de Cristo, que retoma los antiguos y no dice nada del sábado.</li>
                 </ul>
-                <h2>Práctica cristiana</h2>
-                <p>La nueva ley se convierte en vida concreta cuando cultivamos la humildad, la justicia y la compasión. La Eucaristía y la oración nos ayudan a vivirla día a día.</p>`,
+                <h2>Conclusión</h2>
+                <p>La Alianza del Sinaí terminó cuando Cristo la cumplió en la cruz. Los cristianos no son hijos de la esclava sino de la libre, y el que se pone otra vez bajo la Ley rompe con Cristo. Los apóstoles se reunieron el domingo desde el día de la resurrección, partieron el pan el primer día de la semana y lo llamaron el Día del Señor. La Iglesia no cambió el día. Lo recibió de ellos.</p>
+                <p>Por eso la palabra de Pablo a los colosenses sigue valiendo para cada católico que santifica el domingo:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Colosenses 2:16</span>
+                    <blockquote>«Por eso, <strong class="s-hi">que nadie los critique</strong> por cuestiones de alimento y de bebida, o de días festivos, de novilunios y de sábados.»</blockquote>
+                </div>`,
       nav: {
         prevTitle: "El purgatorio y la misericordia de Dios",
         nextTitle: "La Santísima Trinidad"

@@ -46,7 +46,7 @@ const translationsSW = {
     category: "Mafundisho", date: "Septemba 2026", title: "Toharani", excerpt: "Gereza ambalo mtu hutoka na dhambi zinazosamehewa katika ulimwengu ujao: anachofundisha Kristo juu ya utakaso.", time: "Dakika 8 kusoma", link: "Soma →"
   },
   article8: {
-    category: "Mafundisho", date: "Hivi karibuni", title: "Sheria Mpya", excerpt: "Sheria ya Kristo inayochukua nafasi ya Sheria ya Kale na kuwaongoza Wakristo.", time: "Dakika 8 kusoma", link: "Soma →"
+    category: "Mafundisho", date: "Septemba 2026", title: "Sheria Mpya", excerpt: "Agano la Sinai lilikoma msalabani, na mitume walikutana siku ya Jumapili: yale ambayo Maandiko yanasema kuhusu Sheria ya zamani na ile mpya.", time: "Dakika 23 kusoma", link: "Soma →"
   },
   article9: {
     category: "Apologetiki", date: "Septemba 2026", title: "Ukuu wa Petro", excerpt: "Funguo za Ufalme, mwamba na kazi ya kuwaimarisha ndugu: yale ambayo Maandiko yanampa Petro.", time: "Dakika 14 kusoma", link: "Soma →"
@@ -163,11 +163,204 @@ const translationsSW = {
     },
     "la-nueva-ley": {
       pageTitle: "Sheria Mpya | Imani na Akili",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Sheria Mpya katika Kristo</h1><p>Elewa jinsi sheria ya Kristo inavyozidi na kukamilisha Sheria ya Kale, ikitualika kuishi katika upendo na uhuru wa watoto wa Mungu.</p><div class="article-meta"><span>Dakika 8 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
-      article: `<p>Sheria mpya ni sheria ya Injili, inayojikita katika amri ya upendo. Kristo haondoi Sheria ya Kale, bali anaifikisha kwenye ukamilifu wake na kuifanya ipatikane kwa moyo wa mwanadamu.</p><h2>Upendo kama kigezo</h2><p>Yesu anafupisha Sheria katika kumpenda Mungu na jirani. Kanuni hii mpya si mzigo, bali ni uhuru wa kina unaobadilisha matendo yetu kutoka ndani.</p><div class="scripture-block">
-                    <span class="scripture-ref">✝︎ Mathayo 22:37-38</span>
-                    <blockquote>«<strong class="s-hi">Mpende Bwana Mungu wako kwa moyo wako wote, na jirani yako kama nafsi yako</strong>»</blockquote>
-                </div><h2>Kukamilisha sheria ya kale</h2><p>Manabii walitangaza sheria mpya ambayo ingeishi moyoni. Mafundisho ya Kristo yanafunua kwamba utii wa kweli wa Sheria haupunguzwi kwa matendo ya nje, bali kwa mtazamo wa kweli wa ndani.</p><ul><li>Sheria mpya inatuita kuwa chumvi ya dunia na nuru ya ulimwengu.</li><li>Msamaha na huruma ni usemi wake wa kweli zaidi.</li><li>Tunaishi sheria ya Kristo kwa kujitoa kwa upendo.</li></ul><h2>Mazoezi ya Kikristo</h2><p>Sheria mpya inakuwa maisha halisi tunapokuza unyenyekevu, haki na huruma. Ekaristi na sala hutusaidia kuiishi kila siku.</p>`,
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Sheria Mpya katika Kristo</h1><p>Agano la Sinai lilikoma msalabani, na mitume walikutana siku ya Jumapili tangu siku ya ufufuko. Yale ambayo Maandiko yanasema kuhusu Sheria ya zamani na ile mpya, kifungu kwa kifungu.</p><div class="article-meta"><span>Dakika 23 kusoma</span><span>Imechapishwa Septemba 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      article: `<!--
+Traducción de la-nueva-ley desde el español (29-sep-2026). Citas según la
+traducción católica usual de este idioma, escritas de memoria: sin cotejar.
+-->
+<p>Madhehebu kadhaa ya Kiprotestanti yanashikilia uzushi kwamba Mkristo bado amefungwa na Sheria ya Mose, au angalau na sehemu yake ambayo kila dhehebu linachagua. Wanaoupeleka upotofu huo mbali zaidi ni Waadventista wa Sabato: wanashika Sabato, wanajiepusha na vyakula ambavyo Sheria iliviita najisi, na wanalishtaki Kanisa kwamba lilibadilisha siku ya Mungu. Wanasema hivi: <em>«Sabato ni siku ambayo Mungu aliitakasa milele. Jumapili iliwekwa na Roma, na anayeishika anamtii papa na si Mungu.»</em></p>
+                <p>Jibu liko katika Maandiko. Paulo aliliandika kwa Wakristo waliokuwa karibu kufanya yale wanayofanya Waadventista leo: kurudi kwenye Sheria baada ya kumpokea Kristo. Ni barua kwa Wagalatia, na kifungu kinasomwa kwanza chote, pamoja na aya zake, kabla ya kuchambuliwa sehemu kwa sehemu.</p>
+                <h2>Wanawake wawili, Maagano mawili<br>Wagalatia 4:21 — 5:12</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Wagalatia 4:21 — 5:12</span>
+                    <blockquote>«<sup class="vn">21</sup>Niambieni, ninyi mnaotaka kuwa chini ya Sheria: je, hamsikii Sheria inavyosema? <sup class="vn">22</sup>Imeandikwa kwamba Abrahamu alikuwa na wana wawili, mmoja wa mjakazi na mwingine wa mwanamke huru. <sup class="vn">23</sup>Mwana wa mjakazi alizaliwa kwa njia ya kawaida ya kimwili, lakini mwana wa mwanamke huru alizaliwa kwa nguvu ya ahadi. <sup class="vn">24</sup><strong class="s-hi">Mambo haya ni mfano: wanawake hao wawili ni maagano mawili</strong>. <strong class="s-hi">Mmoja ni wa mlima Sinai, anazaa watoto wa utumwa</strong>; huyo ni Hagari. <sup class="vn">25</sup>Hagari ni mlima Sinai huko Arabia, naye ni mfano wa Yerusalemu ya sasa, iliyo utumwani pamoja na watoto wake. <sup class="vn">26</sup><strong class="s-hi">Lakini Yerusalemu ya juu ni huru, naye ndiye mama yetu</strong>. <sup class="vn">27</sup>Maana imeandikwa: Furahi, ewe mwanamke tasa usiyezaa; paza sauti kwa shangwe, wewe usiyepata uchungu wa kuzaa; kwa maana watoto wa mwanamke aliyeachwa ni wengi kuliko wa yule aliye na mume. <sup class="vn">28</sup>Basi ninyi, ndugu, ni <strong class="s-hi">watoto wa ahadi kama Isaka</strong>. <sup class="vn">29</sup>Lakini kama vile wakati ule yule aliyezaliwa kwa njia ya mwili alimdhulumu yule aliyezaliwa kwa njia ya Roho, ndivyo ilivyo hata sasa. <sup class="vn">30</sup>Lakini Maandiko yasemaje? Mfukuze mjakazi pamoja na mwanawe, kwa maana mwana wa mjakazi hatarithi pamoja na mwana wa mwanamke huru. <sup class="vn">31</sup>Basi, ndugu, <strong class="s-hi">sisi si watoto wa mjakazi, bali wa mwanamke huru</strong>. <sup class="vn">5:1</sup><strong class="s-hi">Kristo alitupa uhuru ili tuwe huru kweli. Basi simameni imara, wala msikubali tena kufungwa katika nira ya utumwa</strong>. <sup class="vn">5:2</sup>Sikilizeni! Mimi Paulo nawaambieni: mkikubali kutahiriwa, Kristo hatawafaidia chochote. <sup class="vn">5:3</sup><strong class="s-hi">Namshuhudia tena kila mtu anayekubali kutahiriwa kwamba anawajibika kuishika Sheria yote</strong>. <sup class="vn">5:4</sup>Ninyi mnaotaka kufanywa waadilifu kwa njia ya Sheria <strong class="s-hi">mmejitenga na Kristo</strong>; <strong class="s-hi">mmeanguka mbali na neema</strong>. <sup class="vn">5:5</sup>Lakini sisi, kwa nguvu ya Roho na kwa imani, tunangojea tumaini la uadilifu. <sup class="vn">5:6</sup>Maana katika Kristo Yesu kutahiriwa au kutotahiriwa hakuna maana yoyote, ila imani itendayo kazi kwa upendo. <sup class="vn">5:7</sup>Mlikuwa mnakwenda vizuri; ni nani aliyewazuia msiutii ukweli? <sup class="vn">5:8</sup>Ushawishi huo haukutoka kwake yeye anayewaita. <sup class="vn">5:9</sup>Chachu kidogo huchachusha donge zima. <sup class="vn">5:10</sup>Mimi nina hakika katika Bwana kwamba hamtakuwa na fikira nyingine; lakini <strong class="s-hi">yule anayewavuruga ataadhibiwa, awe nani yule</strong>. <sup class="vn">5:11</sup>Lakini ndugu, kama ningekuwa bado ninahubiri kutahiriwa, kwa nini bado ninadhulumiwa? Hapo kikwazo cha msalaba kingekuwa kimeondolewa. <sup class="vn">5:12</sup><strong class="s-hi">Laiti wale wanaowavuruga wangejikata kabisa!</strong>»</blockquote>
+                </div>
+                <h2>Mjakazi na mwanamke huru<br>Wagalatia 4:24-26</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Wagalatia 4:24-26</span>
+                    <blockquote>«<sup class="vn">24</sup><strong class="s-hi">Mambo haya ni mfano: wanawake hao wawili ni maagano mawili</strong>. Mmoja ni wa mlima Sinai, <strong class="s-hi">anazaa watoto wa utumwa</strong>; huyo ni Hagari. <sup class="vn">25</sup>Hagari ni mlima Sinai huko Arabia, naye ni mfano wa Yerusalemu ya sasa, iliyo utumwani pamoja na watoto wake. <sup class="vn">26</sup><strong class="s-hi">Lakini Yerusalemu ya juu ni huru, naye ndiye mama yetu</strong>.»</blockquote>
+                </div>
+                <p>Paulo anasema waziwazi: habari ya Abrahamu ni mfano, na wanawake wawili ni Maagano mawili. Hagari, mjakazi, ni Agano la mlima Sinai. Mwingine ni Yerusalemu ya juu, ya mbinguni, iliyo huru, naye ndiye mama wa Wakristo.</p>
+                <p>Zamani walikuwa watumwa wa Agano la kale, agano la sheria za ibada, lililofundisha desturi kwa taifa moja. Lakini hilo peke yake halikutosha. Ndiyo sababu agano hilo lilifungwa binadamu alipokomaa katika uhusiano wake na Mungu, na likazuka Agano Jipya, agano la sheria ya maadili, la Yerusalemu ya juu, la mbinguni, linalotufanya huru.</p>
+                <h2>Watoto wa mwanamke huru<br>Wagalatia 4:28-31</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Wagalatia 4:28-31</span>
+                    <blockquote>«<sup class="vn">28</sup><strong class="s-hi">Basi ninyi, ndugu, ni watoto wa ahadi kama Isaka</strong>. <sup class="vn">29</sup>Lakini kama vile wakati ule yule aliyezaliwa kwa njia ya mwili alimdhulumu yule aliyezaliwa kwa njia ya Roho, ndivyo ilivyo hata sasa. <sup class="vn">30</sup>Lakini Maandiko yasemaje? Mfukuze mjakazi pamoja na mwanawe, kwa maana mwana wa mjakazi hatarithi pamoja na mwana wa mwanamke huru. <sup class="vn">31</sup>Basi, ndugu, <strong class="s-hi">sisi si watoto wa mjakazi, bali wa mwanamke huru</strong>.»</blockquote>
+                </div>
+                <p>Hapo ndipo: Wakristo si watoto wa mjakazi bali wa mwanamke huru. Hawako chini ya Agano la kale bali chini ya lile jipya, lenye sheria nyingine.</p>
+                <h2>Tusirudi chini ya nira<br>Wagalatia 5:1-4</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Wagalatia 5:1-4</span>
+                    <blockquote>«<sup class="vn">1</sup><strong class="s-hi">Kristo alitupa uhuru ili tuwe huru kweli</strong>. Basi <strong class="s-hi">simameni imara, wala msikubali tena kufungwa katika nira ya utumwa</strong>. <sup class="vn">2</sup>Sikilizeni! Mimi Paulo nawaambieni: mkikubali kutahiriwa, Kristo hatawafaidia chochote. <sup class="vn">3</sup><strong class="s-hi">Namshuhudia tena kila mtu anayekubali kutahiriwa kwamba anawajibika kuishika Sheria yote</strong>. <sup class="vn">4</sup>Ninyi mnaotaka kufanywa waadilifu kwa njia ya Sheria <strong class="s-hi">mmejitenga na Kristo</strong>; <strong class="s-hi">mmeanguka mbali na neema</strong>.»</blockquote>
+                </div>
+                <p>Kwa nini hakuna kurudi nyuma? Kwa sababu Kristo alituweka huru, na ndiyo sababu Paulo anaomba wasimame imara na wasikubali tena kufungwa katika nira ya utumwa. Yaani, wasiwaache Waadventista na madhehebu mengine waje kusema uongo na kuwavuta Wakristo tena kwenye sheria za agano la kale, ambazo hazitumiki tena. Wala si zote, kwa sababu wao hawatahiriwi: wanachukua zile tu zinazowafaa.</p>
+                <p>Kwa nini hazitumiki tena? Biblia inaeleza hilo pia, na inaendelea: kila anayekubali kutahiriwa anawajibika kuishika Sheria yote, ile ya kale, kwa ukamilifu. Na wale wanaotaka kufanywa waadilifu kwa Sheria wamejitenga na Kristo na wameanguka mbali na neema. Kristo alikuja kwa ajili hiyo: kumtoa binadamu katika agano la kale na kumpa lile jipya.</p>
+                <h2>Awe nani yule<br>Wagalatia 5:10-12</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Wagalatia 5:10-12</span>
+                    <blockquote>«<sup class="vn">10</sup>Mimi nina hakika katika Bwana kwamba hamtakuwa na fikira nyingine; lakini <strong class="s-hi">yule anayewavuruga ataadhibiwa, awe nani yule</strong>. <sup class="vn">11</sup>Lakini ndugu, kama ningekuwa bado ninahubiri kutahiriwa, kwa nini bado ninadhulumiwa? Hapo kikwazo cha msalaba kingekuwa kimeondolewa. <sup class="vn">12</sup><strong class="s-hi">Laiti wale wanaowavuruga wangejikata kabisa!</strong>»</blockquote>
+                </div>
+                <p>Anayewavuruga wale ambao Kristo aliwaweka huru ataadhibiwa, awe nani yule, na hilo linawahusu Waadventista na madhehebu mengine ya uzushi na ya uasi. Kuhusu wanaovuruga, Paulo anasema laiti wangejikata kabisa. Biblia ndiyo inayosema hivyo, si tovuti hii. Ingekuwa afadhali kwao kutahiriwa, kujitenga kabisa na neema ya Kristo na kujifunga kikamilifu na Sheria ya kale, kuliko kuzunguka wakileta fujo na kuwadanganya watu.</p>
+                <h2>Siku nyingine<br>Waebrania 4:8</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Waebrania 4:8</span>
+                    <blockquote>«Kama Yoshua angaliwapa watu pumziko, <strong class="s-hi">Mungu hangalisema baadaye juu ya siku nyingine</strong>.»</blockquote>
+                </div>
+                <p>Siku nyingine, ya baadaye, si ile ile. Hakuna tafsiri nyingine ya neno nyingine: nyingine maana yake si ile ile.</p>
+                <p>Waadventista wanajibu kwa aya inayofuata:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Waebrania 4:9-11</span>
+                    <blockquote>«<sup class="vn">9</sup>Basi, bado kuna pumziko la sabato kwa ajili ya watu wa Mungu. <sup class="vn">10</sup>Maana <strong class="s-hi">yeyote anayeingia katika pumziko la Mungu, hupumzika kutoka kazi zake</strong> kama Mungu alivyopumzika kutoka kazi zake. <sup class="vn">11</sup>Basi, <strong class="s-hi">tujitahidi kuingia katika pumziko hilo</strong>, ili mtu yeyote asianguke kwa kufuata mfano ule wa kutotii.»</blockquote>
+                </div>
+                <p>Aya ya 10 na ya 11 zinasema ni pumziko gani. Ni pumziko la Mungu, ambalo mtu huingia ili apumzike kutoka kazi zake kama Mungu alivyopumzika kutoka kazi zake, na mwandishi anahimiza kujitahidi kuingia humo. Hakuna anayejitahidi kuingia katika Sabato: huja yenyewe kila siku ya saba. Pumziko ambalo barua kwa Waebrania inazungumzia ni uzima wa milele, ambao Sabato iliutangaza kama mfano.</p>
+                <h2>Siku ya kwanza ya juma<br>Yohane 20:1</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 20:1</span>
+                    <blockquote>«<strong class="s-hi">Siku ya kwanza ya juma</strong>, alfajiri na mapema, kulipokuwa bado giza, Maria Magdalena alikwenda kaburini, akaona jiwe limeondolewa kaburini.»</blockquote>
+                </div>
+                <p>Siku ya kwanza ya juma, inayofuata Sabato, ni Jumapili: Jumapili ya Ufufuko.</p>
+                <h2>Jumapili ile ile<br>Yohane 20:19</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 20:19</span>
+                    <blockquote>«<strong class="s-hi">Jioni ya siku ile ile, siku ya kwanza ya juma</strong>, wanafunzi walikuwa wamekutana ndani ya nyumba, milango imefungwa kwa kuwaogopa Wayahudi. Yesu akaja, akasimama katikati yao, akawaambia: “<strong class="s-hi">Amani iwe nanyi!</strong>”»</blockquote>
+                </div>
+                <p>Jumapili ile ile, wanafunzi walikuwa wamekutana milango imefungwa kwa kuwaogopa Wayahudi. Yesu anasimama katikati yao na kuwaambia «Amani iwe nanyi!». Hawakemei: anawakubali. Kama wangekuwa wanafanya jambo baya, angewaambia.</p>
+                <h2>Siku nane baadaye, tena Jumapili<br>Yohane 20:26</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 20:26</span>
+                    <blockquote>«<strong class="s-hi">Siku nane baadaye, wanafunzi wake walikuwa tena ndani ya nyumba</strong>, na Tomaso alikuwa pamoja nao. Milango ilikuwa imefungwa, lakini Yesu akaja, akasimama katikati yao, akasema: “<strong class="s-hi">Amani iwe nanyi!</strong>”»</blockquote>
+                </div>
+                <p>Siku nane baadaye, tukihesabu kuanzia siku ile, ni Jumapili inayofuata. Wanafunzi wamekutana tena, na Yesu anawakubali tena kwa salamu ile ile: «Amani iwe nanyi!».</p>
+                <h2>Jumapili, kwa ajili ya kumega mkate<br>Matendo 20:7</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matendo 20:7</span>
+                    <blockquote>«<strong class="s-hi">Siku ya kwanza ya juma tulikutana kwa ajili ya kumega mkate</strong>. Paulo, ambaye alikuwa anataka kuondoka kesho yake, aliwahutubia watu, akaendelea kuongea mpaka usiku wa manane.»</blockquote>
+                </div>
+                <p>Huu ni mkutano wa ibada, kumega mkate (tazama mada <a href="tema-la-eucaristia.html">Ekaristi</a>), siku ya kwanza ya juma, tangu Wakristo wa kwanza. Ilitokea karibu mwaka 57, zaidi ya karne mbili na nusu kabla ya sheria ya Konstantino juu ya Jumapili, iliyotolewa mwaka 321. Hakuna hoja ya kusema kwamba wote walikosea. Kama walikosea, Paulo alikosea pamoja nao.</p>
+                <h2>Siku maalum ya mchango<br>1 Wakorintho 16:2</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Wakorintho 16:2</span>
+                    <blockquote>«<strong class="s-hi">Kila siku ya kwanza ya juma</strong>, kila mmoja wenu atenge kiasi fulani kadiri ya mapato yake, ili michango isikusanywe wakati nitakapokuja.»</blockquote>
+                </div>
+                <p>Siku ya kwanza ya juma: Jumapili, kwa mara nyingine.</p>
+                <h2>Siku ya Bwana<br>Ufunuo 1:10</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ufunuo 1:10</span>
+                    <blockquote>«<strong class="s-hi">Siku ya Bwana</strong> nilikuwa katika Roho, nikasikia nyuma yangu sauti kubwa kama ya tarumbeta.»</blockquote>
+                </div>
+                <p>Siku ya Bwana. Ndivyo zinavyotafsiri Biblia za Kikatoliki na hata za Kiprotestanti, na tafsiri kadhaa za Kikatoliki huandika moja kwa moja «Jumapili moja». Jina lenyewe linatoka hapo: kwa Kilatini, <em>dies dominica</em>, siku ya Bwana, ambalo bado ni jina la Jumapili kwa Kihispania, Kiitaliano, Kireno na Kifaransa.</p>
+                <h2>Bwana wa Sabato<br>Marko 2:23-28</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Marko 2:23-28</span>
+                    <blockquote>«<sup class="vn">23</sup>Siku moja ya Sabato Yesu alikuwa anapita katika mashamba ya ngano, na wanafunzi wake walipokuwa wanatembea walianza kukwanyua masuke. <sup class="vn">24</sup>Mafarisayo wakamwambia: “Tazama! Mbona wanafanya siku ya Sabato jambo lisilo halali?” <sup class="vn">25</sup>Yesu akawajibu: “Je, hamjasoma kamwe alichofanya Daudi wakati yeye na wenzake walipokuwa na shida na njaa? <sup class="vn">26</sup>Aliingia katika nyumba ya Mungu wakati Abiathari alipokuwa kuhani mkuu, akala mikate iliyotolewa kwa Mungu, ambayo ni halali kwa makuhani tu kuila, akawapa hata wenzake.” <sup class="vn">27</sup>Kisha akawaambia: “<strong class="s-hi">Sabato iliwekwa kwa ajili ya binadamu, na si binadamu kwa ajili ya Sabato</strong>. <sup class="vn">28</sup>Kwa hiyo <strong class="s-hi">Mwana wa Mtu ni Bwana hata wa Sabato</strong>.”»</blockquote>
+                </div>
+                <p>Sabato iliwekwa kwa ajili ya binadamu, na si binadamu kwa ajili ya Sabato, na Mwana wa Mtu ni Bwana hata wa Sabato. Yesu anafanya na Sabato apendavyo, hata kuibadilisha.</p>
+                <h2>Walitaka kumwua kwa sababu ya Sabato<br>Yohane 5:18</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 5:18</span>
+                    <blockquote>«Kwa sababu hiyo Wayahudi walizidi kutafuta njia ya kumwua, kwa kuwa si tu <strong class="s-hi">alivunja sheria ya Sabato</strong>, bali pia alisema kwamba Mungu ni Baba yake, akijifanya sawa na Mungu.»</blockquote>
+                </div>
+                <p>Yohane anasema waziwazi: Kristo alivunja sheria ya Sabato, na ndiyo sababu walitaka kumwua.</p>
+                <h2>Imekamilika<br>Yohane 19:30</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 19:30</span>
+                    <blockquote>«Yesu alipokwisha onja siki, akasema: “<strong class="s-hi">Imekamilika!</strong>” Kisha akainamisha kichwa, akatoa roho.»</blockquote>
+                </div>
+                <p>Huu ni mwisho wa Agano la kale. Kristo alilikamilisha, akapumzika kaburini siku ya Sabato na akafufuka siku ya Jumapili.</p>
+                <p>Dhidi ya hili, Waadventista wananukuu Hotuba ya Mlimani:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mathayo 5:17-18</span>
+                    <blockquote>«<sup class="vn">17</sup>Msidhani kwamba nimekuja kutangua Sheria au Manabii. <strong class="s-hi">Sikuja kutangua bali kukamilisha</strong>. <sup class="vn">18</sup>Kweli nawaambieni: mpaka mbingu na dunia zitakapopita, hakuna hata herufi moja ndogo au nukta moja ya Sheria itakayopita, <strong class="s-hi">mpaka yote yatimie</strong>.»</blockquote>
+                </div>
+                <p>Maandishi yanaweka kikomo. Kristo hakuja kutangua Sheria bali kuikamilisha, na Sheria inadumu mpaka yote yatimie. Msalabani alisema kwamba imekamilika. Kilichokamilika hakitanguliwi: kinafikia mwisho wake kwa sababu kimefikia kile ambacho kilikuwepo kwa ajili yake.</p>
+                <h2>Wafu kuhusu Sheria<br>Warumi 7:1-6</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Warumi 7:1-6</span>
+                    <blockquote>«<sup class="vn">1</sup>Ndugu, hakika mnajua, maana <strong class="s-hi">nasema na watu wanaoijua sheria</strong>, kwamba sheria humtawala mtu kwa muda wote anaoishi tu. <sup class="vn">2</sup>Kwa mfano, mwanamke aliyeolewa amefungwa kisheria kwa mumewe wakati mumewe anapoishi; lakini mumewe akifa, yeye yu huru kutoka sheria iliyomfunga kwa mumewe. <sup class="vn">3</sup>Basi, akiolewa na mwanamume mwingine wakati mumewe angali hai, ataitwa mzinzi; lakini mumewe akifa, yeye yu huru kutoka sheria hiyo, na hatakuwa mzinzi akiolewa na mwanamume mwingine. <sup class="vn">4</sup>Hali kadhalika nanyi, ndugu zangu, <strong class="s-hi">mmekufa kuhusu Sheria kwa njia ya mwili wa Kristo, ili mpate kuwa mali ya mwingine</strong>, yaani yeye aliyefufuliwa kutoka wafu, tupate kumzalia Mungu matunda. <sup class="vn">5</sup>Maana tulipokuwa tunaishi kufuatana na tabia ya kimwili, <strong class="s-hi">tamaa mbaya zilizochochewa na Sheria zilifanya kazi katika viungo vyetu, tukazaa matunda ya kifo</strong>. <sup class="vn">6</sup>Lakini sasa <strong class="s-hi">tumefunguliwa kutoka Sheria, kwa kuwa tumekufa kuhusu kile kilichotufunga</strong>, hata tunatumikia <strong class="s-hi">kwa namna mpya ya Roho, wala si kwa namna ya zamani ya maandishi</strong>.»</blockquote>
+                </div>
+                <p>Paulo anasema na watu wanaoijua sheria na anatumia mfano wa ndoa. Mwanamke amefungwa kwa mumewe wakati mume yu hai; mume akifa, yeye yu huru na anaweza kuolewa na mwingine bila kuwa mzinzi. Ndivyo ilivyo kwa Sheria: kwa kifo cha Kristo, Wakristo wamekufa kuhusu Sheria na wamekuwa mali ya mwingine, yule aliyefufuka. Sheria iliyowafunga haiwafungi tena, nao wanamtumikia Mungu kwa namna mpya ya Roho, si kwa namna ya zamani ya maandishi.</p>
+                <p>Sheria imekufa; sasa Agano Jipya ndilo linalotumika.</p>
+                <h2>Si juu ya vibao vya mawe<br>2 Wakorintho 3:3-16</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 2 Wakorintho 3:3-16</span>
+                    <blockquote>«<sup class="vn">3</sup>Ni wazi kwamba ninyi ni barua ya Kristo iliyoandikwa kwa huduma yetu, si kwa wino, bali kwa Roho wa Mungu aliye hai; <strong class="s-hi">si juu ya vibao vya mawe, bali juu ya mioyo ya watu</strong>. <sup class="vn">4</sup>Tunasema hivyo kwa sababu ya tumaini tulilo nalo kwa Mungu kwa njia ya Kristo. <sup class="vn">5</sup>Si kwamba tunaweza kudai kitu kuwa kinatoka kwetu wenyewe; uwezo wetu watoka kwa Mungu, <sup class="vn">6</sup>ambaye ametuwezesha kuwa watumishi wa agano jipya, si la maandishi, bali la Roho; kwa maana <strong class="s-hi">maandishi huua, lakini Roho huleta uhai</strong>. <sup class="vn">7</sup>Basi, ikiwa huduma iliyoleta kifo, iliyochorwa kwa herufi juu ya mawe, ilikuja na utukufu kiasi kwamba Waisraeli hawakuweza kuutazama uso wa Mose kwa sababu ya mng’ao wake, <strong class="s-hi">ingawa ulikuwa wa kupita</strong>, <sup class="vn">8</sup>je, huduma ya Roho haitakuwa na utukufu zaidi? <sup class="vn">9</sup>Ikiwa huduma iliyoleta hukumu ilikuwa na utukufu, basi huduma inayoleta uadilifu ina utukufu mwingi zaidi. <sup class="vn">10</sup>Kwa kweli, <strong class="s-hi">kile kilichokuwa na utukufu hakina utukufu tena</strong> kwa sababu ya utukufu huu unaopita kiasi. <sup class="vn">11</sup>Maana ikiwa kile kilichokuwa cha kupita kilikuwa na utukufu, kile kinachodumu kitakuwa na utukufu zaidi. <sup class="vn">12</sup>Basi, kwa kuwa tuna tumaini hilo, tuna ujasiri mwingi, <sup class="vn">13</sup>wala hatufanyi kama Mose <strong class="s-hi">aliyejifunika uso wake kwa kitambaa ili Waisraeli wasione mwisho wa ule mng’ao uliokuwa unapita</strong>. <sup class="vn">14</sup>Lakini <strong class="s-hi">akili zao zilikuwa zimefungwa</strong>. Hata leo, wanaposoma agano la kale, kitambaa kile kingali kimebaki; hakijaondolewa, kwa sababu kinaondolewa tu ndani ya Kristo. <sup class="vn">15</sup>Naam, <strong class="s-hi">hata leo, kila wanaposoma vitabu vya Mose, kitambaa kinafunika mioyo yao</strong>; <sup class="vn">16</sup>lakini <strong class="s-hi">mtu anapomgeukia Bwana, kitambaa hicho huondolewa</strong>.»</blockquote>
+                </div>
+                <p>Si juu ya vibao vya mawe bali moyoni. Maandishi huua, na Roho huleta uhai. Mng’ao ulikuwa wa kupita, na kilichokuwa na utukufu hakina utukufu tena. Hili ni neno la Mungu. Halikusemwa na papa wala askofu, hakuna aliyelibuni, wala halikutoka kwa mchungaji fulani aliyeamka siku moja akafasiri jambo.</p>
+                <p>Mose alijifunika uso kwa kitambaa ili Waisraeli wasione mwisho wa kile kilichokuwa kinapita, na akili zao zilifungwa hadi leo, kama za Waadventista na madhehebu mengine. Hata leo, kila wanaposoma vitabu vya Mose, kitambaa kinafunika mioyo yao, na huondolewa tu wanapomgeukia Bwana, yaani wanapokuwa Wakatoliki.</p>
+                <p>Kwa hiyo, kinachojalisha si vibao vya mawe bali moyo: sheria ya maadili, si ya ibada. Amri za maadili hazipotei, kwa sababu Kristo anazichukua tena, kama inavyoonekana katika Mathayo 5. Kilichopita ni sheria ya ibada, na pamoja nayo agizo la Sabato, ambalo kwa Wakristo limechukuliwa nafasi na Jumapili (Katekisimu ya Kanisa Katoliki, 2175).</p>
+                <h2>Mtu yeyote asiwahukumu<br>Wakolosai 2:16-17</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Wakolosai 2:16-17</span>
+                    <blockquote>«<sup class="vn">16</sup>Kwa hiyo, <strong class="s-hi">mtu yeyote asiwahukumu ninyi kuhusu vyakula au vinywaji, au kuhusu sikukuu, mwezi mpya au Sabato</strong>. <sup class="vn">17</sup>Mambo hayo ni kivuli tu cha yale yatakayokuja; ukweli wenyewe ni mwili wa Kristo.»</blockquote>
+                </div>
+                <p>Mtu yeyote asiwahukumu Wakatoliki wanaoitakasa Jumapili. Hilo ndilo wanalofanya Waprotestanti, hapa Waadventista: wanakosoa bila kuyajua Maandiko.</p>
+                <h2>«Lazima kumwiga Kristo»<br>Luka 2:21</h2>
+                <p>Dhidi ya haya yote, madhehebu haya yana hoja kadhaa. Ya kwanza: <em>«Yesu aliishika Sabato, na Mkristo lazima amwige Kristo.»</em></p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Luka 2:21</span>
+                    <blockquote>«Siku nane baadaye, <strong class="s-hi">wakati wa kumtahiri mtoto ulipofika</strong>, alipewa jina Yesu, jina alilopewa na malaika kabla hajachukuliwa mimba.»</blockquote>
+                </div>
+                <p>Ikiwa lazima kumwiga, Luka anasimulia kwamba alitahiriwa siku ya nane. Kwa nini wao hawatahiriwi? Kwa sababu wanaiga kile kinachowafaa tu. Kutahiriwa, kama Sabato, ni sehemu ya agano la kale.</p>
+                <h2>«Mkinipenda, shikeni amri zangu»<br>Yohane 14:15-26</h2>
+                <p>Ya pili wanaichukua kutoka Yohane 14: <em>«Mkinipenda, shikeni amri zangu. Na amri ni zile kumi, pamoja na Sabato.»</em> Kifungu kinasema jambo jingine:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 14:15-26</span>
+                    <blockquote>«<sup class="vn">15</sup><strong class="s-hi">Mkinipenda, mtazishika amri zangu</strong>. <sup class="vn">16</sup>Nami nitamwomba Baba, naye atawapeni Msaidizi mwingine atakayekaa nanyi milele, <sup class="vn">17</sup>yaani Roho wa ukweli, ambaye ulimwengu hauwezi kumpokea, kwa sababu haumwoni wala haumjui. Ninyi mnamjua kwa sababu anakaa pamoja nanyi na atakuwa ndani yenu. <sup class="vn">18</sup>Sitawaacha ninyi yatima; nitakuja kwenu. <sup class="vn">19</sup>Bado kitambo kidogo, na ulimwengu hautaniona tena, lakini ninyi mtaniona; kwa sababu mimi ni hai, nanyi pia mtakuwa hai. <sup class="vn">20</sup>Siku ile mtajua kwamba mimi niko ndani ya Baba yangu, nanyi mko ndani yangu, nami niko ndani yenu. <sup class="vn">21</sup><strong class="s-hi">Anayezipokea amri zangu na kuzishika, huyo ndiye anayenipenda</strong>; na anayenipenda atapendwa na Baba yangu, nami nitampenda na kujidhihirisha kwake. <sup class="vn">22</sup>Yuda, si yule Iskarioti, akamwambia: “Bwana, imekuwaje kwamba utajidhihirisha kwetu na si kwa ulimwengu?” <sup class="vn">23</sup>Yesu akamjibu: “<strong class="s-hi">Mtu akinipenda atalishika neno langu</strong>, na Baba yangu atampenda, nasi tutakuja kwake na kukaa pamoja naye. <sup class="vn">24</sup>Asiyenipenda hayashiki maneno yangu. Na neno mnalolisikia si langu, bali ni la Baba aliyenituma. <sup class="vn">25</sup>Nimewaambieni mambo haya wakati bado niko pamoja nanyi. <sup class="vn">26</sup>Lakini Msaidizi, Roho Mtakatifu, ambaye Baba atamtuma kwa jina langu, <strong class="s-hi">atawafundisheni kila kitu na kuwakumbusha yote niliyowaambieni</strong>.”»</blockquote>
+                </div>
+                <p>Kristo hasemi «amri za Mose»: anasema amri zangu. Si zile za kale, bali zake mwenyewe. Anazirudia katika aya ya 21 na ya 23, na katika aya ya 26 anaahidi Roho Mtakatifu, atakayewafundisha kila kitu na kuwakumbusha yote aliyowaambia.</p>
+                <h2>Amri mpya<br>Yohane 13:34-35</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 13:34-35</span>
+                    <blockquote>«<sup class="vn">34</sup><strong class="s-hi">Nawapeni amri mpya</strong>: pendaneni. Kama nilivyowapenda ninyi, nanyi pendaneni vivyo hivyo. <sup class="vn">35</sup>Kama mkipendana, <strong class="s-hi">watu wote watajua kwamba ninyi ni wanafunzi wangu</strong>.»</blockquote>
+                </div>
+                <p>Wakristo wa kweli, na si wazushi walioasi, wanatambulika kwa kufuata amri za Kristo.</p>
+                <h2>Hadi mwisho wa nyakati<br>Mathayo 28:19-20</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mathayo 28:19-20</span>
+                    <blockquote>«<sup class="vn">19</sup>Basi, nendeni mkawafanye watu wa mataifa yote kuwa wanafunzi wangu; mkiwabatiza kwa jina la Baba, na la Mwana, na la Roho Mtakatifu, <sup class="vn">20</sup><strong class="s-hi">mkiwafundisha kushika yote niliyowaamuru ninyi</strong>. Nami niko pamoja nanyi siku zote <strong class="s-hi">hadi mwisho wa nyakati</strong>.»</blockquote>
+                </div>
+                <p>Yesu anaamuru hivyo hadi mwisho wa nyakati. Si mara moja, wala mara mbili, wala mwanzoni tu. Hadi mwisho.</p>
+                <p>Na hapa linaanguka fundisho lingine la Kiprotestanti, lile linalosema kwamba kuamini kunatosha na matendo hayana maana. Mtu akiliamini neno la Kristo, na si yeye tu, na akafanya anachosema, mambo yanabadilika. Matendo yapo, na imani inatekelezwa.</p>
+                <h2>Ishara kwamba tunamjua<br>1 Yohane 2:3</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Yohane 2:3</span>
+                    <blockquote>«<strong class="s-hi">Tukizishika amri zake</strong>, hapo tutajua kwamba tunamjua.»</blockquote>
+                </div>
+                <p>Amri za Yesu. Kile ambacho Kristo anatoa hupokelewa kwa kulitimiza neno lake, kama huko Kana, ambako watumishi tu waliofanya alichowaamuru ndio waliojua kilichotokea (tazama mada <a href="tema-transubstanciacion.html">Transubstansiasyoni</a>).</p>
+                <h2>«Lakini mimi nawaambieni»<br>Mathayo 5:20-28</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mathayo 5:20-28</span>
+                    <blockquote>«<sup class="vn">20</sup>Nawaambieni, msipokuwa waadilifu zaidi kuliko walimu wa Sheria na Mafarisayo, hamtaingia katika ufalme wa mbinguni. <sup class="vn">21</sup>Mmesikia watu wa kale walivyoambiwa: <strong class="s-hi">Usiue</strong>; mtu yeyote akiua atahukumiwa. <sup class="vn">22</sup><strong class="s-hi">Lakini mimi nawaambieni</strong>: mtu yeyote anayemkasirikia ndugu yake atahukumiwa; anayemwita ndugu yake “Mpumbavu” atapelekwa mbele ya Baraza kuu; na anayemwita “Mjinga” atastahili moto wa Jehanamu. <sup class="vn">23</sup>Kwa hiyo, ikiwa unatoa sadaka yako madhabahuni na huko ukakumbuka kwamba ndugu yako ana kitu dhidi yako, <sup class="vn">24</sup>iache sadaka yako mbele ya madhabahu, uende kwanza ukapatane na ndugu yako, kisha urudi uitoe sadaka yako. <sup class="vn">25</sup>Patana upesi na mshtaki wako wakati mngali njiani kwenda mahakamani, asije akakupeleka kwa hakimu, naye hakimu akakutia mikononi mwa askari, ukatupwa gerezani. <sup class="vn">26</sup>Kweli nakwambia, hutatoka humo mpaka umelipa senti ya mwisho. <sup class="vn">27</sup>Mmesikia kwamba ilisemwa: <strong class="s-hi">Usizini</strong>. <sup class="vn">28</sup><strong class="s-hi">Lakini mimi nawaambieni</strong>: yeyote anayemtazama mwanamke kwa kumtamani, amekwisha zini naye moyoni mwake.»</blockquote>
+                </div>
+                <p>Kwa ufupi, Yesu anazichukua tena amri za kale, na ndiyo sababu zinafundishwa katika katekisimu. Nyingine anaziacha kama zilivyokuwa na nyingine anazibadilisha, kama ile ya uzinzi, anayoipanua hadi kwenye mawazo. Kuhusu Sabato hasemi chochote.</p>
+                <h2>«Mbona hamfanyi ninayowaambia?»<br>Luka 6:46</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Luka 6:46</span>
+                    <blockquote>«Mbona mnaniita “Bwana, Bwana”, <strong class="s-hi">na hamfanyi ninayowaambia?</strong>»</blockquote>
+                </div>
+                <p>Ikiwa wanataka sana kufanya kilichoamriwa, kwa nini hawatimizi kile ambacho Kristo anaamuru? Kwa sababu hawakiamini. Kama wangekiamini, wasingebishana juu yake.</p>
+                <h2>Kile ambacho Mungu hawezi kuvumilia<br>Isaya 1:13</h2>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Isaya 1:13</span>
+                    <blockquote>«Acheni kuniletea tambiko zisizo na maana; ubani ni chukizo kwangu. <strong class="s-hi">Mwezi mpya, Sabato na mikutano ya ibada</strong>: <strong class="s-hi">siwezi kuvumilia uovu pamoja na sikukuu</strong>.»</blockquote>
+                </div>
+                <p>Bwana anasema kwa kinywa cha Isaya: mwezi mpya, Sabato na mikutano ya ibada hawezi kuvivumilia.</p>
+                <ul>
+                    <li>Wanawake wawili wa Abrahamu ni Maagano mawili: la Sinai linazaa watumwa, na Yerusalemu ya juu ni huru na ni mama wa Wakristo.</li>
+                    <li>Anayetahiriwa anawajibika kuishika Sheria yote, na anayetaka kufanywa mwadilifu kwa Sheria anajitenga na Kristo.</li>
+                    <li>Kristo alifufuka Jumapili, akawatokea wanafunzi waliokusanyika Jumapili mbili mfululizo, akawakubali.</li>
+                    <li>Mitume walimega mkate siku ya kwanza ya juma, karne nyingi kabla ya Konstantino, na Ufunuo unaiita Siku ya Bwana.</li>
+                    <li>Kristo ni Bwana wa Sabato, na msalabani alisema kwamba imekamilika.</li>
+                    <li>Sheria iliyochorwa juu ya mawe ilikuwa ya kupita; Agano Jipya limeandikwa moyoni.</li>
+                    <li>Amri za Mkristo ni za Kristo, anayezichukua tena zile za kale bila kusema chochote juu ya Sabato.</li>
+                </ul>
+                <h2>Hitimisho</h2>
+                <p>Agano la Sinai lilikoma Kristo alipolikamilisha msalabani. Wakristo si watoto wa mjakazi bali wa mwanamke huru, na anayejiweka tena chini ya Sheria anajitenga na Kristo. Mitume walikutana Jumapili tangu siku ya ufufuko, walimega mkate siku ya kwanza ya juma na wakaiita Siku ya Bwana. Kanisa halikubadilisha siku. Liliipokea kutoka kwao.</p>
+                <p>Ndiyo sababu neno la Paulo kwa Wakolosai bado linamhusu kila Mkatoliki anayeitakasa Jumapili:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Wakolosai 2:16</span>
+                    <blockquote>«Kwa hiyo, <strong class="s-hi">mtu yeyote asiwahukumu ninyi</strong> kuhusu vyakula au vinywaji, au kuhusu sikukuu, mwezi mpya au Sabato.»</blockquote>
+                </div>`,
       nav: { prevTitle: "Toharani na Huruma ya Mungu", nextTitle: "Utatu Mtakatifu" }
     },
     "la-primacia-de-pedro": {

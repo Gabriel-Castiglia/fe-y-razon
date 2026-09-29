@@ -30,7 +30,7 @@ const ARTICLES = {
   'los-santos':            { videos: ['rosario01','retablo01'],       prev: 'sacerdocio',   next: 'el-purgatorio' },
   'la-santisima-trinidad': { videos: ['crucifijo01','roseton01'], prev: 'la-nueva-ley',           next: 'por-que-creemos' },
   'el-purgatorio':         { videos: ['velas01','cirio01'], prev: 'los-santos',next: 'la-nueva-ley' },
-  'la-nueva-ley':          { videos: ['breviario01','conf02'],             provisional: true, prev: 'el-purgatorio',        next: 'la-santisima-trinidad' },
+  'la-nueva-ley':          { videos: ['breviario01','conf02'], prev: 'el-purgatorio',        next: 'la-santisima-trinidad' },
   'la-primacia-de-pedro':  { videos: ['vaticano01','conf03'],                         prev: 'por-que-creemos',         next: 'la-eucaristia' },
   'recursos-recomendados': { videos: [],                                          prev: 'la-santisima-trinidad', next: 'por-que-creemos' },
 };
