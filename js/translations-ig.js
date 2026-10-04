@@ -1091,7 +1091,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
           es: "Spanish",
           en: "Bekee"
         },
-        otherLangs: "Maka mbipụta n'asụsụ ndị ọzọ, degara onye edemede site na <a href='index.html#contacto'>fọm kọntaktị</a>.",
+        otherLangs: "Maka mbipụta n'asụsụ ndị ọzọ, degara onye edemede site na <a href='/#contacto'>fọm kọntaktị</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.
@@ -1160,7 +1160,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                 <h2>Njikọ na saịtị ndị ọzọ</h2>
                 <p>Ibe ndị a na-ejikọ na saịtị ndị ọzọ — Vatican.va, YouTube, Amazon na ndị ozi a kwadoro. Ihe ọ bụla mere mgbe ị hapụrụ ebe a na-achịkwa site na amụma nke saịtị ndị ahụ, ọ bụghị nke a.</p>
                 <h2>Onye na-ahụ maka ya, na otu esi akpọtụrụ</h2>
-                <p>Onye na-ahụ maka saịtị a bụ <strong>M. Gabriel Castiglia</strong>. Maka ajụjụ ọ bụla gbasara data gị — gụnyere ịrịọ ka ehichapụ ozi ị zigara — dee site na <a href="index.html#contacto">fọm kọntaktị</a>.</p>`
+                <p>Onye na-ahụ maka saịtị a bụ <strong>M. Gabriel Castiglia</strong>. Maka ajụjụ ọ bụla gbasara data gị — gụnyere ịrịọ ka ehichapụ ozi ị zigara — dee site na <a href="/#contacto">fọm kọntaktị</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "Maka saịtị a | Okwukwe na Uche",

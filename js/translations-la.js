@@ -1284,7 +1284,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
           es: "Hispanice",
           en: "Anglice"
         },
-        otherLangs: "De editionibus aliis linguis, auctorem per <a href='index.html#contacto'>formulam epistularem</a> adire licet.",
+        otherLangs: "De editionibus aliis linguis, auctorem per <a href='/#contacto'>formulam epistularem</a> adire licet.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.
@@ -1368,7 +1368,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
                 <h2>Nexus ad alios situs</h2>
                 <p>Hae paginae ad situs tertiorum ducunt — Vatican.va, YouTube, Amazon et apostolatus commendatos. Quidquid accidit postquam hinc discedis, consiliis illorum situum regitur, non hoc.</p>
                 <h2>Quis respondeat, et quomodo contingere</h2>
-                <p>Huius situs curator est <strong>M. Gabriel Castiglia</strong>. De quavis quaestione circa data tua — etiam ut nuntius a te missus deleatur — per <a href="index.html#contacto">formularium contactus</a> scribe.</p>`
+                <p>Huius situs curator est <strong>M. Gabriel Castiglia</strong>. De quavis quaestione circa data tua — etiam ut nuntius a te missus deleatur — per <a href="/#contacto">formularium contactus</a> scribe.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "De hoc loco | Fides et Ratio",

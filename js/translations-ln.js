@@ -1091,7 +1091,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
           es: "Espanye",
           en: "Angele"
         },
-        otherLangs: "Mpo na mabimeli na minoko mosusu, komela mokomi na nzela ya <a href='index.html#contacto'>formilɛrɛ ya boyokani</a>.",
+        otherLangs: "Mpo na mabimeli na minoko mosusu, komela mokomi na nzela ya <a href='/#contacto'>formilɛrɛ ya boyokani</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.
@@ -1160,7 +1160,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                 <h2>Ba liens epai ya ba sites mosusu</h2>
                 <p>Ba pages oyo ezali na ba liens epai ya ba sites ya bato mosusu — Vatican.va, YouTube, Amazon mpe misala oyo tolobeli. Nyonso oyo ekosalema soki obimi awa etambwisami na mibeko ya ba sites wana, kasi na oyo te.</p>
                 <h2>Mokonzi mpe contact</h2>
-                <p>Mokonzi ya site oyo ezali <strong>M. Gabriel Castiglia</strong>. Mpo na motuna nyonso na ntina ya ba données na yo — ata mpe kosenga ete message oyo otindaki elongolama — koma na nzela ya <a href="index.html#contacto">formulaire ya contact</a>.</p>`
+                <p>Mokonzi ya site oyo ezali <strong>M. Gabriel Castiglia</strong>. Mpo na motuna nyonso na ntina ya ba données na yo — ata mpe kosenga ete message oyo otindaki elongolama — koma na nzela ya <a href="/#contacto">formulaire ya contact</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "Na site oyo | Kondima mpe Mayele",

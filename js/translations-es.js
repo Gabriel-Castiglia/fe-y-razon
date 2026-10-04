@@ -1509,7 +1509,7 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
           es: "Español",
           en: "Inglés"
         },
-        otherLangs: "Para ediciones en otros idiomas, escribir al autor por el <a href='index.html#contacto'>formulario de contacto</a>.",
+        otherLangs: "Para ediciones en otros idiomas, escribir al autor por el <a href='/#contacto'>formulario de contacto</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.
@@ -1593,7 +1593,7 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
                 <h2>Enlaces a otros sitios</h2>
                 <p>Estas páginas enlazan a sitios de terceros —Vatican.va, YouTube, Amazon y los apostolados recomendados—. Lo que ocurra una vez que salís de acá se rige por las políticas de esos sitios, no por esta.</p>
                 <h2>Responsable y contacto</h2>
-                <p>El responsable de este sitio es <strong>M. Gabriel Castiglia</strong>. Para cualquier consulta sobre tus datos —incluido pedir que se borre un mensaje que hayas enviado— escribí por el <a href="index.html#contacto">formulario de contacto</a>.</p>`
+                <p>El responsable de este sitio es <strong>M. Gabriel Castiglia</strong>. Para cualquier consulta sobre tus datos —incluido pedir que se borre un mensaje que hayas enviado— escribí por el <a href="/#contacto">formulario de contacto</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "Sobre este sitio | Fé y Razón",

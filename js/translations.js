@@ -198,6 +198,9 @@ function updateHreflangTags() {
 
   const url = new URL(window.location.href);
   url.hash = '';
+  // index.html y / son la misma portada; Google tomaba index.html?lang=xx como
+  // duplicado de /?lang=xx. Se declara siempre la forma corta.
+  url.pathname = url.pathname.replace(/\/index\.html$/, '/');
 
   // El español es la URL sin ?lang=, la misma que declara como canónica
   // aplicarIdioma(). Si el hreflang apuntara a ?lang=es, señalaría una página
@@ -303,6 +306,7 @@ function aplicarIdioma(lang) {
     document.head.appendChild(canonical);
   }
   const canonicalUrl = new URL(window.location.href);
+  canonicalUrl.pathname = canonicalUrl.pathname.replace(/\/index\.html$/, '/');
   if (lang === 'es') {
     canonicalUrl.searchParams.delete('lang'); // Español es la raíz sin parámetros
   } else {

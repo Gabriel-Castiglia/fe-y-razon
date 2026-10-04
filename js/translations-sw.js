@@ -1091,7 +1091,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
           es: "Kihispania",
           en: "Kiingereza"
         },
-        otherLangs: "Kwa matoleo katika lugha nyingine, mwandikie mwandishi kupitia <a href='index.html#contacto'>fomu ya mawasiliano</a>.",
+        otherLangs: "Kwa matoleo katika lugha nyingine, mwandikie mwandishi kupitia <a href='/#contacto'>fomu ya mawasiliano</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.
@@ -1160,7 +1160,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                 <h2>Viungo kwa tovuti nyingine</h2>
                 <p>Kurasa hizi zina viungo vya tovuti za watu wengine — Vatican.va, YouTube, Amazon na utume unaopendekezwa. Kinachotokea baada ya kuondoka hapa kinatawaliwa na sera za tovuti hizo, si na hii.</p>
                 <h2>Mwenye jukumu na mawasiliano</h2>
-                <p>Mwenye jukumu la tovuti hii ni <strong>M. Gabriel Castiglia</strong>. Kwa swali lolote kuhusu data yako — ikiwa ni pamoja na kuomba ujumbe uliotuma ufutwe — andika kupitia <a href="index.html#contacto">fomu ya mawasiliano</a>.</p>`
+                <p>Mwenye jukumu la tovuti hii ni <strong>M. Gabriel Castiglia</strong>. Kwa swali lolote kuhusu data yako — ikiwa ni pamoja na kuomba ujumbe uliotuma ufutwe — andika kupitia <a href="/#contacto">fomu ya mawasiliano</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "Kuhusu tovuti hii | Imani na Akili",

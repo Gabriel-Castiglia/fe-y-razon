@@ -1278,7 +1278,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
           es: "Spanish",
           en: "English"
         },
-        otherLangs: "For editions in other languages, write to the author through the <a href='index.html#contacto'>contact form</a>.",
+        otherLangs: "For editions in other languages, write to the author through the <a href='/#contacto'>contact form</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.
@@ -1362,7 +1362,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <h2>Links to other sites</h2>
                 <p>These pages link to third-party sites — Vatican.va, YouTube, Amazon and the recommended apostolates. Whatever happens once you leave is governed by those sites' policies, not by this one.</p>
                 <h2>Who is responsible, and how to get in touch</h2>
-                <p>This site is the responsibility of <strong>M. Gabriel Castiglia</strong>. For any question about your data — including asking that a message you sent be deleted — write through the <a href="index.html#contacto">contact form</a>.</p>`
+                <p>This site is the responsibility of <strong>M. Gabriel Castiglia</strong>. For any question about your data — including asking that a message you sent be deleted — write through the <a href="/#contacto">contact form</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "About This Site | Faith and Reason",

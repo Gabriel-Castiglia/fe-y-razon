@@ -1278,7 +1278,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
           es: "Espanyol",
           en: "Ingles"
         },
-        otherLangs: "Para sa mga edisyon sa ibang wika, sumulat sa may-akda sa pamamagitan ng <a href='index.html#contacto'>form ng pakikipag-ugnayan</a>.",
+        otherLangs: "Para sa mga edisyon sa ibang wika, sumulat sa may-akda sa pamamagitan ng <a href='/#contacto'>form ng pakikipag-ugnayan</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.
@@ -1363,7 +1363,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
                 <h2>Mga link sa ibang site</h2>
                 <p>Ang mga pahinang ito ay may link sa mga third-party na site — Vatican.va, YouTube, Amazon at ang mga inirerekomendang apostolado. Anuman ang mangyari matapos kang umalis dito ay pinamamahalaan ng mga patakaran ng mga site na iyon, hindi nito.</p>
                 <h2>Sino ang may pananagutan, at paano makipag-ugnayan</h2>
-                <p>Ang site na ito ay pananagutan ni <strong>M. Gabriel Castiglia</strong>. Para sa anumang katanungan tungkol sa iyong datos — kabilang ang paghiling na burahin ang isang mensaheng ipinadala mo — sumulat sa pamamagitan ng <a href="index.html#contacto">contact form</a>.</p>`
+                <p>Ang site na ito ay pananagutan ni <strong>M. Gabriel Castiglia</strong>. Para sa anumang katanungan tungkol sa iyong datos — kabilang ang paghiling na burahin ang isang mensaheng ipinadala mo — sumulat sa pamamagitan ng <a href="/#contacto">contact form</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "Tungkol sa Site na Ito | Pananampalataya at Dahilan",
