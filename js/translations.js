@@ -191,32 +191,34 @@ function getTranslationValue(lang, key) {
  * Esto le indica a los motores de búsqueda todas las versiones de idioma disponibles.
  */
 function updateHreflangTags() {
-  // Limpiar etiquetas hreflang previas que hayamos insertado dinámicamente
-  document.querySelectorAll('link[data-hreflang]').forEach(el => el.remove());
+  // Se borran también las del HTML fijo: si quedaran las dos tandas, y la
+  // española de una apuntara a ?lang=es y la de la otra a la URL sin parámetro,
+  // Google vería dos direcciones distintas para el mismo idioma.
+  document.querySelectorAll('link[rel="alternate"][hreflang]').forEach(el => el.remove());
 
   const url = new URL(window.location.href);
+  url.hash = '';
+
+  // El español es la URL sin ?lang=, la misma que declara como canónica
+  // aplicarIdioma(). Si el hreflang apuntara a ?lang=es, señalaría una página
+  // que a su vez dice no ser la principal, y Google descarta el par.
+  const direccion = (langCode) => {
+    if (langCode === 'es') url.searchParams.delete('lang');
+    else url.searchParams.set('lang', langCode);
+    return url.toString();
+  };
 
   // Crear etiquetas para cada idioma soportado. Va contra IDIOMAS y no contra
   // `translations`: ahora ahí solo está el idioma cargado, y recorrerlo dejaría
   // una sola etiqueta hreflang en vez de las doce.
-  IDIOMAS.forEach(langCode => {
-    url.searchParams.set('lang', langCode);
+  IDIOMAS.concat('x-default').forEach(langCode => {
     const link = document.createElement('link');
     link.rel = 'alternate';
     link.hreflang = langCode;
-    link.href = url.toString();
+    link.href = direccion(langCode === 'x-default' ? 'es' : langCode);
     link.setAttribute('data-hreflang', 'true');
     document.head.appendChild(link);
   });
-
-  // Añadir la etiqueta obligatoria x-default (apuntando al español por defecto)
-  url.searchParams.set('lang', 'es');
-  const defaultLink = document.createElement('link');
-  defaultLink.rel = 'alternate';
-  defaultLink.hreflang = 'x-default';
-  defaultLink.href = url.toString();
-  defaultLink.setAttribute('data-hreflang', 'true');
-  document.head.appendChild(defaultLink);
 }
 
 /**
