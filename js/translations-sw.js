@@ -121,7 +121,12 @@ const translationsSW = {
                     <span class="scripture-ref">✝︎ Mhubiri 12:7</span>
                     <blockquote>«nayo mavumbi kuirudia nchi kama yalivyokuwa, nayo <strong class="s-hi">roho kumrudia Mungu</strong> aliyeitoa.»</blockquote>
                 </div>
-                <p>Mwili hurudi mavumbini na roho humrudia Mungu. Neno la Kiebrania ni <em>ruach</em>, linalotafsiriwa pia pumzi; kwa vyovyote vile, kinachomrudia Mungu ni kile alichokitoa. Sentensi ya Mhubiri 9:5 wanayoinukuu Waadventista inakamilika katika mstari unaofuata: wafu <em>«hawana sehemu tena milele katika jambo lolote linalotendeka chini ya jua»</em> (Mhu 9:6). Hawajui lolote kuhusu yanayotokea katika ulimwengu huu. Hilo halisemi kwamba wameacha kuwepo.</p>
+                <p>Mwili unarudi mavumbini na pumzi inarudi kwa Mungu. Neno la Kiebrania ni <em>ruach</em>, linalotafsiriwa pia roho, na ndiyo maana tafsiri nyingine zinasema «roho inarudi kwa Mungu». Sentensi ya Mhubiri 9:5 wanayoinukuu Waadventista inakamilika katika mstari unaofuata:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mhubiri 9:6</span>
+                    <blockquote>«Mapenzi yao na chuki yao na wivu wao vimekwisha kupotea; wala <strong class="s-hi">hawana tena sehemu yoyote katika jambo lolote linalofanyika chini ya jua</strong>.»</blockquote>
+                </div>
+                <p>Hawajui lolote kuhusu yanayotokea katika ulimwengu huu. Hilo halisemi kwamba wameacha kuwepo.</p>
                 <p>Na inapomrudia Mungu, roho inapaswa kuwa safi, kwa sababu kilicho na doa la dhambi hakiwezi kusimama mbele yake. Kwa ajili hiyo ipo toharani.</p>
                 <ul>
                     <li>Yesu anazungumzia deni linalolipwa mpaka mwisho na gereza ambalo mtu hutoka.</li>
@@ -137,28 +142,64 @@ const translationsSW = {
     "la-eucaristia": {
       pageTitle: "Ekaristi | Imani na Akili",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Ekaristi: sakramenti kuu</h1><p>Je, Ekaristi ni mfano tu au ni Mwili halisi wa Kristo? Yohane 6, Paulo, na Wakristo wa kwanza wanatoa jibu lile lile.</p><div class="article-meta"><span>Dakika 13 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
-      article: `<p>Je, Ekaristi ni mfano tu au ni halisi? Jibu liko katika Yohane 6. Hakuna andiko lililo wazi zaidi, la moja kwa moja na lenye changamoto katika Injili yote kuhusu mada hii. Na Yesu harudi nyuma. Lakini Yohane 6 sio shahidi pekee: Paulo anathibitisha kwa kujitegemea, na wanafunzi wa kwanza wa mitume walielewa bila utata. Kuna mistari mitatu ya ushahidi. Hakuna inayoweza kujibiwa katika tafsiri ya mfano.</p><h2>Mimi ndimi chakula cha uzima<br>Yohane 6:47-51</h2><p>Yesu hasemi «nawawakilisha chakula cha uzima» wala «mimi ni kama chakula cha uzima». Anasema:</p><div class="scripture-block">
+      article: `<p>Madhehebu kadhaa ya Kiprotestanti yanashikilia uzushi kwamba Ekaristi ni ishara tu. Wabaptisti, Wapentekoste wa Assemblies of God, Waadventista na Mashahidi wa Yehova wameandika hivyo katika kanuni zao za imani, na wote wanajibu kwa namna moja inapotajwa: <em>«Ni ishara tu.»</em> Je, Ekaristi ni ishara au ni halisi? Jibu liko katika Mtakatifu Yohane 6. Hakuna maandiko yaliyo wazi zaidi, ya moja kwa moja zaidi wala yenye changamoto zaidi katika Injili yote juu ya jambo hili. Na Yesu harudi nyuma. Lakini Yohane 6 si shahidi pekee: Paulo analithibitisha kwa kujitegemea, na wanafunzi wa kwanza wa mitume walielewa bila utata. Kuna njia tatu za ushahidi. Hakuna hata moja inayojibiwa na tafsiri ya kiishara.</p>
+                <h2>Mimi ndimi mkate wa uzima<br>Yohane 6:47-51</h2>
+                <p>Yesu hasemi «ninawakilisha mkate wa uzima» wala «mimi ni kama mkate wa uzima». Anasema:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Yohane 6:47-51</span>
                     <blockquote>«Amin, amin, nawaambia, yeye aaminiye anao uzima wa milele. <strong class="s-hi">Mimi ndimi chakula cha uzima.</strong> Baba zenu walikula mana jangwani, wakafa. Hiki ni chakula kishukacho kutoka mbinguni, kwamba mtu akile asife. Mimi ndimi chakula kishukacho kutoka mbinguni; mtu akila chakula hiki, ataishi milele. Na chakula nitakachotoa mimi ni <strong class="s-hi">mwili wangu</strong>, kwa ajili ya uzima wa ulimwengu.»</blockquote>
-                </div><p>Kitenzi «ndimi» hakiashirii uwakilishi: kinaonyesha utambulisho. Na kinachofuata hakiachi nafasi kwa tafsiri za mfano:</p><div class="scripture-block">
+                </div>
+                <p>Kitenzi «ndimi» hakionyeshi uwakilishi: kinaonyesha utambulisho. Na kinachofuata hakiachi nafasi kwa tafsiri za kiishara:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Yohane 6:53-55</span>
                     <blockquote>«Amin, amin, nawaambia, <strong class="s-hi">Msipoula mwili wa Mwana wa Adamu na kuinywa damu yake, hamna uzima ndani yenu.</strong> Aulaye mwili wangu na kuinywa damu yake anao uzima wa milele; nami nitamfufua siku ya mwisho. Kwa maana <strong class="s-hi">mwili wangu ni chakula cha kweli, na damu yangu ni kinywaji cha kweli.</strong>»</blockquote>
-                </div><p>Hasemi «msipokumbuka» wala «msipotafakari». Anasema <em>kula</em> na <em>kunywa</em>. Na anarudia kwa maneno tofauti ili kusiwe na mkanganyiko: <em>chakula cha kweli</em> na <em>kinywaji cha kweli</em>. Kivumbishi «cha kweli» kinaondoa waziwazi dhana ya mfano.</p><h2>Pingamizi la fumbo<br>Yohane 15:1</h2><p>Jibu la kawaida ni: «Ni fumbo, kama anaposema "Mimi ni mzabibu" au "Mimi ni mlango".» Tunapaswa kwenda kwenye Biblia. Yesu aliposema <em>«Mimi ndimi mzabibu wa kweli»</em> (Yohane 15:1), hakuna aliyeondoka. Aliposema «uleni mwili wangu», wengi waliondoka. Tofauti ni muhimu sana:</p><div class="scripture-block">
+                </div>
+                <p>Hasemi «msipokumbuka» wala «msipotafakari». Anasema <em>kula</em> na <em>kunywa</em>. Na anarudia kwa maneno mengine ili pasiwe na mkanganyiko: <em>chakula cha kweli</em> na <em>kinywaji cha kweli</em>. Neno «cha kweli» linakataa waziwazi wazo la ishara tu.</p>
+                <h2>Pingamizi la mfano wa maneno<br>Yohane 15:1</h2>
+                <p>Jibu la kawaida ni: «Ni mfano wa maneno, kama aliposema "Mimi ni mzabibu" au "Mimi ni mlango".» Yesu aliposema hivyo, hakuna aliyeondoka:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 15:1</span>
+                    <blockquote>«<strong class="s-hi">Mimi ni mzabibu wa kweli</strong>, na Baba yangu ndiye mkulima.»</blockquote>
+                </div>
+                <p>Aliposema «kuleni mwili wangu», wengi waliondoka. Tofauti hiyo ni ya kuamua:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Yohane 6:60</span>
                     <blockquote>«Basi wengi miongoni mwa wanafunzi wake waliposikia, walisema, <strong class="s-hi">«Neno hili ni gumu, ni nani awezaye kulisikia?»</strong>»</blockquote>
-                </div><p>Yesu hawasahihishi akisema «mmeelewa vibaya, ilikuwa fumbo». Anawaacha waondoke. Huu ni ushahidi wenye nguvu zaidi: kama ingekuwa mfano, mchungaji mwema angewazuia kwa ufafanuzi. Hafanyi hivyo.</p><h2>Hili linaleta mgawanyiko<br>Yohane 6:66-67</h2><div class="scripture-block">
+                </div>
+                <p>Yesu hawasahihishi kwa kusema «mmeelewa vibaya, ulikuwa mfano wa maneno». Anawaacha waondoke. Huo ndio ushahidi wenye nguvu zaidi: kama ingekuwa ishara, mchungaji mwema angewazuia kwa maelezo. Hafanyi hivyo. Na wanalalamika juu ya jambo mahususi: hawasemi ni vigumu kuelewa, wanasema ni gumu kusikiliza. Walikuwa wameelewa kikamilifu.</p>
+                <h2>Hili linaleta mgawanyiko<br>Yohane 6:66-67</h2>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Yohane 6:66-67</span>
                     <blockquote>«Kwa ajili ya hayo wengi miongoni mwa wanafunzi wake wakarejea nyuma, wasiandamane naye tena. Basi Yesu akawaambia wale Kumi na Wawili, <strong class="s-hi">«Je! Ninyi nanyi mwataka kuondoka?»</strong>»</blockquote>
-                </div><p>Halegezi msimamo. Halainishi. Hajadili maana. Yesu ni mchungaji mwema ambaye hangeruhusu kondoo yeyote apotee kwa sababu ya kutoelewana — lakini katika hili habadiliki.</p><h2>Hakuna tafsiri nyingine inayowezekana<br>Yohane 6:68</h2><div class="scripture-block">
+                </div>
+                <p>Harudi nyuma. Hapunguzi ukali. Hajadiliani juu ya maana. Yesu ni mchungaji mwema asiyeweza kumwacha kondoo hata mmoja apotee kwa kutoelewana, lakini katika hili hayumbi.</p>
+                <h2>Hakuna tafsiri nyingine inayowezekana<br>Yohane 6:68</h2>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Yohane 6:68</span>
                     <blockquote>«Basi Simoni Petro akamjibu, <strong class="s-hi">«Bwana, twende kwa nani? Wewe unayo maneno ya uzima wa milele.»</strong>»</blockquote>
-                </div><p>Petro hasemi kwamba anaelewa kila kitu. Anasema anatumaini. Hiyo ndiyo imani: kutokuwa na majibu yote, bali kujua ni Nani unayemwamini.</p><ul><li>«Mimi ndimi» — hawakilishi, yeye ndiye.</li><li>«Chakula cha kweli, kinywaji cha kweli» — sio mfano.</li><li>Yesu hawasahihishi wale waliomwelewa kihalisi: anawaacha waondoke.</li><li>Petro haelewi kikamilifu, lakini anatumaini. Hiyo ndiyo imani.</li></ul><h2>Paulo anathibitisha — shahidi wa kujitegemea<br>1 Wakorintho 10:16 na 11:27-29</h2><p>Paulo anaandika barua yake ya kwanza kwa Wakorintho kabla Injili ya Yohane haijaandikwa. Hao ni mashahidi wawili wanaojitegemea kabisa. Paulo anasema:</p><div class="scripture-block">
+                </div>
+                <p>Petro hasemi kwamba anaelewa kila kitu. Anasema kwamba anatumaini. Hiyo ndiyo imani: si kuwa na majibu yote, bali kumjua Yule unayemwamini.</p>
+                <h2>Paulo anathibitisha: shahidi anayejitegemea<br>1 Wakorintho 10:16 na 11:27-29</h2>
+                <p>Paulo aliandika waraka wake wa kwanza kwa Wakorintho kabla Injili ya Yohane haijaandikwa. Ni mashahidi wawili wanaojitegemea kabisa. Paulo anasema:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Wakorintho 10:16</span>
                     <blockquote>«<strong class="s-hi">Kikombe cha baraka tukibarikicho, je! Si ushirika wa damu ya Kristo? Mkate tuumegao, je! Si ushirika wa mwili wa Kristo?</strong>»</blockquote>
-                </div><p>Hasemi «kumbukumbu». Anasema <em>ushirika</em> — ushiriki halisi, mguso halisi. Na baadaye:</p><div class="scripture-block">
+                </div>
+                <p>Hasemi «kumbukumbu». Anasema <em>ushirika</em>: kushiriki kwa kweli, kugusana kwa kweli. Kisha:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Wakorintho 11:27-29</span>
                     <blockquote>«<strong class="s-hi">Basi kila aulaye mkate huo, au kukinywea kikombe hicho cha Bwana isivyostahili, atakuwa amejipatia hatia ya mwili na damu ya Bwana.</strong> Lakini mtu ajihoji mwenyewe, na hivyo aule mkate, na kukinywea kikombe. Maana alaye na kunywa, <strong class="s-hi">hula na kunywa hukumu ya nafsi yake, kwa maana haupambanui mwili wa Bwana.</strong>»</blockquote>
-                </div><p>Neno la Kigiriki ἔνοχος — hatia/mkosaji — linamaanisha hatia kwa uhalifu wa kweli. Huwezi kuwa na hatia ya uhalifu dhidi ya mfano. Paulo pia anasema: «haupambanui Mwili». Kama ingekuwa mkate tu, ni Mwili gani ambao ungepambanuliwa?</p><h2>Wakristo wa kwanza — mashahidi walioundwa na mitume</h2><p>Ignatius wa Antiokia alikuwa mwanafunzi wa moja kwa moja wa mtume Yohane. Alikufa shahidi karibu mwaka 107 B.K. Aliandika katika Barua yake kwa Wasmirna:</p><blockquote>«<strong>Wanajiepusha na Ekaristi na sala, kwa sababu hawakiri kwamba Ekaristi ni mwili wa Mwokozi wetu Yesu Kristo</strong>, ulioteswa kwa ajili ya dhambi zetu, ambao Baba kwa wema wake aliufufua.» — Ignatius wa Antiokia, Barua kwa Wasmirna 6-7 (~107 B.K.)</blockquote><p>Justin Martyr aliandika karibu mwaka 150 B.K., miaka sabini baada ya vifo vya mitume:</p><blockquote>«<strong>Hatuipokei hii kama mkate wa kawaida wala kama kinywaji cha kawaida</strong>... hivyo pia tumefundishwa kwamba chakula hiki kilichofanywa Ekaristi ni <strong>mwili na damu ya huyo Yesu aliyefanyika mwili.</strong>» — Justin Martyr, Apologia ya Kwanza 66 (~150 B.K.)</blockquote><p>Kama Wakristo wa kwanza — walioundwa na mitume wenyewe — waliamini katika Uwepo Halisi, swali linalostahili jibu la uaminifu ni: nani alibadilisha hilo? Lini? Kwa mamlaka gani?</p><p>Ili kuelewa jinsi ukweli huu unavyofanyika katika Misa, endelea kwenye mada ya <a href="tema-transubstanciacion.html">Transubstansiasyoni</a>, kutoka 1 Wakorintho 10:16. Na ili kuelewa kwa nini tunakubali maneno haya kama ukweli wa Mungu, nenda kwenye mada <a href="tema-por-que-creemos.html">Kwa nini Tunaamini?</a></p>`,
+                </div>
+                <p>Jambo la kuamua ni mbele ya nani mtu anawajibika. Mtu hana hatia juu ya mkate wala kikombe: ana hatia <em>juu ya mwili na damu ya Bwana</em>. Neno la Kigiriki lililo nyuma yake ni ἔνοχος, neno la mtu aliye chini ya hukumu, anayepaswa kujibu mbele ya mahakama; hakuna anayejibu mbele ya mahakama kwa kuitendea vibaya ishara. Paulo anasema pia: «bila kuutambua mwili». Kama ingekuwa mkate tu, ni mwili gani wa kutambuliwa?</p>
+                <h2>Wakristo wa kwanza: mashahidi waliolelewa na mitume</h2>
+                <p>Ignatio wa Antiokia alikuwa mwanafunzi wa moja kwa moja wa mtume Yohane. Alikufa shahidi karibu mwaka 107. Aliandika katika Barua yake kwa Wasmirna:</p>
+                <blockquote>«<strong>Wanajiepusha na Ekaristi na sala, kwa sababu hawakiri kwamba Ekaristi ni mwili wa Mwokozi wetu Yesu Kristo</strong>, ulioteswa kwa ajili ya dhambi zetu, ambao Baba kwa wema wake aliufufua.» — Ignatius wa Antiokia, Barua kwa Wasmirna 6-7 (~107 B.K.)</blockquote>
+                <p>Yustino Shahidi aliandika karibu mwaka 150, miaka sabini baada ya kifo cha mitume:</p>
+                <blockquote>«<strong>Hatuipokei hii kama mkate wa kawaida wala kama kinywaji cha kawaida</strong>... hivyo pia tumefundishwa kwamba chakula hiki kilichofanywa Ekaristi ni <strong>mwili na damu ya huyo Yesu aliyefanyika mwili.</strong>» — Justin Martyr, Apologia ya Kwanza 66 (~150 B.K.)</blockquote>
+                <p>Wakristo wa kwanza, waliolelewa na mitume wenyewe, waliamini Uwepo Halisi. Ekaristi kama ishara tu ilikuja karne kumi na tano baadaye, pamoja na Zwingli.</p>
+                <h2>Hitimisho</h2>
+                <p>Yesu anathibitisha uwepo halisi kwa sentensi ya moja kwa moja kuliko zote: «mwili wangu ni chakula cha kweli». Mbele ya pingamizi la wale waliochukizwa, hafafanui mfano wowote wa maneno: anawaacha waende. Paulo analithibitisha kutoka nje ya simulizi la Yohane. Na wanafunzi wa kwanza wa mitume waliliamini bila chembe ya shaka. Njia tatu za ushahidi zinazojitegemea. Hakuna hata moja inayojibiwa na tafsiri ya kiishara.</p>
+                <p>Jinsi uhalisia huu unavyokuwa hai katika Misa kunaelezwa katika mada ya <a href="tema-transubstanciacion.html">Mgeuzo wa dutu</a>, kuanzia 1 Wakorintho 10:16. Na kwa nini maneno haya yanapokelewa kama ukweli wa Mungu, katika mada ya <a href="tema-por-que-creemos.html">Kwa nini tunaamini?</a></p>`,
       nav: { prevTitle: "Ukuu wa Petro", nextTitle: "Transubstansiasyoni: fumbo la Ekaristi" }
     },
     "la-nueva-ley": {
@@ -389,8 +430,18 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ Mathayo 16:16-19</span>
                     <blockquote>«Simoni Petro akajibu, «Wewe ndiwe Kristo, Mwana wa Mungu aliye hai.» Yesu akamwambia, «Heri wewe Simoni mwana wa Yona, kwa sababu hakuna binadamu aliyekufunulia jambo hili, ila Baba yangu aliye mbinguni. Nami nakuambia: <strong class="s-hi">wewe ni Petro, na juu ya mwamba huu nitalijenga Kanisa langu</strong><strong>, na nguvu za kifo hazitaweza kulishinda</strong>. <strong class="s-hi">Nitakupa</strong> <strong>funguo za Ufalme wa mbinguni; lolote utakalolifunga duniani litafungwa mbinguni, na lolote utakalolifungua duniani litafunguliwa mbinguni</strong>.»»</blockquote>
                 </div>
-                <p>Yesu alizungumza Kiaramu, na kwa Kiaramu neno ni moja tu: <em>kefa</em>, mwamba. Injili ya Yohane inahifadhi jina la asili katika mkutano wa kwanza: <em>«Wewe ni Simoni mwana wa Yohane; utaitwa Kefa»</em>, maana yake Petro (Yohane 1:42), na Paulo anaendelea kumwita Kefa katika barua zake. Kwa Kigiriki, <em>petra</em> ni neno la jinsia ya kike na haliwezi kutumika kama jina la mwanamume, kwa hiyo likapewa kiishio cha kiume: <em>Petros</em>. Tofauti kati ya kijiwe na mwamba haimo katika yale aliyosema Yesu. Imo katika sarufi ya mtafsiri.</p>
-                <p>Kisha, funguo. Mathayo anawaandikia Wayahudi, na Myahudi alijua maana ya kupokea funguo kutoka kwa mfalme. Isaya anasimulia: Mungu anatangaza kwamba atamwondoa Shebna, msimamizi wa ikulu, katika cheo chake, na kumweka Eliakimu mahali pake: <em>«Nitaweka begani mwake ufunguo wa nyumba ya Daudi; atakachofungua hakuna atakayefunga, na atakachofunga hakuna atakayefungua»</em> (Isaya 22:22). Ufunguo ulikuwa mamlaka ya mfalme yaliyowekwa mikononi mwa msimamizi, aliyefungua na kufunga kwa jina lake. Yesu anachukua picha hiyo na kumkabidhi Petro, kwa jozi ileile ya vitenzi (kufunga na kufungua) na kwa hakikisho ambalo Eliakimu hakuwa nalo: lolote Petro atakalolifunga duniani limefungwa mbinguni.</p>
+                <p>Yesu alizungumza Kiaramu, na kwa Kiaramu neno ni moja tu: <em>kefa</em>, mwamba. Injili ya Yohane inahifadhi jina la asili katika mkutano wa kwanza:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 1:42</span>
+                    <blockquote>«Akampeleka kwa Yesu. Yesu akamtazama, akasema: «Wewe ni Simoni, mwana wa Yohane; <strong class="s-hi">wewe utaitwa Kefa</strong>» (tafsiri yake ni Petro).»</blockquote>
+                </div>
+                <p>Na Paulo anaendelea kumwita Kefa katika barua zake. Kwa Kigiriki, <em>petra</em> ni neno la jinsia ya kike na haliwezi kutumika kama jina la mwanamume, kwa hiyo likapewa kiishio cha kiume: <em>Petros</em>. Tofauti kati ya kijiwe na mwamba haiko katika kile Yesu alichosema. Iko katika sarufi ya mtafsiri.</p>
+                <p>Kisha, funguo. Mathayo anawaandikia Wayahudi, na Myahudi alijua maana ya kupokea funguo kutoka kwa mfalme. Isaya anasimulia: Mungu anatangaza kwamba atamwondoa Shebna, msimamizi wa ikulu, katika cheo chake, na kumweka Eliakimu mahali pake:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Isaya 22:22</span>
+                    <blockquote>«Nami nitaweka begani mwake <strong class="s-hi">ufunguo wa nyumba ya Daudi</strong>; atafungua wala hapana atakayefunga; atafunga wala hapana atakayefungua.»</blockquote>
+                </div>
+                <p>Ufunguo ulikuwa mamlaka ya mfalme yaliyowekwa mikononi mwa msimamizi, aliyefungua na kufunga kwa jina lake. Yesu anachukua picha hiyo na kumpa Petro, kwa jozi ile ile ya vitenzi (kufunga na kufungua) na kwa dhamana ambayo Eliakimu hakuwa nayo: anachokifunga Petro duniani kimefungwa mbinguni.</p>
                 <p>Na yote yamesemwa kwa umoja. Kufunga na kufungua watapewa baadaye mitume wote (Mathayo 18:18). Funguo, Petro peke yake.</p>
                 <h2>Mawe yaliyo hai: hakuna anayechukua nafasi ya Kristo<br>1 Petro 2:3-8</h2>
                 <p>Anayejibu vizuri zaidi pingamizi kuhusu mwamba ni Petro mwenyewe.</p>
@@ -466,8 +517,13 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                 <p>Maandiko hayaweki uchaguzi kati ya Kristo na Petro. Kristo ni jiwe kuu la pembeni na Petro ni mwamba ambao Kristo anajenga juu yake; Kristo ni mwenye nyumba na Petro ndiye anayetunza funguo zake; Kristo ni mchungaji na Petro analisha kondoo wake kwa kukabidhiwa. Kanisa linaloelezwa na vifungu hivi lina msingi, uongozi na mipaka, na lilikuwepo kabla haijaandikwa hata barua moja ya Agano Jipya. Hilo halikubuniwa na Roma. Waliliandika Mathayo, Luka, Paulo na Petro mwenyewe.</p>
                 <p>Katika Isaya ufunguo unapita kutoka kwa Shebna kwenda kwa Eliakimu: msimamizi anabadilika na cheo kinabaki, kwa sababu nyumba ya Daudi bado imesimama. Petro alikufa shahidi huko Roma, na ahadi kwamba nguvu za kifo hazitaweza kulishinda Kanisa haikufa pamoja naye.</p>
                 <div class="article-footnote">
-                    <p><sup>*</sup> Padre Mkatoliki akiamua kwamba anataka kuoa, anaweza kuomba hivyo, lakini hawezi kuamua peke yake. Anapaswa kuomba rasmi ruhusa ya kuondolewa katika wajibu wa useja, ambayo hutolewa na Papa peke yake (Sheria za Kanisa, kan. 291), pamoja na kupoteza hali ya ukleri, inayojulikana kama kurudishwa katika hali ya walei. Akishaipokea, haendelei tena na huduma: haadhimishi Misa, hahubiri wala hatoi sakramenti, na anajitoa kikamilifu kwa maisha yake ya ndoa na familia. Tofauti pekee ni hatari ya kifo, ambapo anaweza kumwondolea dhambi yeyote anayehitaji (kan. 976).</p>
-                    <p>Asichopoteza ni ukuhani. Daraja takatifu huacha alama isiyofutika (kan. 1008): yeye ni kuhani «milele, kwa mfano wa Melkisedeki» (Waebrania 5:6), na Kanisa linatambua kwamba alikuwa padre na anabaki padre. Anachopoteza ni hali ya ukleri pamoja na haki na wajibu wake: hahesabiwi tena kisheria kuwa sehemu ya wakleri, anakuwa mlei mbele ya sheria ya Kanisa, na anaachiwa huru kutoka kwa useja ili aweze kufunga ndoa halali Kanisani.</p>
+<p><sup>*</sup> Padre Mkatoliki akiamua kwamba anataka kuoa, anaweza kuomba hivyo, lakini hawezi kuamua peke yake. Anapaswa kuomba rasmi ruhusa ya kuondolewa katika wajibu wa useja, ambayo hutolewa na Papa peke yake (Sheria za Kanisa, kan. 291), pamoja na kupoteza hali ya ukleri, inayojulikana kama kurudishwa katika hali ya walei. Akishaipokea, haendelei tena na huduma: haadhimishi Misa, hahubiri wala hatoi sakramenti, na anajitoa kikamilifu kwa maisha yake ya ndoa na familia. Tofauti pekee ni hatari ya kifo, ambapo anaweza kumwondolea dhambi yeyote anayehitaji (kan. 976).</p>
+                    <p>Asichopoteza ni ukuhani. Daraja takatifu huacha alama isiyofutika (kan. 1008): yeye ni kuhani milele.</p>
+                    <div class="scripture-block">
+                        <span class="scripture-ref">✝︎ Waebrania 5:6</span>
+                        <blockquote>«kama asemavyo mahali pengine: «<strong class="s-hi">Wewe u kuhani milele, kwa mfano wa Melkisedeki</strong>.»»</blockquote>
+                    </div>
+                    <p>Kanisa linatambua kwamba alikuwa padre na anabaki padre. Anachopoteza ni hali ya ukleri pamoja na haki na wajibu wake: hahesabiwi tena kisheria kuwa sehemu ya wakleri, anakuwa mlei mbele ya sheria ya Kanisa, na anaachiwa huru kutoka kwa useja ili aweze kufunga ndoa halali Kanisani.</p>
                 </div>`,
       nav: { prevTitle: "Kwa nini tunaamini katika imani ya Kikatoliki", nextTitle: "Ekaristi: sakramenti kuu" }
     },
@@ -475,21 +531,40 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       pageTitle: "Utatu Mtakatifu | Imani na Akili",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Utatu Mtakatifu</h1><p>Mungu mmoja katika Nafsi tatu. Dhidi ya wazo kwamba Baba, Mwana na Roho Mtakatifu ni vyeo vitatu vya nafsi moja, yale yanayosemwa na Maandiko, kifungu kwa kifungu.</p><div class="article-meta"><span>Dakika 11 kusoma</span><span>Imechapishwa Septemba 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
       article: `<p>Kuna pingamizi dhidi ya Utatu Mtakatifu linalosikika ndani ya ulimwengu wa Kipentekoste, na si pingamizi la Wapentekoste wote: Assemblies of God na makanisa mengi ya Kipentekoste yanaukiri Utatu. Ni la Wapentekoste wa Muungano (United Pentecostal), wanaojiita wa «Umoja» au wa «Yesu peke yake»: <em>«Mungu ni mmoja tu, si nafsi tatu. Baba, Mwana na Roho Mtakatifu ni vyeo, njia ambazo Mungu yule yule amejidhihirisha. Baba ni Yesu, na Roho Mtakatifu ni Roho wa Yesu. Ndiyo sababu tunabatiza kwa jina la Yesu peke yake.»</em></p>
-                <p>Utatu ni fumbo: Mungu mmoja katika Nafsi tatu. Hakuna anayeuelewa kikamilifu, na Kanisa halijawahi kudai kwamba uelewe kwanza ndipo uamini. Linachodai ni kumwamini Mungu kwa yale anayosema juu yake mwenyewe, kwa sababu kuamini kwamba kuna Mungu mmoja hakutoshi. Yakobo anasema hivi: <em><strong>«Wewe unaamini kwamba Mungu ni mmoja; wafanya vema. Hata mashetani nao wanaamini, na kutetemeka.»</strong></em> (Yak 2:19). Na yale ambayo Mungu anasema juu yake mwenyewe yameandikwa kwa msisitizo mkubwa kiasi kwamba yanaeleweka kwa kuyasoma. Ndiyo sababu mada hii ina manukuu mengi kuliko maelezo.</p>
+                <p>Utatu Mtakatifu ni fumbo: Mungu mmoja katika Nafsi tatu. Hakuna anayeuelewa kwa kina, na Kanisa halijawahi kudai kwamba ueleweke kabla ya kuaminiwa. Linalodai ni kumwamini Mungu kwa yale anayosema juu yake mwenyewe, kwa sababu kuamini kwamba Mungu ni mmoja hakutoshi. Yakobo anasema hivi:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yakobo 2:19</span>
+                    <blockquote>«<strong class="s-hi">Wewe unaamini kwamba Mungu ni mmoja; vema. Hata mashetani wanaamini, na kutetemeka.</strong>»</blockquote>
+                </div>
+                <p>Na kile Mungu anachosema juu yake mwenyewe kimeandikwa kwa msisitizo mkubwa kiasi kwamba kinaeleweka kwa kukisoma. Ndiyo maana mada hii ina manukuu mengi kuliko maelezo.</p>
                 <h2>«Na tumfanye»: wingi wa mwanzo<br>Mwanzo 1:26</h2>
                 <p>Ishara ya kwanza iko katika ukurasa wa kwanza wa Biblia.</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Mwanzo 1:26</span>
                     <blockquote>«Mungu akasema, «<strong class="s-hi">Na tumfanye mtu kwa mfano wetu, kwa sura yetu</strong>; wakatawale samaki wa baharini, na ndege wa angani, na wanyama, na nchi yote pia, na kila chenye kutambaa kitambaacho juu ya nchi.»»</blockquote>
                 </div>
-                <p>Mungu anasema kwa wingi, na hakuna mwingine katika tukio hilo. Si malaika: malaika hawaumbi, na mtu anaumbwa kwa mfano wa Mungu, si wa malaika. Mstari unaofuata unarudi kwa umoja: <em>«Mungu akaumba mtu kwa mfano wake»</em> (Mwa 1:27). Mmoja anayesema «sisi». Mstari huu peke yake haudhibitishi Utatu, na Kanisa haliutumii hivyo. Ni tangazo ambalo Maandiko yaliyobaki yatalifafanua.</p>
+                <p>Mungu anasema kwa wingi, na hakuna mwingine katika tukio hilo. Si malaika: malaika hawaumbi, na mwanadamu anaumbwa kwa mfano wa Mungu, si wa malaika. Mstari unaofuata unarudi katika umoja:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mwanzo 1:27</span>
+                    <blockquote>«<strong class="s-hi">Mungu akaumba mtu kwa mfano wake</strong>, kwa mfano wa Mungu alimwumba; mwanamume na mwanamke aliwaumba.»</blockquote>
+                </div>
+                <p>Mmoja tu anayesema «sisi». Mstari huu peke yake haudhihirishi Utatu, na Kanisa halitumii hivyo. Ni tangazo ambalo sehemu iliyobaki ya Maandiko itaweka wazi.</p>
                 <h2>Wa Kwanza na wa Mwisho, aliyetumwa<br>Isaya 48:16</h2>
-                <p>Katika Isaya 48 Mungu anasema, naye anajitambulisha kwa cheo ambacho hakuna mwingine anayeweza kukibeba: <em>«Mimi ndiye; mimi ni wa kwanza, mimi ni wa mwisho pia»</em> (Isa 48:12). Yeye ndiye aliyeweka misingi ya dunia na kuzitandaza mbingu. Mistari minne baadaye, yule anayesema anasema hivi:</p>
+                <p>Katika Isaya 48 Mungu anasema, na anajitambulisha kwa cheo ambacho hakuna mwingine anayeweza kukibeba:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Isaya 48:12</span>
+                    <blockquote>«Nisikilize, ee Yakobo, na Israeli niliyekuita: <strong class="s-hi">Mimi ndiye; mimi ni wa kwanza, mimi pia ni wa mwisho.</strong>»</blockquote>
+                </div>
+                <p>Yeye ndiye aliyeweka misingi ya dunia na kuzitandaza mbingu. Mistari minne baadaye, anayesema anasema hivi:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Isaya 48:16</span>
                     <blockquote>«Nikaribieni, sikieni haya; tangu mwanzo sikusema kwa siri; tangu wakati ule ulipokuwako, mimi nipo; <strong class="s-hi">na sasa Bwana Mungu amenituma, pamoja na roho yake.</strong>»</blockquote>
                 </div>
-                <p>Yule aliyekuwepo tangu mwanzo anatumwa, na wanaomtuma ni Bwana Mungu na roho yake. Katika kifungu kimoja cha Agano la Kale wanaonekana pamoja yule anayetuma, yule aliyetumwa na Roho. Karne nyingi baadaye, kitabu cha Ufunuo kinaweka cheo hicho hicho kinywani mwa Yesu: <em>«Mimi ni wa kwanza na wa mwisho, na aliye hai; nami nalikuwa nimekufa, na tazama, ni hai hata milele na milele»</em> (Ufu 1:17-18).</p>
+                <p>Yule aliyekuwepo tangu mwanzo anatumwa, na wanaomtuma ni Bwana Mungu na roho wake. Katika kifungu kimoja cha Agano la Kale wanaonekana pamoja anayetuma, aliyetumwa na Roho. Karne nyingi baadaye, Ufunuo unaweka cheo hicho hicho kinywani mwa Yesu:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ufunuo 1:17-18</span>
+                    <blockquote>«Nilipomwona, nilianguka miguuni pake kama mfu. Naye akaweka mkono wake wa kuume juu yangu, akasema: «Usiogope! <strong class="s-hi">Mimi ni wa kwanza na wa mwisho, na aliye hai</strong>. Nilikuwa nimekufa, na tazama, ni hai milele na milele, nami nina funguo za mauti na za kuzimu.»»</blockquote>
+                </div>
                 <h2>Watatu katika Yordani<br>Marko 1:10-11</h2>
                 <p>Katika ubatizo wa Yesu, pingamizi la vyeo linakosa mahali pa kusimama.</p>
                 <div class="scripture-block">
@@ -503,19 +578,34 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ Waebrania 1:5</span>
                     <blockquote>«Maana alimwambia malaika yupi wakati wowote, «<strong class="s-hi">Wewe ndiwe Mwanangu, mimi leo nimekuzaa</strong>»? Na tena, «<strong>Mimi nitakuwa kwake Baba, naye atakuwa kwangu Mwana</strong>»?»</blockquote>
                 </div>
-                <p>Mmoja anasema na mwingine anasemeshwa. Na mistari mitatu chini, Baba anamwita Mwana Mungu: <em>«Lakini kwa habari za Mwana asema, Kiti chako cha enzi, Ee Mungu, ni cha milele na milele»</em> (Ebr 1:8). Mwana ni Mungu, na Baba, anayesema naye, si yeye.</p>
+                <p>Mmoja anasema na mwingine anaambiwa. Na mistari mitatu chini, Baba anamwita Mwana Mungu:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Waebrania 1:8</span>
+                    <blockquote>«Lakini kwa habari za Mwana asema: «<strong class="s-hi">Kiti chako cha enzi, ee Mungu, ni cha milele na milele</strong>; na fimbo ya haki ndiyo fimbo ya ufalme wako.»»</blockquote>
+                </div>
+                <p>Mwana ni Mungu, na Baba, anayemwambia, si yeye.</p>
                 <h2>Pamoja na Baba, kabla ya ulimwengu<br>Yohane 17:5</h2>
                 <p>Kwa Wapentekoste wa Muungano, Mwana anaanza Bethlehemu: «Mwana» ingekuwa jina la ubinadamu wa Yesu, na «Baba» jina la Mungu anayekaa ndani yake. Yohane anajibu hilo katika waraka wake wa kwanza.</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Yohane 1:2-3</span>
                     <blockquote>«uzima huo ulidhihirika, nasi tumeuona na tunashuhudia, tena twawahubiri ninyi <strong class="s-hi">uzima wa milele uliokuwa pamoja na Baba</strong> ukadhihirishwa kwetu. Hilo tuliloliona na kulisikia twawahubiri ninyi, ili ninyi nanyi mpate kushirikiana pamoja nasi. Na ushirika wetu ni <strong>pamoja na Baba, na pamoja na Mwanawe Yesu Kristo</strong>.»</blockquote>
                 </div>
-                <p>Kile ambacho mitume walikiona na kukigusa kilikuwa pamoja na Baba kabla ya kudhihirishwa. Hakuna aliye pamoja na nafsi yake mwenyewe. Ndivyo Yohane alivyoandika mwanzoni mwa Injili yake: <em>«Neno alikuwako kwa Mungu, naye Neno alikuwa Mungu»</em> (Yn 1:1). Na Yesu analisema kwa maneno yake mwenyewe usiku kabla ya kufa kwake:</p>
+                <p>Kile mitume walichokiona na kukigusa kilikuwa pamoja na Baba kabla ya kudhihirishwa. Hakuna aliye pamoja na nafsi yake mwenyewe. Hicho ndicho Yohane alichoandika mwanzoni mwa Injili yake:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 1:1</span>
+                    <blockquote>«Hapo mwanzo kulikuwako Neno, naye <strong class="s-hi">Neno alikuwako kwa Mungu, naye Neno alikuwa Mungu</strong>.»</blockquote>
+                </div>
+                <p>Na Yesu anasema hivyo kwa maneno yake mwenyewe usiku kabla ya kufa:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Yohane 17:5</span>
                     <blockquote>«Na sasa, Baba, unitukuze mimi pamoja nawe, <strong class="s-hi">kwa utukufu ule niliokuwa nao pamoja nawe kabla ulimwengu haujakuwako</strong>.»</blockquote>
                 </div>
-                <p>Yesu anamwomba Baba utukufu aliokuwa nao pamoja naye kabla ya uumbaji. Kama Mwana angeanza Bethlehemu, asingekuwa na utukufu wa zamani wa kuudai, wala mtu yeyote ambaye angekuwa nao pamoja naye. Katika sala hiyo hiyo anasisitiza: <em>«ulinipenda kabla ya kuwekwa misingi ya ulimwengu»</em> (Yn 17:24). Kabla ya ulimwengu kulikuwa na mmoja aliyependa na mwingine aliyependwa.</p>
+                <p>Yesu anamwomba Baba utukufu aliokuwa nao pamoja naye kabla ya uumbaji. Kama Mwana angeanza Bethlehemu, hangekuwa na utukufu wa awali wa kudai wala mtu aliyekuwa naye. Katika sala hiyo hiyo anasisitiza:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 17:24</span>
+                    <blockquote>«Baba, nataka wale ulionipa wawe pamoja nami pale nilipo, ili wautazame utukufu wangu ulionipa; kwa kuwa <strong class="s-hi">ulinipenda kabla ya kuwekwa misingi ya ulimwengu</strong>.»</blockquote>
+                </div>
+                <p>Kabla ya ulimwengu kulikuwa na mmoja aliyependa na mwingine aliyependwa.</p>
                 <h2>Mashahidi wawili<br>Yohane 8:16-18</h2>
                 <p>Akibishana na Mafarisayo, Yesu anaitaja Sheria ya Musa, ambayo haikukubali shahidi mmoja peke yake (Kum 19:15).</p>
                 <div class="scripture-block">
@@ -523,14 +613,32 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <blockquote>«Lakini nijapohukumu mimi, hukumu yangu ni kweli, kwa kuwa <strong class="s-hi">mimi si peke yangu, bali ni mimi na Baba aliyenipeleka</strong>. Tena katika torati yenu imeandikwa kwamba <strong>ushuhuda wa watu wawili ni kweli</strong>. Mimi ndimi ninayejishuhudia mwenyewe, naye Baba aliyenipeleka ananishuhudia.»</blockquote>
                 </div>
                 <p>Yesu anawaleta mashahidi wawili: yeye mwenyewe na Baba. Kama wangekuwa nafsi moja yenye majina mawili, angekuwa anampitisha shahidi mmoja kama wawili, na hoja yake mbele ya Mafarisayo ingekuwa udanganyifu. Yesu anahesabu wawili. Wapentekoste wa Muungano wanahesabu mmoja.</p>
-                <p>Mistari wanayoinukuu wao wenyewe inasema jambo hilo hilo inaposomwa kwa ukamilifu. <em>«Mimi na Baba tu umoja»</em> (Yn 10:30): «tu» ni wingi, na kilicho kimoja ni uungu, si nafsi. <em>«Aliyeniona mimi amemwona Baba»</em> (Yn 14:9), na mara baada ya hapo: <em>«mimi ni ndani ya Baba, na Baba yu ndani yangu»</em> (Yn 14:11). Ili kuwa mmoja ndani ya mwingine, lazima wawe wawili.</p>
+                <p>Mistari wanayoinukuu wao wenyewe inasema hivyo hivyo ikisomwa yote:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 10:30</span>
+                    <blockquote>«Mimi na Baba <strong class="s-hi">tu</strong> umoja.»</blockquote>
+                </div>
+                <p>«Tu» ni wingi, na kilicho kimoja ni kiini, si nafsi. Vivyo hivyo katika jibu kwa Filipo:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 14:9-11</span>
+                    <blockquote>«Aliyeniona mimi amemwona Baba... <strong class="s-hi">mimi ni ndani ya Baba, na Baba yu ndani yangu</strong>.»</blockquote>
+                </div>
+                <p>Ili kuwa ndani ya mwingine, wanahitajika wawili.</p>
                 <h2>Msaidizi mwingine<br>Yohane 14:16-17</h2>
                 <p>Kuhusu Roho Mtakatifu, neno la kuamua linasemwa na Yesu katika karamu ya mwisho.</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Yohane 14:16-17</span>
                     <blockquote>«Nami nitamwomba Baba, naye atawapa <strong class="s-hi">Msaidizi mwingine</strong>, ili akae nanyi hata milele; ndiye <strong>Roho wa kweli</strong>; ambaye ulimwengu hauwezi kumpokea, kwa kuwa haumwoni wala haumtambui; bali ninyi mnamtambua, maana anakaa kwenu, naye atakuwa ndani yenu.»</blockquote>
                 </div>
-                <p>Mwana anaomba, Baba anatoa, na anachotoa ni Msaidizi mwingine. Msaidizi (Parakleto) ni yule anayeandamana na kutetea; Yesu alikuwa hivyo kwa wanafunzi wake kwa miaka mitatu, na sasa anatangaza mwingine. Kama Roho Mtakatifu angekuwa Yesu kwa jina jingine, asingekuwa mwingine. Katika sura zinazofuata kila mmoja anaonekana na kilicho chake: Roho Mtakatifu ni yule <em>«ambaye Baba atampeleka kwa jina langu»</em> (Yn 14:26), na <em>«hatanena kwa shauri lake mwenyewe; lakini yote atakayoyasikia atayanena»</em> (Yn 16:13).</p>
+                <p>Mwana anaomba, Baba anatoa, na anachotoa ni Msaidizi mwingine. Paraklito ni yule anayesindikiza na kutetea; Yesu alikuwa hivyo kwa wanafunzi wake kwa miaka mitatu, na sasa anamtangaza mwingine. Kama Roho Mtakatifu angekuwa Yesu kwa jina jingine, hangekuwa mwingine. Katika sura zinazofuata kila mmoja anaonekana na kilicho chake:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 14:26</span>
+                    <blockquote>«Lakini huyo Msaidizi, yule Roho Mtakatifu, <strong class="s-hi">ambaye Baba atampeleka kwa jina langu</strong>, atawafundisha yote na kuwakumbusha yote niliyowaambia.»</blockquote>
+                </div>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 16:13</span>
+                    <blockquote>«Lakini yeye atakapokuja, huyo Roho wa kweli, atawaongoza awatie katika kweli yote; kwa maana <strong class="s-hi">hatanena kwa shauri lake mwenyewe, lakini yote atakayoyasikia atayanena</strong>, na mambo yajayo atawapasha habari yake.»</blockquote>
+                </div>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Yohane 15:26</span>
                     <blockquote>«Atakapokuja <strong class="s-hi">huyo Msaidizi, nitakayewapelekea kutoka kwa Baba</strong>, yaani, Roho wa kweli atokaye kwa Baba, <strong>yeye atanishuhudia</strong>.»</blockquote>
@@ -554,7 +662,22 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ 2 Wakorintho 13:13</span>
                     <blockquote>«<strong class="s-hi">Neema ya Bwana Yesu Kristo, na pendo la Mungu, na ushirika wa Roho Mtakatifu</strong> ukae nanyi nyote.»</blockquote>
                 </div>
-                <p>Watatu, mmoja kando ya mwingine, kila mmoja na anachokitoa. Si sentensi ya pekee. Katika waraka wa kwanza kwa Wakorintho, karama zinatoka kwa <em>«Roho yeye yule»</em>, huduma kwa <em>«Bwana yeye yule»</em> na kazi kwa <em>«Mungu yeye yule»</em> (1 Kor 12:4-6). Kwa Waefeso anaandika: <em>«Roho mmoja… Bwana mmoja… Mungu mmoja, Baba wa wote»</em> (Efe 4:4-6). Na Petro anaanza waraka wake wa kwanza kwa namna hiyo hiyo: <em>«kwa kujua kwake Mungu Baba tangu zamani, katika kutakaswa na Roho, hata mpate kutii na kunyunyiziwa damu ya Yesu Kristo»</em> (1 Pet 1:2). Mitume waliwataja watatu tangu salamu.</p>
+                <p>Watatu, mmoja kando ya mwingine, kila mmoja na anachotoa. Si sentensi iliyotengwa. Katika waraka wa kwanza kwa Wakorintho:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Wakorintho 12:4-6</span>
+                    <blockquote>«Basi pana tofauti za karama; bali <strong class="s-hi">Roho ni yeye yule</strong>. Kisha pana tofauti za huduma; na <strong class="s-hi">Bwana ni yeye yule</strong>. Kisha pana tofauti za kutenda kazi; bali <strong class="s-hi">Mungu ni yeye yule</strong>, azitendaye kazi zote katika wote.»</blockquote>
+                </div>
+                <p>Kwa Waefeso anaandika:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Waefeso 4:4-6</span>
+                    <blockquote>«Mwili mmoja na <strong class="s-hi">Roho mmoja</strong>... <strong class="s-hi">Bwana mmoja</strong>, imani moja, ubatizo mmoja, <strong class="s-hi">Mungu mmoja, Baba wa wote</strong>, aliye juu ya yote, na katika yote, na ndani ya yote.»</blockquote>
+                </div>
+                <p>Na Petro anaanza waraka wake wa kwanza kwa namna hiyo hiyo:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Petro 1:2</span>
+                    <blockquote>«kama alivyowachagua <strong class="s-hi">Mungu Baba</strong> tangu zamani, kwa kutakaswa na <strong class="s-hi">Roho</strong>, ili mpate kutii na kunyunyiziwa damu ya <strong class="s-hi">Yesu Kristo</strong>: neema na amani ziongezwe kwenu.»</blockquote>
+                </div>
+                <p>Mitume waliwataja wale watatu tayari katika salamu.</p>
                 <ul>
                     <li>Katika Yordani, Mwana, Roho na Baba wanaonekana wakati mmoja, na Baba anasema na Mwana.</li>
                     <li>Mwana alikuwa pamoja na Baba na alikuwa na utukufu pamoja naye kabla ulimwengu haujakuwako.</li>
@@ -570,7 +693,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
     "los-santos": {
       pageTitle: "Watakatifu | Imani na Akili",
       hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Watakatifu na maombezi yao</h1><p>Maandiko yenyewe yanawataja: Abeli, Henoko, Noa, Abrahamu, Musa, manabii. Vifungu saba, kimoja baada ya kingine, kuhusu kwa nini watakatifu husikia na kuombea.</p><div class="article-meta"><span>Dakika 7 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
-      article: `<p>Mashahidi wa Yehova na Waadventista hurudia pingamizi lile lile bila kuchoka: <em>«Wafu hawawezi kukusikia»</em>, kwa sababu roho —wanasema— hulala hadi hukumu ya mwisho. Kwa mtazamo wa kwanza inaonekana yenye mantiki. Lakini Maandiko yanasema jambo jingine. Si katika nukuu moja iliyotengwa: katika vifungu saba tofauti, kutoka Paulo hadi Ufunuo. Kimoja baada ya kingine.</p>
+      article: `<p>Madhehebu kadhaa ya Kiprotestanti yanashikilia uzushi wa «usingizi wa roho». Waadventista na Mashahidi wa Yehova wameuandika: kwao, kifo ni hali ya kutokuwa na fahamu mpaka hukumu ya mwisho. Kutoka hapo linatoka pingamizi wanalolirudia bila kuchoka: <em>«Wafu hawawezi kukusikia.»</em> Maandiko yanasema kitu kingine. Si katika mstari mmoja uliotengwa: katika vifungu saba tofauti, kuanzia Paulo hadi Ufunuo. Kimoja kimoja.</p>
 
             <h2>Ujuzi hukamilika baada ya kifo<br>1 Wakorintho 13:9-13</h2>
 
@@ -581,7 +704,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
 
             <p>Paulo anafundisha kwamba katika maisha haya ujuzi haujakamilika. Kitakapokuja kilicho kamili —na hilo hutokea wakati wa kufa na kumwona Mungu uso kwa uso— mtu atajua kama Mungu ajuavyo: bila pazia na bila mpaka. Ikiwa watakatifu wanajua hivyo, hakuna kilichofichwa kwao. Wanaweza kusikia. Wanaweza kuelewa maombi yanayoelekezwa kwao.</p>
 
-            <h2>Baada ya kifo, tutamwona Mungu kama alivyo<br>1 Yohane 3:2</h2>
+            <h2>Baada ya kifo, Mungu anaonekana kama alivyo<br>1 Yohane 3:2</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝︎ 1 Yohane 3:2</span>
@@ -608,7 +731,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
 
             <p>Hili ndilo jibu la swali «watakatifu ni akina nani?». Maandiko yanawataja mmoja mmoja. Si uvumbuzi wa Kanisa. Ni wale walioishi, wakateseka na kufa wakitafuta nchi isiyo ya ulimwengu huu, na mwandishi wa Waebrania hawaweki pale kama pambo: anasema kwamba wingu hilo la mashahidi linawazunguka wale wanaokimbia bado. Hakuna azungukwaye na wasiokuwapo.</p>
 
-            <h2>Roho hailali — Kristo aliwahubiria roho<br>1 Petro 3:18-22</h2>
+            <h2>Roho hailali: Kristo aliwahubiria roho<br>1 Petro 3:18-22</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝︎ 1 Petro 3:18-22</span>
@@ -639,73 +762,250 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
 
             <p>Watakatifu ni wale walioishi katika imani —Abeli, Henoko, Noa, Abrahamu, Musa, manabii—, wale ambao baada ya kifo wako katika mji wa Mungu aliye hai, Yerusalemu ya mbinguni. Huko wanajua kama Mungu awajuavyo. Huko wanamwona Mungu kama alivyo. Huko hakuna mpaka wala umbali.</p>
 
-            <p>Na alifanyalo Kanisa kwa kuwaomba ni hasa lile lionyeshwalo na Ufunuo: hupeleka madhabahuni mbinguni maombi ya waamini na kuyawasilisha mbele ya kiti cha enzi cha Mwana-Kondoo. Watakatifu hawaabudiwi. Huombwa waombee mbele za Mungu, kama vile aombwavyo ndugu aliye hai kuombea mtu. Tofauti pekee iko upande wao: wako mbinguni na wanajua kama Mungu ajuavyo. Ndiyo maana wanaona, wanasikia na wanaombea. Asemaye kwamba wafu hawawezi kusikia ni lazima kwanza aeleze kwa nini mbingu huhifadhi maombi katika vitasa vya dhahabu.</p>`,
+            <p>Na kile Kanisa linachofanya linapowaomba ndicho hasa kinachoonyeshwa na Ufunuo: wanapeleka sala za waamini kwenye altare ya mbinguni na kuzitoa mbele ya kiti cha enzi cha Mwanakondoo. Watakatifu hawaabudiwi. Wanaombwa wawaombee watu mbele ya Mungu, kama tunavyomwomba ndugu aliye hai atuombee. Tofauti pekee iko upande wao: wako mbinguni na wanajua kama Mungu ajuavyo. Ndiyo maana wanaona, wanasikia na wanaombea.</p>`,
       nav: { prevTitle: "Ukuhani katika Kanisa Katoliki", nextTitle: "Toharani na Huruma ya Mungu" }
     },
     "por-que-creemos": {
       pageTitle: "Kwa nini Tunaamini | Imani na Akili",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Kwa nini tunaamini katika imani ya Kikatoliki</h1><p>Kwa nini tunaamini? Si kwa mazoea. Kwa sababu walishuhudia, tumechunguza, na Biblia yenyewe inaelekeza kwenye Kanisa ambalo Yesu alilianzisha.</p><div class="article-meta"><span>Dakika 15 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
-      article: `<p>Kwa nini tunaamini? Si kwa mapokeo ya upofu wala kwa desturi za familia. Tunaamini kwa sababu Neno la Mungu lilishuhudiwa, likapitishwa kwa uaminifu na linaendelea kuwa kweli. Mtakatifu Luka anasema hivyo tangu mwanzo: alichunguza kila kitu kwa usahihi tangu mwanzo ili tupate kujua uhakika wa mafundisho tuliyopokea (Luka 1:1-4). Hicho ndicho tutakachofanya hapa.</p><h2>Neno lilishuhudiwa<br>Luka 1:1-4 na Yohane 11:25-27</h2><p>Luka anatuambia kwamba wengi wamejitahidi kupanga habari za mambo yale yaliyotimizwa katikati yetu, <em>«kama walivyotuhadithia wale waliokuwa mashahidi wenye kuyaona, na watumishi wa lile neno tokea mwanzo»</em> (Luka 1:2). Hizi si hekaya: ni shuhuda. Kile ambacho Yesu alisema, aliishi na kufundisha kilionekana na kupitishwa na mashahidi halisi.</p><p>Martha, mbele ya kaburi la kaka yake, anamtambua bila kusita: <em>«Ndiyo, Bwana; mimi nimesadiki ya kwamba wewe ndiwe Kristo, Mwana wa Mungu, yule ajaye ulimwenguni»</em> (Yohane 11:27). Imani si kinyume na akili: ni jibu kwa ufunuo uliothibitishwa na wale walioishi.</p><div class="scripture-block">
-                    <span class="scripture-ref">✝︎ Luka 1:4</span>
-                    <blockquote>«Upate kujua hakika ya mambo yale uliyofundishwa.»</blockquote>
-                </div><h2>Lazima tusome Neno la Mungu<br>Luka 8:5-8, 8:11-12 na Zaburi 119</h2><p>Mfano wa mpanzi unaweka wazi: <em>«Mbegu ni Neno la Mungu»</em> (Luka 8:11). Ibilisi anajua kwamba Neno la Mungu huchipua wokovu, ndiyo maana ananyakua, anasonga na kuliponda (Luka 8:12). Si jambo la bahati mbaya kwamba adui anapambana dhidi ya usomaji wake.</p><p>Zaburi 119:72 inathibitisha kwamba sheria ya Mungu ni njema kuliko maelfu ya dhahabu na fedha. Na kama mtu akiuliza anapata nini kwa kusoma Biblia, Mtakatifu Paulo anajibu: <em>«Na ya kuwa tangu utoto umeyajua maandiko matakatifu, <strong>yawezayo kukuhekimisha hata upate wokovu kwa imani iliyo katika Kristo Yesu</strong>»</em> (2 Timotheo 3:15).</p><p>Zaburi 119:103-105 inatoa picha nzuri zaidi: <em>«Maneno yako ni matamu sana kwangu, kupita asali kinywani mwangu!... <strong>Neno lako ni taa ya miguu yangu, na mwanga wa njia yangu.</strong>»</em> Asiyesoma Neno la Mungu anatembea gizani.</p><div class="scripture-block">
-                    <span class="scripture-ref">✝︎ Zaburi 119:105</span>
-                    <blockquote>«<strong class="s-hi">Neno lako ni taa ya miguu yangu, na mwanga wa njia yangu.</strong>»</blockquote>
-                </div><h2>Neno linatoka kwa Mungu<br>2 Petro 1:19 na Yohane 17:17</h2><p>Haya si maoni ya mwanadamu. Mtakatifu Petro anathibitisha: neno la manabii ni neno la Mungu (2 Petro 1:19). Na Yesu mwenyewe, katika sala yake kwa Baba, anathibitisha: <em>«<strong>Neno lako ndiyo kweli</strong>»</em> (Yohane 17:17). Na Yesu mwenyewe alisema: <em>«Heri wao walisikiao Neno la Mungu na <strong>kulishika</strong>»</em> (Luka 11:28). Hakusema wale wanaolijua au wanaolinukuu; alisema wale <strong>wanaolishika</strong> (wanaolitii).</p><h2>Imani ni kufanya anachosema<br>Luka 5:5 na Yohane 2:5</h2><p>Petro alikuwa amevua samaki usiku kucha na hakupata kitu. Kwa uzoefu wake wa kibinadamu, kutupa nyavu mchana hakukuwa na maana yoyote. Lakini alisema jambo linalofupisha imani yote: <em>«Bwana mkubwa, tumefanya kazi ya kuchosha usiku kucha, tusipate kitu; <strong>lakini kwa neno lako nitazishusha nyavu</strong>»</em> (Luka 5:5). Na kwa sababu hiyo, hasa, Yesu alimfanya kuwa mvuvi wa watu, yeye na si wengine (Luka 5:10).</p><p>Kule Kana, Bikira Maria anatoa maagizo ya mwisho kwa watumishi: <em>«<strong>Lolote atakalowaambia, fanyeni</strong>»</em> (Yohane 2:5). Mitungi ilijazwa maji, lakini ikabadilika kuwa divai wakati watumishi walipotimiza maagizo yake hadi mwisho (Yohane 2:8). Imani si tu kuamini: ni kutimiza.</p><div class="scripture-block">
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Kwa nini tunaamini katika imani ya Kikatoliki</h1><p>Si kwa mazoea: kwa sababu kulikuwa na mashahidi, kwa sababu Neno lilikabidhiwa, na kwa sababu Biblia yenyewe inaelekeza kwenye Kanisa alilolianzisha Yesu.</p><div class="article-meta"><span>Dakika 15 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      article: `<p>Mkatoliki haamini kwa mapokeo ya kipofu wala kwa mazoea ya familia. Anaamini kwa sababu Neno la Mungu lilishuhudiwa, likakabidhiwa kwa uaminifu, na bado ni kweli. Mtakatifu Luka anasema hivyo tangu mwanzo: alichunguza kila kitu kwa makini tangu mwanzo (Luka 1:3).</p>
+                <p>Madhehebu ya Kiprotestanti, wakiwemo Waevanjeliko, Wabaptisti na Wapentekoste, yanashikilia uzushi uliozaa Matengenezo ya Kiprotestanti: <em>«Biblia peke yake ndiyo kanuni ya imani. Biblia inatosha.»</em> Hiyo ndiyo <em>sola scriptura</em>. Kwamba Biblia ni Neno la Mungu si jambo la kubishaniwa. Linalobishaniwa ni kama Biblia inasema juu yake yenyewe kwamba ndiyo kanuni pekee. Haisemi hivyo, na tangu sura ya kwanza ya Luka inaonyesha kwamba kabla ya maandishi kulikuwa na mashahidi.</p>
+                <h2>Neno lilishuhudiwa<br>Luka 1:1-4 na Yohane 11:25-27</h2>
+                <p>Luka hakuandika kwanza: kwanza alipokea yale ambayo wengine walikuwa wakikabidhi.</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Luka 1:1-4</span>
+                    <blockquote>«Watu wengi wamejaribu kuandika habari za mambo yaliyotukia kati yetu, <strong class="s-hi">kama tulivyokabidhiwa na wale waliokuwa mashahidi tangu mwanzo na watumishi wa Neno</strong>. Kwa hiyo, mheshimiwa Theofilo, mimi pia, baada ya kuchunguza kwa makini mambo yote tangu mwanzo, nimeona ni vema nikuandikie kwa mpango, <strong class="s-hi">upate kujua hakika ya mambo uliyofundishwa</strong>.»</blockquote>
+                </div>
+                <p>Hizi si hadithi za kubuni: ni ushuhuda. Yale Yesu aliyosema, aliyoishi na aliyofundisha yaliona na kukabidhiwa na mashahidi halisi, na Theofilo alikuwa amekwisha kupokea mafundisho hayo kabla ya kusoma mstari hata mmoja wa Injili.</p>
+                <p>Martha, mbele ya kaburi la ndugu yake, anakiri bila kusita:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 11:25-27</span>
+                    <blockquote>«Yesu akamwambia: «Mimi ndimi ufufuo na uzima. Anayeniamini mimi, hata akifa, atakuwa anaishi; na kila aishiye na kuniamini hatakufa kamwe. Je, unaamini hili?» Akamwambia: «<strong class="s-hi">Ndiyo, Bwana. Ninaamini kwamba wewe ndiwe Kristo, Mwana wa Mungu, yule ajaye ulimwenguni</strong>.»»</blockquote>
+                </div>
+                <p>Martha aliamini kwa neno alilolisikia kutoka kwa Kristo, wakati ambapo hapakuwa bado na ukurasa hata mmoja wa Agano Jipya. Imani si jambo lisilo na akili: ni jibu kwa ufunuo uliothibitishwa na wale walioishi nao.</p>
+                <h2>Adui analipiga vita Neno<br>Luka 8:11-12 na Zaburi 119</h2>
+                <p>Kanisa haliiogopi Biblia: linaitetea, kwa sababu linajua ni nani anayeishambulia. Mfano wa mpanzi unaonyesha hilo waziwazi:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Luka 8:11-12</span>
+                    <blockquote>«Maana ya mfano huo ni hii: <strong class="s-hi">Mbegu ni neno la Mungu</strong>. Wale walio njiani ni wale wanaosikia; kisha Ibilisi anakuja na <strong class="s-hi">kuliondoa neno mioyoni mwao, wasije wakaamini na kuokolewa</strong>.»</blockquote>
+                </div>
+                <p>Ibilisi anajua kwamba Neno la Mungu linachipusha wokovu. Si kwa bahati kwamba adui anapiga vita usomaji wake. Zaburi 119:72 inasema kwamba sheria ya kinywa cha Mungu ni bora kuliko maelfu ya dhahabu na fedha, na Mtakatifu Paulo anasema kinachopatikana kwa kuisoma:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 2 Timotheo 3:15</span>
+                    <blockquote>«na tangu utoto umeyajua Maandiko Matakatifu, <strong class="s-hi">yanayoweza kukuhekimisha hata upate wokovu</strong> kwa imani iliyo katika Kristo Yesu.»</blockquote>
+                </div>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Zaburi 119:103-105</span>
+                    <blockquote>«Maneno yako ni matamu kama nini kwa ladha yangu, kuliko asali kinywani mwangu!... <strong class="s-hi">Neno lako ni taa ya miguu yangu, na mwanga wa njia yangu.</strong>»</blockquote>
+                </div>
+                <p>Asiyesoma Neno la Mungu anatembea gizani.</p>
+                <h2>Neno linatoka kwa Mungu<br>2 Petro 1:19, Yohane 17:17 na Luka 11:28</h2>
+                <p>Hili si wazo la kibinadamu. Mtakatifu Petro analiita neno la manabii taa na anaagiza tulisikilize:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 2 Petro 1:19</span>
+                    <blockquote>«Basi, tuna neno la unabii lililo imara zaidi, nanyi mwafanya vema kulisikiliza <strong class="s-hi">kama taa iangazayo mahali penye giza</strong>, mpaka kutakapopambazuka na nyota ya asubuhi kuzuka mioyoni mwenu.»</blockquote>
+                </div>
+                <p>Yesu mwenyewe, katika sala yake kwa Baba, analithibitisha:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 17:17</span>
+                    <blockquote>«Uwatakase kwa ile kweli; <strong class="s-hi">neno lako ndilo kweli</strong>.»</blockquote>
+                </div>
+                <p>Naye anasema la kufanya nalo:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Luka 11:28</span>
+                    <blockquote>«Lakini yeye akasema: «Afadhali wale walisikiao neno la Mungu na <strong class="s-hi">kulishika</strong>.»»</blockquote>
+                </div>
+                <p>Hakusema wale wanaolijua wala wale wanaolinukuu; alisema wale <strong class="s-hi">wanaolishika</strong>.</p>
+                <h2>Imani ni kufanya anachosema Yeye<br>Luka 5:5 na Yohane 2:5</h2>
+                <p>Petro alikuwa amevua usiku kucha bila kupata kitu. Kwa uzoefu wake wa kibinadamu, kushusha nyavu mchana hakukuwa na maana yoyote. Lakini alisema jambo linalojumlisha imani yote:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Luka 5:5</span>
                     <blockquote>«<strong class="s-hi">Kwa neno lako nitazishusha nyavu.</strong>»</blockquote>
-                </div><h2>Biblia yako imetoka wapi?<br>Sola scriptura na matatizo yake</h2><p>Kuna wale wanaosema: «Biblia pekee ndiyo kanuni ya imani. Biblia inatosha.» Vyema. Twende kwenye Biblia.</p><div class="scripture-block">
+                </div>
+                <p>Na ndiyo sababu hasa Yesu alimfanya mvuvi wa watu, yeye na si wengine (Luka 5:10).</p>
+                <p>Huko Kana, Bikira Maria anawapa watumishi agizo la mwisho:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 2:5</span>
+                    <blockquote>«Mama yake akawaambia watumishi: «<strong class="s-hi">Lolote atakalowaambia, fanyeni</strong>.»»</blockquote>
+                </div>
+                <p>Mitungi ilijazwa maji, na maji yakageuka divai watumishi walipotimiza maagizo yake mpaka mwisho:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 2:8</span>
+                    <blockquote>«Akawaambia: «Sasa choteni, mmpelekee mkuu wa karamu.» <strong class="s-hi">Wakampelekea.</strong>»</blockquote>
+                </div>
+                <p>Imani si kuamini tu: ni kutimiza. Jambo hili linaelezwa zaidi katika mada za <a href="tema-la-eucaristia.html">Ekaristi</a> na <a href="tema-transubstanciacion.html">Mgeuzo wa dutu</a>.</p>
+                <h2>Biblia imetoka wapi?<br>Sola scriptura na matatizo yake</h2>
+                <p>Mstari unaotumiwa zaidi kutetea <em>sola scriptura</em> ni huu:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 2 Timotheo 3:16-17</span>
                     <blockquote>«<strong class="s-hi">Kila andiko, lenye pumzi ya Mungu, lafaa</strong> kwa mafundisho, na kwa kuwaonya watu makosa yao, na kwa kuwaongoza, na kwa kuwadibisha katika haki; ili mtu wa Mungu awe kamili, amekamilishwa apate kutenda kila tendo jema.»</blockquote>
-                </div><p>Neno ambalo Paulo anatumia ni «lafaa» — katika Kigiriki ὠφέλιμος — sio «pekee» wala «kanuni pekee ya imani». Mstari huu hausemi kamwe kwamba Maandiko pekee yanatosha kwa kila kitu. Na kuna jambo muhimu zaidi: kama kigezo pekee cha ukweli kikiwa «kile ambacho Biblia inasema», basi Sola scriptura (Maandiko pekee) ingepaswa kuwemo ndani ya Biblia ili iwe halali. Na haimo. Hoja inajiharibu yenyewe kwa kigezo chake chenyewe.</p><h2>Nani aliyeweka orodha ya vitabu?<br>Tatizo ambalo Sola scriptura haiwezi kujibu</h2><p>Agano Jipya halikuja na faharasa. Wakati wa karne za kwanza, jamii tofauti zilitumia maandiko tofauti. Ilamuliwa vipi ni lipi Neno la Mungu na lipi siyo? Kanisa Katoliki, katika mabaraza ya Hippo (393 B.K.) na Carthage (397 B.K.), liliamua orodha ya vitabu vya Biblia (kanoni) ambayo ulimwengu wa Kikristo unaitumia hadi leo. Yule anayekataa mamlaka ya Kanisa Katoliki kufundisha mafundisho anategemea Kanisa hilo hilo kujua ni vitabu gani vya kusoma. Haiwezekani kuwa na msimamo dhabiti vinginevyo.</p><h2>Mapokeo ya mdomo ni ya kibiblia<br>2 Wathesalonike 2:15 na 2 Timotheo 2:2</h2><p>Paulo hakufundisha kwa barua tu. Aliamuru kushika pia mapokeo ya mdomo:</p><div class="scripture-block">
+                </div>
+                <p>Neno analotumia Paulo ni «yafaa» (kwa Kigiriki ὠφέλιμος), si «pekee» wala «kanuni pekee ya imani». Mstari huo hausemi kamwe kwamba Maandiko peke yake yanatosha kwa kila kitu. Na kuna jambo muhimu zaidi: kama kipimo pekee cha ukweli kingekuwa «kile Biblia inachosema», basi <em>sola scriptura</em> ingepaswa kuwemo katika Biblia ili iwe halali. Na haimo. Hoja hiyo inajiangusha yenyewe kwa kipimo chake yenyewe.</p>
+                <h2>«Biblia peke yake», pamoja na mamlaka nyingine kando<br>Waadventista na Mashahidi wa Yehova</h2>
+                <p>Madhehebu mawili ya Kiprotestanti yanasema «Biblia peke yake» na yameandika kinyume chake. Waadventista wanatangaza katika imani yao ya msingi namba 18 kwamba maandiko ya Ellen White yanazungumza kwa mamlaka ya kinabii, ingawa imani hiyo hiyo inasema kwamba Biblia ndiyo kipimo. Mashahidi wa Yehova wanasema hivyo waziwazi zaidi: <em>«Wote watakao kuelewa Biblia wapaswa kufahamu kwamba “hekima ya Mungu iliyo ya namna nyingi” yaweza kujulikana kupitia njia ya pekee ya uwasiliano na Yehova, mtumwa mwaminifu na mwenye busara»</em> (Mnara wa Mlinzi, Oktoba 1, 1994).</p>
+                <p>Hakuna kati yao anayeishi kwa <em>sola scriptura</em>. Wanalinyima Kanisa alilolianzisha Kristo mamlaka wanayompa Ellen White na «mtumwa mwaminifu na mwenye busara».</p>
+                <h2>Nani aliyeweka orodha ya vitabu?<br>Tatizo ambalo sola scriptura haiwezi kulijibu</h2>
+                <p>Agano Jipya halikuja na orodha ya yaliyomo. Katika karne za kwanza, jumuiya mbalimbali zilitumia maandishi tofauti. Iliamuliwaje lipi ni Neno la Mungu na lipi si? Kanisa Katoliki, katika mitaguso ya Hippo (393) na Karthago (397), liliweka orodha ya vitabu vya Biblia. Waprotestanti waliipokea kutoka kwa Kanisa hilo na wakaondoa vitabu saba vya Agano la Kale: Tobiti, Yudithi, Hekima, Yoshua bin Sira, Baruku na vitabu viwili vya Wamakabayo. Anayekataa mamlaka ya Kanisa Katoliki kufundisha mafundisho anategemea Kanisa hilo hilo kujua vitabu gani asome. Hakuna njia nyingine ya kuwa na msimamo unaoshikamana.</p>
+                <h2>Mapokeo ya mdomo ni ya kibiblia<br>2 Wathesalonike 2:15 na 2 Timotheo 2:2</h2>
+                <p>Paulo hakufundisha kwa barua tu. Aliagiza pia mapokeo ya mdomo yashikwe:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 2 Wathesalonike 2:15</span>
                     <blockquote>«Basi, ndugu, <strong class="s-hi">simameni imara, mkayashike mapokeo mliyofundishwa, ama kwa maneno, ama kwa waraka wetu.</strong>»</blockquote>
-                </div><p>Na aliagiza kwamba mapokeo hayo yapitishwe kutoka kizazi hadi kizazi:</p><div class="scripture-block">
+                </div>
+                <p>Na aliagiza mapokeo hayo yarithishwe kutoka kizazi hadi kizazi:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 2 Timotheo 2:2</span>
                     <blockquote>«<strong class="s-hi">Na mambo yale uliyoyasikia kwangu mbele ya mashahidi wengi, hayo uwakabidhi watu waaminifu watakaofaa kuwafundisha na wengine.</strong>»</blockquote>
-                </div><p>Vizazi vinne vya upitishaji katika mstari mmoja: Paulo → Timotheo → watu waaminifu → wengine. Na Yohane mwenyewe anakiri hilo mwishoni mwa Injili yake:</p><div class="scripture-block">
+                </div>
+                <p>Vizazi vinne vya kurithisha katika mstari mmoja: Paulo → Timotheo → watu waaminifu → wengine. Na Yohane mwenyewe anakiri hivyo mwishoni mwa Injili yake:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Yohane 21:25</span>
                     <blockquote>«<strong class="s-hi">Kuna na mambo mengine mengi aliyoyafanya Yesu; ambayo yakiandikwa moja moja, nadhani hata ulimwengu usingetosha kwa vile vitabu vitakavyoandikwa.</strong>»</blockquote>
-                </div><p>Yesu mwenyewe hakuandika hata mstari mmoja. Aliwatuma mitume kuhubiri, si kuandika.</p><h2>Tafsiri ya kibinafsi inakatazwa na Biblia<br>2 Petro 1:20-21</h2><p>Petro anasema kwa uwazi:</p><div class="scripture-block">
+                </div>
+                <p>Yesu mwenyewe hakuandika hata mstari mmoja. Aliwatuma mitume kuhubiri, si kuandika.</p>
+                <h2>Tafsiri ya binafsi imekatazwa na Biblia<br>2 Petro 1:20-21</h2>
+                <p>Petro anasema waziwazi:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 2 Petro 1:20-21</span>
                     <blockquote>«<strong class="s-hi">Mkijua neno hili kwanza, ya kwamba hakuna unabii katika maandiko upatao kufasiriwa kama apendavyo mtu fulani tu.</strong> Maana unabii haukuletwa po pote kwa mapenzi ya mwanadamu; bali wanadamu walinena yaliyotoka kwa Mungu, wakiongozwa na Roho Mtakatifu.»</blockquote>
-                </div><p>Tangu 1517, kuna madhehebu tofauti zaidi ya 45,000 ambayo yanasoma Biblia hiyo hiyo na kufikia hitimisho tofauti kuhusu ubatizo, Ekaristi, wokovu na maadili. Yesu alisali kwa ajili ya jambo tofauti: <em>«<strong>ili wote wawe na umoja</strong>»</em> (Yohane 17:21). Swali linalojitokeza: je, Roho Mtakatifu anaweza kuongoza kwa wakati mmoja kwenye misimamo yote hiyo inayokinzana?</p><h2>Kanisa ni nguzo ya kweli<br>1 Timotheo 3:15 na Mathayo 16:18</h2><p>Biblia haijiiti yenyewe nguzo ya kweli. Inaliita Kanisa hivyo:</p><div class="scripture-block">
+                </div>
+                <p>Tangu mwaka 1517, maelfu ya madhehebu yanasoma Biblia ile ile na kufikia hitimisho zinazopingana kuhusu ubatizo, Ekaristi, wokovu na maadili. Yesu aliomba kinyume chake:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Yohane 17:21</span>
+                    <blockquote>«<strong class="s-hi">ili wote wawe na umoja</strong>; kama wewe, Baba, ulivyo ndani yangu, nami ndani yako, wao nao wawe ndani yetu; ili ulimwengu upate kuamini kwamba wewe ndiwe uliyenituma.»</blockquote>
+                </div>
+                <p>Roho Mtakatifu hajipingi mwenyewe. Mafundisho yanayopingana, yote yakidaiwa kutoka «Biblia peke yake», hayatoki kwake.</p>
+                <h2>Kanisa ni nguzo ya ukweli<br>1 Timotheo 3:15 na Mathayo 16:18</h2>
+                <p>Biblia haijiiti yenyewe nguzo ya ukweli. Inalipa jina hilo Kanisa:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Timotheo 3:15</span>
                     <blockquote>«Kanisa la Mungu aliye hai, <strong class="s-hi">nguzo na msingi wa kweli.</strong>»</blockquote>
-                </div><p>Na Yesu alitoa ahadi ya kitaasisi kuhusu hilo:</p><div class="scripture-block">
+                </div>
+                <p>Na Yesu alitoa ahadi ya kitaasisi juu yake:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Mathayo 16:18</span>
                     <blockquote>«Nami nakuambia, Wewe ndiwe Petro, na juu ya mwamba huu nitalijenga kanisa langu; <strong class="s-hi">wala milango ya kuzimu haitalishinda.</strong>»</blockquote>
-                </div><p>Ahadi hiyo inalinda Mamlaka ya Kufundisha (Magisterium) — ufundishaji rasmi wa Kanisa — isifundishe makosa kikamilifu. Haimaanishi kwamba kila mshiriki hawezi kutenda dhambi. Inamaanisha kwamba ukweli alioukabidhi Kristo kwa Kanisa lake hauwezi kuharibiwa.</p><h2>Hitimisho: kuamini na kutimiza</h2><p>Neno la manabii linatoka kwa Mungu. Mitume walishuhudia. Lazima isomwe yote — ikiwa ni pamoja na kile inachosema kuhusu Mapokeo ya mdomo, kuhusu nani anayetafsiri na kuhusu Kanisa ambalo Kristo alilianzisha. Na lazima tufanye kile Mungu anasema: hiyo ndiyo imani. Siyo yeye asemaye «Bwana, Bwana» ataokolewa, bali yeye afanyaye mapenzi ya Baba (Mathayo 7:21). Biblia, inaposomwa yote na kwa uaminifu, inaelekeza kwenye Kanisa lile lile alilolianzisha Yesu. Kuamini ni kumtumaini Yesu Kristo hata kama uzoefu wa kibinadamu unasema kinyume, kama Petro alivyofanya ziwani. Na tendo hilo la kutumaini linabadilisha kila kitu.</p>`,
+                </div>
+                <p>Ahadi hiyo inalinda Magisterio, mafundisho rasmi ya Kanisa, yasifundishe kosa kwa namna ya mwisho. Haimaanishi kwamba kila mshiriki hana dosari. Inamaanisha kwamba ukweli ambao Kristo aliukabidhi Kanisa lake hauwezi kuharibiwa: kwa Kigiriki, πύλαι ᾅδου, nguvu za kifo na kaburi, haziwezi kulishinda.</p>
+                <h2>Hitimisho: kuamini na kutimiza<br>Mathayo 7:21</h2>
+                <p>Neno la manabii linatoka kwa Mungu. Mitume walilishuhudia. Likisomwa lote, linazungumza pia juu ya Mapokeo ya mdomo, juu ya nani anayetafsiri, na juu ya Kanisa alilolianzisha Kristo. Na imani ni kufanya anachosema Mungu:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mathayo 7:21</span>
+                    <blockquote>«Si kila mtu aniambiaye «Bwana, Bwana» atakayeingia katika ufalme wa mbinguni, bali <strong class="s-hi">yeye afanyaye mapenzi ya Baba yangu</strong> aliye mbinguni.»</blockquote>
+                </div>
+                <p>Kuamini ni kumtumainia Yesu Kristo hata pale uzoefu wa kibinadamu unaposema kinyume, kama Petro alivyofanya ziwani. Biblia, ikisomwa yote, inaelekeza kwenye Kanisa alilolianzisha Yesu.</p>`,
       nav: { prevTitle: "Utatu Mtakatifu", nextTitle: "Ukuu wa Petro" }
     },
     "sacerdocio": {
       pageTitle: "Ukuhani | Imani na Akili",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Ukuhani katika Kanisa Katoliki</h1><p>Je, kuna ukuhani ulioamriwa (uliowekwa wakfu) katika Agano Jipya? Biblia inajibu — na jibu haliachi nafasi ya shaka.</p><div class="article-meta"><span>Dakika 11 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
-      article: `<p>Kuna swali ambalo haliwezi kubaki bila jibu: Yesu alisema <em>«Wowote mtakaowaondolea dhambi, wameondolewa; na wowote mtakaowafungia dhambi, wamefungiwa»</em> (Yohane 20:23). Alizungumza na nani? Na unawezaje kufungia dhambi za mtu bila kujua ni zipi? Hili linahitaji maungamo. Hili linahitaji kuhani mwenye mamlaka ya kusamehe. Twende hatua kwa hatua.</p><h2>Mtu aliyetwaliwa miongoni mwa wanadamu<br>Waebrania 5:1-2</h2><p>Barua kwa Waebrania iko wazi tangu mwanzo:</p><div class="scripture-block">
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Mada Maalum</span></div><h1>Ukuhani katika Kanisa Katoliki</h1><p>Je, kuna ukuhani uliowekwa wakfu katika Agano Jipya? Biblia inajibu ndiyo: wazee waliowekwa, maungamo, altare na sadaka.</p><div class="article-meta"><span>Dakika 11 kusoma</span><span>Imechapishwa Mei 2026</span></div><a href="temas.html" class="btn-outline-white">Rudi kwenye Mada</a>`,
+      article: `<p>Yesu aliwapa mitume mamlaka ya kuondolea dhambi na pia ya kuzifungia (Yohane 20:23). Utazifungiaje dhambi za mtu bila kujua ni zipi? Hilo linadai maungamo. Linadai kuhani mwenye mamlaka ya kusamehe.</p>
+                <p>Madhehebu kadhaa ya Kiprotestanti yanashikilia uzushi kwamba hakuna ukuhani uliowekwa wakfu. Waadventista na Wabaptisti wanasema hivyo kwa maneno karibu yale yale: <em>«Waamini wote ni makuhani; hakuna haja ya mpatanishi yeyote.»</em> Na wanataja 1 Petro 2:9 kwa ajili hiyo. Mstari huo ni wa kweli na umo katika Biblia. Mistari mingine pia imo, nayo inazungumza juu ya ukuhani wa pili ambao hakuna mtu anayejitwalia mwenyewe.</p>
+                <h2>Mtu aliyechaguliwa kati ya wanadamu<br>Waebrania 5:1-2</h2>
+                <p>Waraka kwa Waebrania uko wazi tangu mwanzo:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Waebrania 5:1-2</span>
                     <blockquote>«<strong class="s-hi">Kwa maana kila kuhani mkuu aliyetwaliwa miongoni mwa wanadamu</strong> amewekwa kwa ajili ya wanadamu katika mambo yamhusuyo Mungu, ili atoe matoleo na dhabihu kwa ajili ya dhambi; awezaye kuwachukulia kwa upole wao wasiojua na heri kupotea, kwa kuwa yeye mwenyewe naye amezingirwa na udhaifu.»</blockquote>
-                </div><p>Kuhani hayuko juu ya hali ya kibinadamu. Anashiriki mapambano, majaribu na udhaifu ule ule wa mwamini yeyote. Huu ndio msingi wa huruma ya kichungaji: hakuna anayeweza kumsindikiza mwenzake kwa dhati katika jambo ambalo halijui. Kuhani anaweza kuhurumia kwa sababu yeye pia anapambana.</p><h2>Mtukatifu kwa Mungu, si kwa sifa zake mwenyewe<br>Mambo ya Walawi 21:6-8</h2><p>Katika Mambo ya Walawi, Mungu anaweka kwamba makuhani lazima waonekane kuwa watakatifu. Lakini utakatifu unaoombwa kwao si ukamilifu kamili wa kimaadili, bali ni kuwekwa wakfu: wametengwa kwa ajili ya Mungu na utumishi wake:</p><div class="scripture-block">
+                </div>
+                <p>Kuhani hayuko juu ya hali ya kibinadamu. Anashiriki mapambano, vishawishi na udhaifu ule ule wa mwamini yeyote. Huo ndio msingi wa huruma ya kichungaji: hakuna anayeweza kumsindikiza mwingine katika jambo asilolijua. Kuhani anaweza kuwa na huruma kwa sababu yeye pia anapambana.</p>
+                <h2>Mtakatifu kwa ajili ya Mungu, si kwa sifa zake mwenyewe<br>Mambo ya Walawi 21:6-8</h2>
+                <p>Katika Kitabu cha Walawi, Mungu anaagiza kwamba makuhani wahesabiwe watakatifu. Utakatifu unaodaiwa kwao si ukamilifu kamili wa kimaadili, bali kuwekwa wakfu: wametengwa kwa ajili ya Mungu na huduma yake:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Mambo ya Walawi 21:6-8</span>
                     <blockquote>«Watakuwa watakatifu kwa Mungu wao, wala wasilinajisi jina la Mungu wao... <strong class="s-hi">Nawe utamtakasa;... atakuwa mtakatifu kwako wewe; kwa kuwa mimi Bwana, niwatakasaye ninyi, ni mtakatifu.</strong>»</blockquote>
-                </div><p>Watu wanapaswa kumwona kuhani kuwa mtakatifu si kwa sifa zake mwenyewe, bali kwa Mungu. Utakatifu wa huduma unatoka kwa Yule aliyeianzisha. Hili linatuweka huru kutoka kwenye matarajio potofu: imani yetu haitegemei fadhila za mtumishi, bali katika uaminifu wa Mungu.</p><h2>«Sisi sote ni makuhani» — pingamizi na kikomo chake<br>1 Petro 2:9 na Waebrania 5:4</h2><p>Mtakatifu Petro anasema kwa uwazi:</p><div class="scripture-block">
+                </div>
+                <p>Haisemi «atakuwa mtakatifu kwa sababu amestahili»: inasema <em>kwa maana mimi Bwana niwatakasaye ni mtakatifu</em>. Watu wanaamriwa kumhesabu kuwa mtakatifu kwa sababu ya Mungu, si kwa sababu ya sifa za mtu. Imani haiegemei wema wa mhudumu, bali uaminifu wa Mungu.</p>
+                <h2>«Sote ni makuhani»: pingamizi na mpaka wake<br>1 Petro 2:9 na Waebrania 5:4</h2>
+                <p>Mtakatifu Petro anasema waziwazi:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Petro 2:9</span>
                     <blockquote>«<strong class="s-hi">Bali ninyi ni mzao mteule, ukuhani wa kifalme, taifa takatifu</strong>, watu wa miliki ya Mungu, mpate kuzitangaza fadhili zake yeye aliyewaita mtoke gizani mkaingie katika nuru yake ya ajabu.»</blockquote>
-                </div><p>Ukuhani wa ubatizo ni wa kweli. Hakuna anayekana hilo. Lakini kuna ukuhani wa aina mbili katika Agano Jipya, si moja. Barua hiyo hiyo kwa Waebrania inaitofautisha kwa usahihi:</p><div class="scripture-block">
+                </div>
+                <p>Ukuhani wa ubatizo ni wa kweli. Hakuna anayeukana. Lakini katika Agano Jipya kuna ukuhani wa aina mbili, si mmoja, na waraka huo huo kwa Waebrania unazitofautisha kwa usahihi:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Waebrania 5:4</span>
                     <blockquote>«<strong class="s-hi">Na hapana mtu anayejitwalia heshima hii mwenyewe, bali yeye aitwaye na Mungu, kama vile Haruni.</strong>»</blockquote>
-                </div><p>Kuna ukuhani ambao unapokelewa katika ubatizo, na kuna mwingine ambao unahitaji wito na kuwekwa wakfu maalum. Huu si uvumbuzi wa kuchelewa. Wakati Kora na watu wake walipojenga hoja kwamba <em>«mkutano wote ni watakatifu, kila mmoja wao, naye Bwana yuko kati yao»</em> (Hesabu 16:3) — wakidai kupata ukuhani wa huduma bila wito — Mungu alijibu kwa kufungua ardhi chini ya miguu yao. Na iko katika Agano Jipya:</p><div class="scripture-block">
+                </div>
+                <p>Kuna ukuhani unaopokelewa katika ubatizo, na kuna mwingine unaodai wito na kuwekwa wakfu kwa namna maalum. Huu si uvumbuzi wa baadaye. Kora na wenzake walishatumia hoja hiyo hiyo dhidi ya Musa na Haruni:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Hesabu 16:3</span>
+                    <blockquote>«Wakakusanyika kupingana na Musa na Haruni, wakawaambia: «Mmejitwalia mengi mno! <strong class="s-hi">Kusanyiko lote ni takatifu, kila mmoja wao, na Bwana yu kati yao.</strong> Basi kwa nini mnajikweza juu ya kusanyiko la Bwana?»»</blockquote>
+                </div>
+                <p>Walidai ukuhani wa huduma bila kuitwa, na Mungu akajibu kwa kuifungua ardhi chini ya miguu yao. Katika Agano Jipya, mitume wanaweka wazee:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Matendo 14:23</span>
                     <blockquote>«<strong class="s-hi">Na walipokwisha kuwachagulia wazee (presbyters) katika kila kanisa</strong>, na kuomba pamoja na kufunga, wakawaweka mikononi mwa Bwana waliyemwamini.»</blockquote>
-                </div><p>Paulo anamwagiza Tito: <em>«Kwa sababu hii nilikuacha Krete, ili uyatengeneze yaliyopunguka, na <strong>kuweka wazee (presbyters) katika kila mji</strong> kama nilivyokuamuru»</em> (Tito 1:5). Anamkumbusha Timotheo: <em>«Usiache kuitumia karama ile iliyomo ndani yako, uliyopewa kwa unabii na kwa <strong>kuwekewa mikono ya wazee</strong>»</em> (1 Timotheo 4:14). Huu ni muundo, sio mfano.</p><h2>«Msimwite mtu baba» — jibu la kibiblia<br>Mathayo 23:9</h2><p>Yesu anasema katika Mathayo 23:9: <em>«<strong>Wala msimwite mtu baba yenu duniani</strong>; maana Baba yenu ni mmoja, aliye wa mbinguni.»</em> Yule anayetumia mstari huu dhidi ya ukuhani wa Kikatoliki ana tatizo: Biblia yenyewe inapingana na hilo katika vifungu kadhaa.</p><p>Mtakatifu Paulo anajiita baba: <em>«Kwa kuwa ijapokuwa mna waalimu kumi elfu katika Kristo, walakini hamna baba wengi; <strong>kwa maana mimi ndimi niliyewazaa katika Kristo Yesu kwa njia ya Injili.</strong>»</em> (1 Wakorintho 4:15). Stefano, mbele ya wale ambao wangempiga kwa mawe, anawaita: <em>«<strong>Ndugu zangu na akina baba</strong>, sikilizeni!»</em> (Matendo 7:2). Ibrahimu anaitwa mara kwa mara <em>«baba wa tohara»</em> (Warumi 4:12). Yesu mwenyewe anazungumza kuhusu baba wa kila mtu (Mathayo 7:11, Luka 15:11-32).</p><p>Mathayo 23:9 haikatazi matumizi ya kisarufi ya neno hili: inakataza ibada ya mamlaka ya kibinadamu, kumweka mwanadamu mahali pa Mungu. Muktadha unasema hivyo: Yesu anazungumza dhidi ya Mafarisayo ambao wanatafuta heshima na vyeo kwa ajili yao wenyewe.</p><h2>Msamaha wa dhambi — Yohane 20:22-23</h2><p>Turejee kwenye hatua ya kuanzia. Yesu aliyefufuka anawatokea mitume, anawavuvia — ishara ile ile kama katika Mwanzo 2:7 alipompa uhai mtu wa udongo — na kuwaambia:</p><div class="scripture-block">
+                </div>
+                <p>Paulo anamwagiza Tito jambo hilo hilo:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Tito 1:5</span>
+                    <blockquote>«Nilikuacha Krete ili utengeneze yaliyopungua, na <strong class="s-hi">uweke wazee katika kila mji</strong> kama nilivyokuagiza.»</blockquote>
+                </div>
+                <p>Na anamkumbusha Timotheo jinsi alivyopokea kipaji:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Timotheo 4:14</span>
+                    <blockquote>«Usiache kukitumia kipawa kilicho ndani yako, ulichopewa kwa unabii <strong class="s-hi">pamoja na kuwekewa mikono na wazee</strong>.»</blockquote>
+                </div>
+                <p>Halmashauri ya wazee: chombo kilichowekwa, chenye mikono inayowekwa na kipawa kinachorithishwa. Huu ni mpangilio, si mfano wa maneno.</p>
+                <h2>Mashahidi wa Yehova: ukuhani wa kifalme kwa karibu hakuna mtu<br>1 Petro 2:9</h2>
+                <p>Mashahidi wa Yehova hawatumii pingamizi hili, na sababu yake inawaweka katika hali mbaya zaidi. Kwao, 1 Petro 2:9 haizungumzii waamini wote. Mnara wa Mlinzi unaeleza hivi: <em>«Akizungumza na Wakristo watiwa-mafuta, Petro aliandika hivi»</em>, na watiwa-mafuta hao ni wale 144,000: <em>«Wakiwa pamoja na Kristo, wanafanyiza ukuhani wa kifalme ili kuwanufaisha wanadamu wote»</em> (Mnara wa Mlinzi, Januari 15, 2012). Karibu wafuasi wao wote wanabaki nje ya ukuhani wowote, wa ubatizo na ule uliowekwa wakfu. Petro aliliandikia Kanisa lote.</p>
+                <h2>«Msimwite mtu baba»: jibu la Biblia<br>Mathayo 23:9</h2>
+                <p>Mashahidi wa Yehova wanafundisha katika maandishi yao kwamba Yesu alikataza neno «baba» litumiwe kwa wanadamu kama cheo cha kidini. Wanategemea mstari huu:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mathayo 23:9</span>
+                    <blockquote>«<strong class="s-hi">Wala msimwite mtu baba hapa duniani</strong>, kwa maana Baba yenu ni mmoja, aliye mbinguni.»</blockquote>
+                </div>
+                <p>Anayetumia mstari huu dhidi ya ukuhani wa Kikatoliki ana tatizo: Biblia hiyo hiyo inampinga katika sehemu kadhaa. Mtakatifu Paulo anajiita baba:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Wakorintho 4:15</span>
+                    <blockquote>«Hata mkiwa na walimu elfu kumi katika Kristo, hamna baba wengi; <strong class="s-hi">kwa maana mimi ndimi niliyewazaa ninyi katika Kristo Yesu</strong> kwa njia ya Injili.»</blockquote>
+                </div>
+                <p>Stefano, mbele ya wale waliokuwa karibu kumpiga mawe, anawaita hivi:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Matendo 7:2</span>
+                    <blockquote>«Stefano akasema: «<strong class="s-hi">Ndugu zangu na akina baba</strong>, nisikilizeni! Mungu wa utukufu alimtokea <strong class="s-hi">baba yetu Abrahamu</strong> alipokuwa Mesopotamia, kabla hajakaa Harani.»»</blockquote>
+                </div>
+                <p>Na Paulo anamwita Abrahamu baba mara mbili katika mstari mmoja:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Warumi 4:12</span>
+                    <blockquote>«na pia <strong class="s-hi">baba wa waliotahiriwa</strong>, wale ambao si kwamba wametahiriwa tu, bali pia wanafuata nyayo za imani aliyokuwa nayo <strong class="s-hi">baba yetu Abrahamu</strong> kabla hajatahiriwa.»</blockquote>
+                </div>
+                <p>Yesu mwenyewe anazungumza juu ya baba wa kila mmoja (Mathayo 7:11; Luka 15:11-32).</p>
+                <p>Mathayo 23:9 haikatazi matumizi ya kisarufi ya neno hilo: inakataza kuabudu mamlaka ya kibinadamu, kumweka mtu mahali pa Mungu. Muktadha unasema hivyo: Yesu anawapinga Mafarisayo wanaojitafutia heshima na vyeo.</p>
+                <h2>Msamaha wa dhambi<br>Yohane 20:22-23</h2>
+                <p>Yesu aliyefufuka anawatokea mitume na kuwapulizia pumzi. Ni ishara ile ile ya Kitabu cha Mwanzo:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mwanzo 2:7</span>
+                    <blockquote>«Bwana Mungu akamfanya mtu kwa mavumbi ya ardhi, <strong class="s-hi">akampulizia puani pumzi ya uhai</strong>, mtu akawa kiumbe hai.»</blockquote>
+                </div>
+                <p>Sasa anayepuliza ni Kristo:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Yohane 20:22-23</span>
-                    <blockquote>«Pokeeni Roho Mtakatifu. <strong class="s-hi">Wowote mtakaowaondolea dhambi, wameondolewa; na wowote mtakaowafungia dhambi, wamefungiwa.</strong>»</blockquote>
-                </div><p>Unawezaje kufungia dhambi za mtu bila kujua ni zipi? Haiwezekani. Mstari huu unahitaji mtu anayetubu atangaze dhambi zake. Huo ni maungamo ya kisakramenti, yaliyoanzishwa na Kristo mwenyewe.</p><h2>Madhabahu na dhabihu katika Agano Jipya<br>Waebrania 13:10 na Malaki 1:11</h2><p>Kama hakuna ukuhani wala dhabihu katika Agano Jipya, kwa nini Barua kwa Waebrania inasema hivi?</p><div class="scripture-block">
+                    <blockquote>«Alipokwisha kusema hayo, akawavuvia, akawaambia: «<strong class="s-hi">Pokeeni Roho Mtakatifu. Mkiwaondolea watu dhambi zao, wameondolewa; mkiwafungia, wamefungiwa.</strong>»»</blockquote>
+                </div>
+                <p>Kitenzi ambacho hakuna anayekitaja ni <em>kufungia</em>. Utazifungiaje dhambi za mtu bila kujua ni zipi? Haiwezekani. Mstari huu unadai kwamba mwenye kutubu azitaje dhambi zake, kwa sababu bila kuzisikia hakuna cha kusamehe wala cha kufungia. Hayo ndiyo maungamo ya kisakramenti, yaliyowekwa na Kristo mwenyewe.</p>
+                <p>Mashahidi wa Yehova wanashika nusu tu. Wanawaagiza wafuasi wao waungame dhambi nzito kwa wazee wa kutaniko, na wanakiri: <em>«‘Wanaume hao wazee’ hawawezi kusamehe dhambi, kwa kuwa hakuna mwanadamu ambaye amepewa mamlaka ya kumsamehe mtu ambaye amemtendea Mungu dhambi»</em> (Mnara wa Mlinzi, Septemba 1, 2010). Wana maungamo na hawana msamaha. Kristo alitoa vyote viwili pamoja.</p>
+                <h2>Altare na sadaka katika Agano Jipya<br>Waebrania 13:10 na Malaki 1:11</h2>
+                <p>Ikiwa hakuna ukuhani wala sadaka katika Agano Jipya, kwa nini waraka kwa Waebrania unasema hivi?</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Waebrania 13:10</span>
                     <blockquote>«<strong class="s-hi">Tuna madhabahu</strong> ambayo wale waabuduo katika hema hawana ruhusa kula vitu vyake.»</blockquote>
-                </div><p>Na nabii Malaki, karne nyingi kabla ya Kristo, alitangaza:</p><div class="scripture-block">
+                </div>
+                <p>Na nabii Malaki, karne nyingi kabla ya Kristo, alitangaza:</p>
+                <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Malaki 1:11</span>
                     <blockquote>«Kwa maana tokea maawio ya jua hata machweo yake jina langu ni kuu katika Mataifa; na <strong class="s-hi">katika kila mahali uvumba hutolewa kwa jina langu, na dhabihu safi</strong>; kwa maana jina langu ni kuu katika Mataifa, asema Bwana wa majeshi.»</blockquote>
-                </div><p>Dhabihu safi katika kila mahali duniani. Mababa wa karne za kwanza walitambua katika hili Ekaristi — dhabihu pekee inayotimiza unabii huo.</p><h2>Nini Maandiko yanatufundisha</h2><ul><li>Kuhani ni mwanadamu kama wengine wote, anayeweza kupambana na kushindwa.</li><li>Mamlaka yake na utakatifu wake hutoka kwa Mungu, si kutokana na sifa zake binafsi.</li><li>Uhalali wa sakramenti hautegemei utakatifu binafsi wa mtumishi.</li><li>Ukuhani wa huduma ulioamriwa upo katika Agano Jipya: Matendo 14:23, Tito 1:5, 1 Timotheo 4:14.</li><li>Msamaha wa kisakramenti ulianzishwa na Kristo katika Yohane 20:22-23.</li></ul><p>Kama Biblia inachukuliwa nzima — si vifungu vilivyotengwa — utapata ukuhani ulioamriwa, maungamo, dhabihu na madhabahu. Swali si kwamba ipo katika Biblia. Ipo. Swali ni kama uko tayari kusoma yote.</p>`,
+                </div>
+                <p>Sadaka na tolea safi, kila mahali duniani, vilivyotangazwa na nabii wakati altare pekee halali ilikuwa Yerusalemu. Mababa wa karne za kwanza walitambua humo Ekaristi, sadaka pekee inayotimiza unabii huo. Na ikiwa kuna sadaka, kuna anayeitolea.</p>
+                <h2>Maandiko yanasema nini</h2>
+                <ul>
+                    <li>Kuhani ni mtu kama wengine wote, anayeweza kupambana na kuanguka.</li>
+                    <li>Mamlaka na utakatifu wake vinatoka kwa Mungu, si kwa sifa zake binafsi.</li>
+                    <li>Uhalali wa sakramenti hautegemei utakatifu binafsi wa mhudumu.</li>
+                    <li>Ukuhani wa huduma uliowekwa wakfu umo katika Agano Jipya: Matendo 14:23, Tito 1:5, 1 Timotheo 4:14.</li>
+                    <li>Msamaha wa kisakramenti uliwekwa na Kristo katika Yohane 20:22-23.</li>
+                </ul>
+                <p>Ukiichukua Biblia nzima, na si vifungu vilivyotengwa, utakuta ukuhani uliowekwa wakfu, maungamo, sadaka na altare. Vyote vimo katika Biblia.</p>`,
       nav: { prevTitle: "Transubstansiasyoni: fumbo la Ekaristi", nextTitle: "Watakatifu na maombezi yao" }
     },
     "transubstanciacion": {

@@ -203,7 +203,12 @@ const translationsTL = {
                     <span class="scripture-ref">✝︎ Eclesiastes 12:7</span>
                     <blockquote>«at ang alabok ay bumalik sa lupang pinagmulan nito, at <strong class="s-hi">ang espiritu ay bumalik sa Diyos</strong> na nagbigay nito.»</blockquote>
                 </div>
-                <p>Bumabalik sa lupa ang katawan at bumabalik sa Diyos ang espiritu. Ang salitang Hebreo ay <em>ruach</em>, na isinasalin ding hininga; alinman sa dalawa, ang bumabalik sa Diyos ay ang ibinigay niya. Ang pangungusap mula sa Eclesiastes 9:5 na sinisipi ng mga Adventista ay nakukumpleto sa kasunod na talata: ang mga patay ay <em>«wala nang bahagi kailanman sa anumang nangyayari sa ilalim ng araw»</em> (Ec 9:6). Wala silang alam sa nangyayari sa mundong ito. Hindi nito sinasabing hindi na sila umiiral.</p>
+                <p>Bumabalik ang katawan sa lupa at ang hininga ay bumabalik sa Diyos. Ang salitang Hebreo ay <em>ruaj</em>, na isinasalin ding espiritu, kaya ang ibang salin ay nagsasabing «ang espiritu ay bumabalik sa Diyos». Ang pangungusap ng Eclesiastes 9:5 na sinisipi ng mga Adventista ay nakukumpleto sa sumunod na talata:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Eclesiastes 9:6</span>
+                    <blockquote>«Ang kanilang pag-ibig, ang kanilang poot at ang kanilang inggit ay naglaho na, at <strong class="s-hi">hindi na sila magkakaroon kailanman ng bahagi sa anumang nangyayari sa ilalim ng araw</strong>.»</blockquote>
+                </div>
+                <p>Wala silang nalalaman sa nangyayari sa mundong ito. Hindi nito sinasabing hindi na sila umiiral.</p>
                 <p>At sa pagbabalik sa Diyos, dapat malinis ang espiritu, sapagkat ang may bahid ng kasalanan ay hindi makahaharap sa kanya. Iyan ang dahilan ng purgatoryo.</p>
                 <ul>
                     <li>Nagsasalita si Jesus tungkol sa utang na binabayaran hanggang sa huli at sa bilangguang nilalabasan.</li>
@@ -232,63 +237,64 @@ const translationsTL = {
                 <span>Nailathala Mayo 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
-      article: `<p>Simbolo ba ang Eukaristiya o totoo? Ang sagot ay nasa Juan 6. Walang mas malinaw, mas tuwiran, at mas mapaghamong teksto sa buong Ebanghelyo tungkol sa paksang ito. At hindi sumusuko si Hesus. Ngunit hindi lamang si Juan 6 ang saksi: kinukumpirma ito ni Pablo nang hiwalay, at ang mga unang alagad ng mga apostol ay naunawaang walang pagdududa. Tatlong linya ng katibayan. Wala ni isa sa kanila ang may sagot sa loob ng simbolikong interpretasyon.</p>
+      article: `<p>Maraming sektang Protestante ang nanghahawak sa erehiyang ang Eukaristiya ay isang simbolo lamang. Nakasulat ito sa mga pahayag ng pananampalataya ng mga Baptist, ng mga Pentekostal ng Assemblies of God, ng mga Adventista at ng mga Saksi ni Jehova, at iisa ang kanilang sagot kapag binabanggit ito: <em>«Simbolo lamang iyan.»</em> Simbolo ba ang Eukaristiya o totoo? Ang sagot ay nasa San Juan 6. Wala nang mas malinaw, mas tuwiran o mas mabigat na teksto sa buong Ebanghelyo tungkol dito. At hindi umaatras si Jesus. Ngunit hindi lamang ang Juan 6 ang saksi: pinatutunayan ito ni Pablo nang hiwalay, at naunawaan ito nang walang alinlangan ng mga unang alagad ng mga apostol. Tatlong linya ng patunay. Wala ni isa ang nasasagot ng pagpapakahulugang simboliko.</p>
                 <h2>Ako ang tinapay ng buhay<br>Juan 6:47-51</h2>
-                <p>Hindi nagsasabi si Hesus na "kinakatawan ko ang tinapay ng buhay" o "parang tinapay ng buhay ako." Sinasabi Niya:</p>
+                <p>Hindi sinasabi ni Jesus na «kinakatawan ko ang tinapay ng buhay» o «para akong tinapay ng buhay». Ang sinasabi niya:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Juan 6:47-51</span>
                     <blockquote>«Katotohanan, katotohanang sinasabi Ko sa inyo, ang sumasampalataya ay may buhay na walang hanggan. <strong class="s-hi">Ako ang tinapay ng buhay.</strong> Kinain ng inyong mga ninuno ang manna sa ilang at namatay. Ito ang tinapay na bumababa mula sa langit, upang ang sinumang kumain nito ay hindi mamatay. Ako ang buhay na tinapay na bumaba mula sa langit. Kung ang sinuman ay kumain ng tinapay na ito, mabubuhay siya magpakailanman. At <strong class="s-hi">ang tinapay na ibibigay Ko ay ang Aking laman, para sa buhay ng sanlibutan.</strong>»</blockquote>
                 </div>
-                <p>Ang pandiwa na "Ako" ay hindi nagpapahiwatig ng representasyon — nagpapahiwatig ito ng pagkakakilanlan. At ang sumusunod ay walang puwang para sa simbolikong interpretasyon:</p>
+                <p>Hindi pagkatawan ang ipinahihiwatig ng pandiwang «ako»: pagkakakilanlan ito. At ang kasunod ay hindi nag-iiwan ng puwang para sa mga simbolikong pagpapakahulugan:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Juan 6:53-55</span>
                     <blockquote>«Katotohanan, katotohanang sinasabi Ko sa inyo, <strong class="s-hi">malibang kanin ninyo ang laman ng Anak ng Tao at inumin ang Kanyang dugo, wala kayong buhay sa inyong sarili.</strong> Ang kumakain ng Aking laman at umiinom ng Aking dugo ay may buhay na walang hanggan, at bubuhayin Ko siya sa huling araw. Sapagkat <strong class="s-hi">ang Aking laman ay tunay na pagkain, at ang Aking dugo ay tunay na inumin.</strong>»</blockquote>
                 </div>
-                <p>Hindi Niya sinabi "malibang alalahanin" o "malibang pagnilay-nilayan." Sinabi Niyang <em>kumain</em> at <em>uminom</em>. At inulit Niya ito sa iba't ibang salita para alisin ang lahat ng pagkakalito: <em>tunay na pagkain</em> at <em>tunay na inumin</em>. Ang salitang "tunay" ay tahasang ibinubukod ang simboliko.</p>
-                <h2>Ang pagtutol ng metapor<br>Juan 15:1</h2>
-                <p>Ang karaniwang pagtutol ay: "Metapor ito, tulad ng sinabi Niyang 'Ako ang puno ng ubas' o 'Ako ang pintuan'." Kailangan nating pumunta sa Bibliya. Nang sabihin ni Hesus na <em>"Ako ang tunay na puno ng ubas"</em> (Jn 15:1), walang umalis. Nang sabihin Niyang "kanin ang Aking laman," marami ang lumayo. Ang pagkakaiba ay mapagpasya:</p>
+                <p>Hindi niya sinasabing «kung hindi ninyo aalalahanin» o «kung hindi ninyo pagninilayan». Sinasabi niyang <em>kainin</em> at <em>inumin</em>. At inuulit niya ito sa ibang mga salita upang walang kalituhan: <em>tunay na pagkain</em> at <em>tunay na inumin</em>. Ang salitang «tunay» ay tahasang nagtatakwil sa simboliko.</p>
+                <h2>Ang pagtutol na talinghaga ito<br>Juan 15:1</h2>
+                <p>Ang karaniwang sagot ay: «Talinghaga iyan, gaya ng sinabi niyang "Ako ang puno ng ubas" o "Ako ang pintuan".» Nang sabihin ito ni Jesus, walang umalis:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 15:1</span>
+                    <blockquote>«<strong class="s-hi">Ako ang tunay na puno ng ubas</strong>, at ang aking Ama ang tagapag-alaga.»</blockquote>
+                </div>
+                <p>Nang sabihin niyang «kainin ninyo ang aking laman», marami ang umalis. Mapagpasya ang pagkakaiba:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Juan 6:60</span>
                     <blockquote>«Nang marinig ito ng marami sa Kanyang mga alagad, sinabi nila, <strong class="s-hi">'Mahirap itong salita. Sino ang makatatanggap nito?'</strong>»</blockquote>
                 </div>
-                <p>Hindi itinama ni Hesus ang sinasabing "hindi ninyo naunawaan — metapor ito." Pinabayaan Niya silang umalis. Iyan ang pinakamalakas na patunay: kung simboliko lamang ito, pinigilan sana ng mabuting pastol ang mga ito sa pamamagitan ng paliwanag. Hindi Niya ginawa.</p>
-                <h2>Nagdudulot ito ng pagkakabaha-bahagi<br>Juan 6:66-67</h2>
+                <p>Hindi sila itinutuwid ni Jesus sa pagsasabing «nagkamali kayo ng unawa, talinghaga lamang iyon». Hinahayaan niya silang umalis. Iyan ang pinakamatibay na patunay: kung simboliko ito, pipigilan sana sila ng mabuting pastol sa pamamagitan ng isang paliwanag. Hindi niya ginawa. At may tiyak silang inirereklamo: hindi nila sinasabing mahirap itong unawain, sinasabi nilang mahirap itong pakinggan. Lubos nilang naunawaan.</p>
+                <h2>Nagdudulot ito ng pagkakahati<br>Juan 6:66-67</h2>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Juan 6:66-67</span>
                     <blockquote>«Dahil dito, marami sa Kanyang mga alagad ang lumayo at hindi na sumama sa Kanya. Kaya sinabi ni Hesus sa Labindalawa, <strong class="s-hi">'Gusto rin ba ninyong umalis?'</strong>»</blockquote>
                 </div>
-                <p>Hindi Siya sumuko. Hindi Niya pinagaan. Hindi Niya pinag-usapan ang kahulugan. Si Hesus ang mabuting pastol na hindi papayagang mawala ang isang tupa dahil sa pagkakamali — ngunit sa bagay na ito ay hindi Siya matitinag.</p>
-                <h2>Walang ibang interpretasyon<br>Juan 6:68</h2>
+                <p>Hindi siya umaatras. Hindi niya pinalalambot. Hindi niya tinatawaran ang kahulugan. Si Jesus ang mabuting pastol na hindi papayag na mawala ang kahit isang tupa dahil sa di-pagkakaunawaan, ngunit dito ay hindi siya natitinag.</p>
+                <h2>Walang ibang posibleng pagpapakahulugan<br>Juan 6:68</h2>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Juan 6:68</span>
                     <blockquote>«Sumagot si Simon Pedro, <strong class="s-hi">'Panginoon, kanino kami pupunta? Ikaw ang may mga salita ng buhay na walang hanggan.'</strong>»</blockquote>
                 </div>
-                <p>Hindi niya sinabi na naiintindihan niya ang lahat. Sinabi niyang nagtitiwala siya. Iyan ang pananampalataya: hindi ang pagkakaroon ng lahat ng sagot, kundi ang pagkaalam kung Sino ang iyong pinaniniwalaan.</p>
-                <ul>
-                    <li>"Ako" — hindi kumakatawan, kundi umiiral.</li>
-                    <li>"Tunay na pagkain, tunay na inumin" — hindi simboliko.</li>
-                    <li>Hindi itinama ni Hesus ang mga nagsiunawa sa Kanya nang literal — pinabayaan Niya silang umalis.</li>
-                    <li>Hindi lubos na naiintindihan ni Pedro, ngunit nagtitiwala siya. Iyan ang pananampalataya.</li>
-                </ul>
-                <h2>Kinukumpirma ni Pablo — isang hiwalay na saksi<br>1 Corinto 10:16 at 11:27-29</h2>
-                <p>Isinulat ni Pablo ang kanyang unang liham sa mga Corinto bago pa isulat ang Ebanghelyo ni Juan. Dalawang ganap na hiwalay na saksi. Sinasabi ni Pablo:</p>
+                <p>Hindi sinasabi ni Pedro na nauunawaan niya ang lahat. Sinasabi niyang nagtitiwala siya. Iyan ang pananampalataya: hindi ang pagkakaroon ng lahat ng sagot, kundi ang pagkaalam kung Kanino naniniwala.</p>
+                <h2>Pinatutunayan ito ni Pablo: isang hiwalay na saksi<br>1 Corinto 10:16 at 11:27-29</h2>
+                <p>Isinulat ni Pablo ang kanyang unang sulat sa mga taga-Corinto bago pa isinulat ang Ebanghelyo ni Juan. Dalawang ganap na magkahiwalay na saksi sila. Sinasabi ni Pablo:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Corinto 10:16</span>
                     <blockquote>«<strong class="s-hi">Ang kopa ng pagpapala na ating pinagpapala, hindi ba ito pakikilahok sa dugo ni Kristo? Ang tinapay na ating pinagpuputol-putol, hindi ba ito pakikilahok sa katawan ni Kristo?</strong>»</blockquote>
                 </div>
-                <p>Hindi sinasabi niyang "pag-alaala." Sinasabi niyang <em>pakikilahok</em> — tunay, epektibong pakikipag-isa. At pagkatapos:</p>
+                <p>Hindi niya sinasabing «pag-alaala». Sinasabi niyang <em>pakikiisa</em>: tunay na pakikibahagi, tunay na pakikipag-ugnayan. At pagkatapos:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Corinto 11:27-29</span>
                     <blockquote>«<strong class="s-hi">Kaya ang sinumang kumain ng tinapay o uminom ng kopa ng Panginoon nang hindi nararapat ay magkasala sa katawan at dugo ng Panginoon.</strong> Suriin ng bawat isa ang kanyang sarili, at pagkatapos ay kumain ng tinapay at uminom ng kopa. Sapagkat ang kumakain at umiinom nang <strong class="s-hi">hindi kinikilala ang katawan</strong> ay kumakain at umiinom ng kahatulan sa kanyang sarili.»</blockquote>
                 </div>
-                <p>Ang salitang Griyego na ἔνοχος — "magkasala" — nagpapahiwatig ng pananagutan para sa isang tunay na krimen. Hindi ka maaaring magkasala ng krimen laban sa isang simbolo. Sinasabi rin ni Pablo ang "hindi kinikilala ang katawan." Kung tinapay lamang ito, anong "katawan" ang kailangang kilalanin?</p>
-                <h2>Ang mga unang Kristiyano — mga saksi na hinirang ng mga apostol</h2>
-                <p>Si Ignacio ng Antioch ay isang direktang alagad ng apostol na si Juan. Siya ay naging martir noong mga taong 107 AD. Sumulat siya sa kanyang Liham sa mga Smirnaean:</p>
+                <p>Ang mapagpasya ay kung kanino nananagot. Hindi nagkakasala laban sa tinapay o sa saro: nagkakasala laban <em>sa katawan at dugo ng Panginoon</em>. Ang Griyegong nasa likod nito ay ἔνοχος, ang salita para sa taong sakop ng paghuhukom, na kailangang managot sa harap ng hukuman; walang nananagot sa hukuman dahil sa pagmamaltrato sa isang simbolo. Sinasabi pa ni Pablo: «nang hindi kinikilala ang katawan». Kung tinapay lamang ito, anong katawan ang kailangang kilalanin?</p>
+                <h2>Ang mga unang Kristiyano: mga saksing hinubog ng mga apostol</h2>
+                <p>Si Ignacio ng Antioquia ay tuwirang alagad ni apostol Juan. Namatay siyang martir noong mga taong 107. Isinulat niya sa kanyang Sulat sa mga taga-Esmirna:</p>
                 <blockquote>"<strong>Umiiwas sila sa Eukaristiya at sa panalangin, dahil hindi nila inaamin na ang Eukaristiya ay ang laman ng ating Tagapagligtas na si Hesukristo</strong>, ang lamang nagdusa para sa ating mga kasalanan, na binuhay na muli ng Ama sa Kanyang kabutihan." — Ignacio ng Antioch, Liham sa mga Smirnaean 6-7 (~107 AD)</blockquote>
-                <p>Si Justin Martir ay sumulat noong mga taong 150 AD, pitumpung taon pagkatapos ng kamatayan ng mga apostol:</p>
+                <p>Sumulat si Justino Martir noong mga taong 150, pitumpung taon matapos mamatay ang mga apostol:</p>
                 <blockquote>"<strong>Hindi namin tinatanggap ang mga ito bilang karaniwang tinapay o karaniwang inumin</strong>... ayon sa itinuro sa atin, ang pagkaing ginawang Eukaristiya ay <strong>ang laman at dugo ng Hesus na nagkatawang-tao.</strong>" — Justin Martir, Unang Apolohetika 66 (~150 AD)</blockquote>
-                <p>Kung ang mga unang Kristiyano — na hinirang ng mga apostol mismo — ay naniwala sa Tunay na Presensya, ang tanong na nangangailangan ng tapat na sagot ay: sino ang nagbago nito? Kailan? Sa anong awtoridad?</p>
-                <p>Para maunawaan kung paano nahaharap ang katotohanang ito sa Misa, magpatuloy sa paksa ng <a href="tema-transubstanciacion.html">Transubstansiasyon</a>, mula sa 1 Corinto 10:16. At para maunawaan kung bakit tinatanggap natin ang mga salitang ito bilang katotohanan ng Diyos, tingnan ang paksa ng <a href="tema-por-que-creemos.html">Bakit Tayo Naniniwala</a>.</p>`,
+                <p>Ang mga unang Kristiyano, na hinubog mismo ng mga apostol, ay naniwala sa Tunay na Presensiya. Ang Eukaristiya bilang simbolo lamang ay dumating labinlimang siglo pagkaraan, kay Zwinglio.</p>
+                <h2>Pangwakas</h2>
+                <p>Pinagtitibay ni Jesus ang tunay na presensiya sa pinakatuwirang pangungusap na maaari: «ang aking laman ay tunay na pagkain». Sa harap ng pagtutol ng mga natisod, wala siyang ipinaliwanag na talinghaga: hinayaan niya silang umalis. Pinatutunayan ito ni Pablo mula sa labas ng salaysay ni Juan. At pinaniwalaan ito ng mga unang alagad ng mga apostol nang walang bahid ng alinlangan. Tatlong hiwalay na linya ng patunay. Wala ni isa ang nasasagot ng pagpapakahulugang simboliko.</p>
+                <p>Kung paano nagiging presente ang katotohanang ito sa Misa ay nasa paksang <a href="tema-transubstanciacion.html">Transubstansiyasyon</a>, simula sa 1 Corinto 10:16. At kung bakit tinatanggap ang mga salitang ito bilang katotohanan ng Diyos, sa paksang <a href="tema-por-que-creemos.html">Bakit tayo naniniwala?</a></p>`,
       nav: {
         prevTitle: "Ang Pangunguna ni Pedro",
         nextTitle: "Transubstansiasyon: ang Misteryo ng Eukaristiya"
@@ -545,8 +551,18 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ Mateo 16:16-19</span>
                     <blockquote>«Sumagot si Simon Pedro, "Kayo po ang Cristo, ang Anak ng Diyos na buháy." Sinabi naman sa kanya ni Jesus, "Pinagpala ka, Simon, anak ni Jonas! Sapagkat ang katotohanang ito'y hindi inihayag sa iyo ng tao kundi ng aking Amang nasa langit. At sinasabi ko sa iyo, <strong class="s-hi">ikaw ay Pedro, at sa ibabaw ng batong ito ay itatayo ko ang aking iglesya</strong><strong>, at hindi mananaig sa kanya kahit ang kapangyarihan ng kamatayan</strong>. <strong class="s-hi">Ibibigay ko sa iyo</strong> <strong>ang mga susi ng kaharian ng langit. Ang ipagbawal mo sa lupa ay ipagbabawal sa langit, at ang ipahintulot mo sa lupa ay ipahihintulot sa langit</strong>."»</blockquote>
                 </div>
-                <p>Aramaiko ang wika ni Jesus, at sa Aramaiko iisa lamang ang salita: <em>kefa</em>, bato. Iniingatan ng Ebanghelyo ni Juan ang orihinal na pangalan sa unang pagtatagpo: <em>"Ikaw si Simon na anak ni Juan. Tatawagin kang Cefas"</em>, na ang ibig sabihin ay Pedro (Juan 1:42), at patuloy siyang tinatawag ni Pablo na Cefas sa kanyang mga sulat. Sa Griyego, pambabaeng salita ang <em>petra</em> at hindi magagamit na pangalan ng lalaki, kaya binigyan ito ng panlalaking hulapi: <em>Petros</em>. Wala sa sinabi ni Jesus ang pagkakaiba ng maliit na bato at malaking bato. Nasa balarila ito ng tagasalin.</p>
-                <p>Ikalawa, ang mga susi. Para sa mga Judio sumulat si Mateo, at alam ng isang Judio kung ano ang kahulugan ng pagtanggap ng mga susi mula sa isang hari. Isinasalaysay ito ni Isaias: ipinahahayag ng Diyos na aalisin niya sa tungkulin si Sebna, ang katiwala ng palasyo, at ilalagay sa kanyang puwesto si Eliakim: <em>"Ipapasan ko sa kanyang balikat ang susi ng sambahayan ni David; ang kanyang buksan ay walang makapagsasara, at ang kanyang isara ay walang makapagbubukas"</em> (Isaias 22:22). Ang susi ay ang kapangyarihan ng hari na inilagay sa kamay ng isang katiwala, na nagbubukas at nagsasara sa kanyang pangalan. Kinukuha ni Jesus ang larawang iyon at iniaabot kay Pedro, sa parehong pares ng pandiwa (magbawal at magpahintulot, magbukas at magsara) at may garantiyang wala kay Eliakim: ang ipagbawal ni Pedro sa lupa ay ipagbabawal sa langit.</p>
+                <p>Aramaico ang wika ni Jesus, at sa Aramaico ay iisa ang salita: <em>kefa</em>, bato. Iniingatan ng Ebanghelyo ni Juan ang orihinal na pangalan sa unang pagkikita:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 1:42</span>
+                    <blockquote>«At dinala niya ito kay Jesus. Tinitigan siya ni Jesus at sinabi: «Ikaw si Simon na anak ni Juan; <strong class="s-hi">tatawagin kang Cefas</strong>» (na ang kahulugan ay Pedro).»</blockquote>
+                </div>
+                <p>At patuloy siyang tinatawag ni Pablo na Cefas sa kanyang mga sulat. Sa Griyego, ang <em>petra</em> ay salitang pambabae at hindi maaaring gamiting pangalan ng lalaki, kaya binigyan ito ng hulaping panlalaki: <em>Petros</em>. Ang pagkakaiba ng maliit na bato at ng malaking bato ay wala sa sinabi ni Jesus. Nasa balarila ito ng tagasalin.</p>
+                <p>Pagkatapos, ang mga susi. Sumulat si Mateo para sa mga Judio, at alam ng isang Judio ang kahulugan ng pagtanggap ng mga susi mula sa hari. Isinasalaysay ito ni Isaias: ipinahayag ng Diyos na aalisin niya sa tungkulin si Sebna, ang katiwala ng palasyo, at ilalagay sa kanyang lugar si Eliakim:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Isaias 22:22</span>
+                    <blockquote>«Ilalagay ko sa kanyang balikat <strong class="s-hi">ang susi ng sambahayan ni David</strong>: ang kanyang buksan ay walang makapagsasara, ang kanyang isara ay walang makapagbubukas.»</blockquote>
+                </div>
+                <p>Ang susi ay ang kapangyarihan ng hari na inilagay sa kamay ng isang katiwala, na nagbubukas at nagsasara sa pangalan nito. Kinuha ni Jesus ang larawang iyon at ibinigay kay Pedro, sa parehong pares ng pandiwa (magtali at magkalag, magbukas at magsara) at may garantiyang wala kay Eliakim: ang itali ni Pedro sa lupa ay nakatali sa langit.</p>
                 <p>At lahat ng ito ay sinabi sa isahan. Ang magbawal at magpahintulot ay tatanggapin kalaunan ng lahat ng apostol (Mateo 18:18). Ang mga susi, si Pedro lamang.</p>
                 <h2>Mga batong buháy: walang umaagaw sa lugar ni Cristo<br>1 Pedro 2:3-8</h2>
                 <p>Ang pinakamahusay na sumasagot sa pagtutol tungkol sa bato ay si Pedro mismo.</p>
@@ -622,8 +638,13 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                 <p>Hindi ipinapapili ng Kasulatan sa pagitan ni Cristo at ni Pedro. Si Cristo ang batong-panulukan at si Pedro ang batong pinagtatayuan ni Cristo; si Cristo ang may-ari ng bahay at si Pedro ang nag-iingat ng mga susi nito; si Cristo ang pastol at si Pedro ang nagpapakain sa kanyang mga tupa bilang katiwala. Ang Simbahang inilalarawan ng mga talatang ito ay may saligan, pamamahala at hangganan, at umiiral na ito bago pa naisulat ang kahit isang sulat ng Bagong Tipan. Hindi iyan inimbento ng Roma. Isinulat iyan nina Mateo, Lucas, Pablo at ni Pedro mismo.</p>
                 <p>Sa Isaias, ang susi ay lumilipat mula kay Sebna patungo kay Eliakim: napapalitan ang katiwala at nananatili ang tungkulin, sapagkat nakatayo pa rin ang sambahayan ni David. Namatay si Pedro bilang martir sa Roma, at ang pangakong hindi mananaig sa Simbahan kahit ang kapangyarihan ng kamatayan ay hindi namatay kasama niya.</p>
                 <div class="article-footnote">
-                    <p><sup>*</sup> Kung magpasya ang isang paring Katoliko na nais niyang mag-asawa, maaari niya itong hilingin, ngunit hindi niya ito mapagpapasyahan nang mag-isa. Kailangan niyang pormal na humiling ng dispensa mula sa pagkabinata, na ang Papa lamang ang nagkakaloob (Kodigo ng Batas Kanoniko, kan. 291), kasabay ng pagkawala ng estadong klerikal, na kilala bilang pagbabalik sa estadong laiko. Kapag natanggap na niya ito, hindi na niya ginagampanan ang ministeryo: hindi na siya nagdiriwang ng Misa, hindi nangangaral at hindi nangangasiwa ng mga sakramento, at iniuukol niya nang buo ang sarili sa kanyang buhay may-asawa at pampamilya. Ang tanging eksepsiyon ay ang panganib ng kamatayan, kung saan maaari niyang patawarin ang sinumang nangangailangan (kan. 976).</p>
-                    <p>Ang hindi niya nawawala ay ang pagkapari. Nag-iiwan ang ordenasyon ng tatak na hindi nabubura (kan. 1008): siya ay pari "magpakailanman, ayon sa pagkapari ni Melquisedec" (Hebreo 5:6), at kinikilala ng Simbahan na pari siya noon at pari pa rin siya ngayon. Ang nawawala sa kanya ay ang estadong klerikal, kasama ang mga karapatan at tungkulin nito: hindi na siya legal na kabilang sa klero, nagiging laiko siya sa harap ng batas ng Simbahan, at malaya na siya sa pagkabinata upang makapag-asawa nang may bisa sa Simbahan.</p>
+<p><sup>*</sup> Kung magpasya ang isang paring Katoliko na nais niyang mag-asawa, maaari niya itong hilingin, ngunit hindi niya ito mapagpapasyahan nang mag-isa. Kailangan niyang pormal na humiling ng dispensa mula sa pagkabinata, na ang Papa lamang ang nagkakaloob (Kodigo ng Batas Kanoniko, kan. 291), kasabay ng pagkawala ng estadong klerikal, na kilala bilang pagbabalik sa estadong laiko. Kapag natanggap na niya ito, hindi na niya ginagampanan ang ministeryo: hindi na siya nagdiriwang ng Misa, hindi nangangaral at hindi nangangasiwa ng mga sakramento, at iniuukol niya nang buo ang sarili sa kanyang buhay may-asawa at pampamilya. Ang tanging eksepsiyon ay ang panganib ng kamatayan, kung saan maaari niyang patawarin ang sinumang nangangailangan (kan. 976).</p>
+                    <p>Ang hindi niya nawawala ay ang pagkapari. Nag-iiwan ang ordenasyon ng tatak na hindi nabubura (kan. 1008): siya ay pari magpakailanman.</p>
+                    <div class="scripture-block">
+                        <span class="scripture-ref">✝︎ Hebreo 5:6</span>
+                        <blockquote>«gaya ng sinabi rin niya sa ibang bahagi: «<strong class="s-hi">Ikaw ay pari magpakailanman, ayon sa pagkapari ni Melquisedec</strong>.»»</blockquote>
+                    </div>
+                    <p>Kinikilala ng Simbahan na pari siya noon at pari pa rin siya ngayon. Ang nawawala sa kanya ay ang estadong klerikal, kasama ang mga karapatan at tungkulin nito: hindi na siya legal na kabilang sa klero, nagiging laiko siya sa harap ng batas ng Simbahan, at malaya na siya sa pagkabinata upang makapag-asawa nang may bisa sa Simbahan.</p>
                 </div>`,
       nav: {
         prevTitle: "Bakit Tayo Naniniwala sa Pananampalatayang Katoliko",
@@ -644,21 +665,40 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
             </div>
             <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
       article: `<p>May isang pagtutol laban sa Santísima Trinidad na naririnig sa loob ng mundong Pentecostal, at hindi ito pagtutol ng lahat ng Pentecostal: ang Assemblies of God at ang karamihan ng mga simbahang Pentecostal ay nagpapahayag ng Trinidad. Ito ay sa mga United Pentecostal, na tinatawag ang sarili na Oneness o «Jesus lamang»: <em>«Iisa lamang ang Diyos, hindi tatlong persona. Ang Ama, Anak at Espiritu Santo ay mga titulo, mga paraan kung paano nagpakilala ang iisang Diyos. Ang Ama ay si Jesus, at ang Espiritu Santo ay ang Espiritu ni Jesus. Kaya't nagbibinyag lamang kami sa pangalan ni Jesus.»</em></p>
-                <p>Ang Trinidad ay isang misteryo: iisang Diyos sa tatlong Persona. Walang nakauunawa rito nang lubusan, at hindi kailanman hiniling ng Simbahan na unawain muna ito bago paniwalaan. Ang hinihiling niya ay paniwalaan ang sinasabi ng Diyos tungkol sa kanyang sarili, sapagkat hindi sapat ang maniwala na may iisang Diyos. Ganito ito sinabi ni Santiago: <em><strong>«Naniniwala ka bang iisa ang Diyos? Mabuti! Ngunit maging ang mga demonyo ay naniniwala rin, at nanginginig pa!»</strong></em> (Sant 2:19). At ang sinasabi ng Diyos tungkol sa kanyang sarili ay nakasulat nang may gayong pagpupumilit na nauunawaan ito sa pagbasa. Kaya't ang paksang ito ay may higit na mga sipi kaysa mga paliwanag.</p>
+                <p>Ang Santisima Trinidad ay isang misteryo: iisang Diyos sa tatlong Persona. Walang lubos na nakauunawa rito, at kailanman ay hindi hiningi ng Simbahan na unawain ito bago paniwalaan. Ang hinihingi niya ay paniwalaan ang sinasabi ng Diyos tungkol sa kanyang sarili, sapagkat hindi sapat ang maniwalang iisa ang Diyos. Ganito ito sinasabi ni Santiago:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Santiago 2:19</span>
+                    <blockquote>«<strong class="s-hi">Naniniwala kang iisa ang Diyos? Mabuti! Pati ang mga demonyo ay naniniwala, at nanginginig sila.</strong>»</blockquote>
+                </div>
+                <p>At ang sinasabi ng Diyos tungkol sa kanyang sarili ay isinulat nang paulit-ulit kaya nauunawaan sa pagbasa. Kaya mas marami ang sipi kaysa paliwanag sa paksang ito.</p>
                 <h2>«Lalangin natin»: ang maramihan sa simula<br>Genesis 1:26</h2>
                 <p>Ang unang tanda ay nasa unang pahina ng Biblia.</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Genesis 1:26</span>
                     <blockquote>«Pagkatapos ay sinabi ng Diyos: «<strong class="s-hi">Lalangin natin ang tao ayon sa ating larawan, ayon sa ating wangis</strong>. Sila ang mamamahala sa mga isda, sa mga ibon, sa mga hayop, sa buong lupa at sa lahat ng gumagapang na hayop sa lupa.»»</blockquote>
                 </div>
-                <p>Nagsasalita ang Diyos sa anyong maramihan, at walang iba sa tagpo. Hindi ito ang mga anghel: hindi lumilikha ang mga anghel, at ang tao ay nilikha ayon sa larawan ng Diyos, hindi ng mga anghel. Ang sumunod na talata ay bumabalik sa isahan: <em>«Nilalang nga ng Diyos ang tao ayon sa kanyang larawan»</em> (Gen 1:27). Iisa na nagsasabing «natin». Ang talatang ito, kung nag-iisa, ay hindi nagpapatunay ng Trinidad, at hindi ito ginagamit ng Simbahan nang ganoon. Ito ay isang pahiwatig na lilinawin ng natitirang bahagi ng Kasulatan.</p>
+                <p>Nagsasalita ang Diyos nang maramihan, at wala nang iba sa tagpo. Hindi ang mga anghel: hindi lumilikha ang mga anghel, at ang tao ay nilikha ayon sa larawan ng Diyos, hindi nila. Ang sumunod na talata ay bumabalik sa isahan:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Genesis 1:27</span>
+                    <blockquote>«<strong class="s-hi">Nilikha nga ng Diyos ang tao ayon sa kanyang larawan</strong>; nilikha niya sila na kalarawan ng Diyos, lalaki at babae.»</blockquote>
+                </div>
+                <p>Iisa ang nagsasabing «tayo». Hindi pinatutunayan ng talatang ito lamang ang Trinidad, at hindi ito ginagamit nang ganoon ng Simbahan. Isa itong pasimulang pahayag na lilinawin ng natitirang bahagi ng Kasulatan.</p>
                 <h2>Ang Una at ang Huli, isinugo<br>Isaias 48:16</h2>
-                <p>Sa Isaias 48 ang Diyos ang nagsasalita, at nagpapakilala siya sa isang titulong walang ibang maaaring magdala: <em>«Ako ang Diyos, ako ang una at ang huli»</em> (Is 48:12). Siya ang naglagay ng saligan ng lupa at naglatag ng kalangitan. Pagkaraan ng apat na talata, ito ang sinasabi ng nagsasalita:</p>
+                <p>Sa Isaias 48 nagsasalita ang Diyos, at ipinakikilala niya ang sarili sa isang titulong hindi maaaring taglayin ng iba:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Isaias 48:12</span>
+                    <blockquote>«Makinig ka sa akin, Jacob, Israel na aking tinawag: <strong class="s-hi">Ako ang Diyos, ako ang una at ako rin ang huli.</strong>»</blockquote>
+                </div>
+                <p>Siya ang naglagay ng saligan ng lupa at naglatag ng kalangitan. Apat na talata pagkatapos, ganito ang sinasabi ng nagsasalita:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Isaias 48:16</span>
                     <blockquote>«Lumapit kayo sa akin at pakinggan ito: mula sa simula ay hindi ako nagsalita nang lihim; mula nang mangyari ito, naroon na ako. <strong class="s-hi">At ngayon ay isinugo ako ng Panginoong Diyos at ng kanyang Espiritu.</strong>»</blockquote>
                 </div>
-                <p>Ang naroon na mula sa simula ay isinugo, at ang nagsusugo sa kanya ay ang Panginoong Diyos at ang kanyang Espiritu. Sa iisang bahagi ng Lumang Tipan ay magkakasamang lumilitaw ang nagsusugo, ang isinugo at ang Espiritu. Makalipas ang maraming siglo, inilagay ng Pahayag ang titulo ring iyon sa bibig ni Jesus: <em>«Ako ang Una at ang Huli, at ang Nabubuhay. Ako'y namatay, ngunit ngayo'y buháy magpakailanman»</em> (Pah 1:17-18).</p>
+                <p>Ang naroon na mula sa simula ay isinusugo, at ang nagsusugo sa kanya ay ang Panginoong Diyos at ang kanyang espiritu. Sa iisang bahagi ng Lumang Tipan ay magkakasamang lumilitaw ang nagsusugo, ang isinugo at ang Espiritu. Makalipas ang mga siglo, inilagay ng Pahayag ang titulo ring iyon sa bibig ni Jesus:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Pahayag 1:17-18</span>
+                    <blockquote>«Nang makita ko siya, napasubsob ako sa kanyang paanan na parang patay. Ngunit ipinatong niya sa akin ang kanyang kanang kamay at sinabi: «Huwag kang matakot! <strong class="s-hi">Ako ang Una at ang Huli, at ang Nabubuhay</strong>. Namatay ako, ngunit ngayon ay buháy magpakailanman, at hawak ko ang mga susi ng kamatayan at ng daigdig ng mga patay.»»</blockquote>
+                </div>
                 <h2>Ang tatlo sa Jordan<br>Marcos 1:10-11</h2>
                 <p>Sa pagbibinyag kay Jesus, nawawalan ng lugar ang pagtutol tungkol sa mga titulo.</p>
                 <div class="scripture-block">
@@ -672,19 +712,34 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ Hebreo 1:5</span>
                     <blockquote>«Sapagkat kailanma'y hindi sinabi ng Diyos sa sinumang anghel: «<strong class="s-hi">Ikaw ang aking Anak, ngayon ay naging Ama mo ako</strong>». At hindi rin niya sinabi sa sinumang anghel: «<strong>Ako'y magiging Ama niya, at siya'y magiging Anak ko</strong>».»</blockquote>
                 </div>
-                <p>Ang isa ay nagsasalita at ang isa ay kinakausap. At tatlong talata pababa, tinatawag ng Ama na Diyos ang Anak: <em>«Ngunit sa Anak ay sinabi niya: Ang trono mo, O Diyos, ay magpakailanman»</em> (Heb 1:8). Ang Anak ay Diyos, at ang Ama, na kumakausap sa kanya, ay hindi siya.</p>
+                <p>Ang isa ay nagsasalita at ang isa ay kinakausap. At tatlong talata pababa, tinatawag ng Ama na Diyos ang Anak:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Hebreo 1:8</span>
+                    <blockquote>«Ngunit tungkol sa Anak ay sinabi niya: «<strong class="s-hi">Ang trono mo, O Diyos, ay magpakailanman</strong>; makatarungan ang setro ng iyong kaharian.»»</blockquote>
+                </div>
+                <p>Diyos ang Anak, at ang Ama, na nakikipag-usap sa kanya, ay hindi siya.</p>
                 <h2>Kasama ng Ama, bago ang sanlibutan<br>Juan 17:5</h2>
                 <p>Para sa mga United Pentecostal, nagsimula ang Anak sa Betlehem: ang «Anak» daw ay pangalan ng pagkatao ni Jesus, at ang «Ama» ay pangalan ng Diyos na nananahan dito. Sinasagot ito ni Juan sa kanyang unang sulat.</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Juan 1:2-3</span>
                     <blockquote>«Nahayag ang buhay na ito, at nakita namin ito; kaya't nagpapatotoo kami at ipinahahayag namin sa inyo <strong class="s-hi">ang buhay na walang hanggan na kasama ng Ama</strong> at nahayag sa amin. Ang nakita at narinig namin ay ipinahahayag namin sa inyo upang kayo'y makasama namin sa pakikipag-isa. At ang pakikipag-isa namin ay <strong>sa Ama at sa kanyang Anak na si Jesu-Cristo</strong>.»</blockquote>
                 </div>
-                <p>Ang nakita at nahipo ng mga apostol ay kasama ng Ama bago ito nahayag. Walang taong kasama ng kanyang sarili. Ito ang isinulat ni Juan sa simula ng kanyang Ebanghelyo: <em>«ang Salita ay kasama ng Diyos, at ang Salita ay Diyos»</em> (Jn 1:1). At sinabi ito ni Jesus sa sarili niyang mga salita noong gabi bago siya namatay:</p>
+                <p>Ang nakita at nahipo ng mga apostol ay kasama ng Ama bago ito nahayag. Walang taong kasama ng kanyang sarili. Iyan ang isinulat ni Juan sa simula ng kanyang Ebanghelyo:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 1:1</span>
+                    <blockquote>«Sa simula pa ay naroon na ang Salita; <strong class="s-hi">ang Salita ay kasama ng Diyos, at ang Salita ay Diyos</strong>.»</blockquote>
+                </div>
+                <p>At sinasabi ito ni Jesus sa sarili niyang mga salita sa gabi bago siya namatay:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Juan 17:5</span>
                     <blockquote>«Kaya ngayon, Ama, luwalhatiin mo ako sa iyong harapan <strong class="s-hi">ng kaluwalhatiang taglay ko sa piling mo bago pa likhain ang sanlibutan</strong>.»</blockquote>
                 </div>
-                <p>Hinihingi ni Jesus sa Ama ang kaluwalhatiang taglay niya sa piling nito bago ang paglikha. Kung nagsimula ang Anak sa Betlehem, wala siyang naunang kaluwalhatiang maaaring hingin, at walang sinumang kasama niya roon. Sa parehong panalangin ay iginigiit niya: <em>«minahal mo na ako bago pa likhain ang sanlibutan»</em> (Jn 17:24). Bago ang sanlibutan ay may isang nagmamahal at isa pang minamahal.</p>
+                <p>Hinihingi ni Jesus sa Ama ang kaluwalhatiang taglay niya sa piling nito bago ang paglikha. Kung nagsimula ang Anak sa Betlehem, wala siyang naunang kaluwalhatiang mababawi ni sinumang kasama niya roon. Sa iisang panalangin ay iginigiit niya:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 17:24</span>
+                    <blockquote>«Ama, nais kong ang mga ibinigay mo sa akin ay makasama ko kung saan ako naroroon, upang makita nila ang aking kaluwalhatian, ang kaluwalhatiang ibinigay mo sa akin, sapagkat <strong class="s-hi">minahal mo ako bago pa nilikha ang sanlibutan</strong>.»</blockquote>
+                </div>
+                <p>Bago ang sanlibutan ay may isang nagmamahal at isa pang minamahal.</p>
                 <h2>Dalawang saksi<br>Juan 8:16-18</h2>
                 <p>Sa pakikipagtalo sa mga Pariseo, binanggit ni Jesus ang Kautusan ni Moises, na hindi tumatanggap ng iisang saksi lamang (Deut 19:15).</p>
                 <div class="scripture-block">
@@ -692,14 +747,32 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <blockquote>«Ngunit kung ako man ay humatol, tama ang aking paghatol, sapagkat <strong class="s-hi">hindi ako nag-iisa; kasama ko ang Amang nagsugo sa akin</strong>. Nasusulat sa inyong Kautusan na <strong>kapag nagkaisa ang patotoo ng dalawang saksi, ito'y totoo</strong>. Ako'y nagpapatotoo tungkol sa aking sarili, at nagpapatotoo rin tungkol sa akin ang Amang nagsugo sa akin.»</blockquote>
                 </div>
                 <p>Naghaharap si Jesus ng dalawang saksi: ang kanyang sarili at ang Ama. Kung sila'y iisang persona na may dalawang pangalan, ipinapasa niya ang isang saksi bilang dalawa, at ang kanyang argumento sa harap ng mga Pariseo ay isang panlilinlang. Dalawa ang binibilang ni Jesus. Isa ang binibilang ng mga United Pentecostal.</p>
-                <p>Ang mga talatang sila mismo ang sumisipi ay nagsasabi ng gayon din kapag binasa nang buo. <em>«Ako at ang Ama ay iisa»</em> (Jn 10:30): «kami» ang nagsasalita, dalawa, at ang iisa ay ang pagka-Diyos, hindi ang persona. <em>«Ang nakakita sa akin ay nakakita na sa Ama»</em> (Jn 14:9), at kasunod agad: <em>«ako'y nasa Ama at ang Ama ay nasa akin»</em> (Jn 14:11). Upang ang isa ay nasa isa pa, kailangang dalawa sila.</p>
+                <p>Ang mga talatang sinisipi nila ay nagsasabi rin ng gayon kapag binasa nang buo:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 10:30</span>
+                    <blockquote>«<strong class="s-hi">Ako at ang Ama</strong> ay iisa.»</blockquote>
+                </div>
+                <p>Dalawa ang tinutukoy, «ako at ang Ama», at ang iisa ay ang kalikasan, hindi ang persona. Gayon din sa sagot kay Felipe:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 14:9-11</span>
+                    <blockquote>«Ang nakakita sa akin ay nakakita na sa Ama... <strong class="s-hi">ako'y nasa Ama at ang Ama ay nasa akin</strong>.»</blockquote>
+                </div>
+                <p>Upang ang isa ay mapasaisa, kailangang dalawa sila.</p>
                 <h2>Ibang Tagapagtanggol<br>Juan 14:16-17</h2>
                 <p>Tungkol sa Espiritu Santo, ang mapagpasyang salita ay sinabi ni Jesus sa Huling Hapunan.</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Juan 14:16-17</span>
                     <blockquote>«Hihilingin ko sa Ama, at bibigyan niya kayo ng <strong class="s-hi">ibang Tagapagtanggol</strong> na sasainyo magpakailanman. Siya ang <strong>Espiritu ng katotohanan</strong>, na hindi matanggap ng sanlibutan, sapagkat hindi siya nakikita ni nakikilala nito. Ngunit siya'y nakikilala ninyo, sapagkat siya'y nananahan sa inyo at sasainyo.»</blockquote>
                 </div>
-                <p>Nananalangin ang Anak, nagbibigay ang Ama, at ang ibinibigay niya ay ibang Tagapagtanggol. Ang Paraclito ay ang sumasama at nagtatanggol; ganoon si Jesus sa kanyang mga alagad sa loob ng tatlong taon, at ngayon ay nagpapahayag siya ng iba. Kung ang Espiritu Santo ay si Jesus sa ibang pangalan, hindi siya magiging iba. Sa mga sumunod na kabanata, bawat isa ay lumilitaw kasama ang sariling kanya: ang Espiritu Santo ay ang <em>«isusugo ng Ama sa pangalan ko»</em> (Jn 14:26), at <em>«hindi siya magsasalita nang mula sa kanyang sarili, kundi sasabihin niya ang kanyang narinig»</em> (Jn 16:13).</p>
+                <p>Ang Anak ay humihiling, ang Ama ay nagbibigay, at ang ibinibigay niya ay isa pang Patnubay. Ang Paraclito ay ang sumasama at nagtatanggol; si Jesus ang naging ganoon sa kanyang mga alagad sa loob ng tatlong taon, at ngayon ay ipinahahayag niya ang isa pa. Kung ang Espiritu Santo ay si Jesus sa ibang pangalan, hindi siya magiging iba. Sa mga sumunod na kabanata, bawat isa ay lumilitaw na may sariling taglay:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 14:26</span>
+                    <blockquote>«Ngunit ang Patnubay, ang Espiritu Santo, <strong class="s-hi">na isusugo ng Ama sa aking pangalan</strong>, ang magtuturo sa inyo ng lahat ng bagay at magpapaalala sa inyo ng lahat ng sinabi ko sa inyo.»</blockquote>
+                </div>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 16:13</span>
+                    <blockquote>«Pagdating ng Espiritu ng katotohanan, papatnubayan niya kayo sa buong katotohanan. <strong class="s-hi">Hindi siya magsasalita nang mula sa kanyang sarili, kundi sasabihin niya ang kanyang narinig</strong>, at ipapahayag niya sa inyo ang mga bagay na darating.»</blockquote>
+                </div>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Juan 15:26</span>
                     <blockquote>«Pagdating ng <strong class="s-hi">Tagapagtanggol na isusugo ko sa inyo mula sa Ama</strong>, ang Espiritu ng katotohanan na nagmumula sa Ama, <strong>siya ang magpapatotoo tungkol sa akin</strong>.»</blockquote>
@@ -723,7 +796,22 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ 2 Corinto 13:13</span>
                     <blockquote>«<strong class="s-hi">Ang biyaya ng Panginoong Jesu-Cristo, ang pag-ibig ng Diyos, at ang pakikipag-isa ng Espiritu Santo</strong> ay sumainyo nawang lahat.»</blockquote>
                 </div>
-                <p>Ang tatlo, magkakatabi, bawat isa kasama ang kanyang ibinibigay. Hindi ito isang nag-iisang pangungusap. Sa unang sulat sa mga taga-Corinto, ang mga kaloob ay mula sa <em>«iisang Espiritu»</em>, ang mga paglilingkod ay sa <em>«iisang Panginoon»</em> at ang mga gawain ay sa <em>«iisang Diyos»</em> (1 Cor 12:4-6). Sa mga taga-Efeso ay isinulat niya: <em>«iisang Espiritu… iisang Panginoon… iisang Diyos at Ama ng lahat»</em> (Ef 4:4-6). At binuksan ni Pedro ang kanyang unang sulat sa ganito ring paraan: <em>«ayon sa panukala ng Diyos Ama, at pinabanal ng Espiritu upang sumunod kay Jesu-Cristo»</em> (1 Ped 1:2). Binabanggit na ng mga apostol ang tatlo sa kanilang pagbati.</p>
+                <p>Ang tatlo, magkakatabi, bawat isa ay may sariling ibinibigay. Hindi ito isang hiwalay na pangungusap. Sa unang sulat sa mga taga-Corinto:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Corinto 12:4-6</span>
+                    <blockquote>«Iba-iba ang mga kaloob, ngunit <strong class="s-hi">iisa ang Espiritu</strong>. Iba-iba ang mga paglilingkod, ngunit <strong class="s-hi">iisa ang Panginoon</strong>. Iba-iba ang mga gawain, ngunit <strong class="s-hi">iisa ang Diyos</strong> na gumagawa ng lahat ng ito sa lahat.»</blockquote>
+                </div>
+                <p>Sa mga taga-Efeso ay isinulat niya:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Efeso 4:4-6</span>
+                    <blockquote>«Iisa ang katawan at <strong class="s-hi">iisa ang Espiritu</strong>... <strong class="s-hi">iisa ang Panginoon</strong>, iisa ang pananampalataya, iisa ang binyag, <strong class="s-hi">iisa ang Diyos at Ama ng lahat</strong>, na nasa ibabaw ng lahat, kumikilos sa lahat at nasa lahat.»</blockquote>
+                </div>
+                <p>At sa ganito ring paraan sinimulan ni Pedro ang kanyang unang sulat:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Pedro 1:2</span>
+                    <blockquote>«ayon sa paunang kaalaman ng <strong class="s-hi">Diyos Ama</strong>, sa pagpapabanal ng <strong class="s-hi">Espiritu</strong>, upang sumunod kay <strong class="s-hi">Jesucristo</strong> at mawisikan ng kanyang dugo: sumainyo nawa ang masaganang biyaya at kapayapaan.»</blockquote>
+                </div>
+                <p>Binabanggit na ng mga apostol ang tatlo sa mismong pagbati.</p>
                 <ul>
                     <li>Sa Jordan, sabay na lumitaw ang Anak, ang Espiritu at ang Ama, at kinausap ng Ama ang Anak.</li>
                     <li>Ang Anak ay kasama ng Ama at may kaluwalhatian sa piling niya bago pa umiral ang sanlibutan.</li>
@@ -752,7 +840,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                 <span>Nailathala Mayo 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
-      article: `<p>Ang mga Saksi ni Jehova at mga Adventista ay paulit-ulit na inuulit ang parehong pagtutol: <em>«Hindi ka naririnig ng mga patay»</em>, sapagkat ang kaluluwa —ayon sa kanila— ay natutulog hanggang sa huling paghuhukom. Sa unang tingin ay mukhang makatwiran. Ngunit iba ang sinasabi ng Kasulatan. Hindi sa isang nag-iisang talata: sa pitong magkakaibang talata, mula kay Pablo hanggang sa Pahayag. Isa-isa.</p>
+      article: `<p>Maraming sektang Protestante ang nanghahawak sa erehiya ng «pagtulog ng kaluluwa». Nakasulat ito sa mga Adventista at sa mga Saksi ni Jehova: para sa kanila, ang kamatayan ay kalagayang walang malay hanggang sa huling paghuhukom. Doon nagmumula ang pagtutol na walang sawa nilang inuulit: <em>«Hindi ka naririnig ng mga patay.»</em> Iba ang sinasabi ng Kasulatan. Hindi sa isang hiwalay na talata: sa pitong magkakaibang bahagi, mula kay Pablo hanggang sa Pahayag. Isa-isa.</p>
 
             <h2>Nagiging ganap ang kaalaman pagkatapos ng kamatayan<br>1 Corinto 13:9-13</h2>
 
@@ -763,7 +851,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
 
             <p>Itinuturo ni Pablo na sa buhay na ito ay hindi ganap ang kaalaman. Kapag dumating ang ganap —at nangyayari iyon sa kamatayan, sa pagkakita sa Diyos nang mukhaan— makikilala nang tulad ng pagkilala ng Diyos: walang talukbong at walang hangganan. Kung ganito nakakakilala ang mga santo, walang natatago sa kanila. Nakakarinig sila. Nauunawaan nila ang mga panalanging inihahain sa kanila.</p>
 
-            <h2>Pagkatapos ng kamatayan, makikita natin ang Diyos kung ano siya<br>1 Juan 3:2</h2>
+            <h2>Pagkatapos ng kamatayan, nakikita ang Diyos kung ano siya<br>1 Juan 3:2</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝︎ 1 Juan 3:2</span>
@@ -798,7 +886,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
 
             <p>Ito ang sagot sa «sino ang mga santo?». Pinangalanan sila ng Kasulatan nang isa-isa. Hindi ito imbensyon ng Simbahan. Sila ang mga nabuhay, nagdusa at namatay na naghahanap ng bayang hindi sa mundong ito, at hindi sila inilagay doon bilang palamuti ng may-akda ng Mga Hebreo: sinasabi niyang pinalilibutan ng ulap na iyon ng mga saksi ang mga tumatakbo pa. Walang pinalilibutan ng mga wala roon.</p>
 
-            <h2>Hindi natutulog ang kaluluwa — nangaral si Kristo sa mga espiritu<br>1 Pedro 3:18-22</h2>
+            <h2>Hindi natutulog ang kaluluwa: nangaral si Kristo sa mga espiritu<br>1 Pedro 3:18-22</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝︎ 1 Pedro 3:18-22</span>
@@ -829,7 +917,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
 
             <p>Ang mga santo ay ang mga nabuhay sa pananampalataya —Abel, Enoc, Noe, Abraham, Moises, ang mga propeta—, ang mga pagkatapos ng kamatayan ay nasa lungsod ng Diyos na buhay, ang makalangit na Jerusalem. Doon ay nakakakilala sila gaya ng pagkilala sa kanila ng Diyos. Doon ay nakikita nila ang Diyos kung ano siya. Doon ay walang hangganan ni layo.</p>
 
-            <p>At ang ginagawa ng Simbahan sa pagtawag sa kanila ay eksaktong ipinapakita ng Pahayag: dinadala nila sa dambana ng langit ang mga panalangin ng mga tapat at inihaharap ang mga ito sa trono ng Kordero. Hindi sinasamba ang mga santo. Hinihiling sa kanila na mamagitan sa Diyos, gaya ng paghiling sa isang buhay na kapatid na ipanalangin tayo. Ang tanging pagkakaiba ay pabor sa kanila: nasa langit sila at nakakakilala gaya ng pagkilala ng Diyos. Kaya nakikita nila, naririnig nila at namamagitan sila. Ang nagsasabing hindi nakakarinig ang mga patay ay kailangan munang ipaliwanag kung bakit iniingatan ng langit ang mga panalangin sa mga kopitang ginto.</p>`,
+            <p>At ang ginagawa ng Simbahan sa pagtawag sa kanila ay eksaktong ipinakikita ng Pahayag: dinadala nila sa dambana ng langit ang mga panalangin ng mga mananampalataya at iniaalay sa harap ng trono ng Kordero. Hindi sinasamba ang mga santo. Hinihiling sa kanila na mamagitan sa Diyos, gaya ng paghiling sa isang buháy na kapatid na ipanalangin tayo. Ang tanging pagkakaiba ay pabor sa kanila: nasa langit sila at nakaaalam gaya ng pagkaalam ng Diyos. Kaya nakakikita sila, nakaririnig at namamagitan.</p>`,
       nav: {
         prevTitle: "Ang Pagkasaserdote sa Simbahang Katoliko",
         nextTitle: "Ang Purgatoryo at Awa ng Diyos"
@@ -842,84 +930,138 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
                 <span class="eyebrow-text">Espesyal na Paksa</span>
             </div>
             <h1>Bakit Tayo Naniniwala sa Pananampalatayang Katoliko</h1>
-            <p>Bakit tayo naniniwala? Hindi dahil sa ugali. Dahil sinaksihan ito, siniyasat natin, at ang Bibliya mismo ay nagtuturo sa Simbahan na itinatag ni Hesus.</p>
+            <p>Hindi dahil sa nakasanayan: dahil may mga saksi, dahil ipinasa ang Salita, at dahil ang Biblia mismo ang nagtuturo sa Simbahang itinatag ni Jesus.</p>
             <div class="article-meta">
                 <span>15 minutong pagbabasa</span>
                 <span>Nailathala Mayo 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
-      article: `<p>Bakit tayo naniniwala? Hindi dahil sa bulag na tradisyon o kaugalian ng pamilya. Naniniwala tayo dahil ang Salita ng Diyos ay sinaksihan, tapat na ipinagpapatuloy, at nananatiling totoo. Sinabi ni Lucas mula sa simula: siyasat niya ang lahat mula sa simula upang makilala natin ang katotohanan (Lk 1:1-4). Iyon ang gagawin natin dito.</p>
-                <h2>Ang Salita ay sinaksihan<br>Lucas 1:1-4 at Juan 11:25-27</h2>
-                <p>Sinasabi sa atin ni Lucas na marami ang nagsikap na mag-ulat ng mga pangyayaring naganap sa ating piling, <em>"ayon sa ipinaabot sa atin ng mga naging saksi mula sa simula at mga tagapaglingkod ng Salita"</em> (Lk 1:2). Hindi ito mga alamat: mga patotoo ito. Ang sinabi, nabuhay, at itinuro ni Hesus ay nakita at ipinasa ng mga tunay na saksi.</p>
-                <p>Si Marta, sa harapan ng libingan ng kanyang kapatid, kinikilala Siya nang walang pag-aalangan: <em>"Oo, Panginoon, naniniwala ako na Ikaw ang Mesias, ang Anak ng Diyos, ang dapat pumarito sa mundo"</em> (Jn 11:27). Ang pananampalataya ay hindi makatwiran: ito ay tugon sa isang pahayag na sinaksihan ng mga nakaranas nito.</p>
+      article: `<p>Ang Katoliko ay hindi naniniwala dahil sa bulag na tradisyon o nakagawian ng pamilya. Naniniwala siya dahil ang Salita ng Diyos ay pinatotohanan, matapat na ipinasa, at nananatiling totoo. Sinasabi ito ni San Lucas mula sa simula: maingat niyang sinuri ang lahat mula sa pinagmulan (Lucas 1:3).</p>
+                <p>Ang mga sektang Protestante, kasama ang mga Ebanghelikal, Baptist at Pentekostal, ay nanghahawak sa erehiyang pinagmulan ng Repormasyon: <em>«Ang Biblia lamang ang batayan ng pananampalataya. Sapat na ang Biblia.»</em> Iyan ang <em>sola scriptura</em>. Hindi pinagtatalunan na ang Biblia ay Salita ng Diyos. Ang pinagtatalunan ay kung sinasabi ba ng Biblia tungkol sa sarili nito na ito ang tanging batayan. Hindi nito sinasabi iyon, at mula sa unang kabanata ng Lucas ay ipinakikita nitong bago pa ang teksto ay may mga saksi na.</p>
+                <h2>Ang Salita ay pinatotohanan<br>Lucas 1:1-4 at Juan 11:25-27</h2>
+                <p>Hindi si Lucas ang unang sumulat: tinanggap muna niya ang ipinapasa ng iba.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝︎ Lucas 1:4</span>
-                    <blockquote>«<strong class="s-hi">Upang malaman mo ang katiyakan ng mga bagay na itinuro sa iyo.</strong>»</blockquote>
+                    <span class="scripture-ref">✝︎ Lucas 1:1-4</span>
+                    <blockquote>«Marami na ang nagsikap sumulat ng salaysay tungkol sa mga bagay na naganap sa ating kalagitnaan, <strong class="s-hi">ayon sa ipinasa sa atin ng mga saksing nakakita mula pa sa simula at naging mga tagapangaral ng Salita</strong>. Kaya't ako man, matapos kong suriing mabuti ang lahat mula pa sa pasimula, ay nagpasyang isulat nang maayos para sa iyo, kagalang-galang na Teofilo, upang <strong class="s-hi">matiyak mo ang katotohanan ng mga itinuro sa iyo</strong>.»</blockquote>
                 </div>
-                <h2>Kailangan nating basahin ang Salita ng Diyos<br>Lucas 8:5-8, 8:11-12 at Awit 119</h2>
-                <p>Ginagawa itong malinaw ng talinghaga ng mananahi: <em>"Ang binhi ay ang Salita ng Diyos"</em> (Lk 8:11). Alam ng diyablo na ang Salita ng Diyos ay nagbubunga ng kaligtasan — kaya inaabot, nilibak, at nisirain niya ito (Lk 8:12). Hindi aksidente na nakikipaglaban ang kaaway laban sa pagbabasa nito.</p>
-                <p>Sinasabi ng Awit 119:72 na ang kautusan ng Diyos ay may mas malaking halaga kaysa libu-libong ginto at pilak. At kung may magtanong kung ano ang nakukuha sa pagbabasa ng Bibliya, sumagot si Pablo: <em>"Mula pa sa pagkabata mo ay alam mo na ang mga Banal na Kasulatan, <strong>na may kakayahang magbigay sa iyo ng karunungan para sa kaligtasan sa pamamagitan ng pananampalataya kay Cristo Hesus</strong>"</em> (2 Tim 3:15).</p>
-                <p>Nagbibigay ang Awit 119:103-105 ng pinaka-magandang larawan: <em>"Gaano kaasim ang Iyong mga salita sa aking panlasa! Mas matamis pa sa pulot ang sa aking bibig!... <strong>Ang Iyong salita ay isang ilaw sa aking mga paa, isang liwanag sa aking landas.</strong>"</em> Ang hindi nagbabasa ng Salita ng Diyos ay naglalakad sa kadiliman.</p>
+                <p>Hindi ito mga alamat: mga patotoo ito. Ang sinabi, ipinamuhay at itinuro ni Jesus ay nakita at ipinasa ng mga tunay na saksi, at natanggap na ni Teofilo ang mga turong iyon bago pa niya nabasa ang kahit isang linya ng Ebanghelyo.</p>
+                <p>Si Marta, sa harap ng libingan ng kanyang kapatid, ay walang alinlangang nagpahayag:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝︎ Awit 119:105</span>
-                    <blockquote>«<strong class="s-hi">Ang Iyong salita ay isang ilaw sa aking mga paa, isang liwanag sa aking landas.</strong>»</blockquote>
+                    <span class="scripture-ref">✝︎ Juan 11:25-27</span>
+                    <blockquote>«Sinabi sa kanya ni Jesus: «Ako ang muling pagkabuhay at ang buhay. Ang sumasampalataya sa akin, kahit mamatay, ay mabubuhay; at ang nabubuhay at sumasampalataya sa akin ay hindi na mamamatay kailanman. Pinaniniwalaan mo ba ito?» Sumagot siya: «<strong class="s-hi">Opo, Panginoon. Naniniwala akong kayo ang Cristo, ang Anak ng Diyos, ang darating sa sanlibutan</strong>.»»</blockquote>
                 </div>
-                <h2>Ang Salita ay mula sa Diyos<br>2 Pedro 1:19 at Juan 17:17</h2>
-                <p>Hindi ito opinyon ng tao. Pinatutunayan ito ni Pedro: ang salita ng mga propeta ay salita ng Diyos (2 Ped 1:19). At si Hesus Mismo, sa Kanyang panalangin sa Ama, ay nagpapatunay nito: <em>"<strong>Ang Iyong salita ay katotohanan</strong>"</em> (Jn 17:17). At sinabi Mismo ni Hesus: <em>"Pinagpala ang mga nakikinig sa Salita ng Diyos at <strong>sumusunod</strong> dito"</em> (Lk 11:28). Hindi niya sinabi ang mga nakakaalam o ang mga nagsipi nito; sinabi niya ang mga <strong>sumusunod</strong> dito.</p>
-                <h2>Ang pananampalataya ay ang paggawa ng sinabi Niya<br>Lucas 5:5 at Juan 2:5</h2>
-                <p>Si Pedro ay nangisda buong gabi at walang nahuli. Sa karanasan ng tao, ang paghulog ng mga lambat sa araw ay walang saysay. Ngunit nagsabi siya ng isang bagay na nagbubuod ng lahat ng pananampalataya: <em>"Guro, nagtrabaho kaming buong gabi at wala kaming nahuli; <strong>ngunit dahil sinabi Mo ito, ihuhugos ko ang mga lambat</strong>"</em> (Lk 5:5). At dahil doon, tiyak na ginawa siyang mamamalakaya ng mga tao ni Hesus, siya at hindi ang iba (Lk 5:10).</p>
-                <p>Sa Cana, binibigyan ng Birheng Maria ang mga lingkod ng tiyak na tagubilin: <em>"<strong>Gawin ninyo ang anumang sasabihin Niya sa inyo</strong>"</em> (Jn 2:5). Ang mga tapayan ay napuno ng tubig, ngunit naging alak nang tuparin ng mga lingkod ang Kanyang mga utos hanggang sa katapusan (Jn 2:8). Ang pananampalataya ay hindi lamang paniniwala: ito ay pagsunod.</p>
+                <p>Sumampalataya si Marta dahil sa salitang narinig niya mula kay Cristo, noong wala pang kahit isang pahina ng Bagong Tipan. Hindi salungat sa katwiran ang pananampalataya: ito ang tugon sa isang pahayag na pinatunayan ng mga nakaranas nito.</p>
+                <h2>Nilalabanan ng kaaway ang Salita<br>Lucas 8:11-12 at Awit 119</h2>
+                <p>Hindi natatakot ang Simbahan sa Biblia: ipinagtatanggol niya ito, dahil alam niya kung sino ang umaatake rito. Malinaw ito sa talinghaga ng manghahasik:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Lucas 8:11-12</span>
+                    <blockquote>«Ito ang kahulugan ng talinghaga: <strong class="s-hi">ang binhi ay ang salita ng Diyos</strong>. Ang mga nasa tabi ng daan ay ang mga nakarinig, ngunit dumating ang diyablo at <strong class="s-hi">inalis ang salita sa kanilang puso upang hindi sila sumampalataya at maligtas</strong>.»</blockquote>
+                </div>
+                <p>Alam ng diyablo na pinasisibol ng Salita ng Diyos ang kaligtasan. Hindi nagkataon na nilalabanan ng kaaway ang pagbasa nito. Sinasabi ng Awit 119:72 na ang kautusang mula sa bibig ng Diyos ay higit na mahalaga kaysa libu-libong ginto at pilak, at sinasabi ni San Pablo kung ano ang napapala sa pagbasa nito:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 2 Timoteo 3:15</span>
+                    <blockquote>«Mula pa sa pagkabata ay alam mo na ang Banal na Kasulatan, <strong class="s-hi">na makapagbibigay sa iyo ng karunungang umaakay sa kaligtasan</strong> sa pamamagitan ng pananampalataya kay Cristo Jesus.»</blockquote>
+                </div>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Awit 119:103-105</span>
+                    <blockquote>«Kay tamis ng iyong mga salita sa aking panlasa, higit pa sa pulot sa aking bibig!... <strong class="s-hi">Ang salita mo'y ilaw sa aking mga paa at liwanag sa aking landas.</strong>»</blockquote>
+                </div>
+                <p>Ang hindi nagbabasa ng Salita ng Diyos ay naglalakad sa dilim.</p>
+                <h2>Ang Salita ay mula sa Diyos<br>2 Pedro 1:19, Juan 17:17 at Lucas 11:28</h2>
+                <p>Hindi ito opinyon ng tao. Tinatawag ni San Pedro na ilawan ang salita ng mga propeta at iniuutos na pansinin ito:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 2 Pedro 1:19</span>
+                    <blockquote>«Kaya't lalo pang tumibay sa atin ang salita ng mga propeta, at mabuti ang inyong ginagawa na pinakikinggan ito <strong class="s-hi">na parang ilawang nagliliwanag sa madilim na lugar</strong>, hanggang sa magbukang-liwayway at sumikat ang tala sa umaga sa inyong mga puso.»</blockquote>
+                </div>
+                <p>Si Jesus mismo, sa kanyang panalangin sa Ama, ang nagpapatunay nito:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 17:17</span>
+                    <blockquote>«Gawin mo silang banal sa pamamagitan ng katotohanan; <strong class="s-hi">ang salita mo ang katotohanan</strong>.»</blockquote>
+                </div>
+                <p>At sinasabi niya kung ano ang gagawin dito:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Lucas 11:28</span>
+                    <blockquote>«Ngunit sumagot si Jesus: «Higit na mapalad ang mga nakikinig sa salita ng Diyos at <strong class="s-hi">tumutupad nito</strong>.»»</blockquote>
+                </div>
+                <p>Hindi niya sinabing ang nakakaalam nito o ang sumisipi nito; sinabi niyang ang <strong class="s-hi">tumutupad nito</strong>.</p>
+                <h2>Ang pananampalataya ay paggawa ng sinasabi Niya<br>Lucas 5:5 at Juan 2:5</h2>
+                <p>Magdamag nangisda si Pedro at wala siyang nahuli. Ayon sa kanyang karanasan bilang tao, walang saysay ang maghulog ng lambat sa araw. Ngunit nagsabi siya ng isang bagay na buod ng buong pananampalataya:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Lucas 5:5</span>
                     <blockquote>«<strong class="s-hi">Ngunit dahil sinabi Mo ito, ihuhugos ko ang mga lambat.</strong>»</blockquote>
                 </div>
-                <h2>Saan nanggaling ang iyong Bibliya?<br>Ang sola scriptura at ang mga problema nito</h2>
-                <p>May nagsasabi: "Ang Kasulatan lamang ang pamantayan ng pananampalataya. Sapat ang Bibliya." Mabuti. Pumunta tayo sa Bibliya.</p>
+                <p>At iyon mismo ang dahilan kaya ginawa siya ni Jesus na mamamalakaya ng tao, siya at hindi ang iba (Lucas 5:10).</p>
+                <p>Sa Cana, ibinigay ng Birheng Maria sa mga lingkod ang tiyak na tagubilin:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 2:5</span>
+                    <blockquote>«Sinabi ng kanyang ina sa mga katulong: «<strong class="s-hi">Gawin ninyo ang anumang sabihin niya sa inyo</strong>.»»</blockquote>
+                </div>
+                <p>Pinuno ng tubig ang mga tapayan, at naging alak ang tubig nang tuparin ng mga lingkod ang kanyang utos hanggang sa wakas:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 2:8</span>
+                    <blockquote>«Sinabi niya sa kanila: «Ngayon, sumalok kayo at dalhin sa namamahala ng handaan.» <strong class="s-hi">At dinala nga nila.</strong>»</blockquote>
+                </div>
+                <p>Ang pananampalataya ay hindi lamang paniniwala: ito ay pagtupad. Tinatalakay ito nang mas malalim sa mga paksang <a href="tema-la-eucaristia.html">Ang Eukaristiya</a> at <a href="tema-transubstanciacion.html">Transubstansiyasyon</a>.</p>
+                <h2>Saan nanggaling ang Biblia?<br>Ang sola scriptura at ang mga suliranin nito</h2>
+                <p>Ang talatang pinakamadalas gamitin upang ipagtanggol ang <em>sola scriptura</em> ay ito:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 2 Timoteo 3:16-17</span>
                     <blockquote>«<strong class="s-hi">Ang buong Kasulatan ay kinasihan ng Diyos at kapaki-pakinabang</strong> para sa pagtuturo, para sa pagsaway, para sa pagwawasto, para sa pagsasanay sa katuwiran, upang ang tao ng Diyos ay maging ganap, handa para sa bawat mabuting gawa.»</blockquote>
                 </div>
-                <p>Ang salitang ginagamit ni Pablo ay "kapaki-pakinabang" — sa Griyego ὠφέλιμος — hindi "eksklusibo" o "tanging pamantayan ng pananampalataya." Hindi kailanman sinasabi ng talatang ito na ang Kasulatan lamang ay sapat para sa lahat. At may mas mahalagang bagay: kung ang tanging pamantayan ng katotohanan ay "ang sinasabi ng Bibliya," dapat nasa Bibliya ang sola scriptura para maging wasto. Wala ito roon. Sinasalungat ng argumento ang kanyang sariling pamantayan.</p>
-                <h2>Sino ang nagtakda ng kanon?<br>Ang tanong na hindi masasagot ng sola scriptura</h2>
-                <p>Ang Bagong Tipan ay hindi dumating na may talaan ng nilalaman. Sa mga unang siglo, iba't ibang komunidad ay gumamit ng iba't ibang teksto. Paano napagpasyahan kung ano ang Salita ng Diyos at kung ano ang hindi? Ang Simbahang Katoliko, sa mga Konsilyo ng Hippo (393 AD) at Cartago (397 AD), ang nagtakda ng biblikal na kanon na ginagamit ng mundong Kristiyano hanggang ngayon. Ang tumatalikod sa awtoridad ng Simbahang Katoliko na magturo ng doktrina ay nagtitiwala sa parehong Simbahang iyon para malaman kung aling mga aklat ang babasahin. Walang ibang magkakaayon na alternatibo.</p>
-                <h2>Ang oral na tradisyon ay biblikal<br>2 Tesalonica 2:15 at 2 Timoteo 2:2</h2>
-                <p>Hindi lamang sa pamamagitan ng mga liham nagturo si Pablo. Inutusan niya na pangalagaan din ang oral na tradisyon:</p>
+                <p>Ang salitang ginamit ni Pablo ay «mapakikinabangan» (sa Griyego ὠφέλιμος), hindi «tangi» ni «nag-iisang batayan ng pananampalataya». Hindi kailanman sinasabi ng talata na sapat na ang Kasulatan lamang para sa lahat. At may mas mahalaga pa: kung ang tanging pamantayan ng katotohanan ay «ang sinasabi ng Biblia», dapat nasa Biblia ang <em>sola scriptura</em> upang maging may bisa. Wala ito roon. Sinisira ng katwiran ang sarili nito ayon sa sarili nitong pamantayan.</p>
+                <h2>«Biblia lamang», na may ibang kapangyarihan sa tabi<br>Mga Adventista at mga Saksi ni Jehova</h2>
+                <p>Dalawang sektang Protestante ang nagsasabing «Biblia lamang» at may nakasulat na kabaligtaran. Ipinahahayag ng mga Adventista sa kanilang saligang paniniwala 18 na ang mga sinulat ni Ellen White ay nagsasalita nang may awtoridad ng propeta, kahit na sinasabi rin ng paniniwalang iyon na ang Biblia ang pamantayan. Mas malinaw pa itong sinasabi ng mga Saksi ni Jehova: <em>«Lahat ng nagnanais na maunawaan ang Bibliya ay dapat magpahalaga sa bagay na ang “malawak na pagkakasari-sari ng karunungan ng Diyos” ay makikilala lamang sa pamamagitan ng alulod ni Jehova sa pakikipagtalastasan, ang tapat at maingat na alipin»</em> (Ang Bantayan, Oktubre 1, 1994).</p>
+                <p>Wala sa dalawa ang namumuhay ayon sa <em>sola scriptura</em>. Ipinagkakait nila sa Simbahang itinatag ni Cristo ang kapangyarihang ibinibigay nila kay Ellen White at sa «tapat at maingat na alipin».</p>
+                <h2>Sino ang nagtakda ng kanon?<br>Ang suliraning hindi masagot ng sola scriptura</h2>
+                <p>Hindi dumating ang Bagong Tipan na may talaan ng nilalaman. Sa mga unang siglo, iba-ibang teksto ang ginagamit ng iba-ibang pamayanan. Paano napagpasyahan kung ano ang Salita ng Diyos at kung ano ang hindi? Ang Simbahang Katoliko, sa mga konsilyo ng Hipona (393) at Cartago (397), ang nagtakda ng kanon ng Biblia. Tinanggap ito ng mga Protestante mula sa Simbahang iyon at inalisan nila ito ng pitong aklat ng Lumang Tipan: Tobit, Judit, Karunungan, Sirac, Baruc at ang dalawang aklat ng Macabeo. Ang tumatanggi sa kapangyarihan ng Simbahang Katoliko na magturo ng doktrina ay umaasa sa Simbahan ding iyon upang malaman kung aling mga aklat ang babasahin. Wala nang ibang paraan upang maging magkakaugnay.</p>
+                <h2>Ang Tradisyong pasalita ay biblikal<br>2 Tesalonica 2:15 at 2 Timoteo 2:2</h2>
+                <p>Hindi lamang sa sulat nagturo si Pablo. Iniutos din niyang ingatan ang tradisyong pasalita:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 2 Tesalonica 2:15</span>
                     <blockquote>«Kaya nga, mga kapatid, <strong class="s-hi">manatili kayong matatag at hawakan ang mga tradisyong itinuro namin sa inyo, maging sa salita o sa aming liham.</strong>»</blockquote>
                 </div>
-                <p>At ipinagkatiwala niya na ang tradisyong iyon ay ipapasa mula sa henerasyon sa henerasyon:</p>
+                <p>At iniutos niyang ipasa ang tradisyong iyon mula sa isang salinlahi tungo sa iba:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 2 Timoteo 2:2</span>
                     <blockquote>«<strong class="s-hi">Ang narinig mo sa akin sa harapan ng maraming saksi, ipagkatiwala mo ito sa mga tapat na tao na may kakayahang magturo sa iba.</strong>»</blockquote>
                 </div>
-                <p>Apat na henerasyon ng pagpapasa sa isang talata: Pablo → Timoteo → mga tapat na tao → iba. At kinikilala ito ni Juan mismo sa katapusan ng kanyang Ebanghelyo:</p>
+                <p>Apat na salinlahi ng pagpapasa sa iisang talata: Pablo → Timoteo → mga taong mapagkakatiwalaan → iba pa. At kinikilala ito mismo ni Juan sa wakas ng kanyang Ebanghelyo:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Juan 21:25</span>
                     <blockquote>«<strong class="s-hi">Mayroon pang maraming ibang bagay na ginawa ni Hesus. Kung isulat ang bawat isa sa kanila, naniniwala ako na hindi mauubos ng mundo ang mga aklat na maisusulat.</strong>»</blockquote>
                 </div>
-                <p>Si Hesus Mismo ay hindi nagsulat ng kahit isang linya. Nagpadala Siya ng mga apostol para mangaral, hindi para sumulat.</p>
-                <h2>Ang pribadong interpretasyon ay ipinagbabawal ng Bibliya<br>2 Pedro 1:20-21</h2>
-                <p>Malinaw ang sinabi ni Pedro:</p>
+                <p>Si Jesus mismo ay hindi sumulat ng kahit isang linya. Nagsugo siya ng mga apostol upang mangaral, hindi upang sumulat.</p>
+                <h2>Ipinagbabawal ng Biblia ang sariling pagpapaliwanag<br>2 Pedro 1:20-21</h2>
+                <p>Malinaw itong sinasabi ni Pedro:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 2 Pedro 1:20-21</span>
                     <blockquote>«<strong class="s-hi">Alamin ninyo ito nang higit sa lahat: walang anumang hula ng Kasulatan ang nagmumula sa sariling interpretasyon ng sinuman.</strong> Sapagkat walang hula ang nagmula sa kalooban ng tao, kundi nagsalita ang mga tao mula sa Diyos habang sila ay tinutulak ng Espiritu Santo.»</blockquote>
                 </div>
-                <p>Mula 1517, may higit sa 45,000 iba't ibang denominasyong nagbabasa ng parehong Bibliya at nagtatamo ng magkasalungat na konklusyon tungkol sa binyag, Eukaristiya, kaligtasan, at moralidad. Nanalangin si Hesus para sa ibang bagay: <em>"<strong>upang silang lahat ay maging isa</strong>"</em> (Jn 17:21). Ang tanong na kailangang itanong: maaari bang sabay na gabayan ng Espiritu Santo ang lahat ng mga magkasalungat na posisyong iyon?</p>
+                <p>Mula noong 1517, libu-libong denominasyon ang bumabasa ng iisang Biblia at umaabot sa magkakasalungat na konklusyon tungkol sa binyag, sa Eukaristiya, sa kaligtasan at sa moralidad. Ang kabaligtaran ang ipinanalangin ni Jesus:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 17:21</span>
+                    <blockquote>«<strong class="s-hi">Ipinapanalangin kong silang lahat ay maging isa</strong>. Kung paanong ikaw, Ama, ay nasa akin at ako'y nasa iyo, gayundin naman, sila nawa'y mapasaatin, upang maniwala ang sanlibutan na ikaw ang nagsugo sa akin.»</blockquote>
+                </div>
+                <p>Hindi sinasalungat ng Espiritu Santo ang kanyang sarili. Ang magkakasalungat na doktrina, na lahat ay hinango «sa Biblia lamang», ay hindi nagmumula sa kanya.</p>
                 <h2>Ang Simbahan ang haligi ng katotohanan<br>1 Timoteo 3:15 at Mateo 16:18</h2>
-                <p>Hindi tinatawag ng Bibliya ang kanyang sarili na haligi ng katotohanan. Tinatawag nito ang Simbahan:</p>
+                <p>Hindi tinatawag ng Biblia ang sarili nito na haligi ng katotohanan. Ibinibigay nito ang pangalang iyon sa Simbahan:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Timoteo 3:15</span>
                     <blockquote>«Ang Simbahan ng buhay na Diyos, <strong class="s-hi">haligi at pundasyon ng katotohanan.</strong>»</blockquote>
                 </div>
-                <p>At gumawa si Hesus ng pangako sa institusyon:</p>
+                <p>At nangako si Jesus tungkol sa kanya bilang isang institusyon:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Mateo 16:18</span>
                     <blockquote>«At sinasabi Ko sa iyo, ikaw ay Pedro, at sa batong ito itatayo Ko ang Aking Simbahan, <strong class="s-hi">at ang mga pintuan ng Hades ay hindi mananalo laban sa kanya.</strong>»</blockquote>
                 </div>
-                <p>Pinoprotektahan ng pangakong ito ang Magisteryo — ang opisyal na turo ng Simbahan — mula sa pagtuturong may kasalanan nang pinal. Hindi ito nangangahulugang ang bawat miyembro ay walang pagkakamali. Nangangahulugang ang katotohanang ipinagkatiwala ni Kristo sa Kanyang Simbahan ay hindi maaaring sirain.</p>
-                <h2>Konklusyon: maniwala at sumunod</h2>
-                <p>Ang salita ng mga propeta ay mula sa Diyos. Sinaksihan ito ng mga apostol. Kailangan nating basahin ang lahat — kasama na ang sinasabi nito tungkol sa oral na tradisyon, tungkol sa kung sino ang nagpapaliwanag nito, at tungkol sa Simbahang itinatag ni Kristo. At kailangan nating gawin ang sinasabi ng Diyos — iyon ang pananampalataya. Hindi ang lahat ng nagsasabi ng "Panginoon, Panginoon" ang maliligtas, kundi ang gumagawa ng kalooban ng Ama (Mt 7:21). Ang Bibliya, babasahin nang buo at nang tapat, ay nagtuturo sa parehong Simbahang itinatag ni Hesus. Ang maniwala ay ang magtiwala kay Hesukristo kahit ang karanasan ng tao ay nagsasabi ng kabaligtaran, tulad ng ginawa ni Pedro sa lawa. At ang kilos ng tiwala na iyon ay nagbabago ng lahat.</p>`,
+                <p>Iniingatan ng pangakong iyon ang Magisterio, ang opisyal na turo ng Simbahan, upang hindi ito magturo ng kamalian nang tiyakan. Hindi ito nangangahulugang walang kapintasan ang bawat kasapi. Nangangahulugan itong hindi maaaring wasakin ang katotohanang ipinagkatiwala ni Cristo sa kanyang Simbahan: sa Griyego, ang πύλαι ᾅδου, ang kapangyarihan ng kamatayan at ng libingan, ay hindi makagagapi rito.</p>
+                <h2>Pangwakas: maniwala at tumupad<br>Mateo 7:21</h2>
+                <p>Ang salita ng mga propeta ay mula sa Diyos. Pinatotohanan ito ng mga apostol. Kapag binasa nang buo, nagsasalita rin ito tungkol sa Tradisyong pasalita, sa kung sino ang nagpapaliwanag, at sa Simbahang itinatag ni Cristo. At ang pananampalataya ay ang paggawa ng sinasabi ng Diyos:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mateo 7:21</span>
+                    <blockquote>«Hindi lahat ng tumatawag sa akin ng «Panginoon, Panginoon» ay papasok sa kaharian ng langit, kundi <strong class="s-hi">ang mga sumusunod sa kalooban ng aking Ama</strong> na nasa langit.»</blockquote>
+                </div>
+                <p>Ang maniwala ay ang magtiwala kay Jesucristo kahit sinasabi ng karanasan ng tao ang kabaligtaran, gaya ng ginawa ni Pedro sa lawa. Ang Biblia, kapag binasa nang buo, ay tumuturo sa Simbahang itinatag ni Jesus.</p>`,
       nav: {
         prevTitle: "Ang Banal na Santatlo",
         nextTitle: "Ang Pangunguna ni Pedro"
@@ -932,76 +1074,119 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
                 <span class="eyebrow-text">Espesyal na Paksa</span>
             </div>
             <h1>Ang Pagkasaserdote sa Simbahang Katoliko</h1>
-            <p>Mayroon bang naitalaga at inorden na pagkasaserdoteng ministeryo sa Bagong Tipan? Sumasagot ang Bibliya — at ang sagot ay walang duda.</p>
+            <p>May inordenang pagkapari ba sa Bagong Tipan? Ang sagot ng Biblia ay oo: mga inordenang matanda, pagkumpisal, dambana at handog.</p>
             <div class="article-meta">
                 <span>11 minutong pagbabasa</span>
                 <span>Nailathala Mayo 2026</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
-      article: `<p>May isang tanong na hindi masasagot ng Protestantismo. Sinabi ni Hesus: <em>"Tanggapin ninyo ang Espiritu Santo. Ang mga kasalanang inyong ipatatawad ay ipatatawad; ang mga kasalanang hindi ninyo ipatatawad ay hindi ipatatawad"</em> (Jn 20:22-23). Kanino Siya nagsalita? At paano mo maitataboy ang mga kasalanan ng isang tao kung hindi mo alam kung ano ang mga ito? Hindi mo magagawa. Ang talatang ito ay nangangailangan na sabihin ng nagkasala ang kanyang mga kasalanan — na nangangailangan ng isang pari na may kapangyarihang magpatawad. Pag-aralan natin ito hakbang-hakbang.</p>
-                <h2>Isang taong kinuha mula sa mga tao<br>Mga Hebreo 5:1-2</h2>
-                <p>Malinaw ang Liham sa mga Hebreo mula sa simula:</p>
+      article: `<p>Ibinigay ni Jesus sa mga apostol ang kapangyarihang magpatawad ng mga kasalanan at gayundin ang hindi magpatawad (Juan 20:23). Paano mo hindi patatawarin ang kasalanan ng isang tao kung hindi mo alam kung ano ang mga iyon? Kailangan nito ang pagkumpisal. Kailangan nito ang isang pari na may kapangyarihang magpatawad.</p>
+                <p>Maraming sektang Protestante ang nanghahawak sa erehiyang walang inordenang pagkapari. Halos sa parehong mga salita ito sinasabi ng mga Adventista at ng mga Baptist: <em>«Lahat ng mananampalataya ay pari; hindi kailangan ng sinumang tagapamagitan.»</em> At sinisipi nila para rito ang 1 Pedro 2:9. Totoo ang talatang iyon at nasa Biblia ito. Naroon din ang iba pang mga talata, at nagsasalita ang mga ito tungkol sa ikalawang pagkapari na hindi maaaring kunin ninuman para sa sarili.</p>
+                <h2>Isang taong pinili mula sa mga tao<br>Mga Hebreo 5:1-2</h2>
+                <p>Malinaw ang Sulat sa mga Hebreo mula pa sa simula:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Mga Hebreo 5:1-2</span>
                     <blockquote>«<strong class="s-hi">Ang bawat punong saserdote ay kinukuha mula sa mga tao</strong> at itinatalaga para sa mga tao sa mga bagay na may kaugnayan sa Diyos, upang mag-alay ng mga handog at hain para sa mga kasalanan. Kaya naman, kaya niyang makiramay sa mga walang alam at naliligaw, dahil siya mismo ay napailalim sa kahinaan.»</blockquote>
                 </div>
-                <p>Ang pari ay wala sa itaas ng kondisyon ng tao. Ibinabahagi niya ang parehong mga pagsubok, tukso, at kahinaan ng sinumang mananampalataya. Ito ang pundasyon ng pastoral na pakikiramay: walang makapagsamahan nang tunay sa iba sa kung ano ang hindi niya naranasan. Ang pari ay maaaring makiramay dahil siya rin ay napailalim sa kahinaan.</p>
+                <p>Hindi nakatataas ang pari sa kalagayan ng tao. Dinaranas niya ang parehong mga pakikibaka, tukso at kahinaan ng sinumang mananampalataya. Ito ang saligan ng malasakit ng pastol: walang makasasama sa kapwa sa bagay na hindi niya alam. Nakapagmamalasakit ang pari dahil siya man ay nakikibaka.</p>
                 <h2>Banal dahil sa Diyos, hindi dahil sa sariling merito<br>Levitico 21:6-8</h2>
-                <p>Sa Levitico, iniutos ng Diyos na ang mga pari ay dapat ituring na banal. Ngunit ang kabanalan na hinihingi sa kanila ay hindi ganap na moral na pagiging perpekto — ito ay konsagrasyon: sila ay inilayo para sa Diyos at sa Kanyang serbisyo:</p>
+                <p>Sa Levitico, itinakda ng Diyos na ituring na banal ang mga pari. Ang kabanalang hinihingi sa kanila ay hindi ganap na kasakdalang moral, kundi pagtatalaga: ibinukod sila para sa Diyos at sa kanyang paglilingkod:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Levitico 21:6-8</span>
                     <blockquote>«Sila ay magiging banal sa kanilang Diyos at hindi nila lapastanganin ang pangalan ng kanilang Diyos... <strong class="s-hi">Ituring mo siyang banal, sapagkat Ako, ang Panginoon na nagpapabanal sa inyo, ay banal.</strong>»</blockquote>
                 </div>
-                <p>Ang mga tao ay dapat ituring na banal ang pari hindi dahil sa kanyang sariling merito, kundi dahil sa Diyos. Ang kabanalan ng ministeryo ay nagmumula sa Kanya na nagtatag nito. Pinalaya tayo nito mula sa isang maling inaasahan: ang ating pananampalataya ay nakasalalay sa katapatan ng Diyos, hindi sa personal na kabutihan ng ministro.</p>
-                <h2>"Lahat tayo'y mga saserdote" — ang pagtutol at ang hangganan nito<br>1 Pedro 2:9 at Mga Hebreo 5:4</h2>
-                <p>Malinaw ang sinabi ni Pedro:</p>
+                <p>Hindi sinasabing «magiging banal siya dahil karapat-dapat siya»: sinasabing <em>sapagkat banal ako, ang Panginoong nagpapabanal sa inyo</em>. Iniuutos sa bayan na ituring siyang banal dahil sa Diyos, hindi dahil sa merito ng tao. Ang pananampalataya ay hindi nakasandig sa kabutihan ng ministro, kundi sa katapatan ng Diyos.</p>
+                <h2>«Lahat tayo ay pari»: ang pagtutol at ang hangganan nito<br>1 Pedro 2:9 at Mga Hebreo 5:4</h2>
+                <p>Malinaw itong sinasabi ni San Pedro:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Pedro 2:9</span>
                     <blockquote>«<strong class="s-hi">Kayo ay isang piniling lahi, isang hari at banal na pagkasaserdote, isang banal na bansa</strong>, isang bayang pag-aari ng Diyos, upang inyong ipahayag ang mga kahanga-hangang gawa ng Kanya na tumawag sa inyo mula sa kadiliman patungo sa Kanyang kamangha-manghang liwanag.»</blockquote>
                 </div>
-                <p>Ang pagkasaserdote sa binyag ay tunay. Walang tumatalikod dito. Ngunit may dalawang pagkasaserdote sa Bagong Tipan, hindi isa. Ang parehong Liham sa mga Hebreo ay malinaw na nagtatangi sa kanila:</p>
+                <p>Totoo ang pagkaparing natatanggap sa binyag. Walang tumatanggi rito. Ngunit sa Bagong Tipan ay dalawa ang pagkapari, hindi isa, at ang Sulat ding iyon sa mga Hebreo ang tiyak na nagbubukod sa dalawa:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Mga Hebreo 5:4</span>
                     <blockquote>«<strong class="s-hi">Walang sinumang tumatanggap ng karangalang ito para sa kanyang sarili, kundi ang tinatawag ng Diyos, tulad ni Aaron.</strong>»</blockquote>
                 </div>
-                <p>May pagkasaserdoteng tinatanggap sa binyag, at may isa pang nangangailangan ng tiyak na tawag at konsagrasyon. Hindi ito isang huling naimbentong bagay. Nang si Kora at ang kanyang kawan ay nagtaltalan na "ang buong komunidad ay banal, bawat isa sa kanila" (Bil 16:3) — na inaangkin ang ministeryal na pagkasaserdote nang walang bokasyon — binuksan ng Diyos ang lupa at nilamon sila. At nasa Bagong Tipan:</p>
+                <p>May pagkaparing tinatanggap sa binyag, at may isa pang nangangailangan ng tiyak na pagtawag at pagtatalaga. Hindi ito imbento ng mga huling panahon. Ginamit na nina Core at ng kanyang mga kasama ang parehong katwiran laban kina Moises at Aaron:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mga Bilang 16:3</span>
+                    <blockquote>«Nagtipon sila laban kina Moises at Aaron at sinabi sa kanila: «Sobra na kayo! <strong class="s-hi">Banal ang buong sambayanan, ang bawat isa sa kanila, at nasa gitna nila si Yahweh.</strong> Bakit kayo nagmamataas sa kapulungan ni Yahweh?»»</blockquote>
+                </div>
+                <p>Inangkin nila ang pagkapari ng paglilingkod nang hindi tinatawag, at tumugon ang Diyos sa pamamagitan ng pagbubukas ng lupa sa ilalim ng kanilang mga paa. Sa Bagong Tipan, naghirang ang mga apostol ng matatanda:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Mga Gawa 14:23</span>
                     <blockquote>«<strong class="s-hi">Nag-atas sila ng mga elder sa bawat iglesia</strong>, at matapos manalangin nang may pag-aayuno, ipinagkatiwala nila sila sa Panginoon na kanilang pinaniwalaan.»</blockquote>
                 </div>
-                <p>Inutusan ni Pablo si Tito: <em>"Iniwan kita sa Creta upang ayusin ang mga bagay na hindi pa natapos at upang <strong>mag-atas ng mga elder sa bawat bayan</strong>"</em> (Tit 1:5). Pinaalalahanan niya si Timoteo: <em>"Huwag mong pabayaan ang kaloob na nasa iyo, na ibinigay sa iyo sa pamamagitan ng hula nang <strong>ipatong ng lupon ng mga elder ang kanilang mga kamay</strong> sa iyo"</em> (1 Tim 4:14). Ito ay istraktura, hindi metapor.</p>
-                <h2>"Huwag tawaging ama ang sinuman" — isang sagot mula sa Bibliya<br>Mateo 23:9</h2>
-                <p>Sinabi ni Hesus sa Mateo 23:9: <em>"<strong>At huwag ninyong tawaging ama ang sinuman sa lupa</strong>, sapagkat iisa ang inyong Ama, ang nasa langit."</em> Ang gumagamit ng talatang ito laban sa Katolikong pagkasaserdote ay may problema: sinasalungat ng parehong Bibliya ito sa ilang talata.</p>
-                <p>Tinatawag ni Pablo ang kanyang sarili na ama: <em>"Sapagkat kahit mayroon kayong sampung libong guro kay Kristo, wala kayong maraming ama; <strong>sapagkat naging ama ninyo ako kay Kristo Hesus sa pamamagitan ng Ebanghelyo</strong>"</em> (1 Cor 4:15). Si Esteban, sa harap ng mga magbabato sa kanya, ay tumawag sa kanila: <em>"<strong>Mga kapatid at mga ama</strong>, pakinggan ninyo ako"</em> (Gawa 7:2). Si Abraham ay paulit-ulit na tinatawag na "ama ng mga tuli" (Roma 4:12). Si Hesus Mismo ay nagsasalita tungkol sa ama ng bawat isa (Mt 7:11; Lk 15:11-32).</p>
-                <p>Hindi ipinagbabawal ng Mateo 23:9 ang gramatikong paggamit ng salita. Ipinagbabawal nito ang pagsamba sa awtoridad ng tao — ang paglalagay ng isang tao sa lugar ng Diyos. Pinatutunayan ito ng konteksto: nagsasalita si Hesus laban sa mga escriba at Pariseo na naghahanap ng mga karangalan at titulo para sa kanilang sarili.</p>
-                <h2>Ang kapatawaran ng mga kasalanan — Juan 20:22-23</h2>
-                <p>Bumalik tayo sa simula. Ang muling nabuhay na Hesus ay nagpakita sa mga apostol, huminga sa kanila — ang parehong galaw tulad sa Genesis 2:7 nang huminga Siya ng buhay sa tao — at nagsabi:</p>
+                <p>Ganito rin ang iniutos ni Pablo kay Tito:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Tito 1:5</span>
+                    <blockquote>«Iniwan kita sa Creta upang ayusin mo ang mga bagay na dapat pang ayusin at <strong class="s-hi">humirang ka ng matatanda sa bawat bayan</strong> ayon sa aking tagubilin sa iyo.»</blockquote>
+                </div>
+                <p>At ipinaaalala niya kay Timoteo kung paano niya tinanggap ang kaloob:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Timoteo 4:14</span>
+                    <blockquote>«Huwag mong pabayaan ang kaloob na nasa iyo, na ibinigay sa iyo sa pamamagitan ng propesiya <strong class="s-hi">nang ipatong sa iyo ng matatanda ng iglesya ang kanilang mga kamay</strong>.»</blockquote>
+                </div>
+                <p>Ang kapulungan ng matatanda: isang itinatag na lupon, may mga kamay na ipinapatong at kaloob na ipinapasa. Ito ay kaayusan, hindi talinghaga.</p>
+                <h2>Ang mga Saksi ni Jehova: maharlikang pagkasaserdote para sa halos walang sinuman<br>1 Pedro 2:9</h2>
+                <p>Hindi ginagamit ng mga Saksi ni Jehova ang pagtutol na ito, at ang dahilan ay lalo pa silang inilalagay sa alanganin. Para sa kanila, hindi tungkol sa lahat ng mananampalataya ang 1 Pedro 2:9. Ganito ito ipinaliliwanag ng Ang Bantayan: <em>«Sumulat si Pedro sa mga pinahirang Kristiyano»</em>, at ang mga pinahirang iyon ay ang 144,000: <em>«Ang mga haring ito, kasama ni Kristo, ang bubuo sa maharlikang pagkasaserdote na maglilingkod sa kapakinabangan ng sangkatauhan»</em> (Ang Bantayan, Enero 15, 2012). Halos lahat ng kanilang tagasunod ay naiiwan sa labas ng anumang pagkapari, sa binyag man o sa ordenasyon. Sumulat si Pedro sa buong Simbahan.</p>
+                <h2>«Huwag ninyong tawaging ama ang sinuman»: ang sagot ng Biblia<br>Mateo 23:9</h2>
+                <p>Isinusulat ito ng mga Saksi ni Jehova: <em>«Ipinagbawal ni Jesus ang pagkakapit ng katawagang “ama” sa mga tao bilang isang pormalistiko o relihiyosong titulo»</em> (Kaunawaan sa Kasulatan, «Ama»). Sumasandig sila sa talatang ito:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mateo 23:9</span>
+                    <blockquote>«<strong class="s-hi">At huwag ninyong tawaging ama ang sinuman dito sa lupa</strong>, sapagkat iisa ang inyong Ama, ang nasa langit.»</blockquote>
+                </div>
+                <p>May problema ang gumagamit ng talatang ito laban sa pagkaparing Katoliko: sinasalungat siya ng Biblia rin sa maraming bahagi. Tinatawag ni San Pablo ang sarili na ama:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Corinto 4:15</span>
+                    <blockquote>«Sapagkat kahit na magkaroon kayo ng sampung libong tagapagturo kay Cristo, hindi marami ang inyong ama. <strong class="s-hi">Ako ang naging ama ninyo kay Cristo Jesus</strong> sa pamamagitan ng Mabuting Balita.»</blockquote>
+                </div>
+                <p>Si Esteban, sa harap ng mga babato sa kanya, ay ganito sila tinawag:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mga Gawa 7:2</span>
+                    <blockquote>«Sumagot si Esteban: «<strong class="s-hi">Mga kapatid at mga ama</strong>, pakinggan ninyo ako. Ang Diyos ng kaluwalhatian ay nagpakita sa <strong class="s-hi">ating amang si Abraham</strong> noong siya'y nasa Mesopotamia pa, bago siya nanirahan sa Haran.»»</blockquote>
+                </div>
+                <p>At dalawang ulit na tinawag ni Pablo na ama si Abraham sa iisang talata:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Roma 4:12</span>
+                    <blockquote>«Siya rin ang <strong class="s-hi">ama ng mga tuli</strong>, hindi lamang dahil sila'y tuli, kundi dahil sumusunod sila sa halimbawa ng pananampalatayang taglay ng <strong class="s-hi">ating amang si Abraham</strong> bago pa siya tinuli.»</blockquote>
+                </div>
+                <p>Si Jesus mismo ay nagsasalita tungkol sa ama ng bawat isa (Mateo 7:11; Lucas 15:11-32).</p>
+                <p>Hindi ipinagbabawal ng Mateo 23:9 ang paggamit sa salita ayon sa balarila: ipinagbabawal nito ang pagsamba sa kapangyarihan ng tao, ang paglalagay sa isang tao sa lugar ng Diyos. Sinasabi ito ng konteksto: nagsasalita si Jesus laban sa mga Pariseong naghahanap ng parangal at titulo para sa sarili.</p>
+                <h2>Ang kapatawaran ng mga kasalanan<br>Juan 20:22-23</h2>
+                <p>Nagpakita ang muling nabuhay na si Jesus sa mga apostol at hiningahan sila. Iyon din ang kilos sa Genesis:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Genesis 2:7</span>
+                    <blockquote>«Nilikha ng Panginoong Diyos ang tao mula sa alabok ng lupa at <strong class="s-hi">hiningahan niya ang ilong nito ng hiningang nagbibigay-buhay</strong>, at ang tao ay naging isang buháy na nilalang.»</blockquote>
+                </div>
+                <p>Ngayon, si Cristo ang humihinga:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Juan 20:22-23</span>
-                    <blockquote>«Tanggapin ninyo ang Espiritu Santo. <strong class="s-hi">Ang mga kasalanang inyong ipatatawad ay ipatatawad; ang mga kasalanang hindi ninyo ipatatawad ay hindi ipatatawad.</strong>»</blockquote>
+                    <blockquote>«Pagkasabi nito, hiningahan niya sila at sinabi: «<strong class="s-hi">Tanggapin ninyo ang Espiritu Santo. Ang patawarin ninyo sa kanilang mga kasalanan ay pinatatawad na; ang hindi ninyo patawarin ay hindi pinatatawad.</strong>»»</blockquote>
                 </div>
-                <p>Paano mo maitataboy ang mga kasalanan ng isang tao kung hindi mo alam kung ano ang mga ito? Hindi mo magagawa. Ang talatang ito ay nangangailangan na ipahayag ng nagkasala ang kanyang mga kasalanan. Iyon ang sakramental na kumpisal, itinayo ni Kristo Mismo sa pamamagitan ng Kanyang sariling hininga.</p>
-                <h2>Ang altar at ang sakripisyo sa Bagong Tipan<br>Mga Hebreo 13:10 at Malakias 1:11</h2>
-                <p>Kung walang pagkasaserdote at walang sakripisyo sa Bagong Tipan, bakit sinasabi ng Liham sa mga Hebreo ito?</p>
+                <p>Ang hindi binabanggit ninuman ay ang ikalawang bahagi: <em>ang hindi patawarin</em>. Paano mo hindi patatawarin ang kasalanan ng isang tao kung hindi mo alam kung ano ang mga iyon? Hindi maaari. Hinihingi ng talatang ito na ipahayag ng nagsisisi ang kanyang mga kasalanan, sapagkat kung hindi naririnig ang mga iyon ay walang mapatatawad o mapananatili. Iyan ang sakramental na pagkumpisal, itinatag mismo ni Cristo.</p>
+                <p>Kalahati lamang ang kinukuha ng mga Saksi ni Jehova. Inuutusan nila ang kanilang mga kasapi na ipagtapat ang malulubhang kasalanan sa matatanda ng kongregasyon, at inaamin nila: <em>«Oo, walang karapatan ang sinuman, maging ang ‘matatandang lalaking’ ito, na magpatawad ng kasalanan ng kanilang kapuwa laban sa Diyos»</em> (Ang Bantayan, Setyembre 1, 2010). Nasa kanila ang pagtatapat at wala ang kapatawaran. Ibinigay ni Cristo ang dalawa nang magkasama.</p>
+                <h2>Ang dambana at ang handog sa Bagong Tipan<br>Mga Hebreo 13:10 at Malakias 1:11</h2>
+                <p>Kung walang pagkapari ni handog sa Bagong Tipan, bakit ito sinasabi ng Sulat sa mga Hebreo?</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Mga Hebreo 13:10</span>
                     <blockquote>«<strong class="s-hi">Mayroon tayong altar</strong> na wala sa mga naglilingkod sa tabernakulo ang may karapatang kumain.»</blockquote>
                 </div>
-                <p>At ang propetang Malakias, ilang siglo bago si Kristo, ay nagpahayag:</p>
+                <p>At ipinahayag ng propetang si Malakias, ilang siglo bago si Cristo:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Malakias 1:11</span>
                     <blockquote>«Sapagkat mula sa pagsikat ng araw hanggang sa paglubog nito, dakila ang aking pangalan sa mga bansa, at <strong class="s-hi">sa bawat lugar ay inaalay ang insenso sa aking pangalan, at isang dalisay na handog</strong>, sapagkat dakila ang aking pangalan sa mga bansa, sabi ng Panginoon ng mga hukbo.»</blockquote>
                 </div>
-                <p>Isang dalisay na handog sa bawat lugar sa lupa. Kinikilala ng mga Ama ng unang mga siglo ang Eukaristiya bilang katuparan ng hulang ito — ang tanging sakripisyo na nagtupad ng hula.</p>
-                <h2>Ano ang itinuturo ng Kasulatan</h2>
+                <p>Isang handog at isang malinis na alay, sa bawat dako ng lupa, na ipinahayag ng isang propeta noong ang tanging lehitimong dambana ay nasa Jerusalem. Nakilala rito ng mga Ama ng mga unang siglo ang Eukaristiya, ang tanging handog na tumutupad sa propesiyang iyon. At kung may handog, may naghahandog nito.</p>
+                <h2>Ang sinasabi ng Kasulatan</h2>
                 <ul>
-                    <li>Ang pari ay isang tao tulad ng lahat, na maaaring makipaglaban at mabigo.</li>
-                    <li>Ang kanyang awtoridad at kabanalan ay nagmumula sa Diyos, hindi sa kanyang sariling merito.</li>
+                    <li>Ang pari ay taong tulad ng lahat, na maaaring makibaka at magkamali.</li>
+                    <li>Ang kanyang kapangyarihan at kabanalan ay mula sa Diyos, hindi sa kanyang sariling merito.</li>
                     <li>Ang bisa ng mga sakramento ay hindi nakasalalay sa personal na kabanalan ng ministro.</li>
-                    <li>Ang inorden na ministeryal na pagkasaserdote ay nasa Bagong Tipan: Gawa 14:23, Tito 1:5, 1 Tim 4:14.</li>
-                    <li>Ang sakramental na kumpisal ay itinayo ni Kristo sa Juan 20:22-23.</li>
+                    <li>Nasa Bagong Tipan ang inordenang pagkapari ng paglilingkod: Mga Gawa 14:23, Tito 1:5, 1 Timoteo 4:14.</li>
+                    <li>Ang sakramental na kapatawaran ay itinatag ni Cristo sa Juan 20:22-23.</li>
                 </ul>
-                <p>Basahin ang buong Bibliya — hindi mga hiwalay na talata — at makikita mo ang inorden na pagkasaserdote, kumpisal, sakripisyo, at altar. Ang tanong ay hindi kung nasa Bibliya ito. Nandoon. Ang tanong ay kung handa kang basahin ang lahat.</p>`,
+                <p>Kung babasahin ang buong Biblia, at hindi mga hiwa-hiwalay na bahagi, matatagpuan ang inordenang pagkapari, pagkumpisal, handog at dambana. Lahat ay nasa Biblia.</p>`,
       nav: {
         prevTitle: "Transubstansiasyon: ang Misteryo ng Eukaristiya",
         nextTitle: "Ang mga Santo at ang Kanilang Pamamagitan"

@@ -23,7 +23,7 @@ window.FYRVideo = window.FYRVideo || {
 //                      Para marcar un nuevo idioma como completo, agregar su código:
 //                      completedLangs: ['es', 'en']
 const ARTICLES = {
-  'sacerdocio':            { videos: ['sacerdote01','procesion01'], prev: 'transubstanciacion', next: 'los-santos' },
+  'sacerdocio':            { videos: ['conf04','sacerdote02'], prev: 'transubstanciacion', next: 'los-santos' },
   'por-que-creemos':       { videos: ['oracion01','conf01'],             prev: 'la-santisima-trinidad',           next: 'la-primacia-de-pedro' },
   'la-eucaristia':         { videos: ['calis01','ofertorio01'],               prev: 'la-primacia-de-pedro',      next: 'transubstanciacion' },
   'transubstanciacion':    { videos: ['custodia01','altar01'],                        prev: 'la-eucaristia',        next: 'sacerdocio' },
