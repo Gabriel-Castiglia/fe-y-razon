@@ -209,7 +209,12 @@ const translationsLA = {
                     <span class="scripture-ref">✝︎ Ecclesiastes 12, 7</span>
                     <blockquote>«et revertatur pulvis in terram suam, unde erat, et <strong class="s-hi">spiritus redeat ad Deum</strong>, qui dedit illum.»</blockquote>
                 </div>
-                <p>Corpus in terram redit et spiritus ad Deum. Verbum Hebraicum est <em>ruah</em>, quod et flatus vertitur; utroque modo, quod ad Deum redit id est quod ipse dedit. Sententia Ecclesiastis 9, 5 quam Adventistae afferunt versu sequenti perficitur: mortui <em>«nec habent partem in saeculo et in omni opere, quod sub sole geritur»</em> (Eccl 9, 6). Nihil sciunt de iis quae in hoc mundo fiunt. Hoc non dicit eos esse desiisse.</p>
+                <p>Corpus in terram redit et spiritus ad Deum. Verbum Hebraicum est <em>ruah</em>, quod et flatus vertitur; utroque modo, quod ad Deum redit id est quod ipse dedit. Sententia Ecclesiastis 9, 5 quam Adventistae afferunt versu sequenti perficitur:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ecclesiastes 9, 6</span>
+                    <blockquote>«Amor quoque eorum et odium et invidiae simul perierunt, <strong class="s-hi">nec iam habent partem in hoc saeculo et in opere, quod sub sole geritur</strong>.»</blockquote>
+                </div>
+                <p>Nihil sciunt de iis quae in hoc mundo fiunt. Hoc non dicit eos esse desiisse.</p>
                 <p>Et ad Deum rediens spiritus mundus esse debet, quia quod peccato maculatum est coram eo stare non potest. Ad hoc est purgatorium.</p>
                 <ul>
                     <li>Iesus loquitur de debito usque ad finem soluto et de carcere ex quo exitur.</li>
@@ -238,63 +243,64 @@ const translationsLA = {
                 <span>Editus Maio MMXXVI</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
-      article: `<p>Estne Eucharistia symbolum an vera? Responsio est in Ioanne VI. Nullus textus clarior, directior aut magis provocans in toto Evangelio de hac re exstat. Et Iesus non cedit. Sed Ioannes VI non est unicus testis: Paulus independenter id confirmat, et primi discipuli apostolorum id sine ambiguitate intellexerunt. Tres lineae testimoniorum. Nulla ex eis responsionem habet in interpretatione symbolica.</p>
+      article: `<p>Plures sectae protestantes haeresim tenent Eucharistiam esse signum tantum. Baptistae, Pentecostales «Assemblies of God», Adventistae et Testes Iehovae id in suis confessionibus fidei scriptum habent, et omnes eodem modo respondent cum ea memoratur: <em>«Signum tantum est.»</em> Estne Eucharistia signum an res vera? Responsio est in sancto Ioanne 6. Nullus textus clarior, directior aut gravior in toto Evangelio de hac re exstat. Et Iesus non cedit. Sed Ioannes 6 non est unicus testis: Paulus id independenter confirmat, et primi discipuli apostolorum sine ambiguitate intellexerunt. Tres sunt lineae probationis. Nulla in interpretatione symbolica responsionem habet.</p>
                 <h2>Ego sum panis vitae<br>Io 6, 47-51</h2>
-                <p>Iesus non dicit «repraesentare se panem vitae» nec «similem esse pani vitae». Dicit:</p>
+                <p>Iesus non dicit «panem vitae repraesento» neque «sum sicut panis vitae». Dicit:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Io 6, 47-51</span>
                     <blockquote>«Amen amen dico vobis, qui credit in me habet vitam aeternam. <strong class="s-hi">Ego sum panis vitae.</strong> Patres vestri manducaverunt in deserto manna et mortui sunt. Hic est panis de caelo descendens ut si quis ex ipso manducaverit non moriatur. Ego sum panis vivus qui de caelo descendi. Si quis manducaverit ex hoc pane vivet in aeternum; et <strong class="s-hi">panis quem ego dabo caro mea est</strong> pro mundi vita.»</blockquote>
                 </div>
-                <p>Verbum «sum» non indicat repraesentationem: indicat identitatem. Et quod sequitur nullum locum interpretationibus symbolicis relinquit:</p>
+                <p>Verbum «sum» non repraesentationem significat: identitatem significat. Et quod sequitur interpretationibus symbolicis locum non relinquit:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Io 6, 53-55</span>
                     <blockquote>«Amen amen dico vobis: <strong class="s-hi">nisi manducaveritis carnem Filii hominis et biberitis eius sanguinem, non habebitis vitam in vobismetipsis.</strong> Qui manducat meam carnem et bibit meum sanguinem habet vitam aeternam, et ego resuscitabo eum in novissimo die. <strong class="s-hi">Caro enim mea vere est cibus et sanguis meus vere est potus.</strong>»</blockquote>
                 </div>
-                <p>Non dicit «nisi recordemini» nec «nisi contemplemini». Dicit <em>manducare</em> et <em>bibere</em>. Et repetit diversis verbis ne ulla dubitatio relinquatur: <em>vere cibus</em> et <em>vere potus</em>. Adverbium «vere» expresse excludit symbolicum.</p>
-                <h2>Obiectio de metaphora<br>Io 15, 1</h2>
-                <p>Responsio solita est: «Est metaphora, sicut cum dicit "Ego sum vitis" vel "Ego sum ostium".» Ad Scripturam redeundum est. Quando Iesus dixit <em>«Ego sum vitis vera»</em> (Io 15, 1), nemo abiit. Quando dixit «manducate carnem meam», multi abierunt. Differentia est decisiva:</p>
+                <p>Non dicit «nisi memineritis» neque «nisi contemplati fueritis». Dicit <em>manducare</em> et <em>bibere</em>. Et aliis verbis repetit ne confusio sit: <em>verus cibus</em> et <em>verus potus</em>. Adiectivum «verus» expresse symbolicum excludit.</p>
+                <h2>Obiectio metaphorae<br>Io 15, 1</h2>
+                <p>Responsio usitata est: «Metaphora est, sicut cum dicit "Ego sum vitis" aut "Ego sum ostium".» Cum Iesus hoc dixit, nemo abiit:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Io 15, 1</span>
+                    <blockquote>«<strong class="s-hi">Ego sum vitis vera</strong>, et Pater meus agricola est.»</blockquote>
+                </div>
+                <p>Cum dixit «manducate carnem meam», multi abierunt. Differentia decretoria est:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Io 6, 60</span>
                     <blockquote>«Multi ergo audientes ex discipulis eius dixerunt: <strong class="s-hi">Durus est hic sermo; quis potest eum audire?</strong>»</blockquote>
                 </div>
-                <p>Iesus eos non corrigit dicens «male intellexistis, metaphora erat». Eos abire sinit. Hoc est fortissimum argumentum: si symbolicum esset, bonus pastor eos retinuisset per explicationem. Non facit.</p>
-                <h2>Divisio oritur<br>Io 6, 66-67</h2>
+                <p>Iesus eos non corrigit dicens «male intellexistis, metaphora erat». Eos abire sinit. Haec est probatio fortissima: si symbolicum esset, bonus pastor eos explicatione retinuisset. Non facit. Et de re certa queruntur: non dicunt difficile esse ad intellegendum, dicunt durum esse ad audiendum. Perfecte intellexerant.</p>
+                <h2>Hoc divisionem gignit<br>Io 6, 66-67</h2>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Io 6, 66-67</span>
                     <blockquote>«Ex hoc multi discipulorum eius abierunt retro et iam non cum illo ambulabant. Dixit ergo Iesus ad Duodecim: <strong class="s-hi">Numquid et vos vultis abire?</strong>»</blockquote>
                 </div>
-                <p>Non cedit. Non mitigat. Non de significatione negotiatur. Iesus est bonus pastor qui nullam ovem amitteret propter malum intellectum — sed in hoc immobilis est.</p>
-                <h2>Alia interpretatio non datur<br>Io 6, 68</h2>
+                <p>Non cedit. Non mollit. De sensu non paciscitur. Iesus est bonus pastor qui nullam ovem propter errorem perire sineret, sed in hac re inflexibilis est.</p>
+                <h2>Nulla alia interpretatio fieri potest<br>Io 6, 68</h2>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Io 6, 68</span>
                     <blockquote>«Respondit ei Simon Petrus: <strong class="s-hi">Domine, ad quem ibimus? Verba vitae aeternae habes.</strong>»</blockquote>
                 </div>
-                <p>Petrus non dicit se omnia intellegere. Dicit se fidere. Haec est fides: non omnes responsiones habere, sed scire in Quem credas.</p>
-                <ul>
-                    <li>«Ego sum» — non repraesentat, sed est.</li>
-                    <li>«Vere cibus, vere potus» — non symbolicum.</li>
-                    <li>Iesus eos non corrigit qui ad litteram intellexerunt: eos abire sinit.</li>
-                    <li>Petrus non plene intelligit, sed fidit. Haec est fides.</li>
-                </ul>
-                <h2>Paulus confirmat — testis independens<br>1 Cor 10, 16 et 11, 27-29</h2>
-                <p>Paulus primam epistulam ad Corinthios scribit antequam Evangelium Ioannis redigeretur. Duo testes prorsus independentes. Paulus dicit:</p>
+                <p>Petrus non dicit se omnia intellegere. Dicit se confidere. Haec est fides: non omnes responsiones habere, sed scire Cui credatur.</p>
+                <h2>Paulus confirmat: testis independens<br>1 Cor 10, 16 et 11, 27-29</h2>
+                <p>Paulus primam epistulam ad Corinthios scribit antequam Evangelium Ioannis conscriberetur. Duo testes omnino independentes sunt. Paulus dicit:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Cor 10, 16</span>
                     <blockquote>«<strong class="s-hi">Calix benedictionis cui benedicimus nonne communicatio sanguinis Christi est? Et panis quem frangimus nonne participatio corporis Domini est?</strong>»</blockquote>
                 </div>
-                <p>Non dicit «memoria». Dicit <em>communicatio</em> — participatio realis, contactus effectivus. Et deinde:</p>
+                <p>Non dicit «memoria». Dicit <em>communicatio</em>: participatio vera, contactus efficax. Et deinde:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Cor 11, 27-29</span>
                     <blockquote>«<strong class="s-hi">Itaque quicumque manducaverit panem hunc vel biberit calicem Domini indigne, reus erit corporis et sanguinis Domini.</strong> Probet autem seipsum homo, et sic de pane illo edat et de calice bibat. Qui enim manducat et bibit <strong class="s-hi">indigne, iudicium sibi manducat et bibit, non diiudicans corpus Domini.</strong>»</blockquote>
                 </div>
-                <p>Verbum graecum ἔνοχος — reus — culpabilitatem de crimine reali implicat. Reus esse non potes de crimine adversus symbolum. Paulus etiam dicit «non diiudicans corpus». Si panis tantum esset, quod Corpus diiudicandum esset?</p>
-                <h2>Primi christiani — testes ab apostolis formati</h2>
-                <p>Ignatius Antiochenus discipulus directus erat apostoli Ioannis. Martyr occubuit circa annum CVII p.Chr. Scripsit in Epistula ad Smyrnaeos:</p>
+                <p>Decretorium est coram quo respondeatur. Non fit quis reus panis aut calicis: fit reus <em>corporis et sanguinis Domini</em>. Graecum quod subest est ἔνοχος, vocabulum eius qui iudicio obnoxius est, qui coram tribunali respondere debet; nemo coram tribunali respondet quod signum male tractaverit. Paulus insuper dicit: «non diiudicans corpus». Si panis tantum esset, quod corpus diiudicandum esset?</p>
+                <h2>Primi christiani: testes ab apostolis formati</h2>
+                <p>Ignatius Antiochenus discipulus directus apostoli Ioannis fuit. Martyr circa annum 107 mortuus est. In Epistula ad Smyrnaeos scripsit:</p>
                 <blockquote>«<strong>Abstinent se ab Eucharistia et oratione, quia non confitentur Eucharistiam esse carnem Salvatoris nostri Iesu Christi</strong>, quae pro peccatis nostris passa est, quam Pater sua bonitate suscitavit.» — Ignatius Antiochenus, Ep. ad Smyrn. 6-7 (~CVII p.Chr.)</blockquote>
-                <p>Iustinus Martyr scripsit circa annum CL p.Chr., septuaginta annis post obitum apostolorum:</p>
+                <p>Iustinus Martyr circa annum 150 scripsit, septuaginta annis post mortem apostolorum:</p>
                 <blockquote>«<strong>Non ut communem panem neque communem potum haec accipimus</strong>... ita edocti sumus alimentum hoc esse <strong>carnem et sanguinem illius Iesu qui incarnatus est.</strong>» — Iustinus Martyr, Apologia I, 66 (~CL p.Chr.)</blockquote>
-                <p>Si primi christiani — ab ipsis apostolis formati — in Praesentiam Realem crediderunt, quaestio quae responsum honestum meretur haec est: quis id mutavit? Quando? Qua auctoritate?</p>
-                <p>Ad intelligendum quomodo haec realitas in Missa praesens fiat, perge ad thema <a href="tema-transubstanciacion.html">Transsubstantiatio</a>, ex 1 Cor 10, 16. Et ad intelligendum cur haec verba ut veritatem Dei accipiamus, vide thema <a href="tema-por-que-creemos.html">Cur credimus</a>.</p>`,
+                <p>Primi christiani, ab ipsis apostolis formati, Praesentiam realem crediderunt. Eucharistia ut merum signum quindecim saeculis post advenit, cum Zwinglio.</p>
+                <h2>Conclusio</h2>
+                <p>Iesus praesentiam realem sententia quam maxime directa affirmat: «caro mea verus est cibus». Coram obiectione eorum qui scandalizantur nullam metaphoram explicat: eos abire sinit. Paulus id extra narrationem Ioannis confirmat. Et primi discipuli apostolorum id sine umbra dubii crediderunt. Tres lineae probationis independentes. Nulla in interpretatione symbolica responsionem habet.</p>
+                <p>Quomodo haec res in Missa praesens fiat, in argumento <a href="tema-transubstanciacion.html">De transsubstantiatione</a> est, ab 1 Cor 10, 16 incipiendo. Et cur haec verba ut veritas Dei accipiantur, in argumento <a href="tema-por-que-creemos.html">Cur credimus?</a></p>`,
       nav: {
         prevTitle: "Primatus Petri",
         nextTitle: "Transsubstantiatio: mysterium eucharisticum"
@@ -551,8 +557,18 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ Mt 16, 16-19</span>
                     <blockquote>«Respondens Simon Petrus dixit: «Tu es Christus, Filius Dei vivi». Respondens autem Iesus dixit ei: «Beatus es, Simon Bar Iona, quia caro et sanguis non revelavit tibi, sed Pater meus, qui in caelis est. Et ego dico tibi: <strong class="s-hi">Tu es Petrus, et super hanc petram aedificabo Ecclesiam meam</strong><strong>; et portae inferi non praevalebunt adversum eam</strong>. <strong class="s-hi">Tibi dabo</strong> <strong>claves regni caelorum; et quodcumque ligaveris super terram, erit ligatum in caelis, et quodcumque solveris super terram, erit solutum in caelis</strong>».»</blockquote>
                 </div>
-                <p>Iesus lingua Aramaica loquebatur, et Aramaice unum tantum verbum est: <em>kepha</em>, petra. Evangelium Ioannis nomen originale in primo occursu servat: <em>«Tu es Simon filius Ioannis; tu vocaberis Cephas»</em>, quod interpretatur Petrus (Io 1, 42), et Paulus eum in epistulis suis Cepham appellare pergit. Graece <em>petra</em> vocabulum femininum est neque viri nomen esse potest, itaque terminationem masculinam accepit: <em>Petros</em>, sicut Latine Petrus. Discrimen inter lapillum et petram non est in eo quod Iesus dixit. Est in grammatica interpretis.</p>
-                <p>Deinde, de clavibus. Matthaeus Iudaeis scribit, et Iudaeus sciebat quid esset claves a rege accipere. Isaias narrat: Deus nuntiat se Sobnam, praepositum domus regiae, ab officio remoturum et Eliacim in eius locum substituturum: <em>«Et dabo clavem domus David super umerum eius; et aperiet, et non erit qui claudat; et claudet, et non erit qui aperiat»</em> (Is 22, 22). Clavis erat auctoritas regis in manus administratoris tradita, qui eius nomine aperiebat et claudebat. Iesus hanc imaginem sumit et Petro tradit, eodem verborum pari (ligare et solvere, aperire et claudere) et cum cautione quam Eliacim non habebat: quod Petrus ligaverit super terram, ligatum est in caelis.</p>
+                <p>Iesus lingua aramaica loquebatur, et aramaice vocabulum unum est: <em>kefa</em>, petra. Evangelium Ioannis nomen originale in primo occursu servat:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Io 1, 42</span>
+                    <blockquote>«adduxit eum ad Iesum. Intuitus eum Iesus dixit: «Tu es Simon filius Ioannis; <strong class="s-hi">tu vocaberis Cephas</strong>» — quod interpretatur Petrus.»</blockquote>
+                </div>
+                <p>Et Paulus eum in epistulis suis Cepham appellare pergit. Graece, <em>petra</em> vocabulum femininum est nec nomini viri servire potest, itaque terminatio masculina ei data est: <em>Petros</em>. Differentia inter lapillum et petram non est in eo quod Iesus dixit. Est in grammatica interpretis.</p>
+                <p>Deinde, claves. Matthaeus Iudaeis scribit, et Iudaeus sciebat quid significaret claves a rege accipere. Isaias narrat: Deus nuntiat se Sobnam, praepositum domus, de officio suo depositurum et Eliacim in eius locum positurum:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Is 22, 22</span>
+                    <blockquote>«Et dabo <strong class="s-hi">clavem domus David</strong> super umerum eius; et aperiet, et non erit qui claudat, et claudet, et non erit qui aperiat.»</blockquote>
+                </div>
+                <p>Clavis erat auctoritas regis in manus administratoris tradita, qui eius nomine aperiebat et claudebat. Iesus eam imaginem sumit et Petro tradit, eodem verborum pari (ligare et solvere, aperire et claudere) et cum cautione quam Eliacim non habebat: quod Petrus in terra ligat, in caelo ligatum est.</p>
                 <p>Et omnia numero singulari dicuntur. Ligare et solvere postea omnes apostoli accipient (Mt 18, 18). Claves, solus Petrus.</p>
                 <h2>Lapides vivi: nemo locum Christi aufert<br>1 Pet 2, 3-8</h2>
                 <p>Qui obiectioni de petra optime respondet, ipse Petrus est.</p>
@@ -628,8 +644,13 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                 <p>Scriptura electionem inter Christum et Petrum non proponit. Christus est lapis angularis et Petrus petra super quam Christus aedificat; Christus est dominus domus et Petrus qui claves eius custodit; Christus est pastor et Petrus oves eius ex mandato pascit. Ecclesia quam hi loci describunt fundamenta, regimen et fines habet, et exstabat antequam una Novi Testamenti epistula scriberetur. Hoc Roma non excogitavit. Scripserunt Matthaeus, Lucas, Paulus et ipse Petrus.</p>
                 <p>Apud Isaiam clavis a Sobna ad Eliacim transit: mutatur praepositus et officium manet, quia domus David stat. Petrus Romae martyr mortuus est, et promissio portas inferi non praevalituras adversus Ecclesiam cum eo non est mortua.</p>
                 <div class="article-footnote">
-                    <p><sup>*</sup> Si sacerdos catholicus nubere statuit, id petere potest, sed non suo arbitrio decernere. Dispensationem a caelibatu formaliter petere debet, quam solus Romanus Pontifex concedit (Codex Iuris Canonici, can. 291), una cum amissione status clericalis, quae reductio ad statum laicalem appellatur. Ea accepta, ministerium iam non exercet: Missam non celebrat, non praedicat, sacramenta non ministrat, et vitae coniugali ac familiari se totum dedicat. Una exceptio est periculum mortis, in quo quemlibet paenitentem absolvere potest (can. 976).</p>
-                    <p>Quod non amittit, sacerdotium est. Ordinatio characterem indelebilem imprimit (can. 1008): sacerdos est «in aeternum secundum ordinem Melchisedech» (Heb 5, 6), et Ecclesia agnoscit eum sacerdotem fuisse et sacerdotem manere. Quod amittit, status clericalis est cum iuribus et obligationibus suis: iuridice ad clerum iam non pertinet, laicus fit coram lege Ecclesiae et a caelibatu liberatur, ut valide in Ecclesia matrimonium ineat.</p>
+<p><sup>*</sup> Si sacerdos catholicus nubere statuit, id petere potest, sed non suo arbitrio decernere. Dispensationem a caelibatu formaliter petere debet, quam solus Romanus Pontifex concedit (Codex Iuris Canonici, can. 291), una cum amissione status clericalis, quae reductio ad statum laicalem appellatur. Ea accepta, ministerium iam non exercet: Missam non celebrat, non praedicat, sacramenta non ministrat, et vitae coniugali ac familiari se totum dedicat. Una exceptio est periculum mortis, in quo quemlibet paenitentem absolvere potest (can. 976).</p>
+                    <p>Quod non amittit, sacerdotium est. Ordinatio characterem indelebilem imprimit (can. 1008): sacerdos est in aeternum.</p>
+                    <div class="scripture-block">
+                        <span class="scripture-ref">✝︎ Heb 5, 6</span>
+                        <blockquote>«quemadmodum et in alio dicit: «<strong class="s-hi">Tu es sacerdos in aeternum secundum ordinem Melchisedech</strong>».»</blockquote>
+                    </div>
+                    <p>Ecclesia agnoscit eum sacerdotem fuisse et sacerdotem manere. Quod amittit, status clericalis est cum iuribus et obligationibus suis: iuridice ad clerum iam non pertinet, laicus fit coram lege Ecclesiae et a caelibatu liberatur, ut valide in Ecclesia matrimonium ineat.</p>
                 </div>`,
       nav: {
         prevTitle: "Cur fidem catholicam credimus",
@@ -650,21 +671,40 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
             </div>
             <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
       article: `<p>Est obiectio contra Trinitatem quae intra mundum pentecostalem auditur, neque tamen omnium pentecostalium: Coetus Dei (Assemblies of God) et plurimae ecclesiae pentecostales Trinitatem confitentur. Est pentecostalium unitorum, qui se «unicistas» vel «solius Iesu» appellant: <em>«Deus unus est, non tres personae. Pater, Filius et Spiritus Sanctus tituli sunt, modi quibus idem Deus se manifestavit. Pater est Iesus, et Spiritus Sanctus est Spiritus Iesu. Ideo solummodo in nomine Iesu baptizamus.»</em></p>
-                <p>Trinitas mysterium est: unus Deus in tribus Personis. Nemo eam penitus intellegit, neque Ecclesia umquam postulavit ut intellegeretur priusquam crederetur. Postulat ut Deo credatur quod de se ipso dicit, quia credere unum esse Deum non sufficit. Iacobus ita dicit: <em><strong>«Tu credis quoniam unus est Deus? Bene facis; et daemones credunt et contremiscunt!»</strong></em> (Iac 2, 19). Et quod Deus de se ipso dicit tanta instantia scriptum est ut legendo intellegatur. Ideo hoc argumentum plures citationes habet quam explicationes.</p>
+                <p>Trinitas mysterium est: unus Deus in tribus Personis. Nemo eam penitus intellegit, neque Ecclesia umquam postulavit ut intellegeretur priusquam crederetur. Postulat ut Deo credatur quod de se ipso dicit, quia credere unum esse Deum non sufficit. Iacobus ita dicit:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Iacobi 2, 19</span>
+                    <blockquote>«<strong class="s-hi">Tu credis quoniam unus est Deus? Bene facis; et daemones credunt et contremiscunt!</strong>»</blockquote>
+                </div>
+                <p>Et quod Deus de se ipso dicit tanta instantia scriptum est ut legendo intellegatur. Ideo hoc argumentum plures citationes habet quam explicationes.</p>
                 <h2>«Faciamus»: pluralis principii<br>Genesis 1, 26</h2>
                 <p>Primum signum in prima pagina Bibliorum invenitur.</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Genesis 1, 26</span>
                     <blockquote>«Et ait Deus: «<strong class="s-hi">Faciamus hominem ad imaginem et similitudinem nostram</strong>; et praesint piscibus maris et volatilibus caeli et bestiis universaeque terrae omnique reptili, quod movetur super terram».»</blockquote>
                 </div>
-                <p>Deus plurali numero loquitur, et nemo alius in scaena adest. Non sunt angeli: angeli non creant, et homo ad imaginem Dei fit, non ad eorum. Versus sequens ad singularem redit: <em>«Et creavit Deus hominem ad imaginem suam»</em> (Gn 1, 27). Unus qui dicit «nos». Hic versus solus Trinitatem non probat, neque Ecclesia eo sic utitur. Nuntius est quem reliqua Scriptura illustrabit.</p>
+                <p>Deus plurali numero loquitur, et nemo alius in scaena adest. Non sunt angeli: angeli non creant, et homo ad imaginem Dei fit, non illorum. Versus sequens ad singularem redit:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Genesis 1, 27</span>
+                    <blockquote>«<strong class="s-hi">Et creavit Deus hominem ad imaginem suam</strong>; ad imaginem Dei creavit illum, masculum et feminam creavit eos.»</blockquote>
+                </div>
+                <p>Unus solus qui dicit «nos». Hic versus, solus, Trinitatem non probat, nec Ecclesia eo sic utitur. Nuntius est quem reliqua Scriptura illustrabit.</p>
                 <h2>Primus et Novissimus, missus<br>Isaias 48, 16</h2>
-                <p>In Isaia 48 Deus loquitur, et se titulo praesentat quem nemo alius ferre potest: <em>«Ego ipse, ego primus et ego novissimus»</em> (Is 48, 12). Ipse est qui terram fundavit et caelos mensus est. Quattuor versibus post, is qui loquitur haec dicit:</p>
+                <p>In Isaia 48 Deus loquitur, et titulo se praesentat quem nemo alius ferre potest:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Isaias 48, 12</span>
+                    <blockquote>«Audi me, Iacob, et Israel, quem ego voco: <strong class="s-hi">Ego ipse, ego primus et ego novissimus.</strong>»</blockquote>
+                </div>
+                <p>Ipse est qui terram fundavit et caelos extendit. Quattuor versibus post, qui loquitur haec dicit:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Isaias 48, 16</span>
                     <blockquote>«Accedite ad me et audite hoc: non a principio in abscondito locutus sum; ex tempore, antequam fieret, ibi eram. <strong class="s-hi">Et nunc Dominus Deus misit me et spiritum eius.</strong>»</blockquote>
                 </div>
-                <p>Qui a principio aderat mittitur, et mittunt eum Dominus Deus et spiritus eius. In uno Veteris Testamenti loco simul apparent qui mittit, qui mittitur et Spiritus. Saeculis post, Apocalypsis eundem titulum in ore Iesu ponit: <em>«Ego sum primus et novissimus et vivens et fui mortuus, et ecce sum vivens in saecula saeculorum»</em> (Ap 1, 17-18).</p>
+                <p>Qui ab initio aderat mittitur, et eum mittunt Dominus Deus et spiritus eius. In uno Veteris Testamenti loco simul apparent qui mittit, qui mittitur et Spiritus. Saeculis post, Apocalypsis eundem titulum in ore Iesu ponit:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Apocalypsis 1, 17-18</span>
+                    <blockquote>«Et cum vidissem eum, cecidi ad pedes eius tamquam mortuus; et posuit dexteram suam super me dicens: «Noli timere! <strong class="s-hi">Ego sum primus et novissimus, et vivens</strong> et fui mortuus et ecce sum vivens in saecula saeculorum et habeo claves mortis et inferni.»»</blockquote>
+                </div>
                 <h2>Tres in Iordane<br>Marcus 1, 10-11</h2>
                 <p>In baptismo Iesu obiectio titulorum locum non invenit.</p>
                 <div class="scripture-block">
@@ -678,19 +718,34 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ Ad Hebraeos 1, 5</span>
                     <blockquote>«Cui enim dixit aliquando angelorum: «<strong class="s-hi">Filius meus es tu, ego hodie genui te</strong>»? Et rursum: «<strong>Ego ero illi in Patrem, et ipse erit mihi in Filium</strong>»?»</blockquote>
                 </div>
-                <p>Alter loquitur, alter appellatur. Et tribus versibus infra Pater Filium Deum vocat: <em>«ad Filium autem: Thronus tuus, Deus, in saeculum saeculi»</em> (Hb 1, 8). Filius Deus est, et Pater, qui ei loquitur, non est ipse.</p>
+                <p>Alter loquitur et alter alloquitur. Et tribus versibus infra, Pater Filium Deum appellat:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ad Hebraeos 1, 8</span>
+                    <blockquote>«ad Filium autem: «<strong class="s-hi">Thronus tuus, Deus, in saeculum saeculi</strong>, et virga aequitatis virga regni tui».»</blockquote>
+                </div>
+                <p>Filius Deus est, et Pater, qui ei loquitur, non est ipse.</p>
                 <h2>Apud Patrem, ante mundum<br>Ioannes 17, 5</h2>
                 <p>Pentecostalibus unitis Filius Bethlehem incipit: «Filius» nomen esset humanitatis Iesu, «Pater» autem Dei qui in ea habitat. Ioannes in prima sua epistula respondet.</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Ioannis 1, 2-3</span>
                     <blockquote>«et vita manifestata est, et vidimus et testamur et annuntiamus vobis <strong class="s-hi">vitam aeternam, quae erat apud Patrem</strong> et apparuit nobis; quod vidimus et audivimus, annuntiamus et vobis, ut et vos communionem habeatis nobiscum. Communio autem nostra est <strong>cum Patre et cum Filio eius Iesu Christo</strong>.»</blockquote>
                 </div>
-                <p>Quod apostoli viderunt et tetigerunt apud Patrem erat antequam manifestaretur. Nemo apud se ipsum est. Id est quod Ioannes in principio Evangelii sui scripserat: <em>«Verbum erat apud Deum, et Deus erat Verbum»</em> (Io 1, 1). Et Iesus suis verbis id dicit nocte ante mortem:</p>
+                <p>Quod apostoli viderunt et tetigerunt apud Patrem erat antequam manifestaretur. Nemo apud se ipsum est. Hoc est quod Ioannes in initio Evangelii sui scripserat:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ioannes 1, 1</span>
+                    <blockquote>«In principio erat Verbum, et <strong class="s-hi">Verbum erat apud Deum, et Deus erat Verbum</strong>.»</blockquote>
+                </div>
+                <p>Et Iesus id suis verbis dicit nocte antequam moreretur:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Ioannes 17, 5</span>
                     <blockquote>«Et nunc clarifica me tu, Pater, apud temetipsum <strong class="s-hi">claritate, quam habebam, priusquam mundus esset, apud te</strong>.»</blockquote>
                 </div>
-                <p>Iesus a Patre gloriam petit quam apud eum ante creationem habebat. Si Filius Bethlehem incepisset, nullam priorem gloriam repetere posset, neque quemquam apud quem eam habuisset. In eadem oratione instat: <em>«dilexisti me ante constitutionem mundi»</em> (Io 17, 24). Ante mundum erat qui diligebat et alius qui diligebatur.</p>
+                <p>Iesus a Patre claritatem petit quam apud eum habebat ante creationem. Si Filius Bethlehem coepisset, nullam claritatem priorem vindicandam haberet, neque quemquam cum quo eam habuisset. In eadem oratione instat:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ioannes 17, 24</span>
+                    <blockquote>«Pater, quod dedisti mihi, volo, ut ubi ego sum, et illi sint mecum, ut videant claritatem meam, quam dedisti mihi, quia <strong class="s-hi">dilexisti me ante constitutionem mundi</strong>.»</blockquote>
+                </div>
+                <p>Ante mundum erat qui amabat et alius qui amabatur.</p>
                 <h2>Duo testes<br>Ioannes 8, 16-18</h2>
                 <p>Cum pharisaeis disputans, Iesus Legem Moysis invocat, quae unum testem non admittebat (Dt 19, 15).</p>
                 <div class="scripture-block">
@@ -698,14 +753,32 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <blockquote>«Et si iudico ego, iudicium meum verum est, quia <strong class="s-hi">solus non sum, sed ego et, qui me misit, Pater</strong>. Sed et in lege vestra scriptum est quia <strong>duorum hominum testimonium verum est</strong>. Ego sum, qui testimonium perhibeo de meipso, et testimonium perhibet de me, qui misit me, Pater.»</blockquote>
                 </div>
                 <p>Iesus duos testes affert: se ipsum et Patrem. Si una persona essent duobus nominibus, unum testem pro duobus venditaret, et argumentum eius coram pharisaeis fraus esset. Iesus duos numerat. Pentecostales uniti unum numerant.</p>
-                <p>Versus quos ipsi afferunt idem dicunt cum integri leguntur. <em>«Ego et Pater unum sumus»</em> (Io 10, 30): «sumus» plurale est, et quod unum est, res est, non persona; «unum» enim dicitur, non «unus». <em>«Qui vidit me, vidit Patrem»</em> (Io 14, 9), et statim post: <em>«ego in Patre et Pater in me est»</em> (Io 14, 11). Ut alter in altero sit, duo requiruntur.</p>
+                <p>Versus quos ipsi afferunt idem dicunt cum toti leguntur:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ioannes 10, 30</span>
+                    <blockquote>«Ego et Pater unum <strong class="s-hi">sumus</strong>.»</blockquote>
+                </div>
+                <p>«Sumus» pluralis est, et quod unum est res est, non persona. Idem in responsione ad Philippum:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ioannes 14, 9-11</span>
+                    <blockquote>«Qui vidit me, vidit Patrem... <strong class="s-hi">ego in Patre, et Pater in me est</strong>.»</blockquote>
+                </div>
+                <p>Ut alter in altero sit, duo requiruntur.</p>
                 <h2>Alius Paraclitus<br>Ioannes 14, 16-17</h2>
                 <p>De Spiritu Sancto verbum decretorium Iesus in ultima cena dicit.</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Ioannes 14, 16-17</span>
                     <blockquote>«Et ego rogabo Patrem, et <strong class="s-hi">alium Paraclitum</strong> dabit vobis, ut maneat vobiscum in aeternum, <strong>Spiritum veritatis</strong>, quem mundus non potest accipere, quia non videt eum nec cognoscit. Vos cognoscitis eum, quia apud vos manet et in vobis erit.»</blockquote>
                 </div>
-                <p>Filius rogat, Pater dat, et quod dat alius Paraclitus est. Paraclitus is est qui comitatur et defendit; Iesus id discipulis suis per tres annos fuerat, et nunc alium nuntiat. Si Spiritus Sanctus Iesus esset alio nomine, non esset alius. In capitulis sequentibus quisque cum eo quod sibi proprium est apparet: Spiritus Sanctus est <em>«quem mittet Pater in nomine meo»</em> (Io 14, 26), et <em>«non enim loquetur a semetipso, sed quaecumque audiet, loquetur»</em> (Io 16, 13).</p>
+                <p>Filius rogat, Pater dat, et quod dat alius Paraclitus est. Paraclitus est qui comitatur et defendit; Iesus id discipulis suis per tres annos fuerat, et nunc alium nuntiat. Si Spiritus Sanctus Iesus alio nomine esset, non esset alius. In capitibus sequentibus unusquisque cum suo apparet:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ioannes 14, 26</span>
+                    <blockquote>«Paraclitus autem, Spiritus Sanctus, <strong class="s-hi">quem mittet Pater in nomine meo</strong>, ille vos docebit omnia et suggeret vobis omnia, quae dixi vobis.»</blockquote>
+                </div>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ioannes 16, 13</span>
+                    <blockquote>«Cum autem venerit ille, Spiritus veritatis, deducet vos in omnem veritatem; <strong class="s-hi">non enim loquetur a semetipso, sed quaecumque audiet, loquetur</strong> et, quae ventura sunt, annuntiabit vobis.»</blockquote>
+                </div>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Ioannes 15, 26</span>
                     <blockquote>«Cum autem venerit <strong class="s-hi">Paraclitus, quem ego mittam vobis a Patre</strong>, Spiritum veritatis, qui a Patre procedit, <strong>ille testimonium perhibebit de me</strong>.»</blockquote>
@@ -729,7 +802,22 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                     <span class="scripture-ref">✝︎ 2 ad Corinthios 13, 13</span>
                     <blockquote>«<strong class="s-hi">Gratia Domini Iesu Christi et caritas Dei et communicatio Sancti Spiritus</strong> cum omnibus vobis.»</blockquote>
                 </div>
-                <p>Tres, alter iuxta alterum, quisque cum eo quod dat. Non est sententia sola. In prima epistula ad Corinthios dona sunt ab <em>«eodem Spiritu»</em>, ministrationes ab <em>«eodem Domino»</em>, operationes ab <em>«eodem Deo»</em> (1 Cor 12, 4-6). Ephesiis scribit: <em>«unum corpus et unus Spiritus… unus Dominus… unus Deus et Pater omnium»</em> (Eph 4, 4-6). Et Petrus primam epistulam eodem modo aperit: <em>«secundum praescientiam Dei Patris, in sanctificatione Spiritus, in oboedientiam Iesu Christi»</em> (1 Pt 1, 2). Apostoli tres iam in salutatione nominabant.</p>
+                <p>Tres, alter iuxta alterum, unusquisque cum eo quod dat. Non est sententia seiuncta. In prima epistula ad Corinthios:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 ad Corinthios 12, 4-6</span>
+                    <blockquote>«Divisiones vero gratiarum sunt, <strong class="s-hi">idem autem Spiritus</strong>; et divisiones ministrationum sunt, <strong class="s-hi">idem autem Dominus</strong>; et divisiones operationum sunt, <strong class="s-hi">idem vero Deus</strong>, qui operatur omnia in omnibus.»</blockquote>
+                </div>
+                <p>Ephesiis scribit:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ad Ephesios 4, 4-6</span>
+                    <blockquote>«unum corpus et <strong class="s-hi">unus Spiritus</strong>, sicut et vocati estis in una spe vocationis vestrae; <strong class="s-hi">unus Dominus</strong>, una fides, unum baptisma; <strong class="s-hi">unus Deus et Pater omnium</strong>, qui super omnes et per omnia et in omnibus.»</blockquote>
+                </div>
+                <p>Et Petrus primam epistulam suam eodem modo incipit:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Petri 1, 2</span>
+                    <blockquote>«secundum praescientiam <strong class="s-hi">Dei Patris</strong>, in sanctificatione <strong class="s-hi">Spiritus</strong>, in oboedientiam et aspersionem sanguinis <strong class="s-hi">Iesu Christi</strong>: gratia vobis et pax multiplicetur.»</blockquote>
+                </div>
+                <p>Apostoli tres iam in salutatione nominabant.</p>
                 <ul>
                     <li>In Iordane Filius, Spiritus et Pater simul apparent, et Pater Filio loquitur.</li>
                     <li>Filius apud Patrem erat et gloriam apud eum habebat antequam mundus esset.</li>
@@ -758,7 +846,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                 <span>Editus Maio MMXXVI</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
-      article: `<p>Testes Iehovae et Adventistae eandem obiectionem indefesse repetunt: <em>«Mortui te audire non possunt»</em>, quia anima —ut aiunt— dormit usque ad iudicium ultimum. Primo aspectu rationi consentaneum videtur. Sed Scriptura aliud dicit. Non uno loco seiuncto: septem locis distinctis, a Paulo usque ad Apocalypsim. Singillatim.</p>
+      article: `<p>Plures sectae protestantes haeresim «somni animae» tenent. Adventistae et Testes Iehovae eam scriptam habent: secundum eos mors est status sine conscientia usque ad iudicium ultimum. Inde obiectio venit quam indefesse repetunt: <em>«Mortui te audire non possunt.»</em> Scriptura aliud dicit. Non uno loco seiuncto: septem locis distinctis, a Paulo usque ad Apocalypsim. Singillatim.</p>
 
             <h2>Cognitio post mortem perficitur<br>I Cor 13:9-13</h2>
 
@@ -769,7 +857,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
 
             <p>Paulus docet in hac vita cognitionem imperfectam esse. Cum venerit quod perfectum est —id quod in morte fit, Deo facie ad faciem viso— cognoscetur sicut Deus cognoscit: sine velo et sine termino. Si sancti ita cognoscunt, nihil eis occultum est. Audire possunt. Preces ad se directas intellegere possunt.</p>
 
-            <h2>Post mortem Deum sicuti est videbimus<br>I Io 3:2</h2>
+            <h2>Post mortem Deus videtur sicuti est<br>I Io 3:2</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝︎ I Io 3:2</span>
@@ -804,7 +892,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
 
             <p>Haec est responsio ad illud «qui sunt sancti?». Scriptura eos singillatim nominat. Non est Ecclesiae inventum. Sunt qui vixerunt, passi sunt et mortui sunt patriam quaerentes quae huius mundi non est, neque auctor ad Hebraeos eos ornamenti causa ibi ponit: dicit hanc testium nubem circumdare eos qui adhuc currunt. Nemo circumdatur ab iis qui absunt.</p>
 
-            <h2>Anima non dormit — Christus spiritibus praedicavit<br>I Petr 3:18-22</h2>
+            <h2>Anima non dormit: Christus spiritibus praedicavit<br>I Petr 3:18-22</h2>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝︎ I Petr 3:18-22</span>
@@ -835,7 +923,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
 
             <p>Sancti sunt qui in fide vixerunt —Abel, Henoch, Noe, Abraham, Moyses, prophetae—, qui post mortem in civitate Dei viventis sunt, in Ierusalem caelesti. Ibi cognoscunt sicut Deus eos cognoscit. Ibi Deum sicuti est vident. Ibi neque terminus neque intervallum est.</p>
 
-            <p>Et quod Ecclesia eos invocando facit id ipsum est quod Apocalypsis ostendit: fidelium orationes ad caeli altare ferunt et ante Agni thronum offerunt. Sancti non adorantur. Ab eis petitur ut apud Deum intercedant, sicut a fratre vivo petitur ut pro aliquo oret. Sola differentia in eorum favorem cedit: in caelo sunt et cognoscunt sicut Deus cognoscit. Ideo vident, audiunt et intercedunt. Qui dicit mortuos audire non posse prius explicare debet cur caelum orationes in phialis aureis servet.</p>`,
+            <p>Et quod Ecclesia eos invocando facit, id ipsum est quod Apocalypsis ostendit: orationes fidelium ad altare caeli ferunt et ante thronum Agni praesentant. Sancti non adorantur. Rogantur ut apud Deum intercedant, sicut fratrem viventem rogamus ut pro nobis oret. Unica differentia in eorum favorem est: in caelo sunt et cognoscunt sicut Deus cognoscit. Ideo vident, audiunt et intercedunt.</p>`,
       nav: {
         prevTitle: "Sacerdotium in Ecclesia Catholica",
         nextTitle: "Purgatorium et misericordia Dei"
@@ -848,84 +936,138 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
                 <span class="eyebrow-text">Thema Speciale</span>
             </div>
             <h1>Cur fidem catholicam credimus</h1>
-            <p>Cur credimus? Non propter consuetudinem. Quia testimonium datum est, investigavimus, et ipsa Biblia ad Ecclesiam quam Iesus fundavit indicat.</p>
+            <p>Non ex consuetudine: quia testes fuerunt, quia Verbum traditum est et quia ipsa Biblia ad Ecclesiam a Iesu conditam spectat.</p>
             <div class="article-meta">
                 <span>XV min lectura</span>
                 <span>Editus Maio MMXXVI</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
-      article: `<p>Cur credimus? Non propter caedam traditionem nec propter morem familiae. Credimus quia Verbum Dei testificatum est, fideliter traditum est et verum manet. Lucas ab initio id dicit: ab initio omnia diligenter investigavit ut veritatem cognosceremus (Lc 1, 1-4). Hoc ipsum hic faciemus.</p>
+      article: `<p>Catholicus non credit ex traditione caeca neque ex consuetudine familiari. Credit quia Verbum Dei testificatum est, fideliter traditum, et adhuc verum est. Sanctus Lucas id ab initio dicit: a principio omnia diligenter adsecutus est (Lc 1, 3).</p>
+                <p>Sectae protestantes, evangelicis, Baptistis et Pentecostalibus inclusis, haeresim tenent quae Reformationem genuit: <em>«Sola Biblia regula fidei est. Biblia sufficit.»</em> Haec est <em>sola scriptura</em>. Bibliam esse Verbum Dei in quaestione non est. In quaestione est utrum Biblia de se dicat se unicam esse regulam. Non dicit, et a primo capite Lucae ostendit ante textum testes fuisse.</p>
                 <h2>Verbum testificatum est<br>Lc 1, 1-4 et Io 11, 25-27</h2>
-                <p>Lucas nobis dicit multos aggressos esse ordinatim narrare res quae completae sunt inter nos, <em>«sicut tradiderunt nobis qui ab initio ipsi viderunt et ministri fuerunt sermonis»</em> (Lc 1, 2). Non sunt fabulae: sunt testimonia. Quod Iesus dixit, vixit et docuit visum est et traditum a testibus realibus.</p>
-                <p>Martha, ante sepulcrum fratris sui, Eum sine haesitatione agnoscit: <em>«Utique Domine, ego credidi quia tu es Christus Filius Dei, qui in hunc mundum venturus es»</em> (Io 11, 27). Fides non est irrationalis: est responsio ad revelationem ab his qui eam vixerunt verificatam.</p>
+                <p>Lucas non primus scripsit: primum accepit quod alii tradebant.</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝︎ Lc 1, 4</span>
-                    <blockquote>«<strong class="s-hi">Ut cognoscas eorum verborum de quibus eruditus es veritatem.</strong>»</blockquote>
+                    <span class="scripture-ref">✝︎ Lc 1, 1-4</span>
+                    <blockquote>«Quoniam quidem multi conati sunt ordinare narrationem, quae in nobis completae sunt, rerum, <strong class="s-hi">sicut tradiderunt nobis, qui ab initio ipsi viderunt et ministri fuerunt verbi</strong>, visum est et mihi, adsecuto a principio omnia, diligenter ex ordine tibi scribere, optime Theophile, ut cognoscas eorum verborum, de quibus eruditus es, <strong class="s-hi">firmitatem</strong>.»</blockquote>
                 </div>
-                <h2>Legendum est Verbum Dei<br>Lc 8, 5-8; 8, 11-12 et Ps 119</h2>
-                <p>Parabola satoris id clarificat: <em>«Semen est Verbum Dei»</em> (Lc 8, 11). Diabolus scit Verbum Dei salutem germinare, ideo rapit illud, suffocat et conterit (Lc 8, 12). Non est casus quod hostis contra eius lectionem pugnat.</p>
-                <p>Psalmus 119, 72 affirmat legem Dei pluris esse quam milia auri et argenti. Et si quis quaerit quid lucretur legendo Bibliam, Paulus respondet: <em>«A pueritia sacras litteras nosti, <strong>quae te possunt instruere ad salutem per fidem quae est in Christo Iesu</strong>»</em> (2 Tim 3, 15).</p>
-                <p>Psalmus 119, 103-105 pulcherrimam imaginem dat: <em>«Quam dulcia faucibus meis eloquia tua, super mel ori meo!... <strong>Lucerna pedibus meis verbum tuum et lumen semitis meis.</strong>»</em> Qui Verbum Dei non legit in tenebris ambulat.</p>
+                <p>Non sunt fabulae: sunt testimonia. Quod Iesus dixit, vixit et docuit, a testibus veris visum et traditum est, et Theophilus has doctrinas iam acceperat antequam unam Evangelii lineam legeret.</p>
+                <p>Martha, ante sepulcrum fratris, sine dubitatione confitetur:</p>
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝︎ Ps 119, 105</span>
-                    <blockquote>«<strong class="s-hi">Lucerna pedibus meis verbum tuum et lumen semitis meis.</strong>»</blockquote>
+                    <span class="scripture-ref">✝︎ Io 11, 25-27</span>
+                    <blockquote>«Dixit ei Iesus: «Ego sum resurrectio et vita. Qui credit in me, etsi mortuus fuerit, vivet; et omnis, qui vivit et credit in me, non morietur in aeternum. Credis hoc?». Ait illi: «<strong class="s-hi">Utique, Domine; ego credidi quia tu es Christus Filius Dei, qui in mundum venisti</strong>».»</blockquote>
                 </div>
-                <h2>Verbum a Deo est<br>2 Pet 1, 19 et Io 17, 17</h2>
-                <p>Haec non est opinio humana. Petrus id affirmat: verbum prophetarum est verbum Dei (2 Pet 1, 19). Et ipse Iesus, in oratione ad Patrem, id confirmat: <em>«<strong>Verbum tuum veritas est</strong>»</em> (Io 17, 17). Et Iesus ipse dixit: <em>«Beati qui audiunt verbum Dei et <strong>custodiunt illud</strong>»</em> (Lc 11, 28). Non dixit qui illud sciunt aut qui illud citant; dixit qui illud <strong>custodiunt</strong>.</p>
-                <h2>Fides est facere quod Ille dicit<br>Lc 5, 5 et Io 2, 5</h2>
-                <p>Petrus tota nocte piscatus erat et nihil ceperat. Ex experientia humana, iacere retia interdiu nullum sensum habebat. Sed dixit aliquid quod totam fidem resumit: <em>«Praeceptor, per totam noctem laborantes nihil cepimus; <strong>in verbo autem tuo laxabo rete</strong>»</em> (Lc 5, 5). Et ideo precise Iesus eum fecit piscatorem hominum, ipsum et non alios (Lc 5, 10).</p>
-                <p>In Cana, Virgo Maria ministris instructionem definitivam dat: <em>«<strong>Quodcumque dixerit vobis, facite</strong>»</em> (Io 2, 5). Hydriae aqua impletae sunt, sed in vinum conversae sunt quando ministri mandata eius ad finem exsecuti sunt (Io 2, 8). Fides non est solum credere: est facere.</p>
+                <p>Martha credidit verbo quod a Christo audivit, cum nulla adhuc pagina Novi Testamenti exstaret. Fides non est irrationalis: est responsio ad revelationem ab iis probatam qui eam vixerunt.</p>
+                <h2>Inimicus contra Verbum pugnat<br>Lc 8, 11-12 et Ps 119</h2>
+                <p>Ecclesia Bibliam non timet: eam defendit, quia scit quis eam impugnet. Parabola seminatoris id clare ostendit:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Lc 8, 11-12</span>
+                    <blockquote>«Est autem haec parabola: <strong class="s-hi">Semen est verbum Dei</strong>. Qui autem secus viam, sunt qui audiunt; deinde venit Diabolus et <strong class="s-hi">tollit verbum de corde eorum, ne credentes salvi fiant</strong>.»</blockquote>
+                </div>
+                <p>Diabolus scit Verbum Dei salutem germinare. Non casu inimicus contra eius lectionem pugnat. Psalmus 119, 72 affirmat legem oris Dei meliorem esse super milia auri et argenti, et sanctus Paulus dicit quid legendo lucretur:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 2 Tim 3, 15</span>
+                    <blockquote>«et quia ab infantia Sacras Litteras nosti, <strong class="s-hi">quae te possunt instruere ad salutem</strong> per fidem, quae est in Christo Iesu.»</blockquote>
+                </div>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Ps 119, 103-105</span>
+                    <blockquote>«Quam dulcia faucibus meis eloquia tua, super mel ori meo!... <strong class="s-hi">Lucerna pedibus meis verbum tuum et lumen semitis meis.</strong>»</blockquote>
+                </div>
+                <p>Qui Verbum Dei non legit in tenebris ambulat.</p>
+                <h2>Verbum a Deo est<br>2 Pet 1, 19, Io 17, 17 et Lc 11, 28</h2>
+                <p>Haec non est opinio humana. Sanctus Petrus sermonem propheticum lucernam appellat et iubet ei attendi:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 2 Pet 1, 19</span>
+                    <blockquote>«Et habemus firmiorem propheticum sermonem, cui bene facitis attendentes <strong class="s-hi">quasi lucernae lucenti in caliginoso loco</strong>, donec dies illucescat, et lucifer oriatur in cordibus vestris.»</blockquote>
+                </div>
+                <p>Ipse Iesus, in oratione sua ad Patrem, id confirmat:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Io 17, 17</span>
+                    <blockquote>«Sanctifica eos in veritate; <strong class="s-hi">sermo tuus veritas est</strong>.»</blockquote>
+                </div>
+                <p>Et dicit quid cum eo faciendum sit:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Lc 11, 28</span>
+                    <blockquote>«At ille dixit: «Quinimmo beati, qui audiunt verbum Dei et <strong class="s-hi">custodiunt</strong>».»</blockquote>
+                </div>
+                <p>Non dixit eos qui id cognoscunt neque eos qui id citant; dixit eos qui <strong class="s-hi">custodiunt</strong>.</p>
+                <h2>Fides est facere quod Ipse dicit<br>Lc 5, 5 et Io 2, 5</h2>
+                <p>Petrus tota nocte piscatus erat nec quidquam ceperat. Secundum experientiam humanam, retia interdiu laxare nullum sensum habebat. Sed dixit aliquid quod totam fidem complectitur:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Lc 5, 5</span>
                     <blockquote>«<strong class="s-hi">In verbo autem tuo laxabo rete.</strong>»</blockquote>
                 </div>
-                <h2>Unde venit Biblia tua?<br>Sola scriptura et eius problemata</h2>
-                <p>Aliqui dicunt: «Sola Scriptura est regula fidei. Biblia sufficit.» Bene. Ad Bibliam eamus.</p>
+                <p>Et ideo ipse Iesus eum piscatorem hominum fecit, eum et non ceteros (Lc 5, 10).</p>
+                <p>In Cana, Virgo Maria ministris praeceptum decretorium dat:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Io 2, 5</span>
+                    <blockquote>«Dicit mater eius ministris: «<strong class="s-hi">Quodcumque dixerit vobis, facite</strong>».»</blockquote>
+                </div>
+                <p>Hydriae aqua impletae sunt, et aqua in vinum versa est cum ministri eius iussa ad finem usque exsecuti sunt:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Io 2, 8</span>
+                    <blockquote>«Et dicit eis: «Haurite nunc et ferte architriclino». <strong class="s-hi">Illi autem tulerunt.</strong>»</blockquote>
+                </div>
+                <p>Fides non est tantum credere: est implere. Huius rei explicatio est in argumentis <a href="tema-la-eucaristia.html">De Eucharistia</a> et <a href="tema-transubstanciacion.html">De transsubstantiatione</a>.</p>
+                <h2>Unde venit Biblia?<br>Sola scriptura eiusque difficultates</h2>
+                <p>Versus maxime adhibitus ad <em>sola scriptura</em> defendendam hic est:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 2 Tim 3, 16-17</span>
                     <blockquote>«<strong class="s-hi">Omnis Scriptura divinitus inspirata et utilis</strong> est ad docendum, ad arguendum, ad corripiendum, ad erudiendum in iustitia, ut perfectus sit homo Dei, ad omne opus bonum instructus.»</blockquote>
                 </div>
-                <p>Verbum quod Paulus adhibet est «utilis» — graece ὠφέλιμος — non «exclusiva» nec «unica regula fidei». Versus numquam dicit Scripturam solam ad omnia sufficere. Et aliquid maioris momenti: si unicum veritatis criterium esset «quod Biblia dicit», tunc sola scriptura in Biblia esse deberet ut valida sit. Non est. Argumentum seipsum suo proprio criterio destruit.</p>
-                <h2>Quis canonem statuit?<br>Quaestio quam sola scriptura respondere non potest</h2>
-                <p>Novum Testamentum sine indice advenit. Per priora saecula, diversae communitates diversos textus adhibebant. Quomodo decisum est quid Verbum Dei sit et quid non? Ecclesia Catholica, in Conciliis Hipponensis (anno CCCXCIII p.Chr.) et Carthaginensis (anno CCCXCVII p.Chr.), canonem biblicum statuit quem mundus christianus usque hodie adhibet. Qui auctoritatem Ecclesiae Catholicae ad doctrinam docendam reicit, eidem Ecclesiae fidit ad sciendum quos libros legat. Alia via cohaerens non datur.</p>
-                <h2>Traditio oralis est biblica<br>2 Thes 2, 15 et 2 Tim 2, 2</h2>
-                <p>Paulus non solum per epistulas docuit. Mandavit ut etiam traditio oralis servaretur:</p>
+                <p>Verbum quo Paulus utitur est «utilis» (Graece ὠφέλιμος), non «exclusiva» neque «unica regula fidei». Versus numquam dicit Scripturam solam ad omnia sufficere. Et aliquid gravius est: si unicum veritatis criterium esset «quod Biblia dicit», tunc <em>sola scriptura</em> in Biblia esse deberet ut valeret. Et non est. Argumentum se ipsum suo criterio destruit.</p>
+                <h2>«Sola Biblia», cum alia auctoritate iuxta<br>Adventistae et Testes Iehovae</h2>
+                <p>Duae sectae protestantes «solam Bibliam» dicunt et contrarium scriptum habent. Adventistae in credito fundamentali 18 declarant scripta Ellen White auctoritate prophetica loqui, etsi idem creditum Bibliam normam esse dicit. Testes Iehovae id apertius etiam dicunt: in ephemeride sua <em>The Watchtower</em> (1 Octobris 1994) docent omnes qui Bibliam intellegere volunt agnoscere debere «multiformem sapientiam Dei» non nisi per canalem communicationis Iehovae, servum fidelem et prudentem, cognosci posse.</p>
+                <p>Neuter ex <em>sola scriptura</em> vivit. Ecclesiae a Christo conditae auctoritatem negant quam Ellen White et «servo fideli et prudenti» tribuunt.</p>
+                <h2>Quis canonem statuit?<br>Difficultas cui sola scriptura respondere non potest</h2>
+                <p>Novum Testamentum cum indice non advenit. Primis saeculis variae communitates variis textibus utebantur. Quomodo decretum est quid sit Verbum Dei et quid non? Ecclesia Catholica, in conciliis Hipponensi (393) et Carthaginiensi (397), canonem biblicum statuit. Protestantes eum ab illa Ecclesia acceperunt et septem libros Veteris Testamenti abstulerunt: Tobiae, Iudith, Sapientiae, Ecclesiastici, Baruch et duos Maccabaeorum. Qui auctoritatem Ecclesiae Catholicae doctrinam docendi reicit, eidem Ecclesiae confidit ut sciat quos libros legat. Aliter cohaerere non potest.</p>
+                <h2>Traditio oralis biblica est<br>2 Thes 2, 15 et 2 Tim 2, 2</h2>
+                <p>Paulus non tantum per epistulas docuit. Traditionem quoque oralem servari iussit:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 2 Thes 2, 15</span>
                     <blockquote>«Itaque, fratres, <strong class="s-hi">state et tenete traditiones quas didicistis, sive per sermonem sive per epistulam nostram.</strong>»</blockquote>
                 </div>
-                <p>Et hanc traditionem de generatione in generationem tradendam mandavit:</p>
+                <p>Et iussit eam traditionem a generatione in generationem tradi:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 2 Tim 2, 2</span>
                     <blockquote>«<strong class="s-hi">Et quae audisti a me per multos testes, haec commenda fidelibus hominibus qui idonei erunt et alios docere.</strong>»</blockquote>
                 </div>
-                <p>Quattuor generationes transmissionis in uno versu: Paulus → Timotheus → fideles homines → alii. Et ipse Ioannes id agnoscit in fine Evangelii sui:</p>
+                <p>Quattuor generationes traditionis in uno versu: Paulus → Timotheus → homines fideles → alii. Et ipse Ioannes id in fine Evangelii sui agnoscit:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Io 21, 25</span>
                     <blockquote>«<strong class="s-hi">Sunt autem et alia multa quae fecit Iesus, quae si scribantur per singula, nec ipsum arbitror mundum capere posse eos qui scribendi sunt libros.</strong>»</blockquote>
                 </div>
-                <p>Ipse Iesus nullam lineam scripsit. Apostolos misit ad praedicandum, non ad scribendum.</p>
-                <h2>Interpretatio privata in Scriptura prohibetur<br>2 Pet 1, 20-21</h2>
-                <p>Petrus id clare dicit:</p>
+                <p>Ipse Iesus ne unam quidem lineam scripsit. Apostolos misit ad praedicandum, non ad scribendum.</p>
+                <h2>Interpretatio privata a Biblia prohibetur<br>2 Pet 1, 20-21</h2>
+                <p>Petrus clare dicit:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 2 Pet 1, 20-21</span>
                     <blockquote>«<strong class="s-hi">Hoc primum intellegentes quod omnis prophetia Scripturae propria interpretatione non fit.</strong> Non enim voluntate humana allata est aliquando prophetia, sed Spiritu Sancto inspirati locuti sunt Dei homines.»</blockquote>
                 </div>
-                <p>Ab anno MDXVII, plus quam XLV milia denominationum distinctarum eandem Bibliam legunt et ad conclusiones oppositas de baptismate, Eucharistia, salute et morali perveniunt. Iesus pro aliquo diverso oravit: <em>«<strong>ut omnes unum sint</strong>»</em> (Io 17, 21). Quaestio quae se imponit: potestne Spiritus Sanctus simul omnes illas positiones contradictori as ducere?</p>
+                <p>Ab anno 1517, milia denominationum eandem Bibliam legunt et ad conclusiones contrarias perveniunt de baptismo, Eucharistia, salute et moribus. Iesus pro contrario oravit:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Io 17, 21</span>
+                    <blockquote>«<strong class="s-hi">ut omnes unum sint</strong>, sicut tu, Pater, in me et ego in te, ut et ipsi in nobis unum sint; ut mundus credat quia tu me misisti.»</blockquote>
+                </div>
+                <p>Spiritus Sanctus sibi non contradicit. Doctrinae contrariae, omnes «ex sola Biblia» haustae, ab eo non veniunt.</p>
                 <h2>Ecclesia est columna veritatis<br>1 Tim 3, 15 et Mt 16, 18</h2>
-                <p>Biblia seipsam non vocat columnam veritatis. Ecclesiam ita vocat:</p>
+                <p>Biblia se ipsam columnam veritatis non appellat. Hoc nomen Ecclesiae dat:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Tim 3, 15</span>
                     <blockquote>«Ecclesia Dei vivi, <strong class="s-hi">columna et firmamentum veritatis.</strong>»</blockquote>
                 </div>
-                <p>Et Iesus promissionem institutionalem de ea fecit:</p>
+                <p>Et Iesus de ea promissionem institutionalem fecit:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Mt 16, 18</span>
                     <blockquote>«Et ego dico tibi quia tu es Petrus et super hanc petram aedificabo Ecclesiam meam, <strong class="s-hi">et portae inferi non praevalebunt adversus eam.</strong>»</blockquote>
                 </div>
-                <p>Haec promissio Magisterium — doctrinam officialem Ecclesiae — tuetur ne errorem definitive doceat. Non significat quemlibet membrum esse impeccabilem. Significat veritatem quam Christus Ecclesiae suae concredit destrui non posse.</p>
-                <h2>Conclusio: credere et facere</h2>
-                <p>Verbum prophetarum a Deo est. Apostoli testificati sunt. Legendum est totum — etiam quod de traditione orali dicit, de interpretatione et de Ecclesia quam Christus fundavit. Et faciendum est quod Deus dicit: haec est fides. Non qui dicit «Domine, Domine» salvabitur, sed qui facit voluntatem Patris (Mt 7, 21). Biblia, tota lecta et cum honestate, ad eandem Ecclesiam quam Iesus fundavit indicat. Credere est Iesu Christo fidere etiam quando experientia humana contrarium suadet, sicut Petrus in lacu fecit. Et ille actus fiduciae omnia mutat.</p>`,
+                <p>Ea promissio Magisterium, doctrinam officialem Ecclesiae, tuetur ne errorem definitive doceat. Non significat unumquodque membrum irreprehensibile esse. Significat veritatem quam Christus Ecclesiae suae commisit destrui non posse: Graece, πύλαι ᾅδου, potestas mortis et sepulcri, eam non evertunt.</p>
+                <h2>Conclusio: credere et implere<br>Mt 7, 21</h2>
+                <p>Verbum prophetarum a Deo est. Apostoli id testificati sunt. Totum lectum, de Traditione quoque orali loquitur, de eo qui interpretatur, et de Ecclesia a Christo condita. Et fides in eo consistit ut fiat quod Deus dicit:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mt 7, 21</span>
+                    <blockquote>«Non omnis, qui dicit mihi: «Domine, Domine», intrabit in regnum caelorum, sed <strong class="s-hi">qui facit voluntatem Patris mei</strong>, qui in caelis est.»</blockquote>
+                </div>
+                <p>Credere est Iesu Christo confidere etiam cum experientia humana contrarium dicit, sicut Petrus in lacu fecit. Biblia, tota lecta, ad Ecclesiam a Iesu conditam spectat.</p>`,
       nav: {
         prevTitle: "Sanctissima Trinitas",
         nextTitle: "Primatus Petri"
@@ -938,76 +1080,119 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
                 <span class="eyebrow-text">Thema Speciale</span>
             </div>
             <h1>Sacerdotium in Ecclesia Catholica</h1>
-            <p>Existitne sacerdotium ordinatum ministeriale in Novo Testamento? Biblia respondet — et responsio nullum locum dubitationi relinquit.</p>
+            <p>Estne in Novo Testamento sacerdotium ordinatum? Biblia respondet: est. Presbyteri ordinati, confessio, altare et sacrificium.</p>
             <div class="article-meta">
                 <span>XI min lectura</span>
                 <span>Editus Maio MMXXVI</span>
             </div>
             <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
-      article: `<p>Est quaestio quae sine responsione manere non potest: Iesus dixit <em>«Quorum remiseritis peccata, remittuntur eis; et quorum retinueritis, retenta sunt»</em> (Io 20, 22-23). Cui dixit? Et quomodo peccata alicuius retineri possunt sine scientia quae sint? Hoc confessionem exigit. Hoc sacerdotem exigit cum auctoritate ad remittendum. Singillatim progrediamur.</p>
+      article: `<p>Iesus apostolis potestatem dedit peccata remittendi et etiam retinendi (Io 20, 23). Quomodo alicuius peccata retinentur, si quae sint nescitur? Hoc confessionem postulat. Hoc sacerdotem postulat qui potestatem habeat remittendi.</p>
+                <p>Plures sectae protestantes haeresim tenent nullum esse sacerdotium ordinatum. Adventistae et Baptistae eam iisdem fere verbis proferunt: <em>«Omnes credentes sacerdotes sumus; nullo mediatore opus est.»</em> Et ad hoc 1 Petri 2, 9 afferunt. Is versus verus est et in Biblia invenitur. Ceteri quoque ibi sunt, et de altero sacerdotio loquuntur quod nemo sibi sumit.</p>
                 <h2>Homo ex hominibus assumptus<br>Heb 5, 1-2</h2>
                 <p>Epistula ad Hebraeos ab initio clara est:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Heb 5, 1-2</span>
                     <blockquote>«<strong class="s-hi">Omnis enim pontifex ex hominibus assumptus</strong>, pro hominibus constituitur in his quae sunt ad Deum, ut offerat dona et sacrificia pro peccatis; qui condolere possit his qui ignorant et errant, quoniam et ipse circumdatus est infirmitate.»</blockquote>
                 </div>
-                <p>Sacerdos non est supra condicionem humanam. Easdem luctas, tentationes et infirmitates cuiuslibet fidelis participat. Hoc est fundamentum compassionis pastoralis: nemo potest alium in his quae non expertus est vere comitari. Sacerdos condolere potest quia et ipse infirmitate circumdatus est.</p>
-                <h2>Sanctus per Deum, non per meritum proprium<br>Lev 21, 6-8</h2>
-                <p>In Levitico, Deus statuit sacerdotes ut sanctos habendos esse. Sed sanctitas ab eis postulata non est perfectio moralis absoluta, sed consecratio: Deo et eius servitio separati sunt:</p>
+                <p>Sacerdos non est supra condicionem humanam. Easdem pugnas, tentationes et infirmitates habet quas quilibet fidelis. Hoc est fundamentum misericordiae pastoralis: nemo alterum comitari potest in eo quod ipse ignorat. Sacerdos condolere potest quia et ipse pugnat.</p>
+                <h2>Sanctus per Deum, non suo merito<br>Lev 21, 6-8</h2>
+                <p>In Levitico Deus statuit sacerdotes sanctos habendos esse. Sanctitas quae ab eis petitur non est perfectio moralis absoluta, sed consecratio: Deo eiusque servitio segregati sunt:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Lev 21, 6-8</span>
                     <blockquote>«Sancti erunt Deo suo et non polluent nomen Dei sui... <strong class="s-hi">Sanctificabis ergo eum quoniam panem Dei tui ipse offert; sanctus erit tibi quia sanctus sum ego Dominus qui sanctifico vos.</strong>»</blockquote>
                 </div>
-                <p>Populus debet sacerdotem sanctum habere non propter merita propria, sed propter Deum. Sanctitas ministerii ab Eo qui id instituit venit. Hoc nos liberat ab expectatione falsa: fides nostra non in virtute ministri, sed in fidelitate Dei quiescit.</p>
-                <h2>«Omnes sacerdotes sumus» — obiectio et eius limites<br>1 Pet 2, 9 et Heb 5, 4</h2>
-                <p>Petrus id clare dicit:</p>
+                <p>Non dicit «sanctus erit quia id meruit»: dicit <em>quia sanctus sum ego Dominus qui sanctifico vos</em>. Populo praecipitur ut eum sanctum habeat propter Deum, non propter merita hominis. Fides non in virtute ministri nititur, sed in fidelitate Dei.</p>
+                <h2>«Omnes sacerdotes sumus»: obiectio eiusque limes<br>1 Pet 2, 9 et Heb 5, 4</h2>
+                <p>Sanctus Petrus clare dicit:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Pet 2, 9</span>
                     <blockquote>«<strong class="s-hi">Vos autem genus electum, regale sacerdotium, gens sancta</strong>, populus in acquisitionem, ut virtutes annuntietis eius qui de tenebris vos vocavit in admirabile lumen suum.»</blockquote>
                 </div>
-                <p>Sacerdotium baptismale reale est. Nemo id negat. Sed duo sacerdotia sunt in Novo Testamento, non unum. Eadem Epistula ad Hebraeos id praecise distinguit:</p>
+                <p>Sacerdotium baptismale verum est. Nemo id negat. Sed in Novo Testamento duo sunt sacerdotia, non unum, et eadem epistula ad Hebraeos ea accurate distinguit:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Heb 5, 4</span>
                     <blockquote>«<strong class="s-hi">Nec quisquam sumit sibi honorem, sed qui vocatur a Deo, tamquam Aaron.</strong>»</blockquote>
                 </div>
-                <p>Unum sacerdotium in baptismate accipitur; aliud vocationem et consecrationem specificam exigit. Haec non est inventio sera. Quando Core et sui argumentabant quod <em>«universa multitudo sanctorum est et in medio eorum Dominus»</em> (Num 16, 3) — sacerdotium ministeriale sine vocatione sibi vindicantes — terra sub pedibus eorum aperta est. Et in Novo Testamento:</p>
+                <p>Est sacerdotium quod in baptismo accipitur, et est aliud quod vocationem et consecrationem propriam requirit. Non est inventum serotinum. Core eiusque socii idem argumentum iam contra Moysen et Aaron usurpaverunt:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Num 16, 3</span>
+                    <blockquote>«Cumque stetissent adversum Moysen et Aaron, dixerunt: «Sufficiat vobis, quia <strong class="s-hi">omnis multitudo sanctorum est, et in ipsis est Dominus</strong>. Cur elevamini super populum Domini?»»</blockquote>
+                </div>
+                <p>Sacerdotium ministeriale sine vocatione vindicabant, et Deus respondit terra sub pedibus eorum aperta. In Novo Testamento apostoli presbyteros ordinant:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Act 14, 23</span>
                     <blockquote>«<strong class="s-hi">Cum constituissent illis per singulas ecclesias presbyteros</strong>, et orassent cum ieiunationibus, commendaverunt eos Domino in quem crediderant.»</blockquote>
                 </div>
-                <p>Paulus Tito mandat: <em>«Huius rei gratia reliqui te Cretae ut ea quae desunt corrigas et <strong>constituas per civitates presbyteros</strong>»</em> (Tit 1, 5). Timotheo commemorat: <em>«Noli neglegere gratiam quae in te est, quae data est tibi per prophetiam cum <strong>impositione manuum presbyterii</strong>»</em> (1 Tim 4, 14). Haec est structura, non metaphora.</p>
-                <h2>«Nolite vocare patrem quemquam» — responsio biblica<br>Mt 23, 9</h2>
-                <p>Iesus dicit in Mt 23, 9: <em>«<strong>Et patrem nolite vocare vobis super terram</strong>, unus enim est Pater vester, qui in caelis est.»</em> Qui hunc versum adversus sacerdotium catholicum adhibet, problema habet: ipsa Biblia id in pluribus locis contradicit.</p>
-                <p>Paulus seipsum patrem vocat: <em>«Nam si decem milia paedagogorum habeatis in Christo, sed non multos patres; <strong>nam in Christo Iesu per Evangelium ego vos genui</strong>»</em> (1 Cor 4, 15). Stephanus, ante eos qui eum lapidaturi erant, eos alloquitur: <em>«<strong>Fratres et patres</strong>, audite»</em> (Act 7, 2). Abraham saepe «pater circumcisionis» vocatur (Rom 4, 12). Ipse Iesus de patre cuiusque loquitur (Mt 7, 11; Lc 15, 11-32).</p>
-                <p>Mt 23, 9 non prohibet usum grammaticalem verbi: prohibet idolatriam auctoritatis humanae, hominem in locum Dei ponendo. Contextus id dicit: Iesus contra scribas et pharisaeos loquitur qui honores et titulos sibi quaerunt.</p>
-                <h2>Remissio peccatorum — Io 20, 22-23</h2>
-                <p>Ad punctum initiale revertamur. Iesus resurrectus apparuit apostolis, insufflavit in eos — idem gestus quo in Gen 2, 7 vitam homini de limo dedit — et dixit:</p>
+                <p>Paulus idem Tito praecipit:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Tit 1, 5</span>
+                    <blockquote>«Huius rei gratia reliqui te Cretae, ut ea, quae desunt, corrigas et <strong class="s-hi">constituas per civitates presbyteros</strong>, sicut ego tibi disposui.»</blockquote>
+                </div>
+                <p>Et Timotheo in memoriam revocat quomodo donum acceperit:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Tim 4, 14</span>
+                    <blockquote>«Noli neglegere donationem, quae in te est, quae data est tibi per prophetiam <strong class="s-hi">cum impositione manuum presbyterii</strong>.»</blockquote>
+                </div>
+                <p>Presbyterium: corpus constitutum, cum manibus quae imponuntur et dono quod traditur. Haec structura est, non metaphora.</p>
+                <h2>Testes Iehovae: regale sacerdotium paene nemini<br>1 Pet 2, 9</h2>
+                <p>Testes Iehovae hac obiectione non utuntur, et causa eos in peiore loco ponit. Secundum eos 1 Petri 2, 9 non de omnibus credentibus loquitur. Ephemeris eorum <em>The Watchtower</em> (15 Ianuarii 2012) docet Petrum ibi Christianis unctis tantum scripsisse, et hos unctos esse illa 144 000 qui una cum Christo sacerdotium regale constituunt. Paene omnes eorum fideles extra omne sacerdotium manent, tam baptismale quam ordinatum. Petrus toti Ecclesiae scripsit.</p>
+                <h2>«Patrem nolite vocare»: responsio biblica<br>Mt 23, 9</h2>
+                <p>Testes Iehovae scripto docent Iesum vetuisse ne nomen «pater» hominibus tamquam titulus religiosus tribueretur (<em>Insight on the Scriptures</em>, «Father»). Hoc versu nituntur:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mt 23, 9</span>
+                    <blockquote>«<strong class="s-hi">Et Patrem nolite vocare vobis super terram</strong>, unus enim est Pater vester, caelestis.»</blockquote>
+                </div>
+                <p>Qui hoc versu contra sacerdotium catholicum utitur difficultatem habet: eadem Biblia ei pluribus locis contradicit. Sanctus Paulus se ipsum patrem appellat:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Cor 4, 15</span>
+                    <blockquote>«Nam si decem milia paedagogorum habeatis in Christo, sed non multos patres, <strong class="s-hi">nam in Christo Iesu per evangelium ego vos genui</strong>.»</blockquote>
+                </div>
+                <p>Stephanus, coram iis qui eum lapidaturi erant, sic eos alloquitur:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Act 7, 2</span>
+                    <blockquote>«Qui ait: «<strong class="s-hi">Viri fratres et patres</strong>, audite. Deus gloriae apparuit <strong class="s-hi">patri nostro Abraham</strong>, cum esset in Mesopotamia, priusquam moraretur in Charran»»</blockquote>
+                </div>
+                <p>Et Paulus Abraham bis in uno versu patrem appellat:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Rom 4, 12</span>
+                    <blockquote>«et <strong class="s-hi">pater circumcisionis</strong> his non tantum, qui ex circumcisione sunt, sed et qui sectantur vestigia eius, quae fuit in praeputio, fidei <strong class="s-hi">patris nostri Abrahae</strong>.»</blockquote>
+                </div>
+                <p>Ipse Iesus de patre uniuscuiusque loquitur (Mt 7, 11; Lc 15, 11-32).</p>
+                <p>Matthaei 23, 9 usum grammaticum verbi non prohibet: prohibet idololatriam auctoritatis humanae, hominem in locum Dei ponere. Contextus id dicit: Iesus contra pharisaeos loquitur qui honores et titulos sibi quaerunt.</p>
+                <h2>Remissio peccatorum<br>Io 20, 22-23</h2>
+                <p>Iesus resuscitatus apostolis apparet et in eos insufflat. Idem gestus est ac in Genesi:</p>
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Gen 2, 7</span>
+                    <blockquote>«tunc formavit Dominus Deus hominem pulverem de humo et <strong class="s-hi">inspiravit in nares eius spiraculum vitae</strong>, et factus est homo in animam viventem.»</blockquote>
+                </div>
+                <p>Nunc qui insufflat Christus est:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Io 20, 22-23</span>
-                    <blockquote>«Accipite Spiritum Sanctum. <strong class="s-hi">Quorum remiseritis peccata, remittuntur eis; et quorum retinueritis, retenta sunt.</strong>»</blockquote>
+                    <blockquote>«Et cum hoc dixisset, insufflavit et dicit eis: «<strong class="s-hi">Accipite Spiritum Sanctum. Quorum remiseritis peccata, remissa sunt eis; quorum retinueritis, retenta sunt</strong>».»</blockquote>
                 </div>
-                <p>Quomodo peccata alicuius retineri possunt sine scientia quae sint? Non potest. Hic versus exigit ut paenitens peccata sua declaret. Haec est confessio sacramentalis, ab ipso Christo instituta.</p>
+                <p>Verbum quod nemo affert est <em>retinere</em>. Quomodo alicuius peccata retinentur, si quae sint nescitur? Fieri non potest. Hic versus postulat ut paenitens peccata sua declaret, quia sine iis auditis nihil est remittendum nec retinendum. Haec est confessio sacramentalis, ab ipso Christo instituta.</p>
+                <p>Testes Iehovae dimidium retinent. Fidelibus suis praecipiunt ut peccata gravia senioribus congregationis confiteantur, et fatentur hos seniores nemini peccata absolvere posse, quia nulli homini potestas data sit alteri peccatum contra Deum commissum remittendi (<em>The Watchtower</em>, 1 Septembris 2010). Confessionem habent et remissionem non habent. Christus utramque simul dedit.</p>
                 <h2>Altare et sacrificium in Novo Testamento<br>Heb 13, 10 et Mal 1, 11</h2>
-                <p>Si nullum sacerdotium et nullum sacrificium in Novo Testamento sunt, cur Epistula ad Hebraeos hoc dicit?</p>
+                <p>Si in Novo Testamento nec sacerdotium nec sacrificium est, cur epistula ad Hebraeos hoc dicit?</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Heb 13, 10</span>
                     <blockquote>«<strong class="s-hi">Habemus altare</strong> de quo edere non habent potestatem qui tabernaculo deserviunt.»</blockquote>
                 </div>
-                <p>Et propheta Malachias, saeculis ante Christum, annuntiavit:</p>
+                <p>Et Malachias propheta, saeculis ante Christum, nuntiavit:</p>
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Mal 1, 11</span>
                     <blockquote>«Ab ortu enim solis usque ad occasum magnum est nomen meum in gentibus et in omni loco <strong class="s-hi">sacrificatur et offertur nomini meo oblatio munda</strong>, quia magnum est nomen meum in gentibus, dicit Dominus exercituum.»</blockquote>
                 </div>
-                <p>Oblatio munda in omni loco terrae. Patres primorum saeculorum in hoc Eucharistiam agnoverunt — unicum sacrificium quod hanc prophetiam implet.</p>
-                <h2>Quod Scriptura docet</h2>
+                <p>Sacrificium et oblatio munda, in omni loco terrae, a propheta nuntiata cum unicum altare legitimum Hierosolymis esset. Patres primorum saeculorum in hoc Eucharistiam agnoverunt, unicum sacrificium quod eam prophetiam implet. Et si sacrificium est, est qui id offerat.</p>
+                <h2>Quid Scriptura dicat</h2>
                 <ul>
-                    <li>Sacerdos est homo sicut omnes, qui luctari et errare potest.</li>
-                    <li>Auctoritas et sanctitas eius a Deo, non ex meritis propriis, veniunt.</li>
-                    <li>Validitas sacramentorum non pendet ex sanctitate personali ministri.</li>
+                    <li>Sacerdos homo est ut ceteri, qui pugnare et deficere potest.</li>
+                    <li>Eius auctoritas et sanctitas a Deo veniunt, non a meritis eius propriis.</li>
+                    <li>Validitas sacramentorum a sanctitate personali ministri non pendet.</li>
                     <li>Sacerdotium ministeriale ordinatum in Novo Testamento est: Act 14, 23; Tit 1, 5; 1 Tim 4, 14.</li>
-                    <li>Confessio sacramentalis ab ipso Christo in Io 20, 22-23 instituta est.</li>
+                    <li>Remissio sacramentalis a Christo instituta est in Io 20, 22-23.</li>
                 </ul>
-                <p>Si Biblia tota accipitur — non loci isolati — sacerdotium ordinatum, confessio, sacrificium et altare inveniuntur. Quaestio non est an in Biblia sit. Est. Quaestio est utrum quis paratus sit totum legere.</p>`,
+                <p>Si tota Biblia sumitur, et non loci seiuncti, invenitur sacerdotium ordinatum, confessio, sacrificium et altare. Totum in Biblia est.</p>`,
       nav: {
         prevTitle: "Transsubstantiatio: mysterium eucharisticum",
         nextTitle: "Sancti et eorum intercessio"

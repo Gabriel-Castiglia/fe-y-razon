@@ -228,7 +228,13 @@ son las que él marcó como «Resaltado».
                     <span class="scripture-ref">✝︎ Eclesiastés 12:7</span>
                     <blockquote>«antes que el polvo vuelva a la tierra, como lo que es, y <strong class="s-hi">el aliento vuelva a Dios</strong>, porque es él quien lo dio.»</blockquote>
                 </div>
-                <p>El cuerpo vuelve a la tierra y el aliento vuelve a Dios. La palabra hebrea es <em>rúaj</em>, la misma que se traduce por espíritu, y por eso otras versiones dicen «el espíritu vuelve a Dios». La frase de Eclesiastés 9:5 que citan los adventistas se completa en el versículo siguiente: los muertos <em>«nunca más podrán compartir todo lo que se hace bajo el sol»</em> (Ecl 9:6). No saben nada de lo que pasa en este mundo. Eso no dice que hayan dejado de existir.</p>
+                <p>El cuerpo vuelve a la tierra y el aliento vuelve a Dios. La palabra hebrea es <em>rúaj</em>, la misma que se traduce por espíritu, y por eso otras versiones dicen «el espíritu vuelve a Dios». La frase de Eclesiastés 9:5 que citan los adventistas se completa en el versículo siguiente:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Eclesiastés 9:6</span>
+                    <blockquote>«Se han esfumado sus amores, sus odios y sus rivalidades, y <strong class="s-hi">nunca más podrán compartir todo lo que se hace bajo el sol</strong>.»</blockquote>
+                </div>
+                <p>No saben nada de lo que pasa en este mundo. Eso no dice que hayan dejado de existir.</p>
                 <p>Y al volver a Dios, el espíritu tiene que estar limpio, porque algo manchado de pecado no puede presentarse ante él. Para eso es el purgatorio.</p>
                 <ul>
                     <li>Jesús habla de una deuda que se paga hasta el final y de una cárcel de la que se sale.</li>
@@ -262,9 +268,14 @@ REGLA: Todas las citas bíblicas en español provienen de "El Libro del Pueblo
 de Dios" (traducción argentina, 1990), que es la Biblia en español publicada
 libremente por la Santa Sede en vatican.va/archive/ESL0506/. Usa "ustedes".
 NUNCA Reina-Valera ni traducciones protestantes.
-Las siete citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2026.
+Las siete citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2026;
+el 4-oct-2026 Jn 15:1 pasó a recuadro (8 citas).
+Atribución verificada el 4-oct-2026, «símbolo» por escrito: bautistas (Baptist
+Faith & Message, art. 7), Asambleas de Dios (verdad fundamental 6), adventistas
+(creencia 16, «emblemas»), Testigos (glosario de su Biblia, «simbolizan»).
+Los luteranos NO: creen en la presencia real.
 -->
-<p>Los protestantes, sean pentecostales, adventistas o Testigos de Jehová, responden lo mismo cuando alguien menciona la Eucaristía: <em>«Es solo un símbolo.»</em> ¿Es la Eucaristía un símbolo o es real? La respuesta está en San Juan 6. No hay texto más claro, más directo ni más desafiante en todo el Evangelio sobre este tema. Y Jesús no cede. Pero Juan 6 no es el único testigo: Pablo lo confirma de manera independiente, y los primeros discípulos de los apóstoles lo entendieron sin ambigüedad. Hay tres líneas de evidencia. Ninguna tiene respuesta en la interpretación simbólica.</p>
+<p>Varias sectas protestantes sostienen la herejía de que la Eucaristía es un símbolo. Los bautistas, los pentecostales de las Asambleas de Dios, los adventistas y los Testigos de Jehová lo tienen escrito en sus credos, y responden lo mismo cuando alguien la menciona: <em>«Es solo un símbolo.»</em> ¿Es la Eucaristía un símbolo o es real? La respuesta está en San Juan 6. No hay texto más claro, más directo ni más desafiante en todo el Evangelio sobre este tema. Y Jesús no cede. Pero Juan 6 no es el único testigo: Pablo lo confirma de manera independiente, y los primeros discípulos de los apóstoles lo entendieron sin ambigüedad. Hay tres líneas de evidencia. Ninguna tiene respuesta en la interpretación simbólica.</p>
                 <h2>Yo soy el pan de Vida<br>Juan 6:47-51</h2>
                 <p>Jesús no dice «represento el pan de Vida» ni «soy como el pan de Vida». Dice:</p>
                 <!-- fuente: vaticano -->
@@ -280,20 +291,26 @@ Las siete citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
                 </div>
                 <p>No dice «si no recuerdan» ni «si no contemplan». Dice <em>comer</em> y <em>beber</em>. Y lo repite con distintas palabras para que no haya confusión: <em>la verdadera comida</em> y <em>la verdadera bebida</em>. El adjetivo «verdadera» excluye expresamente lo simbólico.</p>
                 <h2>La objeción de la metáfora<br>Juan 15:1</h2>
-                <p>La respuesta habitual es: «Es una metáfora, como cuando dice "Yo soy la vid" o "Yo soy la puerta".» Hay que ir a la Biblia. Cuando Jesús dijo <em>«Yo soy la verdadera vid»</em> (Jn 15:1), nadie se fue. Cuando dijo «coman mi carne», muchos se fueron. La diferencia es decisiva:</p>
+                <p>La respuesta habitual es: «Es una metáfora, como cuando dice "Yo soy la vid" o "Yo soy la puerta".» Cuando Jesús dijo esto, nadie se fue:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 15:1</span>
+                    <blockquote>«<strong class="s-hi">Yo soy la verdadera vid</strong> y mi Padre es el viñador.»</blockquote>
+                </div>
+                <p>Cuando dijo «coman mi carne», muchos se fueron. La diferencia es decisiva:</p>
                 <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Juan 6:60</span>
                     <blockquote>«Después de oírlo, muchos de sus discípulos decían: <strong class="s-hi">«¡Es duro este lenguaje! ¿Quién puede escucharlo?».</strong>»</blockquote>
                 </div>
-                <p>Jesús no los corrige diciendo «malentendieron, era una metáfora». Los deja partir. Esa es la prueba más contundente: si fuera simbólico, el buen pastor los hubiera retenido con una aclaración. No lo hace. Y hay que oír de qué se quejan: no dicen que sea difícil de entender, dicen que es duro de escuchar. Habían entendido perfectamente.</p>
+                <p>Jesús no los corrige diciendo «malentendieron, era una metáfora». Los deja partir. Esa es la prueba más contundente: si fuera simbólico, el buen pastor los hubiera retenido con una aclaración. No lo hace. Y se quejan de algo preciso: no dicen que sea difícil de entender, dicen que es duro de escuchar. Habían entendido perfectamente.</p>
                 <h2>Esto genera división<br>Juan 6:66-67</h2>
                 <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Juan 6:66-67</span>
                     <blockquote>«<strong class="s-hi">Desde ese momento, muchos de sus discípulos se alejaron de él y dejaron de acompañarlo.</strong> Jesús preguntó entonces a los Doce: <strong class="s-hi">«¿También ustedes quieren irse?».</strong>»</blockquote>
                 </div>
-                <p>No cede. No suaviza. No negocia el significado. Jesús es el buen pastor que no dejaría que ninguna oveja se perdiera por un malentendido —pero en esto es inflexible.</p>
+                <p>No cede. No suaviza. No negocia el significado. Jesús es el buen pastor que no dejaría que ninguna oveja se perdiera por un malentendido, pero en esto es inflexible.</p>
                 <h2>No hay interpretación posible<br>Juan 6:68</h2>
                 <!-- fuente: vaticano -->
                 <div class="scripture-block">
@@ -301,32 +318,26 @@ Las siete citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
                     <blockquote>Simón Pedro le respondió: <strong class="s-hi">«Señor, ¿a quién iremos? Tú tienes palabras de Vida eterna.»</strong></blockquote>
                 </div>
                 <p>Pedro no dice que entiende todo. Dice que confía. Eso es la fe: no tener todas las respuestas, sino saber en Quién se cree.</p>
-                <ul>
-                    <li>«Yo soy» — no representa, es.</li>
-                    <li>«La verdadera comida, la verdadera bebida» — no simbólica.</li>
-                    <li>Jesús no corrige a quienes lo entendieron literalmente: los deja ir.</li>
-                    <li>Pedro no lo entiende del todo, pero confía. Eso es la fe.</li>
-                </ul>
-                <h2>Pablo lo confirma — testigo independiente<br>1 Corintios 10:16 y 11:27-29</h2>
+                <h2>Pablo lo confirma: un testigo independiente<br>1 Corintios 10:16 y 11:27-29</h2>
                 <p>Pablo escribe su primera carta a los Corintios antes de que se redacte el Evangelio de Juan. Son dos testigos completamente independientes. Pablo dice:</p>
                 <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Corintios 10:16</span>
                     <blockquote>«<strong class="s-hi">La copa de bendición que bendecimos, ¿no es acaso comunión con la Sangre de Cristo? Y el pan que partimos, ¿no es comunión con el Cuerpo de Cristo?</strong>»</blockquote>
                 </div>
-                <p>No dice «recuerdo». Dice <em>comunión</em> —participación real, contacto efectivo. Y luego:</p>
+                <p>No dice «recuerdo». Dice <em>comunión</em>: participación real, contacto efectivo. Y luego:</p>
                 <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Corintios 11:27-29</span>
                     <blockquote>«<strong class="s-hi">Por eso, el que coma el pan o beba la copa del Señor indignamente tendrá que dar cuenta del Cuerpo y de la Sangre del Señor.</strong> Que cada uno se examine a sí mismo antes de comer este pan y beber esta copa; porque <strong class="s-hi">si come y bebe sin discernir el Cuerpo del Señor</strong>, come y bebe su propia condenación.»</blockquote>
                 </div>
-                <p>Hay que fijarse ante quién se responde. No se da cuenta del pan ni de la copa: se da cuenta <em>del Cuerpo y de la Sangre del Señor</em>. El griego que hay detrás es ἔνοχος, el término del que queda sujeto a juicio, el que tiene que responder ante un tribunal; nadie responde ante un tribunal por haber tratado mal un símbolo. Pablo dice además: «sin discernir el Cuerpo del Señor». Si fuera solo pan, ¿qué Cuerpo habría que discernir?</p>
-                <h2>Los primeros cristianos — testigos formados por los apóstoles</h2>
+                <p>Lo decisivo es ante quién se responde. No se da cuenta del pan ni de la copa: se da cuenta <em>del Cuerpo y de la Sangre del Señor</em>. El griego que hay detrás es ἔνοχος, el término del que queda sujeto a juicio, el que tiene que responder ante un tribunal; nadie responde ante un tribunal por haber tratado mal un símbolo. Pablo dice además: «sin discernir el Cuerpo del Señor». Si fuera solo pan, ¿qué Cuerpo habría que discernir?</p>
+                <h2>Los primeros cristianos: testigos formados por los apóstoles</h2>
                 <p>Ignacio de Antioquía fue discípulo directo del apóstol Juan. Murió mártir alrededor del año 107 d.C. Escribió en su Carta a los Esmirniotas:</p>
                 <blockquote>«<strong class="s-hi">Se abstienen de la Eucaristía y de la oración, porque no confiesan que la Eucaristía es la carne de nuestro Salvador Jesucristo</strong>, la que padeció por nuestros pecados, la que el Padre resucitó por su bondad.» — Ignacio de Antioquía, Carta a los Esmirniotas 6-7 (~107 d.C.)</blockquote>
                 <p>Justino Mártir escribió alrededor del año 150 d.C., a setenta años de la muerte de los apóstoles:</p>
                 <blockquote>«<strong class="s-hi">No recibimos esto como pan común ni como bebida común</strong>... así también se nos ha enseñado que ese alimento eucaristizado es <strong class="s-hi">la carne y la sangre del Jesús encarnado.</strong>» — Justino Mártir, Primera Apología 66 (~150 d.C.)</blockquote>
-                <p>Si los primeros cristianos —formados por los apóstoles mismos— creyeron en la Presencia Real, la pregunta que merece respuesta honesta es: ¿quién cambió eso? ¿Cuándo? ¿Con qué autoridad?</p>
+                <p>Los primeros cristianos, formados por los apóstoles mismos, creyeron en la Presencia Real. La Eucaristía como puro símbolo llegó quince siglos después, con Zuinglio.</p>
                 <h2>Conclusión</h2>
                 <p>Jesús afirma la presencia real con la frase más directa posible: «mi carne es la verdadera comida». Ante la objeción de los que se escandalizan, no aclara ninguna metáfora: los deja irse. Pablo lo confirma desde afuera del relato joánico. Y los primeros discípulos de los apóstoles lo creyeron sin sombra de duda. Tres líneas de evidencia independientes. Ninguna tiene respuesta en la interpretación simbólica.</p>
                 <p>Cómo esta realidad se hace presente en la Misa está en el tema <a href="tema-transubstanciacion.html">Transubstanciación</a>, desde 1 Corintios 10:16. Y por qué estas palabras se aceptan como verdad de Dios, en el tema <a href="tema-por-que-creemos.html">¿Por qué creemos?</a></p>`,
@@ -632,8 +643,20 @@ Cotejadas el 28-sep-2026: las once, del Vaticano.
                     <span class="scripture-ref">✝︎ Mateo 16:16-19</span>
                     <blockquote>«Tomando la palabra, Simón Pedro respondió: «Tú eres el Mesías, el Hijo de Dios vivo». Y Jesús le dijo: «Feliz de ti, Simón, hijo de Jonás, porque esto no te lo ha revelado ni la carne ni la sangre, sino mi Padre que está en el cielo. Y yo te digo: <strong class="s-hi">Tú eres Pedro, y sobre esta piedra edificaré mi iglesia</strong><strong>, y el poder de la Muerte no prevalecerá contra ella</strong>. <strong class="s-hi">Yo te daré</strong> <strong>las llaves del Reino de los Cielos. Todo lo que ates en la tierra, quedará atado en el cielo, y todo lo que desates en la tierra, quedará desatado en el cielo</strong>».»</blockquote>
                 </div>
-                <p>Jesús hablaba arameo, y en arameo la palabra es una sola: <em>kefa</em>, piedra. El Evangelio de Juan conserva el nombre original en el primer encuentro: <em>«tú te llamarás Cefas, que traducido significa Pedro»</em> (Jn 1:42), y Pablo lo sigue llamando Cefas en sus cartas. Al pasar al griego, <em>petra</em> es una palabra femenina y no sirve como nombre de varón, así que se le dio la terminación masculina: <em>Petros</em>. La diferencia entre piedrita y roca no está en lo que Jesús dijo. Está en la gramática del traductor.</p>
-                <p>Después, las llaves. Mateo escribe para judíos, y un judío sabía qué significaba recibir las llaves de un rey. Isaías lo cuenta: Dios anuncia que va a quitar de su cargo a Sebná, el mayordomo de palacio, y que pondrá en su lugar a Eliaquím: <em>«pondré sobre sus hombros la llave de la casa de David: lo que él abra, nadie lo cerrará; lo que él cierre, nadie lo abrirá»</em> (Is 22:22). La llave era la autoridad del rey puesta en manos de un administrador, que abría y cerraba en su nombre. Jesús toma esa imagen y se la entrega a Pedro, con el mismo par de verbos (atar y desatar, abrir y cerrar) y con una garantía que Eliaquím no tenía: lo que Pedro ate en la tierra queda atado en el cielo.</p>
+                <p>Jesús hablaba arameo, y en arameo la palabra es una sola: <em>kefa</em>, piedra. El Evangelio de Juan conserva el nombre original en el primer encuentro:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 1:42</span>
+                    <blockquote>«Entonces lo llevó a donde estaba Jesús. Jesús lo miró y le dijo: «Tú eres Simón, el hijo de Juan: <strong class="s-hi">tú te llamarás Cefas</strong>», que traducido significa Pedro.»</blockquote>
+                </div>
+                <p>Pablo lo sigue llamando Cefas en sus cartas. Al pasar al griego, <em>petra</em> es una palabra femenina y no sirve como nombre de varón, así que se le dio la terminación masculina: <em>Petros</em>. La diferencia entre piedrita y roca no está en lo que Jesús dijo. Está en la gramática del traductor.</p>
+                <p>Después, las llaves. Mateo escribe para judíos, y un judío sabía qué significaba recibir las llaves de un rey. Isaías lo cuenta: Dios anuncia que va a quitar de su cargo a Sebná, el mayordomo de palacio, y que pondrá en su lugar a Eliaquím:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Isaías 22:22</span>
+                    <blockquote>«<strong class="s-hi">pondré sobre sus hombros la llave de la casa de David</strong>: lo que él abra, nadie lo cerrará; lo que él cierre, nadie lo abrirá.»</blockquote>
+                </div>
+                <p>La llave era la autoridad del rey puesta en manos de un administrador, que abría y cerraba en su nombre. Jesús toma esa imagen y se la entrega a Pedro, con el mismo par de verbos (atar y desatar, abrir y cerrar) y con una garantía que Eliaquím no tenía: lo que Pedro ate en la tierra queda atado en el cielo.</p>
                 <p>Y todo está dicho en singular. Atar y desatar lo recibirán más adelante todos los apóstoles (Mt 18:18). Las llaves, solamente Pedro.</p>
                 <h2>Piedras vivas: nadie le quita el lugar a Cristo<br>1 Pedro 2:3-8</h2>
                 <p>El que mejor responde a la objeción de la roca es el propio Pedro.</p>
@@ -719,7 +742,13 @@ Cotejadas el 28-sep-2026: las once, del Vaticano.
                 <p>En Isaías la llave pasa de Sebná a Eliaquím: cambia el mayordomo y el cargo sigue, porque la casa de David sigue en pie. Pedro murió mártir en Roma, y la promesa de que el poder de la Muerte no prevalecería contra la Iglesia no murió con él.</p>
                 <div class="article-footnote">
                     <p><sup>*</sup> Si un sacerdote católico decide que quiere casarse, puede pedirlo, pero no puede resolverlo por su cuenta. Tiene que solicitar formalmente la dispensa del celibato, que concede solamente el Papa (Código de Derecho Canónico, c. 291), junto con la pérdida del estado clerical, conocida como reducción al estado laical o secularización. Al recibirla deja de ejercer el ministerio: no celebra la Misa, no predica ni administra los sacramentos, y se dedica por completo a su vida conyugal y familiar. La única excepción es el peligro de muerte, en el que puede absolver a quien lo necesite (c. 976).</p>
-                    <p>Lo que no pierde es el sacerdocio. La ordenación imprime un carácter indeleble (c. 1008): es sacerdote «para siempre, según el orden de Melquisedec» (Hebreos 5:6), y la Iglesia reconoce que sacerdote fue y sacerdote sigue siendo. Lo que pierde es el estado clerical, con sus derechos y obligaciones: deja de pertenecer jurídicamente al clero, pasa a ser un laico ante la ley de la Iglesia y queda libre del celibato para casarse válidamente por la Iglesia.</p>
+                    <p>Lo que no pierde es el sacerdocio. La ordenación imprime un carácter indeleble (c. 1008): es sacerdote para siempre.</p>
+                    <!-- fuente: vaticano -->
+                    <div class="scripture-block">
+                        <span class="scripture-ref">✝︎ Hebreos 5:6</span>
+                        <blockquote>«Como también dice en otro lugar: <strong class="s-hi">Tú eres sacerdote para siempre, según el orden de Melquisedec</strong>.»</blockquote>
+                    </div>
+                    <p>La Iglesia reconoce que sacerdote fue y sacerdote sigue siendo. Lo que pierde es el estado clerical, con sus derechos y obligaciones: deja de pertenecer jurídicamente al clero, pasa a ser un laico ante la ley de la Iglesia y queda libre del celibato para casarse válidamente por la Iglesia.</p>
                 </div>`,
       nav: {
         prevTitle: "Por qué creemos en la fe católica",
@@ -748,7 +777,13 @@ NUNCA Reina-Valera ni traducciones protestantes.
 Texto base de Gabriel: la santisima trinidad.docx (28-sep-2026).
 -->
 <p>La objeción contra la Trinidad que se oye dentro del mundo pentecostal no es de todos los pentecostales: las Asambleas de Dios y la mayoría de las iglesias pentecostales confiesan la Trinidad. Es la de los pentecostales unidos, los que se llaman unicitarios o de «solo Jesús»: <em>«Dios es uno solo, no tres personas. Padre, Hijo y Espíritu Santo son títulos, maneras en que el mismo Dios se manifestó. El Padre es Jesús, y el Espíritu Santo es el Espíritu de Jesús. Por eso se bautiza solamente en el nombre de Jesús.»</em></p>
-                <p>La Trinidad es un misterio: un solo Dios en tres Personas. Nadie la entiende a fondo, y la Iglesia nunca pidió entenderla para creerla. Lo que pide es creerle a Dios lo que dice de sí mismo, porque creer que hay un solo Dios no alcanza. Santiago lo dice así: <em><strong>«¿Tú crees que hay un solo Dios? Haces bien. Los demonios también creen, y sin embargo, tiemblan.»</strong></em> (Sant 2:19). Y lo que Dios dice de sí mismo está escrito con tanta insistencia que se entiende leyéndolo. Por eso este tema tiene más citas que explicaciones.</p>
+                <p>La Trinidad es un misterio: un solo Dios en tres Personas. Nadie la entiende a fondo, y la Iglesia nunca pidió entenderla para creerla. Lo que pide es creerle a Dios lo que dice de sí mismo, porque creer que hay un solo Dios no alcanza. Santiago lo dice así:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Santiago 2:19</span>
+                    <blockquote>«<strong class="s-hi">¿Tú crees que hay un solo Dios? Haces bien. Los demonios también creen, y sin embargo, tiemblan.</strong>»</blockquote>
+                </div>
+                <p>Y lo que Dios dice de sí mismo está escrito con tanta insistencia que se entiende leyéndolo. Por eso este tema tiene más citas que explicaciones.</p>
                 <h2>«Hagamos»: el plural del principio<br>Génesis 1:26</h2>
                 <p>La primera señal está en la primera página de la Biblia.</p>
                 <!-- fuente: vaticano -->
@@ -756,15 +791,32 @@ Texto base de Gabriel: la santisima trinidad.docx (28-sep-2026).
                     <span class="scripture-ref">✝︎ Génesis 1:26</span>
                     <blockquote>«Dios dijo: «<strong class="s-hi">Hagamos al hombre a nuestra imagen, según nuestra semejanza</strong>; y que le estén sometidos los peces del mar y las aves del cielo, el ganado, las fieras de la tierra, y todos los animales que se arrastran por el suelo».»</blockquote>
                 </div>
-                <p>Dios habla en plural, y en la escena no hay nadie más. No son los ángeles: los ángeles no crean, y el hombre sale a imagen de Dios, no de ellos. El versículo siguiente vuelve al singular: <em>«Y Dios creó al hombre a su imagen»</em> (Gn 1:27). Uno solo que dice «nosotros». Este versículo, solo, no prueba la Trinidad, y la Iglesia no lo usa así. Es un anuncio que el resto de la Escritura va a aclarar.</p>
+                <p>Dios habla en plural, y en la escena no hay nadie más. No son los ángeles: los ángeles no crean, y el hombre sale a imagen de Dios, no de ellos. El versículo siguiente vuelve al singular:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Génesis 1:27</span>
+                    <blockquote>«<strong class="s-hi">Y Dios creó al hombre a su imagen</strong>; lo creó a imagen de Dios, los creó varón y mujer.»</blockquote>
+                </div>
+                <p>Uno solo que dice «nosotros». Este versículo, solo, no prueba la Trinidad, y la Iglesia no lo usa así. Es un anuncio que el resto de la Escritura va a aclarar.</p>
                 <h2>El Primero y el Último, enviado<br>Isaías 48:16</h2>
-                <p>En Isaías 48 habla Dios, y se presenta con un título que nadie más puede llevar: <em>«Yo soy, yo soy el Primero y también soy el Último»</em> (Is 48:12). Es el que fundó la tierra y desplegó los cielos. Cuatro versículos después, el que habla dice esto:</p>
+                <p>En Isaías 48 habla Dios, y se presenta con un título que nadie más puede llevar:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Isaías 48:12</span>
+                    <blockquote>«Escúchame, Jacob, tú, Israel, a quien yo llamé: <strong class="s-hi">Yo soy, yo soy el Primero y también soy el Último.</strong>»</blockquote>
+                </div>
+                <p>Es el que fundó la tierra y desplegó los cielos. Cuatro versículos después, el que habla dice esto:</p>
                 <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Isaías 48:16</span>
                     <blockquote>«¡Acérquense a mí, escuchen esto: Desde el comienzo, nunca hablé en lo secreto, desde que esto sucede, yo estoy allí! –<strong class="s-hi">Ahora me han enviado el Señor y su espíritu</strong> –»</blockquote>
                 </div>
-                <p>El que estaba allí desde el comienzo es enviado, y lo envían el Señor y su espíritu. En un pasaje del Antiguo Testamento aparecen juntos el que envía, el enviado y el Espíritu. Siglos después, el Apocalipsis pone ese mismo título en boca de Jesús: <em>«yo soy el Primero y el Último, el Viviente. Estuve muerto, pero ahora vivo para siempre»</em> (Ap 1:17-18).</p>
+                <p>El que estaba allí desde el comienzo es enviado, y lo envían el Señor y su espíritu. En un pasaje del Antiguo Testamento aparecen juntos el que envía, el enviado y el Espíritu. Siglos después, el Apocalipsis pone ese mismo título en boca de Jesús:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Apocalipsis 1:17-18</span>
+                    <blockquote>«Al ver esto, caí a sus pies, como muerto, pero él, tocándome con su mano derecha, me dijo: «No temas: <strong class="s-hi">yo soy el Primero y el Último, el Viviente.</strong> Estuve muerto, pero ahora vivo para siempre y tengo la llave de la Muerte y del Abismo.»</blockquote>
+                </div>
                 <h2>Los tres en el Jordán<br>Marcos 1:10-11</h2>
                 <p>En el bautismo de Jesús la objeción de los títulos se queda sin lugar.</p>
                 <!-- fuente: vaticano -->
@@ -780,7 +832,13 @@ Texto base de Gabriel: la santisima trinidad.docx (28-sep-2026).
                     <span class="scripture-ref">✝︎ Hebreos 1:5</span>
                     <blockquote>«¿Acaso dijo Dios alguna vez a un ángel: «<strong class="s-hi">Tú eres mi Hijo, yo te he engendrado hoy</strong>»? ¿Y de qué ángel dijo: «<strong>Yo seré un padre para él y él será para mí un hijo</strong>»?»</blockquote>
                 </div>
-                <p>Uno habla y el otro es interpelado. Y tres versículos más abajo, el Padre llama Dios al Hijo: <em>«En cambio, a su Hijo le dice: «Tu trono, Dios, permanece para siempre»»</em> (Heb 1:8). El Hijo es Dios, y el Padre, que le habla, no es él.</p>
+                <p>Uno habla y el otro es interpelado. Y tres versículos más abajo, el Padre llama Dios al Hijo:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Hebreos 1:8</span>
+                    <blockquote>«En cambio, a su Hijo le dice: <strong class="s-hi">Tu trono, Dios, permanece para siempre</strong>. El cetro de tu realeza es un cetro justiciero.»</blockquote>
+                </div>
+                <p>El Hijo es Dios, y el Padre, que le habla, no es él.</p>
                 <h2>Junto al Padre, antes del mundo<br>Juan 17:5</h2>
                 <p>Para los pentecostales unidos, el Hijo empieza en Belén: «Hijo» sería el nombre de la humanidad de Jesús, y «Padre» el del Dios que habita en ella. Juan lo contesta en su primera carta.</p>
                 <!-- fuente: vaticano -->
@@ -788,13 +846,25 @@ Texto base de Gabriel: la santisima trinidad.docx (28-sep-2026).
                     <span class="scripture-ref">✝︎ 1 Juan 1:2-3</span>
                     <blockquote>«Porque la Vida se hizo visible, y nosotros la vimos y somos testigos, y les anunciamos <strong class="s-hi">la Vida eterna, que existía junto al Padre</strong> y que se nos ha manifestado. Lo que hemos visto y oído, se lo anunciamos también a ustedes, para que vivan en comunión con nosotros. Y nuestra comunión es <strong>con el Padre y con su Hijo Jesucristo</strong>.»</blockquote>
                 </div>
-                <p>Lo que los apóstoles vieron y tocaron existía junto al Padre antes de manifestarse. Nadie está junto a sí mismo. Es lo que Juan había escrito al abrir su Evangelio: <em>«la Palabra estaba junto a Dios, y la Palabra era Dios»</em> (Jn 1:1). Y Jesús lo dice con sus propias palabras la noche antes de morir:</p>
+                <p>Lo que los apóstoles vieron y tocaron existía junto al Padre antes de manifestarse. Nadie está junto a sí mismo. Es lo que Juan había escrito al abrir su Evangelio:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 1:1</span>
+                    <blockquote>«Al principio existía la Palabra, y <strong class="s-hi">la Palabra estaba junto a Dios, y la Palabra era Dios</strong>.»</blockquote>
+                </div>
+                <p>Y Jesús lo dice con sus propias palabras la noche antes de morir:</p>
                 <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Juan 17:5</span>
                     <blockquote>«Ahora, Padre, glorifícame junto a ti, <strong class="s-hi">con la gloria que yo tenía contigo antes que el mundo existiera</strong>.»</blockquote>
                 </div>
-                <p>Jesús le pide al Padre la gloria que tenía con él antes de la creación. Si el Hijo hubiera empezado en Belén, no tendría una gloria anterior que reclamar ni alguien con quien la hubiera tenido. En la misma oración insiste: <em>«ya me amabas antes de la creación del mundo»</em> (Jn 17:24). Antes del mundo había uno que amaba y otro que era amado.</p>
+                <p>Jesús le pide al Padre la gloria que tenía con él antes de la creación. Si el Hijo hubiera empezado en Belén, no tendría una gloria anterior que reclamar ni alguien con quien la hubiera tenido. En la misma oración insiste:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 17:24</span>
+                    <blockquote>«Padre, quiero que los que tú me diste estén conmigo donde yo esté, para que contemplen la gloria que me has dado, porque <strong class="s-hi">ya me amabas antes de la creación del mundo</strong>.»</blockquote>
+                </div>
+                <p>Antes del mundo había uno que amaba y otro que era amado.</p>
                 <h2>Dos testigos<br>Juan 8:16-18</h2>
                 <p>Discutiendo con los fariseos, Jesús invoca la Ley de Moisés, que no aceptaba un solo testigo (Dt 19:15).</p>
                 <!-- fuente: vaticano -->
@@ -803,7 +873,19 @@ Texto base de Gabriel: la santisima trinidad.docx (28-sep-2026).
                     <blockquote>«y si lo hago, mi juicio vale porque <strong class="s-hi">no soy yo solo el que juzga, sino yo y el Padre que me envió</strong>. En la Ley de ustedes está escrito que <strong>el testimonio de dos personas es válido</strong>. Yo doy testimonio de mí mismo, y también el Padre que me envió da testimonio de mí».»</blockquote>
                 </div>
                 <p>Jesús presenta dos testigos: él y el Padre. Si fueran una sola persona con dos nombres, estaría haciendo pasar un testigo por dos, y el argumento ante los fariseos sería una trampa. Jesús cuenta dos. Los pentecostales unidos cuentan uno.</p>
-                <p>Los versículos que ellos citan dicen lo mismo cuando se leen enteros. <em>«El Padre y yo somos una sola cosa»</em> (Jn 10:30): «somos» es plural, y lo que es uno es la cosa, no la persona. <em>«El que me ha visto, ha visto al Padre»</em> (Jn 14:9), y enseguida: <em>«yo estoy en el Padre y el Padre está en mí»</em> (Jn 14:11). Para estar uno en el otro hacen falta dos.</p>
+                <p>Los versículos que ellos citan dicen lo mismo cuando se leen enteros:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 10:30</span>
+                    <blockquote>«El Padre y yo <strong class="s-hi">somos</strong> una sola cosa.»</blockquote>
+                </div>
+                <p>«Somos» es plural, y lo que es uno es la cosa, no la persona. Lo mismo en la respuesta a Felipe:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 14:9-11</span>
+                    <blockquote>«El que me ha visto, ha visto al Padre... <strong class="s-hi">yo estoy en el Padre y el Padre está en mí</strong>.»</blockquote>
+                </div>
+                <p>Para estar uno en el otro hacen falta dos.</p>
                 <h2>Otro Paráclito<br>Juan 14:16-17</h2>
                 <p>Sobre el Espíritu Santo, la palabra decisiva la dice Jesús en la última cena.</p>
                 <!-- fuente: vaticano -->
@@ -811,7 +893,18 @@ Texto base de Gabriel: la santisima trinidad.docx (28-sep-2026).
                     <span class="scripture-ref">✝︎ Juan 14:16-17</span>
                     <blockquote>«Y yo rogaré al Padre, y él les dará <strong class="s-hi">otro Paráclito</strong> para que esté siempre con ustedes: <strong>el Espíritu de la Verdad</strong>, a quien el mundo no puede recibir, porque no lo ve ni lo conoce. Ustedes, en cambio, lo conocen, porque él permanece con ustedes y estará en ustedes.»</blockquote>
                 </div>
-                <p>El Hijo ruega, el Padre da, y lo que da es otro Paráclito. Paráclito es el que acompaña y defiende; Jesús lo había sido para sus discípulos durante tres años, y ahora anuncia a otro. Si el Espíritu Santo fuera Jesús con otro nombre, no sería otro. En los capítulos siguientes cada uno aparece con lo suyo: el Espíritu Santo es el <em>«que el Padre enviará en mi Nombre»</em> (Jn 14:26), y <em>«no hablará por sí mismo, sino que dirá lo que ha oído»</em> (Jn 16:13).</p>
+                <p>El Hijo ruega, el Padre da, y lo que da es otro Paráclito. Paráclito es el que acompaña y defiende; Jesús lo había sido para sus discípulos durante tres años, y ahora anuncia a otro. Si el Espíritu Santo fuera Jesús con otro nombre, no sería otro. En los capítulos siguientes cada uno aparece con lo suyo:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 14:26</span>
+                    <blockquote>«Pero el Paráclito, el Espíritu Santo, <strong class="s-hi">que el Padre enviará en mi Nombre</strong>, les enseñará todo y les recordará lo que les he dicho.»</blockquote>
+                </div>
+
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 16:13</span>
+                    <blockquote>«Cuando venga el Espíritu de la Verdad, él los introducirá en toda la verdad, porque <strong class="s-hi">no hablará por sí mismo, sino que dirá lo que ha oído</strong> y les anunciará lo que irá sucediendo.»</blockquote>
+                </div>
                 <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Juan 15:26</span>
@@ -839,7 +932,25 @@ Texto base de Gabriel: la santisima trinidad.docx (28-sep-2026).
                     <span class="scripture-ref">✝︎ 2 Corintios 13:13</span>
                     <blockquote>«<strong class="s-hi">La gracia del Señor Jesucristo, el amor de Dios y la comunión del Espíritu Santo</strong> permanezcan con todos ustedes.»</blockquote>
                 </div>
-                <p>Los tres, uno al lado del otro, cada uno con lo que da. No es una frase aislada. En la primera carta a los corintios, los dones proceden <em>«del mismo Espíritu»</em>, los ministerios de <em>«un solo Señor»</em> y las actividades del <em>«mismo Dios»</em> (1 Cor 12:4-6). A los efesios les escribe: <em>«un solo Espíritu… un solo Señor… un solo Dios y Padre de todos»</em> (Ef 4:4-6). Y Pedro abre su primera carta del mismo modo: <em>«según la previsión de Dios Padre, y han sido santificados por el Espíritu para obedecer a Jesucristo»</em> (1 Pe 1:2). Los apóstoles nombraban a los tres ya en el saludo.</p>
+                <p>Los tres, uno al lado del otro, cada uno con lo que da. No es una frase aislada. En la primera carta a los corintios:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Corintios 12:4-6</span>
+                    <blockquote>«Ciertamente, hay diversidad de dones, pero todos proceden <strong class="s-hi">del mismo Espíritu</strong>. Hay diversidad de ministerios, pero <strong class="s-hi">un solo Señor</strong>. Hay diversidad de actividades, pero es <strong class="s-hi">el mismo Dios</strong> el que realiza todo en todos.»</blockquote>
+                </div>
+                <p>A los efesios les escribe:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Efesios 4:4-6</span>
+                    <blockquote>«Hay un solo Cuerpo y <strong class="s-hi">un solo Espíritu</strong>... hay <strong class="s-hi">un solo Señor</strong>, una sola fe, un solo bautismo. Hay <strong class="s-hi">un solo Dios y Padre de todos</strong>, que está sobre todos, lo penetra todo y está en todos.»</blockquote>
+                </div>
+                <p>Y Pedro abre su primera carta del mismo modo:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Pedro 1:2</span>
+                    <blockquote>«según la previsión de <strong class="s-hi">Dios Padre</strong>, y han sido santificados por <strong class="s-hi">el Espíritu</strong> para obedecer a <strong class="s-hi">Jesucristo</strong> y recibir la aspersión de su sangre. A ustedes, gracia y paz en abundancia.»</blockquote>
+                </div>
+                <p>Los apóstoles nombraban a los tres ya en el saludo.</p>
                 <ul>
                     <li>En el Jordán el Hijo, el Espíritu y el Padre aparecen a la vez, y el Padre le habla al Hijo.</li>
                     <li>El Hijo estaba junto al Padre y tenía gloria con él antes de que el mundo existiera.</li>
@@ -875,8 +986,11 @@ según cuál sirva mejor al argumento; cada cita declara la suya con
 la marca "fuente:" que la precede. Ambas usan "ustedes".
 NUNCA Reina-Valera ni traducciones protestantes.
 Cotejadas el 27-ago-2026: 6 del Vaticano, 1 de Jerusalén (Ap 5:8).
+Atribución verificada el 4-oct-2026: adventistas, creencia 26 («la muerte
+constituye un estado de inconsciencia»); Testigos, La Atalaya («Los muertos no
+están conscientes»).
 -->
-<p>Testigos de Jehová y adventistas repiten la misma objeción sin cansarse: <em>«Los muertos no pueden escucharte»</em>, porque el alma —dicen— duerme hasta el juicio final. A primera vista suena razonable. Pero la Escritura dice otra cosa. No en una cita aislada: en siete pasajes distintos, desde Pablo hasta el Apocalipsis. Uno por uno.</p>
+<p>Varias sectas protestantes sostienen la herejía del «sueño del alma». Los adventistas y los Testigos de Jehová la tienen escrita: para ellos la muerte es un estado de inconsciencia hasta el juicio final. De ahí sale la objeción que repiten sin cansarse: <em>«Los muertos no pueden escucharte.»</em> La Escritura dice otra cosa. No en una cita aislada: en siete pasajes distintos, desde Pablo hasta el Apocalipsis. Uno por uno.</p>
 
             <h2>El conocimiento se perfecciona tras la muerte<br>1 Corintios 13:9-13</h2>
 
@@ -886,9 +1000,9 @@ Cotejadas el 27-ago-2026: 6 del Vaticano, 1 de Jerusalén (Ap 5:8).
                 <blockquote>«porque <strong class="s-hi">nuestra ciencia es imperfecta</strong> y nuestras profecías, limitadas. Cuando llegue lo que es perfecto, cesará lo que es imperfecto. Mientras yo era niño, hablaba como un niño, sentía como un niño, razonaba como un niño, pero cuando me hice hombre, dejé a un lado las cosas de niño. Ahora vemos como en un espejo, confusamente; después veremos cara a cara. Ahora conozco todo imperfectamente; después <strong class="s-hi">conoceré como Dios me conoce a mí.</strong> En una palabra, ahora existen tres cosas: la fe, la esperanza y el amor, pero la más grande todas es el amor.»</blockquote>
             </div>
 
-            <p>Pablo enseña que en esta vida el conocimiento es imperfecto. Cuando llegue lo perfecto —y eso ocurre al morir y ver a Dios cara a cara— se conocerá como Dios conoce: sin velo y sin límite. Si los santos conocen así, nada les es oculto. Pueden escuchar. Pueden entender las súplicas que se les dirigen.</p>
+            <p>Pablo enseña que en esta vida el conocimiento es imperfecto. Cuando llegue lo perfecto, y eso ocurre al morir y ver a Dios cara a cara, se conocerá como Dios conoce: sin velo y sin límite. Si los santos conocen así, nada les es oculto. Pueden escuchar. Pueden entender las súplicas que se les dirigen.</p>
 
-            <h2>Tras la muerte, veremos a Dios tal cual es<br>1 Juan 3:2</h2>
+            <h2>Tras la muerte, Dios se ve tal cual es<br>1 Juan 3:2</h2>
 
             <!-- fuente: vaticano -->
             <div class="scripture-block">
@@ -925,7 +1039,7 @@ Por lo tanto, <strong class="s-hi">ya que estamos rodeados de una verdadera nube
 
             <p>Esta es la respuesta a «¿quiénes son los santos?». La Escritura los nombra uno por uno. No es invención de la Iglesia. Son los que vivieron, sufrieron y murieron buscando una patria que no es de este mundo, y el autor de Hebreos no los pone de adorno: dice que esa nube de testigos rodea a los que todavía corren. Nadie está rodeado por quienes no están.</p>
 
-            <h2>El alma no duerme — Cristo predicó a los espíritus<br>1 Pedro 3:18-22</h2>
+            <h2>El alma no duerme: Cristo predicó a los espíritus<br>1 Pedro 3:18-22</h2>
 
             <!-- fuente: vaticano -->
             <div class="scripture-block">
@@ -943,7 +1057,7 @@ Por lo tanto, <strong class="s-hi">ya que estamos rodeados de una verdadera nube
                 <blockquote>«Ustedes, en cambio, se han acercado a la montaña de Sión, <strong class="s-hi">a la Ciudad del Dios viviente, a la Jerusalén celestial</strong>, a una multitud de ángeles, a una fiesta solemne, a la asamblea de los primogénitos cuyos nombres están escritos en el cielo. Se han acercado a Dios, que es el Juez del universo, y <strong class="s-hi">a los espíritus de los justos que ya han llegado a la perfección</strong>, a Jesús, el mediador de la Nueva Alianza, y a la sangre purificadora que habla más elocuentemente que la de Abel.»</blockquote>
             </div>
 
-            <p>Los santos fallecidos no flotan en ningún limbo esperando el juicio. Están en «la Ciudad del Dios viviente». Y hay que leer el verbo: los vivos <em>se han acercado</em> a ellos, en presente y en perfecto, no en una promesa futura. Son espíritus de justos que ya llegaron a la perfección. Perfectos. Cerca de Dios. Sin barrera y sin distancia.</p>
+            <p>Los santos fallecidos no flotan en ningún limbo esperando el juicio. Están en «la Ciudad del Dios viviente». Y el verbo es decisivo: los vivos <em>se han acercado</em> a ellos, en presente y en perfecto, no en una promesa futura. Son espíritus de justos que ya llegaron a la perfección. Perfectos. Cerca de Dios. Sin barrera y sin distancia.</p>
 
             <h2>Los santos llevan las oraciones ante el trono<br>Apocalipsis 5:8</h2>
 
@@ -957,9 +1071,9 @@ Por lo tanto, <strong class="s-hi">ya que estamos rodeados de una verdadera nube
 
             <h2>Conclusión</h2>
 
-            <p>Los santos son los que vivieron en la fe —Abel, Henoc, Noé, Abraham, Moisés, los profetas—, los que tras la muerte están en la Ciudad del Dios viviente, la Jerusalén celestial. Allí conocen como Dios los conoce. Allí ven a Dios tal cual es. Allí no hay limitación ni distancia.</p>
+            <p>Los santos son los que vivieron en la fe (Abel, Henoc, Noé, Abraham, Moisés, los profetas), los que tras la muerte están en la Ciudad del Dios viviente, la Jerusalén celestial. Allí conocen como Dios los conoce. Allí ven a Dios tal cual es. Allí no hay limitación ni distancia.</p>
 
-            <p>Y lo que hace la Iglesia al invocarlos es exactamente lo que muestra el Apocalipsis: llevan al altar del cielo las oraciones de los fieles y las presentan ante el trono del Cordero. A los santos no se los adora. Se les pide que intercedan ante Dios, igual que se le pide a un hermano vivo que rece por uno. La única diferencia está a favor de ellos: están en el cielo y conocen como Dios conoce. Por eso ven, escuchan e interceden. Quien dice que los muertos no pueden escuchar tiene que explicar antes por qué el cielo guarda las oraciones en copas de oro.</p>`,
+            <p>Y lo que hace la Iglesia al invocarlos es exactamente lo que muestra el Apocalipsis: llevan al altar del cielo las oraciones de los fieles y las presentan ante el trono del Cordero. A los santos no se los adora. Se les pide que intercedan ante Dios, igual que se le pide a un hermano vivo que rece por uno. La única diferencia está a favor de ellos: están en el cielo y conocen como Dios conoce. Por eso ven, escuchan e interceden.</p>`,
       nav: {
         prevTitle: "El Sacerdocio en la Iglesia Católica",
         nextTitle: "El purgatorio y la misericordia de Dios"
@@ -972,7 +1086,7 @@ Por lo tanto, <strong class="s-hi">ya que estamos rodeados de una verdadera nube
                 <span class="eyebrow-text">Tema Especial</span>
             </div>
             <h1>Por qué creemos en la fe católica</h1>
-            <p>¿Por qué creemos? No por costumbre. Porque lo atestiguaron, lo investigamos, y la Biblia misma señala hacia la Iglesia que Jesús fundó.</p>
+            <p>No por costumbre: porque hubo testigos, porque la Palabra se transmitió y porque la Biblia misma señala hacia la Iglesia que Jesús fundó.</p>
             <div class="article-meta">
                 <span>15 min lectura</span>
                 <span>Publicado en mayo de 2026</span>
@@ -984,46 +1098,103 @@ REGLA: Las citas bíblicas en español salen de "El Libro del Pueblo de Dios"
 según cuál sirva mejor al argumento; cada cita declara la suya con
 la marca "fuente:" que la precede. Ambas usan "ustedes".
 NUNCA Reina-Valera ni traducciones protestantes.
-Cotejadas el 27-ago-2026: 8 del Vaticano, 2 de Jerusalén (Mt 16:18 y 1 Tim 3:15).
+Cotejadas el 27-ago-2026; el 4-oct-2026 las citas en línea pasaron a recuadro
+y el artículo se reorientó contra el sola scriptura (Jerusalén: Mt 16:18 y 1 Tim 3:15).
+Atribución verificada el 4-oct-2026: adventistas, Creencia fundamental 18 en
+su redacción vigente desde 2015 (institucional.adventistas.org: «hablan con
+autoridad profética»); Testigos, La Atalaya 1-10-1994,
+págs. 4-8 («solo puede conocerse mediante el conducto de comunicación de Jehová»).
 -->
-<p>¿Por qué creemos? No por tradición ciega ni por costumbre familiar. Creemos porque la Palabra de Dios fue atestiguada, transmitida fielmente y continúa siendo verdad. San Lucas lo dice desde el principio: se informó cuidadosamente de todo desde los orígenes para que conozcamos la verdad (Lc 1:1-4). Eso es lo que haremos aquí.</p>
+<p>El católico no cree por tradición ciega ni por costumbre familiar. Cree porque la Palabra de Dios fue atestiguada, transmitida fielmente y sigue siendo verdad. San Lucas lo dice desde el principio: se informó cuidadosamente de todo desde los orígenes (Lc 1:3).</p>
+                <p>Las sectas protestantes, evangélicos, bautistas y pentecostales incluidos, sostienen la herejía que dio origen a la Reforma: <em>«Solo la Biblia es la regla de fe. La Biblia es suficiente.»</em> Es el <em>sola scriptura</em>. Que la Biblia es Palabra de Dios no está en discusión. Lo que está en discusión es si la Biblia dice de sí misma que es la única regla. No lo dice, y desde el primer capítulo de Lucas muestra que antes del texto hubo testigos.</p>
                 <h2>La Palabra fue atestiguada<br>Lucas 1:1-4 y Juan 11:25-27</h2>
-                <p>Lucas nos dice que muchos trataron de relatar ordenadamente los acontecimientos cumplidos entre nosotros, <em>«tal como nos fueron transmitidos por aquellos que han sido desde el comienzo testigos oculares y servidores de la Palabra»</em> (Lc 1:2). No son leyendas: son testimonios. Lo que Jesús dijo, vivió y enseñó fue visto y transmitido por testigos reales.</p>
-                <p>Marta, ante la tumba de su hermano, lo reconoce sin dudarlo: <em>«Sí, Señor, creo que tú eres el Mesías, el Hijo de Dios, el que debía venir al mundo»</em> (Jn 11:27). La fe no es irracional: es la respuesta a una revelación verificada por quienes la vivieron.</p>
+                <p>Lucas no escribió primero: primero recibió lo que otros transmitían.</p>
                 <!-- fuente: vaticano -->
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝︎ Lucas 1:4</span>
-                    <blockquote>«a fin de que <strong class="s-hi">conozcas bien la solidez</strong> de las enseñanzas que has recibido.»</blockquote>
+                    <span class="scripture-ref">✝︎ Lucas 1:1-4</span>
+                    <blockquote>«Muchos han tratado de relatar ordenadamente los acontecimientos que se cumplieron entre nosotros, <strong class="s-hi">tal como nos fueron transmitidos por aquellos que han sido desde el comienzo testigos oculares y servidores de la Palabra</strong>. Por eso, después de informarme cuidadosamente de todo desde los orígenes, yo también he decidido escribir para ti, excelentísimo Teófilo, un relato ordenado, a fin de que <strong class="s-hi">conozcas bien la solidez</strong> de las enseñanzas que has recibido.»</blockquote>
                 </div>
-                <h2>El enemigo pelea contra su lectura<br>Lucas 8:5-8, 8:11-12 y Salmo 119</h2>
-                <p>La parábola del sembrador lo deja claro: <em>«La semilla es la Palabra de Dios»</em> (Lc 8:11). El demonio sabe que la Palabra de Dios hace brotar la salvación, y por eso <em>«arrebata la Palabra de sus corazones, para que no crean y se salven»</em> (Lc 8:12). No es casualidad que el enemigo luche contra su lectura.</p>
-                <p>El Salmo 119:72 afirma que la ley de los labios de Dios vale más que todo el oro y la plata. Y si alguien pregunta qué gana leyendo la Biblia, San Pablo responde: <em>«desde la niñez conoces las Sagradas Escrituras: ellas pueden darte la sabiduría que conduce a la salvación, mediante la fe en Cristo Jesús»</em> (2 Tim 3:15).</p>
-                <p>El Salmo 119:103-105 da la imagen más hermosa: <em>«¡Qué dulce es tu palabra para mi boca, es más dulce que la miel!... Tu palabra es una lámpara para mis pasos, y una luz en mi camino.»</em> Quien no lee la Palabra de Dios camina en la oscuridad.</p>
+                <p>No son leyendas: son testimonios. Lo que Jesús dijo, vivió y enseñó fue visto y transmitido por testigos reales, y Teófilo ya había recibido esas enseñanzas antes de leer una línea del Evangelio.</p>
+                <p>Marta, ante la tumba de su hermano, lo reconoce sin dudarlo:</p>
                 <!-- fuente: vaticano -->
                 <div class="scripture-block">
-                    <span class="scripture-ref">✝︎ Salmo 119:105</span>
-                    <blockquote>«<strong class="s-hi">Tu palabra es una lámpara para mis pasos, y una luz en mi camino.</strong>»</blockquote>
+                    <span class="scripture-ref">✝︎ Juan 11:25-27</span>
+                    <blockquote>«Jesús le dijo: «Yo soy la Resurrección y la Vida. El que cree en mí, aunque muera, vivirá: y todo el que vive y cree en mí, no morirá jamás. ¿Crees esto?». Ella le respondió: «<strong class="s-hi">Sí, Señor, creo que tú eres el Mesías, el Hijo de Dios, el que debía venir al mundo</strong>».»</blockquote>
                 </div>
-                <h2>La Palabra es de Dios<br>2 Pedro 1:19 y Juan 17:17</h2>
-                <p>Esto no es opinión humana. San Pedro llama a la palabra de los profetas <em>«una lámpara que brilla en un lugar oscuro»</em>, y manda prestarle atención (2 Pe 1:19). Y el mismo Jesús, en su oración al Padre, lo confirma: <em>«tu palabra es verdad»</em> (Jn 17:17). Y Jesús mismo lo dijo: <em>«Felices más bien los que escuchan la Palabra de Dios y la practican»</em> (Lc 11:28). No dijo los que la conocen ni los que la citan; dijo los que la <strong class="s-hi">practican</strong>.</p>
+                <p>Marta creyó por la palabra que oyó de Cristo, cuando todavía no existía una sola página del Nuevo Testamento. La fe no es irracional: es la respuesta a una revelación verificada por quienes la vivieron.</p>
+                <h2>El enemigo pelea contra la Palabra<br>Lucas 8:11-12 y Salmo 119</h2>
+                <p>La Iglesia no le teme a la Biblia: la defiende, porque sabe quién la ataca. La parábola del sembrador lo deja claro:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Lucas 8:11-12</span>
+                    <blockquote>«La parábola quiere decir esto: <strong class="s-hi">La semilla es la Palabra de Dios</strong>. Los que están al borde del camino son los que escuchan, pero luego viene el demonio y <strong class="s-hi">arrebata la Palabra de sus corazones, para que no crean y se salven</strong>.»</blockquote>
+                </div>
+                <p>El demonio sabe que la Palabra de Dios hace brotar la salvación. No es casualidad que el enemigo luche contra su lectura. El Salmo 119:72 afirma que la ley de los labios de Dios vale más que todo el oro y la plata, y San Pablo dice qué se gana leyéndola:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 2 Timoteo 3:15</span>
+                    <blockquote>«Recuerda que desde la niñez conoces las Sagradas Escrituras: <strong class="s-hi">ellas pueden darte la sabiduría que conduce a la salvación</strong>, mediante la fe en Cristo Jesús.»</blockquote>
+                </div>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Salmo 119:103-105</span>
+                    <blockquote>«¡Qué dulce es tu palabra para mi boca, es más dulce que la miel!... <strong class="s-hi">Tu palabra es una lámpara para mis pasos, y una luz en mi camino.</strong>»</blockquote>
+                </div>
+                <p>Quien no lee la Palabra de Dios camina en la oscuridad.</p>
+                <h2>La Palabra es de Dios<br>2 Pedro 1:19, Juan 17:17 y Lucas 11:28</h2>
+                <p>Esto no es opinión humana. San Pedro llama a la palabra de los profetas una lámpara y manda prestarle atención:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 2 Pedro 1:19</span>
+                    <blockquote>«Así hemos visto confirmada la palabra de los profetas, y ustedes hacen bien en prestar atención a ella, <strong class="s-hi">como a una lámpara que brilla en un lugar oscuro</strong> hasta que despunte el día y aparezca el lucero de la mañana en sus corazones.»</blockquote>
+                </div>
+                <p>El mismo Jesús, en su oración al Padre, lo confirma:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 17:17</span>
+                    <blockquote>«Conságralos en la verdad: <strong class="s-hi">tu palabra es verdad</strong>.»</blockquote>
+                </div>
+                <p>Y dice qué hacer con ella:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Lucas 11:28</span>
+                    <blockquote>«Jesús le respondió: «Felices más bien los que escuchan la Palabra de Dios y <strong class="s-hi">la practican</strong>».»</blockquote>
+                </div>
+                <p>No dijo los que la conocen ni los que la citan; dijo los que la <strong class="s-hi">practican</strong>.</p>
                 <h2>La fe es hacer lo que Él dice<br>Lucas 5:5 y Juan 2:5</h2>
-                <p>Pedro había pescado toda la noche y no había sacado nada. Por su experiencia humana, echar las redes de día no tenía ningún sentido. Pero dijo algo que resume toda la fe: <em>«Maestro, hemos trabajado la noche entera y no hemos sacado nada, pero si tú lo dices, echaré las redes»</em> (Lc 5:5). Y por eso, precisamente, Jesús lo hizo pescador de hombres, a él y no a los demás (Lc 5:10).</p>
-                <p>En Caná, la Virgen María da la instrucción definitiva a los sirvientes: <em>«Hagan todo lo que él les diga»</em> (Jn 2:5). Las tinajas se llenaron de agua, y el agua se convirtió en vino cuando los sirvientes cumplieron sus órdenes hasta el final: <em>«Así lo hicieron»</em> (Jn 2:8). La fe no es solo creer: es cumplir. El desarrollo de esto está en los temas de <a href="tema-la-eucaristia.html">La Eucaristía</a> y de <a href="tema-transubstanciacion.html">Transubstanciación</a>.</p>
+                <p>Pedro había pescado toda la noche y no había sacado nada. Por su experiencia humana, echar las redes de día no tenía ningún sentido. Pero dijo algo que resume toda la fe:</p>
                 <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Lucas 5:5</span>
                     <blockquote>«Simón le respondió: Maestro, hemos trabajado la noche entera y no hemos sacado nada, <strong class="s-hi">pero si tú lo dices, echaré las redes.</strong>»</blockquote>
                 </div>
-                <h2>¿De dónde viene tu Biblia?<br>El sola scriptura y sus problemas</h2>
-                <p>Protestantes en general —evangélicos, bautistas, pentecostales—, y a su manera también Testigos de Jehová y adventistas, sostienen lo mismo: <em>«Solo la Biblia es la regla de fe. La Biblia es suficiente.»</em> Bien. Vamos a la Biblia.</p>
+                <p>Y por eso, precisamente, Jesús lo hizo pescador de hombres, a él y no a los demás (Lc 5:10).</p>
+                <p>En Caná, la Virgen María da la instrucción definitiva a los sirvientes:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 2:5</span>
+                    <blockquote>«Pero su madre dijo a los sirvientes: «<strong class="s-hi">Hagan todo lo que él les diga</strong>».»</blockquote>
+                </div>
+                <p>Las tinajas se llenaron de agua, y el agua se convirtió en vino cuando los sirvientes cumplieron sus órdenes hasta el final:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 2:8</span>
+                    <blockquote>«Saquen ahora, agregó Jesús, y lleven al encargado del banquete». <strong class="s-hi">Así lo hicieron.</strong>»</blockquote>
+                </div>
+                <p>La fe no es solo creer: es cumplir. El desarrollo de esto está en los temas de <a href="tema-la-eucaristia.html">La Eucaristía</a> y de <a href="tema-transubstanciacion.html">Transubstanciación</a>.</p>
+                <h2>¿De dónde viene la Biblia?<br>El sola scriptura y sus problemas</h2>
+                <p>El versículo que más se usa para defender el <em>sola scriptura</em> es este:</p>
                 <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 2 Timoteo 3:16-17</span>
                     <blockquote>«<strong class="s-hi">Toda la Escritura está inspirada por Dios, y es útil para enseñar y para argüir, para corregir y para educar en la justicia</strong>, a fin de que el hombre de Dios sea perfecto y esté preparado para hacer siempre el bien.»</blockquote>
                 </div>
-                <p>La palabra que usa Pablo es «útil» —en griego ὠφέλιμος— no «exclusiva» ni «única regla de fe». El versículo nunca dice que la Escritura sola es suficiente para todo. Y hay algo más importante: si el único criterio de verdad fuera «lo que dice la Biblia», entonces el sola scriptura tendría que estar en la Biblia para ser válido. Y no está. El argumento se destruye a sí mismo con su propio criterio.</p>
+                <p>La palabra que usa Pablo es «útil» (en griego ὠφέλιμος), no «exclusiva» ni «única regla de fe». El versículo nunca dice que la Escritura sola es suficiente para todo. Y hay algo más importante: si el único criterio de verdad fuera «lo que dice la Biblia», entonces el <em>sola scriptura</em> tendría que estar en la Biblia para ser válido. Y no está. El argumento se destruye a sí mismo con su propio criterio.</p>
+                <h2>«Solo la Biblia», con otra autoridad al lado<br>Adventistas y Testigos de Jehová</h2>
+                <p>Dos sectas protestantes dicen «solo la Biblia» y tienen escrito lo contrario. Los adventistas declaran en su creencia fundamental 18 que los escritos de Elena de White <em>«hablan con autoridad profética»</em>, aunque en la misma creencia digan que la Biblia es la norma. Los Testigos de Jehová lo dicen más claro todavía: <em>«Todos los que quieren entender la Biblia deben reconocer que la "grandemente diversificada sabiduría de Dios" solo puede conocerse mediante el conducto de comunicación de Jehová, el esclavo fiel y discreto»</em> (La Atalaya, 1 de octubre de 1994).</p>
+                <p>Ninguno de los dos vive del <em>sola scriptura</em>. Le niegan a la Iglesia que Cristo fundó la autoridad que le dan a Elena de White y al «esclavo fiel y discreto».</p>
                 <h2>¿Quién fijó el canon?<br>El problema que el sola scriptura no puede responder</h2>
-                <p>El Nuevo Testamento no llegó con un índice. Durante los primeros siglos, distintas comunidades usaban distintos textos. ¿Cómo se decidió qué es Palabra de Dios y qué no lo es? La Iglesia Católica, en los concilios de Hipona (393 d.C.) y Cartago (397 d.C.), determinó el canon bíblico que el mundo cristiano usa hasta hoy. El que rechaza la autoridad de la Iglesia Católica para enseñar doctrina está confiando en esa misma Iglesia para saber qué libros leer. No es posible tener coherencia de otra manera.</p>
+                <p>El Nuevo Testamento no llegó con un índice. Durante los primeros siglos, distintas comunidades usaban distintos textos. ¿Cómo se decidió qué es Palabra de Dios y qué no lo es? La Iglesia Católica, en los concilios de Hipona (393 d.C.) y Cartago (397 d.C.), fijó el canon bíblico. Los protestantes lo recibieron de esa Iglesia y le sacaron siete libros del Antiguo Testamento: Tobías, Judit, Sabiduría, Eclesiástico, Baruc y los dos de Macabeos. El que rechaza la autoridad de la Iglesia Católica para enseñar doctrina está confiando en esa misma Iglesia para saber qué libros leer. No es posible tener coherencia de otra manera.</p>
                 <h2>La Tradición oral es bíblica<br>2 Tesalonicenses 2:15 y 2 Timoteo 2:2</h2>
                 <p>Pablo no enseñó solo por carta. Ordenó guardar también la tradición oral:</p>
                 <!-- fuente: vaticano -->
@@ -1051,9 +1222,15 @@ Cotejadas el 27-ago-2026: 8 del Vaticano, 2 de Jerusalén (Mt 16:18 y 1 Tim 3:15
                     <span class="scripture-ref">✝︎ 2 Pedro 1:20-21</span>
                     <blockquote>«Pero tengan presente, ante todo, que <strong class="s-hi">nadie puede interpretar por cuenta propia una profecía de la Escritura</strong>. Porque ninguna profecía ha sido anunciada por voluntad humana, sino que los hombres han hablado de parte de Dios, impulsados por el Espíritu Santo.»</blockquote>
                 </div>
-                <p>Desde 1517, hay más de 45.000 denominaciones distintas que leen la misma Biblia y llegan a conclusiones opuestas sobre el bautismo, la Eucaristía, la salvación y la moral. Jesús oró por algo diferente: <em>«<strong class="s-hi">Que todos sean uno</strong>»</em> (Jn 17:21). La pregunta que se impone: ¿puede el Espíritu Santo guiar simultáneamente a todas esas posiciones contradictorias?</p>
+                <p>Desde 1517, miles de denominaciones leen la misma Biblia y llegan a conclusiones opuestas sobre el bautismo, la Eucaristía, la salvación y la moral. Jesús oró por lo contrario:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Juan 17:21</span>
+                    <blockquote>«<strong class="s-hi">Que todos sean uno</strong>: como tú, Padre, estás en mí y yo en ti, que también ellos sean uno en nosotros, para que el mundo crea que tú me enviaste.»</blockquote>
+                </div>
+                <p>El Espíritu Santo no se contradice. Doctrinas opuestas, todas sacadas «solo de la Biblia», no vienen de Él.</p>
                 <h2>La Iglesia es la columna de la verdad<br>1 Timoteo 3:15 y Mateo 16:18</h2>
-                <p>La Biblia no se llama a sí misma columna de la verdad. Llama a la Iglesia:</p>
+                <p>La Biblia no se llama a sí misma columna de la verdad. Llama así a la Iglesia:</p>
                 <!-- fuente: bj -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Timoteo 3:15</span>
@@ -1065,9 +1242,15 @@ Cotejadas el 27-ago-2026: 8 del Vaticano, 2 de Jerusalén (Mt 16:18 y 1 Tim 3:15
                     <span class="scripture-ref">✝︎ Mateo 16:18</span>
                     <blockquote>«Y yo a mi vez te digo que tú eres Pedro, y sobre esta roca edificaré mi Iglesia, <strong class="s-hi">y las puertas del infierno no prevalecerán contra ella.</strong>»</blockquote>
                 </div>
-                <p>Esa promesa protege el Magisterio —la enseñanza oficial de la Iglesia— de enseñar error definitivamente. No significa que cada miembro sea impecable. Significa que la verdad que Cristo confió a su Iglesia no puede ser destruida: en el griego, las πύλαι ᾅδου, el poder de la muerte y del sepulcro, no se la llevan por delante.</p>
-                <h2>Conclusión: creer y cumplir</h2>
-                <p>La Palabra de los profetas es de Dios. Los apóstoles la atestiguaron. Hay que leerla toda —incluyendo lo que dice sobre la Tradición oral, sobre quién interpreta y sobre la Iglesia que Cristo fundó. Y la fe consiste en hacer lo que Dios dice. No entran en el Reino los que dicen «Señor, Señor», sino los que cumplen la voluntad del Padre (Mt 7:21). La Biblia, leída entera y con honestidad, señala hacia la misma Iglesia que Jesús fundó. Creer es confiar en Jesucristo aunque la experiencia humana diga lo contrario, como hizo Pedro en el lago. Y ese acto de confianza lo cambia todo.</p>`,
+                <p>Esa promesa protege el Magisterio, la enseñanza oficial de la Iglesia, de enseñar error definitivamente. No significa que cada miembro sea impecable. Significa que la verdad que Cristo confió a su Iglesia no puede ser destruida: en el griego, las πύλαι ᾅδου, el poder de la muerte y del sepulcro, no se la llevan por delante.</p>
+                <h2>Conclusión: creer y cumplir<br>Mateo 7:21</h2>
+                <p>La Palabra de los profetas es de Dios. Los apóstoles la atestiguaron. Leída entera, habla también de la Tradición oral, de quién interpreta y de la Iglesia que Cristo fundó. Y la fe consiste en hacer lo que Dios dice:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mateo 7:21</span>
+                    <blockquote>«No son los que me dicen: «Señor, Señor», los que entrarán en el Reino de los Cielos, sino <strong class="s-hi">los que cumplen la voluntad de mi Padre</strong> que está en el cielo.»</blockquote>
+                </div>
+                <p>Creer es confiar en Jesucristo aunque la experiencia humana diga lo contrario, como hizo Pedro en el lago. La Biblia, leída entera, señala hacia la Iglesia que Jesús fundó.</p>`,
       nav: {
         prevTitle: "La Santísima Trinidad",
         nextTitle: "La primacía de Pedro"
@@ -1080,7 +1263,7 @@ Cotejadas el 27-ago-2026: 8 del Vaticano, 2 de Jerusalén (Mt 16:18 y 1 Tim 3:15
                 <span class="eyebrow-text">Tema Especial</span>
             </div>
             <h1>El Sacerdocio en la Iglesia Católica</h1>
-            <p>¿Existe un sacerdocio ordenado en el Nuevo Testamento? La Biblia responde — y la respuesta no da lugar a dudas.</p>
+            <p>¿Existe un sacerdocio ordenado en el Nuevo Testamento? La Biblia responde que sí: presbíteros ordenados, confesión, altar y sacrificio.</p>
             <div class="article-meta">
                 <span>11 min lectura</span>
                 <span>Publicado en mayo de 2026</span>
@@ -1092,10 +1275,16 @@ REGLA: Las citas bíblicas en español salen de "El Libro del Pueblo de Dios"
 según cuál sirva mejor al argumento; cada cita declara la suya con
 la marca "fuente:" que la precede. Ambas usan "ustedes".
 NUNCA Reina-Valera ni traducciones protestantes.
-Cotejadas el 27-ago-2026: 6 del Vaticano, 2 de Jerusalén (Heb 5:1-2 y 5:4).
+Cotejadas el 27-ago-2026; el 4-oct-2026 las citas en línea pasaron a recuadro
+(14 del Vaticano, 2 de Jerusalén: Heb 5:1-2 y 5:4).
+Atribución verificada el 4-oct-2026: sacerdocio universal = adventistas y
+bautistas (no Testigos: para ellos 1 Pe 2:9 es solo de los 144.000, La Atalaya
+15-1-2012); Mt 23:9 contra el título de padre = Testigos (Perspicacia, vol. 2,
+«Padre»); ancianos que no absuelven = Testigos (La Atalaya 1-9-2010).
+Mt 23:9: vatican.va transcribe «a Nadie»; la errata está en ERRATAS de cotejo.py.
 -->
-<p>Hay una pregunta que no puede quedar sin respuesta: Jesús dijo <em>«Los pecados serán perdonados a los que ustedes se los perdonen, y serán retenidos a los que ustedes se los retengan»</em> (Jn 20:23). ¿A quién le habló? ¿Y cómo se retienen los pecados de alguien sin saber cuáles son? Eso exige confesión. Eso exige un sacerdote con autoridad para perdonar. Pero primero hay que responder la objeción.</p>
-                <p>Testigos de Jehová, adventistas y pentecostales la formulan casi con las mismas palabras: <em>«Todos los creyentes somos sacerdotes; no hace falta ningún intermediario.»</em> Y citan para eso 1 Pedro 2:9. La respuesta no consiste en negar ese versículo —es verdadero y está en la Biblia— sino en leer los otros, que están en la misma Biblia y hablan de un segundo sacerdocio que nadie se toma por su cuenta.</p>
+<p>Jesús les dio a los apóstoles el poder de perdonar los pecados y también el de retenerlos (Jn 20:23). ¿Cómo se retienen los pecados de alguien sin saber cuáles son? Eso exige confesión. Eso exige un sacerdote con autoridad para perdonar.</p>
+                <p>Varias sectas protestantes sostienen la herejía de que no existe un sacerdocio ordenado. Los adventistas y los bautistas la formulan casi con las mismas palabras: <em>«Todos los creyentes somos sacerdotes; no hace falta ningún intermediario.»</em> Y citan para eso 1 Pedro 2:9. Ese versículo es verdadero y está en la Biblia. Los otros también están, y hablan de un segundo sacerdocio que nadie se toma por su cuenta.</p>
                 <h2>Un hombre tomado de entre los hombres<br>Hebreos 5:1-2</h2>
                 <p>La carta a los Hebreos es clara desde el principio:</p>
                 <!-- fuente: bj -->
@@ -1103,47 +1292,97 @@ Cotejadas el 27-ago-2026: 6 del Vaticano, 2 de Jerusalén (Heb 5:1-2 y 5:4).
                     <span class="scripture-ref">✝︎ Hebreos 5:1-2</span>
                     <blockquote>«<strong class="s-hi">Todo sumo sacerdote es tomado de entre los hombres</strong> y puesto al servicio de Dios en favor de ellos, para ofrecer dones y sacrificios por los pecados. Puede compadecerse de los ignorantes y extraviados, ya que él mismo está rodeado de debilidad.»</blockquote>
                 </div>
-                <p>El sacerdote no está por encima de la condición humana. Comparte las mismas luchas, tentaciones y debilidades de cualquier creyente. Esta es la base de la compasión pastoral: nadie puede acompañar genuinamente al otro en lo que no conoce. El sacerdote puede compadecerse porque también él lucha.</p>
+                <p>El sacerdote no está por encima de la condición humana. Comparte las mismas luchas, tentaciones y debilidades de cualquier creyente. Esta es la base de la compasión pastoral: nadie puede acompañar al otro en lo que no conoce. El sacerdote puede compadecerse porque también él lucha.</p>
                 <h2>Santo por Dios, no por mérito propio<br>Levítico 21:6-8</h2>
-                <p>En el Levítico, Dios establece que los sacerdotes deben ser considerados santos. Pero la santidad que se les pide no es perfección moral absoluta, sino consagración: están apartados para Dios y su servicio:</p>
+                <p>En el Levítico, Dios establece que los sacerdotes deben ser considerados santos. La santidad que se les pide no es perfección moral absoluta, sino consagración: están apartados para Dios y su servicio:</p>
                 <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Levítico 21:6-8</span>
                     <blockquote>«<strong class="s-hi">Estarán consagrados a su Dios y no profanarán el nombre de su Dios</strong>... <strong class="s-hi">Deberás considerarlo santo</strong>, porque él ofrece el alimento de tu Dios. <strong class="s-hi">Será santo para ti, porque yo, el Señor que te santifico, soy santo.</strong>»</blockquote>
                 </div>
-                <p>Conviene ver en quién se funda esa santidad. No dice «será santo porque se lo ha ganado»: dice <em>porque yo, el Señor que te santifico, soy santo</em>. Al pueblo se le manda considerarlo santo por Dios, no por los méritos del hombre. Esto libera de una expectativa equivocada: la fe no reposa en la virtud del ministro, sino en la fidelidad de Dios.</p>
-                <h2>«Todos somos sacerdotes» — la objeción y su límite<br>1 Pedro 2:9 y Hebreos 5:4</h2>
+                <p>No dice «será santo porque se lo ha ganado»: dice <em>porque yo, el Señor que te santifico, soy santo</em>. Al pueblo se le manda considerarlo santo por Dios, no por los méritos del hombre. La fe no reposa en la virtud del ministro, sino en la fidelidad de Dios.</p>
+                <h2>«Todos somos sacerdotes»: la objeción y su límite<br>1 Pedro 2:9 y Hebreos 5:4</h2>
                 <p>San Pedro lo dice con claridad:</p>
                 <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ 1 Pedro 2:9</span>
                     <blockquote>«Ustedes, en cambio, son <strong class="s-hi">una raza elegida, un sacerdocio real, una nación santa</strong>, un pueblo adquirido para anunciar las maravillas de aquel que los llamó de las tinieblas a su admirable luz:»</blockquote>
                 </div>
-                <p>El sacerdocio bautismal es real. Nadie lo niega. Pero hay dos sacerdocios en el Nuevo Testamento, no uno. La misma carta a los Hebreos lo distingue con precisión:</p>
+                <p>El sacerdocio bautismal es real. Nadie lo niega. Pero en el Nuevo Testamento hay dos sacerdocios, no uno, y la misma carta a los Hebreos los distingue con precisión:</p>
                 <!-- fuente: bj -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Hebreos 5:4</span>
                     <blockquote>«<strong class="s-hi">Nadie se apropia este honor, sino que es llamado por Dios, como lo fue Aarón.</strong>»</blockquote>
                 </div>
-                <p>Hay un sacerdocio que se recibe en el bautismo, y hay otro que requiere llamado y consagración específica. Esto no es una invención tardía. Cuando Coré y su gente argumentaron que <em>«Toda la comunidad es sagrada, y el Señor está en medio de ella»</em> (Núm 16:3) —reclamando acceso al sacerdocio ministerial sin vocación— Dios respondió abriéndose la tierra bajo sus pies. Y está en el Nuevo Testamento:</p>
+                <p>Hay un sacerdocio que se recibe en el bautismo, y hay otro que requiere llamado y consagración específica. Esto no es una invención tardía. Coré y su gente ya usaron contra Moisés y Aarón el mismo argumento:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Números 16:3</span>
+                    <blockquote>«Se amotinaron contra Moisés y Aarón, y les dijeron: «¡Ustedes se han excedido en sus atribuciones! <strong class="s-hi">Toda la comunidad es sagrada, y el Señor está en medio de ella.</strong> ¿Por qué entonces ustedes se ponen por encima de la asamblea del Señor?».»</blockquote>
+                </div>
+                <p>Reclamaban el sacerdocio ministerial sin haber sido llamados, y Dios respondió abriendo la tierra bajo sus pies. En el Nuevo Testamento, los apóstoles ordenan presbíteros:</p>
                 <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Hechos 14:23</span>
                     <blockquote>«<strong class="s-hi">En cada comunidad establecieron presbíteros</strong>, y con oración y ayuno, los encomendaron al Señor en el que habían creído.»</blockquote>
                 </div>
-                <p>Pablo le ordena a Tito: <em>«Te he dejado en Creta, para que terminaras de organizarlo todo y <strong class="s-hi">establecieras presbíteros en cada ciudad</strong> de acuerdo con mis instrucciones»</em> (Tit 1:5). A Timoteo le recuerda: <em>«No malogres el don espiritual que hay en ti y que te fue conferido mediante una intervención profética, por la <strong class="s-hi">imposición de las manos del presbiterio</strong>»</em> (1 Tim 4:14). Presbiterio: un cuerpo constituido, con manos que se imponen y un don que se transmite. Esto es estructura, no metáfora.</p>
-                <h2>«No llames a nadie padre» — respuesta bíblica<br>Mateo 23:9</h2>
-                <p>Jesús dice en Mateo 23:9: <em>«<strong class="s-hi">Nadie en el mundo llamen "padre"</strong>, porque no tienen sino uno, el Padre celestial.»</em> El que usa este versículo contra el sacerdocio católico tiene un problema: la misma Biblia lo contradice en varios pasajes.</p>
-                <p>San Pablo se llama a sí mismo padre: <em>«aunque tengan diez mil preceptores en Cristo, no tienen muchos padres: <strong class="s-hi">soy yo el que los ha engendrado en Cristo Jesús</strong>, mediante la predicación de la Buena Noticia»</em> (1 Cor 4:15). Esteban, ante quienes lo apedrearían, los llama: <em>«<strong class="s-hi">Hermanos y padres</strong>, escuchen»</em> (Hch 7:2). De Abraham se dice que es <em>«padre de los que se circuncidan»</em> y <em>«nuestro padre Abraham»</em> (Rom 4:12). El propio Jesús habla del padre de cada uno (Mt 7:11, Lc 15:11-32).</p>
+                <p>Pablo le ordena a Tito lo mismo:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Tito 1:5</span>
+                    <blockquote>«Te he dejado en Creta, para que terminaras de organizarlo todo y <strong class="s-hi">establecieras presbíteros en cada ciudad</strong> de acuerdo con mis instrucciones.»</blockquote>
+                </div>
+                <p>Y a Timoteo le recuerda cómo recibió el don:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Timoteo 4:14</span>
+                    <blockquote>«No malogres el don espiritual que hay en ti y que te fue conferido mediante una intervención profética, por la <strong class="s-hi">imposición de las manos del presbiterio</strong>.»</blockquote>
+                </div>
+                <p>Presbiterio: un cuerpo constituido, con manos que se imponen y un don que se transmite. Esto es estructura, no metáfora.</p>
+                <h2>Los Testigos de Jehová: un sacerdocio real para casi nadie<br>1 Pedro 2:9</h2>
+                <p>Los Testigos de Jehová no usan esta objeción, y la razón los deja peor parados. Para ellos, 1 Pedro 2:9 no habla de todos los creyentes. La Atalaya lo explica así: <em>«Dirigiéndose a los cristianos ungidos, Pedro escribió»</em>, y esos ungidos son los 144.000 que, <em>«junto con Cristo, componen el sacerdocio real»</em> (La Atalaya, 15 de enero de 2012). Casi todos sus fieles quedan fuera de todo sacerdocio, el bautismal y el ordenado. Pedro le escribió a la Iglesia entera.</p>
+                <h2>«No llames a nadie padre»: respuesta bíblica<br>Mateo 23:9</h2>
+                <p>Los Testigos de Jehová lo enseñan por escrito: <em>«Jesús prohibió que se aplicara el término "padre" a los hombres como un título formal o religioso»</em> (Perspicacia para comprender las Escrituras, vol. 2, «Padre»). Se apoyan en este versículo:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Mateo 23:9</span>
+                    <blockquote>«<strong class="s-hi">A nadie en el mundo llamen "padre"</strong>, porque no tienen sino uno, el Padre celestial.»</blockquote>
+                </div>
+                <p>El que usa este versículo contra el sacerdocio católico tiene un problema: la misma Biblia lo contradice en varios pasajes. San Pablo se llama a sí mismo padre:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ 1 Corintios 4:15</span>
+                    <blockquote>«Porque, aunque tengan diez mil preceptores en Cristo, no tienen muchos padres: <strong class="s-hi">soy yo el que los ha engendrado en Cristo Jesús</strong>, mediante la predicación de la Buena Noticia.»</blockquote>
+                </div>
+                <p>Esteban, ante quienes lo iban a apedrear, los llama así:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Hechos 7:2</span>
+                    <blockquote>«El respondió: «<strong class="s-hi">Hermanos y padres</strong>, escuchen: El Dios de la gloria se apareció a <strong class="s-hi">nuestro padre Abraham</strong>, cuando aún estaba en la Mesopotamia, antes de establecerse en Jarán,»</blockquote>
+                </div>
+                <p>Y Pablo llama padre a Abraham dos veces en un mismo versículo:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Romanos 4:12</span>
+                    <blockquote>«Y es también <strong class="s-hi">padre de los que se circuncidan</strong> pero no se contentan con esto, sino que siguen el mismo camino de la fe que tuvo <strong class="s-hi">nuestro padre Abraham</strong>, antes de ser circuncidado.»</blockquote>
+                </div>
+                <p>El propio Jesús habla del padre de cada uno (Mt 7:11, Lc 15:11-32).</p>
                 <p>Mateo 23:9 no prohíbe el uso gramatical de la palabra: prohíbe la idolatría de la autoridad humana, colocar a un hombre en el lugar de Dios. El contexto lo dice: Jesús habla contra los fariseos que buscan honores y títulos para sí mismos.</p>
-                <h2>El perdón de los pecados — Juan 20:22-23</h2>
-                <p>Volvamos al punto de partida. Jesús resucitado se aparece a los apóstoles y sopla sobre ellos —el mismo gesto del Génesis, cuando <em>«sopló en su nariz un aliento de vida»</em> y el hombre de arcilla se convirtió en un ser viviente (Gn 2:7)—:</p>
+                <h2>El perdón de los pecados<br>Juan 20:22-23</h2>
+                <p>Jesús resucitado se aparece a los apóstoles y sopla sobre ellos. Es el mismo gesto del Génesis:</p>
+                <!-- fuente: vaticano -->
+                <div class="scripture-block">
+                    <span class="scripture-ref">✝︎ Génesis 2:7</span>
+                    <blockquote>«Entonces el Señor Dios modeló al hombre con arcilla del suelo y <strong class="s-hi">sopló en su nariz un aliento de vida</strong>. Así el hombre se convirtió en un ser viviente.»</blockquote>
+                </div>
+                <p>Ahora el que sopla es Cristo:</p>
                 <!-- fuente: vaticano -->
                 <div class="scripture-block">
                     <span class="scripture-ref">✝︎ Juan 20:22-23</span>
                     <blockquote>«Al decirles esto, sopló sobre ellos y añadió: <strong class="s-hi">«Reciban al Espíritu Santo. Los pecados serán perdonados a los que ustedes se los perdonen, y serán retenidos a los que ustedes se los retengan.»</strong>»</blockquote>
                 </div>
-                <p>Hay que detenerse en el verbo que nadie cita: <em>retener</em>. ¿Cómo se retienen los pecados de alguien sin saber cuáles son? No se puede. Este versículo exige que el penitente declare sus pecados, porque sin oírlos no hay nada que perdonar ni que retener. Eso es la confesión sacramental, instituida por Cristo mismo.</p>
+                <p>El verbo que nadie cita es <em>retener</em>. ¿Cómo se retienen los pecados de alguien sin saber cuáles son? No se puede. Este versículo exige que el penitente declare sus pecados, porque sin oírlos no hay nada que perdonar ni que retener. Eso es la confesión sacramental, instituida por Cristo mismo.</p>
+                <p>Los Testigos de Jehová se quedan con la mitad. A sus fieles les mandan confesar los pecados graves a los ancianos de la congregación, y admiten que esos ancianos <em>«no pueden absolver a nadie de los pecados que haya cometido contra Dios, pues ningún ser humano tiene dicha autoridad»</em> (La Atalaya, 1 de septiembre de 2010). Tienen la confesión y no tienen el perdón. Cristo dio las dos cosas juntas.</p>
                 <h2>El altar y el sacrificio en el Nuevo Testamento<br>Hebreos 13:10 y Malaquías 1:11</h2>
                 <p>Si no hay sacerdocio ni sacrificio en el Nuevo Testamento, ¿por qué la carta a los Hebreos dice esto?</p>
                 <!-- fuente: vaticano -->
@@ -1157,8 +1396,8 @@ Cotejadas el 27-ago-2026: 6 del Vaticano, 2 de Jerusalén (Heb 5:1-2 y 5:4).
                     <span class="scripture-ref">✝︎ Malaquías 1:11</span>
                     <blockquote>«Pero desde la salida del sol hasta su ocaso, mi Nombre es grande entre las naciones y <strong class="s-hi">en todo lugar se presenta a mi Nombre un sacrificio de incienso y una ofrenda pura</strong>; porque mi Nombre es grande entre las naciones, dice el Señor de los ejércitos.»</blockquote>
                 </div>
-                <p>Un sacrificio y una ofrenda pura, en todo lugar de la tierra, y anunciados por un profeta cuando el único altar legítimo estaba en Jerusalén. Los Padres de los primeros siglos reconocieron en esto la Eucaristía —el único sacrificio que cumple esa profecía—. Y si hay sacrificio, hay quien lo ofrece.</p>
-                <h2>Lo que la Escritura nos enseña</h2>
+                <p>Un sacrificio y una ofrenda pura, en todo lugar de la tierra, anunciados por un profeta cuando el único altar legítimo estaba en Jerusalén. Los Padres de los primeros siglos reconocieron en esto la Eucaristía, el único sacrificio que cumple esa profecía. Y si hay sacrificio, hay quien lo ofrece.</p>
+                <h2>Lo que dice la Escritura</h2>
                 <ul>
                     <li>El sacerdote es un hombre como todos, que puede luchar y fallar.</li>
                     <li>Su autoridad y santidad provienen de Dios, no de sus méritos personales.</li>
@@ -1166,7 +1405,7 @@ Cotejadas el 27-ago-2026: 6 del Vaticano, 2 de Jerusalén (Heb 5:1-2 y 5:4).
                     <li>El sacerdocio ministerial ordenado está en el Nuevo Testamento: Hch 14:23, Tit 1:5, 1 Tim 4:14.</li>
                     <li>El perdón sacramental fue instituido por Cristo en Juan 20:22-23.</li>
                 </ul>
-                <p>Si se toma la Biblia entera —no pasajes aislados— se encuentra sacerdocio ordenado, confesión, sacrificio y altar. La pregunta no es si está en la Biblia. Está. La pregunta es si se está dispuesto a leer todo.</p>`,
+                <p>Si se toma la Biblia entera, y no pasajes aislados, se encuentra sacerdocio ordenado, confesión, sacrificio y altar. Todo está en la Biblia.</p>`,
       nav: {
         prevTitle: "Transubstanciación: el misterio eucarístico",
         nextTitle: "Los santos y su intercesión"
