@@ -1091,7 +1091,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
           es: "Spagnolo",
           en: "Inglese"
         },
-        otherLangs: "Per edizioni in altre lingue, scrivere all'autore tramite il <a href='index.html#contacto'>modulo di contatto</a>.",
+        otherLangs: "Per edizioni in altre lingue, scrivere all'autore tramite il <a href='/#contacto'>modulo di contatto</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.
@@ -1160,7 +1160,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                 <h2>Collegamenti ad altri siti</h2>
                 <p>Queste pagine rimandano a siti di terzi — Vatican.va, YouTube, Amazon e gli apostolati consigliati. Quello che accade dopo che hai lasciato questo sito è regolato dalle politiche di quei siti, non da questa.</p>
                 <h2>Titolare e contatti</h2>
-                <p>Il responsabile di questo sito è <strong>M. Gabriel Castiglia</strong>. Per qualsiasi domanda sui tuoi dati — compresa la richiesta di cancellare un messaggio che hai inviato — scrivi tramite il <a href="index.html#contacto">modulo di contatto</a>.</p>`
+                <p>Il responsabile di questo sito è <strong>M. Gabriel Castiglia</strong>. Per qualsiasi domanda sui tuoi dati — compresa la richiesta di cancellare un messaggio che hai inviato — scrivi tramite il <a href="/#contacto">modulo di contatto</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "Su questo sito | Fede e Ragione",

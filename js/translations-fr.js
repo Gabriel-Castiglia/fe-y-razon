@@ -1099,7 +1099,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
           es: "Espagnol",
           en: "Anglais"
         },
-        otherLangs: "Pour des éditions dans d'autres langues, écrire à l'auteur via le <a href='index.html#contacto'>formulaire de contact</a>.",
+        otherLangs: "Pour des éditions dans d'autres langues, écrire à l'auteur via le <a href='/#contacto'>formulaire de contact</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.
@@ -1168,7 +1168,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
                 <h2>Liens vers d'autres sites</h2>
                 <p>Ces pages renvoient à des sites tiers — Vatican.va, YouTube, Amazon et les apostolats recommandés. Ce qui se passe une fois que vous avez quitté ce site relève des politiques de ces sites, non de celle-ci.</p>
                 <h2>Responsable et contact</h2>
-                <p>Le responsable de ce site est <strong>M. Gabriel Castiglia</strong>. Pour toute question concernant vos données — y compris la suppression d'un message que vous avez envoyé — écrivez via le <a href="index.html#contacto">formulaire de contact</a>.</p>`
+                <p>Le responsable de ce site est <strong>M. Gabriel Castiglia</strong>. Pour toute question concernant vos données — y compris la suppression d'un message que vous avez envoyé — écrivez via le <a href="/#contacto">formulaire de contact</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "À propos de ce site | Foi et Raison",

@@ -1099,7 +1099,7 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
           es: "Espanhol",
           en: "Inglês"
         },
-        otherLangs: "Para edições em outros idiomas, escreva ao autor pelo <a href='index.html#contacto'>formulário de contato</a>.",
+        otherLangs: "Para edições em outros idiomas, escreva ao autor pelo <a href='/#contacto'>formulário de contato</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.
@@ -1168,7 +1168,7 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
                 <h2>Links para outros sites</h2>
                 <p>Estas páginas remetem a sites de terceiros — Vatican.va, YouTube, Amazon e os apostolados recomendados. O que acontecer depois que você sair daqui rege-se pelas políticas desses sites, não por esta.</p>
                 <h2>Responsável e contato</h2>
-                <p>O responsável por este site é <strong>M. Gabriel Castiglia</strong>. Para qualquer questão sobre os seus dados — incluindo pedir que uma mensagem enviada seja apagada — escreva pelo <a href="index.html#contacto">formulário de contato</a>.</p>`
+                <p>O responsável por este site é <strong>M. Gabriel Castiglia</strong>. Para qualquer questão sobre os seus dados — incluindo pedir que uma mensagem enviada seja apagada — escreva pelo <a href="/#contacto">formulário de contato</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "Sobre este site | Fé e Razão",

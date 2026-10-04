@@ -1278,7 +1278,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
           es: "スペイン語",
           en: "英語"
         },
-        otherLangs: "他の言語での出版にご関心のある方は、<a href='index.html#contacto'>お問い合わせフォーム</a>より著者までご連絡ください。",
+        otherLangs: "他の言語での出版にご関心のある方は、<a href='/#contacto'>お問い合わせフォーム</a>より著者までご連絡ください。",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.
@@ -1362,7 +1362,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                 <h2>外部サイトへのリンク</h2>
                 <p>当サイトは第三者のサイト（Vatican.va、YouTube、Amazon、推薦する使徒活動団体など）にリンクしています。当サイトを離れた後のことは、それぞれのサイトの方針に従うものであり、本方針の対象外です。</p>
                 <h2>管理者と連絡先</h2>
-                <p>当サイトの管理者は <strong>M. Gabriel Castiglia</strong> です。ご自身のデータに関するお問い合わせ（送信されたメッセージの削除のご依頼を含む）は、<a href="index.html#contacto">お問い合わせフォーム</a>よりご連絡ください。</p>`
+                <p>当サイトの管理者は <strong>M. Gabriel Castiglia</strong> です。ご自身のデータに関するお問い合わせ（送信されたメッセージの削除のご依頼を含む）は、<a href="/#contacto">お問い合わせフォーム</a>よりご連絡ください。</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "このサイトについて | 信仰と理性",

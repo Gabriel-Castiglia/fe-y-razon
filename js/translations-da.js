@@ -1278,7 +1278,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
           es: "Spansk",
           en: "Engelsk"
         },
-        otherLangs: "For udgaver på andre sprog kan man skrive til forfatteren via <a href='index.html#contacto'>kontaktformularen</a>.",
+        otherLangs: "For udgaver på andre sprog kan man skrive til forfatteren via <a href='/#contacto'>kontaktformularen</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.
@@ -1362,7 +1362,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                 <h2>Links til andre websteder</h2>
                 <p>Disse sider linker til tredjepartswebsteder — Vatican.va, YouTube, Amazon og de anbefalede apostolater. Hvad der sker, når du har forladt dette websted, er omfattet af de pågældende websteders politikker, ikke af denne.</p>
                 <h2>Ansvarlig og kontakt</h2>
-                <p>Ansvarlig for dette websted er <strong>M. Gabriel Castiglia</strong>. Har du spørgsmål om dine data — herunder ønske om at få slettet en besked, du har sendt — så skriv via <a href="index.html#contacto">kontaktformularen</a>.</p>`
+                <p>Ansvarlig for dette websted er <strong>M. Gabriel Castiglia</strong>. Har du spørgsmål om dine data — herunder ønske om at få slettet en besked, du har sendt — så skriv via <a href="/#contacto">kontaktformularen</a>.</p>`
     },
     "sobre-este-sitio": {
       pageTitle: "Om dette sted | Tro og Fornuft",
