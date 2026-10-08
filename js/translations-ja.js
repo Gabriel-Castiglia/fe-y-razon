@@ -1291,6 +1291,19 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         buyLabel: "Amazonで購入 →",
         buyAria: "『The False Door』をAmazonで購入"
       },
+      // Fe y Razón, la ficha nueva (8-oct-2026). Cita de 1 Pedro 3:15: traducción propia sobre la Nova Vulgata; falta cotejarla con una Biblia católica en este idioma (redacción próxima al 新共同訳).
+      sec4b: {
+        badge: "新刊",
+        title: "Fe y Razón<span class='rec-book-subtitle'>Siempre aparejados para responder</span>",
+        epigraph: "「あなたがたの抱いている希望について説明を要求する人には、いつでも弁明できるように備えていなさい。」",
+        epigraphRef: "ペトロの手紙一 3:15",
+        desc: "神が語られたのなら、その言葉はどこにあり、誰がそれを守っているのか。本書は資料を手にして答えます。家の戸口まで持って来られる聖書、各団体の信仰告白、そして彼ら自身の公式サイトです。プロテスタント、アドベンチスト、エホバの証人、モルモン教、そして離教者全般を、一つずつ取り上げます。聖書はそれ自体では説明されないため、本書は独自に解釈しません。使徒たちから聖書を受け継いだ教父たち、そしてそれ以来聖書を守ってきた教導権とともに読みます。",
+        close: "『The False Door』が入り口で終えた道の続きです。",
+        factFormats: "ペーパーバック(カラー)とハードカバー(プレミアムカラー)",
+        soonLabel: "近日Amazonで発売",
+        sameAuthor: "同じ著者による",
+        coverAlt: "M・ガブリエル・カスティリア著『Fe y Razón』の表紙"
+      },
       sec5: {
         eyebrow: "法的告知",
         title: "著作権",

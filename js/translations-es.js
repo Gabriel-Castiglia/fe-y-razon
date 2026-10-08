@@ -1522,6 +1522,19 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
         buyLabel: "Comprar en Amazon →",
         buyAria: "Comprar «La puerta falsa» en Amazon"
       },
+      // Fe y Razón, la ficha nueva (8-oct-2026). Cita de 1 Pedro 3:15: El Libro del Pueblo de Dios (vatican.va/archive/ESL0506), cotejada el 8-oct-2026.
+      sec4b: {
+        badge: "Nuevo libro",
+        title: "Fe y Razón<span class='rec-book-subtitle'>Siempre aparejados para responder</span>",
+        epigraph: "«Estén siempre dispuestos a defenderse delante de cualquiera que les pida razón de la esperanza que ustedes tienen.»",
+        epigraphRef: "1 Pedro 3:15",
+        desc: "Si Dios habló, ¿dónde quedó lo que dijo y quién lo custodia? Este libro responde con los documentos en la mano: la Biblia que traen a la puerta de casa, las confesiones de fe de cada grupo y sus propias páginas oficiales. Protestantes, adventistas, testigos de Jehová, mormones y cismáticos en general, uno por uno. Y como la Escritura no se explica sola, no la interpreta por su cuenta: la lee con los Padres de la Iglesia, que la recibieron de los apóstoles, y con el Magisterio, que la custodia desde entonces.",
+        close: "Sigue el camino que La puerta falsa dejó en el umbral.",
+        factFormats: "Tapa blanda a color y tapa dura en color premium",
+        soonLabel: "Muy pronto en Amazon",
+        sameAuthor: "Del mismo autor",
+        coverAlt: "Portada de Fe y Razón, de M. Gabriel Castiglia"
+      },
       sec5: {
         eyebrow: "Aviso legal",
         title: "Derechos de autor",

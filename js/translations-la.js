@@ -1297,6 +1297,19 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         buyLabel: "Eme apud Amazon →",
         buyAria: "Librum The False Door apud Amazon emere"
       },
+      // Fe y Razón, la ficha nueva (8-oct-2026). Cita de 1 Pedro 3:15: Nova Vulgata (vatican.va), cotejada el 8-oct-2026.
+      sec4b: {
+        badge: "Liber novus",
+        title: "Fe y Razón<span class='rec-book-subtitle'>Siempre aparejados para responder</span>",
+        epigraph: "«Parati semper ad defensionem omni poscenti vos rationem de ea, quae in vobis est, spe.»",
+        epigraphRef: "1 Petri 3, 15",
+        desc: "Si Deus locutus est, ubi est quod dixit, et quis id custodit? Hic liber documentis in manu respondet: Biblia quae ad ianuam domus affertur, confessionibus fidei uniuscuiusque coetus eorumque paginis publicis. Protestantes, Adventistae, Testes Iehovae, Mormones et schismatici in universum, singuli. Et quoniam Scriptura se ipsa non explicat, liber eam suo arbitrio non interpretatur: eam legit cum Patribus Ecclesiae, qui eam ab apostolis acceperunt, et cum Magisterio, quod eam inde custodit.",
+        close: "Iter persequitur quod The False Door in limine reliquit.",
+        factFormats: "Tegumento molli coloribus et tegumento duro coloribus praestantibus",
+        soonLabel: "Mox apud Amazon",
+        sameAuthor: "Ab eodem auctore",
+        coverAlt: "Tegumentum libri Fe y Razón, auctore M. Gabriel Castiglia"
+      },
       sec5: {
         eyebrow: "Monitum iuridicum",
         title: "Ius auctoris",

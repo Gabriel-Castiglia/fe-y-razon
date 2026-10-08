@@ -1291,6 +1291,19 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
         buyLabel: "Bilhin sa Amazon →",
         buyAria: "Bilhin ang The False Door sa Amazon"
       },
+      // Fe y Razón, la ficha nueva (8-oct-2026). Cita de 1 Pedro 3:15: traducción propia sobre la Nova Vulgata; falta cotejarla con una Biblia católica en este idioma.
+      sec4b: {
+        badge: "Bagong aklat",
+        title: "Fe y Razón<span class='rec-book-subtitle'>Siempre aparejados para responder</span>",
+        epigraph: "“Lagi kayong maging handang magpaliwanag sa sinumang humihingi sa inyo ng dahilan ng pag-asang nasa inyo.”",
+        epigraphRef: "1 Pedro 3:15",
+        desc: "Kung nagsalita ang Diyos, nasaan ang kanyang sinabi at sino ang nag-iingat nito? Sinasagot ito ng aklat na ito nang hawak ang mga dokumento: ang Bibliyang dinadala nila sa pinto ng inyong bahay, ang mga pahayag ng pananampalataya ng bawat grupo at ang kanilang sariling opisyal na mga pahina. Mga Protestante, Adventista, Saksi ni Jehova, Mormon at mga sismatiko sa pangkalahatan, isa-isa. At dahil hindi ipinapaliwanag ng Kasulatan ang sarili nito, hindi ito binibigyang-kahulugan ng aklat ayon sa sariling pasya: binabasa ito kasama ng mga Ama ng Simbahan, na tumanggap nito mula sa mga apostol, at kasama ng Magisterio, na nag-iingat nito mula noon.",
+        close: "Ipinagpapatuloy nito ang landas na iniwan ng The False Door sa may pintuan.",
+        factFormats: "Paperback na de-kolor at hardcover na premium na kulay",
+        soonLabel: "Malapit na sa Amazon",
+        sameAuthor: "Mula sa parehong may-akda",
+        coverAlt: "Pabalat ng Fe y Razón, ni M. Gabriel Castiglia"
+      },
       sec5: {
         eyebrow: "Paunawang legal",
         title: "Karapatang-ari",

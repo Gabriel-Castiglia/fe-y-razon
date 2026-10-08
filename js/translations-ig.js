@@ -1104,6 +1104,19 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         buyLabel: "Zụta na Amazon →",
         buyAria: "Zụta The False Door na Amazon"
       },
+      // Fe y Razón, la ficha nueva (8-oct-2026). Cita de 1 Pedro 3:15: traducción propia sobre la Nova Vulgata; falta cotejarla con una Biblia católica en este idioma.
+      sec4b: {
+        badge: "Akwụkwọ ọhụrụ",
+        title: "Fe y Razón<span class='rec-book-subtitle'>Siempre aparejados para responder</span>",
+        epigraph: "“Na-adịnụ njikere mgbe niile ịza onye ọ bụla na-ajụ unu ihe kpatara olileanya dị n’ime unu.”",
+        epigraphRef: "1 Pita 3:15",
+        desc: "Ọ bụrụ na Chineke ekwuola okwu, olee ebe ihe o kwuru dị, onye na-echekwakwa ya? Akwụkwọ a na-aza ya na akwụkwọ ndekọ n'aka: Baịbụl ha na-ebute n'ọnụ ụzọ ụlọ gị, nkwupụta okwukwe nke otu ọ bụla na peeji nke ha n'onwe ha. Ndị Protestant, ndị Adventist, Ndịàmà Jehova, ndị Mormon na ndị nkewa n'ozuzu, otu otu. Ebe ọ bụ na Akwụkwọ Nsọ anaghị akọwa onwe ya, akwụkwọ a anaghị akọwa ya n'echiche nke aka ya: ọ na-agụ ya na ndị Nna Nzukọ-nsọ, ndị natara ya n'aka ndịozi, na Magisterium, nke na-echekwa ya kemgbe ahụ.",
+        close: "Ọ na-aga n'ihu n'ụzọ The False Door hapụrụ n'ọnụ ụzọ.",
+        factFormats: "Mkpuchi dị nro n'agba na mkpuchi siri ike n'agba pụrụ iche",
+        soonLabel: "N'oge na-adịghị anya na Amazon",
+        sameAuthor: "Site n'aka otu onye dere",
+        coverAlt: "Mkpuchi nke Fe y Razón, nke M. Gabriel Castiglia dere"
+      },
       sec5: {
         eyebrow: "Ọkwa iwu",
         title: "Ikike nwebisiinka",
