@@ -1112,6 +1112,19 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
         buyLabel: "Acheter sur Amazon →",
         buyAria: "Acheter The False Door sur Amazon"
       },
+      // Fe y Razón, la ficha nueva (8-oct-2026). Cita de 1 Pedro 3:15: AELF, traduction liturgique (aelf.org), cotejada el 8-oct-2026.
+      sec4b: {
+        badge: "Nouveau livre",
+        title: "Fe y Razón<span class='rec-book-subtitle'>Siempre aparejados para responder</span>",
+        epigraph: "« Soyez prêts à tout moment à présenter une défense devant quiconque vous demande de rendre raison de l’espérance qui est en vous. »",
+        epigraphRef: "1 Pierre 3, 15",
+        desc: "Si Dieu a parlé, où se trouve ce qu'il a dit, et qui le garde ? Ce livre répond avec les documents en main : la Bible qu'on vient apporter à votre porte, les confessions de foi de chaque groupe et leurs propres pages officielles. Protestants, adventistes, témoins de Jéhovah, mormons et schismatiques en général, un par un. Et comme l'Écriture ne s'explique pas toute seule, il ne l'interprète pas à sa guise : il la lit avec les Pères de l'Église, qui l'ont reçue des apôtres, et avec le Magistère, qui la garde depuis lors.",
+        close: "Il poursuit le chemin que The False Door avait laissé au seuil.",
+        factFormats: "Broché en couleur et relié en couleur premium",
+        soonLabel: "Bientôt sur Amazon",
+        sameAuthor: "Du même auteur",
+        coverAlt: "Couverture de Fe y Razón, de M. Gabriel Castiglia"
+      },
       sec5: {
         eyebrow: "Mentions légales",
         title: "Droits d'auteur",

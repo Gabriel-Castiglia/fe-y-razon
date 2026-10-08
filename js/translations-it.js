@@ -1104,6 +1104,19 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         buyLabel: "Acquista su Amazon →",
         buyAria: "Acquista The False Door su Amazon"
       },
+      // Fe y Razón, la ficha nueva (8-oct-2026). Cita de 1 Pedro 3:15: CEI 2008 (bibbiaedu.it), cotejada el 8-oct-2026.
+      sec4b: {
+        badge: "Nuovo libro",
+        title: "Fe y Razón<span class='rec-book-subtitle'>Siempre aparejados para responder</span>",
+        epigraph: "«Pronti sempre a rispondere a chiunque vi domandi ragione della speranza che è in voi.»",
+        epigraphRef: "1 Pietro 3, 15",
+        desc: "Se Dio ha parlato, dove è finito ciò che ha detto e chi lo custodisce? Questo libro risponde con i documenti alla mano: la Bibbia che portano alla porta di casa, le confessioni di fede di ogni gruppo e le loro stesse pagine ufficiali. Protestanti, avventisti, testimoni di Geova, mormoni e scismatici in generale, uno per uno. E poiché la Scrittura non si spiega da sola, non la interpreta per conto proprio: la legge con i Padri della Chiesa, che la ricevettero dagli apostoli, e con il Magistero, che la custodisce da allora.",
+        close: "Prosegue il cammino che The False Door aveva lasciato sulla soglia.",
+        factFormats: "Copertina flessibile a colori e copertina rigida a colori premium",
+        soonLabel: "Presto su Amazon",
+        sameAuthor: "Dello stesso autore",
+        coverAlt: "Copertina di Fe y Razón, di M. Gabriel Castiglia"
+      },
       sec5: {
         eyebrow: "Note legali",
         title: "Diritto d'autore",

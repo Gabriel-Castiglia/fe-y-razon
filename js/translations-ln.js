@@ -1104,6 +1104,19 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         buyLabel: "Somba na Amazon →",
         buyAria: "Somba The False Door na Amazon"
       },
+      // Fe y Razón, la ficha nueva (8-oct-2026). Cita de 1 Pedro 3:15: traducción propia sobre la Nova Vulgata; falta cotejarla con una Biblia católica en este idioma.
+      sec4b: {
+        badge: "Buku ya sika",
+        title: "Fe y Razón<span class='rec-book-subtitle'>Siempre aparejados para responder</span>",
+        epigraph: "“Bózala ntango nyonso na bobongi ya koyanola moto nyonso oyo akotuna bino ntina ya elikya oyo ezali na kati na bino.”",
+        epigraphRef: "1 Petelo 3:15",
+        desc: "Soki Nzambe alobaki, wapi maloba na ye ezali, mpe nani azali kobatela yango? Buku oyo ezongiseli na mikanda na loboko: Biblia oyo bamemaka na monoko ya ndako na yo, bondimi ya lisangá moko na moko mpe nkasa na bango moko ya leta. Baprotestanti, Baadventiste, Batatoli ya Yehova, Bamormon mpe bato ya bokabwani na ndenge nyonso, moko moko. Mpe lokola Makomami ezali kolimbola yango moko te, buku oyo ekolimbola yango na makanisi na yango moko te: etangaka yango elongo na Batata ya Eklezia, oyo bazwaki yango epai ya bantoma, mpe elongo na Magisterium, oyo ebatelaka yango kobanda wana.",
+        close: "Ezali kokoba nzela oyo The False Door etikaki na monoko ya ekuke.",
+        factFormats: "Mokanda ya pete na langi mpe mokanda makasi na langi ya kitoko",
+        soonLabel: "Kala mingi te na Amazon",
+        sameAuthor: "Ya mokomi moko",
+        coverAlt: "Lipapu ya Fe y Razón, ya M. Gabriel Castiglia"
+      },
       sec5: {
         eyebrow: "Liyebisi ya mibeko",
         title: "Lotomo ya mokomi",

@@ -1291,6 +1291,19 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
         buyLabel: "Buy on Amazon →",
         buyAria: "Buy The False Door on Amazon"
       },
+      // Fe y Razón, la ficha nueva (8-oct-2026). Cita de 1 Pedro 3:15: NABRE (bible.usccb.org), cotejada el 8-oct-2026.
+      sec4b: {
+        badge: "New book",
+        title: "Fe y Razón<span class='rec-book-subtitle'>Siempre aparejados para responder</span>",
+        epigraph: "“Always be ready to give an explanation to anyone who asks you for a reason for your hope.”",
+        epigraphRef: "1 Peter 3:15",
+        desc: "If God has spoken, where did his word end up, and who keeps it? This book answers with the documents in hand: the Bible they bring to your door, each group's confessions of faith and their own official pages. Protestants, Adventists, Jehovah's Witnesses, Mormons and schismatics in general, one by one. And since Scripture does not explain itself, the book does not interpret it on its own: it reads it with the Fathers of the Church, who received it from the apostles, and with the Magisterium, which has kept it ever since.",
+        close: "It continues the road that The False Door left at the threshold.",
+        factFormats: "Paperback in color and hardcover in premium color",
+        soonLabel: "Coming soon on Amazon",
+        sameAuthor: "By the same author",
+        coverAlt: "Cover of Fe y Razón, by M. Gabriel Castiglia"
+      },
       sec5: {
         eyebrow: "Legal notice",
         title: "Copyright",
