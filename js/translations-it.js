@@ -1107,7 +1107,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       // Fe y Razón, la ficha nueva (8-oct-2026). Cita de 1 Pedro 3:15: CEI 2008 (bibbiaedu.it), cotejada el 8-oct-2026.
       sec4b: {
         badge: "Nuovo libro",
-        title: "Fe y Razón<span class='rec-book-subtitle'>Siempre aparejados para responder</span>",
+        title: "Faith and Reason<span class='rec-book-subtitle'>Always Ready to Give an Answer</span>",
         epigraph: "«Pronti sempre a rispondere a chiunque vi domandi ragione della speranza che è in voi.»",
         epigraphRef: "1 Pietro 3, 15",
         desc: "Se Dio ha parlato, dove è finito ciò che ha detto e chi lo custodisce? Questo libro risponde con i documenti alla mano: la Bibbia che portano alla porta di casa, le confessioni di fede di ogni gruppo e le loro stesse pagine ufficiali. Protestanti, avventisti, testimoni di Geova, mormoni e scismatici in generale, uno per uno. E poiché la Scrittura non si spiega da sola, non la interpreta per conto proprio: la legge con i Padri della Chiesa, che la ricevettero dagli apostoli, e con il Magistero, che la custodisce da allora.",
@@ -1115,7 +1115,10 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         factFormats: "Copertina flessibile a colori e copertina rigida a colori premium",
         soonLabel: "Presto su Amazon",
         sameAuthor: "Dello stesso autore",
-        coverAlt: "Copertina di Fe y Razón, di M. Gabriel Castiglia"
+        coverAlt: "Copertina di Faith and Reason, di M. Gabriel Castiglia",
+        // Tapa y lomo: la castellana en español; la inglesa (Faith and Reason) en los demás idiomas.
+        coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
+        spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
       },
       sec5: {
         eyebrow: "Note legali",

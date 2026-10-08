@@ -1294,7 +1294,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       // Fe y Razón, la ficha nueva (8-oct-2026). Cita de 1 Pedro 3:15: traducción propia sobre la Nova Vulgata; falta cotejarla con una Biblia católica en este idioma.
       sec4b: {
         badge: "Ny bog",
-        title: "Fe y Razón<span class='rec-book-subtitle'>Siempre aparejados para responder</span>",
+        title: "Faith and Reason<span class='rec-book-subtitle'>Always Ready to Give an Answer</span>",
         epigraph: "„Vær altid rede til at forsvare jer over for enhver, som kræver jer til regnskab for det håb, I har.“",
         epigraphRef: "1 Petersbrev 3,15",
         desc: "Hvis Gud har talt, hvor blev det af det, han sagde, og hvem vogter det? Denne bog svarer med dokumenterne i hånden: den Bibel, man kommer med til ens dør, hver gruppes trosbekendelser og deres egne officielle sider. Protestanter, adventister, Jehovas Vidner, mormoner og skismatikere i det hele taget, én efter én. Og fordi Skriften ikke forklarer sig selv, fortolker bogen den ikke på egen hånd: den læser den med Kirkefædrene, som modtog den fra apostlene, og med Læreembedet, som har vogtet den lige siden.",
@@ -1302,7 +1302,10 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         factFormats: "Paperback i farver og indbundet i premiumfarver",
         soonLabel: "Snart på Amazon",
         sameAuthor: "Af samme forfatter",
-        coverAlt: "Omslag til Fe y Razón af M. Gabriel Castiglia"
+        coverAlt: "Omslag til Faith and Reason af M. Gabriel Castiglia",
+        // Tapa y lomo: la castellana en español; la inglesa (Faith and Reason) en los demás idiomas.
+        coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
+        spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
       },
       sec5: {
         eyebrow: "Juridisk meddelelse",

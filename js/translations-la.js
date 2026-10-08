@@ -1300,7 +1300,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
       // Fe y Razón, la ficha nueva (8-oct-2026). Cita de 1 Pedro 3:15: Nova Vulgata (vatican.va), cotejada el 8-oct-2026.
       sec4b: {
         badge: "Liber novus",
-        title: "Fe y Razón<span class='rec-book-subtitle'>Siempre aparejados para responder</span>",
+        title: "Faith and Reason<span class='rec-book-subtitle'>Always Ready to Give an Answer</span>",
         epigraph: "«Parati semper ad defensionem omni poscenti vos rationem de ea, quae in vobis est, spe.»",
         epigraphRef: "1 Petri 3, 15",
         desc: "Si Deus locutus est, ubi est quod dixit, et quis id custodit? Hic liber documentis in manu respondet: Biblia quae ad ianuam domus affertur, confessionibus fidei uniuscuiusque coetus eorumque paginis publicis. Protestantes, Adventistae, Testes Iehovae, Mormones et schismatici in universum, singuli. Et quoniam Scriptura se ipsa non explicat, liber eam suo arbitrio non interpretatur: eam legit cum Patribus Ecclesiae, qui eam ab apostolis acceperunt, et cum Magisterio, quod eam inde custodit.",
@@ -1308,7 +1308,10 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         factFormats: "Tegumento molli coloribus et tegumento duro coloribus praestantibus",
         soonLabel: "Mox apud Amazon",
         sameAuthor: "Ab eodem auctore",
-        coverAlt: "Tegumentum libri Fe y Razón, auctore M. Gabriel Castiglia"
+        coverAlt: "Tegumentum libri Faith and Reason, auctore M. Gabriel Castiglia",
+        // Tapa y lomo: la castellana en español; la inglesa (Faith and Reason) en los demás idiomas.
+        coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
+        spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
       },
       sec5: {
         eyebrow: "Monitum iuridicum",

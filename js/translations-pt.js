@@ -1115,7 +1115,7 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
       // Fe y Razón, la ficha nueva (8-oct-2026). Cita de 1 Pedro 3:15: traducción propia sobre la Nova Vulgata; falta cotejarla con una Biblia católica en este idioma.
       sec4b: {
         badge: "Novo livro",
-        title: "Fe y Razón<span class='rec-book-subtitle'>Siempre aparejados para responder</span>",
+        title: "Faith and Reason<span class='rec-book-subtitle'>Always Ready to Give an Answer</span>",
         epigraph: "“Estai sempre prontos a responder a todo aquele que vos pedir a razão da esperança que há em vós.”",
         epigraphRef: "1 Pedro 3, 15",
         desc: "Se Deus falou, onde ficou o que ele disse e quem o guarda? Este livro responde com os documentos na mão: a Bíblia que trazem à porta de casa, as confissões de fé de cada grupo e as suas próprias páginas oficiais. Protestantes, adventistas, testemunhas de Jeová, mórmons e cismáticos em geral, um por um. E como a Escritura não se explica sozinha, não a interpreta por conta própria: lê-a com os Padres da Igreja, que a receberam dos apóstolos, e com o Magistério, que a guarda desde então.",
@@ -1123,7 +1123,10 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
         factFormats: "Capa comum colorida e capa dura em cor premium",
         soonLabel: "Em breve na Amazon",
         sameAuthor: "Do mesmo autor",
-        coverAlt: "Capa de Fe y Razón, de M. Gabriel Castiglia"
+        coverAlt: "Capa de Faith and Reason, de M. Gabriel Castiglia",
+        // Tapa y lomo: la castellana en español; la inglesa (Faith and Reason) en los demás idiomas.
+        coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
+        spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
       },
       sec5: {
         eyebrow: "Aviso legal",
