@@ -385,7 +385,7 @@
         border-radius: 3px; box-shadow: 0 16px 44px rgba(0,0,0,.6);
         transition: transform .35s ease;
       }
-      .rec-book:hover .rec-book-cover img { transform: translateY(-5px); }
+      .rec-book:not(.rec-book--claro):hover .rec-book-cover img { transform: translateY(-5px); }
       .rec-book-body {
         padding: 2.7rem 3rem 2.5rem;
         display: flex; flex-direction: column; justify-content: center;
@@ -484,6 +484,102 @@
       .rec-book-flags--facts li { font-size: .84rem; color: rgba(255,255,255,.82); }
 
 
+      /* ── FE Y RAZÓN — ficha clara, en los colores de su cubierta ── */
+      .rec-book--claro {
+        background: linear-gradient(118deg, #fbf5ea 0%, #f6ecdc 55%, #f1e3cd 100%);
+        border: 1px solid rgba(146, 50, 30, .18);
+        box-shadow: 0 10px 40px rgba(80, 50, 25, .14);
+      }
+      .rec-book--claro .rec-book-cover { background: rgba(146, 50, 30, .05); perspective: 1400px; }
+      /* La tapa como libro: girada sobre el eje vertical, con el lomo a la vista. */
+      .rec-book-3d {
+        position: relative; width: 100%; max-width: 268px;
+        transform-style: preserve-3d; transform: rotateY(24deg);
+        transition: transform .5s ease;
+      }
+      .rec-book--claro > .rec-book-cover:hover .rec-book-3d { transform: rotateY(16deg) translateY(-4px); }
+      .rec-book-3d img {
+        position: relative; width: 100%; height: auto; display: block;
+        box-shadow: 16px 22px 40px rgba(60, 35, 18, .38);
+      }
+      /* El lomo mide 0,81 in sobre 6 in de tapa: el 13,5 % del ancho. */
+      .rec-book-3d-lomo {
+        position: absolute; top: 0; bottom: 0; right: 100%; width: 13.5%;
+        transform-origin: right center; transform: rotateY(-90deg);
+        background: url('Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo.jpg') center / 100% 100%;
+      }
+      .rec-book-3d-lomo::after {
+        content: ''; position: absolute; inset: 0;
+        background: linear-gradient(90deg, rgba(0,0,0,.28), rgba(0,0,0,.08) 60%, rgba(0,0,0,.2));
+      }
+      .rec-book-new {
+        font-family: 'Montserrat', sans-serif; font-size: .64rem; font-weight: 600;
+        letter-spacing: .2em; text-transform: uppercase; color: #92321e; margin: 0 0 .7rem;
+      }
+      .rec-book--claro > .rec-book-body h2 { color: #92321e; }
+      .rec-book--claro > .rec-book-body .rec-book-subtitle { color: #4a3424; }
+      .rec-book--claro > .rec-book-body .rec-book-author { color: #8c5e2e; }
+      .rec-book--claro > .rec-book-body .rec-book-epigraph { border-left-color: rgba(146, 50, 30, .45); }
+      .rec-book--claro > .rec-book-body .rec-book-epigraph p { color: #3a2a1e; }
+      .rec-book--claro > .rec-book-body .rec-book-epigraph cite { color: #8c5e2e; }
+      .rec-book--claro > .rec-book-body .rec-book-desc { color: #4a3f38; }
+      .rec-book--claro > .rec-book-body .rec-book-close { color: #92321e; }
+      .rec-book--claro > .rec-book-body .rec-book-facts { border-color: rgba(146, 50, 30, .18); background: rgba(255, 255, 255, .55); }
+      .rec-book--claro > .rec-book-body .rec-book-facts dt { color: #8c5e2e; }
+      .rec-book--claro > .rec-book-body .rec-book-facts dd,
+      .rec-book--claro > .rec-book-body .rec-book-flags--facts li { color: #3a2a1e; }
+      .rec-book--claro > .rec-book-body .rec-book-flags img { box-shadow: 0 0 0 1px rgba(0,0,0,.12); }
+      /* Botón sin enlace mientras el libro no está publicado. */
+      .rec-btn-soon {
+        display: inline-block; font-family: 'Montserrat', sans-serif; font-size: .74rem;
+        font-weight: 600; letter-spacing: .14em; text-transform: uppercase;
+        color: #fbf5ea; background: #92321e; padding: .75rem 1.4rem; border-radius: 4px;
+      }
+      /* Los dos libros en una sola ficha: Fe y Razón arriba; La puerta falsa,
+         en una franja oscura al pie que ocupa todo el ancho. */
+      .rec-book--claro { grid-template-rows: auto auto; }
+      .rec-libros-anterior {
+        grid-column: 1 / -1;
+        display: grid; grid-template-columns: minmax(0, 340px) minmax(0, 1fr);
+        background: linear-gradient(118deg, #2b221b 0%, #3a2e24 52%, #4a3b2d 100%);
+        border-top: 1px solid rgba(212, 165, 116, .22);
+      }
+      .rec-libros-anterior-cover {
+        display: flex; align-items: center; justify-content: center;
+        padding: 2.6rem 2rem; background: rgba(0,0,0,.14); perspective: 1400px;
+      }
+      /* Misma inclinación y mismo lomo a la vista que Fe y Razón. */
+      .rec-libros-anterior-3d {
+        position: relative; width: 100%; max-width: 205px;
+        transform-style: preserve-3d; transform: rotateY(24deg);
+        transition: transform .5s ease;
+      }
+      .rec-libros-anterior-cover:hover .rec-libros-anterior-3d { transform: rotateY(16deg) translateY(-4px); }
+      .rec-libros-anterior-tapa { position: relative; display: block; }
+      .rec-libros-anterior-tapa img {
+        display: block; width: 100%; height: auto;
+        box-shadow: 16px 22px 40px rgba(0,0,0,.5);
+      }
+      /* El lomo de la 2.ª edición, recortado de la cubierta completa: 9 % del ancho de la tapa. */
+      .rec-libros-anterior-lomo {
+        position: absolute; top: 0; bottom: 0; right: 100%; width: 9%;
+        transform-origin: right center; transform: rotateY(-90deg);
+        background: url('Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-es-lomo.jpg') center / 100% 100%;
+      }
+      .rec-libros-anterior-lomo::after {
+        content: ''; position: absolute; inset: 0;
+        background: linear-gradient(90deg, rgba(255,255,255,.06), rgba(0,0,0,.15));
+      }
+      .rec-libros-anterior-label {
+        font-family: 'Montserrat', sans-serif; font-size: .6rem; letter-spacing: .2em;
+        text-transform: uppercase; color: var(--gold); margin: 0 0 .35rem;
+      }
+      .rec-libros-anterior h3 {
+        font-family: 'Cinzel', serif; font-size: 1.7rem; color: #fff;
+        margin: 0 0 .3rem; font-weight: 700; line-height: 1.2;
+      }
+      .rec-libros-anterior h3 .rec-book-subtitle { font-size: .9rem; margin-top: .45rem; color: var(--gold-light); }
+
       /* ── DERECHOS DE AUTOR ── */
       .rec-rights {
         border-radius: 14px; padding: 2rem 2.2rem;
@@ -511,6 +607,9 @@
         .rec-book { grid-template-columns: 1fr; }
         .rec-book-cover { padding: 2.4rem 2rem 1.6rem; }
         .rec-book-cover-link { max-width: 208px; }
+        .rec-book-3d { max-width: 200px; }
+        .rec-libros-anterior { grid-template-columns: 1fr; }
+        .rec-libros-anterior-3d { max-width: 170px; }
         .rec-book-body { padding: 1.8rem 1.8rem 2.2rem; text-align: left; }
         .rec-book-body h2 { font-size: 1.6rem; }
         .rec-book-subtitle { font-size: .84rem; margin-top: .45rem; }
@@ -555,44 +654,35 @@
         <div>
           <div class="rec-label" data-i18n="topicPages.recursos-recomendados.sec4.eyebrow">Del autor de este sitio</div>
 
-          <!-- SEGUNDA EDICIÓN — sale solo en español e inglés, así que hay dos
-               portadas: la española para el sitio en español y la inglesa para
-               los otros once idiomas, que es también el título con el que esas
-               páginas anuncian el libro. Sin fecha de lanzamiento a propósito. -->
-          <div class="rec-book">
+          <!-- FE Y RAZÓN — el libro nuevo, en crema: sale de lo oscuro de La puerta
+               falsa a propósito, y el contraste entre las dos fichas es parte del
+               mensaje. La tapa va en 3D con el lomo real de la cubierta impresa.
+               Mientras no esté publicado, el botón no enlaza. -->
+          <div class="rec-book rec-book--claro">
             <div class="rec-book-cover">
-              <!-- La portada lleva a la misma ficha de Amazon que el botón: la
-                   del idioma que se está mostrando (española en español, inglesa
-                   en los demás), igual que la imagen. -->
-              <a class="rec-book-cover-link"
-                 href="https://www.amazon.com/dp/B0HF1JGL9C"
-                 target="_blank" rel="noopener"
-                 data-i18n-href="topicPages.recursos-recomendados.sec4.buyUrl"
-                 aria-label="Comprar «La puerta falsa» en Amazon"
-                 data-i18n-aria-label="topicPages.recursos-recomendados.sec4.buyAria">
-                <img src="Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-es.jpg"
-                     alt="Portada de la segunda edición de La puerta falsa, de M. Gabriel Castiglia"
-                     data-i18n-alt="topicPages.recursos-recomendados.sec4.coverAlt"
-                     data-i18n-src="topicPages.recursos-recomendados.sec4.coverSrc"
-                     onerror="this.onerror=null; this.src='Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg';"
-                     width="700" height="1072" loading="lazy">
-              </a>
+              <div class="rec-book-3d">
+                <span class="rec-book-3d-lomo" aria-hidden="true"></span>
+                <img src="Recursos/Im%C3%A1genes/libro-fe-y-razon-es.jpg"
+                     alt="Portada de Fe y Razón, de M. Gabriel Castiglia"
+                     data-i18n-alt="topicPages.recursos-recomendados.sec4b.coverAlt"
+                     width="700" height="1050" loading="lazy">
+              </div>
             </div>
             <div class="rec-book-body">
-              <h2 data-i18n="topicPages.recursos-recomendados.sec4.title">La puerta falsa<span class="rec-book-subtitle">La razón contra el ocultismo moderno</span></h2>
+              <p class="rec-book-new" data-i18n="topicPages.recursos-recomendados.sec4b.badge">Nuevo libro</p>
+              <h2 data-i18n="topicPages.recursos-recomendados.sec4b.title">Fe y Razón<span class="rec-book-subtitle">Siempre aparejados para responder</span></h2>
               <p class="rec-book-author">M. Gabriel Castiglia</p>
-              <p class="rec-book-edition" data-i18n="topicPages.recursos-recomendados.sec4.edition">Segunda edición, corregida y ampliada</p>
               <blockquote class="rec-book-epigraph">
-                <p data-i18n="topicPages.recursos-recomendados.sec4.epigraph">«De lo existente, unas cosas dependen de nosotros; otras no.»</p>
-                <cite data-i18n="topicPages.recursos-recomendados.sec4.epigraphAuthor">Epicteto</cite>
+                <p data-i18n="topicPages.recursos-recomendados.sec4b.epigraph">«Estén siempre dispuestos a defenderse delante de cualquiera que les pida razón de la esperanza que ustedes tienen.»</p>
+                <cite data-i18n="topicPages.recursos-recomendados.sec4b.epigraphRef">1 Pedro 3:15</cite>
               </blockquote>
-              <p class="rec-book-desc" data-i18n="topicPages.recursos-recomendados.sec4.desc">El ocultismo promete lo contrario: poder sobre lo que no depende de nadie, a cambio de lo único que sí está en nuestras manos, el propio juicio. Este libro toma sus textos (grimorios, biblias negras, manuales herméticos, el tarot, la astrología, el «manifestar») y los examina sin prisa, por sus dos caras: las fechas, las fuentes, las contradicciones. No acusa desde ninguna fe ni pide que se le crea; cada cargo se prueba con las páginas del propio género.</p>
-              <p class="rec-book-close" data-i18n="topicPages.recursos-recomendados.sec4.close">No ofrece misterios, sino algo más arduo y más digno: la lucidez.</p>
+              <p class="rec-book-desc" data-i18n="topicPages.recursos-recomendados.sec4b.desc">Si Dios habló, ¿dónde quedó lo que dijo y quién lo custodia? Este libro responde con los documentos en la mano: la Biblia que traen a la puerta de casa, las confesiones de fe de cada grupo y sus propias páginas oficiales. Protestantes, adventistas, testigos de Jehová, mormones y cismáticos en general, uno por uno. Y como la Escritura no se explica sola, no la interpreta por su cuenta: la lee con los Padres de la Iglesia, que la recibieron de los apóstoles, y con el Magisterio, que la custodia desde entonces.</p>
+              <p class="rec-book-close" data-i18n="topicPages.recursos-recomendados.sec4b.close">Sigue el camino que La puerta falsa dejó en el umbral.</p>
 
               <dl class="rec-book-facts">
                 <div>
                   <dt data-i18n="topicPages.recursos-recomendados.sec4.factFormatsLabel">Formatos</dt>
-                  <dd data-i18n="topicPages.recursos-recomendados.sec4.factFormats">Tapa blanda y tapa dura</dd>
+                  <dd data-i18n="topicPages.recursos-recomendados.sec4b.factFormats">Tapa blanda a color y tapa dura en color premium</dd>
                 </div>
                 <div>
                   <dt data-i18n="topicPages.recursos-recomendados.sec4.factLangsLabel">Idiomas</dt>
@@ -606,13 +696,69 @@
               </dl>
 
               <div class="rec-book-buy">
-                <a href="https://www.amazon.com/dp/B0HF1JGL9C"
-                   target="_blank" rel="noopener" class="rec-btn-gold"
-                   data-i18n-href="topicPages.recursos-recomendados.sec4.buyUrl"
-                   data-i18n="topicPages.recursos-recomendados.sec4.buyLabel">Comprar en Amazon →</a>
+                <span class="rec-btn-soon" data-i18n="topicPages.recursos-recomendados.sec4b.soonLabel">Muy pronto en Amazon</span>
               </div>
+            </div>
 
-              <p class="rec-book-note" data-i18n="topicPages.recursos-recomendados.sec4.otherLangs">Para ediciones en otros idiomas, escribir al autor por el <a href="/#contacto">formulario de contacto</a>.</p>
+            <!-- La puerta falsa, dentro de la misma ficha: la mitad de abajo, en sus
+                 colores oscuros, que hacen de contraste con el crema de Fe y Razón.
+                 Conserva todo su anuncio (cita, descripción, ficha y compra); solo la
+                 tapa y el título van un punto más chicos que los del libro nuevo. -->
+            <div class="rec-libros-anterior">
+              <div class="rec-libros-anterior-cover">
+                <div class="rec-libros-anterior-3d">
+                <span class="rec-libros-anterior-lomo" aria-hidden="true"></span>
+                <a class="rec-libros-anterior-tapa"
+                   href="https://www.amazon.com/dp/B0HF1JGL9C"
+                   target="_blank" rel="noopener"
+                   data-i18n-href="topicPages.recursos-recomendados.sec4.buyUrl"
+                   aria-label="Comprar «La puerta falsa» en Amazon"
+                   data-i18n-aria-label="topicPages.recursos-recomendados.sec4.buyAria">
+                  <img src="Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-es.jpg"
+                       alt="Portada de la segunda edición de La puerta falsa, de M. Gabriel Castiglia"
+                       data-i18n-alt="topicPages.recursos-recomendados.sec4.coverAlt"
+                       data-i18n-src="topicPages.recursos-recomendados.sec4.coverSrc"
+                       onerror="this.onerror=null; this.src='Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg';"
+                       width="700" height="1072" loading="lazy">
+                                  </a>
+                </div>
+              </div>
+              <div class="rec-book-body">
+                <p class="rec-libros-anterior-label" data-i18n="topicPages.recursos-recomendados.sec4b.sameAuthor">Del mismo autor</p>
+                <h3 data-i18n="topicPages.recursos-recomendados.sec4.title">La puerta falsa<span class="rec-book-subtitle">La razón contra el ocultismo moderno</span></h3>
+                <p class="rec-book-edition" data-i18n="topicPages.recursos-recomendados.sec4.edition">Segunda edición, corregida y ampliada</p>
+                <blockquote class="rec-book-epigraph">
+                  <p data-i18n="topicPages.recursos-recomendados.sec4.epigraph">«De lo existente, unas cosas dependen de nosotros; otras no.»</p>
+                  <cite data-i18n="topicPages.recursos-recomendados.sec4.epigraphAuthor">Epicteto</cite>
+                </blockquote>
+                <p class="rec-book-desc" data-i18n="topicPages.recursos-recomendados.sec4.desc">El ocultismo promete lo contrario: poder sobre lo que no depende de nadie, a cambio de lo único que sí está en nuestras manos, el propio juicio. Este libro toma sus textos (grimorios, biblias negras, manuales herméticos, el tarot, la astrología, el «manifestar») y los examina sin prisa, por sus dos caras: las fechas, las fuentes, las contradicciones. No acusa desde ninguna fe ni pide que se le crea; cada cargo se prueba con las páginas del propio género.</p>
+                <p class="rec-book-close" data-i18n="topicPages.recursos-recomendados.sec4.close">No ofrece misterios, sino algo más arduo y más digno: la lucidez.</p>
+
+                <dl class="rec-book-facts">
+                  <div>
+                    <dt data-i18n="topicPages.recursos-recomendados.sec4.factFormatsLabel">Formatos</dt>
+                    <dd data-i18n="topicPages.recursos-recomendados.sec4.factFormats">Tapa blanda y tapa dura</dd>
+                  </div>
+                  <div>
+                    <dt data-i18n="topicPages.recursos-recomendados.sec4.factLangsLabel">Idiomas</dt>
+                    <dd>
+                      <ul class="rec-book-flags rec-book-flags--facts">
+                        <li><img src="Recursos/Im%C3%A1genes/spain-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.es">Español</span></li>
+                        <li><img src="Recursos/Im%C3%A1genes/united-states-of-america-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.en">Inglés</span></li>
+                      </ul>
+                    </dd>
+                  </div>
+                </dl>
+
+                <div class="rec-book-buy">
+                  <a href="https://www.amazon.com/dp/B0HF1JGL9C"
+                     target="_blank" rel="noopener" class="rec-btn-gold"
+                     data-i18n-href="topicPages.recursos-recomendados.sec4.buyUrl"
+                     data-i18n="topicPages.recursos-recomendados.sec4.buyLabel">Comprar en Amazon →</a>
+                </div>
+
+                <p class="rec-book-note" data-i18n="topicPages.recursos-recomendados.sec4.otherLangs">Para ediciones en otros idiomas, escribir al autor por el <a href="/#contacto">formulario de contacto</a>.</p>
+              </div>
             </div>
           </div>
 
