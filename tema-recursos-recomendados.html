@@ -503,14 +503,14 @@
         box-shadow: 16px 22px 40px rgba(60, 35, 18, .38);
       }
       /* El lomo mide 0,81 in sobre 6 in de tapa: el 13,5 % del ancho. */
-      .rec-book-3d-lomo {
-        position: absolute; top: 0; bottom: 0; right: 100%; width: 13.5%;
+      /* El lomo es una imagen que cambia con el idioma (castellano o inglés), como la tapa. */
+      /* Selector con dos clases: «.rec-book-3d img» (la tapa) tiene más peso que una sola y lo sacaba
+         del lugar (8-oct-2026: el lomo medía 76 x 3082 px). */
+      .rec-book-3d .rec-book-3d-lomo {
+        position: absolute; top: 0; bottom: 0; right: 100%; width: 13.5%; height: 100%;
+        box-shadow: none;
         transform-origin: right center; transform: rotateY(-90deg);
-        background: url('Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo.jpg') center / 100% 100%;
-      }
-      .rec-book-3d-lomo::after {
-        content: ''; position: absolute; inset: 0;
-        background: linear-gradient(90deg, rgba(0,0,0,.28), rgba(0,0,0,.08) 60%, rgba(0,0,0,.2));
+        object-fit: fill; filter: brightness(.86);
       }
       .rec-book-new {
         font-family: 'Montserrat', sans-serif; font-size: .64rem; font-weight: 600;
@@ -661,10 +661,12 @@
           <div class="rec-book rec-book--claro">
             <div class="rec-book-cover">
               <div class="rec-book-3d">
-                <span class="rec-book-3d-lomo" aria-hidden="true"></span>
+                <img class="rec-book-3d-lomo" src="Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-es.jpg" alt="" aria-hidden="true"
+                     data-i18n-src="topicPages.recursos-recomendados.sec4b.spineSrc" width="95" height="1050">
                 <img src="Recursos/Im%C3%A1genes/libro-fe-y-razon-es.jpg"
                      alt="Portada de Fe y Razón, de M. Gabriel Castiglia"
                      data-i18n-alt="topicPages.recursos-recomendados.sec4b.coverAlt"
+                     data-i18n-src="topicPages.recursos-recomendados.sec4b.coverSrc"
                      width="700" height="1050" loading="lazy">
               </div>
             </div>
@@ -927,6 +929,6 @@
     </footer>
     
     <script src="js/main.js?v=17" defer></script>
-    <script src="js/translations.js?v=31" defer></script>
+    <script src="js/translations.js?v=32" defer></script>
 </body>
 </html>

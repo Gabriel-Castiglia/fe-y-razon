@@ -1115,7 +1115,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
       // Fe y Razón, la ficha nueva (8-oct-2026). Cita de 1 Pedro 3:15: AELF, traduction liturgique (aelf.org), cotejada el 8-oct-2026.
       sec4b: {
         badge: "Nouveau livre",
-        title: "Fe y Razón<span class='rec-book-subtitle'>Siempre aparejados para responder</span>",
+        title: "Faith and Reason<span class='rec-book-subtitle'>Always Ready to Give an Answer</span>",
         epigraph: "« Soyez prêts à tout moment à présenter une défense devant quiconque vous demande de rendre raison de l’espérance qui est en vous. »",
         epigraphRef: "1 Pierre 3, 15",
         desc: "Si Dieu a parlé, où se trouve ce qu'il a dit, et qui le garde ? Ce livre répond avec les documents en main : la Bible qu'on vient apporter à votre porte, les confessions de foi de chaque groupe et leurs propres pages officielles. Protestants, adventistes, témoins de Jéhovah, mormons et schismatiques en général, un par un. Et comme l'Écriture ne s'explique pas toute seule, il ne l'interprète pas à sa guise : il la lit avec les Pères de l'Église, qui l'ont reçue des apôtres, et avec le Magistère, qui la garde depuis lors.",
@@ -1123,7 +1123,10 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
         factFormats: "Broché en couleur et relié en couleur premium",
         soonLabel: "Bientôt sur Amazon",
         sameAuthor: "Du même auteur",
-        coverAlt: "Couverture de Fe y Razón, de M. Gabriel Castiglia"
+        coverAlt: "Couverture de Faith and Reason, de M. Gabriel Castiglia",
+        // Tapa y lomo: la castellana en español; la inglesa (Faith and Reason) en los demás idiomas.
+        coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
+        spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
       },
       sec5: {
         eyebrow: "Mentions légales",

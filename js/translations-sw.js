@@ -1107,7 +1107,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       // Fe y Razón, la ficha nueva (8-oct-2026). Cita de 1 Pedro 3:15: traducción propia sobre la Nova Vulgata; falta cotejarla con una Biblia católica en este idioma.
       sec4b: {
         badge: "Kitabu kipya",
-        title: "Fe y Razón<span class='rec-book-subtitle'>Siempre aparejados para responder</span>",
+        title: "Faith and Reason<span class='rec-book-subtitle'>Always Ready to Give an Answer</span>",
         epigraph: "“Muwe tayari siku zote kumjibu kila mtu anayewauliza sababu ya tumaini lililo ndani yenu.”",
         epigraphRef: "1 Petro 3:15",
         desc: "Ikiwa Mungu amesema, maneno yake yako wapi, na nani anayayalinda? Kitabu hiki kinajibu kikiwa na nyaraka mkononi: Biblia wanayoileta mlangoni mwa nyumba yako, maungamo ya imani ya kila kundi na kurasa zao rasmi wenyewe. Waprotestanti, Waadventista, Mashahidi wa Yehova, Wamormoni na wafarakanishi kwa ujumla, mmoja mmoja. Na kwa kuwa Maandiko hayajielezi yenyewe, kitabu hiki hakiyafasiri kwa hiari yake: kinayasoma pamoja na Mababa wa Kanisa, walioyapokea kutoka kwa mitume, na pamoja na Magisterio, unaoyalinda tangu wakati huo.",
@@ -1115,7 +1115,10 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         factFormats: "Jalada laini la rangi na jalada gumu la rangi bora",
         soonLabel: "Hivi karibuni kwenye Amazon",
         sameAuthor: "Kutoka kwa mwandishi huyo huyo",
-        coverAlt: "Jalada la Fe y Razón, la M. Gabriel Castiglia"
+        coverAlt: "Jalada la Faith and Reason, la M. Gabriel Castiglia",
+        // Tapa y lomo: la castellana en español; la inglesa (Faith and Reason) en los demás idiomas.
+        coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
+        spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
       },
       sec5: {
         eyebrow: "Taarifa ya kisheria",

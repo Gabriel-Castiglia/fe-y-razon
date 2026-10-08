@@ -1533,7 +1533,10 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
         factFormats: "Tapa blanda a color y tapa dura en color premium",
         soonLabel: "Muy pronto en Amazon",
         sameAuthor: "Del mismo autor",
-        coverAlt: "Portada de Fe y Razón, de M. Gabriel Castiglia"
+        coverAlt: "Portada de Fe y Razón, de M. Gabriel Castiglia",
+        // Tapa y lomo: la castellana en español; la inglesa (Faith and Reason) en los demás idiomas.
+        coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-es.jpg",
+        spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-es.jpg"
       },
       sec5: {
         eyebrow: "Aviso legal",
