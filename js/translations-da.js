@@ -1295,10 +1295,10 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       sec4b: {
         badge: "Ny bog",
         title: "Faith and Reason<span class='rec-book-subtitle'>Always Ready to Give an Answer</span>",
-        epigraph: "„Vær altid rede til at forsvare jer over for enhver, som kræver jer til regnskab for det håb, I har.“",
-        epigraphRef: "1 Petersbrev 3,15",
-        desc: "Hvis Gud har talt, hvor blev det af det, han sagde, og hvem vogter det? Denne bog svarer med dokumenterne i hånden: den Bibel, man kommer med til ens dør, hver gruppes trosbekendelser og deres egne officielle sider. Protestanter, adventister, Jehovas Vidner, mormoner og skismatikere i det hele taget, én efter én. Og fordi Skriften ikke forklarer sig selv, fortolker bogen den ikke på egen hånd: den læser den med Kirkefædrene, som modtog den fra apostlene, og med Læreembedet, som har vogtet den lige siden.",
-        close: "Den fører videre ad den vej, som The False Door standsede ved tærsklen.",
+        epigraph: "“Be <strong>ready always to give an answer</strong> to every man that asketh you a reason of the hope that is in you with meekness and fear.”",
+        epigraphRef: "1 Petersbrev 3,15 · King James-Bibelen",
+        epigraphNote: "Undertitlen har sine ord fra King James-Bibelen (1611), de engelsktalende protestanters Bibel.",
+        desc: "<p>At grave dybt i hver lære for at se, om der kommer rent vand eller mudder op, er et hårdt arbejde. Men det er ikke umuligt, og det er umagen værd, for det handler ikke kun om meningen med dette liv, men om hvorvidt der findes et andet, og hvad det afhænger af.</p><p>I min forrige bog, „The False Door: Reason Against Modern Occultism“, fortalte jeg om den vej, jeg gik for at finde det svar. Den bog sluttede ved kristendommens tærskel, og der standsede jeg.</p><p>„Faith and Reason“ åbner den dør. Den går ud fra det, den forrige bog slog fast: fornuften og beviserne siger os, at Gud findes. Derfra går den videre til det næste spørgsmål: Hvis Gud har talt, hvor blev det af det, han sagde, og hvem vogter det? Den svarer med dokumenterne i hånden: den Bibel, de kommer med til din dør, og trosbekendelserne fra hver kættersk gruppe, med deres fejl forklaret.</p><p>Skriften forklarer ikke sig selv, og det siger den selv: „ingen profeti i Skriften beror på egen fortolkning“ (2 Petersbrev 1,20). Hver gruppe, der banker på døren, læser den samme Bibel og drager en anden lære ud af den. Derfor fortolker denne bog den ikke på egen hånd: den læser den med kirkefædrene, der modtog den fra apostlene, og med Læreembedet, der har vogtet den siden.</p><p>Hvis du blev stående ved den forrige bogs tærskel, er her resten af vejen. Og hvis du spørger, hvorfor man skriver sådan en bog, står svaret i Jakobs Brev: „har den ikke gerninger, er den død i sig selv“ (2,17), og „den, der omvender en synder fra hans vildfarelse, frelser hans sjæl fra døden og skjuler en mængde synder“ (5,20).</p>",
         factFormats: "Paperback i farver og indbundet i premiumfarver",
         soonLabel: "Snart på Amazon",
         sameAuthor: "Af samme forfatter",
@@ -1390,23 +1390,41 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
             <p>En rejse gennem filosofier, der ikke holdt — til den Kirke, der gjorde.</p>
             <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>
             <a href="privacidad.html" class="btn-outline-white btn-hero-extra">Privatliv</a>`,
-      article: `<p>Jeg kom til katolicismen efter en lang rejse. Jeg læste alt: okkultisme og esoterisme, de såkaldte Smaragdtavler, østlige filosofier, Nietzsche, epikuræerne. Jeg søgte svar overalt og fandt ikke ét, der holdt. Stoicismen var det sidste, der tilbød mig noget alvorligt, inden Kristus — Seneca, Marcus Aurelius, Epiktet lærte mig at se sandheden uden at blinke. Og idet jeg betragtede sandheden uden at blinke, endte jeg der, hvor jeg ikke forventede det: over for den Katolske Kirke.</p>
+      article: `<p>De svar, der ikke holder, kender jeg, fordi jeg har læst dem. Okkultismen i flere af dens former, den moderne videnskab, Nietzsches overmenneske: ingen af dem kunne bære spørgsmålets vægt. Den stoiske filosofi var det sidste seriøse før Kristus, og derfra, med blikket fast på sandheden, nåede jeg frem til Den Katolske Kirke. Den vej er fortalt i <em>The False Door: Reason Against Modern Occultism</em>, en bog, der tålmodigt følger den, der stadig søger, og standser ved kristendommens tærskel.</p>
 
-            <p>Dette sted er for dig, hvis du befinder dig ét af disse steder: du tvivler på den tro, du har modtaget, og ved ikke, hvem du skal spørge; du søger iblandt traditioner, og ingen giver dig et svar, der kan bære vægten; du er netop konverteret og føler dig alene, uden vejledning, belejret fra alle sider. Jeg kender det sted. Jeg har været der. Og jeg ved, hvad der er rundt om det: traditionelle katolikker, der nogle gange tager for givet, hvad de burde bevise, og ikke kan forklare det; og endnu værre, lunken <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Dansk -->katolikker — dem, der går til messe af vane, ikke ved, hvad de tror, forsvarer ingenting, og er de første til at trække på skuldrene, når nogen angriber troen foran dem.</p>
+            <p>Dette websted begynder, hvor den bog slutter. Hvis Gud har talt, findes det, han sagde, et sted, og nogen vogter det. Hvert emne på dette websted tager en af de katolske lærer, der angribes ved hoveddøren, og beviser den med Skriften i hånden, læst sådan som kirkefædrene læste den, de som modtog den fra apostlene, og sådan som Læreembedet har vogtet den siden.</p>
 
-            <!-- TODO: verificar cita bíblica Apocalipsis 3,15-16 con traducción católica de Dansk -->
+            <p>De protestantiske sekter læser den samme Bibel og drager læresætninger ud af den, som modsiger hinanden. Det kunne ikke være anderledes, for Skriften havde allerede advaret om det:</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 2 Petersbrev 1,20</span>
+                <blockquote>«Men I skal først og fremmest vide, at <strong class="s-hi">ingen profeti i Skriften beror på egen fortolkning</strong>.»</blockquote>
+            </div>
+
+            <p>Hver af dem fortolker den på egen hånd, og det, der kommer ud af det, har et navn, når det benægter et dogme: kætteri. Her kaldes det ved det navn og besvares på sin egen banehalvdel. De deuterokanoniske bøger er Guds ord lige så meget som de andre, men de citeres ikke i svarene: de bøger, som de selv anerkender, er nok til, at deres kætteri falder med den Bibel, de har med til døren.</p>
+
+            <p>Den anden front er indenfor. Den katolik, der går til messe af vane, ikke ved, hvad han tror, og trækker på skuldrene, når nogen angriber hans tro foran ham, lader døren stå åben for sekten. De, der ringer på, vinder ikke diskussioner: de vinder tavshed.</p>
+
             <div class="scripture-block">
                 <span class="scripture-ref">✝︎ Johannes' Åbenbaring 3:15-16</span>
                 <blockquote>«Jeg kender dine gerninger: du er hverken kold eller varm. Gid du var kold eller varm! Men da du er lunken — hverken kold eller varm — vil jeg udspy dig af min mund.»</blockquote>
             </div>
 
-            <p>En lunken katolik forsvarer ingenting, forklarer ingenting, overbeviser ingen. I det mindste har den, der tror på noget forkert, noget at byde på.</p>
+            <p>At forsvare troen er en befaling, og den gælder alle:</p>
 
-            <p>Og protestanterne dukker op. De dukker altid op. Jehovas Vidner, pinsebevægelsen, adventister, mormoner, hvert <!-- TODO: verificar terminología "secta" en Dansk -->sekt med sin afkortede version af Skriften og sin lånte overbevisning. Her finder du svar på disse sekter, på deres eget enemærke, med deres eget våben: Bibelen. De deuterokanoniske bøger, som de rev ud af deres oversættelser uden autoritet til at gøre det, er Guds ord lige så meget som de andre. Men når jeg svarer dem, citerer jeg dem ikke: jeg bruger kun de bøger, de selv anerkender, så ingen kan komme med »det står ikke i Bibelen« eller »det har katolikkerne føjet til«. Med Bibelen godt læst, <!-- TODO: verificar terminología "Padres de la Iglesia" en Dansk -->Kirkefædrene, <!-- TODO: verificar terminología Magisterio en Dansk -->Læreembedet, <!-- TODO: verificar terminología Catecismo en Dansk -->Katekismen og den fornuft, Gud gav os som gave.</p>
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 1 Petersbrev 3,15</span>
+                <blockquote>«Men hellig Kristus som Herre i jeres hjerter. <strong class="s-hi">Vær altid rede til at forsvare jer over for enhver, som kræver jer til regnskab for det håb, I har</strong>.»</blockquote>
+            </div>
 
-            <p>Min vigtigste inspiration i dette arbejde er Padre Luis Toro. Det, han gør ved at tale, forsøger jeg at gøre ved at skrive, i de sprog og for de læsere, han ikke når.</p>
+            <p>Min inspiration i dette arbejde er fader Luis Toro. Det, han gør ved at tale, prøver jeg at gøre ved at skrive, på tolv sprog og for læsere, han ikke når. Det, der står her, til bunds og uden indrømmelser, står også i min bog <em>Faith and Reason</em>.</p>
 
-            <p>Jeg skriver ikke for at vinde diskussioner. Jeg skriver for at den, der tvivler alene om natten, har noget seriøst ved hånden, når det er deres tur til at forsvare deres tro — eller når det er deres tur til at finde den for første gang.</p>
+            <p>Jeg skriver ikke for at vinde diskussioner. Jeg skriver, fordi Jakobs Brev siger, hvad det her er til:</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ Jakobs Brev 5,20</span>
+                <blockquote>«Så skal han vide, at <strong class="s-hi">den, der omvender en synder fra hans vildfarelse, frelser hans sjæl fra døden</strong> og skjuler en mængde synder.»</blockquote>
+            </div>
 
             <p class="about-signature">M. Gabriel Castiglia</p>`
     }

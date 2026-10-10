@@ -1295,10 +1295,10 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
       sec4b: {
         badge: "Bagong aklat",
         title: "Faith and Reason<span class='rec-book-subtitle'>Always Ready to Give an Answer</span>",
-        epigraph: "“Lagi kayong maging handang magpaliwanag sa sinumang humihingi sa inyo ng dahilan ng pag-asang nasa inyo.”",
-        epigraphRef: "1 Pedro 3:15",
-        desc: "Kung nagsalita ang Diyos, nasaan ang kanyang sinabi at sino ang nag-iingat nito? Sinasagot ito ng aklat na ito nang hawak ang mga dokumento: ang Bibliyang dinadala nila sa pinto ng inyong bahay, ang mga pahayag ng pananampalataya ng bawat grupo at ang kanilang sariling opisyal na mga pahina. Mga Protestante, Adventista, Saksi ni Jehova, Mormon at mga sismatiko sa pangkalahatan, isa-isa. At dahil hindi ipinapaliwanag ng Kasulatan ang sarili nito, hindi ito binibigyang-kahulugan ng aklat ayon sa sariling pasya: binabasa ito kasama ng mga Ama ng Simbahan, na tumanggap nito mula sa mga apostol, at kasama ng Magisterio, na nag-iingat nito mula noon.",
-        close: "Ipinagpapatuloy nito ang landas na iniwan ng The False Door sa may pintuan.",
+        epigraph: "“Be <strong>ready always to give an answer</strong> to every man that asketh you a reason of the hope that is in you with meekness and fear.”",
+        epigraphRef: "1 Pedro 3:15 · Biblia King James",
+        epigraphNote: "Kinuha ng subtitulo ang mga salita nito mula sa Biblia King James (1611), ang Biblia ng mga Protestanteng nagsasalita ng Ingles.",
+        desc: "<p>Ang paghuhukay nang malalim sa bawat doktrina upang makita kung malinis na tubig o putik ang lalabas ay isang mabigat na gawain. Ngunit hindi ito imposible, at sulit ito, sapagkat hindi lamang ito tungkol sa kahulugan ng buhay na ito, kundi kung may isa pa at kung saan ito nakasalalay.</p><p>Sa nauna kong aklat, “The False Door: Reason Against Modern Occultism”, isinalaysay ko ang landas na tinahak ko sa paghahanap ng sagot na iyon. Nagtapos ang aklat na iyon sa pintuan ng Kristiyanismo, at doon ako huminto.</p><p>Binubuksan ng “Faith and Reason” ang pintong iyon. Nagsisimula ito sa pinagtibay ng naunang aklat: sinasabi sa atin ng katwiran at ng mga patunay na umiiral ang Diyos. Mula roon ay tumutuloy ito sa susunod na tanong: kung nagsalita ang Diyos, nasaan ang kanyang sinabi at sino ang nag-iingat nito? Sumasagot ito na hawak ang mga dokumento: ang Bibliang dinadala sa pintuan ng iyong bahay at ang mga pahayag ng pananampalataya ng bawat pangkat na erehe, kasama ang paliwanag sa kanilang mga mali.</p><p>Hindi ipinaliliwanag ng Kasulatan ang sarili nito, at ito mismo ang nagsasabi: “walang anumang hula ng Kasulatan ang maaaring bigyan ng sariling kahulugan” (2 Pedro 1:20). Bawat pangkat na kumakatok sa pintuan ay bumabasa ng iisang Biblia at humahango rito ng ibang doktrina. Kaya hindi ito binibigyang-kahulugan ng aklat na ito nang sarilinan: binabasa ito kasama ang mga Ama ng Simbahan, na tumanggap nito mula sa mga apostol, at kasama ang Magisteryo, na nag-iingat nito mula noon.</p><p>Kung nanatili ka sa pintuan ng naunang aklat, narito ang natitirang bahagi ng landas. At kung itinatanong mo kung bakit sumulat ng ganitong aklat, ang sagot ay nasa sulat ni Santiago: “ang pananampalataya, kung walang kasamang gawa, ay patay sa ganang sarili nito” (2:17), at “ang nagpapanumbalik sa isang makasalanan mula sa kanyang maling landas ay magliligtas sa kaluluwa nito mula sa kamatayan at magtatakip sa napakaraming kasalanan” (5:20).</p>",
         factFormats: "Paperback na de-kolor at hardcover na premium na kulay",
         soonLabel: "Malapit na sa Amazon",
         sameAuthor: "Mula sa parehong may-akda",
@@ -1391,23 +1391,41 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
             <p>Isang paglalakbay mula sa mga pilosopiyang hindi tumagal — hanggang sa Simbahang tumagal.</p>
             <a href="temas.html" class="btn-outline-white">Bumalik sa mga Paksa</a>
             <a href="privacidad.html" class="btn-outline-white btn-hero-extra">Privacy</a>`,
-      article: `<p>Nakarating ako sa Katolisismo pagkatapos ng mahabang paglalakbay. Nabasa ko ang lahat: okultismo at esoterisismo, ang tinatawag na Emerald Tablets, ang mga pilosopiyang Silangan, si Nietzsche, ang mga Epicurean. Naghanap ako ng mga sagot sa lahat ng dako ngunit wala akong nahanap na anumang tumayo. Ang Stoicismo ang huli na nag-alok sa akin ng isang bagay na seryoso bago si Kristo — itinuturo sa akin nina Seneca, Marcus Aurelius, at Epictetus na tumingin sa katotohanan nang walang pagkukubling. At tinitigan ang katotohanan nang walang pagkukubling, nagtapos ako kung saan hindi ko inaasahan: sa harap ng Simbahang Katoliko.</p>
+      article: `<p>Ang mga sagot na hindi tumatayo ay kilala ko dahil binasa ko ang mga ito. Ang okultismo sa iba't ibang anyo nito, ang modernong agham, ang superman ni Nietzsche: wala ni isa ang nakapasan sa bigat ng tanong. Ang pilosopiyang Stoiko ang huling seryosong bagay bago si Kristo, at mula roon, habang tinitingnan ang katotohanan nang hindi kumukurap, nakarating ako sa Simbahang Katolika. Ang landas na iyon ay isinalaysay sa <em>The False Door: Reason Against Modern Occultism</em>, isang aklat na matiyagang sumasama sa naghahanap pa at humihinto sa pintuan ng Kristiyanismo.</p>
 
-            <p>Ang site na ito ay para sa iyo kung nasa isa sa mga lugar na ito ka: nagdududa ka sa pananampalatayang tinanggap mo at hindi mo alam kung kanino ka tatanong; naghahanap ka sa gitna ng mga tradisyon at walang nagbibigay sa iyo ng sagot na kaya ng timbang; katatapos mo lang mag-convert at nararamdaman mong nag-iisa, walang gabay, inuusig mula sa lahat ng panig. Kilala ko ang lugar na iyon. Naroroon na ako. At alam ko kung ano ang nakapalibot: mga tradisyonal na Katoliko na minsan ay inaakala na tama ang dapat pa nilang patunayan at hindi nila ito maipaliwanag; at mas masahol pa, mga maligamgam na Katoliko — ang mga pumupunta sa Misa dahil sa ugali, hindi alam kung ano ang kanilang pinaniniwalaan, walang ipinagtatanggol, at sila ang unang nag-aatubili kung ang pananampalataya ay inaatake sa harap nila.</p>
+            <p>Nagsisimula ang site na ito kung saan nagtatapos ang aklat na iyon. Kung nagsalita ang Diyos, ang sinabi niya ay nasa isang lugar at may nag-iingat nito. Bawat paksa ng site na ito ay kumukuha ng isang doktrinang Katoliko mula sa mga inaatake sa pintuan ng bahay at pinatutunayan ito na hawak ang Kasulatan, binabasa gaya ng pagbasa rito ng mga Ama ng Simbahan, na tumanggap nito mula sa mga apostol, at gaya ng pag-iingat dito ng Magisteryo mula noon.</p>
 
-            <!-- TODO: verificar cita bíblica Apocalipsis 3,15-16 con traducción católica de Filipino -->
+            <p>Ang mga sektang Protestante ay bumabasa ng iisang Biblia at humahango mula rito ng mga doktrinang nagsasalungatan sa isa't isa. Hindi ito maaaring mangyari nang iba, sapagkat nagbabala na ang Kasulatan:</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 2 Pedro 1:20</span>
+                <blockquote>«Higit sa lahat, unawain ninyo na <strong class="s-hi">walang anumang hula ng Kasulatan ang maaaring bigyan ng sariling kahulugan</strong>.»</blockquote>
+            </div>
+
+            <p>Bawat isa ay nagbibigay rito ng sariling kahulugan, at ang lumalabas doon, kapag tinatanggihan ang isang dogma, ay may pangalan: erehiya. Dito ito tinatawag sa pangalang iyon at sinasagot sa sarili nitong larangan. Ang mga aklat na deuterokanoniko ay Salita ng Diyos gaya ng iba, ngunit hindi sila sinisipi sa mga sagot: sapat na ang mga aklat na sila mismo ang tumatanggap upang gumuho ang kanilang erehiya sa Bibliang dala nila sa pintuan.</p>
+
+            <p>Ang isa pang larangan ng labanan ay nasa loob. Ang Katolikong nagsisimba dahil sa nakagawian, hindi alam kung ano ang kanyang pinaniniwalaan at nagkikibit-balikat kapag inaatake ang kanyang pananampalataya sa harap niya ay nag-iiwan ng pintong bukas para sa sekta. Ang mga nagdo-doorbell ay hindi nananalo sa mga pagtatalo: nananalo sila sa mga katahimikan.</p>
+
             <div class="scripture-block">
                 <span class="scripture-ref">✝︎ Pahayag 3:15-16</span>
                 <blockquote>«Kilala ko ang iyong mga gawa: hindi ka malamig ni mainit. Sana'y malamig ka man o mainit! Ngunit dahil ikaw ay <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Filipino -->maligamgam, at hindi malamig ni mainit, isusuka kita mula sa aking bibig.»</blockquote>
             </div>
 
-            <p>Ang isang maligamgam ay walang ipinagtatatanggol, walang ipinaliwanag, walang nakukumbinsi. Kahit ang naniniwala sa maling bagay ay may maiaalok.</p>
+            <p>Ang pagtatanggol sa pananampalataya ay isang utos, at para ito sa lahat:</p>
 
-            <p>At ang mga Protestante ay laging nagpapakita. Laging nagpapakita sila. Ang mga Saksi ni Jehova, mga Pentecostal, mga Adventista, mga Mormon, bawat <!-- TODO: verificar terminología "secta" en Filipino -->sekta may sariling pinutol na bersyon ng Kasulatan at hiniram na katiyakan. Dito mahahanap mo ang sagot sa mga sektang iyon, sa sarili nilang lupain, gamit ang sarili nilang sandata: ang Bibliya. Ang mga aklat na deuterokanoniko, na inalis nila sa kanilang mga salin nang walang awtoridad, ay Salita ng Diyos gaya ng iba. Ngunit kapag sinasagot ko sila, hindi ko sinisipi ang mga iyon: ginagamit ko lamang ang mga aklat na sila mismo ang tumatanggap, upang walang makapagsabing «wala iyan sa Bibliya» o «idinagdag iyan ng mga Katoliko». Sa tamang pagbabasa ng Bibliya, ang mga Ama ng Simbahan, ang <!-- TODO: verificar terminología Magisterio en Filipino -->Magisterium, ang <!-- TODO: verificar terminología Catecismo en Filipino -->Catechism, at ang katuwiran na ibinigay sa atin ng Diyos bilang kaloob.</p>
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 1 Pedro 3:15</span>
+                <blockquote>«Sa halip, sambahin ninyo si Kristo bilang Panginoon sa inyong mga puso. <strong class="s-hi">Lagi kayong maging handang magpaliwanag sa sinumang humihingi sa inyo ng dahilan ng pag-asang nasa inyo</strong>.»</blockquote>
+            </div>
 
-            <p>Ang pangunahing inspirasyon ko sa gawaing ito ay si Padre Luis Toro. Ang ginagawa niya sa pamamagitan ng pagsasalita, sinisikap kong gawin sa pamamagitan ng pagsulat, sa mga wika at para sa mga mambabasa na hindi niya naaabot.</p>
+            <p>Ang inspirasyon ko sa gawaing ito ay si Padre Luis Toro. Ang ginagawa niya sa pagsasalita, sinisikap kong gawin sa pagsulat, sa labindalawang wika at para sa mga mambabasang hindi niya naaabot. Ang narito, nang malalim at walang pagbibigay, ay nasa aklat ko ring <em>Faith and Reason</em>.</p>
 
-            <p>Hindi ako sumusulat para manalo ng mga argumento. Sumusulat ako para ang nagdududa nang mag-isa sa gabi ay magkaroon ng isang seryosong bagay na nasa kamay nila kapag dumating ang kanilang pagkakataon na ipagtanggol ang kanilang pananampalataya — o kapag dumating ang kanilang pagkakataon na mahanap ito sa unang pagkakataon.</p>
+            <p>Hindi ako sumusulat para manalo sa mga pagtatalo. Sumusulat ako dahil sinasabi ng sulat ni Santiago kung para saan ito:</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ Santiago 5:20</span>
+                <blockquote>«Dapat niyang malaman na <strong class="s-hi">ang nagpapanumbalik sa isang makasalanan mula sa kanyang maling landas ay magliligtas sa kaluluwa nito mula sa kamatayan</strong> at magtatakip sa napakaraming kasalanan.»</blockquote>
+            </div>
 
             <p class="about-signature">M. Gabriel Castiglia</p>`
     }

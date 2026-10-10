@@ -1108,10 +1108,10 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       sec4b: {
         badge: "Nuovo libro",
         title: "Faith and Reason<span class='rec-book-subtitle'>Always Ready to Give an Answer</span>",
-        epigraph: "«Pronti sempre a rispondere a chiunque vi domandi ragione della speranza che è in voi.»",
-        epigraphRef: "1 Pietro 3, 15",
-        desc: "Se Dio ha parlato, dove è finito ciò che ha detto e chi lo custodisce? Questo libro risponde con i documenti alla mano: la Bibbia che portano alla porta di casa, le confessioni di fede di ogni gruppo e le loro stesse pagine ufficiali. Protestanti, avventisti, testimoni di Geova, mormoni e scismatici in generale, uno per uno. E poiché la Scrittura non si spiega da sola, non la interpreta per conto proprio: la legge con i Padri della Chiesa, che la ricevettero dagli apostoli, e con il Magistero, che la custodisce da allora.",
-        close: "Prosegue il cammino che The False Door aveva lasciato sulla soglia.",
+        epigraph: "“Be <strong>ready always to give an answer</strong> to every man that asketh you a reason of the hope that is in you with meekness and fear.”",
+        epigraphRef: "1 Pietro 3,15 · Bibbia King James",
+        epigraphNote: "Il sottotitolo prende le sue parole dalla Bibbia King James (1611), la Bibbia dei protestanti di lingua inglese.",
+        desc: "<p>Scavare a fondo in ogni dottrina per vedere se ne esce acqua limpida o fango è un lavoro arduo. Ma non è impossibile, e ne vale la pena, perché non si tratta solo del senso di questa vita, ma di sapere se ce n'è un'altra e da che cosa dipende.</p><p>Nel mio libro precedente, «The False Door: Reason Against Modern Occultism», ho raccontato il cammino che ho fatto cercando quella risposta. Quel libro finiva sulla soglia del cristianesimo, e lì mi sono fermato.</p><p>«Faith and Reason» apre quella porta. Parte da ciò che il libro precedente ha stabilito: la ragione e le prove ci dicono che Dio esiste. Da lì passa alla domanda successiva: se Dio ha parlato, dove è finito ciò che ha detto e chi lo custodisce? Risponde con i documenti in mano: la Bibbia che ti portano alla porta di casa e le confessioni di fede di ogni gruppo eretico, con i loro errori spiegati.</p><p>La Scrittura non si spiega da sola, e lo dice lei stessa: «nessuna scrittura profetica va soggetta a privata spiegazione» (2 Pietro 1,20). Ogni gruppo che bussa alla porta legge la stessa Bibbia e ne ricava una dottrina diversa. Per questo il libro non la interpreta per conto proprio: la legge con i Padri della Chiesa, che la ricevettero dagli apostoli, e con il Magistero, che la custodisce da allora.</p><p>Se sei rimasto sulla soglia del libro precedente, ecco il resto del cammino. E se ti chiedi perché scrivere un libro così, la risposta è nella lettera di Giacomo: «la fede: se non è seguita dalle opere, in se stessa è morta» (2,17), e «chi riconduce un peccatore dalla sua via di errore lo salverà dalla morte e coprirà una moltitudine di peccati» (5,20).</p>",
         factFormats: "Copertina flessibile a colori e copertina rigida a colori premium",
         soonLabel: "Presto su Amazon",
         sameAuthor: "Dello stesso autore",
@@ -1188,22 +1188,41 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
             <p>Un percorso attraverso le filosofie che non hanno retto — fino alla Chiesa che ha retto.</p>
             <a href="temas.html" class="btn-outline-white">Torna ai Temi</a>
             <a href="privacidad.html" class="btn-outline-white btn-hero-extra">Privacy</a>`,
-      article: `<p>Sono arrivato al cattolicesimo dopo un lungo percorso. Ho letto di tutto: occultismo ed esoterismo, le cosiddette Tavole di Smeraldo, le filosofie orientali, Nietzsche, gli epicurei. Ho cercato risposte ovunque e non ne trovavo nessuna che reggesse. Lo stoicismo è stato l'ultima cosa che mi ha offerto qualcosa di serio prima di Cristo — Seneca, Marco Aurelio, Epitteto mi hanno insegnato a guardare la verità senza battere ciglio. E guardando la verità senza battere ciglio, sono finito dove non mi aspettavo: di fronte alla Chiesa Cattolica.</p>
+      article: `<p>Le risposte che non reggono le conosco perché le ho lette. L'occultismo in varie sue forme, la scienza moderna, il superuomo di Nietzsche: nessuna ha retto al peso della domanda. La filosofia stoica è stata l'ultima cosa seria prima di Cristo, e da lì, guardando la verità senza battere ciglio, sono arrivato alla Chiesa cattolica. Questo cammino è raccontato in <em>The False Door: Reason Against Modern Occultism</em>, un libro che accompagna con pazienza chi ancora cerca e si ferma sulla soglia del cristianesimo.</p>
 
-            <p>Questo sito è per te se ti trovi in uno di questi posti: dubiti della fede che hai ricevuto e non sai a chi chiederlo; stai cercando tra le tradizioni e nessuno ti dà una risposta che regga il peso; ti sei appena convertito e ti senti solo, senza guida, assediato da ogni parte. Conosco quel posto. Ci sono stato. E so cos'c'è intorno: cattolici tradizionali che a volte danno per scontato ciò che dovrebbero dimostrare e non sanno spiegarlo; e peggio ancora, cattolici tiepidi — quelli che vanno a Messa per abitudine, non sanno cosa credono, non difendono nulla, e sono i primi ad alzare le spalle quando qualcuno attacca la fede davanti a loro.</p>
+            <p>Questo sito comincia dove quel libro finisce. Se Dio ha parlato, ciò che ha detto si trova da qualche parte e qualcuno lo custodisce. Ogni tema di questo sito prende una dottrina cattolica tra quelle che vengono attaccate sulla porta di casa e la dimostra con la Scrittura in mano, letta come la lessero i Padri della Chiesa, che la ricevettero dagli apostoli, e come il Magistero la custodisce da allora.</p>
+
+            <p>Le sette protestanti leggono la stessa Bibbia e ne ricavano dottrine che si contraddicono tra loro. Non poteva essere altrimenti, perché la Scrittura lo aveva già avvertito:</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 2 Pietro 1,20</span>
+                <blockquote>«Sappiate anzitutto questo: <strong class="s-hi">nessuna scrittura profetica va soggetta a privata spiegazione</strong>.»</blockquote>
+            </div>
+
+            <p>Ognuna la interpreta per conto proprio, e ciò che ne esce, quando nega un dogma, ha un nome: eresia. Qui la si chiama così e le si risponde sul suo stesso terreno. I libri deuterocanonici sono Parola di Dio quanto gli altri, ma nelle risposte non si citano: bastano i libri che essi stessi accettano perché la loro eresia cada con la Bibbia che portano alla porta.</p>
+
+            <p>L'altro fronte è dentro. Il cattolico che va a Messa per abitudine, non sa che cosa crede e alza le spalle quando attaccano la sua fede davanti a lui lascia la porta aperta alla setta. Quelli che suonano il campanello non vincono discussioni: vincono silenzi.</p>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝︎ Apocalisse 3,15-16</span>
                 <blockquote>«Conosco le tue opere: tu non sei né freddo né caldo. Magari tu fossi freddo o caldo! Ma poiché sei tiepido, non sei cioè né freddo né caldo, sto per vomitarti dalla mia bocca.»</blockquote>
             </div>
 
-            <p>Un tiepido non difende nulla, non spiega nulla, non convince nessuno. Almeno chi crede in qualcosa di sbagliato ha qualcosa da offrire.</p>
+            <p>Difendere la fede è un ordine, ed è per tutti:</p>
 
-            <p>E i protestanti si fanno vivi. Si fanno sempre vivi. Testimoni di Geova, pentecostali, avventisti, mormoni, ogni setta con la sua versione troncata della Scrittura e la sua certezza in prestito. Qui troverai risposta a quelle sette, sul loro terreno, con la loro stessa arma: la Bibbia. I libri deuterocanonici, che hanno strappato dalle loro traduzioni senza averne l'autorità, sono Parola di Dio quanto gli altri. Ma quando rispondo a loro non li cito: uso soltanto i libri che loro stessi accettano, perché nessuno possa ribattere «questo non è nella Bibbia» o «questo l'hanno aggiunto i cattolici». Con la Bibbia ben letta, i Padri della Chiesa, il Magistero, il Catechismo, e la ragione che Dio ci ha dato come dono.</p>
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 1 Pietro 3,15</span>
+                <blockquote>«Adorate il Signore, Cristo, nei vostri cuori, <strong class="s-hi">pronti sempre a rispondere a chiunque vi domandi ragione della speranza che è in voi</strong>.»</blockquote>
+            </div>
 
-            <p>La mia principale ispirazione in questo lavoro è Padre Luis Toro. Quello che lui fa parlando, io cerco di farlo scrivendo, nelle lingue e per i lettori che lui non raggiunge.</p>
+            <p>La mia ispirazione in questo lavoro è Padre Luis Toro. Ciò che lui fa parlando, io cerco di farlo scrivendo, in dodici lingue e per lettori che lui non raggiunge. Ciò che c'è qui, a fondo e senza concessioni, si trova anche nel mio libro <em>Faith and Reason</em>.</p>
 
-            <p>Non scrivo per vincere le discussioni. Scrivo perché chi dubita solo nella notte abbia qualcosa di serio a portata di mano quando gli toccherà difendere la sua fede — o quando gli toccherà trovarla per la prima volta.</p>
+            <p>Non scrivo per vincere discussioni. Scrivo perché la lettera di Giacomo dice a che cosa serve tutto questo:</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ Giacomo 5,20</span>
+                <blockquote>«Costui sappia che <strong class="s-hi">chi riconduce un peccatore dalla sua via di errore lo salverà dalla morte</strong> e coprirà una moltitudine di peccati.»</blockquote>
+            </div>
 
             <p class="about-signature">M. Gabriel Castiglia</p>`
     }

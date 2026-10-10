@@ -1108,10 +1108,10 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       sec4b: {
         badge: "Kitabu kipya",
         title: "Faith and Reason<span class='rec-book-subtitle'>Always Ready to Give an Answer</span>",
-        epigraph: "“Muwe tayari siku zote kumjibu kila mtu anayewauliza sababu ya tumaini lililo ndani yenu.”",
-        epigraphRef: "1 Petro 3:15",
-        desc: "Ikiwa Mungu amesema, maneno yake yako wapi, na nani anayayalinda? Kitabu hiki kinajibu kikiwa na nyaraka mkononi: Biblia wanayoileta mlangoni mwa nyumba yako, maungamo ya imani ya kila kundi na kurasa zao rasmi wenyewe. Waprotestanti, Waadventista, Mashahidi wa Yehova, Wamormoni na wafarakanishi kwa ujumla, mmoja mmoja. Na kwa kuwa Maandiko hayajielezi yenyewe, kitabu hiki hakiyafasiri kwa hiari yake: kinayasoma pamoja na Mababa wa Kanisa, walioyapokea kutoka kwa mitume, na pamoja na Magisterio, unaoyalinda tangu wakati huo.",
-        close: "Kinaendeleza njia ambayo The False Door iliiacha kizingitini.",
+        epigraph: "“Be <strong>ready always to give an answer</strong> to every man that asketh you a reason of the hope that is in you with meekness and fear.”",
+        epigraphRef: "1 Petro 3:15 · Biblia ya King James",
+        epigraphNote: "Kichwa kidogo kinachukua maneno yake kutoka Biblia ya King James (1611), Biblia ya Waprotestanti wanaozungumza Kiingereza.",
+        desc: "<p>Kuchimba kwa kina katika kila fundisho ili kuona kama yanatoka maji safi au matope ni kazi ngumu. Lakini si jambo lisilowezekana, na linastahili, kwa sababu si tu kuhusu maana ya maisha haya, bali kama kuna mengine na yanategemea nini.</p><p>Katika kitabu changu cha awali, “The False Door: Reason Against Modern Occultism”, nilisimulia njia niliyopita nikitafuta jibu hilo. Kitabu hicho kiliishia kwenye kizingiti cha Ukristo, na hapo nilisimama.</p><p>“Faith and Reason” kinafungua mlango huo. Kinaanzia kwenye kile kitabu cha awali kilichothibitisha: akili na ushahidi vinatuambia kwamba Mungu yupo. Kutoka hapo kinaendelea na swali linalofuata: ikiwa Mungu amesema, alichosema kiko wapi, na nani anakilinda? Kinajibu kikiwa na nyaraka mkononi: Biblia wanayokuletea mlangoni mwa nyumba yako na maungamo ya imani ya kila kikundi cha uzushi, pamoja na makosa yao yakielezwa.</p><p>Maandiko hayajieleza yenyewe, na yenyewe yanasema hivyo: “hakuna unabii katika maandiko upatao kufasiriwa kama apendavyo mtu fulani tu” (2 Petro 1:20). Kila kikundi kinachobisha hodi kinasoma Biblia ileile na kutoa ndani yake fundisho tofauti. Kwa hiyo kitabu hiki hakiyafasiri kwa namna yake: kinayasoma pamoja na Mababa wa Kanisa, waliyoyapokea kutoka kwa mitume, na pamoja na Majisterio, inayoyalinda tangu wakati huo.</p><p>Ikiwa ulibaki kwenye kizingiti cha kitabu cha awali, hapa kuna sehemu iliyobaki ya njia. Na ikiwa unajiuliza kwa nini kuandika kitabu kama hiki, jibu liko katika barua ya Yakobo: “imani, isipokuwa ina matendo, imekufa nafsini mwake” (2:17), na “yeye amrejezaye mwenye dhambi kutoka katika upotevu wa njia yake ataiokoa roho yake na mauti, na kusitiri wingi wa dhambi” (5:20).</p>",
         factFormats: "Jalada laini la rangi na jalada gumu la rangi bora",
         soonLabel: "Hivi karibuni kwenye Amazon",
         sameAuthor: "Kutoka kwa mwandishi huyo huyo",
@@ -1188,23 +1188,41 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
             <p>Safari kupitia falsafa ambazo hazikushikilia — hadi Kanisa ambalo lilishikilia.</p>
             <a href="temas.html" class="btn-outline-white">Rudi kwa Mada</a>
             <a href="privacidad.html" class="btn-outline-white btn-hero-extra">Faragha</a>`,
-      article: `<p>Nilifika Ukatoliki baada ya safari ndefu. Nilisoma kila kitu: uchawi na <!-- TODO: verificar terminología "apologética" en Kiswahili -->esotericismo, zile zinazoitwa <!-- TODO: verificar terminología "Tablas Esmeralda" en Kiswahili -->Vibao vya Zumaridi, falsafa za Mashariki, Nietzsche, wafuasi wa Epicurus. Nilitafuta majibu kila mahali lakini sikupata hata moja iliyoshikilia. Stoicism ilikuwa kitu cha mwisho kilichonipa kitu cha kweli kabla ya Kristo — Seneka, Marcus Aurelius, Epictetus walinifundisha kutazama ukweli bila kupepesa macho. Na nikitazama ukweli bila kupepesa macho, niliishia mahali ambapo sikutarajia: mbele ya Kanisa Katoliki.</p>
+      article: `<p>Majibu yasiyosimama ninayajua kwa sababu niliyasoma. Uchawi katika aina zake nyingi, sayansi ya kisasa, mtu-mkuu wa Nietzsche: hakuna lililoweza kubeba uzito wa swali. Falsafa ya Kistoiki ilikuwa jambo la mwisho la maana kabla ya Kristo, na kutoka hapo, nikiitazama kweli bila kupepesa macho, nilifika kwa Kanisa Katoliki. Njia hiyo imesimuliwa katika <em>The False Door: Reason Against Modern Occultism</em>, kitabu kinachomsindikiza kwa subira yule ambaye bado anatafuta na kinachosimama kwenye kizingiti cha Ukristo.</p>
 
-            <p>Tovuti hii ni kwa ajili yako ikiwa uko katika moja ya maeneo haya: unashaka imani uliyoipokea na hujui kumwuliza nani; unatafuta kati ya mila na hakuna anayekupa jibu linaloweza kubeba uzito; umebadilika imani hivi karibuni na unahisi upweke, bila mwongozo, ukishambuliwa pande zote. Ninajua mahali pale. Nilikuwepo. Na najua kilichopo karibu napo: Wakatoliki wa jadi ambao wakati mwingine wanachukua kwa kawaida kile ambacho wangelazimika kuthibitisha na hawajui kukieleza; na mbaya zaidi, Wakatoliki wa <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Kiswahili -->vuguvugu — wale wanaokwenda Misa kwa mazoea, hawajui wanachokiamini, hawatetei kitu chochote, na wao ndio wa kwanza kukuna mabega wakati mtu anaishambulia imani mbele yao.</p>
+            <p>Tovuti hii inaanzia pale kitabu hicho kinapoishia. Ikiwa Mungu amesema, alichosema kiko mahali fulani na kuna anayekilinda. Kila mada ya tovuti hii inachukua fundisho la Kikatoliki kati ya yale yanayoshambuliwa mlangoni mwa nyumba na kulithibitisha kwa Maandiko mkononi, yakisomwa kama walivyoyasoma Mababa wa Kanisa, waliyoyapokea kutoka kwa mitume, na kama Majisterio inavyoyalinda tangu wakati huo.</p>
 
-            <!-- TODO: verificar cita bíblica Apocalipsis 3,15-16 con traducción católica de Kiswahili -->
+            <p>Madhehebu ya Kiprotestanti yanasoma Biblia ileile na kutoa ndani yake mafundisho yanayopingana yenyewe kwa yenyewe. Isingeweza kuwa vinginevyo, kwa sababu Maandiko yalikwisha kuonya:</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 2 Petro 1:20</span>
+                <blockquote>«Mkijua neno hili kwanza, ya kwamba <strong class="s-hi">hakuna unabii katika maandiko upatao kufasiriwa kama apendavyo mtu fulani tu</strong>.»</blockquote>
+            </div>
+
+            <p>Kila moja linayafasiri kama lipendavyo, na kinachotoka hapo, kinapokana fundisho la imani, kina jina: uzushi. Hapa unaitwa hivyo na unajibiwa katika uwanja wake wenyewe. Vitabu vya Deuterokanoni ni Neno la Mungu sawa na vingine, lakini havinukuliwi katika majibu: vinatosha vitabu wanavyovikubali wao wenyewe ili uzushi wao uanguke kwa Biblia ileile wanayoileta mlangoni.</p>
+
+            <p>Uwanja mwingine wa vita uko ndani. Mkatoliki anayekwenda Misa kwa mazoea, asiyejua anachoamini na anayeinua mabega imani yake inaposhambuliwa mbele yake, anayaachia madhehebu mlango wazi. Wanaobisha hodi hawashindi mabishano: wanashinda ukimya.</p>
+
             <div class="scripture-block">
                 <span class="scripture-ref">✝︎ Ufunuo 3:15-16</span>
                 <blockquote>«Ninajua matendo yako: wewe si baridi wala si moto. Laiti ungekuwa baridi au moto! Lakini kwa sababu wewe ni vuguvugu, wala si moto wala si baridi, nitakutapika kutoka kinywani mwangu.»</blockquote>
             </div>
 
-            <p>Mkatoliki vuguvugu hatetei kitu, haeleweshi kitu, hamshawishi mtu yeyote. Angalau anayeamini kitu kibaya ana kitu cha kutoa.</p>
+            <p>Kuitetea imani ni amri, na ni kwa wote:</p>
 
-            <p>Na Waprotestanti wanajitokeza. Wanajitokeza kila wakati. Mashahidi wa Yehova, Wapentekosti, Waadventista, Wamormon, kila <!-- TODO: verificar terminología "secta" en Kiswahili -->kikundi cha dini chenye toleo lake lililofupishwa la Maandiko na uhakika wake uliokopwa. Hapa utapata jibu kwa vikundi hivyo vya dini, katika uwanja wao wenyewe, kwa silaha yao wenyewe: Biblia. Vitabu vya Deuterokanoni, ambavyo waliviondoa katika tafsiri zao bila mamlaka ya kufanya hivyo, ni Neno la Mungu sawa na vitabu vingine. Lakini ninapowajibu sivinukuu: ninatumia vitabu tu ambavyo wao wenyewe wanavikubali, ili mtu yeyote asiseme «hilo halimo katika Biblia» au «hilo waliliongeza Wakatoliki». Kwa Biblia iliyosomwa vizuri, <!-- TODO: verificar terminología "Padres de la Iglesia" en Kiswahili -->Mababa wa Kanisa, <!-- TODO: verificar terminología Magisterio en Kiswahili -->Magisterium, <!-- TODO: verificar terminología Catecismo en Kiswahili -->Katekisimu, na akili ambayo Mungu alitupa kama zawadi.</p>
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 1 Petro 3:15</span>
+                <blockquote>«Bali mtakaseni Kristo, Bwana, mioyoni mwenu. <strong class="s-hi">Muwe tayari siku zote kumjibu kila mtu anayewauliza sababu ya tumaini lililo ndani yenu</strong>.»</blockquote>
+            </div>
 
-            <p>Msukumo wangu mkuu katika kazi hii ni Padre Luis Toro. Anachotenda kwa kusema, mimi ninajaribu kufanya kwa kuandika, katika lugha na kwa wasomaji ambao yeye hawafiki.</p>
+            <p>Msukumo wangu katika kazi hii ni Padre Luis Toro. Anachofanya kwa kusema, mimi ninajaribu kukifanya kwa kuandika, katika lugha kumi na mbili na kwa wasomaji ambao yeye hawafikii. Kilichoko hapa, kwa kina na bila maafikiano, kiko pia katika kitabu changu <em>Faith and Reason</em>.</p>
 
-            <p>Siandiki ili kushinda hoja. Ninaandika ili yule anayeshaka peke yake usiku awe na kitu cha kweli mkononi wakati itakapomfika kufanikisha imani yake — au wakati itakapomfika kuipata kwa mara ya kwanza.</p>
+            <p>Siandiki ili kushinda mabishano. Ninaandika kwa sababu barua ya Yakobo inasema jambo hili ni la nini:</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ Yakobo 5:20</span>
+                <blockquote>«Na ajue ya kuwa <strong class="s-hi">yeye amrejezaye mwenye dhambi kutoka katika upotevu wa njia yake ataiokoa roho yake na mauti</strong>, na kusitiri wingi wa dhambi.»</blockquote>
+            </div>
 
             <p class="about-signature">M. Gabriel Castiglia</p>`
     }
