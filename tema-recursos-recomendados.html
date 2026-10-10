@@ -424,6 +424,13 @@
         color: rgba(255,255,255,.7); font-size: .86rem;
         line-height: 1.78; margin: 0 0 1rem;
       }
+      .rec-book-desc p { margin: 0 0 .9rem; }
+      .rec-book-desc p:last-child { margin-bottom: 0; }
+      .rec-book-epigraph-note:empty, .rec-book-close:empty { display: none; }
+      .rec-book-epigraph .rec-book-epigraph-note {
+        font-size: .74rem; line-height: 1.6; color: rgba(255,255,255,.5);
+        margin: .5rem 0 0; font-style: normal;
+      }
       .rec-book-close {
         color: var(--gold-light); font-size: .88rem; font-style: italic;
         line-height: 1.7; margin: 0 0 1.7rem;
@@ -522,6 +529,7 @@
       .rec-book--claro > .rec-book-body .rec-book-epigraph { border-left-color: rgba(146, 50, 30, .45); }
       .rec-book--claro > .rec-book-body .rec-book-epigraph p { color: #3a2a1e; }
       .rec-book--claro > .rec-book-body .rec-book-epigraph cite { color: #8c5e2e; }
+      .rec-book--claro > .rec-book-body .rec-book-epigraph .rec-book-epigraph-note { color: #6b5a4c; font-style: normal; font-size: .74rem; }
       .rec-book--claro > .rec-book-body .rec-book-desc { color: #4a3f38; }
       .rec-book--claro > .rec-book-body .rec-book-close { color: #92321e; }
       .rec-book--claro > .rec-book-body .rec-book-facts { border-color: rgba(146, 50, 30, .18); background: rgba(255, 255, 255, .55); }
@@ -675,11 +683,13 @@
               <h2 data-i18n="topicPages.recursos-recomendados.sec4b.title">Fe y Razón<span class="rec-book-subtitle">Siempre aparejados para responder</span></h2>
               <p class="rec-book-author">M. Gabriel Castiglia</p>
               <blockquote class="rec-book-epigraph">
-                <p data-i18n="topicPages.recursos-recomendados.sec4b.epigraph">«Estén siempre dispuestos a defenderse delante de cualquiera que les pida razón de la esperanza que ustedes tienen.»</p>
-                <cite data-i18n="topicPages.recursos-recomendados.sec4b.epigraphRef">1 Pedro 3:15</cite>
+                <p data-i18n="topicPages.recursos-recomendados.sec4b.epigraph">«Estad siempre <strong>aparejados para responder</strong> con mansedumbre y reverencia a cada uno que os demande razón de la esperanza que hay en vosotros.»</p>
+                <cite data-i18n="topicPages.recursos-recomendados.sec4b.epigraphRef">1 Pedro 3:15 · Biblia del Oso</cite>
+                <p class="rec-book-epigraph-note" data-i18n="topicPages.recursos-recomendados.sec4b.epigraphNote"></p>
               </blockquote>
-              <p class="rec-book-desc" data-i18n="topicPages.recursos-recomendados.sec4b.desc">Si Dios habló, ¿dónde quedó lo que dijo y quién lo custodia? Este libro responde con los documentos en la mano: la Biblia que traen a la puerta de casa, las confesiones de fe de cada grupo y sus propias páginas oficiales. Protestantes, adventistas, testigos de Jehová, mormones y cismáticos en general, uno por uno. Y como la Escritura no se explica sola, no la interpreta por su cuenta: la lee con los Padres de la Iglesia, que la recibieron de los apóstoles, y con el Magisterio, que la custodia desde entonces.</p>
-              <p class="rec-book-close" data-i18n="topicPages.recursos-recomendados.sec4b.close">Sigue el camino que La puerta falsa dejó en el umbral.</p>
+              <div class="rec-book-desc" data-i18n="topicPages.recursos-recomendados.sec4b.desc"><p>Cavar hondo en cada doctrina para ver si sale agua limpia o barro es un trabajo arduo. Pero no es imposible, y vale la pena, porque no se trata solo del sentido de esta vida, sino de si hay otra y de qué depende.</p><p>En mi libro anterior, “La puerta falsa: la razón contra el ocultismo moderno”, conté el camino que hice buscando esa respuesta: el ocultismo en varias de sus formas (el tarot, el horóscopo, el manifestar), la ciencia moderna, el superhombre de Nietzsche y, por fin, la filosofía estoica. Ese libro terminaba en el umbral del cristianismo, y ahí me detuve.</p><p>“Fe y Razón” abre esa puerta. Parte de lo que el libro anterior dejó establecido: la razón y las pruebas nos dicen que Dios existe. Desde ahí sigue con la siguiente pregunta: si Dios habló, dónde quedó lo que dijo y quién lo custodia. Responde con los documentos en la mano: la Biblia que te traen a la puerta de casa y las confesiones de fe de cada grupo herético, con sus errores explicados.</p><p>La Escritura no se explica sola, y lo dice ella misma: «nadie puede interpretar por su cuenta una profecía de la Escritura» (2 Pedro 1:20). Cada grupo que golpea la puerta lee la misma Biblia y saca de ella una doctrina distinta. Por eso este libro no la interpreta por su cuenta: la lee con los Padres de la Iglesia, que la recibieron de los apóstoles, y con el Magisterio, que la custodia desde entonces.</p><p>Si te quedaste en el umbral del libro anterior, aquí está el resto del camino. Y si te preguntas por qué escribir un libro así, la respuesta está en la carta de Santiago: «si la fe no va acompañada de las obras, está completamente muerta» (2:17), y «el que hace volver a un pecador de su mal camino salvará su vida de la muerte y obtendrá el perdón de numerosos pecados» (5:20).</p></div>
+              <!-- Vacío en español: el texto de Amazon ya cierra con el umbral. Lo llenan los demás idiomas. -->
+              <p class="rec-book-close" data-i18n="topicPages.recursos-recomendados.sec4b.close"></p>
 
               <dl class="rec-book-facts">
                 <div>
