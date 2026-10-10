@@ -1116,10 +1116,10 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
       sec4b: {
         badge: "Novo livro",
         title: "Faith and Reason<span class='rec-book-subtitle'>Always Ready to Give an Answer</span>",
-        epigraph: "“Estai sempre prontos a responder a todo aquele que vos pedir a razão da esperança que há em vós.”",
-        epigraphRef: "1 Pedro 3, 15",
-        desc: "Se Deus falou, onde ficou o que ele disse e quem o guarda? Este livro responde com os documentos na mão: a Bíblia que trazem à porta de casa, as confissões de fé de cada grupo e as suas próprias páginas oficiais. Protestantes, adventistas, testemunhas de Jeová, mórmons e cismáticos em geral, um por um. E como a Escritura não se explica sozinha, não a interpreta por conta própria: lê-a com os Padres da Igreja, que a receberam dos apóstolos, e com o Magistério, que a guarda desde então.",
-        close: "Continua o caminho que The False Door deixou no limiar.",
+        epigraph: "“Be <strong>ready always to give an answer</strong> to every man that asketh you a reason of the hope that is in you with meekness and fear.”",
+        epigraphRef: "1 Pedro 3,15 · Bíblia King James",
+        epigraphNote: "O subtítulo toma suas palavras da Bíblia King James (1611), a Bíblia dos protestantes de língua inglesa.",
+        desc: "<p>Cavar fundo em cada doutrina para ver se sai água limpa ou lama é um trabalho árduo. Mas não é impossível, e vale a pena, porque não se trata só do sentido desta vida, mas de saber se há outra e do que ela depende.</p><p>No meu livro anterior, “The False Door: Reason Against Modern Occultism”, contei o caminho que fiz buscando essa resposta. Aquele livro terminava no limiar do cristianismo, e ali eu parei.</p><p>“Faith and Reason” abre essa porta. Parte do que o livro anterior deixou estabelecido: a razão e as provas nos dizem que Deus existe. Dali segue para a pergunta seguinte: se Deus falou, onde ficou o que ele disse e quem o guarda? Responde com os documentos na mão: a Bíblia que trazem à porta da sua casa e as confissões de fé de cada grupo herético, com os seus erros explicados.</p><p>A Escritura não se explica sozinha, e ela mesma o diz: “nenhuma profecia da Escritura é de interpretação particular” (2 Pedro 1,20). Cada grupo que bate à porta lê a mesma Bíblia e tira dela uma doutrina diferente. Por isso este livro não a interpreta por conta própria: lê-a com os Padres da Igreja, que a receberam dos apóstolos, e com o Magistério, que a guarda desde então.</p><p>Se você ficou no limiar do livro anterior, aqui está o resto do caminho. E se você se pergunta por que escrever um livro assim, a resposta está na carta de Tiago: “a fé, se não tiver obras, é morta em si mesma” (2,17), e “aquele que fizer voltar um pecador do seu caminho errado salvará da morte a sua alma e cobrirá uma multidão de pecados” (5,20).</p>",
         factFormats: "Capa comum colorida e capa dura em cor premium",
         soonLabel: "Em breve na Amazon",
         sameAuthor: "Do mesmo autor",
@@ -1196,22 +1196,41 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
             <p>Uma jornada pelas filosofias que não resistiram — até a Igreja que resistiu.</p>
             <a href="temas.html" class="btn-outline-white">Voltar aos Temas</a>
             <a href="privacidad.html" class="btn-outline-white btn-hero-extra">Privacidade</a>`,
-      article: `<p>Cheguei ao catolicismo depois de um longo caminho. Li de tudo: ocultismo e esoterismo, as chamadas Tábuas de Esmeralda, as filosofias orientais, Nietzsche, os epicuristas. Procurei respostas em todo lugar e não encontrava nenhuma que sustentasse. O estoicismo foi a última coisa que me ofereceu algo sério antes de Cristo — Sêneca, Marco Aurélio, Epicteto me ensinaram a encarar a verdade sem pestanejar. E encarando a verdade sem pestanejar, terminei onde não esperava: diante da Igreja Católica.</p>
+      article: `<p>As respostas que não se sustentam, conheço-as porque as li. O ocultismo em várias de suas formas, a ciência moderna, o super-homem de Nietzsche: nenhuma aguentou o peso da pergunta. A filosofia estoica foi a última coisa séria antes de Cristo, e dali, olhando a verdade sem pestanejar, cheguei à Igreja Católica. Esse caminho está contado em <em>The False Door: Reason Against Modern Occultism</em>, um livro que acompanha com paciência quem ainda procura e para no limiar do cristianismo.</p>
 
-            <p>Este site é para você se está em um destes lugares: você duvida da fé que recebeu e não sabe a quem perguntar; está buscando entre tradições e ninguém te dá uma resposta que suporte o peso; acabou de se converter e se sente sozinho, sem guia, assediado por todos os lados. Conheço esse lugar. Estive lá. E sei o que há ao redor: católicos tradicionais que às vezes dão por certo o que deveriam demonstrar e não sabem explicá-lo; e pior ainda, católicos mornos — os que vão à missa por hábito, não sabem o que creem, não defendem nada, e são os primeiros a encolher os ombros quando alguém ataca a fé diante deles.</p>
+            <p>Este site começa onde esse livro termina. Se Deus falou, o que ele disse está em algum lugar e alguém o guarda. Cada tema deste site toma uma doutrina católica das que são atacadas à porta de casa e a demonstra com a Escritura na mão, lida como a leram os Padres da Igreja, que a receberam dos apóstolos, e como o Magistério a guarda desde então.</p>
+
+            <p>As seitas protestantes leem a mesma Bíblia e tiram dela doutrinas que se contradizem entre si. Não podia ser de outro modo, porque a Escritura já o havia advertido:</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 2 Pedro 1,20</span>
+                <blockquote>«Antes de tudo, sabei que <strong class="s-hi">nenhuma profecia da Escritura é de interpretação particular</strong>.»</blockquote>
+            </div>
+
+            <p>Cada uma a interpreta por conta própria, e o que sai daí, quando nega um dogma, tem nome: heresia. Aqui ela é chamada assim e respondida em seu próprio terreno. Os livros deuterocanônicos são Palavra de Deus tanto quanto os demais, mas nas respostas não são citados: bastam os livros que eles mesmos aceitam para que a sua heresia caia com a Bíblia que trazem à porta.</p>
+
+            <p>A outra frente está dentro. O católico que vai à Missa por costume, não sabe o que crê e dá de ombros quando atacam a sua fé diante dele deixa a porta aberta para a seita. Os que tocam a campainha não ganham discussões: ganham silêncios.</p>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝︎ Apocalipse 3,15-16</span>
                 <blockquote>«Conheço as tuas obras: não és frio nem quente. Quem me dera fosses frio ou quente! Mas porque és morno — e não frio nem quente — estou para vomitar-te da minha boca.»</blockquote>
             </div>
 
-            <p>Um morno não defende nada, não explica nada, não convence ninguém. Pelo menos quem acredita em algo errado tem algo a oferecer.</p>
+            <p>Defender a fé é uma ordem, e é para todos:</p>
 
-            <p>E os protestantes aparecem. Aparecem sempre. Testemunhas de Jeová, pentecostais, adventistas, mórmons, cada seita com sua versão truncada das Escrituras e sua certeza emprestada. Aqui você vai encontrar resposta para essas seitas, no próprio terreno delas, com a própria arma delas: a Bíblia. Os livros deuterocanônicos, que eles arrancaram de suas traduções sem autoridade para fazê-lo, são Palavra de Deus tanto quanto os outros. Mas, quando respondo a eles, não os cito: uso somente os livros que eles mesmos aceitam, para que ninguém possa sair com «isso não está na Bíblia» ou «isso os católicos acrescentaram». Com a Bíblia bem lida, os Padres da Igreja, o Magistério, o Catecismo, e a razão que Deus nos deu como presente.</p>
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 1 Pedro 3,15</span>
+                <blockquote>«Antes, santificai em vossos corações a Cristo, o Senhor. <strong class="s-hi">Estai sempre prontos a responder a todo aquele que vos pedir a razão da esperança que há em vós</strong>.»</blockquote>
+            </div>
 
-            <p>Minha inspiração principal neste trabalho é o Padre Luis Toro. O que ele faz falando, eu tento fazer escrevendo, nos idiomas e para os leitores que ele não alcança.</p>
+            <p>Minha inspiração neste trabalho é o Padre Luis Toro. O que ele faz falando, eu tento fazer escrevendo, em doze idiomas e para leitores que ele não alcança. O que há aqui, a fundo e sem concessões, está também no meu livro <em>Faith and Reason</em>.</p>
 
-            <p>Não escrevo para ganhar discussões. Escrevo para que quem está duvidando sozinho na noite tenha algo sério à mão quando chegar sua vez de defender sua fé — ou quando chegar sua vez de encontrá-la pela primeira vez.</p>
+            <p>Não escrevo para ganhar discussões. Escrevo porque a carta de Tiago diz para que serve isto:</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ Tiago 5,20</span>
+                <blockquote>«Saiba que <strong class="s-hi">aquele que fizer voltar um pecador do seu caminho errado salvará da morte a sua alma</strong> e cobrirá uma multidão de pecados.»</blockquote>
+            </div>
 
             <p class="about-signature">M. Gabriel Castiglia</p>`
     }

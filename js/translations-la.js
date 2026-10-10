@@ -1301,10 +1301,10 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
       sec4b: {
         badge: "Liber novus",
         title: "Faith and Reason<span class='rec-book-subtitle'>Always Ready to Give an Answer</span>",
-        epigraph: "«Parati semper ad defensionem omni poscenti vos rationem de ea, quae in vobis est, spe.»",
-        epigraphRef: "1 Petri 3, 15",
-        desc: "Si Deus locutus est, ubi est quod dixit, et quis id custodit? Hic liber documentis in manu respondet: Biblia quae ad ianuam domus affertur, confessionibus fidei uniuscuiusque coetus eorumque paginis publicis. Protestantes, Adventistae, Testes Iehovae, Mormones et schismatici in universum, singuli. Et quoniam Scriptura se ipsa non explicat, liber eam suo arbitrio non interpretatur: eam legit cum Patribus Ecclesiae, qui eam ab apostolis acceperunt, et cum Magisterio, quod eam inde custodit.",
-        close: "Iter persequitur quod The False Door in limine reliquit.",
+        epigraph: "“Be <strong>ready always to give an answer</strong> to every man that asketh you a reason of the hope that is in you with meekness and fear.”",
+        epigraphRef: "1 Petri 3,15 · Biblia King James",
+        epigraphNote: "Subtitulus verba sua sumit ex Biblia King James (1611), Biblia protestantium Anglice loquentium.",
+        desc: "<p>Unamquamque doctrinam penitus fodere, ut videatur utrum aqua pura an lutum exeat, opus arduum est. Non tamen impossibile, et operae pretium est, quia non solum de sensu huius vitae agitur, sed an sit altera et unde pendeat.</p><p>In libro meo priore, «The False Door: Reason Against Modern Occultism», narravi iter quod feci illud responsum quaerens. Ille liber in limine Christianitatis desinebat, et ibi constiti.</p><p>«Faith and Reason» illam ianuam aperit. Ab eo proficiscitur quod prior liber statuit: ratio et argumenta nobis dicunt Deum esse. Inde ad sequentem quaestionem pergit: si Deus locutus est, ubi est quod dixit, et quis id custodit? Documentis in manu respondet: Biblia quam ad ianuam tuam afferunt et confessiones fidei uniuscuiusque coetus haeretici, erroribus eorum explicatis.</p><p>Scriptura se ipsa non explicat, et ipsa id dicit: «omnis prophetia Scripturae propria interpretatione non fit» (2 Petri 1,20). Quisque coetus qui ad ianuam pulsat eandem Bibliam legit et ex ea diversam doctrinam elicit. Ideo hic liber eam suo arbitrio non interpretatur: eam legit cum Patribus Ecclesiae, qui eam ab apostolis acceperunt, et cum Magisterio, quod eam ex eo tempore custodit.</p><p>Si in limine prioris libri substitisti, hic est reliquum itineris. Et si quaeris cur talis liber scribatur, responsum est in epistula Iacobi: «fides, si non habeat opera, mortua est in semetipsa» (2,17), et «qui converti fecerit peccatorem ab errore viae suae, salvabit animam eius a morte et operiet multitudinem peccatorum» (5,20).</p>",
         factFormats: "Tegumento molli coloribus et tegumento duro coloribus praestantibus",
         soonLabel: "Mox apud Amazon",
         sameAuthor: "Ab eodem auctore",
@@ -1396,22 +1396,41 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
             <p>Iter per philosophias quae non steterunt — ad Ecclesiam quae stetit.</p>
             <a href="temas.html" class="btn-outline-white">Ad Themata Redire</a>
             <a href="privacidad.html" class="btn-outline-white btn-hero-extra">De privatis</a>`,
-      article: `<p>Ad catholicismum perveni post longum iter. Omnia legi: occultismum et esotericismum, tabulas dictas Smaragdinas, philosophias Orientis, Nietzsche, Epicuraeos. Ubique responsa quaesivi nec ullum inveni quod staret. Stoicismus ultimum erat quod aliquid grave ante Christum mihi obtulit — Seneca, Marcus Aurelius, Epictetus me docuerunt veritatem sine nictitione intueri. Et veritatem sine nictitione intuendo illuc perveni ubi non exspectabam: ante Ecclesiam Catholicam.</p>
+      article: `<p>Responsa quae non stant novi, quia ea legi. Occultismus multis formis, scientia recentior, homo superior Nietzschei: nullum quaestionis pondus sustinuit. Philosophia Stoica fuit ultimum quid grave ante Christum, et inde, veritatem sine nictu intuens, ad Ecclesiam Catholicam perveni. Hoc iter narratur in libro <em>The False Door: Reason Against Modern Occultism</em>, qui eum qui adhuc quaerit patienter comitatur et in limine Christianitatis consistit.</p>
 
-            <p>Hic locus tibi est si in uno horum locorum versaris: dubitas de fide quam accepisti et nescis quem roges; quaeris inter traditiones nec quisquam tibi responsum dat quod pondus ferre possit; modo conversus es et solum te sentis, sine duce, undique oppugnatum. Illum locum cognosco. Ibi fui. Et scio quid circum eum sit: catholici traditionales qui interdum id pro concesso habent quod demonstrare deberent nec id explicare sciunt; et quod peius est, catholici tepidi — qui ad Missam ex more adeunt, nesciunt quid credant, nihil defendunt, et primi humeros movent cum quis fidem coram eis impugnat.</p>
+            <p>Hic situs incipit ubi ille liber desinit. Si Deus locutus est, quod dixit alicubi est et aliquis id custodit. Unumquodque huius situs argumentum doctrinam catholicam sumit ex iis quae ad ianuam domus impugnantur, eamque Scriptura in manu demonstrat, lecta sicut eam legerunt Patres Ecclesiae, qui ab apostolis eam acceperunt, et sicut Magisterium eam ex eo tempore custodit.</p>
+
+            <p>Sectae protestantes eandem Bibliam legunt et ex ea doctrinas inter se pugnantes eliciunt. Aliter fieri non poterat, quia Scriptura iam id praemonuerat:</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 2 Petri 1,20</span>
+                <blockquote>«Hoc primum intellegentes quod <strong class="s-hi">omnis prophetia Scripturae propria interpretatione non fit</strong>.»</blockquote>
+            </div>
+
+            <p>Unaquaeque eam propria interpretatione legit, et quod inde oritur, cum dogma negat, nomen habet: haeresis. Hic eo nomine appellatur et in suo ipsius campo refutatur. Libri deuterocanonici sunt Verbum Dei non minus quam ceteri, sed in responsis non citantur: sufficiunt libri quos ipsi accipiunt, ut eorum haeresis cum Biblia quam ad ianuam afferunt corruat.</p>
+
+            <p>Alterum proelium intus est. Catholicus qui ex consuetudine ad Missam it, nescit quid credat et umeros contrahit cum fides eius coram eo impugnatur, ianuam sectae apertam relinquit. Qui tintinnabulum pulsant non disputationes vincunt, sed silentia.</p>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝︎ Apocalypsis 3,15-16</span>
                 <blockquote>«Scio opera tua, quia neque frigidus es neque calidus. Utinam frigidus esses aut calidus! Sed quia tepidus es, et nec frigidus nec calidus, incipiam te evomere ex ore meo.»</blockquote>
             </div>
 
-            <p>Tepidus nihil defendit, nihil explicat, neminem persuadet. Saltem qui aliquid falsum credit, aliquid offerre potest.</p>
+            <p>Fidem defendere praeceptum est, et omnibus datum:</p>
 
-            <p>Et protestantes adsunt. Semper adsunt. Testes Iehovae, Pentecostales, Adventistae, Mormones, quaeque secta cum sua versione truncata Scripturae et sua certitudine mutuata. Hic responsum ad illas sectas invenies, in ipso earum agro, ipsa earum arma utens: Biblia. Libri deuterocanonici, quos ex suis translationibus absque auctoritate eripuerunt, verbum Dei sunt non minus quam ceteri. Sed cum eis respondeo, eos non affero: solis libris utor quos ipsi accipiunt, ne quis obiciat «hoc in Biblia non est» aut «hoc catholici addiderunt». Biblia recte lecta, Patribus Ecclesiae, Magisterio, Catechismo, et ratione quam Deus nobis donum dedit.</p>
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 1 Petri 3,15</span>
+                <blockquote>«Dominum autem Christum sanctificate in cordibus vestris, <strong class="s-hi">parati semper ad defensionem omni poscenti vos rationem de ea, quae in vobis est, spe</strong>.»</blockquote>
+            </div>
 
-            <p>Praecipua mea inspiratio in hoc opere est Pater Ludovicus Toro. Quod ille loquendo facit, ego scribendo facere conor, in linguis et pro lectoribus quos ille non attingit.</p>
+            <p>Inspiratio mea in hoc opere est Pater Ludovicus Toro. Quod ille loquendo facit, ego scribendo facere conor, duodecim linguis et lectoribus quos ille non attingit. Quae hic sunt, penitus et sine ulla concessione, etiam in libro meo <em>Faith and Reason</em> inveniuntur.</p>
 
-            <p>Non scribo ut disputationes vincam. Scribo ut is qui solus nocte dubitat aliquid grave ad manum habeat cum eum fide sua defendenda contingit — aut cum eam primo invenire contingit.</p>
+            <p>Non scribo ut disputationes vincam. Scribo quia epistula Iacobi dicit ad quid haec valeant:</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ Iacobi 5,20</span>
+                <blockquote>«Scire debet quoniam <strong class="s-hi">qui converti fecerit peccatorem ab errore viae suae, salvabit animam eius a morte</strong> et operiet multitudinem peccatorum.»</blockquote>
+            </div>
 
             <p class="about-signature">M. Gabriel Castiglia</p>`
     }

@@ -1530,7 +1530,7 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
         epigraphRef: "1 Pedro 3:15 · Biblia del Oso",
         epigraphNote: "El subtítulo toma sus palabras de la Biblia del Oso, la traducción de Casiodoro de Reina publicada en 1569, de la que viene la Reina-Valera.",
         // Texto de la ficha de Amazon, tal cual: final/DESCRIPCION AMAZON.txt del libro (10-oct-2026).
-        desc: "<p>Cavar hondo en cada doctrina para ver si sale agua limpia o barro es un trabajo arduo. Pero no es imposible, y vale la pena, porque no se trata solo del sentido de esta vida, sino de si hay otra y de qué depende.</p><p>En mi libro anterior, “La puerta falsa: la razón contra el ocultismo moderno”, conté el camino que hice buscando esa respuesta. Ese libro terminaba en el umbral del cristianismo, y ahí me detuve.</p><p>Mi nuevo libro, “Fe y Razón” abre esa puerta. Parte de lo que el libro anterior dejó establecido: la razón y las pruebas nos dicen que Dios existe. Desde ahí sigue con la pregunta que viene después: si Dios habló, dónde quedó lo que dijo y quién lo custodia. Responde con los documentos en la mano: la Biblia que te traen a la puerta de tu casa y las confesiones de fe de cada grupo cismático, con sus herejías explicadas.</p><p>La Escritura no se explica sola, y lo dice ella misma: «ninguna profecía de la Escritura es de particular interpretación» (2 Pedro 1:20). Cada grupo que golpea la puerta lee la misma Biblia y saca de ella una doctrina distinta. Por eso este libro no la interpreta por su cuenta: la lee con los Padres de la Iglesia, que la recibieron de los apóstoles, y con el Magisterio, que la custodia desde entonces.</p><p>Si te quedaste en el umbral del libro anterior, aquí está el resto del camino. Y si te preguntas por qué escribir un libro así, la respuesta está en la carta de Santiago: «la fe, si no tiene obras, está muerta en sí misma» (2:17), y «el que hubiere hecho convertir al pecador del error de su camino, salvará un alma de muerte, y cubrirá multitud de pecados» (5:20).</p>",
+        desc: "<p>Cavar hondo en cada doctrina para ver si sale agua limpia o barro es un trabajo arduo. Pero no es imposible, y vale la pena, porque no se trata solo del sentido de esta vida, sino de si hay otra y de qué depende.</p><p>En mi libro anterior, “La puerta falsa: la razón contra el ocultismo moderno”, conté el camino que hice buscando esa respuesta. Ese libro terminaba en el umbral del cristianismo, y ahí me detuve.</p><p>“Fe y Razón” abre esa puerta. Parte de lo que el libro anterior dejó establecido: la razón y las pruebas nos dicen que Dios existe. Desde ahí sigue con la siguiente pregunta: si Dios habló, dónde quedó lo que dijo y quién lo custodia. Responde con los documentos en la mano: la Biblia que te traen a la puerta de casa y las confesiones de fe de cada grupo herético, con sus errores explicados.</p><p>La Escritura no se explica sola, y lo dice ella misma: «nadie puede interpretar por su cuenta una profecía de la Escritura» (2 Pedro 1:20). Cada grupo que golpea la puerta lee la misma Biblia y saca de ella una doctrina distinta. Por eso este libro no la interpreta por su cuenta: la lee con los Padres de la Iglesia, que la recibieron de los apóstoles, y con el Magisterio, que la custodia desde entonces.</p><p>Si te quedaste en el umbral del libro anterior, aquí está el resto del camino. Y si te preguntas por qué escribir un libro así, la respuesta está en la carta de Santiago: «si la fe no va acompañada de las obras, está completamente muerta» (2:17), y «el que hace volver a un pecador de su mal camino salvará su vida de la muerte y obtendrá el perdón de numerosos pecados» (5:20).</p>",
         factFormats: "Tapa blanda a color y tapa dura en color premium",
         soonLabel: "Muy pronto en Amazon",
         sameAuthor: "Del mismo autor",
@@ -1622,22 +1622,45 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
             <p>Un recorrido desde las filosofías que no aguantaron hasta la Iglesia que sí aguanta.</p>
             <a href="temas.html" class="btn-outline-white">Volver a Temas</a>
             <a href="privacidad.html" class="btn-outline-white btn-hero-extra">Privacidad</a>`,
-      article: `<p>Llegué al catolicismo después de un recorrido largo. Leí de todo: ocultismo y esoterismo, las llamadas tablas esmeralda, las filosofías orientales, Nietzsche, los epicúreos. Probé respuestas en todas partes y no encontraba ninguna que se sostuviera. El estoicismo fue lo último que me ofreció algo serio antes de Cristo — Séneca, Marco Aurelio, Epicteto me enseñaron a mirar la verdad sin pestañear. Y mirando la verdad sin pestañear terminé donde no esperaba: ante la Iglesia Católica.</p>
+      article: `<p>Las respuestas que no se sostienen las conozco porque las leí. El ocultismo en varias de sus formas, la ciencia moderna, el superhombre de Nietzsche: ninguna aguantó el peso de la pregunta. La filosofía estoica fue lo último serio antes de Cristo, y desde ahí, mirando la verdad sin pestañear, llegué a la Iglesia Católica. Ese camino está contado en <em>La puerta falsa: la razón contra el ocultismo moderno</em>, un libro que acompaña con paciencia al que todavía busca y se detiene en el umbral del cristianismo.</p>
 
-            <p>Este sitio es para vos si estás en alguno de estos lugares: dudás de la fe que recibiste y no sabés a quién preguntarle; estás buscando entre tradiciones y nadie te da una respuesta que te aguante el peso; te acabás de convertir y te sentís solo, sin guía, asediado por todos lados. Conozco ese lugar. Estuve ahí. Y sé lo que hay alrededor: católicos tradicionales que a veces dan por supuesto lo que tendrían que demostrar y no saben explicarlo; y peor todavía, católicos tibios — los que van a misa por costumbre, no saben qué creen, no defienden nada, y son los primeros en encogerse de hombros cuando alguien ataca la fe delante de ellos.</p>
+            <p>Este sitio empieza donde ese libro termina. Si Dios habló, lo que dijo está en alguna parte y alguien lo custodia. Cada tema de este sitio toma una doctrina católica de las que se atacan en la puerta de casa y la demuestra con la Escritura en la mano, leída como la leyeron los Padres de la Iglesia, que la recibieron de los apóstoles, y como la custodia el Magisterio desde entonces.</p>
 
+            <p>Las sectas protestantes leen la misma Biblia y sacan de ella doctrinas que se contradicen entre sí. No podía ser de otro modo, porque la Escritura ya lo había advertido:</p>
+
+            <!-- fuente: vaticano -->
             <div class="scripture-block">
-                <span class="scripture-ref">✝︎ Apocalipsis 3,15-16</span>
-                <blockquote>«Conozco tus obras: no eres ni frío ni caliente. ¡Ojalá fueras frío o caliente! Ahora bien, puesto que eres tibio, y no frío ni caliente, te vomitaré de mi boca.»</blockquote>
+                <span class="scripture-ref">✝︎ 2 Pedro 1:20</span>
+                <blockquote>«Pero tengan presente, ante todo, que <strong class="s-hi">nadie puede interpretar por cuenta propia una profecía de la Escritura</strong>.»</blockquote>
             </div>
 
-            <p>Un tibio no defiende nada, no explica nada, no convence a nadie. Al menos el que cree algo equivocado tiene algo que ofrecer.</p>
+            <p>Cada una la interpreta por cuenta propia, y lo que sale de ahí, cuando niega un dogma, tiene nombre: herejía. Aquí se la llama así y se la responde en su propio terreno. Los libros deuterocanónicos son Palabra de Dios tanto como los demás, pero en las respuestas no se citan: alcanza con los libros que ellos mismos aceptan para que su herejía se caiga con la Biblia que traen a la puerta.</p>
 
-            <p>Y los protestantes aparecen. Aparecen siempre. Testigos de Jehová, pentecostales, adventistas, mormones, cada secta con su versión recortada de la Escritura y su certeza prestada. Acá vas a encontrar respuesta a esas sectas, en su propio terreno, con su propia arma: la Biblia. Los libros deuterocanónicos, que ellos arrancaron de sus traducciones sin autoridad para hacerlo, son Palabra de Dios tanto como los demás. Pero cuando les respondo no los cito: uso solamente los libros que ellos mismos aceptan, para que nadie pueda salir con que «eso no está en la Biblia» o que «eso lo agregaron los católicos». Con la Biblia bien leída, los Padres de la Iglesia, el Magisterio, el Catecismo, y la razón que Dios nos dio como regalo.</p>
+            <p>El otro frente está adentro. El católico que va a Misa por costumbre, no sabe qué cree y se encoge de hombros cuando atacan su fe delante de él le deja la puerta abierta a la secta. Los que tocan el timbre no ganan discusiones: ganan silencios.</p>
 
-            <p>Mi inspiración principal en este trabajo es el Padre Luis Toro. Lo que él hace hablando, yo intento hacerlo escribiendo, en los idiomas y para los lectores que él no alcanza.</p>
+            <!-- fuente: vaticano -->
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ Apocalipsis 3:15-16</span>
+                <blockquote>«Conozco tus obras: no eres frío ni caliente. ¡Ojalá fueras frío o caliente! Por eso, <strong class="s-hi">porque eres tibio, te vomitaré de mi boca</strong>.»</blockquote>
+            </div>
 
-            <p>No escribo para ganar discusiones. Escribo para que el que está dudando solo en la noche tenga algo serio a mano cuando le toque defender su fe — o cuando le toque encontrarla por primera vez.</p>
+            <p>Defender la fe es una orden, y es para todos:</p>
+
+            <!-- fuente: vaticano -->
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 1 Pedro 3:15</span>
+                <blockquote>«por el contrario, glorifiquen en sus corazones a Cristo, el Señor. <strong class="s-hi">Estén siempre dispuestos a defenderse delante de cualquiera que les pida razón de la esperanza que ustedes tienen</strong>.»</blockquote>
+            </div>
+
+            <p>Mi inspiración en este trabajo es el Padre Luis Toro. Lo que él hace hablando, yo intento hacerlo escribiendo, en doce idiomas y para lectores que él no alcanza. Lo que hay aquí, a fondo y sin concesiones, está también en mi libro <em>Fe y Razón</em>.</p>
+
+            <p>No escribo para ganar discusiones. Escribo porque la carta de Santiago dice para qué sirve esto:</p>
+
+            <!-- fuente: vaticano -->
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ Santiago 5:20</span>
+                <blockquote>«sepan que <strong class="s-hi">el que hace volver a un pecador de su mal camino salvará su vida de la muerte</strong> y obtendrá el perdón de numerosos pecados.»</blockquote>
+            </div>
 
             <p class="about-signature">M. Gabriel Castiglia</p>`
     }

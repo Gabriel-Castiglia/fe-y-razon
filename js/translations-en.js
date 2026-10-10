@@ -1295,10 +1295,10 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
       sec4b: {
         badge: "New book",
         title: "Faith and Reason<span class='rec-book-subtitle'>Always Ready to Give an Answer</span>",
-        epigraph: "“Always be ready to give an explanation to anyone who asks you for a reason for your hope.”",
-        epigraphRef: "1 Peter 3:15",
-        desc: "If God has spoken, where did his word end up, and who keeps it? This book answers with the documents in hand: the Bible they bring to your door, each group's confessions of faith and their own official pages. Protestants, Adventists, Jehovah's Witnesses, Mormons and schismatics in general, one by one. And since Scripture does not explain itself, the book does not interpret it on its own: it reads it with the Fathers of the Church, who received it from the apostles, and with the Magisterium, which has kept it ever since.",
-        close: "It continues the road that The False Door left at the threshold.",
+        epigraph: "“Be <strong>ready always to give an answer</strong> to every man that asketh you a reason of the hope that is in you with meekness and fear.”",
+        epigraphRef: "1 Peter 3:15 · King James Bible",
+        epigraphNote: "The subtitle takes its words from the King James Bible (1611), the Bible of English-speaking Protestants.",
+        desc: "<p>Digging deep into each doctrine to see whether it yields clean water or mud is hard work. But it is not impossible, and it is worth it, because it is not only about the meaning of this life, but about whether there is another one and what it depends on.</p><p>In my previous book, “The False Door: Reason Against Modern Occultism”, I told the road I walked looking for that answer. That book ended on the threshold of Christianity, and there I stopped.</p><p>“Faith and Reason” opens that door. It starts from what the previous book established: reason and evidence tell us that God exists. From there it moves on to the next question: if God has spoken, where did what he said end up, and who keeps it? It answers with the documents in hand: the Bible they bring to your door and the confessions of faith of each heretical group, with their errors explained.</p><p>Scripture does not explain itself, and it says so itself: “no prophecy of scripture is a matter of one's own interpretation” (2 Peter 1:20). Every group that knocks on the door reads the same Bible and draws a different doctrine from it. That is why this book does not interpret it on its own: it reads it with the Fathers of the Church, who received it from the apostles, and with the Magisterium, which has kept it ever since.</p><p>If you stayed on the threshold of the previous book, here is the rest of the road. And if you wonder why anyone would write a book like this, the answer is in the letter of James: “faith by itself, if it has no works, is dead” (2:17), and “whoever brings back a sinner from the error of his way will save his soul from death and will cover a multitude of sins” (5:20).</p>",
         factFormats: "Paperback in color and hardcover in premium color",
         soonLabel: "Coming soon on Amazon",
         sameAuthor: "By the same author",
@@ -1390,22 +1390,41 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
             <p>A journey through philosophies that didn't hold up — until the Church that did.</p>
             <a href="temas.html" class="btn-outline-white">Back to Topics</a>
             <a href="privacidad.html" class="btn-outline-white btn-hero-extra">Privacy</a>`,
-      article: `<p>I arrived at Catholicism after a long journey. I read everything: occultism and esotericism, the so-called Emerald Tablets, Eastern philosophies, Nietzsche, the Epicureans. I tried answers everywhere and couldn't find any that held up. Stoicism was the last thing that offered me something serious before Christ — Seneca, Marcus Aurelius, Epictetus taught me to look at truth without flinching. And looking at truth without flinching, I ended up where I didn't expect: before the Catholic Church.</p>
+      article: `<p>The answers that do not hold up I know because I read them. Occultism in several of its forms, modern science, Nietzsche's superman: none of them could bear the weight of the question. Stoic philosophy was the last serious thing before Christ, and from there, looking at the truth without flinching, I came to the Catholic Church. That road is told in <em>The False Door: Reason Against Modern Occultism</em>, a book that walks patiently with those who are still searching and stops at the threshold of Christianity.</p>
 
-            <p>This site is for you if you're in one of these places: you doubt the faith you received and don't know who to ask; you're searching among traditions and no one gives you an answer that can bear the weight; you just converted and feel alone, without a guide, assailed from all sides. I know that place. I was there. And I know what's around it: traditional Catholics who sometimes take for granted what they ought to demonstrate and can't explain it; and worse, lukewarm Catholics — those who go to Mass out of habit, don't know what they believe, defend nothing, and are the first to shrug their shoulders when someone attacks the faith in front of them.</p>
+            <p>This site begins where that book ends. If God has spoken, what he said is somewhere, and someone keeps it. Each topic on this site takes a Catholic doctrine of the kind that gets attacked at the front door and proves it with Scripture in hand, read as the Fathers of the Church read it, who received it from the apostles, and as the Magisterium has kept it ever since.</p>
+
+            <p>The Protestant sects read the same Bible and draw from it doctrines that contradict one another. It could not be otherwise, because Scripture had already warned about it:</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 2 Peter 1:20</span>
+                <blockquote>«First of all you must understand this, that <strong class="s-hi">no prophecy of scripture is a matter of one's own interpretation</strong>.»</blockquote>
+            </div>
+
+            <p>Each of them interprets it on its own, and what comes out of that, when it denies a dogma, has a name: heresy. Here it is called by that name and answered on its own ground. The deuterocanonical books are the Word of God as much as the rest, but they are not cited in the answers: the books they themselves accept are enough for their heresy to fall with the Bible they bring to the door.</p>
+
+            <p>The other front is inside. The Catholic who goes to Mass out of habit, does not know what he believes and shrugs when his faith is attacked in front of him leaves the door open to the sect. The ones who ring the bell do not win arguments: they win silences.</p>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝︎ Revelation 3:15-16</span>
                 <blockquote>«I know your works: you are neither cold nor hot. Would that you were cold or hot! So, because you are lukewarm, and neither cold nor hot, I will spew you out of my mouth.»</blockquote>
             </div>
 
-            <p>A lukewarm Catholic defends nothing, explains nothing, convinces no one. At least the one who believes something wrong has something to offer.</p>
+            <p>Defending the faith is a command, and it is for everyone:</p>
 
-            <p>And the Protestants show up. They always show up. Jehovah's Witnesses, Pentecostals, Adventists, Mormons, every sect with its truncated version of Scripture and its borrowed certainty. Here you will find an answer to those sects, on their own ground, with their own weapon: the Bible. The deuterocanonical books, which they tore from their translations without the authority to do so, are the Word of God as much as the rest. But when I answer them I do not quote those books: I use only the books they themselves accept, so that no one can come back with “that’s not in the Bible” or “the Catholics added that.” With the Bible properly read, the Church Fathers, the Magisterium, the Catechism, and the reason God gave us as a gift.</p>
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 1 Peter 3:15</span>
+                <blockquote>«But in your hearts reverence Christ as Lord. <strong class="s-hi">Always be prepared to make a defense to any one who calls you to account for the hope that is in you</strong>.»</blockquote>
+            </div>
 
-            <p>My main inspiration in this work is Father Luis Toro. What he does by speaking, I try to do by writing, in the languages and for the readers he doesn't reach.</p>
+            <p>My inspiration in this work is Father Luis Toro. What he does by speaking, I try to do by writing, in twelve languages and for readers he does not reach. What is here, in depth and without concessions, is also in my book <em>Faith and Reason</em>.</p>
 
-            <p>I don't write to win arguments. I write so that the person doubting alone in the night has something serious at hand when it's their turn to defend their faith — or when it's their turn to find it for the first time.</p>
+            <p>I do not write to win arguments. I write because the letter of James says what this is for:</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ James 5:20</span>
+                <blockquote>«Let him know that <strong class="s-hi">whoever brings back a sinner from the error of his way will save his soul from death</strong> and will cover a multitude of sins.»</blockquote>
+            </div>
 
             <p class="about-signature">M. Gabriel Castiglia</p>`
     }

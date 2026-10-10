@@ -1108,10 +1108,10 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       sec4b: {
         badge: "Akwụkwọ ọhụrụ",
         title: "Faith and Reason<span class='rec-book-subtitle'>Always Ready to Give an Answer</span>",
-        epigraph: "“Na-adịnụ njikere mgbe niile ịza onye ọ bụla na-ajụ unu ihe kpatara olileanya dị n’ime unu.”",
-        epigraphRef: "1 Pita 3:15",
-        desc: "Ọ bụrụ na Chineke ekwuola okwu, olee ebe ihe o kwuru dị, onye na-echekwakwa ya? Akwụkwọ a na-aza ya na akwụkwọ ndekọ n'aka: Baịbụl ha na-ebute n'ọnụ ụzọ ụlọ gị, nkwupụta okwukwe nke otu ọ bụla na peeji nke ha n'onwe ha. Ndị Protestant, ndị Adventist, Ndịàmà Jehova, ndị Mormon na ndị nkewa n'ozuzu, otu otu. Ebe ọ bụ na Akwụkwọ Nsọ anaghị akọwa onwe ya, akwụkwọ a anaghị akọwa ya n'echiche nke aka ya: ọ na-agụ ya na ndị Nna Nzukọ-nsọ, ndị natara ya n'aka ndịozi, na Magisterium, nke na-echekwa ya kemgbe ahụ.",
-        close: "Ọ na-aga n'ihu n'ụzọ The False Door hapụrụ n'ọnụ ụzọ.",
+        epigraph: "“Be <strong>ready always to give an answer</strong> to every man that asketh you a reason of the hope that is in you with meekness and fear.”",
+        epigraphRef: "1 Pita 3:15 · Baịbụl King James",
+        epigraphNote: "Okwu nke obere isiokwu a si na Baịbụl King James (1611), Baịbụl nke ndị Protestant na-asụ Bekee.",
+        desc: "<p>Igwu ala nke ọma n'ime nkuzi ọ bụla iji hụ ma mmiri dị ọcha ọ̀ bụ apịtị ga-apụta bụ ọrụ siri ike. Mana ọ bụghị ihe na-agaghị ekwe omume, ọ bakwara uru, n'ihi na ọ bụghị naanị maka ihe ndụ a pụtara, kama ọ bụ ma ọ nwere ndụ ọzọ na ihe ọ dabere na ya.</p><p>N'akwụkwọ m gara aga, “The False Door: Reason Against Modern Occultism”, akọrọ m ụzọ m gara mgbe m na-achọ azịza ahụ. Akwụkwọ ahụ kwụsịrị n'ọnụ ụzọ Iso Ụzọ Kraịst, m kwụsịkwara n'ebe ahụ.</p><p>“Faith and Reason” na-emeghe ọnụ ụzọ ahụ. Ọ na-amalite n'ihe akwụkwọ gara aga guzobere: uche na ihe akaebe na-agwa anyị na Chineke dị. Site n'ebe ahụ ọ na-aga n'ajụjụ na-esote: ọ bụrụ na Chineke ekwuola okwu, olee ebe ihe o kwuru dị, onye na-echekwakwa ya? Ọ na-aza ya na akwụkwọ ndị ahụ n'aka: Baịbụl ha na-ebute gị n'ọnụ ụzọ ụlọ gị na nkwupụta okwukwe nke otu ozizi ụgha ọ bụla, ya na njehie ha a kọwara.</p><p>Akwụkwọ Nsọ anaghị akọwa onwe ya, ọ na-ekwukwa ya n'onwe ya: “ọ dịghị amụma ọ bụla nke Akwụkwọ Nsọ na-esite na nkọwa nke onye ọ bụla” (2 Pita 1:20). Otu ọ bụla na-akụ aka n'ọnụ ụzọ na-agụ otu Baịbụl ahụ ma wepụta nkuzi dị iche na ya. Ọ bụ ya mere akwụkwọ a anaghị akọwa ya n'onwe ya: ọ na-agụ ya na Ndị Nna Nzukọ, ndị natara ya n'aka ndịozi, na Magisterium, nke na-echekwa ya kemgbe ahụ.</p><p>Ọ bụrụ na ị kwụsịrị n'ọnụ ụzọ nke akwụkwọ gara aga, lee ụzọ fọdụrụ ebe a. Ọ bụrụkwa na ị na-ajụ ihe mere e ji ede akwụkwọ dị otú a, azịza ya dị n'akwụkwọ ozi Jems: “ọ bụrụ na okwukwe enweghị ọrụ, ọ nwụrụ anwụ n'onwe ya” (2:17), na “onye ọ bụla mere ka onye mmehie si na njehie nke ụzọ ya laghachi ga-azọpụta mkpụrụ obi ya n'ọnwụ, kpuchiekwa ọtụtụ mmehie” (5:20).</p>",
         factFormats: "Mkpuchi dị nro n'agba na mkpuchi siri ike n'agba pụrụ iche",
         soonLabel: "N'oge na-adịghị anya na Amazon",
         sameAuthor: "Site n'aka otu onye dere",
@@ -1188,23 +1188,41 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
             <p>Njem site n'ime ihe ọmụmụ ndị enweghị ike ịdọ aka ná ntị — ruo n'Ọhabara nke ịdọ aka ná ntị.</p>
             <a href="temas.html" class="btn-outline-white">Laghachi na Isiokwu</a>
             <a href="privacidad.html" class="btn-outline-white btn-hero-extra">Nzuzo</a>`,
-      article: `<p>Ọ bụ mgbe m tọọrọ ije ogologo ka m ruo Katọlịsizm. M gụọrọ ihe niile: okultizm na esoterisizm, nke a na-akpọ <!-- TODO: verificar terminología "Tablas Esmeralda" en Igbo -->Taabụl Emerald, ihe ọmụmụ ọdịdị ọwụwa anyanwụ, Nietzsche, ndị Epicurean. M chọọrọ azịza n'ebe niile ma enweghị otu o bụla m chọtara nke ịdọ aka ná ntị. Stoicism bụ ihe ikpeazụ nke nyere m ihe dị serious tupu Kraịst — Seneka, Makọs Ọwrịlịọs, Epiktetos kụziiri m ịlele eziokwu n'anya n'anya. Ma ka m na-elenye eziokwu anya n'anya, m kwuchiri ebe m echeghị: n'ihu Nzukọ-nsọ Katọlik.</p>
+      article: `<p>Azịza ndị na-adịghị eguzosi ike, amaara m ha n'ihi na agụrụ m ha. Okultizm n'ụdị ya dị iche iche, sayensị ọgbara ọhụrụ, onye ka mmadụ nke Nietzsche: ọ dịghị nke ọ bụla nwere ike ibu ibu ajụjụ ahụ. Nkà ihe ọmụma Stoik bụ ihe ikpeazụ dị mkpa tupu Kraịst, site n'ebe ahụ, ka m na-ele eziokwu anya n'atụghị egwu, abịaruru m na Nzukọ Katọlik. A kọrọ ụzọ ahụ n'ime <em>The False Door: Reason Against Modern Occultism</em>, akwụkwọ na-eji ndidi eso onye ka na-achọ ma kwụsị n'ọnụ ụzọ Iso Ụzọ Kraịst.</p>
 
-            <p>Saịtị a bụ maka gị ma ọ bụrụ na ị nọ n'otu n'ime ebe ndị a: ị na-enwe ọchịchọ ike maka okwukwe i nwetara ma ị maghị onye ị ga-ajụ; ị na-achọ n'etiti ọdịnala ma onye ọ bụla anaghị enye gị azịza nke nwere ike ibu ibu; ị mara ọhụrụ ọhụrụ ụmụọgụ ma ị nọrọ naanị gị, n'enweghị nduzi, a na-asó gị n'akụkụ niile. M maara ebe ahụ. M nọọrọ ebe ahụ. Ma m maara ihe dị gburugburu: ndị Katọlik ọchịchọ ndị mgbe ụfọdụ na-ewere ihe ha kwesịrị igosipụta dị ka ihe a maara ma ha enweghị ike kọwaa ya; na ihe na-adị njọ karịa, ndị Katọlik <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Igbo -->jụrụ — ndị na-aga Misa n'ihi omenala, ha amaghị ihe ha kwere, ha anaghị agbachitere ihe ọ bụla, ha bụ ndị mbụ ga-awịda ụjọ mgbe mmadụ na-awa okwukwe n'ihu ha.</p>
+            <p>Ebe nrụọrụ a na-amalite ebe akwụkwọ ahụ kwụsịrị. Ọ bụrụ na Chineke ekwuola okwu, ihe o kwuru dị n'ebe ụfọdụ, ọ dịkwa onye na-echekwa ya. Isiokwu ọ bụla nke ebe nrụọrụ a na-ewere otu nkuzi Katọlik n'ime ndị a na-awakpo n'ọnụ ụzọ ụlọ ma gosipụta ya na Akwụkwọ Nsọ n'aka, a gụọ ya ka Ndị Nna Nzukọ, ndị natara ya n'aka ndịozi, gụrụ ya, na ka Magisterium si chekwaa ya kemgbe ahụ.</p>
 
-            <!-- TODO: verificar cita bíblica Apocalipsis 3,15-16 con traducción católica de Igbo -->
+            <p>Òtù Protestant dị iche iche na-agụ otu Baịbụl ahụ ma na-esite na ya wepụta nkuzi ndị na-emegiderịta onwe ha. O nweghị ike ịdị n'ụzọ ọzọ, n'ihi na Akwụkwọ Nsọ adọọlarị aka ná ntị:</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 2 Pita 1:20</span>
+                <blockquote>«Mara nke a na mbụ, na <strong class="s-hi">ọ dịghị amụma ọ bụla nke Akwụkwọ Nsọ na-esite na nkọwa nke onye ọ bụla</strong>.»</blockquote>
+            </div>
+
+            <p>Nke ọ bụla n'ime ha na-akọwa ya n'onwe ya, ihe si na ya pụta, mgbe ọ na-agọnarị nkwenye okwukwe, nwere aha: ozizi ụgha. Ebe a, a na-akpọ ya aha ahụ ma zaa ya n'ala nke ya. Akwụkwọ Deuterocanonical bụ Okwu Chineke dịka ndị ọzọ, mana a naghị ehota ha na azịza: akwụkwọ ndị ha onwe ha nabatara ezuola ka ozizi ụgha ha daa site na Baịbụl ha na-ebute n'ọnụ ụzọ.</p>
+
+            <p>Ọgụ nke ọzọ dị n'ime. Onye Katọlik na-aga Mass n'ihi omenala, na-amaghị ihe ọ kwere ma na-agbali ubu mgbe a na-awakpo okwukwe ya n'ihu ya, na-ahapụrụ òtù ahụ ọnụ ụzọ oghe. Ndị na-akụ mgbịrịgba anaghị emeri arụmụka: ha na-emeri ịgbachi nkịtị.</p>
+
             <div class="scripture-block">
                 <span class="scripture-ref">✝︎ Mkpughe 3:15-16</span>
                 <blockquote>«Amaara m omume gị: ị dịghị oyi ma ị dịghị ọkụ. Ọ gaara mma ma ị bụrụ oyi ma ọ bụ ọkụ! Mana n'ihi na ị bụ onye <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Igbo -->jụrụ, ma ị dịghị ọkụ ma ị dịghị oyi, m ga-akpụpụ gị n'ọnụ m.»</blockquote>
             </div>
 
-            <p>Onye Katọlik jụrụ anaghị agbachitere ihe ọ bụla, anaghị akọwapụta ihe ọ bụla, anaghị ato onye ọ bụla n'uche. Opekata mpe onye kwere n'ihe ọjọọ nwere ihe ọ nwere ike inye.</p>
+            <p>Ịgbachitere okwukwe bụ iwu, ọ bụkwa maka mmadụ niile:</p>
 
-            <p>Na ndị Prọtestant na-apụta. Ha na-apụta mgbe niile. Ndị Ịchọcha Jehovah, ndị Pentikọst, ndị Adventist, ndị Mormon, <!-- TODO: verificar terminología "secta" en Igbo -->sekta ọ bụla nwere ụdị ya nke Akwụkwọ Nsọ a kpọchasịrị ma ọbụ nkwado nke a kọkọrọ. Ebe a i ga-ahụ azịza maka sekta ndị ahụ, n'ala ha onwe ha, site n'ọgụ ha onwe ha: Bayibụl. Akwụkwọ Deuterokanonịkal, ndị ha wepụrụ n'ntụgharị ha n'enweghị ikike ime ya, bụ Okwu Chineke dị ka ndị ọzọ. Ma mgbe m na-aza ha, anaghị m ehota ha: m na-eji naanị akwụkwọ ndị ha onwe ha nabatara, ka onye ọ bụla ghara ịsị «nke ahụ adịghị na Bayibụl» ma ọ bụ «ndị Katọlik tinyere ya». Site n'Bayibụl a gụọrọ nke ọma, <!-- TODO: verificar terminología "Padres de la Iglesia" en Igbo -->ndị Nna Nzukọ-nsọ, <!-- TODO: verificar terminología Magisterio en Igbo -->Magistirium, <!-- TODO: verificar terminología Catecismo en Igbo -->Katekizm, na uche Chineke nyere anyị dị ka ọnụ ọhụụ.</p>
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 1 Pita 3:15</span>
+                <blockquote>«Kama doonụ Kraịst Onyenwe anyị nsọ n'obi unu. <strong class="s-hi">Na-adịnụ njikere mgbe niile ịza onye ọ bụla na-ajụ unu ihe kpatara olileanya dị n'ime unu</strong>.»</blockquote>
+            </div>
 
-            <p>Ihe ndụzị m dị isi na ọrụ a bụ Padre Luis Toro. Ihe ọ na-eme n'okwu, m na-anwa ime ya n'ide, n'asụsụ na maka ndị ọgụgụ ọ anaghị eru.</p>
+            <p>Ihe na-akpali m n'ọrụ a bụ Padre Luis Toro. Ihe ọ na-eme site n'ikwu okwu, m na-anwa ime ya site n'ide ihe, n'asụsụ iri na abụọ na maka ndị ọgụgụ ọ na-erughị. Ihe dị ebe a, n'ụzọ miri emi na n'enweghị nkwekọrịta, dịkwa n'akwụkwọ m <em>Faith and Reason</em>.</p>
 
-            <p>Anaghị m ide iji nwee mpi mkparịta ụka. Na-ede m ka onye na-enwe ọchịchọ ike naanị ya n'abalị nwee ihe dị serious n'aka ya mgbe ọ ga-achịkwa okwukwe ya — ma ọ bụ mgbe ọ ga-ahụ ya n'oge mbụ.</p>
+            <p>Anaghị m ede iji merie arụmụka. M na-ede n'ihi na akwụkwọ ozi Jems na-ekwu ihe nke a bụ maka ya:</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ Jems 5:20</span>
+                <blockquote>«Ya mara na <strong class="s-hi">onye ọ bụla mere ka onye mmehie si na njehie nke ụzọ ya laghachi ga-azọpụta mkpụrụ obi ya n'ọnwụ</strong>, kpuchiekwa ọtụtụ mmehie.»</blockquote>
+            </div>
 
             <p class="about-signature">M. Gabriel Castiglia</p>`
     }

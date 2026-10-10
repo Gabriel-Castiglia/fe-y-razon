@@ -1116,10 +1116,10 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
       sec4b: {
         badge: "Nouveau livre",
         title: "Faith and Reason<span class='rec-book-subtitle'>Always Ready to Give an Answer</span>",
-        epigraph: "« Soyez prêts à tout moment à présenter une défense devant quiconque vous demande de rendre raison de l’espérance qui est en vous. »",
-        epigraphRef: "1 Pierre 3, 15",
-        desc: "Si Dieu a parlé, où se trouve ce qu'il a dit, et qui le garde ? Ce livre répond avec les documents en main : la Bible qu'on vient apporter à votre porte, les confessions de foi de chaque groupe et leurs propres pages officielles. Protestants, adventistes, témoins de Jéhovah, mormons et schismatiques en général, un par un. Et comme l'Écriture ne s'explique pas toute seule, il ne l'interprète pas à sa guise : il la lit avec les Pères de l'Église, qui l'ont reçue des apôtres, et avec le Magistère, qui la garde depuis lors.",
-        close: "Il poursuit le chemin que The False Door avait laissé au seuil.",
+        epigraph: "“Be <strong>ready always to give an answer</strong> to every man that asketh you a reason of the hope that is in you with meekness and fear.”",
+        epigraphRef: "1 Pierre 3,15 · Bible King James",
+        epigraphNote: "Le sous-titre reprend les mots de la Bible King James (1611), la Bible des protestants anglophones.",
+        desc: "<p>Creuser chaque doctrine en profondeur pour voir s'il en sort de l'eau claire ou de la boue est un travail ardu. Mais ce n'est pas impossible, et cela en vaut la peine, car il ne s'agit pas seulement du sens de cette vie, mais de savoir s'il y en a une autre et de quoi elle dépend.</p><p>Dans mon livre précédent, « The False Door: Reason Against Modern Occultism », j'ai raconté le chemin que j'ai parcouru en cherchant cette réponse. Ce livre s'achevait au seuil du christianisme, et là je me suis arrêté.</p><p>« Faith and Reason » ouvre cette porte. Il part de ce que le livre précédent a établi : la raison et les preuves nous disent que Dieu existe. De là, il passe à la question suivante : si Dieu a parlé, où se trouve ce qu'il a dit, et qui le garde ? Il répond les documents en main : la Bible qu'on vous apporte à la porte de chez vous et les confessions de foi de chaque groupe hérétique, avec leurs erreurs expliquées.</p><p>L'Écriture ne s'explique pas toute seule, et elle le dit elle-même : « pour aucune prophétie de l'Écriture il ne peut y avoir d'interprétation individuelle » (2 Pierre 1,20). Chaque groupe qui frappe à la porte lit la même Bible et en tire une doctrine différente. C'est pourquoi ce livre ne l'interprète pas pour son propre compte : il la lit avec les Pères de l'Église, qui l'ont reçue des apôtres, et avec le Magistère, qui la garde depuis lors.</p><p>Si vous êtes resté au seuil du livre précédent, voici le reste du chemin. Et si vous vous demandez pourquoi écrire un tel livre, la réponse se trouve dans la lettre de Jacques : « la foi, si elle n'est pas mise en œuvre, est bel et bien morte » (2,17), et « celui qui ramène un pécheur du chemin où il s'égarait sauvera de la mort l'âme de ce pécheur et couvrira une multitude de péchés » (5,20).</p>",
         factFormats: "Broché en couleur et relié en couleur premium",
         soonLabel: "Bientôt sur Amazon",
         sameAuthor: "Du même auteur",
@@ -1196,22 +1196,41 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
             <p>Un chemin parcouru à travers les philosophies qui n'ont pas tenu — jusqu'à l'Église qui a tenu.</p>
             <a href="temas.html" class="btn-outline-white">Retour aux Thèmes</a>
             <a href="privacidad.html" class="btn-outline-white btn-hero-extra">Confidentialité</a>`,
-      article: `<p>Je suis arrivé au catholicisme après un long cheminement. J'ai tout lu : l'occultisme et l'ésotérisme, les dites Tables d'Émeraude, les philosophies orientales, Nietzsche, les épicuriens. J'ai cherché des réponses partout et je n'en trouvais aucune qui tienne. Le stoïcisme a été la dernière chose qui m'a offert quelque chose de sérieux avant le Christ — Sénèque, Marc Aurèle, Épictète m'ont appris à regarder la vérité sans ciller. Et en regardant la vérité sans ciller, je me suis retrouvé là où je ne m'y attendais pas : devant l'Église Catholique.</p>
+      article: `<p>Les réponses qui ne tiennent pas, je les connais parce que je les ai lues. L'occultisme sous plusieurs de ses formes, la science moderne, le surhomme de Nietzsche : aucune n'a supporté le poids de la question. La philosophie stoïcienne a été la dernière chose sérieuse avant le Christ, et de là, en regardant la vérité sans ciller, je suis arrivé à l'Église catholique. Ce chemin est raconté dans <em>The False Door: Reason Against Modern Occultism</em>, un livre qui accompagne avec patience celui qui cherche encore et s'arrête au seuil du christianisme.</p>
 
-            <p>Ce site est pour vous si vous êtes dans l'un de ces endroits : vous doutez de la foi que vous avez reçue et vous ne savez pas à qui vous adresser ; vous cherchez parmi les traditions et personne ne vous donne une réponse qui puisse supporter le poids ; vous venez de vous convertir et vous vous sentez seul, sans guide, assiégé de toutes parts. Je connais cet endroit. J'y étais. Et je sais ce qui l'entoure : des catholiques traditionnels qui parfois tiennent pour acquis ce qu'ils devraient démontrer et ne savent pas l'expliquer ; et pire encore, des catholiques tièdes — ceux qui vont à la messe par habitude, ne savent pas ce qu'ils croient, ne défendent rien, et sont les premiers à hausser les épaules quand quelqu'un attaque la foi devant eux.</p>
+            <p>Ce site commence là où ce livre s'arrête. Si Dieu a parlé, ce qu'il a dit se trouve quelque part, et quelqu'un le garde. Chaque thème de ce site prend une doctrine catholique parmi celles qu'on attaque sur le pas de la porte et la démontre l'Écriture en main, lue comme l'ont lue les Pères de l'Église, qui l'ont reçue des apôtres, et comme le Magistère la garde depuis lors.</p>
+
+            <p>Les sectes protestantes lisent la même Bible et en tirent des doctrines qui se contredisent entre elles. Il ne pouvait en être autrement, car l'Écriture l'avait déjà annoncé :</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 2 Pierre 1,20</span>
+                <blockquote>« Car vous savez cette chose primordiale : <strong class="s-hi">pour aucune prophétie de l'Écriture il ne peut y avoir d'interprétation individuelle</strong>. »</blockquote>
+            </div>
+
+            <p>Chacune l'interprète pour son propre compte, et ce qui en sort, quand cela nie un dogme, porte un nom : hérésie. Ici on l'appelle ainsi et on lui répond sur son propre terrain. Les livres deutérocanoniques sont Parole de Dieu autant que les autres, mais on ne les cite pas dans les réponses : les livres qu'ils acceptent eux-mêmes suffisent pour que leur hérésie tombe avec la Bible qu'ils apportent à la porte.</p>
+
+            <p>L'autre front est à l'intérieur. Le catholique qui va à la messe par habitude, ne sait pas ce qu'il croit et hausse les épaules quand on attaque sa foi devant lui laisse la porte ouverte à la secte. Ceux qui sonnent à la porte ne gagnent pas des débats : ils gagnent des silences.</p>
 
             <div class="scripture-block">
                 <span class="scripture-ref">✝︎ Apocalypse 3,15-16</span>
                 <blockquote>«Je connais tes œuvres : tu n'es ni froid ni bouillant. Ah ! si tu étais froid ou bouillant ! Mais parce que tu es tiède, et non froid ou bouillant, je vais te vomir de ma bouche.»</blockquote>
             </div>
 
-            <p>Un tiède ne défend rien, n'explique rien, ne convainc personne. Au moins celui qui croit quelque chose de faux a quelque chose à offrir.</p>
+            <p>Défendre la foi est un ordre, et il vaut pour tous :</p>
 
-            <p>Et les protestants se présentent. Ils se présentent toujours. Les Témoins de Jéhovah, les pentecôtistes, les adventistes, les mormons, chaque secte avec sa version tronquée de l'Écriture et sa certitude empruntée. Ici vous trouverez une réponse à ces sectes, sur leur propre terrain, avec leur propre arme : la Bible. Les livres deutérocanoniques, qu'ils ont arrachés de leurs traductions sans en avoir l'autorité, sont Parole de Dieu autant que les autres. Mais quand je leur réponds, je ne les cite pas : j'utilise seulement les livres qu'ils acceptent eux-mêmes, pour que personne ne puisse répliquer « ce n'est pas dans la Bible » ou « ce sont les catholiques qui l'ont ajouté ». Avec la Bible bien lue, les Pères de l'Église, le Magistère, le Catéchisme, et la raison que Dieu nous a donnée en cadeau.</p>
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 1 Pierre 3,15</span>
+                <blockquote>« Honorez dans vos cœurs la sainteté du Seigneur, le Christ. <strong class="s-hi">Soyez prêts à tout moment à présenter une défense devant quiconque vous demande de rendre raison de l'espérance qui est en vous</strong>. »</blockquote>
+            </div>
 
-            <p>Ma principale inspiration dans ce travail est le Père Luis Toro. Ce qu'il fait en parlant, j'essaie de le faire en écrivant, dans les langues et pour les lecteurs qu'il n'atteint pas.</p>
+            <p>Mon inspiration dans ce travail est le Père Luis Toro. Ce qu'il fait en parlant, j'essaie de le faire en écrivant, en douze langues et pour des lecteurs qu'il n'atteint pas. Ce qu'il y a ici, à fond et sans concessions, se trouve aussi dans mon livre <em>Faith and Reason</em>.</p>
 
-            <p>Je n'écris pas pour gagner des discussions. J'écris pour que celui qui doute seul dans la nuit ait quelque chose de sérieux à portée de main quand vient son tour de défendre sa foi — ou quand vient son tour de la trouver pour la première fois.</p>
+            <p>Je n'écris pas pour gagner des débats. J'écris parce que la lettre de Jacques dit à quoi cela sert :</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ Jacques 5,20</span>
+                <blockquote>« Sachez-le : <strong class="s-hi">celui qui ramène un pécheur du chemin où il s'égarait sauvera de la mort l'âme de ce pécheur</strong> et couvrira une multitude de péchés. »</blockquote>
+            </div>
 
             <p class="about-signature">M. Gabriel Castiglia</p>`
     }

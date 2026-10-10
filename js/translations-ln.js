@@ -1108,10 +1108,10 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       sec4b: {
         badge: "Buku ya sika",
         title: "Faith and Reason<span class='rec-book-subtitle'>Always Ready to Give an Answer</span>",
-        epigraph: "“Bózala ntango nyonso na bobongi ya koyanola moto nyonso oyo akotuna bino ntina ya elikya oyo ezali na kati na bino.”",
-        epigraphRef: "1 Petelo 3:15",
-        desc: "Soki Nzambe alobaki, wapi maloba na ye ezali, mpe nani azali kobatela yango? Buku oyo ezongiseli na mikanda na loboko: Biblia oyo bamemaka na monoko ya ndako na yo, bondimi ya lisangá moko na moko mpe nkasa na bango moko ya leta. Baprotestanti, Baadventiste, Batatoli ya Yehova, Bamormon mpe bato ya bokabwani na ndenge nyonso, moko moko. Mpe lokola Makomami ezali kolimbola yango moko te, buku oyo ekolimbola yango na makanisi na yango moko te: etangaka yango elongo na Batata ya Eklezia, oyo bazwaki yango epai ya bantoma, mpe elongo na Magisterium, oyo ebatelaka yango kobanda wana.",
-        close: "Ezali kokoba nzela oyo The False Door etikaki na monoko ya ekuke.",
+        epigraph: "“Be <strong>ready always to give an answer</strong> to every man that asketh you a reason of the hope that is in you with meekness and fear.”",
+        epigraphRef: "1 Petelo 3:15 · Biblia ya King James",
+        epigraphNote: "Motó ya mibale ezwi maloba na yango na Biblia ya King James (1611), Biblia ya baprotestanti oyo balobaka lingelesi.",
+        desc: "<p>Kotimola na bozindo na liteya moko na moko mpo na komona soki mai ya pɛto to potopoto nde ebimaka ezali mosala ya makasi. Kasi ekoki kosalema, mpe ebongi, mpo ezali kaka te na ntina ya bomoi oyo, kasi soki bomoi mosusu ezali mpe esimbami na nini.</p><p>Na buku na ngai ya liboso, “The False Door: Reason Against Modern Occultism”, nalobelaki nzela oyo nalandaki ntango nazalaki koluka eyano yango. Buku wana esilaki na ekuke ya boklisto, mpe natelemaki wana.</p><p>“Faith and Reason” efungolaka ekuke yango. Ebandaka na oyo buku ya liboso etiaki polele: mayele mpe bilembeteli eyebisaka biso ete Nzambe azali. Kobanda wana ekobaka na motuna oyo elandi: soki Nzambe alobaki, wapi oyo alobaki ezali, mpe nani azali kobatela yango? Ezongisaka eyano na mikanda na loboko: Biblia oyo bamemelaka yo na ekuke ya ndako na yo mpe ndimbola ya kondima ya lisangá moko na moko ya herezi, elongo na mabunga na yango oyo elimbolami.</p><p>Makomami elimbolaka yango moko te, mpe yango moko elobi bongo: “esakweli moko te ya Makomami ezali ndimbola ya moto ye moko” (2 Petelo 1:20). Lisangá nyonso oyo ebetaka ekuke etángaka Biblia moko mpe ebimisaka na kati na yango liteya ya ndenge mosusu. Yango wana buku oyo elimbolaka yango na ndenge na yango moko te: etángaka yango elongo na Batata ya Eklezya, oyo bazwaki yango epai ya bapostolo, mpe elongo na Magisterium, oyo ebatelaka yango banda wana.</p><p>Soki otikalaki na ekuke ya buku ya liboso, tala nzela oyo etikali. Mpe soki ozali komituna mpo na nini kokoma buku ya boye, eyano ezali na mokanda ya Yakobo: “kondima, soki ezali na misala te, ekufi na yango moko” (2:17), mpe “moto oyo azongisi mosumuki na libunga ya nzela na ye akobikisa molimo na ye na liwa mpe akozipa masumu ebele” (5:20).</p>",
         factFormats: "Mokanda ya pete na langi mpe mokanda makasi na langi ya kitoko",
         soonLabel: "Kala mingi te na Amazon",
         sameAuthor: "Ya mokomi moko",
@@ -1188,23 +1188,41 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
             <p>Mobembo na kati ya filozofi oyo etikali te — na Eklesia oyo etikali.</p>
             <a href="temas.html" class="btn-outline-white">Zonga na Misala</a>
             <a href="privacidad.html" class="btn-outline-white btn-hero-extra">Bomoi ya nkuku</a>`,
-      article: `<p>Nakómaki na katolisisme nsima ya mobembo molayi. Nalendaki makambo nyonso: okultisime mpe esoterisime, bibanga oyo babengaka <!-- TODO: verificar terminología "Tablas Esmeralda" en Lingala -->Matáblô ya Zumurudi, filozofi ya Azia, Nietzsche, baepikuriste. Natelemaki biyano na bisika nyonso kasi nazokaki kozua ata moko oyo etikali. Stoisisime ezalaki eloko ya nsuka oyo epesaki ngai eloko ya solosolo liboso ya Kristu — Seneka, Marko Orélio, Epiktéto balakisamaki ngai kotala solo na miso milamu. Mpe kolanda solo na miso milamu, nakómi esika mpe nazalaki kolinga te: liboso ya Eklesia Katolike.</p>
+      article: `<p>Biyano oyo etelemaka te, nayebi yango mpo natángaki yango. Okultisime na mitindo na yango mingi, siansi ya sika, moto-monene ya Nietzsche: moko te akokaki komeme kilo ya motuna. Filozofi ya Stoiki ezalaki eloko ya nsuka ya solosolo liboso ya Klisto, mpe kobanda wana, kotala solo kozanga kobuna miso, nakómaki na Eklezya Katolike. Nzela yango elobelami na <em>The False Door: Reason Against Modern Occultism</em>, buku oyo ekendaka na motema molai elongo na moto oyo azali naino koluka mpe etelemaka na ekuke ya boklisto.</p>
 
-            <p>Site oyo ezali mpo na yo soki ozali na moko ya bisika oyo: ozali na elikia te mpo na kondima oyo ozwaki mpe oyebi te moto asengeli kopesa biso biyano; ozali koluka na kati ya miteya kasi moto moko te apesi yo eyano eyo ekoki kobomba mokumba; oblesi kobongola kondima mpe omoni yo moko, kozanga mowateli, kobandwama na bapangi ya zikisa nyonso. Nayebi esika yango. Nazalaki kuna. Mpe nayebi eloko oyo ezali zingazinga: Bakatoli ya kala oyo bazwaka mpo na polele eloko oyo basengeli komonisa mpe bayebi te kolakisa yango; mpe oyo ya mabe koleka, Bakatoli ya <!-- TODO: verificar terminología "tibio" (en sentido de Apocalipsis) en Lingala -->vuguvugu — oyo bakei na Misa na mokolo na mokolo, bayebi te nini bakredeli, babatelaka eloko te, mpe bazali ba liboso kobimisa maapi tango moto abwakeli kondima liboso na bango.</p>
+            <p>Site oyo ebandaka epai buku wana esilaka. Soki Nzambe alobaki, oyo alobaki ezali esika moko mpe moto moko azali kobatela yango. Likambo moko na moko ya site oyo ezwaka liteya moko ya Katolike kati na oyo babundisaka na ekuke ya ndako mpe endimisaka yango na Makomami na loboko, oyo etángami lokola Batata ya Eklezya batángaki yango, bango oyo bazwaki yango epai ya bapostolo, mpe lokola Magisterium ebatelaka yango banda wana.</p>
 
-            <!-- TODO: verificar cita bíblica Apocalipsis 3,15-16 con traducción católica de Lingala -->
+            <p>Masangá ya baprotestanti batángaka Biblia moko mpe babimisaka na kati na yango mateya oyo ewelanaka. Ekokaki kozala ndenge mosusu te, mpo Makomami esilaki kokebisa yango:</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 2 Petelo 1:20</span>
+                <blockquote>«Boyeba liboso likambo oyo: <strong class="s-hi">esakweli moko te ya Makomami ezali ndimbola ya moto ye moko</strong>.»</blockquote>
+            </div>
+
+            <p>Moko na moko ezali kolimbola yango na ndenge na yango moko, mpe oyo ebimaka wana, soki ezali kowangana dogme, ezali na nkombo: herezi. Awa babengaka yango bongo mpe bazongiselaka yango eyano na mabelé na yango moko. Mikanda ya Deuterokanoniki ezali Liloba ya Nzambe ndenge moko na mikanda mosusu, kasi na biyano batángaka yango te: mikanda oyo bango moko bandimaka ekoki mpo herezi na bango ekweya na Biblia oyo bamemaka na ekuke.</p>
+
+            <p>Etumba mosusu ezali na kati. Mokatolike oyo akendaka na Misa na momeseno, ayebi te nini andimaka mpe abetaka mapeka tango babundisi kondima na ye liboso na ye, atikelaka lisangá ekuke polele. Baoyo babetaka ngonga balongaka bowelani te: balongaka kimya.</p>
+
             <div class="scripture-block">
                 <span class="scripture-ref">✝︎ Apokalise 3,15-16</span>
                 <blockquote>«Nayebi misala na yo: ozali na pôfumu te mpe na molili te. Nakombaki soki ozali na pôfumu to na molili! Kasi pamba te ozali na vuguvugu — to na pôfumu to na molili te — nakobwaka yo na monoko na ngai.»</blockquote>
             </div>
 
-            <p>Mokatoli ya vuguvugu abatelaka eloko te, akombolaka eloko te, akonzaka moto moko te. Kaka oyo akredeli eloko ya boma azali na eloko ya kopesa.</p>
+            <p>Kobatela kondima ezali mobeko, mpe ezali mpo na bato nyonso:</p>
 
-            <p>Mpe Baprolestante bayaki. Bayaki ntango nyonso. Batatoli ya Yehova, Bapentekoti, Baadventiste, Bamormon, biso nyonso na <!-- TODO: verificar terminología "secta" en Lingala -->version ya bonene te ya Makomami mpe sûreté ya kokopama. Awa okozua eyano mpo na biso bya kondima yango, na mabele na bango moko, na efundola na bango moko: Biblia. Babuku ya deutérokanonike, oyo balongolaki na babongoli na bango kozanga bokonzi, ezali Liloba ya Nzambe lokola mosusu. Kasi ntango nazongiselaka bango, nalobelaka yango te: nasalelaka kaka babuku oyo bango moko bandimaka, mpo moto moko te aloba «yango ezali na Biblia te» to «Bakatolike nde babakisaki yango». Na Biblia oyo olandaka malamu, <!-- TODO: verificar terminología "Padres de la Iglesia" en Lingala -->Batata ya Eklesia, <!-- TODO: verificar terminología Magisterio en Lingala -->Mazisterio, <!-- TODO: verificar terminología Catecismo en Lingala -->Katéchisime, mpe mayele oyo Nzambe apesaki biso liboso.</p>
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ 1 Petelo 3:15</span>
+                <blockquote>«Kasi bóbulisa Klisto Nkolo na mitema na bino. <strong class="s-hi">Bózala ntango nyonso na bobongi ya koyanola moto nyonso oyo akotuna bino ntina ya elikya oyo ezali na kati na bino</strong>.»</blockquote>
+            </div>
 
-            <p>Motindo na ngai ya liboso na mosala oyo ezali Tata Luisi Toro. Eloko oyo asalaka na koloba, nami nalingi kosala na kokomela, na minoko mpe mpo na balandi oyo ayokaka te.</p>
+            <p>Eloko oyo epesaka ngai makasi na mosala oyo ezali Tata Luisi Toro. Oyo ye asalaka na koloba, ngai nameki kosala yango na kokoma, na minoko zomi na mibale mpe mpo na batángi oyo ye akomaka te. Oyo ezali awa, na bozindo mpe kozanga kokitisa, ezali mpe na buku na ngai <em>Faith and Reason</em>.</p>
 
-            <p>Nakomaka te mpo na kobela bilobeli. Nakomaka mpo ete moto oyo abondeli ye moko na butu azala na eloko ya solosolo na loboko tango ekolela kondima na ye — to tango ekolela koyeba yango mbala ya liboso.</p>
+            <p>Nakomaka te mpo na kolonga bowelani. Nakomaka mpo mokanda ya Yakobo elobi mpo na nini likambo oyo ezali:</p>
+
+            <div class="scripture-block">
+                <span class="scripture-ref">✝︎ Yakobo 5:20</span>
+                <blockquote>«Ayeba ete <strong class="s-hi">moto oyo azongisi mosumuki na libunga ya nzela na ye akobikisa molimo na ye na liwa</strong> mpe akozipa masumu ebele.»</blockquote>
+            </div>
 
             <p class="about-signature">M. Gabriel Castiglia</p>`
     }
