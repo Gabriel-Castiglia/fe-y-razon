@@ -139,14 +139,20 @@
         position: relative; border-radius: 16px; overflow: hidden;
         height: 380px; display: flex; align-items: stretch;
         box-shadow: 0 8px 40px rgba(0,0,0,.25);
+        transition: transform .25s, box-shadow .25s;
       }
+      /* La misma animación que las demás tarjetas al pasar el cursor (13-oct-2026). */
+      .rec-vatican:hover { transform: translateY(-5px); box-shadow: 0 14px 48px rgba(0,0,0,.34); }
       .rec-vatican > img {
         position: absolute;
         inset: 0 0 0 auto;
         width: auto;
         height: 100%;
         object-fit: cover;
+        transform-origin: right center;
+        transition: transform .4s;
       }
+      .rec-vatican:hover > img { transform: scale(1.04); }
       .rec-vatican-overlay {
         position: absolute; inset: 0;
         background: linear-gradient(105deg, rgba(8,4,2,.88) 0%, rgba(8,4,2,.6) 55%, rgba(8,4,2,.15) 100%);
