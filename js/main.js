@@ -131,6 +131,43 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
+  // 2b. MENÚ COMPACTO. Si los ítems no entran en una línea (idiomas de palabras largas
+  // en anchos intermedios), el encabezado usa el menú del celular: header.nav-compact en
+  // style.css. Se mide al cargar, al cambiar el ancho o el idioma y cuando llegan las fuentes.
+  if (hamburger && navList) {
+    const logo = header.querySelector('.logo');
+    const idioma = document.getElementById('lang-dropdown');
+    const GAP = 32;        // nav ul { gap } de escritorio
+    const AIRE = 24;       // mínimo entre el menú y el logo o el selector de idioma
+    const cerrarMenu = () => {
+      navList.classList.remove('open');
+      hamburger.classList.remove('open');
+      hamburger.setAttribute('aria-expanded', 'false');
+      document.body.classList.remove('no-scroll');
+      header.classList.remove('nav-open');
+    };
+    const ajustarMenu = () => {
+      if (header.classList.contains('nav-open')) return;   // abierto, la letra es otra
+      let compacto = false;
+      if (window.innerWidth > 900 && logo && idioma) {
+        const items = [...navList.children];
+        const necesita = items.reduce((s, li) => s + li.getBoundingClientRect().width, 0) + GAP * (items.length - 1);
+        const cs = getComputedStyle(header);
+        const disponible = header.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight)
+          - logo.getBoundingClientRect().width - idioma.getBoundingClientRect().width - 2 * AIRE;
+        compacto = necesita > disponible;
+      }
+      if (!compacto && header.classList.contains('nav-compact')) cerrarMenu();
+      header.classList.toggle('nav-compact', compacto);
+    };
+    let pendiente = 0;
+    const pedirAjuste = () => { cancelAnimationFrame(pendiente); pendiente = requestAnimationFrame(ajustarMenu); };
+    ajustarMenu();
+    window.addEventListener('resize', pedirAjuste);
+    document.addEventListener('langChange', pedirAjuste);
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(pedirAjuste);
+  }
+
   // 3 & 4. CICLO DE VIDEO (Hero y Contacto)
   // VideoManager encapsula el crossfade infinito reutilizable para cualquier grupo de videos.
 

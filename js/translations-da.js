@@ -7,6 +7,7 @@ const translationsDA = {
     mission: "Mission",
     contact: "Kontakt",
     usefulPages: "Anbefalede ressourcer",
+    author: "Forfatteren",
     about: "Om"
   },
   hero: {
@@ -1262,6 +1263,75 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       }
     },
     "recursos-recomendados": {
+      // Los libros del autor tienen su propia página desde el 12-oct-2026: del-autor.html.
+      authorEyebrow: "Fra forfatteren af dette websted",
+      authorText: "Bøgerne af M. Gabriel Castiglia, forfatteren til dette websted, har deres egen side.",
+      authorButton: "Se bøgerne →",
+      // Vade Retro (13-oct-2026): Luis María Piccinali aceptó por correo el 9-oct.
+      vadeRetro: {
+        eyebrow: "Podcast · Dokumentarer",
+        tag: "Italien · Luis María Piccinali · På spansk",
+        desc: "VADE RETRO undersøger og fremlægger vidnesbyrd om den åndelige kamp, der går gennem historien, politikken, kulturen og hverdagslivet, altid ud fra den katolske tro, produceret af Luis Piccinali. Produktionsselskabet Dominus Estudios forbereder også dokumentarserien »Asesinato en el Grado 33«, baseret på bogen af p. Charles T. Murr om undersøgelsen af Den Romerske Kurie i 1977.",
+        epLabel: "Begynd her"
+      },
+      sec5: {
+        eyebrow: "Juridisk meddelelse",
+        title: "Ophavsret",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Alle rettigheder forbeholdes.</strong> Teksterne, artiklerne og oversættelserne på dette websted er forfatterens originale værk og er beskyttet af ophavsretslovgivningen og af de internationale traktater på området.",
+        p2: "Gengivelse, kopiering, distribution, offentliggørelse, oversættelse eller bearbejdning, helt eller delvist og med et hvilket som helst middel, er <strong>forbudt</strong> uden forfatterens forudgående skriftlige tilladelse. Korte passager må citeres til studie eller kommentar, forudsat at forfatteren angives, og at der linkes til denne side.",
+        p4: "De kanaler, bøger, billeder og websteder, der anbefales på denne side, tilhører deres respektive ophavsmænd og rettighedshavere. Der linkes til dem udelukkende som anbefaling, uden kommerciel forbindelse eller vederlag af nogen art."
+      },
+      pageTitle: "Venlige Sider | Tro og Fornuft",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Ressourcer</span>
+            </div>
+            <h1>Venlige Sider</h1>
+            <p>Pålidelige kilder til at uddybe, lære og dele den katolske tro.</p>
+            <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
+      labels: {
+        bible: "Den Hellige Skrift →",
+        catechism: "Katekismus →",
+        website: "Websted →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "På spansk →",
+        toroCountry: "Venezuela",
+        oliveraCountry: "Argentina · QNTLC",
+        heraldosTag: "Ecuador"
+      },
+      sec1: { eyebrow: "Den Hellige Stol", title: "Vatikanske kilder", desc: "Officielle kirkelige dokumenter, tilgængelige på Den Hellige Stols websted." },
+      sec2: {
+        eyebrow: "Apologetik · Dannelse", title: "Præster og undervisere", desc: "Stemmer, der er tro mod Læreembedet, og som underviser i, forsvarer og forkynder troen med dybde og grundighed.",
+        toro:    { desc: "Teolog og apologet. Besvarer de sværeste indvendinger mod den katolske tro med stor dybde." },
+        olivera: { desc: "Augustinsk historiker og apologet. Tager fat på rationalisme, sekter og moderne vildfarelser med grundighed." },
+        montfort: { tag: "Frankrig · ca. 1712", title: "Traktat om den sande andagt til Den Hellige Jomfru", author: "Sankt Louis-Marie Grignion de Montfort", desc: "Det klassiske værk om indvielsen til Jesus gennem Maria. Komplet udgave i PDF, på engelsk.", ed1: "PDF på engelsk →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
+      },
+      sec3: {
+        eyebrow: "Apostolater · Medier", title: "Apostolater og katolske medier",
+        vaticannews: { desc: "Den Hellige Stols officielle nyhedsportal. Nyheder om paven og den universelle Kirke med direkte transmission af de pavelige liturgier.", tag: "Den Hellige Stol · Nyheder", ytEs: "YouTube på spansk →", ytEn: "YouTube på engelsk →" },
+        heraldos: { desc: "Missionærsk apostolat. Dannelse, katekese og evangelisering tro mod Traditionen." },
+        rugged:   { desc: "Smukke håndlavede rosenkranse og forskellige trosartikler af høj kvalitet med international forsendelse.", tag: "USA" },
+        grat:     { desc: "Jerusalems Bibel på engelsk eller latinamerikansk spansk (for andre sprog, tjek den officielle side). Med en unik studieplan med trin-for-trin forklaringer og grafik, ideel til neofytter.", tag: "Bibel · Dannelse" },
+        ewtn:     { desc: "Verdens største katolske tv-netværk. Daglig messe, Den hellige rosenkrans, dokumentarer og dannelse døgnet rundt.", tag: "TV · Radio" }
+      },
+      nav: {
+        prevTitle: "Peters primat",
+        nextTitle: "Præstedømmet i den katolske kirke"
+      }
+    },
+    // Página «Del autor» (12-oct-2026). sec4 (La puerta falsa), sec4b (Fe y Razón) y
+    // rights.p3 vinieron de «recursos-recomendados» sin cambios.
+    "del-autor": {
+      pageTitle: "Forfatteren | Tro og Fornuft",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">M. Gabriel Castiglia</span>
+            </div>
+            <h1>Forfatteren</h1>
+            <p>Bøger af forfatteren til dette websted.</p>
+            <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
+      booksEyebrow: "Bøger",
       sec4: {
         epigraph: "„Af de ting, som er, afhænger nogle af os; andre gør ikke.“",
         epigraphAuthor: "Epiktet",
@@ -1307,51 +1377,10 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
       },
-      sec5: {
+      rights: {
         eyebrow: "Juridisk meddelelse",
         title: "Ophavsret",
-        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Alle rettigheder forbeholdes.</strong> Teksterne, artiklerne og oversættelserne på dette websted er forfatterens originale værk og er beskyttet af ophavsretslovgivningen og af de internationale traktater på området.",
-        p2: "Gengivelse, kopiering, distribution, offentliggørelse, oversættelse eller bearbejdning, helt eller delvist og med et hvilket som helst middel, er <strong>forbudt</strong> uden forfatterens forudgående skriftlige tilladelse. Korte passager må citeres til studie eller kommentar, forudsat at forfatteren angives, og at der linkes til denne side.",
-        p3: "<strong>The False Door</strong> og alle dens udgaver er forfatterens registrerede værk: teksten, titlen og omslaget må ikke gengives eller anvendes uden tilladelse.",
-        p4: "De kanaler, bøger, billeder og websteder, der anbefales på denne side, tilhører deres respektive ophavsmænd og rettighedshavere. Der linkes til dem udelukkende som anbefaling, uden kommerciel forbindelse eller vederlag af nogen art."
-      },
-      pageTitle: "Venlige Sider | Tro og Fornuft",
-      hero: `<div class="hero-eyebrow">
-                <span class="eyebrow-line"></span>
-                <span class="eyebrow-text">Ressourcer</span>
-            </div>
-            <h1>Venlige Sider</h1>
-            <p>Pålidelige kilder til at uddybe, lære og dele den katolske tro.</p>
-            <a href="temas.html" class="btn-outline-white">Tilbage til emner</a>`,
-      labels: {
-        bible: "Den Hellige Skrift →",
-        catechism: "Katekismus →",
-        website: "Websted →",
-        youtube: "YouTube →",
-        greatAdventure: "Great Adventure →",
-        inSpanish: "På spansk →",
-        toroCountry: "Venezuela",
-        oliveraCountry: "Argentina · QNTLC",
-        heraldosTag: "Ecuador"
-      },
-      sec1: { eyebrow: "Den Hellige Stol", title: "Vatikanske kilder", desc: "Officielle kirkelige dokumenter, tilgængelige på Den Hellige Stols websted." },
-      sec2: {
-        eyebrow: "Apologetik · Dannelse", title: "Præster og undervisere", desc: "Stemmer, der er tro mod Læreembedet, og som underviser i, forsvarer og forkynder troen med dybde og grundighed.",
-        toro:    { desc: "Teolog og apologet. Besvarer de sværeste indvendinger mod den katolske tro med stor dybde." },
-        olivera: { desc: "Augustinsk historiker og apologet. Tager fat på rationalisme, sekter og moderne vildfarelser med grundighed." },
-        montfort: { tag: "Frankrig · ca. 1712", title: "Traktat om den sande andagt til Den Hellige Jomfru", author: "Sankt Louis-Marie Grignion de Montfort", desc: "Det klassiske værk om indvielsen til Jesus gennem Maria. Komplet udgave i PDF, på engelsk.", ed1: "PDF på engelsk →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
-      },
-      sec3: {
-        eyebrow: "Apostolater · Medier", title: "Apostolater og katolske medier",
-        vaticannews: { desc: "Den Hellige Stols officielle nyhedsportal. Nyheder om paven og den universelle Kirke med direkte transmission af de pavelige liturgier.", tag: "Den Hellige Stol · Nyheder", ytEs: "YouTube på spansk →", ytEn: "YouTube på engelsk →" },
-        heraldos: { desc: "Missionærsk apostolat. Dannelse, katekese og evangelisering tro mod Traditionen." },
-        rugged:   { desc: "Smukke håndlavede rosenkranse og forskellige trosartikler af høj kvalitet med international forsendelse.", tag: "USA" },
-        grat:     { desc: "Jerusalems Bibel på engelsk eller latinamerikansk spansk (for andre sprog, tjek den officielle side). Med en unik studieplan med trin-for-trin forklaringer og grafik, ideel til neofytter.", tag: "Bibel · Dannelse" },
-        ewtn:     { desc: "Verdens største katolske tv-netværk. Daglig messe, Den hellige rosenkrans, dokumentarer og dannelse døgnet rundt.", tag: "TV · Radio" }
-      },
-      nav: {
-        prevTitle: "Peters primat",
-        nextTitle: "Præstedømmet i den katolske kirke"
+        p3: "<strong>The False Door</strong> og <strong>Faith and Reason</strong> er i alle deres udgaver forfatterens registrerede værker: tekster, titler og omslag må ikke gengives eller anvendes uden tilladelse."
       }
     },
     "privacidad": {

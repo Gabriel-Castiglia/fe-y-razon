@@ -12,6 +12,7 @@ const translationsLA = {
     mission: "Missio",
     contact: "Contactus",
     usefulPages: "Subsidia Commendanda",
+    author: "De Auctore",
     about: "De Nobis"
   },
   hero: {
@@ -1268,6 +1269,75 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
       }
     },
     "recursos-recomendados": {
+      // Los libros del autor tienen su propia página desde el 12-oct-2026: del-autor.html.
+      authorEyebrow: "Ab auctore huius situs",
+      authorText: "Libri M. Gabrielis Castiglia, auctoris huius situs, propriam paginam habent.",
+      authorButton: "Libros vide →",
+      // Vade Retro (13-oct-2026): Luis María Piccinali aceptó por correo el 9-oct.
+      vadeRetro: {
+        eyebrow: "Podcast · Documentaria",
+        tag: "Italia · Ludovicus Maria Piccinali · Hispanice",
+        desc: "VADE RETRO testimonia de proelio spirituali, quod per historiam, rem publicam, cultum vitamque cotidianam transit, semper ex fide catholica investigat et profert; a Ludovico Piccinali productum est. Officina eius, Dominus Estudios, etiam seriem documentariam «Asesinato en el Grado 33» parat, ex libro P. Caroli T. Murr de inquisitione in Curia Romana anno 1977 facta.",
+        epLabel: "Hinc incipe"
+      },
+      sec5: {
+        eyebrow: "Monitum iuridicum",
+        title: "Ius auctoris",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Omnia iura reservantur.</strong> Textus, commentationes et translationes huius situs opus originale auctoris sunt et lege de iure auctoris atque pactionibus internationalibus muniuntur.",
+        p2: "<strong>Vetatur</strong> reproductio, exscriptio, distributio, publicatio, translatio vel accommodatio, sive tota sive ex parte, quocumque modo, sine praevia auctoris licentia scripta. Breves locos afferre licet studii aut commentarii causa, dummodo auctor indicetur et ad hanc paginam remittatur.",
+        p4: "Canales, libri, imagines et situs in hac pagina commendati ad suos quisque auctores et dominos pertinent. Commendationis tantum causa nectuntur, nullo commercio nullaque mercede."
+      },
+      pageTitle: "Subsidia Commendanda | Fides et Ratio",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Subsidia</span>
+            </div>
+            <h1>Subsidia Commendanda</h1>
+            <p>Fontes fideles ad approfundandam, discendam et communicandam fidem catholicam.</p>
+            <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
+      labels: {
+        bible: "Sacra Scriptura →",
+        catechism: "Catechismus →",
+        website: "Situs interretialis →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "Hispanice →",
+        toroCountry: "Venetiola",
+        oliveraCountry: "Argentina · QNTLC",
+        heraldosTag: "Aequatoria"
+      },
+      sec1: { eyebrow: "Sancta Sedes", title: "Fontes Vaticani", desc: "Documenta officialia Ecclesiae, in situ Sanctae Sedis praesto." },
+      sec2: {
+        eyebrow: "Apologetica · Formatio", title: "Sacerdotes et Formatores", desc: "Voces Magisterio fideles quae fidem cum profunditate et rigore docent, defendunt et proclamant.",
+        toro:    { desc: "Theologus et apologeta. Obiectiones difficillimas fidei catholicae cum profunditate respondet." },
+        olivera: { desc: "Historicus et apologeta augustinianus. Rationalismum, sectas et errores modernos cum rigore tractat." },
+        montfort: { tag: "Gallia · c. MDCCXII", title: "Tractatus de vera devotione erga Beatam Virginem", author: "S. Ludovicus Maria Grignion de Montfort", desc: "Opus classicum de consecratione Iesu per Mariam. Editio integra in forma PDF, Anglice.", ed1: "PDF Anglice →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
+      },
+      sec3: {
+        eyebrow: "Apostolatus · Media", title: "Apostolatus et Media Catholica",
+        vaticannews: { desc: "Portale nuntiorum officiale Sanctae Sedis. Nuntii de Summo Pontifice et de Ecclesia universali, cum celebrationum pontificalium transmissione directa.", tag: "Sancta Sedes · Nuntii", ytEs: "YouTube Hispanice →", ytEn: "YouTube Anglice →" },
+        heraldos: { desc: "Apostolatus missionarius. Formatio, catechesis et evangelizatio Traditioni fidelis." },
+        rugged:   { desc: "Pulcherrimae coronae pretiose factae manibus et varia fidei articulis magnae qualitatis cum missione internationali.", tag: "Civitates Foederatae" },
+        grat:     { desc: "Biblia Hierosolymitana anglice vel hispanice (pro aliis linguis paginam officialem verifica). Cum unico consilio studii continente explicationes gradatim et graphica, neophytis aptissima.", tag: "Biblia · Formatio" },
+        ewtn:     { desc: "Maxima retis televisificae catholicae in mundo. Missa cotidiana, Sacrum Rosarium, documenta et formatio viginti quattuor horis.", tag: "Televisio · Radio" }
+      },
+      nav: {
+        prevTitle: "Primatus Petri",
+        nextTitle: "Sacerdotium in Ecclesia Catholica"
+      }
+    },
+    // Página «Del autor» (12-oct-2026). sec4 (La puerta falsa), sec4b (Fe y Razón) y
+    // rights.p3 vinieron de «recursos-recomendados» sin cambios.
+    "del-autor": {
+      pageTitle: "De Auctore | Fides et Ratio",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">M. Gabriel Castiglia</span>
+            </div>
+            <h1>De Auctore</h1>
+            <p>Libri auctoris huius situs.</p>
+            <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
+      booksEyebrow: "Libri",
       sec4: {
         epigraph: "«Eorum quae sunt, alia in nostra potestate sunt, alia non.»",
         epigraphAuthor: "Epictetus",
@@ -1313,51 +1383,10 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
       },
-      sec5: {
+      rights: {
         eyebrow: "Monitum iuridicum",
         title: "Ius auctoris",
-        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Omnia iura reservantur.</strong> Textus, commentationes et translationes huius situs opus originale auctoris sunt et lege de iure auctoris atque pactionibus internationalibus muniuntur.",
-        p2: "<strong>Vetatur</strong> reproductio, exscriptio, distributio, publicatio, translatio vel accommodatio, sive tota sive ex parte, quocumque modo, sine praevia auctoris licentia scripta. Breves locos afferre licet studii aut commentarii causa, dummodo auctor indicetur et ad hanc paginam remittatur.",
-        p3: "<strong>The False Door</strong> omnesque eius editiones opus auctoris inscriptum sunt: textus, titulus et tegumentum sine licentia neque reproduci neque adhiberi possunt.",
-        p4: "Canales, libri, imagines et situs in hac pagina commendati ad suos quisque auctores et dominos pertinent. Commendationis tantum causa nectuntur, nullo commercio nullaque mercede."
-      },
-      pageTitle: "Subsidia Commendanda | Fides et Ratio",
-      hero: `<div class="hero-eyebrow">
-                <span class="eyebrow-line"></span>
-                <span class="eyebrow-text">Subsidia</span>
-            </div>
-            <h1>Subsidia Commendanda</h1>
-            <p>Fontes fideles ad approfundandam, discendam et communicandam fidem catholicam.</p>
-            <a href="temas.html" class="btn-outline-white">Ad Themata reverti</a>`,
-      labels: {
-        bible: "Sacra Scriptura →",
-        catechism: "Catechismus →",
-        website: "Situs interretialis →",
-        youtube: "YouTube →",
-        greatAdventure: "Great Adventure →",
-        inSpanish: "Hispanice →",
-        toroCountry: "Venetiola",
-        oliveraCountry: "Argentina · QNTLC",
-        heraldosTag: "Aequatoria"
-      },
-      sec1: { eyebrow: "Sancta Sedes", title: "Fontes Vaticani", desc: "Documenta officialia Ecclesiae, in situ Sanctae Sedis praesto." },
-      sec2: {
-        eyebrow: "Apologetica · Formatio", title: "Sacerdotes et Formatores", desc: "Voces Magisterio fideles quae fidem cum profunditate et rigore docent, defendunt et proclamant.",
-        toro:    { desc: "Theologus et apologeta. Obiectiones difficillimas fidei catholicae cum profunditate respondet." },
-        olivera: { desc: "Historicus et apologeta augustinianus. Rationalismum, sectas et errores modernos cum rigore tractat." },
-        montfort: { tag: "Gallia · c. MDCCXII", title: "Tractatus de vera devotione erga Beatam Virginem", author: "S. Ludovicus Maria Grignion de Montfort", desc: "Opus classicum de consecratione Iesu per Mariam. Editio integra in forma PDF, Anglice.", ed1: "PDF Anglice →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
-      },
-      sec3: {
-        eyebrow: "Apostolatus · Media", title: "Apostolatus et Media Catholica",
-        vaticannews: { desc: "Portale nuntiorum officiale Sanctae Sedis. Nuntii de Summo Pontifice et de Ecclesia universali, cum celebrationum pontificalium transmissione directa.", tag: "Sancta Sedes · Nuntii", ytEs: "YouTube Hispanice →", ytEn: "YouTube Anglice →" },
-        heraldos: { desc: "Apostolatus missionarius. Formatio, catechesis et evangelizatio Traditioni fidelis." },
-        rugged:   { desc: "Pulcherrimae coronae pretiose factae manibus et varia fidei articulis magnae qualitatis cum missione internationali.", tag: "Civitates Foederatae" },
-        grat:     { desc: "Biblia Hierosolymitana anglice vel hispanice (pro aliis linguis paginam officialem verifica). Cum unico consilio studii continente explicationes gradatim et graphica, neophytis aptissima.", tag: "Biblia · Formatio" },
-        ewtn:     { desc: "Maxima retis televisificae catholicae in mundo. Missa cotidiana, Sacrum Rosarium, documenta et formatio viginti quattuor horis.", tag: "Televisio · Radio" }
-      },
-      nav: {
-        prevTitle: "Primatus Petri",
-        nextTitle: "Sacerdotium in Ecclesia Catholica"
+        p3: "<strong>The False Door</strong> et <strong>Faith and Reason</strong> omnesque eorum editiones opera auctoris inscripta sunt: textus, tituli et tegumenta sine licentia neque reproduci neque adhiberi possunt."
       }
     },
     "privacidad": {

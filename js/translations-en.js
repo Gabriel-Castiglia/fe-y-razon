@@ -7,6 +7,7 @@ const translationsEN = {
     mission: "Mission",
     contact: "Contact",
     usefulPages: "Recommended Resources",
+    author: "The Author",
     about: "About"
   },
   hero: {
@@ -1262,6 +1263,75 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
       }
     },
     "recursos-recomendados": {
+      // Los libros del autor tienen su propia página desde el 12-oct-2026: del-autor.html.
+      authorEyebrow: "From the author of this site",
+      authorText: "The books by M. Gabriel Castiglia, author of this site, have their own page.",
+      authorButton: "See the books →",
+      // Vade Retro (13-oct-2026): Luis María Piccinali aceptó por correo el 9-oct.
+      vadeRetro: {
+        eyebrow: "Podcast · Documentaries",
+        tag: "Italy · Luis María Piccinali · In Spanish",
+        desc: "VADE RETRO investigates and presents testimonies about the spiritual battle that runs through history, politics, culture and everyday life, always from the Catholic faith, produced by Luis Piccinali. Its production company, Dominus Estudios, is also preparing the docuseries “Asesinato en el Grado 33”, based on the book by Fr. Charles T. Murr about the 1977 investigation of the Roman Curia.",
+        epLabel: "Start here"
+      },
+      sec5: {
+        eyebrow: "Legal notice",
+        title: "Copyright",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. All rights reserved.</strong> The texts, articles and translations on this site are the author's original work and are protected by copyright law and by the international treaties on the matter.",
+        p2: "Reproduction, copying, distribution, publication, translation or adaptation, in whole or in part, by any means whatsoever, is <strong>prohibited</strong> without the author's prior written permission. Brief passages may be quoted for study or commentary, provided the author is credited and this page is linked.",
+        p4: "The channels, books, images and sites recommended on this page belong to their respective authors and owners. They are linked purely as a recommendation, with no commercial tie or compensation of any kind."
+      },
+      pageTitle: "Recommended Resources | Faith and Reason",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Resources</span>
+            </div>
+            <h1>Recommended Resources</h1>
+            <p>Trusted sources for deepening, learning, and sharing the Catholic faith.</p>
+            <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
+      labels: {
+        bible: "Sacred Scripture →",
+        catechism: "Catechism →",
+        website: "Website →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "In Spanish →",
+        toroCountry: "Venezuela",
+        oliveraCountry: "Argentina · QNTLC",
+        heraldosTag: "Ecuador"
+      },
+      sec1: { eyebrow: "Holy See", title: "Vatican Sources", desc: "Official Church documents, available on the Holy See\'s website." },
+      sec2: {
+        eyebrow: "Apologetics · Formation", title: "Priests and Educators", desc: "Voices faithful to the Magisterium who teach, defend, and proclaim the faith with depth and rigor.",
+        toro:    { desc: "Theologian and apologist. He answers the most difficult objections to the Catholic faith with great depth." },
+        olivera: { desc: "Augustinian historian and apologist. He tackles rationalism, sects, and modern errors with rigor." },
+        montfort: { tag: "France · c. 1712", title: "Treatise on True Devotion to the Blessed Virgin", author: "St. Louis-Marie Grignion de Montfort", desc: "The classic work on consecration to Jesus through Mary. Complete edition in PDF, from the Montfort Missionaries.", ed1: "Read the PDF →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
+      },
+      sec3: {
+        eyebrow: "Apostolates · Media", title: "Apostolates and Catholic Media",
+        vaticannews: { desc: "The official news portal of the Holy See. News of the Pope and of the universal Church, with live broadcasts of the papal celebrations.", tag: "Holy See · News", ytEs: "YouTube in Spanish →", ytEn: "YouTube in English →" },
+        heraldos: { desc: "Missionary apostolate. Formation, catechesis, and evangelization faithful to Tradition." },
+        rugged:   { desc: "Beautiful handmade rosaries and various high-quality faith articles with international shipping.", tag: "United States" },
+        grat:     { desc: "Jerusalem Bible in English or Latin American Spanish (for other languages check the official page). With unique study plan containing step-by-step explanations and graphics, ideal for neophytes.", tag: "Bible · Formation" },
+        ewtn:     { desc: "The world's largest Catholic television network. Daily Mass, Holy Rosary, documentaries, and formation 24 hours a day.", tag: "Television · Radio" }
+      },
+      nav: {
+        prevTitle: "The Primacy of Peter",
+        nextTitle: "The Priesthood in the Catholic Church"
+      }
+    },
+    // Página «Del autor» (12-oct-2026). sec4 (La puerta falsa), sec4b (Fe y Razón) y
+    // rights.p3 vinieron de «recursos-recomendados» sin cambios.
+    "del-autor": {
+      pageTitle: "The Author | Faith and Reason",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">M. Gabriel Castiglia</span>
+            </div>
+            <h1>The Author</h1>
+            <p>Books by the author of this site.</p>
+            <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
+      booksEyebrow: "Books",
       sec4: {
         epigraph: "“Of the things that are, some depend on us; others do not.”",
         epigraphAuthor: "Epictetus",
@@ -1307,51 +1377,10 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
       },
-      sec5: {
+      rights: {
         eyebrow: "Legal notice",
         title: "Copyright",
-        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. All rights reserved.</strong> The texts, articles and translations on this site are the author's original work and are protected by copyright law and by the international treaties on the matter.",
-        p2: "Reproduction, copying, distribution, publication, translation or adaptation, in whole or in part, by any means whatsoever, is <strong>prohibited</strong> without the author's prior written permission. Brief passages may be quoted for study or commentary, provided the author is credited and this page is linked.",
-        p3: "<strong>The False Door</strong> and all its editions are the author's registered work: its text, its title and its cover may not be reproduced or used without permission.",
-        p4: "The channels, books, images and sites recommended on this page belong to their respective authors and owners. They are linked purely as a recommendation, with no commercial tie or compensation of any kind."
-      },
-      pageTitle: "Recommended Resources | Faith and Reason",
-      hero: `<div class="hero-eyebrow">
-                <span class="eyebrow-line"></span>
-                <span class="eyebrow-text">Resources</span>
-            </div>
-            <h1>Recommended Resources</h1>
-            <p>Trusted sources for deepening, learning, and sharing the Catholic faith.</p>
-            <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
-      labels: {
-        bible: "Sacred Scripture →",
-        catechism: "Catechism →",
-        website: "Website →",
-        youtube: "YouTube →",
-        greatAdventure: "Great Adventure →",
-        inSpanish: "In Spanish →",
-        toroCountry: "Venezuela",
-        oliveraCountry: "Argentina · QNTLC",
-        heraldosTag: "Ecuador"
-      },
-      sec1: { eyebrow: "Holy See", title: "Vatican Sources", desc: "Official Church documents, available on the Holy See\'s website." },
-      sec2: {
-        eyebrow: "Apologetics · Formation", title: "Priests and Educators", desc: "Voices faithful to the Magisterium who teach, defend, and proclaim the faith with depth and rigor.",
-        toro:    { desc: "Theologian and apologist. He answers the most difficult objections to the Catholic faith with great depth." },
-        olivera: { desc: "Augustinian historian and apologist. He tackles rationalism, sects, and modern errors with rigor." },
-        montfort: { tag: "France · c. 1712", title: "Treatise on True Devotion to the Blessed Virgin", author: "St. Louis-Marie Grignion de Montfort", desc: "The classic work on consecration to Jesus through Mary. Complete edition in PDF, from the Montfort Missionaries.", ed1: "Read the PDF →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
-      },
-      sec3: {
-        eyebrow: "Apostolates · Media", title: "Apostolates and Catholic Media",
-        vaticannews: { desc: "The official news portal of the Holy See. News of the Pope and of the universal Church, with live broadcasts of the papal celebrations.", tag: "Holy See · News", ytEs: "YouTube in Spanish →", ytEn: "YouTube in English →" },
-        heraldos: { desc: "Missionary apostolate. Formation, catechesis, and evangelization faithful to Tradition." },
-        rugged:   { desc: "Beautiful handmade rosaries and various high-quality faith articles with international shipping.", tag: "United States" },
-        grat:     { desc: "Jerusalem Bible in English or Latin American Spanish (for other languages check the official page). With unique study plan containing step-by-step explanations and graphics, ideal for neophytes.", tag: "Bible · Formation" },
-        ewtn:     { desc: "The world's largest Catholic television network. Daily Mass, Holy Rosary, documentaries, and formation 24 hours a day.", tag: "Television · Radio" }
-      },
-      nav: {
-        prevTitle: "The Primacy of Peter",
-        nextTitle: "The Priesthood in the Catholic Church"
+        p3: "<strong>The False Door</strong> and <strong>Faith and Reason</strong>, in all their editions, are the author's registered works: their texts, titles and covers may not be reproduced or used without permission."
       }
     },
     "privacidad": {

@@ -7,6 +7,7 @@ const translationsJA = {
     mission: "使命",
     contact: "連絡先",
     usefulPages: "おすすめページ",
+    author: "著者",
     about: "このサイトについて"
   },
   hero: {
@@ -1262,6 +1263,75 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       }
     },
     "recursos-recomendados": {
+      // Los libros del autor tienen su propia página desde el 12-oct-2026: del-autor.html.
+      authorEyebrow: "本サイトの著者より",
+      authorText: "本サイトの著者 M. ガブリエル・カスティリアの本は、専用のページにあります。",
+      authorButton: "本を見る →",
+      // Vade Retro (13-oct-2026): Luis María Piccinali aceptó por correo el 9-oct.
+      vadeRetro: {
+        eyebrow: "ポッドキャスト · ドキュメンタリー",
+        tag: "イタリア · ルイス・マリア・ピッチナリ · スペイン語",
+        desc: "VADE RETROは、歴史、政治、文化、日常生活を貫く霊的な戦いについて、常にカトリック信仰の立場から調査し、証言を紹介しています。制作はルイス・ピッチナリ。制作会社のDominus Estudiosは、1977年のローマ教皇庁の調査を扱ったチャールズ・T・マー神父の著書に基づくドキュメンタリーシリーズ『Asesinato en el Grado 33』も準備中です。",
+        epLabel: "まずはこちら"
+      },
+      sec5: {
+        eyebrow: "法的告知",
+        title: "著作権",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. 無断転載を禁じます。</strong> 本サイトの文章、記事および翻訳は著者の創作物であり、著作権法および著作権に関する国際条約によって保護されています。",
+        p2: "著者の書面による事前の許可なく、全部であると一部であるとを問わず、いかなる手段によっても複製、複写、配布、公開、翻訳または翻案することを<strong>禁じます</strong>。研究または論評のための短い引用は、著者名を明記し本ページへリンクすることを条件に認められます。",
+        p4: "本ページで紹介しているチャンネル、書籍、画像およびウェブサイトは、それぞれの著作者および権利者に帰属します。推薦としてリンクしているのみであり、商業的な関係も一切の対価もありません。"
+      },
+      pageTitle: "おすすめページ | 信仰と理性",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">リソース</span>
+            </div>
+            <h1>おすすめページ</h1>
+            <p>カトリックの信仰を深め、学び、分かち合うための信頼できる情報源。</p>
+            <a href="temas.html" class="btn-outline-white">トピックに戻る</a>`,
+      labels: {
+        bible: "聖書 →",
+        catechism: "カテキズム →",
+        website: "ウェブサイト →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "スペイン語版 →",
+        toroCountry: "ベネズエラ",
+        oliveraCountry: "アルゼンチン · QNTLC",
+        heraldosTag: "エクアドル"
+      },
+      sec1: { eyebrow: "聖座", title: "バチカンの資料", desc: "聖座の公式サイトで入手できる教会の公式文書。" },
+      sec2: {
+        eyebrow: "護教学・養成", title: "司祭と教育者", desc: "教導権に忠実な声として、深みと厳密さをもって信仰を教え、守り、宣べ伝える人々。",
+        toro:    { desc: "神学者で護教論者。カトリック信仰に対する最も困難な異議に深みをもって答える。" },
+        olivera: { desc: "アウグスティノ会の歴史家で護教論者。合理主義、諸宗派、現代の誤りに厳密さをもって取り組む。" },
+        montfort: { tag: "フランス · 1712年頃", title: "聖母マリアへのまことの信心", author: "聖ルイ・マリー・グリニョン・ド・モンフォール", desc: "マリアを通してイエスに自らを奉献することを説いた古典。完全版PDF（英語）。", ed1: "英語版PDF →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen（PDF）→" }
+      },
+      sec3: {
+        eyebrow: "使徒活動・メディア", title: "使徒活動とカトリックメディア",
+        vaticannews: { desc: "聖座の公式ニュースポータル。教皇と普遍教会の最新情報を伝え、教皇儀式を生中継する。", tag: "聖座・ニュース", ytEs: "スペイン語のYouTube →", ytEn: "英語のYouTube →" },
+        heraldos: { desc: "宣教使徒活動。伝統に忠実な養成、教理教育、宣教。" },
+        rugged:   { desc: "美しい手作りのロザリオと国際配送可能な高品質の信仰用品各種。", tag: "アメリカ合衆国" },
+        grat:     { desc: "英語またはラテンアメリカスペイン語のエルサレム聖書（他の言語については公式ページで確認してください）。段階的な説明とグラフィックを含む独自の学習計画で、初心者に最適。", tag: "聖書・養成" },
+        ewtn:     { desc: "世界最大のカトリックテレビネットワーク。毎日のミサ、聖ロザリオ、ドキュメンタリー、24時間の養成。", tag: "テレビ・ラジオ" }
+      },
+      nav: {
+        prevTitle: "ペトロの首位権",
+        nextTitle: "カトリック教会の司祭職"
+      }
+    },
+    // Página «Del autor» (12-oct-2026). sec4 (La puerta falsa), sec4b (Fe y Razón) y
+    // rights.p3 vinieron de «recursos-recomendados» sin cambios.
+    "del-autor": {
+      pageTitle: "著者 | 信仰と理性",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">M. Gabriel Castiglia</span>
+            </div>
+            <h1>著者</h1>
+            <p>本サイトの著者による本。</p>
+            <a href="temas.html" class="btn-outline-white">トピックに戻る</a>`,
+      booksEyebrow: "著書",
       sec4: {
         epigraph: "「存在するもののうち、あるものは我々次第であり、あるものはそうではない。」",
         epigraphAuthor: "エピクテトス",
@@ -1307,51 +1377,10 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
       },
-      sec5: {
+      rights: {
         eyebrow: "法的告知",
         title: "著作権",
-        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. 無断転載を禁じます。</strong> 本サイトの文章、記事および翻訳は著者の創作物であり、著作権法および著作権に関する国際条約によって保護されています。",
-        p2: "著者の書面による事前の許可なく、全部であると一部であるとを問わず、いかなる手段によっても複製、複写、配布、公開、翻訳または翻案することを<strong>禁じます</strong>。研究または論評のための短い引用は、著者名を明記し本ページへリンクすることを条件に認められます。",
-        p3: "<strong>『偽りの扉』</strong>およびそのすべての版は著者の登録著作物です。本文、書名、表紙は、許可なく複製または使用することはできません。",
-        p4: "本ページで紹介しているチャンネル、書籍、画像およびウェブサイトは、それぞれの著作者および権利者に帰属します。推薦としてリンクしているのみであり、商業的な関係も一切の対価もありません。"
-      },
-      pageTitle: "おすすめページ | 信仰と理性",
-      hero: `<div class="hero-eyebrow">
-                <span class="eyebrow-line"></span>
-                <span class="eyebrow-text">リソース</span>
-            </div>
-            <h1>おすすめページ</h1>
-            <p>カトリックの信仰を深め、学び、分かち合うための信頼できる情報源。</p>
-            <a href="temas.html" class="btn-outline-white">トピックに戻る</a>`,
-      labels: {
-        bible: "聖書 →",
-        catechism: "カテキズム →",
-        website: "ウェブサイト →",
-        youtube: "YouTube →",
-        greatAdventure: "Great Adventure →",
-        inSpanish: "スペイン語版 →",
-        toroCountry: "ベネズエラ",
-        oliveraCountry: "アルゼンチン · QNTLC",
-        heraldosTag: "エクアドル"
-      },
-      sec1: { eyebrow: "聖座", title: "バチカンの資料", desc: "聖座の公式サイトで入手できる教会の公式文書。" },
-      sec2: {
-        eyebrow: "護教学・養成", title: "司祭と教育者", desc: "教導権に忠実な声として、深みと厳密さをもって信仰を教え、守り、宣べ伝える人々。",
-        toro:    { desc: "神学者で護教論者。カトリック信仰に対する最も困難な異議に深みをもって答える。" },
-        olivera: { desc: "アウグスティノ会の歴史家で護教論者。合理主義、諸宗派、現代の誤りに厳密さをもって取り組む。" },
-        montfort: { tag: "フランス · 1712年頃", title: "聖母マリアへのまことの信心", author: "聖ルイ・マリー・グリニョン・ド・モンフォール", desc: "マリアを通してイエスに自らを奉献することを説いた古典。完全版PDF（英語）。", ed1: "英語版PDF →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen（PDF）→" }
-      },
-      sec3: {
-        eyebrow: "使徒活動・メディア", title: "使徒活動とカトリックメディア",
-        vaticannews: { desc: "聖座の公式ニュースポータル。教皇と普遍教会の最新情報を伝え、教皇儀式を生中継する。", tag: "聖座・ニュース", ytEs: "スペイン語のYouTube →", ytEn: "英語のYouTube →" },
-        heraldos: { desc: "宣教使徒活動。伝統に忠実な養成、教理教育、宣教。" },
-        rugged:   { desc: "美しい手作りのロザリオと国際配送可能な高品質の信仰用品各種。", tag: "アメリカ合衆国" },
-        grat:     { desc: "英語またはラテンアメリカスペイン語のエルサレム聖書（他の言語については公式ページで確認してください）。段階的な説明とグラフィックを含む独自の学習計画で、初心者に最適。", tag: "聖書・養成" },
-        ewtn:     { desc: "世界最大のカトリックテレビネットワーク。毎日のミサ、聖ロザリオ、ドキュメンタリー、24時間の養成。", tag: "テレビ・ラジオ" }
-      },
-      nav: {
-        prevTitle: "ペトロの首位権",
-        nextTitle: "カトリック教会の司祭職"
+        p3: "<strong>『偽りの扉』</strong>と<strong>『Faith and Reason』</strong>およびそのすべての版は著者の登録著作物です。本文、書名、表紙は、許可なく複製または使用することはできません。"
       }
     },
     "privacidad": {
