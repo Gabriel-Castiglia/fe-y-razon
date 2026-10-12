@@ -577,9 +577,24 @@
       @media (max-width: 860px) {
         .rec-priests { grid-template-columns: 1fr; max-width: none; }
         .rec-apost   { grid-template-columns: 1fr; }
-        .rec-vatican { height: auto; min-height: 320px; }
-        .rec-vatican-body { padding: 2rem 1.8rem; max-width: 100%; }
-        .rec-vatican-body h2 { font-size: 1.5rem; }
+        /* En una columna, la Santa Sede toma la forma de las demás tarjetas
+           (13-oct-2026): la foto arriba, sin texto encima, y el texto debajo. */
+        .rec-vatican {
+          height: auto; flex-direction: column; background: #fff;
+          border-radius: 14px; box-shadow: 0 4px 20px rgba(0,0,0,.09);
+        }
+        .rec-vatican > img {
+          position: static; display: block; width: 100%; height: auto;
+          aspect-ratio: 16 / 9; max-height: 320px;
+          object-position: center 15%; transform-origin: center;
+        }
+        .rec-vatican-overlay { display: none; }
+        .rec-vatican-body { padding: 1.3rem 1.3rem 1.6rem; max-width: 100%; }
+        .rec-vatican-eyebrow span { color: var(--gold-dark); }
+        .rec-vatican-body h2 { font-size: 1.5rem; color: var(--text-primary); }
+        .rec-vatican-body p { color: #555; margin-bottom: 1.3rem; }
+        .rec-vatican .rec-btn-ghost { color: var(--gold-dark); border-color: rgba(157,126,82,.32); }
+        .rec-vatican .rec-btn-ghost:hover { border-color: var(--gold-dark); }
         .rec-book { grid-template-columns: 1fr; }
         .rec-book-cover { padding: 2.4rem 2rem 1.6rem; }
         .rec-book-cover-link { max-width: 208px; }
