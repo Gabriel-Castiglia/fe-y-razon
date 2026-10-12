@@ -7,6 +7,7 @@ const translationsLN = {
     mission: "Mosala",
     contact: "Boyokani",
     usefulPages: "Bisaleli oyo epesami toli",
+    author: "Mokomi",
     about: "Na site oyo"
   },
   hero: {
@@ -1075,6 +1076,66 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       nav: { prevTitle: "Eukarisiti: sakramentu monene", nextTitle: "Bonganga-nzambe na Eklezia Katolike" }
     },
     "recursos-recomendados": {
+      // Los libros del autor tienen su propia página desde el 12-oct-2026: del-autor.html.
+      authorEyebrow: "Uta na mokomi ya site oyo",
+      authorText: "Babuku ya M. Gabriel Castiglia, mokomi ya site oyo, ezali na lokasa na yango moko.",
+      authorButton: "Tala babuku →",
+      // Vade Retro (13-oct-2026): Luis María Piccinali aceptó por correo el 9-oct.
+      vadeRetro: {
+        eyebrow: "Podcast · Bafilme ya solo",
+        tag: "Italie · Luis María Piccinali · Na Espagnol",
+        desc: "VADE RETRO ezali kotala mpe kolakisa matatoli na ntina ya etumba ya molimo oyo ekatisaka lisolo ya kala, politiki, mimeseno mpe bomoi ya mokolo na mokolo, ntango nyonso na kondima ya Katolike, esalemi na Luis Piccinali. Kompani na ye ya kobimisa, Dominus Estudios, ezali mpe kobongisa molongo ya bafilme «Asesinato en el Grado 33», oyo euti na buku ya Tata Charles T. Murr na ntina ya ankete na Curie ya Roma na mobu 1977.",
+        epLabel: "Banda awa"
+      },
+      sec5: {
+        eyebrow: "Liyebisi ya mibeko",
+        title: "Lotomo ya mokomi",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Makoki nyonso ebombami.</strong> Makomi, masolo mpe mabongoli ya site oyo ezali mosala ya mokomi ye moko mpe ebatelami na mobeko ya lotomo ya mokomi mpe na mayokani ya bikolo nyonso.",
+        p2: "<strong>Epekisami</strong> kokopi, kokabola, kobimisa, kobongola to kobongisa, mobimba to ndambo, na lolenge nyonso, soki mokomi apesi ndingisa ya mokanda te liboso. Kolobela biteni mikuse mpo na boyekoli to maloba ya kotalela ekoki, soki batangi kombo ya mokomi mpe batie lien na lokasa oyo.",
+        p4: "Ba-chaîne, mikanda, bililingi mpe ba-site oyo elakisami na lokasa oyo ezali ya bakomi mpe bankolo na yango. Elakisami kaka lokola litambwisi, na boyokani ya mombongo te mpe na lifuti moko te."
+      },
+      pageTitle: "Bisaleli oyo epesami toli | Kondima mpe Mayele",
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Bisaleli</span></div><h1>Bisaleli oyo epesami toli</h1><p>Biziya ya kondima mpona kokɔtisa, koyekola mpe kokabola kondima ya Katolike.</p><a href="temas.html" class="btn-outline-white">Zonga na Mitó ya makambo</a>`,
+      labels: {
+        bible: "Makomi Mosantu →",
+        catechism: "Katekismo →",
+        website: "Site internet →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "Na Espagnol →",
+        toroCountry: "Venezuela",
+        oliveraCountry: "Argentine · QNTLC",
+        heraldosTag: "Équateur"
+      },
+      sec1: { eyebrow: "Saint-Siège", title: "Ba sources ya Vatican", desc: "Ba documents officiels ya Eklezia, ezali na site ya Saint-Siège." },
+      sec2: {
+        eyebrow: "Apologetiki · Mateya", title: "Banganga-nzambe mpe bateyi", desc: "Mingongo ya sembo na Magisterium oyo eteyaka, ebatelaka mpe esakolaka kondima na mozindo mpe bosikisiki.",
+        toro:    { desc: "Théologien mpe apologète. Apesaka biyano na mozindo na ba objections ya makasi mpenza na kondima ya Katolike." },
+        olivera: { desc: "Historien mpe apologète augustin. Asalaka masolo ya rationalisme, ba sectes mpe ba erreurs modernes na bosikisiki." },
+        montfort: { tag: "Falansɛ · pene na 1712", title: "Buku ya Bokumisi ya Solo epai ya Bikira Maria Mosantu", author: "Santu Louis-Marie Grignion de Montfort", desc: "Mosala ya kala oyo elobeli komipesa na Yesu na nzela ya Maria. Ebimisi mobimba na PDF, na lokota ya Angelɛ.", ed1: "PDF na Angelɛ →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
+      },
+      sec3: {
+        eyebrow: "Misala · Ba médias", title: "Misala mpe ba médias ya Katolike",
+        vaticannews: { desc: "Portail ya sango ya officiel ya Saint-Siège. Sango ya Papa mpe ya Lingomba ya mokili mobimba, na botalisi ya milulu ya Papa na ntango wana.", tag: "Saint-Siège · Sango", ytEs: "YouTube na Espanyol →", ytEn: "YouTube na Anglais →" },
+        heraldos: { desc: "Mosala ya mission. Mateya, katekismo mpe évangélisation ya sembo na Tradition." },
+        rugged:   { desc: "Banzete ya rosario ya kitoko esalemi na maboko mpe biloko ndenge na ndenge ya kondima ya qualité ya likolo na expédition internationale.", tag: "États-Unis" },
+        grat:     { desc: "Biblia ya Yerusalemi na Lingelesi to na Espagnol ya Amérique latine (mpona minoko mosusu tala na page officielle). Na plan d'étude ya kokamwa oyo ezali na ba explications etape na etape mpe ba graphiques, malamu mpona ba neophytes.", tag: "Biblia · Mateya" },
+        ewtn:     { desc: "Réseau monene ya télévision Katolike na mokili mobimba. Misa ya mokolo na mokolo, Rosario Mosantu, ba documentaires mpe mateya ngonga 24.", tag: "Televisyo · Radio" }
+      },
+      nav: { prevTitle: "Bokambi ya Petro", nextTitle: "Bonganga-nzambe na Eklezia Katolike" }
+    },
+    // Página «Del autor» (12-oct-2026). sec4 (La puerta falsa), sec4b (Fe y Razón) y
+    // rights.p3 vinieron de «recursos-recomendados» sin cambios.
+    "del-autor": {
+      pageTitle: "Mokomi | Kondima mpe Mayele",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">M. Gabriel Castiglia</span>
+            </div>
+            <h1>Mokomi</h1>
+            <p>Babuku ya mokomi ya site oyo.</p>
+            <a href="temas.html" class="btn-outline-white">Zonga na Mitó ya makambo</a>`,
+      booksEyebrow: "Babuku",
       sec4: {
         epigraph: "“Kati ya biloko oyo ezali, mosusu etali biso; mosusu te.”",
         epigraphAuthor: "Epiktete",
@@ -1120,43 +1181,11 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
       },
-      sec5: {
+      rights: {
         eyebrow: "Liyebisi ya mibeko",
         title: "Lotomo ya mokomi",
-        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Makoki nyonso ebombami.</strong> Makomi, masolo mpe mabongoli ya site oyo ezali mosala ya mokomi ye moko mpe ebatelami na mobeko ya lotomo ya mokomi mpe na mayokani ya bikolo nyonso.",
-        p2: "<strong>Epekisami</strong> kokopi, kokabola, kobimisa, kobongola to kobongisa, mobimba to ndambo, na lolenge nyonso, soki mokomi apesi ndingisa ya mokanda te liboso. Kolobela biteni mikuse mpo na boyekoli to maloba ya kotalela ekoki, soki batangi kombo ya mokomi mpe batie lien na lokasa oyo.",
-        p3: "<strong>The False Door</strong> mpe mabimeli na yango nyonso ezali mosala ekomami na nkombo ya mokomi: makomi, kombo mpe ezipeli na yango ekoki kokopiama to kosalelama te soki ndingisa ezali te.",
-        p4: "Ba-chaîne, mikanda, bililingi mpe ba-site oyo elakisami na lokasa oyo ezali ya bakomi mpe bankolo na yango. Elakisami kaka lokola litambwisi, na boyokani ya mombongo te mpe na lifuti moko te."
-      },
-      pageTitle: "Bisaleli oyo epesami toli | Kondima mpe Mayele",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Bisaleli</span></div><h1>Bisaleli oyo epesami toli</h1><p>Biziya ya kondima mpona kokɔtisa, koyekola mpe kokabola kondima ya Katolike.</p><a href="temas.html" class="btn-outline-white">Zonga na Mitó ya makambo</a>`,
-      labels: {
-        bible: "Makomi Mosantu →",
-        catechism: "Katekismo →",
-        website: "Site internet →",
-        youtube: "YouTube →",
-        greatAdventure: "Great Adventure →",
-        inSpanish: "Na Espagnol →",
-        toroCountry: "Venezuela",
-        oliveraCountry: "Argentine · QNTLC",
-        heraldosTag: "Équateur"
-      },
-      sec1: { eyebrow: "Saint-Siège", title: "Ba sources ya Vatican", desc: "Ba documents officiels ya Eklezia, ezali na site ya Saint-Siège." },
-      sec2: {
-        eyebrow: "Apologetiki · Mateya", title: "Banganga-nzambe mpe bateyi", desc: "Mingongo ya sembo na Magisterium oyo eteyaka, ebatelaka mpe esakolaka kondima na mozindo mpe bosikisiki.",
-        toro:    { desc: "Théologien mpe apologète. Apesaka biyano na mozindo na ba objections ya makasi mpenza na kondima ya Katolike." },
-        olivera: { desc: "Historien mpe apologète augustin. Asalaka masolo ya rationalisme, ba sectes mpe ba erreurs modernes na bosikisiki." },
-        montfort: { tag: "Falansɛ · pene na 1712", title: "Buku ya Bokumisi ya Solo epai ya Bikira Maria Mosantu", author: "Santu Louis-Marie Grignion de Montfort", desc: "Mosala ya kala oyo elobeli komipesa na Yesu na nzela ya Maria. Ebimisi mobimba na PDF, na lokota ya Angelɛ.", ed1: "PDF na Angelɛ →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
-      },
-      sec3: {
-        eyebrow: "Misala · Ba médias", title: "Misala mpe ba médias ya Katolike",
-        vaticannews: { desc: "Portail ya sango ya officiel ya Saint-Siège. Sango ya Papa mpe ya Lingomba ya mokili mobimba, na botalisi ya milulu ya Papa na ntango wana.", tag: "Saint-Siège · Sango", ytEs: "YouTube na Espanyol →", ytEn: "YouTube na Anglais →" },
-        heraldos: { desc: "Mosala ya mission. Mateya, katekismo mpe évangélisation ya sembo na Tradition." },
-        rugged:   { desc: "Banzete ya rosario ya kitoko esalemi na maboko mpe biloko ndenge na ndenge ya kondima ya qualité ya likolo na expédition internationale.", tag: "États-Unis" },
-        grat:     { desc: "Biblia ya Yerusalemi na Lingelesi to na Espagnol ya Amérique latine (mpona minoko mosusu tala na page officielle). Na plan d'étude ya kokamwa oyo ezali na ba explications etape na etape mpe ba graphiques, malamu mpona ba neophytes.", tag: "Biblia · Mateya" },
-        ewtn:     { desc: "Réseau monene ya télévision Katolike na mokili mobimba. Misa ya mokolo na mokolo, Rosario Mosantu, ba documentaires mpe mateya ngonga 24.", tag: "Televisyo · Radio" }
-      },
-      nav: { prevTitle: "Bokambi ya Petro", nextTitle: "Bonganga-nzambe na Eklezia Katolike" }
+        p3: "<strong>The False Door</strong> mpe <strong>Faith and Reason</strong>, elongo na mabimeli na yango nyonso, ezali misala ekomami na nkombo ya mokomi: makomi, bankombo mpe bizipeli na yango ekoki kokopiama to kosalelama te soki ndingisa ezali te."
+      }
     },
     "privacidad": {
       pageTitle: "Bomoi ya nkuku | Kondima mpe Mayele",

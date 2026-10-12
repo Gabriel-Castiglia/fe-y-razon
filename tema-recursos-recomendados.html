@@ -30,16 +30,9 @@
     <meta property="og:url" content="https://proyectofeyrazon.com/tema-recursos-recomendados.html">
     <meta property="og:title" content="Recursos Recomendados | Fé y Razón">
     <meta property="og:description" content="Libros, sitios y apostolados recomendados para crecer en la fe católica.">
-    <!-- Miniatura al compartir: la portada del libro, no el banner genérico del
-         sitio. Es la única página con og:image propio; las otras doce siguen con
-         el banner. La ruta es absoluta y con los acentos escapados
-         (Im%C3%A1genes), como el resto del sitio: sin eso la miniatura no carga.
-         Va la portada en español porque es el idioma base del HTML; el cambio de
-         idioma no lo ven los rastreadores de WhatsApp ni de las redes. -->
-    <meta property="og:image" content="https://proyectofeyrazon.com/Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-es.jpg">
-    <meta property="og:image:width" content="700">
-    <meta property="og:image:height" content="1072">
-    <meta property="og:image:alt" content="Portada de la segunda edición de La puerta falsa, de M. Gabriel Castiglia">
+    <meta property="og:image" content="https://proyectofeyrazon.com/Recursos/Im%C3%A1genes/banner.webp">
+    <meta property="og:image:width" content="1600">
+    <meta property="og:image:height" content="840">
     <meta property="og:site_name" content="Fé y Razón">
     <meta property="og:locale" content="es_ES">
 
@@ -47,8 +40,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Recursos Recomendados | Fé y Razón">
     <meta name="twitter:description" content="Libros, sitios y apostolados recomendados para crecer en la fe católica.">
-    <meta name="twitter:image" content="https://proyectofeyrazon.com/Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-es.jpg">
-    <meta name="twitter:image:alt" content="Portada de la segunda edición de La puerta falsa, de M. Gabriel Castiglia">
+    <meta name="twitter:image" content="https://proyectofeyrazon.com/Recursos/Im%C3%A1genes/banner.webp">
 
     <!-- Datos estructurados (Schema.org) -->
     <script type="application/ld+json">
@@ -67,45 +59,7 @@
     }
     </script>
 
-    <!-- Datos estructurados del libro del autor -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Book",
-        "name": "La puerta falsa",
-        "alternateName": ["The False Door", "A Porta Falsa", "La Fausse Porte", "La falsa porta", "Die falsche Tür", "偽りの扉"],
-        "author": {
-            "@type": "Person",
-            "name": "M. Gabriel Castiglia"
-        },
-        "inLanguage": ["es", "en", "pt-BR", "fr", "it", "de", "ja"],
-        "genre": "Ensayo",
-        "datePublished": "2026",
-        "image": "https://proyectofeyrazon.com/Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-es.jpg",
-        "description": "El ocultismo promete poder sobre lo que no depende de nadie, a cambio de lo único que sí está en nuestras manos: el propio juicio. Este libro examina sus textos por sus dos caras: las fechas, las fuentes, las contradicciones.",
-        "workExample": [
-            {
-                "@type": "Book",
-                "@id": "https://www.amazon.com/dp/B0HF1JGL9C",
-                "name": "La puerta falsa",
-                "bookEdition": "2",
-                "inLanguage": "es",
-                "image": "https://proyectofeyrazon.com/Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-es.jpg",
-                "url": "https://www.amazon.com/dp/B0HF1JGL9C"
-            },
-            {
-                "@type": "Book",
-                "@id": "https://www.amazon.com/dp/B0HF4M77S5",
-                "name": "The False Door",
-                "bookEdition": "2",
-                "inLanguage": "en",
-                "image": "https://proyectofeyrazon.com/Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg",
-                "url": "https://www.amazon.com/dp/B0HF4M77S5"
-            }
-        ]
-    }
-    </script>
-    <link rel="preload" href="css/style.css?v=28" as="style">
+    <link rel="preload" href="css/style.css?v=29" as="style">
     <title data-i18n="topicPages.recursos-recomendados.pageTitle">Recursos recomendados | Fé y Razón</title>
     <link rel="preload" href="Recursos/Fuentes/cinzel-latin.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="Recursos/Fuentes/montserrat-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -115,7 +69,7 @@
     <link rel="icon" href="icon-192.png?v=2" type="image/png" sizes="192x192">
     <link rel="apple-touch-icon" href="apple-touch-icon.png?v=2">
     <link rel="manifest" href="site.webmanifest?v=2">
-    <link rel="stylesheet" href="css/style.css?v=28">
+    <link rel="stylesheet" href="css/style.css?v=29">
 </head>
 <body>
     <div id="reading-progress" role="progressbar" aria-label="Progreso de lectura" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"></div>
@@ -128,6 +82,7 @@
                     <li><a href="/#hero" data-i18n="nav.home">Inicio</a></li>
                     <li><a href="temas.html" data-i18n="nav.topics">Temas</a></li>
                     <li><a href="tema-recursos-recomendados.html" class="active" data-i18n="nav.usefulPages">Recursos recomendados</a></li>
+                    <li><a href="del-autor.html" data-i18n="nav.author">Del autor</a></li>
                     <li><a href="/#contacto" data-i18n="nav.contact">Contacto</a></li>
                     <li><a href="sobre-este-sitio.html" data-i18n="nav.about">Sobre este sitio</a></li>
                 </ul>
@@ -292,6 +247,10 @@
         text-decoration: none; transition: background .2s, color .2s; white-space: nowrap;
       }
       .rec-pill:hover { background: var(--gold); color: #12100d; border-color: var(--gold); }
+
+      /* ── VADE RETRO — la tarjeta de Vatican News, con el banner a su alto natural ── */
+      .rec-apost-photo.rec-apost-photo--vr { display: block; height: auto; background: #000; }
+      .rec-apost-photo.rec-apost-photo--vr img { height: auto; }
 
       /* ── APOSTOLATES — media cards 2×2 ── */
       .rec-apost { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem; }
@@ -604,6 +563,9 @@
       }
       .rec-rights p:last-child { margin-bottom: 0; }
       .rec-rights strong { color: var(--text-primary); }
+      /* Aviso que lleva a del-autor.html: la tarjeta del aviso legal con el botón al costado. */
+      .rec-autor { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem 1.5rem; }
+      .rec-autor p { font-size: .9rem; margin: 0; flex: 1 1 18rem; }
 
       /* ── responsive ── */
       @media (max-width: 860px) {
@@ -625,12 +587,14 @@
            columnas estrechas partiendo las palabras. */
         .rec-book-facts > div { grid-template-columns: 1fr; gap: .2rem; }
         .rec-apost-photo--banner { height: 128px; }
+        .rec-apost-photo.rec-apost-photo--vr { height: auto; }
       }
       @media (max-width: 520px) {
         .rec-page { padding: 2.5rem 1rem 4rem; }
         .rec-priest-photo { height: 230px; }
         .rec-rights { padding: 1.5rem 1.4rem; }
         .rec-apost-photo--banner { height: 104px; }
+        .rec-apost-photo.rec-apost-photo--vr { height: auto; }
       }
     </style>
 
@@ -658,122 +622,25 @@
           </div>
         </div>
 
-        <!-- LIBRO DEL AUTOR -->
+        <!-- VADE RETRO (13-oct-2026). Misma tarjeta que Vatican News: el banner del canal
+             arriba, a su tamaño natural para que no se recorte, y el texto debajo. -->
         <div>
-          <div class="rec-label" data-i18n="topicPages.recursos-recomendados.sec4.eyebrow">Del autor de este sitio</div>
-
-          <!-- FE Y RAZÓN — el libro nuevo, en crema: sale de lo oscuro de La puerta
-               falsa a propósito, y el contraste entre las dos fichas es parte del
-               mensaje. La tapa va en 3D con el lomo real de la cubierta impresa.
-               Mientras no esté publicado, el botón no enlaza. -->
-          <div class="rec-book rec-book--claro">
-            <div class="rec-book-cover">
-              <div class="rec-book-3d">
-                <img class="rec-book-3d-lomo" src="Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-es.jpg" alt="" aria-hidden="true"
-                     data-i18n-src="topicPages.recursos-recomendados.sec4b.spineSrc" width="95" height="1050">
-                <img src="Recursos/Im%C3%A1genes/libro-fe-y-razon-es.jpg"
-                     alt="Portada de Fe y Razón, de M. Gabriel Castiglia"
-                     data-i18n-alt="topicPages.recursos-recomendados.sec4b.coverAlt"
-                     data-i18n-src="topicPages.recursos-recomendados.sec4b.coverSrc"
-                     width="700" height="1050" loading="lazy">
-              </div>
-            </div>
-            <div class="rec-book-body">
-              <p class="rec-book-new" data-i18n="topicPages.recursos-recomendados.sec4b.badge">Nuevo libro</p>
-              <h2 data-i18n="topicPages.recursos-recomendados.sec4b.title">Fe y Razón<span class="rec-book-subtitle">Siempre aparejados para responder</span></h2>
-              <p class="rec-book-author">M. Gabriel Castiglia</p>
-              <blockquote class="rec-book-epigraph">
-                <p data-i18n="topicPages.recursos-recomendados.sec4b.epigraph">«Estad siempre <strong>aparejados para responder</strong> con mansedumbre y reverencia a cada uno que os demande razón de la esperanza que hay en vosotros.»</p>
-                <cite data-i18n="topicPages.recursos-recomendados.sec4b.epigraphRef">1 Pedro 3:15 · Biblia del Oso</cite>
-                <p class="rec-book-epigraph-note" data-i18n="topicPages.recursos-recomendados.sec4b.epigraphNote"></p>
-              </blockquote>
-              <div class="rec-book-desc" data-i18n="topicPages.recursos-recomendados.sec4b.desc"><p>Cavar hondo en cada doctrina para ver si sale agua limpia o barro es un trabajo arduo. Pero no es imposible, y vale la pena, porque no se trata solo del sentido de esta vida, sino de si hay otra y de qué depende.</p><p>En mi libro anterior, “La puerta falsa: la razón contra el ocultismo moderno”, conté el camino que hice buscando esa respuesta. Ese libro terminaba en el umbral del cristianismo, y ahí me detuve.</p><p>“Fe y Razón” abre esa puerta. Parte de lo que el libro anterior dejó establecido: la razón y las pruebas nos dicen que Dios existe. Desde ahí sigue con la siguiente pregunta: si Dios habló, dónde quedó lo que dijo y quién lo custodia. Responde con los documentos en la mano: la Biblia que te traen a la puerta de casa y las confesiones de fe de cada grupo herético, con sus errores explicados.</p><p>La Escritura no se explica sola, y lo dice ella misma: «nadie puede interpretar por su cuenta una profecía de la Escritura» (2 Pedro 1:20). Cada grupo que golpea la puerta lee la misma Biblia y saca de ella una doctrina distinta. Por eso este libro no la interpreta por su cuenta: la lee con los Padres de la Iglesia, que la recibieron de los apóstoles, y con el Magisterio, que la custodia desde entonces.</p><p>Si te quedaste en el umbral del libro anterior, aquí está el resto del camino. Y si te preguntas por qué escribir un libro así, la respuesta está en la carta de Santiago: «si la fe no va acompañada de las obras, está completamente muerta» (2:17), y «el que hace volver a un pecador de su mal camino salvará su vida de la muerte y obtendrá el perdón de numerosos pecados» (5:20).</p></div>
-              <!-- Vacío en español: el texto de Amazon ya cierra con el umbral. Lo llenan los demás idiomas. -->
-              <p class="rec-book-close" data-i18n="topicPages.recursos-recomendados.sec4b.close"></p>
-
-              <dl class="rec-book-facts">
-                <div>
-                  <dt data-i18n="topicPages.recursos-recomendados.sec4.factFormatsLabel">Formatos</dt>
-                  <dd data-i18n="topicPages.recursos-recomendados.sec4b.factFormats">Tapa blanda a color y tapa dura en color premium</dd>
-                </div>
-                <div>
-                  <dt data-i18n="topicPages.recursos-recomendados.sec4.factLangsLabel">Idiomas</dt>
-                  <dd>
-                    <ul class="rec-book-flags rec-book-flags--facts">
-                      <li><img src="Recursos/Im%C3%A1genes/spain-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.es">Español</span></li>
-                      <li><img src="Recursos/Im%C3%A1genes/united-states-of-america-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.en">Inglés</span></li>
-                    </ul>
-                  </dd>
-                </div>
-              </dl>
-
-              <div class="rec-book-buy">
-                <span class="rec-btn-soon" data-i18n="topicPages.recursos-recomendados.sec4b.soonLabel">Muy pronto en Amazon</span>
-              </div>
-            </div>
-
-            <!-- La puerta falsa, dentro de la misma ficha: la mitad de abajo, en sus
-                 colores oscuros, que hacen de contraste con el crema de Fe y Razón.
-                 Conserva todo su anuncio (cita, descripción, ficha y compra); solo la
-                 tapa y el título van un punto más chicos que los del libro nuevo. -->
-            <div class="rec-libros-anterior">
-              <div class="rec-libros-anterior-cover">
-                <div class="rec-libros-anterior-3d">
-                <span class="rec-libros-anterior-lomo" aria-hidden="true"></span>
-                <a class="rec-libros-anterior-tapa"
-                   href="https://www.amazon.com/dp/B0HF1JGL9C"
-                   target="_blank" rel="noopener"
-                   data-i18n-href="topicPages.recursos-recomendados.sec4.buyUrl"
-                   aria-label="Comprar «La puerta falsa» en Amazon"
-                   data-i18n-aria-label="topicPages.recursos-recomendados.sec4.buyAria">
-                  <img src="Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-es.jpg"
-                       alt="Portada de la segunda edición de La puerta falsa, de M. Gabriel Castiglia"
-                       data-i18n-alt="topicPages.recursos-recomendados.sec4.coverAlt"
-                       data-i18n-src="topicPages.recursos-recomendados.sec4.coverSrc"
-                       onerror="this.onerror=null; this.src='Recursos/Im%C3%A1genes/libro-puerta-falsa-2ed-en.jpg';"
-                       width="700" height="1072" loading="lazy">
-                                  </a>
-                </div>
-              </div>
-              <div class="rec-book-body">
-                <p class="rec-libros-anterior-label" data-i18n="topicPages.recursos-recomendados.sec4b.sameAuthor">Del mismo autor</p>
-                <h3 data-i18n="topicPages.recursos-recomendados.sec4.title">La puerta falsa<span class="rec-book-subtitle">La razón contra el ocultismo moderno</span></h3>
-                <p class="rec-book-edition" data-i18n="topicPages.recursos-recomendados.sec4.edition">Segunda edición, corregida y ampliada</p>
-                <blockquote class="rec-book-epigraph">
-                  <p data-i18n="topicPages.recursos-recomendados.sec4.epigraph">«De lo existente, unas cosas dependen de nosotros; otras no.»</p>
-                  <cite data-i18n="topicPages.recursos-recomendados.sec4.epigraphAuthor">Epicteto</cite>
-                </blockquote>
-                <p class="rec-book-desc" data-i18n="topicPages.recursos-recomendados.sec4.desc">El ocultismo promete lo contrario: poder sobre lo que no depende de nadie, a cambio de lo único que sí está en nuestras manos, el propio juicio. Este libro toma sus textos (grimorios, biblias negras, manuales herméticos, el tarot, la astrología, el «manifestar») y los examina sin prisa, por sus dos caras: las fechas, las fuentes, las contradicciones. No acusa desde ninguna fe ni pide que se le crea; cada cargo se prueba con las páginas del propio género.</p>
-                <p class="rec-book-close" data-i18n="topicPages.recursos-recomendados.sec4.close">No ofrece misterios, sino algo más arduo y más digno: la lucidez.</p>
-
-                <dl class="rec-book-facts">
-                  <div>
-                    <dt data-i18n="topicPages.recursos-recomendados.sec4.factFormatsLabel">Formatos</dt>
-                    <dd data-i18n="topicPages.recursos-recomendados.sec4.factFormats">Tapa blanda y tapa dura</dd>
-                  </div>
-                  <div>
-                    <dt data-i18n="topicPages.recursos-recomendados.sec4.factLangsLabel">Idiomas</dt>
-                    <dd>
-                      <ul class="rec-book-flags rec-book-flags--facts">
-                        <li><img src="Recursos/Im%C3%A1genes/spain-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.es">Español</span></li>
-                        <li><img src="Recursos/Im%C3%A1genes/united-states-of-america-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.recursos-recomendados.sec4.langs.en">Inglés</span></li>
-                      </ul>
-                    </dd>
-                  </div>
-                </dl>
-
-                <div class="rec-book-buy">
-                  <a href="https://www.amazon.com/dp/B0HF1JGL9C"
-                     target="_blank" rel="noopener" class="rec-btn-gold"
-                     data-i18n-href="topicPages.recursos-recomendados.sec4.buyUrl"
-                     data-i18n="topicPages.recursos-recomendados.sec4.buyLabel">Comprar en Amazon →</a>
-                </div>
-
-                <p class="rec-book-note" data-i18n="topicPages.recursos-recomendados.sec4.otherLangs">Para ediciones en otros idiomas, escribir al autor por el <a href="/#contacto">formulario de contacto</a>.</p>
+          <div class="rec-label" data-i18n="topicPages.recursos-recomendados.vadeRetro.eyebrow">Podcast · Documentales</div>
+          <div class="rec-apost-card rec-apost-card--wide">
+            <a class="rec-apost-photo rec-apost-photo--banner rec-apost-photo--vr" href="https://www.youtube.com/@VadeRetro_Podcast" target="_blank" rel="noopener">
+              <img src="Recursos/Im%C3%A1genes/vade-retro-banner.webp" alt="Vade Retro Podcast" width="2048" height="339" loading="lazy">
+            </a>
+            <div class="rec-apost-body">
+              <span class="rec-apost-tag" data-i18n="topicPages.recursos-recomendados.vadeRetro.tag">Italia · Luis María Piccinali</span>
+              <p data-i18n="topicPages.recursos-recomendados.vadeRetro.desc">VADE RETRO investiga y presenta testimonios sobre la batalla espiritual que atraviesa la historia, la política, la cultura y la vida cotidiana, siempre desde la fe católica, producido por Luis Piccinali. Su productora, Dominus Estudios, prepara además la docuserie «Asesinato en el Grado 33», basada en el libro del P. Charles T. Murr sobre la investigación de la Curia romana de 1977.</p>
+              <div class="rec-apost-links">
+                <a href="https://www.youtube.com/@VadeRetro_Podcast" target="_blank" rel="noopener" class="rec-apost-link" data-i18n="topicPages.recursos-recomendados.labels.youtube">YouTube →</a>
+                <a href="https://youtu.be/CSKe-d6LvTQ" target="_blank" rel="noopener" class="rec-apost-link"><span data-i18n="topicPages.recursos-recomendados.vadeRetro.epLabel">Para empezar</span>: EP. #00 →</a>
+                <a href="https://dominusestudios.com" target="_blank" rel="noopener" class="rec-apost-link">Dominus Estudios →</a>
+                <a href="https://asesinatogrado33.com" target="_blank" rel="noopener" class="rec-apost-link">Asesinato en el Grado 33 →</a>
               </div>
             </div>
           </div>
-
         </div>
 
         <!-- SACERDOTES -->
@@ -917,6 +784,15 @@
           </div>
         </div>
 
+        <!-- LIBROS DEL AUTOR: desde el 12-oct-2026 en su propia página (del-autor.html) -->
+        <div>
+          <div class="rec-label" data-i18n="topicPages.recursos-recomendados.authorEyebrow">Del autor de este sitio</div>
+          <div class="rec-rights rec-autor">
+            <p data-i18n="topicPages.recursos-recomendados.authorText">Los libros de M. Gabriel Castiglia, autor de este sitio, están en su propia página.</p>
+            <a href="del-autor.html" class="rec-btn-gold" data-i18n="topicPages.recursos-recomendados.authorButton">Ver los libros →</a>
+          </div>
+        </div>
+
         <!-- DERECHOS DE AUTOR -->
         <div>
           <div class="rec-label" data-i18n="topicPages.recursos-recomendados.sec5.eyebrow">Aviso legal</div>
@@ -924,7 +800,6 @@
             <h2 data-i18n="topicPages.recursos-recomendados.sec5.title">Derechos de autor</h2>
             <p data-i18n="topicPages.recursos-recomendados.sec5.p1"><strong>&copy; 2026 M. Gabriel Castiglia. Todos los derechos reservados.</strong> Los textos, artículos y traducciones de este sitio son obra original del autor y están protegidos por la legislación de derecho de autor y por los tratados internacionales en la materia.</p>
             <p data-i18n="topicPages.recursos-recomendados.sec5.p2">Queda <strong>prohibida</strong> la reproducción, copia, distribución, publicación, traducción o adaptación, total o parcial, por cualquier medio o procedimiento, sin autorización previa y por escrito del autor. Se permite citar pasajes breves con fines de estudio o comentario, siempre que se indique el autor y se enlace a esta página.</p>
-            <p data-i18n="topicPages.recursos-recomendados.sec5.p3"><strong>La puerta falsa</strong> y todas sus ediciones son obra registrada del autor: su texto, su título y su portada no pueden reproducirse ni utilizarse sin autorización.</p>
             <p data-i18n="topicPages.recursos-recomendados.sec5.p4">Los canales, libros, imágenes y sitios recomendados en esta página pertenecen a sus respectivos autores y titulares. Se enlazan únicamente a título de recomendación, sin vínculo comercial ni contraprestación de ninguna clase.</p>
           </div>
         </div>
@@ -938,7 +813,7 @@
         <p class="footer-legal"><a href="privacidad.html" data-i18n="topicPages.privacidad.linkLabel">Privacidad</a></p>
     </footer>
     
-    <script src="js/main.js?v=17" defer></script>
-    <script src="js/translations.js?v=32" defer></script>
+    <script src="js/main.js?v=18" defer></script>
+    <script src="js/translations.js?v=34" defer></script>
 </body>
 </html>

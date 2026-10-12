@@ -411,6 +411,11 @@ nav a {
   position: relative;
 }
 
+/* Un ítem del menú nunca se parte en dos renglones (12-oct-2026). */
+nav a {
+  white-space: nowrap;
+}
+
 nav a::after {
   content: '';
   position: absolute;
@@ -1912,6 +1917,57 @@ header.scrolled .hamburger span {
 /* ────────────────────────────────────────────────────────────── */
 /* RESPONSIVE — 900px (tablet / mobile)                           */
 /* ────────────────────────────────────────────────────────────── */
+
+/* Menú compacto (12-oct-2026). Con seis ítems y en idiomas de palabras largas (tagalo,
+   lingala, suajili) el menú no entra en una línea en anchos de escritorio intermedios y
+   se partía en dos o tres renglones, en español también a 901 px. main.js mide si entra
+   y, si no, pone header.nav-compact: el mismo menú del celular (max-width: 900px). */
+header.nav-compact .hamburger {
+  display: flex;
+}
+
+header.nav-compact.nav-open .lang-dropdown-trigger {
+  color: rgba(255, 255, 255, 0.85);
+  border-color: rgba(var(--gold-rgb), 0.55);
+}
+
+header.nav-compact.nav-open .hamburger span {
+  background: #fff;
+}
+
+header.nav-compact nav ul {
+  position: fixed;
+  inset: 0;
+  background: rgba(20, 14, 10, 0.98);
+  backdrop-filter: blur(8px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 36px;
+  transform: translateX(100%);
+  transition: transform 0.38s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 1050;
+}
+
+header.nav-compact nav ul.open {
+  transform: translateX(0);
+}
+
+header.nav-compact.nav-open nav a {
+  font-size: 22px;
+  letter-spacing: 0.08em;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+header.nav-compact.nav-open nav a:hover,
+header.nav-compact.nav-open nav a.active {
+  color: var(--gold);
+}
+
+header.nav-compact .lang-dropdown {
+  z-index: 1100;
+}
 
 @media (max-width: 900px) {
   header {

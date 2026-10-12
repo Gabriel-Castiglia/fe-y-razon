@@ -7,6 +7,7 @@ const translationsIG = {
     mission: "Ozi",
     contact: "Kpọtụrụ",
     usefulPages: "Akụrụngwa Akwadoro",
+    author: "Onye Dere Ya",
     about: "Maka saịtị a"
   },
   hero: {
@@ -1075,6 +1076,66 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       nav: { prevTitle: "Yukarist: Sakrament nke etiti", nextTitle: "Ọkwa Nchụàjà na Nzukọ-nsọ Katọlik" }
     },
     "recursos-recomendados": {
+      // Los libros del autor tienen su propia página desde el 12-oct-2026: del-autor.html.
+      authorEyebrow: "Site n'aka onye dere saịtị a",
+      authorText: "Akwụkwọ M. Gabriel Castiglia, onye dere saịtị a, nwere ibe nke ha.",
+      authorButton: "Lee akwụkwọ ndị ahụ →",
+      // Vade Retro (13-oct-2026): Luis María Piccinali aceptó por correo el 9-oct.
+      vadeRetro: {
+        eyebrow: "Podcast · Ihe Nkiri Akụkọ",
+        tag: "Italy · Luis María Piccinali · N'asụsụ Spanish",
+        desc: "VADE RETRO na-enyocha ma na-egosi akaebe gbasara agha mmụọ nke na-agafe n'akụkọ ihe mere eme, ndọrọ ndọrọ ọchịchị, omenala na ndụ kwa ụbọchị, mgbe niile site n'okwukwe Katọlik; ọ bụ Luis Piccinali na-emepụta ya. Ụlọ ọrụ mmepụta ya, Dominus Estudios, na-akwadokwa usoro ihe nkiri «Asesinato en el Grado 33», dabere n'akwụkwọ Fada Charles T. Murr banyere nyocha e mere na Curia Rome n'afọ 1977.",
+        epLabel: "Malite ebe a"
+      },
+      sec5: {
+        eyebrow: "Ọkwa iwu",
+        title: "Ikike nwebisiinka",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Ikike niile echekwara.</strong> Ederede, isiokwu na ntụgharị asụsụ dị na saịtị a bụ ọrụ mbụ nke onye edemede, echekwabakwara ha site n'iwu nwebisiinka na nkwekọrịta mba ụwa gbasara ya.",
+        p2: "<strong>A machibidoro</strong> imepụta, idepụta, ikesa, ibipụta, ịtụgharị ma ọ bụ ime mgbanwe, ya niile ma ọ bụ akụkụ ya, n'ụzọ ọ bụla, na-enweghị ikike ederede sitere n'aka onye edemede tupu mgbe ahụ. A na-ekwe ka e hota obere akụkụ maka ọmụmụ ihe ma ọ bụ nkọwa, ma ọ bụrụ na akpọrọ aha onye edemede ma jikọọ na ibe a.",
+        p4: "Ọwa, akwụkwọ, foto na saịtị ndị a kwadoro na ibe a bụ nke ndị dere ha na ndị nwe ha. E jikọtara ha naanị dị ka nkwado, na-enweghị mmekọrịta azụmahịa ma ọ bụ ụgwọ ọ bụla."
+      },
+      pageTitle: "Akụrụngwa Akwadoro | Okwukwe na Uche",
+      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Akụrụngwa</span></div><h1>Akụrụngwa Akwadoro</h1><p>Isi mmalite ntụkwasị obi iji mikwuo, ịmụta na ịkekọrịta okwukwe Katọlik.</p><a href="temas.html" class="btn-outline-white">Laghachi na Isiokwu</a>`,
+      labels: {
+        bible: "Akwụkwọ Nsọ →",
+        catechism: "Katekizim →",
+        website: "Weebụsaịtị →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "N'asụsụ Spanish →",
+        toroCountry: "Venezuela",
+        oliveraCountry: "Argentina · QNTLC",
+        heraldosTag: "Ecuador"
+      },
+      sec1: { eyebrow: "Oche Dị Nsọ", title: "Ebe e si nweta ihe na Vatican", desc: "Akwụkwọ gọọmentị nke Nzukọ-nsọ, dị na webụsaịtị Oche Dị Nsọ." },
+      sec2: {
+        eyebrow: "Apologetics · Ọzụzụ", title: "Ndị Nchụàjà na Ndị Nkuzi", desc: "Olu kwesịrị ntụkwasị obi nye Magisterium ndị na-akụzi, na-echebe ma na-ekwusa okwukwe na omimi na ịdị uchu.",
+        toro:    { desc: "Onye na-amụ banyere nkà mmụta okpukpe na apologetics. Ọ na-aza ajụjụ kachasị ike banyere okwukwe Katọlik n'ụzọ miri emi." },
+        olivera: { desc: "Ọkọ akụkọ ihe mere eme na apologetic nke Augustinian. Ọ na-agbaso echiche uche, ịrọ òtù na njehie ọgbara ọhụrụ site na ịdị uchu." },
+        montfort: { tag: "France · ihe dị ka 1712", title: "Akwụkwọ gbasara Ezi Nsọpụrụ nye Nwaagbọghọ Nsọ Meri", author: "Nsọ Louis-Marie Grignion de Montfort", desc: "Ọrụ ama ama gbasara ịrara onwe onye nye Jizọs site na Meri. Mbipụta zuru ezu na PDF, n'asụsụ Bekee.", ed1: "PDF n'asụsụ Bekee →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
+      },
+      sec3: {
+        eyebrow: "Apostolates · Mgbasa Ozi", title: "Apostolates na Mgbasa Ozi Katọlik",
+        vaticannews: { desc: "Weebụsaịtị akụkọ ọfịshịal nke Oche Nsọ. Akụkọ gbasara Poopu na Chọọchị ụwa niile, tinyere ngosi ndụ nke ememe Poopu.", tag: "Oche Nsọ · Akụkọ", ytEs: "YouTube n'asụsụ Spanish →", ytEn: "YouTube n'asụsụ Bekee →" },
+        heraldos: { desc: "Ozi ndị ozi ala ọzọ. Ọzụzụ, catechesis, na izisa ozi ọma kwesịrị ntụkwasị obi nye Ọdịnala." },
+        rugged:   { desc: "Rosary mara mma ejiri aka mee na ihe okwukwe dị iche iche dị elu nke a na-ezigara mba ụwa.", tag: "United States" },
+        grat:     { desc: "Baịbụl Jerusalem na Bekee ma ọ bụ Spanish Latin American (maka asụsụ ndị ọzọ lelee ibe gọọmentị). Nwere atụmatụ ọmụmụ pụrụ iche nwere nkọwa nzọụkwụ na eserese, dị mma maka ndị ọhụrụ.", tag: "Baịbụl · Ọzụzụ" },
+        ewtn:     { desc: "Netwọk telivishọn Katọlik kachasị ukwuu n'ụwa. Misa kwa ụbọchị, Rosary Dị Nsọ, ihe ngosi, na ọzụzụ awa 24.", tag: "Telivishọn · Redio" }
+      },
+      nav: { prevTitle: "Ịbụ onye mbụ nke Pita", nextTitle: "Ọkwa Nchụàjà na Nzukọ-nsọ Katọlik" }
+    },
+    // Página «Del autor» (12-oct-2026). sec4 (La puerta falsa), sec4b (Fe y Razón) y
+    // rights.p3 vinieron de «recursos-recomendados» sin cambios.
+    "del-autor": {
+      pageTitle: "Onye Dere Ya | Okwukwe na Uche",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">M. Gabriel Castiglia</span>
+            </div>
+            <h1>Onye Dere Ya</h1>
+            <p>Akwụkwọ nke onye dere saịtị a.</p>
+            <a href="temas.html" class="btn-outline-white">Laghachi na Isiokwu</a>`,
+      booksEyebrow: "Akwụkwọ",
       sec4: {
         epigraph: "“N’ihe ndị dị adị, ụfọdụ na-adabere n’anyị; ụfọdụ adabereghị.”",
         epigraphAuthor: "Epictetus",
@@ -1120,43 +1181,11 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
       },
-      sec5: {
+      rights: {
         eyebrow: "Ọkwa iwu",
         title: "Ikike nwebisiinka",
-        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Ikike niile echekwara.</strong> Ederede, isiokwu na ntụgharị asụsụ dị na saịtị a bụ ọrụ mbụ nke onye edemede, echekwabakwara ha site n'iwu nwebisiinka na nkwekọrịta mba ụwa gbasara ya.",
-        p2: "<strong>A machibidoro</strong> imepụta, idepụta, ikesa, ibipụta, ịtụgharị ma ọ bụ ime mgbanwe, ya niile ma ọ bụ akụkụ ya, n'ụzọ ọ bụla, na-enweghị ikike ederede sitere n'aka onye edemede tupu mgbe ahụ. A na-ekwe ka e hota obere akụkụ maka ọmụmụ ihe ma ọ bụ nkọwa, ma ọ bụrụ na akpọrọ aha onye edemede ma jikọọ na ibe a.",
-        p3: "<strong>The False Door</strong> na mbipụta ya niile bụ ọrụ edebanyere aha onye edemede: ederede ya, aha ya na mkpuchi ya enweghị ike ka e megharịa ma ọ bụ jiri ya mee ihe na-enweghị ikike.",
-        p4: "Ọwa, akwụkwọ, foto na saịtị ndị a kwadoro na ibe a bụ nke ndị dere ha na ndị nwe ha. E jikọtara ha naanị dị ka nkwado, na-enweghị mmekọrịta azụmahịa ma ọ bụ ụgwọ ọ bụla."
-      },
-      pageTitle: "Akụrụngwa Akwadoro | Okwukwe na Uche",
-      hero: `<div class="hero-eyebrow"><span class="eyebrow-line"></span><span class="eyebrow-text">Akụrụngwa</span></div><h1>Akụrụngwa Akwadoro</h1><p>Isi mmalite ntụkwasị obi iji mikwuo, ịmụta na ịkekọrịta okwukwe Katọlik.</p><a href="temas.html" class="btn-outline-white">Laghachi na Isiokwu</a>`,
-      labels: {
-        bible: "Akwụkwọ Nsọ →",
-        catechism: "Katekizim →",
-        website: "Weebụsaịtị →",
-        youtube: "YouTube →",
-        greatAdventure: "Great Adventure →",
-        inSpanish: "N'asụsụ Spanish →",
-        toroCountry: "Venezuela",
-        oliveraCountry: "Argentina · QNTLC",
-        heraldosTag: "Ecuador"
-      },
-      sec1: { eyebrow: "Oche Dị Nsọ", title: "Ebe e si nweta ihe na Vatican", desc: "Akwụkwọ gọọmentị nke Nzukọ-nsọ, dị na webụsaịtị Oche Dị Nsọ." },
-      sec2: {
-        eyebrow: "Apologetics · Ọzụzụ", title: "Ndị Nchụàjà na Ndị Nkuzi", desc: "Olu kwesịrị ntụkwasị obi nye Magisterium ndị na-akụzi, na-echebe ma na-ekwusa okwukwe na omimi na ịdị uchu.",
-        toro:    { desc: "Onye na-amụ banyere nkà mmụta okpukpe na apologetics. Ọ na-aza ajụjụ kachasị ike banyere okwukwe Katọlik n'ụzọ miri emi." },
-        olivera: { desc: "Ọkọ akụkọ ihe mere eme na apologetic nke Augustinian. Ọ na-agbaso echiche uche, ịrọ òtù na njehie ọgbara ọhụrụ site na ịdị uchu." },
-        montfort: { tag: "France · ihe dị ka 1712", title: "Akwụkwọ gbasara Ezi Nsọpụrụ nye Nwaagbọghọ Nsọ Meri", author: "Nsọ Louis-Marie Grignion de Montfort", desc: "Ọrụ ama ama gbasara ịrara onwe onye nye Jizọs site na Meri. Mbipụta zuru ezu na PDF, n'asụsụ Bekee.", ed1: "PDF n'asụsụ Bekee →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
-      },
-      sec3: {
-        eyebrow: "Apostolates · Mgbasa Ozi", title: "Apostolates na Mgbasa Ozi Katọlik",
-        vaticannews: { desc: "Weebụsaịtị akụkọ ọfịshịal nke Oche Nsọ. Akụkọ gbasara Poopu na Chọọchị ụwa niile, tinyere ngosi ndụ nke ememe Poopu.", tag: "Oche Nsọ · Akụkọ", ytEs: "YouTube n'asụsụ Spanish →", ytEn: "YouTube n'asụsụ Bekee →" },
-        heraldos: { desc: "Ozi ndị ozi ala ọzọ. Ọzụzụ, catechesis, na izisa ozi ọma kwesịrị ntụkwasị obi nye Ọdịnala." },
-        rugged:   { desc: "Rosary mara mma ejiri aka mee na ihe okwukwe dị iche iche dị elu nke a na-ezigara mba ụwa.", tag: "United States" },
-        grat:     { desc: "Baịbụl Jerusalem na Bekee ma ọ bụ Spanish Latin American (maka asụsụ ndị ọzọ lelee ibe gọọmentị). Nwere atụmatụ ọmụmụ pụrụ iche nwere nkọwa nzọụkwụ na eserese, dị mma maka ndị ọhụrụ.", tag: "Baịbụl · Ọzụzụ" },
-        ewtn:     { desc: "Netwọk telivishọn Katọlik kachasị ukwuu n'ụwa. Misa kwa ụbọchị, Rosary Dị Nsọ, ihe ngosi, na ọzụzụ awa 24.", tag: "Telivishọn · Redio" }
-      },
-      nav: { prevTitle: "Ịbụ onye mbụ nke Pita", nextTitle: "Ọkwa Nchụàjà na Nzukọ-nsọ Katọlik" }
+        p3: "<strong>The False Door</strong> na <strong>Faith and Reason</strong>, ya na mbipụta ha niile, bụ ọrụ edebanyere aha onye edemede: ederede ha, aha ha na mkpuchi ha enweghị ike ka e megharịa ma ọ bụ jiri ha mee ihe na-enweghị ikike."
+      }
     },
     "privacidad": {
       pageTitle: "Nzuzo | Okwukwe na Uche",

@@ -15,6 +15,7 @@ const translationsES = {
     mission: "Misión",
     contact: "Contacto",
     usefulPages: "Recursos recomendados",
+    author: "Del autor",
     about: "Sobre este sitio"
   },
   hero: {
@@ -1493,6 +1494,75 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
       }
     },
     "recursos-recomendados": {
+      // Los libros del autor tienen su propia página desde el 12-oct-2026: del-autor.html.
+      authorEyebrow: "Del autor de este sitio",
+      authorText: "Los libros de M. Gabriel Castiglia, autor de este sitio, están en su propia página.",
+      authorButton: "Ver los libros →",
+      // Vade Retro (13-oct-2026): Luis María Piccinali aceptó por correo el 9-oct.
+      vadeRetro: {
+        eyebrow: "Podcast · Documentales",
+        tag: "Italia · Luis María Piccinali",
+        desc: "VADE RETRO investiga y presenta testimonios sobre la batalla espiritual que atraviesa la historia, la política, la cultura y la vida cotidiana, siempre desde la fe católica, producido por Luis Piccinali. Su productora, Dominus Estudios, prepara además la docuserie «Asesinato en el Grado 33», basada en el libro del P. Charles T. Murr sobre la investigación de la Curia romana de 1977.",
+        epLabel: "Para empezar"
+      },
+      sec5: {
+        eyebrow: "Aviso legal",
+        title: "Derechos de autor",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Todos los derechos reservados.</strong> Los textos, artículos y traducciones de este sitio son obra original del autor y están protegidos por la legislación de derecho de autor y por los tratados internacionales en la materia.",
+        p2: "Queda <strong>prohibida</strong> la reproducción, copia, distribución, publicación, traducción o adaptación, total o parcial, por cualquier medio o procedimiento, sin autorización previa y por escrito del autor. Se permite citar pasajes breves con fines de estudio o comentario, siempre que se indique el autor y se enlace a esta página.",
+        p4: "Los canales, libros, imágenes y sitios recomendados en esta página pertenecen a sus respectivos autores y titulares. Se enlazan únicamente a título de recomendación, sin vínculo comercial ni contraprestación de ninguna clase."
+      },
+      pageTitle: "Recursos recomendados | Fé y Razón",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Recursos</span>
+            </div>
+            <h1>Recursos recomendados</h1>
+            <p>Fuentes de confianza para profundizar, formarse y compartir la fe católica.</p>
+            <a href="temas.html" class="btn-outline-white">Volver a Temas</a>`,
+      labels: {
+        bible: "Sagrada Escritura →",
+        catechism: "Catecismo →",
+        website: "Sitio web →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "En español →",
+        toroCountry: "Venezuela",
+        oliveraCountry: "Argentina · QNTLC",
+        heraldosTag: "Ecuador"
+      },
+      sec1: { eyebrow: "Santa Sede", title: "Fuentes vaticanas", desc: "Documentos oficiales de la Iglesia, disponibles en el sitio de la Santa Sede." },
+      sec2: {
+        eyebrow: "Apologética · Formación", title: "Sacerdotes y formadores", desc: "Voces fieles al Magisterio que enseñan, defienden y proclaman la fe con profundidad y rigor.",
+        toro:    { desc: "Teólogo y apologeta. Responde con profundidad las objeciones más difíciles a la fe católica." },
+        olivera: { desc: "Historiador y apologeta agustino. Aborda el racionalismo, las sectas y los errores modernos con rigor." },
+        montfort: { tag: "Francia · hacia 1712", title: "Tratado de la Verdadera Devoción a la Santísima Virgen", author: "San Luis María Grignion de Montfort", desc: "La obra clásica sobre la consagración a Jesús por María. Dos ediciones completas en PDF.", ed1: "Edición monfortiana (PDF) →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_ES_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
+      },
+      sec3: {
+        eyebrow: "Apostolados · Medios", title: "Apostolados y medios católicos",
+        vaticannews: { desc: "El portal informativo oficial de la Santa Sede. Noticias del Papa y de la Iglesia universal, con transmisiones en directo de las celebraciones pontificias.", tag: "Santa Sede · Noticias", ytEs: "YouTube en español →", ytEn: "YouTube en inglés →" },
+        heraldos: { desc: "Apostolado misionero. Formación, catequesis y evangelización fiel a la Tradición." },
+        rugged:   { desc: "Hermosos rosarios hechos a mano y artículos de fe varios de gran calidad con envío internacional.", tag: "Estados Unidos" },
+        grat:     { desc: "Biblia de Jerusalén en inglés o español latino (para otros idiomas verifique en la página oficial). Con plan de estudio único conteniendo explicaciones paso a paso y gráficas, ideal para neófitos.", tag: "Biblia · Formación" },
+        ewtn:     { desc: "La red de televisión católica más grande del mundo. Misa diaria, Santo Rosario, documentales y formación las 24 horas.", tag: "Televisión · Radio" }
+      },
+      nav: {
+        prevTitle: "La primacía de Pedro",
+        nextTitle: "El Sacerdocio en la Iglesia Católica"
+      }
+    },
+    // Página «Del autor» (12-oct-2026). sec4 (La puerta falsa), sec4b (Fe y Razón) y
+    // rights.p3 vinieron de «recursos-recomendados» sin cambios.
+    "del-autor": {
+      pageTitle: "Del autor | Fé y Razón",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">M. Gabriel Castiglia</span>
+            </div>
+            <h1>Del autor</h1>
+            <p>Los libros del autor de este sitio.</p>
+            <a href="temas.html" class="btn-outline-white">Volver a Temas</a>`,
+      booksEyebrow: "Libros",
       sec4: {
         epigraph: "«De lo existente, unas cosas dependen de nosotros; otras no.»",
         epigraphAuthor: "Epicteto",
@@ -1539,51 +1609,10 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-es.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-es.jpg"
       },
-      sec5: {
+      rights: {
         eyebrow: "Aviso legal",
         title: "Derechos de autor",
-        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Todos los derechos reservados.</strong> Los textos, artículos y traducciones de este sitio son obra original del autor y están protegidos por la legislación de derecho de autor y por los tratados internacionales en la materia.",
-        p2: "Queda <strong>prohibida</strong> la reproducción, copia, distribución, publicación, traducción o adaptación, total o parcial, por cualquier medio o procedimiento, sin autorización previa y por escrito del autor. Se permite citar pasajes breves con fines de estudio o comentario, siempre que se indique el autor y se enlace a esta página.",
-        p3: "<strong>La puerta falsa</strong> y todas sus ediciones son obra registrada del autor: su texto, su título y su portada no pueden reproducirse ni utilizarse sin autorización.",
-        p4: "Los canales, libros, imágenes y sitios recomendados en esta página pertenecen a sus respectivos autores y titulares. Se enlazan únicamente a título de recomendación, sin vínculo comercial ni contraprestación de ninguna clase."
-      },
-      pageTitle: "Recursos recomendados | Fé y Razón",
-      hero: `<div class="hero-eyebrow">
-                <span class="eyebrow-line"></span>
-                <span class="eyebrow-text">Recursos</span>
-            </div>
-            <h1>Recursos recomendados</h1>
-            <p>Fuentes de confianza para profundizar, formarse y compartir la fe católica.</p>
-            <a href="temas.html" class="btn-outline-white">Volver a Temas</a>`,
-      labels: {
-        bible: "Sagrada Escritura →",
-        catechism: "Catecismo →",
-        website: "Sitio web →",
-        youtube: "YouTube →",
-        greatAdventure: "Great Adventure →",
-        inSpanish: "En español →",
-        toroCountry: "Venezuela",
-        oliveraCountry: "Argentina · QNTLC",
-        heraldosTag: "Ecuador"
-      },
-      sec1: { eyebrow: "Santa Sede", title: "Fuentes vaticanas", desc: "Documentos oficiales de la Iglesia, disponibles en el sitio de la Santa Sede." },
-      sec2: {
-        eyebrow: "Apologética · Formación", title: "Sacerdotes y formadores", desc: "Voces fieles al Magisterio que enseñan, defienden y proclaman la fe con profundidad y rigor.",
-        toro:    { desc: "Teólogo y apologeta. Responde con profundidad las objeciones más difíciles a la fe católica." },
-        olivera: { desc: "Historiador y apologeta agustino. Aborda el racionalismo, las sectas y los errores modernos con rigor." },
-        montfort: { tag: "Francia · hacia 1712", title: "Tratado de la Verdadera Devoción a la Santísima Virgen", author: "San Luis María Grignion de Montfort", desc: "La obra clásica sobre la consagración a Jesús por María. Dos ediciones completas en PDF.", ed1: "Edición monfortiana (PDF) →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_ES_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
-      },
-      sec3: {
-        eyebrow: "Apostolados · Medios", title: "Apostolados y medios católicos",
-        vaticannews: { desc: "El portal informativo oficial de la Santa Sede. Noticias del Papa y de la Iglesia universal, con transmisiones en directo de las celebraciones pontificias.", tag: "Santa Sede · Noticias", ytEs: "YouTube en español →", ytEn: "YouTube en inglés →" },
-        heraldos: { desc: "Apostolado misionero. Formación, catequesis y evangelización fiel a la Tradición." },
-        rugged:   { desc: "Hermosos rosarios hechos a mano y artículos de fe varios de gran calidad con envío internacional.", tag: "Estados Unidos" },
-        grat:     { desc: "Biblia de Jerusalén en inglés o español latino (para otros idiomas verifique en la página oficial). Con plan de estudio único conteniendo explicaciones paso a paso y gráficas, ideal para neófitos.", tag: "Biblia · Formación" },
-        ewtn:     { desc: "La red de televisión católica más grande del mundo. Misa diaria, Santo Rosario, documentales y formación las 24 horas.", tag: "Televisión · Radio" }
-      },
-      nav: {
-        prevTitle: "La primacía de Pedro",
-        nextTitle: "El Sacerdocio en la Iglesia Católica"
+        p3: "<strong>La puerta falsa</strong> y <strong>Fe y Razón</strong>, con todas sus ediciones, son obras registradas del autor: sus textos, sus títulos y sus portadas no pueden reproducirse ni utilizarse sin autorización."
       }
     },
     "privacidad": {

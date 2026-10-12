@@ -7,6 +7,7 @@ const translationsTL = {
     mission: "Misyon",
     contact: "Makipag-ugnayan",
     usefulPages: "Mga Inirerekomendang Link",
+    author: "Ang May-akda",
     about: "Tungkol"
   },
   hero: {
@@ -1262,6 +1263,76 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
       }
     },
     "recursos-recomendados": {
+      // Los libros del autor tienen su propia página desde el 12-oct-2026: del-autor.html.
+      authorEyebrow: "Mula sa may-akda ng sitiong ito",
+      authorText: "May sariling pahina ang mga aklat ni M. Gabriel Castiglia, ang may-akda ng sitiong ito.",
+      authorButton: "Tingnan ang mga aklat →",
+      // Vade Retro (13-oct-2026): Luis María Piccinali aceptó por correo el 9-oct.
+      vadeRetro: {
+        eyebrow: "Podcast · Mga Dokumentaryo",
+        tag: "Italya · Luis María Piccinali · Sa Espanyol",
+        desc: "Sinisiyasat at inilalahad ng VADE RETRO ang mga patotoo tungkol sa espirituwal na labanang dumaraan sa kasaysayan, politika, kultura at pang-araw-araw na buhay, palaging mula sa pananampalatayang Katoliko, at ginawa ni Luis Piccinali. Inihahanda rin ng kanyang production company na Dominus Estudios ang docuseries na «Asesinato en el Grado 33», batay sa aklat ni P. Charles T. Murr tungkol sa imbestigasyon sa Kuryang Romano noong 1977.",
+        epLabel: "Simulan dito"
+      },
+      sec5: {
+        eyebrow: "Paunawang legal",
+        title: "Karapatang-ari",
+        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Nakalaan ang lahat ng karapatan.</strong> Ang mga teksto, artikulo at salin sa sitiong ito ay orihinal na akda ng may-akda at protektado ng batas sa karapatang-ari at ng mga kasunduang pandaigdig hinggil dito.",
+        p2: "<strong>Ipinagbabawal</strong> ang pagpaparami, pagkopya, pamamahagi, paglalathala, pagsasalin o pag-aangkop, buo man o bahagi, sa anumang paraan, nang walang naunang nakasulat na pahintulot ng may-akda. Pinapayagan ang pagsipi ng maikling bahagi para sa pag-aaral o komentaryo, basta't nakasaad ang may-akda at may link sa pahinang ito.",
+        p4: "Ang mga channel, aklat, larawan at sitio na inirerekomenda sa pahinang ito ay pag-aari ng kani-kanilang may-akda at may hawak ng karapatan. Ini-link lamang ang mga ito bilang rekomendasyon, walang anumang ugnayang pangkalakal ni kabayaran."
+      },
+      pageTitle: "Mga Inirerekomendang Link | Pananampalataya at Dahilan",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">Mga Mapagkukunan</span>
+            </div>
+            <h1>Mga Inirerekomendang Link</h1>
+            <p>Mga pinagkakatiwalaang pinagkukunan para sa pagpapalalim, pag-aaral, at pagbabahagi ng Katolikong pananampalataya.</p>
+            <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
+      labels: {
+        bible: "Banal na Kasulatan →",
+        catechism: "Katesismo →",
+        website: "Website →",
+        youtube: "YouTube →",
+        greatAdventure: "Great Adventure →",
+        inSpanish: "Sa Espanyol →",
+        toroCountry: "Venezuela",
+        oliveraCountry: "Argentina · QNTLC",
+        heraldosTag: "Ecuador"
+      },
+      sec1: { eyebrow: "Banal na Luklukan", title: "Mga Mapagkukunan ng Vaticano", desc: "Mga opisyal na dokumento ng Simbahan, available sa website ng Holy See." },
+      sec2: {
+        eyebrow: "Apologetika · Pormasyon", title: "Mga Pari at Tagapagturo", desc: "Mga tinig na tapat sa Magisterium na nagtuturo, nagtatanggol, at nagpapahayag ng pananampalataya nang may kalaliman at kahusayan.",
+        toro:    { desc: "Teologo at apologista. Tinatawid ang pinakamahirap na pagtutol sa Katolikong pananampalataya nang may kalaliman." },
+        olivera: { desc: "Augustinianong istoryador at apologista. Tinatawid ang rasyonalismo, mga sekta, at modernong kamalian nang may kahusayan." },
+        montfort: { tag: "Pransiya · mga 1712", title: "Tratado ng Tunay na Debosyon sa Mahal na Birhen", author: "San Luis Maria Grignion de Montfort", desc: "Ang klasikong akda tungkol sa pagtatalaga kay Jesus sa pamamagitan ni Maria. Buong edisyon sa PDF, sa Ingles.", ed1: "PDF sa Ingles →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
+      },
+      sec3: {
+        eyebrow: "Mga Apostolado · Media", title: "Mga Apostolado at Katolikong Media",
+        vaticannews: { desc: "Ang opisyal na portal ng balita ng Banal na Sede. Mga balita tungkol sa Santo Papa at sa pandaigdigang Simbahan, may live na pagsahimpapawid ng mga pagdiriwang ng Santo Papa.", tag: "Banal na Sede · Balita", ytEs: "YouTube sa Espanyol →", ytEn: "YouTube sa Ingles →" },
+        heraldos: { desc: "Misyonaryong apostolado. Pagpapalakas ng pananampalataya, katekesis, at ebanghelisasyon na tapat sa Tradisyon." },
+        rugged:   { desc: "Magagandang gawa sa kamay na mga rosaryo at iba't ibang mataas na kalidad na artikulo ng pananampalataya na may internasyonal na pagpapadala.", tag: "Estados Unidos" },
+        grat:     { desc: "Biblia ng Jerusalem sa Ingles o Latin American Spanish (para sa ibang wika tingnan ang opisyal na pahina). May natatanging plano ng pag-aaral na naglalaman ng hakbang-hakbang na paliwanag at mga grapiko, perpekto para sa mga baguhan.", tag: "Biblia · Pormasyon" },
+        ewtn:     { desc: "Ang pinakamalaking Katolikong television network sa mundo. Araw-araw na Misa, Banal na Rosaryo, mga dokumentaryo, at pagpapalakas ng pananampalataya nang 24 na oras.", tag: "Telebisyon · Radyo" }
+      }
+      ,
+      nav: {
+        prevTitle: "Ang Pangunguna ni Pedro",
+        nextTitle: "Ang Pagkasaserdote sa Simbahang Katoliko"
+      }
+    },
+    // Página «Del autor» (12-oct-2026). sec4 (La puerta falsa), sec4b (Fe y Razón) y
+    // rights.p3 vinieron de «recursos-recomendados» sin cambios.
+    "del-autor": {
+      pageTitle: "Ang May-akda | Pananampalataya at Dahilan",
+      hero: `<div class="hero-eyebrow">
+                <span class="eyebrow-line"></span>
+                <span class="eyebrow-text">M. Gabriel Castiglia</span>
+            </div>
+            <h1>Ang May-akda</h1>
+            <p>Mga aklat ng may-akda ng sitiong ito.</p>
+            <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
+      booksEyebrow: "Mga Aklat",
       sec4: {
         epigraph: "“Sa mga bagay na umiiral, ang ilan ay nakasalalay sa atin; ang iba ay hindi.”",
         epigraphAuthor: "Epicteto",
@@ -1307,52 +1378,10 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
       },
-      sec5: {
+      rights: {
         eyebrow: "Paunawang legal",
         title: "Karapatang-ari",
-        p1: "<strong>&copy; 2026 M. Gabriel Castiglia. Nakalaan ang lahat ng karapatan.</strong> Ang mga teksto, artikulo at salin sa sitiong ito ay orihinal na akda ng may-akda at protektado ng batas sa karapatang-ari at ng mga kasunduang pandaigdig hinggil dito.",
-        p2: "<strong>Ipinagbabawal</strong> ang pagpaparami, pagkopya, pamamahagi, paglalathala, pagsasalin o pag-aangkop, buo man o bahagi, sa anumang paraan, nang walang naunang nakasulat na pahintulot ng may-akda. Pinapayagan ang pagsipi ng maikling bahagi para sa pag-aaral o komentaryo, basta't nakasaad ang may-akda at may link sa pahinang ito.",
-        p3: "Ang <strong>The False Door</strong> at lahat ng edisyon nito ay nakarehistrong akda ng may-akda: ang teksto, pamagat at pabalat nito ay hindi maaaring kopyahin o gamitin nang walang pahintulot.",
-        p4: "Ang mga channel, aklat, larawan at sitio na inirerekomenda sa pahinang ito ay pag-aari ng kani-kanilang may-akda at may hawak ng karapatan. Ini-link lamang ang mga ito bilang rekomendasyon, walang anumang ugnayang pangkalakal ni kabayaran."
-      },
-      pageTitle: "Mga Inirerekomendang Link | Pananampalataya at Dahilan",
-      hero: `<div class="hero-eyebrow">
-                <span class="eyebrow-line"></span>
-                <span class="eyebrow-text">Mga Mapagkukunan</span>
-            </div>
-            <h1>Mga Inirerekomendang Link</h1>
-            <p>Mga pinagkakatiwalaang pinagkukunan para sa pagpapalalim, pag-aaral, at pagbabahagi ng Katolikong pananampalataya.</p>
-            <a href="temas.html" class="btn-outline-white">Bumalik sa Mga Paksa</a>`,
-      labels: {
-        bible: "Banal na Kasulatan →",
-        catechism: "Katesismo →",
-        website: "Website →",
-        youtube: "YouTube →",
-        greatAdventure: "Great Adventure →",
-        inSpanish: "Sa Espanyol →",
-        toroCountry: "Venezuela",
-        oliveraCountry: "Argentina · QNTLC",
-        heraldosTag: "Ecuador"
-      },
-      sec1: { eyebrow: "Banal na Luklukan", title: "Mga Mapagkukunan ng Vaticano", desc: "Mga opisyal na dokumento ng Simbahan, available sa website ng Holy See." },
-      sec2: {
-        eyebrow: "Apologetika · Pormasyon", title: "Mga Pari at Tagapagturo", desc: "Mga tinig na tapat sa Magisterium na nagtuturo, nagtatanggol, at nagpapahayag ng pananampalataya nang may kalaliman at kahusayan.",
-        toro:    { desc: "Teologo at apologista. Tinatawid ang pinakamahirap na pagtutol sa Katolikong pananampalataya nang may kalaliman." },
-        olivera: { desc: "Augustinianong istoryador at apologista. Tinatawid ang rasyonalismo, mga sekta, at modernong kamalian nang may kahusayan." },
-        montfort: { tag: "Pransiya · mga 1712", title: "Tratado ng Tunay na Debosyon sa Mahal na Birhen", author: "San Luis Maria Grignion de Montfort", desc: "Ang klasikong akda tungkol sa pagtatalaga kay Jesus sa pamamagitan ni Maria. Buong edisyon sa PDF, sa Ingles.", ed1: "PDF sa Ingles →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
-      },
-      sec3: {
-        eyebrow: "Mga Apostolado · Media", title: "Mga Apostolado at Katolikong Media",
-        vaticannews: { desc: "Ang opisyal na portal ng balita ng Banal na Sede. Mga balita tungkol sa Santo Papa at sa pandaigdigang Simbahan, may live na pagsahimpapawid ng mga pagdiriwang ng Santo Papa.", tag: "Banal na Sede · Balita", ytEs: "YouTube sa Espanyol →", ytEn: "YouTube sa Ingles →" },
-        heraldos: { desc: "Misyonaryong apostolado. Pagpapalakas ng pananampalataya, katekesis, at ebanghelisasyon na tapat sa Tradisyon." },
-        rugged:   { desc: "Magagandang gawa sa kamay na mga rosaryo at iba't ibang mataas na kalidad na artikulo ng pananampalataya na may internasyonal na pagpapadala.", tag: "Estados Unidos" },
-        grat:     { desc: "Biblia ng Jerusalem sa Ingles o Latin American Spanish (para sa ibang wika tingnan ang opisyal na pahina). May natatanging plano ng pag-aaral na naglalaman ng hakbang-hakbang na paliwanag at mga grapiko, perpekto para sa mga baguhan.", tag: "Biblia · Pormasyon" },
-        ewtn:     { desc: "Ang pinakamalaking Katolikong television network sa mundo. Araw-araw na Misa, Banal na Rosaryo, mga dokumentaryo, at pagpapalakas ng pananampalataya nang 24 na oras.", tag: "Telebisyon · Radyo" }
-      }
-      ,
-      nav: {
-        prevTitle: "Ang Pangunguna ni Pedro",
-        nextTitle: "Ang Pagkasaserdote sa Simbahang Katoliko"
+        p3: "Ang <strong>The False Door</strong> at ang <strong>Faith and Reason</strong>, sa lahat ng kanilang edisyon, ay nakarehistrong akda ng may-akda: ang kanilang teksto, pamagat at pabalat ay hindi maaaring kopyahin o gamitin nang walang pahintulot."
       }
     },
     "privacidad": {
