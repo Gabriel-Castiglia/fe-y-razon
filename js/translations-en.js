@@ -1333,7 +1333,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
             <a href="temas.html" class="btn-outline-white">Back to Topics</a>`,
       booksEyebrow: "Books",
       sec4: {
-        epigraph: "“Of the things that are, some depend on us; others do not.”",
+        epigraph: "“Of things that exist, some are within our power; others are not.”",
         epigraphAuthor: "Epictetus",
         eyebrow: "From the author of this site",
         title: "The False Door<span class='rec-book-subtitle'>Reason Against Modern Occultism</span>",
