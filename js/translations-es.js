@@ -1568,7 +1568,7 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
         epigraphAuthor: "Epicteto",
         eyebrow: "Del autor de este sitio",
         title: "La puerta falsa<span class='rec-book-subtitle'>La razón contra el ocultismo moderno</span>",
-        edition: "Segunda edición, corregida y ampliada",
+        edition: "Segunda edición, mejorada y ampliada",
         desc: "<p>La sabiduría milenaria del antiguo Egipto que el ocultismo pretende vender tiene menos años que las repúblicas modernas, y una partida de nacimiento con dos nombres propios. El manual hermético que se presenta como la enseñanza de un maestro contemporáneo de Abraham se publicó en 1908, doscientos noventa y cuatro años después de que un filólogo enterrara ese linaje. Y el libro que el ocultismo del siglo veinte eligió como padrino termina con un grupo de espíritus libres arrodillados delante de un burro.</p><p>Este libro abre los textos del rubro —grimorios, biblias negras, manuales herméticos, el tarot, la astrología, el «manifestar»— y los lee enteros, con las fechas al lado. No discute creencias: coteja ediciones, sigue el rastro de cada cita y deja que las páginas hablen. Cada cargo se prueba con el propio género, y nunca contra una persona.</p><p>Al final, cuando el estante de la tienda oscura ya se cayó, queda lo que el ocultismo imita y no tiene: la razón ejercida sin miedo, la herencia de Epicteto, de Séneca, de Marco Aurelio.</p>",
         close: "No promete misterios. Ofrece algo más arduo y más digno: entender.",
         factFormatsLabel: "Formatos",
