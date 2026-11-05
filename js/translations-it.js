@@ -1188,7 +1188,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
       // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
       sec6: {
-        badge: "Nuova traduzione dal greco",
+        badge: "Nuova edizione commentata",
         author: "San Giovanni Damasceno",
         credit: "Edizione, traduzione in spagnolo, introduzione e note di M. Gabriel Castiglia",
         epigraph: "«Nulla è più prezioso della conoscenza.»",

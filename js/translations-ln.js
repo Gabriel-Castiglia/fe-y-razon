@@ -1188,7 +1188,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
       // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
       sec6: {
-        badge: "Libongoli ya sika longwa na Lingrɛki",
+        badge: "Edisyo ya sika na bilimboli",
         author: "Santu Yoane wa Damasi",
         credit: "Edisyo, libongoli na Lispanyɔ́, ebandeli mpe bilimboli na M. Gabriel Castiglia",
         epigraph: "«Eloko moko te ezali na motuya koleka boyebi.»",

@@ -1188,7 +1188,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
       // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
       sec6: {
-        badge: "Ntụgharị ọhụrụ site n'asụsụ Grik",
+        badge: "Mbipụta ọhụrụ nwere nkọwa",
         author: "Onye Nsọ Jọn nke Damaskọs",
         credit: "Mbipụta, ntụgharị n'asụsụ Spanish, mmalite na nkọwa site n'aka M. Gabriel Castiglia",
         epigraph: "«Ọ dịghị ihe dị oke ọnụ ahịa karịa ihe ọmụma.»",

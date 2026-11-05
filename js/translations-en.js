@@ -1384,7 +1384,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
       // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
       // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
       sec6: {
-        badge: "New translation from the Greek",
+        badge: "New annotated edition",
         author: "Saint John of Damascus",
         credit: "Edited and translated into Spanish, with an introduction and notes, by M. Gabriel Castiglia",
         epigraph: "“Nothing is more precious than knowledge.”",

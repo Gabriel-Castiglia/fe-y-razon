@@ -1385,7 +1385,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
       // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
       // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
       sec6: {
-        badge: "Bagong salin mula sa Griyego",
+        badge: "Bagong edisyong may anotasyon",
         author: "San Juan Damasceno",
         credit: "Edisyon, salin sa Espanyol, panimula at mga tala ni M. Gabriel Castiglia",
         epigraph: "«Walang mas mahalaga kaysa sa kaalaman.»",

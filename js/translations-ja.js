@@ -1384,7 +1384,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
       // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
       sec6: {
-        badge: "ギリシア語からの新訳",
+        badge: "注解付き新版",
         author: "ダマスコの聖ヨハネ",
         credit: "M・ガブリエル・カスティリア 編・スペイン語訳・序論・注",
         epigraph: "「知識にまさって尊いものは何もない。」",

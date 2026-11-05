@@ -1390,7 +1390,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
       // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
       // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
       sec6: {
-        badge: "Nova e Graeco translatio",
+        badge: "Nova editio annotata",
         author: "Sanctus Ioannes Damascenus",
         credit: "Editio, translatio Hispanica, introductio et notae M. Gabrielis Castiglia",
         epigraph: "«Nihil scientia pretiosius.»",

@@ -1616,7 +1616,7 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
       // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
       // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
       sec6: {
-        badge: "Nueva traducción del griego",
+        badge: "Nueva edición comentada",
         author: "San Juan Damasceno",
         credit: "Edición, traducción, introducción y notas de M. Gabriel Castiglia",
         epigraph: "«Nada hay más precioso que el conocimiento.»",

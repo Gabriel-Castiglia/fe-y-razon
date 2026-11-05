@@ -1196,7 +1196,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
       // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
       // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
       sec6: {
-        badge: "Nouvelle traduction du grec",
+        badge: "Nouvelle édition annotée",
         author: "Saint Jean Damascène",
         credit: "Édition, traduction en espagnol, introduction et notes de M. Gabriel Castiglia",
         epigraph: "« Rien n'est plus précieux que la connaissance. »",

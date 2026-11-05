@@ -1384,7 +1384,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
       // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
       sec6: {
-        badge: "Ny oversættelse fra græsk",
+        badge: "Ny kommenteret udgave",
         author: "Den hellige Johannes af Damaskus",
         credit: "Udgivet og oversat til spansk, med indledning og noter, af M. Gabriel Castiglia",
         epigraph: "»Intet er mere dyrebart end kundskab.«",

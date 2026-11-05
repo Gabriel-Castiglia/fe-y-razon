@@ -1188,7 +1188,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
       // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
       // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
       sec6: {
-        badge: "Tafsiri mpya kutoka Kigiriki",
+        badge: "Toleo jipya lenye maelezo",
         author: "Mtakatifu Yohane wa Damasko",
         credit: "Toleo, tafsiri kwa Kihispania, utangulizi na maelezo na M. Gabriel Castiglia",
         epigraph: "«Hakuna kitu cha thamani kuliko maarifa.»",

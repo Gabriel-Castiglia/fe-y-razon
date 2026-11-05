@@ -1196,7 +1196,7 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
       // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
       // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
       sec6: {
-        badge: "Nova tradução do grego",
+        badge: "Nova edição comentada",
         author: "São João Damasceno",
         credit: "Edição, tradução para o espanhol, introdução e notas de M. Gabriel Castiglia",
         epigraph: "«Nada é mais precioso que o conhecimento.»",
