@@ -1150,7 +1150,12 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         // Los dos idiomas de la 2da edición, con bandera en la ficha.
         langs: {
           es: "Kihispania",
-          en: "Kiingereza"
+          en: "Kiingereza",
+          fr: "Kifaransa",
+          it: "Kiitaliano",
+          pt: "Kireno",
+          de: "Kijerumani",
+          ja: "Kijapani"
         },
         otherLangs: "Kwa matoleo katika lugha nyingine, mwandikie mwandishi kupitia <a href='/#contacto'>fomu ya mawasiliano</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
@@ -1180,6 +1185,20 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         // Tapa y lomo: la castellana en español; la inglesa (Faith and Reason) en los demás idiomas.
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
+      },
+      // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
+      // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
+      sec6: {
+        badge: "Tafsiri mpya kutoka Kigiriki",
+        author: "Mtakatifu Yohane wa Damasko",
+        credit: "Toleo, tafsiri kwa Kihispania, utangulizi na maelezo na M. Gabriel Castiglia",
+        epigraph: "«Hakuna kitu cha thamani kuliko maarifa.»",
+        epigraphRef: "Mtakatifu Yohane wa Damasko · Dialektika, 1",
+        desc: "<p>Mtakatifu Yohane wa Damasko alizaliwa karibu mwaka 675 huko Damasko, katika familia ya Kikristo iliyomtumikia khalifa, na, kwa mujibu wa wasifu wake wa kale zaidi, alipokuwa kijana yeye mwenyewe alishughulikia hesabu za ukhalifa. Karibu mwaka 700 aliiacha ikulu na kuwa mtawa katika monasteri ya Mtakatifu Saba, iliyochongwa mwambani katikati ya Yerusalemu na Bahari ya Chumvi. Huko alipewa daraja la upadre, akatunga nyimbo ambazo makanisa ya ibada ya Kibizanti bado yanaziimba, na akazitetea picha takatifu wakati kaisari alipozikataza. Alifariki huko karibu mwaka 749.</p><p>Karibu na mwisho wa maisha yake alikusanya katika kitabu kimoja, alichokiita <em>Chemchemi ya Maarifa</em>, kile ambacho Mkristo alihitaji ili kuifikiri imani yake kwa usahihi. Kazi hii ina sehemu tatu: utangulizi wa falsafa, orodha ya uzushi, na maelezo ya imani yanayoanzia Utatu Mtakatifu hadi sakramenti.</p><p>Mashariki anahesabiwa kuwa wa mwisho wa Mababa wa Kanisa, na Magharibi Papa Leo XIII alimtangaza kuwa Mwalimu wa Kanisa mwaka 1890.</p><p>Toleo hili linatoa kazi nzima iliyotafsiriwa moja kwa moja kutoka Kigiriki hadi Kihispania, pamoja na utangulizi kuhusu maisha ya Mtakatifu Yohane wa Damasko na mazingira yake ya kihistoria, maelezo zaidi ya elfu moja na mia sita yanayofafanua maneno magumu na kuonyesha chanzo cha kila nukuu, faharasa ya istilahi za Kigiriki, na fahirisi ya nukuu za Biblia.</p>",
+        factFormats: "Jalada laini na jalada gumu",
+        coverAlt: "Jalada la Fuente del conocimiento (Chemchemi ya Maarifa), la Mtakatifu Yohane wa Damasko",
+        soon: "(inakuja hivi karibuni)",
+        buyAria: "Nunua «Fuente del conocimiento» kwenye Amazon"
       },
       rights: {
         eyebrow: "Taarifa ya kisheria",

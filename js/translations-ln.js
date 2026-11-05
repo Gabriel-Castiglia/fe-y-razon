@@ -1150,7 +1150,12 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         // Los dos idiomas de la 2da edición, con bandera en la ficha.
         langs: {
           es: "Espanye",
-          en: "Angele"
+          en: "Angele",
+          fr: "Lifalansé",
+          it: "Litaliano",
+          pt: "Lipulutugɛ́si",
+          de: "Lialemá",
+          ja: "Lizapɔ́"
         },
         otherLangs: "Mpo na mabimeli na minoko mosusu, komela mokomi na nzela ya <a href='/#contacto'>formilɛrɛ ya boyokani</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
@@ -1180,6 +1185,20 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         // Tapa y lomo: la castellana en español; la inglesa (Faith and Reason) en los demás idiomas.
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
+      },
+      // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
+      // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
+      sec6: {
+        badge: "Libongoli ya sika longwa na Lingrɛki",
+        author: "Santu Yoane wa Damasi",
+        credit: "Edisyo, libongoli na Lispanyɔ́, ebandeli mpe bilimboli na M. Gabriel Castiglia",
+        epigraph: "«Eloko moko te ezali na motuya koleka boyebi.»",
+        epigraphRef: "Santu Yoane wa Damasi · Dialektiki, 1",
+        desc: "<p>Santu Yoane wa Damasi abotamaki pene na mobu 675 na Damasi, na libota ya baklisto oyo ezalaki kosalela kalifa, mpe, engebene na lisolo ya bomoi na ye ya kala koleka, ntango azalaki elenge ye moko azalaki kotala mitango ya mbongo ya bokonzi ya kalifa. Pene na mobu 700 atikaki lopango ya mokonzi mpe akómaki moniki na Santu Saba, monastɛrɛ oyo batimolaki na libanga, na katikati ya Yerusaleme mpe Mbu Ekufá. Kuna bapesaki ye bonganga-nzambe, akomaki banzembo oyo mangomba ya losambo ya Bizanse bazali kaka koyemba, mpe abatelaki bilili bisantu ntango amperɛrɛ apekisaki yango. Akufaki kuna pene na mobu 749.</p><p>Na nsuka ya bomoi na ye, asangisaki na buku moko, oyo apesaki nkombo <em>Liziba ya Boyebi</em>, makambo oyo moklisto azalaki na yango na posa mpo na kokanisa kondima na ye malamu mpenza. Mosala yango ezali na biteni misato: ebandeli ya filozofi, liste ya mateya ya lokuta, mpe bolimboli ya kondima longwa na Bosato Bosantu kino na basakramɛnto.</p><p>Na Ɛsti batalelaka ye lokola Tata ya nsuka kati na Batata ya Eklezya, mpe na Wɛsti Papa Leon XIII asakolaki ye Molakisi ya Eklezya na mobu 1890.</p><p>Edisyo oyo epesi mosala mobimba, ebongolami mbala moko longwa na Lingrɛki na Lispanyɔ́, elongo na ebandeli oyo elobeli bomoi ya Santu Yoane wa Damasi mpe ntango oyo azalaki na bomoi, bilimboli koleka nkoto moko na nkama motoba oyo elimboli maloba ya mpasi mpe emonisi esika oyo maloba nyonso matangami mauti, liste ya maloba ya Lingrɛki, mpe liste ya bavɛrsɛ ya Biblia oyo etangami.</p>",
+        factFormats: "Ezipeli pɛtɛɛ mpe ezipeli makasi",
+        coverAlt: "Ezipeli ya Fuente del conocimiento (Liziba ya Boyebi), ya Santu Yoane wa Damasi",
+        soon: "(ekoya kala te)",
+        buyAria: "Kosomba «Fuente del conocimiento» na Amazon"
       },
       rights: {
         eyebrow: "Liyebisi ya mibeko",

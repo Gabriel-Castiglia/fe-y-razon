@@ -1346,7 +1346,12 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
         // Los dos idiomas de la 2da edición, con bandera en la ficha.
         langs: {
           es: "Spanish",
-          en: "English"
+          en: "English",
+          fr: "French",
+          it: "Italian",
+          pt: "Portuguese",
+          de: "German",
+          ja: "Japanese"
         },
         otherLangs: "For editions in other languages, write to the author through the <a href='/#contacto'>contact form</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
@@ -1376,6 +1381,20 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
         // Tapa y lomo: la castellana en español; la inglesa (Faith and Reason) en los demás idiomas.
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
+      },
+      // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
+      // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
+      sec6: {
+        badge: "New translation from the Greek",
+        author: "Saint John of Damascus",
+        credit: "Edited and translated into Spanish, with an introduction and notes, by M. Gabriel Castiglia",
+        epigraph: "“Nothing is more precious than knowledge.”",
+        epigraphRef: "Saint John of Damascus · Dialectic, 1",
+        desc: "<p>Saint John of Damascus was born around the year 675 in Damascus, into a Christian family in the service of the caliph, and, according to his oldest biography, as a young man he himself kept the accounts of the caliphate. Around 700 he left the court and became a monk at Saint Sabbas, a monastery carved into the rock halfway between Jerusalem and the Dead Sea. There he was ordained a priest, composed hymns that the churches of the Byzantine rite still sing, and defended the holy images when the emperor banned them. He died there around 749.</p><p>Near the end of his life he gathered into a single book, which he called <em>The Fount of Knowledge</em>, what a Christian needed in order to think through the faith with precision. The work has three parts: an introduction to philosophy, a catalogue of the heresies, and an exposition of the faith that runs from the Trinity to the sacraments.</p><p>In the East he is held to be the last of the Fathers of the Church, and in the West Pope Leo XIII proclaimed him a Doctor of the Church in 1890.</p><p>This edition offers the complete work translated directly from the Greek into Spanish, with an introduction on the life of Saint John of Damascus and his historical context, more than sixteen hundred notes that explain difficult terms and locate every quotation, a glossary of Greek terms, and an index of biblical quotations.</p>",
+        factFormats: "Paperback and hardcover",
+        coverAlt: "Cover of Fuente del conocimiento (The Fount of Knowledge), by Saint John of Damascus",
+        soon: "(coming soon)",
+        buyAria: "Buy “Fuente del conocimiento” on Amazon"
       },
       rights: {
         eyebrow: "Legal notice",

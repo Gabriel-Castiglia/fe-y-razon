@@ -1158,7 +1158,12 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
         // Los dos idiomas de la 2da edición, con bandera en la ficha.
         langs: {
           es: "Espanhol",
-          en: "Inglês"
+          en: "Inglês",
+          fr: "Francês",
+          it: "Italiano",
+          pt: "Português",
+          de: "Alemão",
+          ja: "Japonês"
         },
         otherLangs: "Para edições em outros idiomas, escreva ao autor pelo <a href='/#contacto'>formulário de contato</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
@@ -1188,6 +1193,20 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
         // Tapa y lomo: la castellana en español; la inglesa (Faith and Reason) en los demás idiomas.
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
+      },
+      // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
+      // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
+      sec6: {
+        badge: "Nova tradução do grego",
+        author: "São João Damasceno",
+        credit: "Edição, tradução para o espanhol, introdução e notas de M. Gabriel Castiglia",
+        epigraph: "«Nada é mais precioso que o conhecimento.»",
+        epigraphRef: "São João Damasceno · Dialética, 1",
+        desc: "<p>São João Damasceno nasceu por volta do ano 675 em Damasco, em uma família cristã que servia ao califa, e, segundo sua biografia mais antiga, quando jovem ele mesmo cuidava das contas do califado. Por volta de 700 deixou a corte e se tornou monge em São Sabas, um mosteiro escavado na rocha a meio caminho entre Jerusalém e o mar Morto. Ali foi ordenado sacerdote, compôs hinos que as igrejas de rito bizantino ainda cantam e defendeu as imagens santas quando o imperador as proibiu. Morreu ali por volta de 749.</p><p>Perto do fim da vida reuniu em um só livro, que chamou de <em>Fonte do Conhecimento</em>, aquilo de que um cristão precisava para pensar sua fé com exatidão. A obra tem três partes: uma introdução à filosofia, um catálogo das heresias e uma exposição da fé que vai da Trindade aos sacramentos.</p><p>No Oriente ele é tido como o último dos Padres da Igreja, e no Ocidente o papa Leão XIII o proclamou doutor da Igreja em 1890.</p><p>A presente edição oferece a obra completa traduzida diretamente do grego para o espanhol, com uma introdução sobre a vida de São João Damasceno e seu contexto histórico, mais de mil e seiscentas notas que explicam os termos difíceis e localizam cada citação, um glossário dos termos gregos e um índice das citações bíblicas.</p>",
+        factFormats: "Capa comum e capa dura",
+        coverAlt: "Capa de Fuente del conocimiento (Fonte do Conhecimento), de São João Damasceno",
+        soon: "(em breve)",
+        buyAria: "Comprar «Fuente del conocimiento» na Amazon"
       },
       rights: {
         eyebrow: "Aviso legal",

@@ -1150,7 +1150,12 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         // Los dos idiomas de la 2da edición, con bandera en la ficha.
         langs: {
           es: "Spanish",
-          en: "Bekee"
+          en: "Bekee",
+          fr: "French",
+          it: "Italian",
+          pt: "Portuguese",
+          de: "German",
+          ja: "Japanese"
         },
         otherLangs: "Maka mbipụta n'asụsụ ndị ọzọ, degara onye edemede site na <a href='/#contacto'>fọm kọntaktị</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
@@ -1180,6 +1185,20 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         // Tapa y lomo: la castellana en español; la inglesa (Faith and Reason) en los demás idiomas.
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
+      },
+      // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
+      // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
+      sec6: {
+        badge: "Ntụgharị ọhụrụ site n'asụsụ Grik",
+        author: "Onye Nsọ Jọn nke Damaskọs",
+        credit: "Mbipụta, ntụgharị n'asụsụ Spanish, mmalite na nkọwa site n'aka M. Gabriel Castiglia",
+        epigraph: "«Ọ dịghị ihe dị oke ọnụ ahịa karịa ihe ọmụma.»",
+        epigraphRef: "Onye Nsọ Jọn nke Damaskọs · Dialektik, 1",
+        desc: "<p>A mụrụ Onye Nsọ Jọn nke Damaskọs n'ihe dị ka afọ 675 na Damaskọs, n'ezinụlọ Ndị Kraịst na-ejere kalif ozi, na, dịka akụkọ ndụ ya nke kacha ochie si kwuo, mgbe ọ bụ nwa okorobịa, ya onwe ya na-edebe akaụntụ nke alaeze kalif. N'ihe dị ka afọ 700, ọ hapụrụ ụlọ eze wee bụrụ onye mọnk n'ebe obibi ndị mọnk nke Onye Nsọ Saba, nke e gwuru n'ime nkume, n'etiti Jerusalem na Oké Osimiri Nwụrụ Anwụ. N'ebe ahụ ka e chiri ya ụkọchukwu, o dere abụ ndị chọọchị nke usoro ofufe Byzantine ka na-abụ, ma chebe ihe oyiyi dị nsọ mgbe eze ukwu machiri ha. Ọ nwụrụ n'ebe ahụ n'ihe dị ka afọ 749.</p><p>Ka ndụ ya na-eru na njedebe, ọ chịkọtara n'otu akwụkwọ, nke ọ kpọrọ <em>Isi Iyi nke Ihe Ọmụma</em>, ihe Onye Kraịst chọrọ iji chee echiche banyere okwukwe ya nke ọma. Ọrụ ahụ nwere akụkụ atọ: mmalite na nkà ihe ọmụma, ndepụta nke nkuzi ụgha, na nkọwa nke okwukwe site na Atọ n'Ime Otu ruo na sakramenti.</p><p>N'Ọwụwa Anyanwụ, a na-ewere ya dịka onye ikpeazụ n'ime Ndị Nna nke Nzukọ-nsọ, na n'Ọdịda Anyanwụ, Pope Leo XIII kpọsara ya Dọkịta nke Nzukọ-nsọ n'afọ 1890.</p><p>Mbipụta a na-enye ọrụ ahụ niile a sụgharịrị ozugbo site n'asụsụ Grik gaa n'asụsụ Spanish, ya na mmalite banyere ndụ Onye Nsọ Jọn nke Damaskọs na ọnọdụ akụkọ ihe mere eme ya, ihe karịrị otu puku na narị isii nkọwa na-akọwa okwu ndị siri ike ma na-egosi ebe e si hota okwu ọ bụla, ndepụta okwu Grik, na ndepụta nke amaokwu Baịbụl e hotara.</p>",
+        factFormats: "Mkpuchi dị nro na mkpuchi siri ike",
+        coverAlt: "Mkpuchi akwụkwọ Fuente del conocimiento (Isi Iyi nke Ihe Ọmụma), nke Onye Nsọ Jọn nke Damaskọs",
+        soon: "(na-abịa n'oge na-adịghị anya)",
+        buyAria: "Zụta «Fuente del conocimiento» na Amazon"
       },
       rights: {
         eyebrow: "Ọkwa iwu",

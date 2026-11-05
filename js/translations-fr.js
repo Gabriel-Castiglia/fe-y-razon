@@ -1158,7 +1158,12 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
         // Los dos idiomas de la 2da edición, con bandera en la ficha.
         langs: {
           es: "Espagnol",
-          en: "Anglais"
+          en: "Anglais",
+          fr: "Français",
+          it: "Italien",
+          pt: "Portugais",
+          de: "Allemand",
+          ja: "Japonais"
         },
         otherLangs: "Pour des éditions dans d'autres langues, écrire à l'auteur via le <a href='/#contacto'>formulaire de contact</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
@@ -1188,6 +1193,20 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
         // Tapa y lomo: la castellana en español; la inglesa (Faith and Reason) en los demás idiomas.
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
+      },
+      // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
+      // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
+      sec6: {
+        badge: "Nouvelle traduction du grec",
+        author: "Saint Jean Damascène",
+        credit: "Édition, traduction en espagnol, introduction et notes de M. Gabriel Castiglia",
+        epigraph: "« Rien n'est plus précieux que la connaissance. »",
+        epigraphRef: "Saint Jean Damascène · Dialectique, 1",
+        desc: "<p>Saint Jean Damascène naquit vers 675 à Damas, dans une famille chrétienne au service du calife, et, selon sa plus ancienne biographie, il tint lui-même dans sa jeunesse les comptes du califat. Vers 700, il quitta la cour et se fit moine à Saint-Sabas, un monastère creusé dans le roc à mi-chemin entre Jérusalem et la mer Morte. Il y fut ordonné prêtre, composa des hymnes que les Églises de rite byzantin chantent encore et défendit les saintes images quand l'empereur les interdit. Il y mourut vers 749.</p><p>Vers la fin de sa vie, il réunit en un seul livre, qu'il appela <em>La Source de la connaissance</em>, ce dont un chrétien avait besoin pour penser sa foi avec exactitude. L'œuvre compte trois parties : une introduction à la philosophie, un catalogue des hérésies et un exposé de la foi qui va de la Trinité aux sacrements.</p><p>En Orient, on le tient pour le dernier des Pères de l'Église, et en Occident le pape Léon XIII l'a proclamé docteur de l'Église en 1890.</p><p>La présente édition offre l'œuvre complète traduite directement du grec en espagnol, avec une introduction sur la vie de saint Jean Damascène et son contexte historique, plus de mille six cents notes qui expliquent les termes difficiles et situent chaque citation, un glossaire des termes grecs et un index des citations bibliques.</p>",
+        factFormats: "Broché et relié",
+        coverAlt: "Couverture de Fuente del conocimiento (La Source de la connaissance), de saint Jean Damascène",
+        soon: "(bientôt)",
+        buyAria: "Acheter « Fuente del conocimiento » sur Amazon"
       },
       rights: {
         eyebrow: "Mentions légales",

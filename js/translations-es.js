@@ -1577,7 +1577,12 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
         // Los dos idiomas de la 2da edición, con bandera en la ficha.
         langs: {
           es: "Español",
-          en: "Inglés"
+          en: "Inglés",
+          fr: "Francés",
+          it: "Italiano",
+          pt: "Portugués",
+          de: "Alemán",
+          ja: "Japonés"
         },
         otherLangs: "Para ediciones en otros idiomas, escribir al autor por el <a href='/#contacto'>formulario de contacto</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
@@ -1608,6 +1613,20 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
         // Tapa y lomo: la castellana en español; la inglesa (Faith and Reason) en los demás idiomas.
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-es.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-es.jpg"
+      },
+      // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
+      // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
+      sec6: {
+        badge: "Nueva traducción del griego",
+        author: "San Juan Damasceno",
+        credit: "Edición, traducción, introducción y notas de M. Gabriel Castiglia",
+        epigraph: "«Nada hay más precioso que el conocimiento.»",
+        epigraphRef: "San Juan Damasceno · Dialéctica, 1",
+        desc: "<p>San Juan Damasceno nació hacia el año 675 en Damasco, en una familia cristiana que servía al califa, y, según su biografía más antigua, de joven llevó él mismo las cuentas del califato. Hacia el 700 dejó la corte y se hizo monje en San Sabas, un monasterio excavado en la roca a medio camino entre Jerusalén y el mar Muerto. Allí fue ordenado sacerdote, compuso himnos que las iglesias de rito bizantino aún cantan y defendió las imágenes santas cuando el emperador las prohibió. Murió allí hacia el 749.</p><p>Cerca del final de su vida reunió en un solo libro, al que llamó <em>Fuente del conocimiento</em>, lo que un cristiano necesitaba para pensar su fe con exactitud. La obra tiene tres partes: una introducción a la filosofía, un catálogo de las herejías y una exposición de la fe que va de la Trinidad a los sacramentos.</p><p>En Oriente se lo tiene por el último de los Padres de la Iglesia, y en Occidente el papa León XIII lo proclamó doctor de la Iglesia en 1890.</p><p>La presente edición ofrece la obra completa traducida directamente del griego, con una introducción sobre la vida de san Juan Damasceno y su contexto histórico, más de mil seiscientas notas que explican los términos difíciles y localizan cada cita, un glosario de los términos griegos y un índice de citas bíblicas.</p>",
+        factFormats: "Tapa blanda y tapa dura",
+        coverAlt: "Portada de Fuente del conocimiento, de san Juan Damasceno",
+        soon: "(próximamente)",
+        buyAria: "Comprar «Fuente del conocimiento» en Amazon"
       },
       rights: {
         eyebrow: "Aviso legal",

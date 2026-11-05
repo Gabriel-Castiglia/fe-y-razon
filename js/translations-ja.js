@@ -1346,7 +1346,12 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         // Los dos idiomas de la 2da edición, con bandera en la ficha.
         langs: {
           es: "スペイン語",
-          en: "英語"
+          en: "英語",
+          fr: "フランス語",
+          it: "イタリア語",
+          pt: "ポルトガル語",
+          de: "ドイツ語",
+          ja: "日本語"
         },
         otherLangs: "他の言語での出版にご関心のある方は、<a href='/#contacto'>お問い合わせフォーム</a>より著者までご連絡ください。",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
@@ -1376,6 +1381,20 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         // Tapa y lomo: la castellana en español; la inglesa (Faith and Reason) en los demás idiomas.
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
+      },
+      // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
+      // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
+      sec6: {
+        badge: "ギリシア語からの新訳",
+        author: "ダマスコの聖ヨハネ",
+        credit: "M・ガブリエル・カスティリア 編・スペイン語訳・序論・注",
+        epigraph: "「知識にまさって尊いものは何もない。」",
+        epigraphRef: "ダマスコの聖ヨハネ ・『弁証論』第1章",
+        desc: "<p>ダマスコの聖ヨハネは675年ごろダマスコで、カリフに仕えるキリスト教徒の家に生まれた。最古の伝記によれば、若いころには自らカリフ国の会計を担っていた。700年ごろ宮廷を去り、エルサレムと死海のほぼ中間にある、岩をうがって造られた聖サバ修道院で修道士となった。そこで司祭に叙階され、ビザンティン典礼の諸教会がいまも歌う聖歌を作り、皇帝が聖画像を禁じたときにはこれを擁護した。749年ごろ、同地で没した。</p><p>晩年、彼はキリスト者が自らの信仰を正確に考えるために必要なことを一冊の書にまとめ、これを『知識の泉』と名づけた。この著作は三部からなる。哲学への入門、異端の目録、そして三位一体から秘跡にいたる信仰の解説である。</p><p>東方では最後の教父とされ、西方では1890年に教皇レオ13世によって教会博士と宣言された。</p><p>本書はこの著作の全体をギリシア語から直接スペイン語に訳したもので、ダマスコの聖ヨハネの生涯と歴史的背景についての序論、難解な用語を説明し各引用の出典を示す1600を超える注、ギリシア語用語集、聖書引用索引を収める。</p>",
+        factFormats: "ペーパーバック版・ハードカバー版",
+        coverAlt: "ダマスコの聖ヨハネ『知識の泉』（Fuente del conocimiento）の表紙",
+        soon: "（近日刊行）",
+        buyAria: "『Fuente del conocimiento』をAmazonで購入"
       },
       rights: {
         eyebrow: "法的告知",

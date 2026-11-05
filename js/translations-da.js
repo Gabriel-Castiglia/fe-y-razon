@@ -1346,7 +1346,12 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         // Los dos idiomas de la 2da edición, con bandera en la ficha.
         langs: {
           es: "Spansk",
-          en: "Engelsk"
+          en: "Engelsk",
+          fr: "Fransk",
+          it: "Italiensk",
+          pt: "Portugisisk",
+          de: "Tysk",
+          ja: "Japansk"
         },
         otherLangs: "For udgaver på andre sprog kan man skrive til forfatteren via <a href='/#contacto'>kontaktformularen</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
@@ -1376,6 +1381,20 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         // Tapa y lomo: la castellana en español; la inglesa (Faith and Reason) en los demás idiomas.
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
+      },
+      // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
+      // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
+      sec6: {
+        badge: "Ny oversættelse fra græsk",
+        author: "Den hellige Johannes af Damaskus",
+        credit: "Udgivet og oversat til spansk, med indledning og noter, af M. Gabriel Castiglia",
+        epigraph: "»Intet er mere dyrebart end kundskab.«",
+        epigraphRef: "Johannes af Damaskus · Dialektik, 1",
+        desc: "<p>Johannes af Damaskus blev født omkring år 675 i Damaskus i en kristen familie, der tjente kaliffen, og ifølge hans ældste levnedsbeskrivelse førte han som ung selv kalifatets regnskaber. Omkring år 700 forlod han hoffet og blev munk i Sankt Sabas, et kloster hugget ind i klippen midt mellem Jerusalem og Det Døde Hav. Dér blev han præsteviet, skrev hymner, som kirkerne af byzantinsk ritus stadig synger, og forsvarede de hellige billeder, da kejseren forbød dem. Han døde dér omkring år 749.</p><p>Mod slutningen af sit liv samlede han i én bog, som han kaldte <em>Kundskabens kilde</em>, hvad en kristen behøvede for at tænke sin tro igennem med nøjagtighed. Værket har tre dele: en indføring i filosofien, en fortegnelse over kætterierne og en fremstilling af troen, der går fra Treenigheden til sakramenterne.</p><p>I Østen regnes han for den sidste af kirkefædrene, og i Vesten udråbte pave Leo XIII ham til kirkelærer i 1890.</p><p>Denne udgave bringer hele værket oversat direkte fra græsk til spansk med en indledning om Johannes af Damaskus' liv og hans historiske baggrund, mere end seksten hundrede noter, der forklarer de vanskelige udtryk og angiver kilden til hvert citat, en ordliste over de græske begreber og et register over bibelcitaterne.</p>",
+        factFormats: "Paperback og indbundet",
+        coverAlt: "Forside af Fuente del conocimiento (Kundskabens kilde) af Johannes af Damaskus",
+        soon: "(kommer snart)",
+        buyAria: "Køb »Fuente del conocimiento« på Amazon"
       },
       rights: {
         eyebrow: "Juridisk meddelelse",

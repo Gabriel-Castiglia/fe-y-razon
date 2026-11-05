@@ -1352,7 +1352,12 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         // Los dos idiomas de la 2da edición, con bandera en la ficha.
         langs: {
           es: "Hispanice",
-          en: "Anglice"
+          en: "Anglice",
+          fr: "Francogallice",
+          it: "Italice",
+          pt: "Lusitanice",
+          de: "Germanice",
+          ja: "Iaponice"
         },
         otherLangs: "De editionibus aliis linguis, auctorem per <a href='/#contacto'>formulam epistularem</a> adire licet.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
@@ -1382,6 +1387,20 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         // Tapa y lomo: la castellana en español; la inglesa (Faith and Reason) en los demás idiomas.
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
+      },
+      // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
+      // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
+      sec6: {
+        badge: "Nova e Graeco translatio",
+        author: "Sanctus Ioannes Damascenus",
+        credit: "Editio, translatio Hispanica, introductio et notae M. Gabrielis Castiglia",
+        epigraph: "«Nihil scientia pretiosius.»",
+        epigraphRef: "Sanctus Ioannes Damascenus · Dialectica, 1",
+        desc: "<p>Sanctus Ioannes Damascenus circa annum 675 Damasci natus est, in familia christiana quae califae serviebat, et, ut antiquissima eius vita narrat, iuvenis ipse rationes califatus administravit. Circa annum 700 aulam reliquit et monachus factus est apud Sanctum Sabam, in monasterio e rupe exciso, medio itinere inter Hierosolyma et Mare Mortuum. Ibi sacerdos ordinatus est, hymnos composuit quos Ecclesiae ritus byzantini adhuc canunt, et sacras imagines defendit cum imperator eas vetuit. Ibi circa annum 749 obiit.</p><p>Sub finem vitae in unum librum, quem <em>Fontem scientiae</em> appellavit, collegit quae christiano opus erant ut fidem suam accurate cogitaret. Opus tres partes habet: introductionem in philosophiam, catalogum haeresium et expositionem fidei quae a Trinitate usque ad sacramenta procedit.</p><p>In Oriente ultimus Patrum Ecclesiae habetur, et in Occidente Leo XIII papa eum anno 1890 Ecclesiae doctorem declaravit.</p><p>Haec editio totum opus praebet e Graeco directo in sermonem Hispanicum versum, cum introductione de vita sancti Ioannis Damasceni deque eius aetatis condicione, plus quam mille sescentis notis quae verba difficilia explicant et unumquemque locum allatum indicant, glossario vocabulorum Graecorum et indice locorum biblicorum.</p>",
+        factFormats: "Molliter et rigide compactus",
+        coverAlt: "Tegumentum libri Fuente del conocimiento (Fons scientiae), auctore sancto Ioanne Damasceno",
+        soon: "(mox)",
+        buyAria: "«Fuente del conocimiento» in Amazon emere"
       },
       rights: {
         eyebrow: "Monitum iuridicum",

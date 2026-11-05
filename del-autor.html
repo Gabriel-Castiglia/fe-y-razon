@@ -105,6 +105,49 @@
         ]
     }
     </script>
+    <!-- Datos estructurados de Fuente del conocimiento (traducción de Gabriel) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Book",
+        "name": "Fuente del conocimiento",
+        "alternateName": "Dialéctica · Sobre las herejías · Exposición exacta de la fe ortodoxa",
+        "author": {
+            "@type": "Person",
+            "name": "San Juan Damasceno"
+        },
+        "translator": {
+            "@type": "Person",
+            "name": "M. Gabriel Castiglia"
+        },
+        "editor": {
+            "@type": "Person",
+            "name": "M. Gabriel Castiglia"
+        },
+        "inLanguage": "es",
+        "datePublished": "2026-11-04",
+        "numberOfPages": 456,
+        "image": "https://proyectofeyrazon.com/Recursos/Im%C3%A1genes/libro-fuente-del-conocimiento-es.jpg",
+        "workExample": [
+            {
+                "@type": "Book",
+                "@id": "https://www.amazon.com/dp/B0HQG4QM8J",
+                "bookFormat": "https://schema.org/Paperback",
+                "isbn": "9798167902213",
+                "inLanguage": "es",
+                "url": "https://www.amazon.com/dp/B0HQG4QM8J"
+            },
+            {
+                "@type": "Book",
+                "@id": "https://www.amazon.com/dp/B0HQDBVWMC",
+                "bookFormat": "https://schema.org/Hardcover",
+                "isbn": "9798167909038",
+                "inLanguage": "es",
+                "url": "https://www.amazon.com/dp/B0HQDBVWMC"
+            }
+        ]
+    }
+    </script>
     <link rel="preload" href="css/style.css?v=29" as="style">
     <title data-i18n="topicPages.del-autor.pageTitle">Del autor | Fé y Razón</title>
     <link rel="preload" href="Recursos/Fuentes/cinzel-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -386,7 +429,7 @@
         border-radius: 3px; box-shadow: 0 16px 44px rgba(0,0,0,.6);
         transition: transform .35s ease;
       }
-      .rec-book:not(.rec-book--claro):hover .rec-book-cover img { transform: translateY(-5px); }
+      .rec-book:not(.rec-book--claro):not(.rec-book--damasceno):hover .rec-book-cover img { transform: translateY(-5px); }
       .rec-book-body {
         padding: 2.7rem 3rem 2.5rem;
         display: flex; flex-direction: column; justify-content: center;
@@ -589,6 +632,26 @@
       }
       .rec-libros-anterior h3 .rec-book-subtitle { font-size: .9rem; margin-top: .45rem; color: var(--gold-light); }
 
+      /* ── FUENTE DEL CONOCIMIENTO (5-nov-2026) — ficha oscura aparte: el libro es de san Juan
+         Damasceno y de Gabriel son la traducción, la introducción y las notas. La tapa gira en 3D
+         con el lomo real recortado de la cubierta impresa, igual que las otras dos. ── */
+      .rec-book + .rec-book { margin-top: 2.2rem; }
+      .rec-book--damasceno .rec-book-cover { perspective: 1400px; }
+      .rec-book--damasceno a.rec-book-3d { display: block; }
+      .rec-book--damasceno a.rec-book-3d:focus-visible { outline: 2px solid var(--gold); outline-offset: 6px; }
+      .rec-book--damasceno > .rec-book-cover:hover .rec-book-3d { transform: rotateY(16deg) translateY(-4px); }
+      .rec-book--damasceno .rec-book-3d img:not(.rec-book-3d-lomo) { box-shadow: 16px 22px 40px rgba(0,0,0,.55); }
+      /* El lomo mide 1,14 in sobre 6 in de tapa: el 19 % del ancho. */
+      .rec-book--damasceno .rec-book-3d .rec-book-3d-lomo { width: 19%; }
+      .rec-book--damasceno .rec-book-new { color: var(--gold); }
+      /* Edición inglesa en preparación (Gabriel, 6-nov-2026): bandera atenuada. */
+      .rec-book-flag-soon { opacity: .6; }
+      .rec-book-credit {
+        font-family: 'Montserrat', sans-serif; font-size: .74rem; font-style: italic;
+        color: var(--gold-light); letter-spacing: .02em; line-height: 1.5;
+        margin: -.35rem 0 1rem;
+      }
+
       /* ── DERECHOS DE AUTOR ── */
       .rec-rights {
         border-radius: 14px; padding: 2rem 2.2rem;
@@ -716,6 +779,10 @@
                     <ul class="rec-book-flags rec-book-flags--facts">
                       <li><img src="Recursos/Im%C3%A1genes/spain-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.del-autor.sec4.langs.es">Español</span></li>
                       <li><img src="Recursos/Im%C3%A1genes/united-states-of-america-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.del-autor.sec4.langs.en">Inglés</span></li>
+                      <li><img src="Recursos/Im%C3%A1genes/france-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.del-autor.sec4.langs.fr">Francés</span></li>
+                      <li><img src="Recursos/Im%C3%A1genes/it-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.del-autor.sec4.langs.it">Italiano</span></li>
+                      <li><img src="Recursos/Im%C3%A1genes/brazil-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.del-autor.sec4.langs.pt">Portugués</span></li>
+                      <li><img src="Recursos/Im%C3%A1genes/germany-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.del-autor.sec4.langs.de">Alemán</span></li>
                     </ul>
                   </dd>
                 </div>
@@ -771,6 +838,11 @@
                       <ul class="rec-book-flags rec-book-flags--facts">
                         <li><img src="Recursos/Im%C3%A1genes/spain-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.del-autor.sec4.langs.es">Español</span></li>
                         <li><img src="Recursos/Im%C3%A1genes/united-states-of-america-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.del-autor.sec4.langs.en">Inglés</span></li>
+                        <li><img src="Recursos/Im%C3%A1genes/france-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.del-autor.sec4.langs.fr">Francés</span></li>
+                        <li><img src="Recursos/Im%C3%A1genes/it-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.del-autor.sec4.langs.it">Italiano</span></li>
+                        <li><img src="Recursos/Im%C3%A1genes/brazil-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.del-autor.sec4.langs.pt">Portugués</span></li>
+                        <li><img src="Recursos/Im%C3%A1genes/germany-flag.svg" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.del-autor.sec4.langs.de">Alemán</span></li>
+                        <li><img src="Recursos/Im%C3%A1genes/japan-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.del-autor.sec4.langs.ja">Japonés</span></li>
                       </ul>
                     </dd>
                   </div>
@@ -784,6 +856,58 @@
                 </div>
 
                 <p class="rec-book-note" data-i18n="topicPages.del-autor.sec4.otherLangs">Para ediciones en otros idiomas, escribir al autor por el <a href="/#contacto">formulario de contacto</a>.</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- FUENTE DEL CONOCIMIENTO — traducción del griego de san Juan Damasceno, publicada el
+               4-nov-2026 en tapa blanda (B0HQG4QM8J) y dura (B0HQDBVWMC). Hay solo edición
+               castellana: título, tapa, lomo y enlace son los mismos en los doce idiomas; la
+               descripción es la contratapa impresa (CONTRATAPA.txt) y su último párrafo va
+               aparte, debajo del autor. -->
+          <div class="rec-book rec-book--damasceno">
+            <div class="rec-book-cover">
+              <a class="rec-book-3d" href="https://www.amazon.com/dp/B0HQG4QM8J" target="_blank" rel="noopener"
+                 aria-label="Comprar «Fuente del conocimiento» en Amazon"
+                 data-i18n-aria-label="topicPages.del-autor.sec6.buyAria">
+                <img class="rec-book-3d-lomo" src="Recursos/Im%C3%A1genes/libro-fuente-del-conocimiento-lomo-es.jpg" alt="" aria-hidden="true" width="133" height="1050">
+                <img src="Recursos/Im%C3%A1genes/libro-fuente-del-conocimiento-es.jpg"
+                     alt="Portada de Fuente del conocimiento, de san Juan Damasceno"
+                     data-i18n-alt="topicPages.del-autor.sec6.coverAlt"
+                     width="700" height="1050" loading="lazy">
+              </a>
+            </div>
+            <div class="rec-book-body">
+              <p class="rec-book-new" data-i18n="topicPages.del-autor.sec6.badge">Nueva traducción del griego</p>
+              <h2>Fuente del conocimiento<span class="rec-book-subtitle">Dialéctica · Sobre las herejías · Exposición exacta de la fe ortodoxa</span></h2>
+              <p class="rec-book-author" data-i18n="topicPages.del-autor.sec6.author">San Juan Damasceno</p>
+              <p class="rec-book-credit" data-i18n="topicPages.del-autor.sec6.credit">Edición, traducción, introducción y notas de M. Gabriel Castiglia</p>
+              <blockquote class="rec-book-epigraph">
+                <p data-i18n="topicPages.del-autor.sec6.epigraph">«Nada hay más precioso que el conocimiento.»</p>
+                <cite data-i18n="topicPages.del-autor.sec6.epigraphRef">San Juan Damasceno · Dialéctica, 1</cite>
+              </blockquote>
+              <div class="rec-book-desc" data-i18n="topicPages.del-autor.sec6.desc"><p>San Juan Damasceno nació hacia el año 675 en Damasco, en una familia cristiana que servía al califa, y, según su biografía más antigua, de joven llevó él mismo las cuentas del califato. Hacia el 700 dejó la corte y se hizo monje en San Sabas, un monasterio excavado en la roca a medio camino entre Jerusalén y el mar Muerto. Allí fue ordenado sacerdote, compuso himnos que las iglesias de rito bizantino aún cantan y defendió las imágenes santas cuando el emperador las prohibió. Murió allí hacia el 749.</p><p>Cerca del final de su vida reunió en un solo libro, al que llamó <em>Fuente del conocimiento</em>, lo que un cristiano necesitaba para pensar su fe con exactitud. La obra tiene tres partes: una introducción a la filosofía, un catálogo de las herejías y una exposición de la fe que va de la Trinidad a los sacramentos.</p><p>En Oriente se lo tiene por el último de los Padres de la Iglesia, y en Occidente el papa León XIII lo proclamó doctor de la Iglesia en 1890.</p><p>La presente edición ofrece la obra completa traducida directamente del griego, con una introducción sobre la vida de san Juan Damasceno y su contexto histórico, más de mil seiscientas notas que explican los términos difíciles y localizan cada cita, un glosario de los términos griegos y un índice de citas bíblicas.</p></div>
+
+              <dl class="rec-book-facts">
+                <div>
+                  <dt data-i18n="topicPages.del-autor.sec4.factFormatsLabel">Formatos</dt>
+                  <dd data-i18n="topicPages.del-autor.sec6.factFormats">Tapa blanda y tapa dura</dd>
+                </div>
+                <div>
+                  <dt data-i18n="topicPages.del-autor.sec4.factLangsLabel">Idiomas</dt>
+                  <dd>
+                    <ul class="rec-book-flags rec-book-flags--facts">
+                      <li><img src="Recursos/Im%C3%A1genes/spain-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.del-autor.sec4.langs.es">Español</span></li>
+                      <li class="rec-book-flag-soon"><img src="Recursos/Im%C3%A1genes/united-states-of-america-flag-png-large.webp" alt="" width="20" height="14" loading="lazy"><span data-i18n="topicPages.del-autor.sec4.langs.en">Inglés</span> <span data-i18n="topicPages.del-autor.sec6.soon">(próximamente)</span></li>
+                    </ul>
+                  </dd>
+                </div>
+              </dl>
+
+              <div class="rec-book-buy">
+                <a href="https://www.amazon.com/dp/B0HQG4QM8J"
+                   target="_blank" rel="noopener" class="rec-btn-gold"
+                   data-i18n="topicPages.del-autor.sec4.buyLabel">Comprar en Amazon →</a>
               </div>
             </div>
           </div>
@@ -809,6 +933,6 @@
     </footer>
     
     <script src="js/main.js?v=18" defer></script>
-    <script src="js/translations.js?v=34" defer></script>
+    <script src="js/translations.js?v=35" defer></script>
 </body>
 </html>

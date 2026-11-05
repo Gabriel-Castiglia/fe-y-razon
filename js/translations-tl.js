@@ -1347,7 +1347,12 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
         // Los dos idiomas de la 2da edición, con bandera en la ficha.
         langs: {
           es: "Espanyol",
-          en: "Ingles"
+          en: "Ingles",
+          fr: "Pranses",
+          it: "Italyano",
+          pt: "Portuges",
+          de: "Aleman",
+          ja: "Hapones"
         },
         otherLangs: "Para sa mga edisyon sa ibang wika, sumulat sa may-akda sa pamamagitan ng <a href='/#contacto'>form ng pakikipag-ugnayan</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
@@ -1377,6 +1382,20 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
         // Tapa y lomo: la castellana en español; la inglesa (Faith and Reason) en los demás idiomas.
         coverSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-en.jpg",
         spineSrc: "Recursos/Im%C3%A1genes/libro-fe-y-razon-lomo-en.jpg"
+      },
+      // Fuente del conocimiento (san Juan Damasceno), traducción de Gabriel, publicada el 4-nov-2026.
+      // Solo hay edición castellana: el título y la tapa no cambian con el idioma.
+      sec6: {
+        badge: "Bagong salin mula sa Griyego",
+        author: "San Juan Damasceno",
+        credit: "Edisyon, salin sa Espanyol, panimula at mga tala ni M. Gabriel Castiglia",
+        epigraph: "«Walang mas mahalaga kaysa sa kaalaman.»",
+        epigraphRef: "San Juan Damasceno · Dialektika, 1",
+        desc: "<p>Isinilang si San Juan Damasceno noong mga taong 675 sa Damasco, sa isang pamilyang Kristiyano na naglilingkod sa kalipa, at ayon sa pinakamatandang talambuhay niya, noong kabataan ay siya mismo ang humawak sa mga kuwenta ng kalipato. Noong mga taong 700 ay iniwan niya ang korte at naging monghe sa San Sabas, isang monasteryong inukit sa bato sa kalagitnaan ng Jerusalem at ng Dagat na Patay. Doon siya inordenahang pari, kumatha ng mga himnong inaawit pa rin ng mga simbahan ng ritong Bisantino, at ipinagtanggol ang mga banal na larawan nang ipagbawal ang mga ito ng emperador. Doon siya namatay noong mga taong 749.</p><p>Malapit sa katapusan ng kanyang buhay, tinipon niya sa iisang aklat, na tinawag niyang <em>Bukal ng Kaalaman</em>, ang kailangan ng isang Kristiyano upang pag-isipan nang wasto ang kanyang pananampalataya. May tatlong bahagi ang akda: isang panimula sa pilosopiya, isang katalogo ng mga erehiya, at isang paglalahad ng pananampalataya mula sa Santisima Trinidad hanggang sa mga sakramento.</p><p>Sa Silangan, itinuturing siyang huli sa mga Ama ng Simbahan, at sa Kanluran ay ipinahayag siya ni Papa Leon XIII na Doktor ng Simbahan noong 1890.</p><p>Iniaalok ng edisyong ito ang buong akda na isinalin nang tuwiran mula sa Griyego tungo sa Espanyol, kasama ang isang panimula tungkol sa buhay ni San Juan Damasceno at sa kanyang kontekstong pangkasaysayan, mahigit sa isang libo at anim na raang tala na nagpapaliwanag ng mahihirap na termino at tumutukoy sa pinagmulan ng bawat sipi, isang glosaryo ng mga terminong Griyego, at isang indise ng mga siping biblikal.</p>",
+        factFormats: "Paperback at hardcover",
+        coverAlt: "Pabalat ng Fuente del conocimiento (Bukal ng Kaalaman), ni San Juan Damasceno",
+        soon: "(malapit na)",
+        buyAria: "Bilhin ang «Fuente del conocimiento» sa Amazon"
       },
       rights: {
         eyebrow: "Paunawang legal",
