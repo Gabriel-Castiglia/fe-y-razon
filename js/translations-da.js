@@ -1353,7 +1353,6 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
           de: "Tysk",
           ja: "Japansk"
         },
-        otherLangs: "For udgaver på andre sprog kan man skrive til forfatteren via <a href='/#contacto'>kontaktformularen</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.

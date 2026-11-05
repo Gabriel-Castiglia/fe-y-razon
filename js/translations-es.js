@@ -1584,7 +1584,6 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
           de: "Alemán",
           ja: "Japonés"
         },
-        otherLangs: "Para ediciones en otros idiomas, escribir al autor por el <a href='/#contacto'>formulario de contacto</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.

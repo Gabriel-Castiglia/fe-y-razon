@@ -1165,7 +1165,6 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
           de: "Allemand",
           ja: "Japonais"
         },
-        otherLangs: "Pour des éditions dans d'autres langues, écrire à l'auteur via le <a href='/#contacto'>formulaire de contact</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.

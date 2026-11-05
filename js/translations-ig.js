@@ -1157,7 +1157,6 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
           de: "German",
           ja: "Japanese"
         },
-        otherLangs: "Maka mbipụta n'asụsụ ndị ọzọ, degara onye edemede site na <a href='/#contacto'>fọm kọntaktị</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.

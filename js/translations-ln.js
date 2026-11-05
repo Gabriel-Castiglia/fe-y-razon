@@ -1157,7 +1157,6 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
           de: "Lialemá",
           ja: "Lizapɔ́"
         },
-        otherLangs: "Mpo na mabimeli na minoko mosusu, komela mokomi na nzela ya <a href='/#contacto'>formilɛrɛ ya boyokani</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.

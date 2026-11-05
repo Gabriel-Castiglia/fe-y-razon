@@ -1359,7 +1359,6 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
           de: "Germanice",
           ja: "Iaponice"
         },
-        otherLangs: "De editionibus aliis linguis, auctorem per <a href='/#contacto'>formulam epistularem</a> adire licet.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.

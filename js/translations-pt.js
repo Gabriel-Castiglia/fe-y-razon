@@ -1165,7 +1165,6 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
           de: "Alemão",
           ja: "Japonês"
         },
-        otherLangs: "Para edições em outros idiomas, escreva ao autor pelo <a href='/#contacto'>formulário de contato</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.

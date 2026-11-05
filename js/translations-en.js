@@ -1353,7 +1353,6 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
           de: "German",
           ja: "Japanese"
         },
-        otherLangs: "For editions in other languages, write to the author through the <a href='/#contacto'>contact form</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.

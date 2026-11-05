@@ -1353,7 +1353,6 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
           de: "ドイツ語",
           ja: "日本語"
         },
-        otherLangs: "他の言語での出版にご関心のある方は、<a href='/#contacto'>お問い合わせフォーム</a>より著者までご連絡ください。",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.

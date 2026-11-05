@@ -1354,7 +1354,6 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
           de: "Aleman",
           ja: "Hapones"
         },
-        otherLangs: "Para sa mga edisyon sa ibang wika, sumulat sa may-akda sa pamamagitan ng <a href='/#contacto'>form ng pakikipag-ugnayan</a>.",
         // Portada de la 2da edición en este idioma. Solo hay dos, porque la
         // edición sale solo en español e inglés; los demás idiomas muestran
         // la inglesa, que es el título con el que la anuncian arriba.
