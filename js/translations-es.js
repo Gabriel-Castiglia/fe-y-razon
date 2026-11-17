@@ -1650,6 +1650,8 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
                 <p>Sólo para leer el mensaje y responderlo. No se venden, no se ceden con fines comerciales y no se usan para enviar boletines ni publicidad.</p>
                 <h2>Por dónde pasan</h2>
                 <p>El formulario se envía a <strong>Formspree</strong> (formspree.io), el servicio que recibe el mensaje y lo hace llegar al autor. Al usar el formulario, esos datos quedan también sujetos a las condiciones de ese servicio, que pueden consultarse en <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">su política de privacidad</a>.</p>
+                <h2>Los videos de la sección Multimedia</h2>
+                <p>La sección Multimedia muestra series de EWTN alojadas en <strong>YouTube</strong> y en <strong>Vimeo</strong>. Las miniaturas se sirven desde este mismo dominio, y el reproductor de esos servicios se carga recién cuando pulsás reproducir. Desde ese momento, lo que registre el reproductor se rige por la política de privacidad de YouTube o de Vimeo. Para reducir el rastreo, YouTube se carga desde youtube-nocookie.com y Vimeo con la opción de no rastrear activada.</p>
                 <h2>Dónde está alojado el sitio</h2>
                 <p>Las páginas se publican mediante <strong>GitHub Pages</strong>. Como cualquier servidor web, registra las solicitudes que recibe para poder entregar las páginas y protegerlas de abusos. Ese registro no está bajo el control de este sitio.</p>
                 <h2>Lo único que se guarda en tu navegador</h2>

@@ -41,6 +41,11 @@ const langMeta = {
 // contra ESTA lista, nunca contra `translations`, que ahora arranca vacío.
 const IDIOMAS = Object.keys(langMeta);
 
+// Páginas que existen solo en español (multimedia.html): el <html> lleva
+// data-solo-es. Declaran un único hreflang y, si se pide otro idioma, mandan al
+// visitante a Temas en ese idioma en vez de mostrarle una página a medias.
+const SOLO_ES = document.documentElement.hasAttribute('data-solo-es');
+
 // 2b. CARGADOR DE DICCIONARIOS BAJO DEMANDA
 /**
  * Versión de los archivos (?v=N). Se lee del <script> de este mismo archivo, así
@@ -214,7 +219,7 @@ function updateHreflangTags() {
   // Crear etiquetas para cada idioma soportado. Va contra IDIOMAS y no contra
   // `translations`: ahora ahí solo está el idioma cargado, y recorrerlo dejaría
   // una sola etiqueta hreflang en vez de las doce.
-  IDIOMAS.concat('x-default').forEach(langCode => {
+  (SOLO_ES ? ['es'] : IDIOMAS).concat('x-default').forEach(langCode => {
     const link = document.createElement('link');
     link.rel = 'alternate';
     link.hreflang = langCode;
@@ -235,6 +240,11 @@ function updateHreflangTags() {
  */
 function setLanguage(lang) {
   if (IDIOMAS.indexOf(lang) === -1) lang = 'es';
+  if (SOLO_ES && lang !== 'es') {
+    try { localStorage.setItem('language', lang); } catch (_) {}
+    window.location.replace('temas.html?lang=' + lang);
+    return Promise.resolve();
+  }
 
   return cargarIdioma(lang)
     .then(() => aplicarIdioma(lang))
@@ -278,7 +288,9 @@ function aplicarIdioma(lang) {
   // Solo en la portada: una página con <title data-i18n> (temas.html, los tema-*.html)
   // trae su propio título y su propia descripción, y esto se los pisaba con los
   // de la portada.
-  if ((typeof currentSlug === 'undefined' || !currentSlug) && !document.querySelector('title[data-i18n]')) {
+  // Tampoco en una página solo en español (multimedia.html): trae los suyos y se
+  // perdían, quedaba con el título de la portada (medido el 17-nov-2026).
+  if ((typeof currentSlug === 'undefined' || !currentSlug) && !document.querySelector('title[data-i18n]') && !SOLO_ES) {
     const t = translations[lang];
     if (t) {
       document.title = t.siteTitle || `${t.logo || 'Fé y Razón'} | Apologética Católica`;

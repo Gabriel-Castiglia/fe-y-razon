@@ -393,6 +393,9 @@ header.hero-mode.scrolled:not(.nav-open) nav a:hover {
   color: var(--text-primary);
 }
 
+/* Multimedia existe solo en español: fuera del español su ítem no se muestra. */
+html:not([lang="es"]) .nav-solo-es { display: none; }
+
 nav ul {
   list-style: none;
   display: flex;

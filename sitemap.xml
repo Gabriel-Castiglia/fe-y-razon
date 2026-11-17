@@ -287,4 +287,12 @@
         <xhtml:link rel="alternate" hreflang="ig" href="https://proyectofeyrazon.com/privacidad.html?lang=ig"/>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://proyectofeyrazon.com/privacidad.html"/>
     </url>
+    <url>
+        <loc>https://proyectofeyrazon.com/multimedia.html</loc>
+        <lastmod>2026-11-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="es" href="https://proyectofeyrazon.com/multimedia.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://proyectofeyrazon.com/multimedia.html"/>
+    </url>
 </urlset>

@@ -150,7 +150,8 @@ document.addEventListener('DOMContentLoaded', function () {
       if (header.classList.contains('nav-open')) return;   // abierto, la letra es otra
       let compacto = false;
       if (window.innerWidth > 900 && logo && idioma) {
-        const items = [...navList.children];
+        // Sin los ítems ocultos (Multimedia fuera del español): no ocupan lugar.
+        const items = [...navList.children].filter(li => getComputedStyle(li).display !== 'none');
         const necesita = items.reduce((s, li) => s + li.getBoundingClientRect().width, 0) + GAP * (items.length - 1);
         const cs = getComputedStyle(header);
         const disponible = header.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight)

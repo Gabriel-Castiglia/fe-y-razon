@@ -1,0 +1,753 @@
+<!DOCTYPE html>
+<!-- data-solo-es: esta página existe solo en español. js/translations.js lo lee:
+     declara un único hreflang (es) y, si el visitante pide otro idioma, lo manda a
+     Temas en ese idioma. El ítem del menú se oculta fuera del español (.nav-solo-es). -->
+<html lang="es" data-solo-es>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="theme-color" content="#0d0a07">
+    <meta name="description" content="Videos católicos en español: la herejía protestante explicada por la Iglesia (La Reforma, serie de EWTN en 12 capítulos), Doctores de la Iglesia y Chesterton Station.">
+    <meta name="keywords" content="Reforma protestante, herejía protestante, Lutero, Calvino, Enrique VIII, Concilio de Trento, Reforma católica, EWTN, Doctores de la Iglesia, San Agustín, Santa Catalina de Siena, San Atanasio, San Ambrosio, San León Magno, Chesterton, apologética católica, videos católicos">
+    <meta name="author" content="M. Gabriel Castiglia">
+    <meta name="robots" content="index, follow, max-image-preview:large">
+    <link rel="alternate" hreflang="es" href="https://proyectofeyrazon.com/multimedia.html">
+    <link rel="alternate" hreflang="x-default" href="https://proyectofeyrazon.com/multimedia.html">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://proyectofeyrazon.com/multimedia.html">
+    <meta property="og:title" content="Multimedia católica: la Reforma protestante explicada | Fé y Razón">
+    <meta property="og:description" content="La herejía protestante explicada por la Santa Iglesia Católica: La Reforma, serie de EWTN en doce capítulos.">
+    <meta property="og:image" content="https://proyectofeyrazon.com/Recursos/Im%C3%A1genes/multimedia/multimedia-og.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Multimedia de Fé y Razón: La herejía protestante explicada por la Santa Iglesia Católica">
+    <meta property="og:site_name" content="Fé y Razón">
+    <meta property="og:locale" content="es_ES">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Multimedia católica: la Reforma protestante explicada | Fé y Razón">
+    <meta name="twitter:description" content="La herejía protestante explicada por la Santa Iglesia Católica: La Reforma, serie de EWTN en doce capítulos.">
+    <meta name="twitter:image" content="https://proyectofeyrazon.com/Recursos/Im%C3%A1genes/multimedia/multimedia-og.jpg">
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Multimedia católica: la Reforma protestante explicada | Fé y Razón",
+        "description": "Videos católicos en español: la herejía protestante explicada por la Iglesia (La Reforma, serie de EWTN en 12 capítulos), Doctores de la Iglesia y Chesterton Station.",
+        "url": "https://proyectofeyrazon.com/multimedia.html",
+        "inLanguage": "es",
+        "publisher": { "@type": "Organization", "name": "Fé y Razón", "url": "https://proyectofeyrazon.com" },
+        "hasPart": [
+            { "@type": "CreativeWorkSeries", "name": "La Reforma", "inLanguage": "es", "producer": { "@type": "Organization", "name": "EWTN", "url": "https://www.ewtn.com/es" }, "url": "https://ewtnalacarta.substack.com/t/la-reforma" },
+            { "@type": "CreativeWorkSeries", "name": "Doctores de la Iglesia", "inLanguage": "es", "producer": { "@type": "Organization", "name": "EWTN", "url": "https://www.ewtn.com/es" }, "url": "https://ewtnalacarta.substack.com/t/doctores-de-la-iglesia" },
+            { "@type": "CreativeWorkSeries", "name": "Chesterton Station", "inLanguage": "es", "producer": { "@type": "Organization", "name": "EWTN", "url": "https://www.ewtn.com/es" }, "url": "https://ewtnalacarta.substack.com/t/chesterton-station" }
+        ]
+    }
+    </script>
+    <link rel="preload" href="css/style.css?v=30" as="style">
+    <title>Multimedia católica: la Reforma protestante explicada | Fé y Razón</title>
+    <link rel="preload" href="Recursos/Fuentes/cinzel-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="Recursos/Fuentes/montserrat-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="icon" href="favicon.ico?v=2" sizes="16x16 32x32 48x48 96x96">
+    <link rel="icon" href="favicon.svg?v=2" type="image/svg+xml">
+    <link rel="icon" href="icon-192.png?v=2" type="image/png" sizes="192x192">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png?v=2">
+    <link rel="manifest" href="site.webmanifest?v=2">
+    <link rel="stylesheet" href="css/style.css?v=30">
+
+    <style>
+      /* ═══════════ MULTIMEDIA ═══════════
+         Página oscura: todo el fondo es nave de iglesia en penumbra, con el humo
+         del incensario (canvas #mm-incienso) por encima de todo, sin capturar clics. */
+      body.mm { background: #0d0a07; color: #efe6da; }
+      .mm-page { position: relative; background:
+          radial-gradient(1200px 600px at 50% -10%, rgba(var(--gold-rgb), .10), transparent 70%),
+          linear-gradient(180deg, #120d09 0%, #0d0a07 40%, #0b0806 100%);
+        overflow: hidden; }
+      #mm-incienso { position: fixed; inset: 0; width: 100%; height: 100%; pointer-events: none;
+        z-index: 3; mix-blend-mode: screen; opacity: .85; }
+
+      /* Encabezado al bajar: en esta página oscura queda oscuro, no blanco. */
+      body.mm header.scrolled { background: rgba(13,10,7,.9); border-bottom-color: rgba(var(--gold-rgb), .22); box-shadow: 0 1px 24px rgba(0,0,0,.5); }
+      body.mm header.hero-mode.scrolled .logo { color: #fff; }
+      body.mm header.hero-mode.scrolled:not(.nav-open) nav a,
+      body.mm header.hero-mode.scrolled:not(.nav-open) nav a:hover { color: rgba(255,255,255,.88); }
+      body.mm header.scrolled:not(.nav-open) nav a.active { color: var(--gold); }
+      body.mm header.scrolled:not(.nav-open) nav a.active::after { background: var(--gold); }
+      body.mm header.hero-mode.scrolled .lang-dropdown-trigger { color: #fff; border-color: rgba(var(--gold-rgb), .6); }
+      body.mm header.scrolled .hamburger span { background: #fff; }
+
+      /* ── HERO ── */
+      .mm-hero { position: relative; overflow: hidden; min-height: 92vh; min-height: 92svh;
+        display: flex; align-items: flex-end; background: #0b0806; color: #fff; padding: 140px 0 72px; }
+      .mm-hero video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover;
+        opacity: 0; transition: opacity 1.6s ease; filter: sepia(.25) saturate(1.1) contrast(1.05); }
+      .mm-hero video.active { opacity: .62; }
+      .mm-hero::before { content: ''; position: absolute; inset: 0; z-index: 1;
+        background:
+          radial-gradient(ellipse 80% 70% at 50% 35%, transparent 0%, rgba(8,5,3,.55) 70%, rgba(8,5,3,.92) 100%),
+          linear-gradient(180deg, rgba(8,5,3,.55) 0%, rgba(8,5,3,.15) 35%, rgba(13,10,7,.96) 100%); }
+      /* Haz de luz que cae en diagonal, como por una ventana alta */
+      .mm-hero::after { content: ''; position: absolute; z-index: 1; top: -20%; left: 18%; width: 38%; height: 140%;
+        background: linear-gradient(100deg, transparent 0%, rgba(255,226,170,.10) 45%, rgba(255,226,170,.03) 60%, transparent 75%);
+        transform: rotate(14deg); filter: blur(8px); animation: mm-haz 14s ease-in-out infinite alternate; }
+      @keyframes mm-haz { from { opacity: .55; transform: rotate(14deg) translateX(-2%); } to { opacity: 1; transform: rotate(12deg) translateX(3%); } }
+
+      .mm-hero-inner { position: relative; z-index: 4; width: 100%; max-width: 1180px; margin: 0 auto; padding: 0 56px; }
+      .mm-kicker { display: flex; align-items: center; gap: 14px; font-family: var(--font-body); font-size: 12px;
+        letter-spacing: .32em; text-transform: uppercase; color: var(--gold); }
+      .mm-kicker::before, .mm-kicker::after { content: ''; height: 1px; width: 48px; background: linear-gradient(90deg, transparent, var(--gold)); }
+      .mm-kicker::after { background: linear-gradient(90deg, var(--gold), transparent); }
+      .mm-hero h1 { font-family: var(--font-display); font-weight: 700; color: #fff; margin: 18px 0 10px;
+        font-size: clamp(54px, 9vw, 132px); line-height: .92; letter-spacing: .04em;
+        text-shadow: 0 0 40px rgba(var(--gold-rgb), .35), 0 4px 30px rgba(0,0,0,.6);
+        background: linear-gradient(180deg, #fff8ec 0%, #f0dcc0 55%, #c99a62 100%);
+        -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+      .mm-hero-sub { max-width: 560px; font-size: 1.02rem; line-height: 1.75; color: rgba(255,255,255,.78); margin: 0 0 34px; }
+
+      /* Tarjeta del tema destacado dentro del hero */
+      .mm-destacado { display: grid; grid-template-columns: 300px 1fr; gap: 0; max-width: 760px;
+        border: 1px solid rgba(var(--gold-rgb), .35); border-radius: 14px; overflow: hidden;
+        background: linear-gradient(120deg, rgba(20,14,9,.86), rgba(20,14,9,.55));
+        backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
+        box-shadow: 0 20px 60px rgba(0,0,0,.55), inset 0 0 0 1px rgba(255,255,255,.03);
+        text-decoration: none; color: inherit; transition: transform .35s, box-shadow .35s, border-color .35s; }
+      .mm-destacado:hover { transform: translateY(-4px); border-color: rgba(var(--gold-rgb), .7);
+        box-shadow: 0 28px 70px rgba(0,0,0,.6), 0 0 40px rgba(var(--gold-rgb), .15); }
+      /* 16:9 fijo y centrado: estirada al alto del texto se recortaba. */
+      .mm-destacado-img { position: relative; aspect-ratio: 16/9; align-self: center; margin: 12px 0 12px 12px; overflow: hidden; border-radius: 6px;
+        box-shadow: 0 0 0 1px rgba(var(--gold-rgb), .35), 0 8px 20px rgba(0,0,0,.5); }
+      .mm-destacado-img img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .6s; }
+      .mm-destacado:hover .mm-destacado-img img { transform: scale(1.05); }
+      .mm-destacado-body { padding: 20px 26px; display: flex; flex-direction: column; justify-content: center; gap: 6px; }
+      .mm-badge { align-self: flex-start; font-family: var(--font-body); font-size: 10px; letter-spacing: .22em; text-transform: uppercase;
+        color: #1a1410; background: linear-gradient(90deg, #e8c48f, var(--gold)); padding: 4px 10px; border-radius: 3px; }
+      .mm-destacado-body h2 { font-family: var(--font-display); font-size: 1.55rem; color: #fff; margin: 4px 0 0; line-height: 1.15; }
+      .mm-destacado-body p { margin: 0; font-size: .82rem; color: rgba(255,255,255,.62); }
+      .mm-destacado-cta { margin-top: 6px; font-size: .78rem; letter-spacing: .08em; color: var(--gold); }
+
+      /* Invitación a bajar: texto y flecha doble que cae (antes un mouse con ruedita que no se entendía). */
+      .mm-scroll { position: absolute; z-index: 4; left: 50%; bottom: 18px; transform: translateX(-50%); display: flex; flex-direction: column; align-items: center; gap: 6px;
+        font-size: 10px; letter-spacing: .3em; text-transform: uppercase; color: rgba(var(--gold-rgb), .85); text-decoration: none; transition: color .2s; }
+      .mm-scroll:hover { color: #fff; }
+      .mm-scroll svg { width: 22px; height: 22px; animation: mm-cae 2s ease-in-out infinite; }
+      @keyframes mm-cae { 0%, 100% { transform: translateY(0); opacity: .6; } 50% { transform: translateY(7px); opacity: 1; } }
+
+      /* ── Ornamento entre secciones ── */
+      .mm-orn { display: flex; align-items: center; justify-content: center; gap: 18px; color: var(--gold); margin: 0 auto 18px; }
+      .mm-orn::before, .mm-orn::after { content: ''; height: 1px; width: min(180px, 22vw); }
+      .mm-orn::before { background: linear-gradient(90deg, transparent, rgba(var(--gold-rgb), .7)); }
+      .mm-orn::after { background: linear-gradient(90deg, rgba(var(--gold-rgb), .7), transparent); }
+      .mm-orn span { font-size: 22px; text-shadow: 0 0 14px rgba(var(--gold-rgb), .6); }
+      .mm-sec { position: relative; z-index: 2; max-width: 1180px; margin: 0 auto; padding: 88px 56px 0; }
+      .mm-sec-head { text-align: center; margin-bottom: 40px; }
+      .mm-sec-head h2 { font-family: var(--font-display); color: #fff; font-size: clamp(28px, 3.4vw, 44px); margin: 0 0 10px; letter-spacing: .03em; }
+      .mm-sec-head p { margin: 0 auto; max-width: 620px; color: rgba(255,255,255,.6); font-size: .92rem; line-height: 1.7; }
+
+      /* ── SELECTOR DE TEMAS: arcos de vitral ──
+         El arco es un tímpano oscuro arriba; la miniatura va entera debajo, en 16:9,
+         sin recorte (antes llenaba un arco alto y se cortaba casi toda). */
+      .mm-temas { display: flex; gap: 26px; justify-content: center; flex-wrap: wrap; align-items: stretch; }
+      .mm-tema { position: relative; width: 330px; padding: 0; border: 0; background: none; cursor: pointer; color: inherit; text-align: center; font: inherit; display: flex; }
+      .mm-tema-arco { position: relative; flex: 1; display: flex; flex-direction: column; overflow: hidden;
+        border-radius: 50% 50% 10px 10px / 92px 92px 10px 10px;
+        background: linear-gradient(180deg, #2a1d12 0%, #160f09 34%, #100b07 100%);
+        border: 1px solid rgba(var(--gold-rgb), .35); box-shadow: 0 14px 40px rgba(0,0,0,.5);
+        transition: transform .35s, box-shadow .35s, border-color .35s; }
+      .mm-tema-arco::before { content: ''; position: absolute; inset: 7px; z-index: 1; pointer-events: none;
+        border-radius: 50% 50% 6px 6px / 86px 86px 6px 6px; border: 1px solid rgba(var(--gold-rgb), .25); }
+      .mm-tema-timpano { position: relative; height: 96px; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; gap: 8px; padding-bottom: 12px;
+        background: radial-gradient(ellipse 60% 90% at 50% 100%, rgba(var(--gold-rgb), .18), transparent 70%); }
+      .mm-tema-timpano i { font-style: normal; font-size: 22px; line-height: 1; color: var(--gold); text-shadow: 0 0 14px rgba(var(--gold-rgb), .7); }
+      .mm-tema .mm-badge { align-self: center; }
+      .mm-tema-img { position: relative; aspect-ratio: 16/9; margin: 0 12px; overflow: hidden; border-radius: 4px;
+        box-shadow: 0 0 0 1px rgba(var(--gold-rgb), .35), 0 8px 20px rgba(0,0,0,.5); }
+      .mm-tema-img img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .7s, filter .35s; filter: saturate(.9) brightness(.88); }
+      .mm-tema:hover .mm-tema-arco, .mm-tema[aria-pressed="true"] .mm-tema-arco { transform: translateY(-6px); border-color: var(--gold);
+        box-shadow: 0 22px 50px rgba(0,0,0,.6), 0 0 36px rgba(var(--gold-rgb), .22); }
+      .mm-tema:hover .mm-tema-img img, .mm-tema[aria-pressed="true"] .mm-tema-img img { transform: scale(1.05); filter: saturate(1) brightness(1); }
+      .mm-tema-info { padding: 16px 18px 20px; flex: 1; display: flex; flex-direction: column; justify-content: center; }
+      .mm-tema-info strong { display: block; font-family: var(--font-display); font-size: 1.08rem; color: #fff; line-height: 1.3; }
+      .mm-tema-info small { display: block; margin-top: 8px; font-size: .66rem; letter-spacing: .14em; text-transform: uppercase; color: var(--gold); }
+
+      /* ── LA SERIE ── */
+      .mm-serie-head { display: grid; grid-template-columns: auto 1fr; gap: 28px; align-items: center; margin-bottom: 34px; }
+      .mm-serie-num { font-family: var(--font-display); font-size: 92px; line-height: .8; color: transparent;
+        -webkit-text-stroke: 1px rgba(var(--gold-rgb), .7); }
+      .mm-serie-head h2 { font-family: var(--font-display); color: #fff; font-size: clamp(30px, 4vw, 52px); margin: 0; line-height: 1.05; }
+      .mm-serie-meta { margin-top: 8px; font-size: .78rem; letter-spacing: .16em; text-transform: uppercase; color: var(--gold); }
+      .mm-serie-desc { margin: 12px 0 0; max-width: 720px; color: rgba(255,255,255,.66); font-size: .95rem; line-height: 1.75; }
+
+      .mm-teatro { display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 26px; align-items: start; }
+      .mm-fuentes { display: flex; align-items: center; gap: 6px; margin: 0 0 12px; font-size: .7rem; letter-spacing: .16em; text-transform: uppercase; color: rgba(255,255,255,.5); }
+      .mm-fuentes[hidden] { display: none; }
+      .mm-fuentes span { margin-right: 6px; }
+      .mm-fuentes button { font: inherit; letter-spacing: .1em; color: rgba(255,255,255,.75); background: transparent; border: 1px solid rgba(255,255,255,.2);
+        padding: .4rem .9rem; border-radius: 20px; cursor: pointer; transition: all .2s; }
+      .mm-fuentes button:hover { border-color: var(--gold); color: var(--gold); }
+      .mm-fuentes button[aria-pressed="true"] { background: var(--gold); border-color: var(--gold); color: #1a1410; }
+      .mm-ficha p:empty { display: none; }
+      .mm-serie-meta a { color: inherit; text-decoration: none; border-bottom: 1px solid rgba(var(--gold-rgb), .4); }
+      .mm-serie-meta a:hover { color: #fff; }
+      .mm-pantalla { position: relative; border-radius: 12px; padding: 10px;
+        background: linear-gradient(145deg, #3a2a18, #1a120a 40%, #3b2a17);
+        box-shadow: 0 30px 80px rgba(0,0,0,.7), 0 0 60px rgba(var(--gold-rgb), .08), inset 0 0 0 1px rgba(var(--gold-rgb), .45); }
+      .mm-marco { position: relative; aspect-ratio: 16/9; border-radius: 6px; overflow: hidden; background: #000; }
+      .mm-marco iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+      .mm-portada { position: absolute; inset: 0; border: 0; padding: 0; margin: 0; cursor: pointer; background: #000; display: block; width: 100%; }
+      .mm-portada img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .8s, filter .4s; filter: brightness(.72); }
+      .mm-portada:hover img { transform: scale(1.03); filter: brightness(.85); }
+      .mm-portada::after { content: ''; position: absolute; inset: 0; background: radial-gradient(circle at center, transparent 30%, rgba(0,0,0,.55) 100%); }
+      .mm-play { position: absolute; z-index: 1; left: 50%; top: 50%; width: 96px; height: 96px; margin: -48px 0 0 -48px; border-radius: 50%;
+        display: grid; place-items: center; background: rgba(12,8,4,.55); border: 1px solid rgba(var(--gold-rgb), .9);
+        box-shadow: 0 0 0 10px rgba(var(--gold-rgb), .08), 0 0 50px rgba(var(--gold-rgb), .35); transition: transform .3s, background .3s; }
+      .mm-portada:hover .mm-play { transform: scale(1.08); background: rgba(var(--gold-rgb), .9); }
+      .mm-play svg { width: 34px; height: 34px; margin-left: 6px; fill: var(--gold); transition: fill .3s; }
+      .mm-portada:hover .mm-play svg { fill: #1a1410; }
+      .mm-play::before { content: ''; position: absolute; inset: -18px; border-radius: 50%; border: 1px solid rgba(var(--gold-rgb), .35); animation: mm-latido 2.6s ease-out infinite; }
+      @keyframes mm-latido { from { transform: scale(.85); opacity: 1; } to { transform: scale(1.35); opacity: 0; } }
+      .mm-portada-num { position: absolute; z-index: 1; left: 22px; top: 16px; font-family: var(--font-display); font-size: 15px;
+        letter-spacing: .2em; color: var(--gold); text-shadow: 0 2px 10px #000; }
+
+      .mm-ficha { padding: 22px 6px 0; }
+      .mm-ficha-cap { font-size: .72rem; letter-spacing: .2em; text-transform: uppercase; color: var(--gold); }
+      .mm-ficha h3 { font-family: var(--font-display); color: #fff; font-size: clamp(22px, 2.4vw, 30px); margin: 6px 0 10px; line-height: 1.2; }
+      .mm-ficha p { color: rgba(255,255,255,.7); font-size: .93rem; line-height: 1.75; margin: 0 0 18px; max-width: 760px; }
+      .mm-acciones { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+      .mm-btn { font-family: var(--font-body); font-size: .76rem; letter-spacing: .06em; padding: .62rem 1.25rem; border-radius: 6px;
+        text-decoration: none; cursor: pointer; white-space: nowrap; transition: background .2s, color .2s, border-color .2s; }
+      .mm-btn-oro { color: #1a1410; background: var(--gold); border: 1px solid var(--gold); }
+      .mm-btn-oro:hover { background: var(--gold-light); border-color: var(--gold-light); }
+      .mm-btn-linea { color: rgba(255,255,255,.85); background: transparent; border: 1px solid rgba(255,255,255,.25); }
+      .mm-btn-linea:hover { border-color: var(--gold); color: var(--gold); }
+      .mm-btn[disabled] { opacity: .35; cursor: default; pointer-events: none; }
+      .mm-aviso { margin-top: 16px; font-size: .7rem; color: rgba(255,255,255,.4); line-height: 1.6; }
+      .mm-aviso a { color: rgba(255,255,255,.55); }
+
+      /* Lista de capítulos */
+      .mm-lista { list-style: none; margin: 0; padding: 8px; border-radius: 12px; max-height: 640px; overflow-y: auto;
+        background: linear-gradient(180deg, rgba(30,21,13,.85), rgba(16,11,7,.85)); border: 1px solid rgba(var(--gold-rgb), .2);
+        scrollbar-width: thin; scrollbar-color: rgba(var(--gold-rgb), .4) transparent; }
+      .mm-lista-head { padding: 10px 12px 12px; font-size: .68rem; letter-spacing: .22em; text-transform: uppercase; color: var(--gold);
+        border-bottom: 1px solid rgba(var(--gold-rgb), .15); margin-bottom: 6px; display: flex; justify-content: space-between; }
+      .mm-cap { display: grid; grid-template-columns: 34px 112px 1fr; gap: 12px; align-items: center; width: 100%; padding: 9px 10px;
+        border: 0; border-radius: 8px; background: transparent; color: inherit; font: inherit; text-align: left; cursor: pointer;
+        transition: background .2s; position: relative; }
+      .mm-cap:hover { background: rgba(var(--gold-rgb), .08); }
+      .mm-cap[aria-current="true"] { background: linear-gradient(90deg, rgba(var(--gold-rgb), .18), rgba(var(--gold-rgb), .04)); }
+      .mm-cap[aria-current="true"]::before { content: ''; position: absolute; left: 0; top: 10px; bottom: 10px; width: 2px; background: var(--gold); border-radius: 2px; }
+      .mm-cap-num { font-family: var(--font-display); font-size: 1.05rem; color: rgba(var(--gold-rgb), .85); text-align: center; }
+      .mm-cap-img { position: relative; aspect-ratio: 16/9; border-radius: 4px; overflow: hidden; background: #000; }
+      .mm-cap-img img { width: 100%; height: 100%; object-fit: cover; display: block; filter: brightness(.85); }
+      .mm-cap-dur { position: absolute; right: 4px; bottom: 4px; font-size: .6rem; padding: 1px 5px; border-radius: 3px; background: rgba(0,0,0,.78); color: #fff; }
+      .mm-cap-tit { font-size: .8rem; line-height: 1.35; color: rgba(255,255,255,.86); }
+      .mm-cap[aria-current="true"] .mm-cap-tit { color: #fff; }
+
+      /* ── FUENTE ── */
+      .mm-fuente { display: grid; grid-template-columns: 300px 1fr; border-radius: 16px; overflow: hidden;
+        border: 1px solid rgba(var(--gold-rgb), .25); background: linear-gradient(120deg, #1b130c, #120d09);
+        box-shadow: 0 20px 60px rgba(0,0,0,.5); }
+      .mm-fuente-logo { background: #fff; display: grid; place-items: center; padding: 26px; }
+      .mm-fuente-logo img { width: 100%; max-width: 240px; height: auto; display: block; }
+      .mm-fuente-body { padding: 30px 34px; }
+      .mm-fuente-body h3 { font-family: var(--font-display); color: #fff; font-size: 1.4rem; margin: 6px 0 10px; }
+      .mm-fuente-body p { color: rgba(255,255,255,.66); font-size: .9rem; line-height: 1.75; margin: 0 0 18px; }
+
+      .mm-cierre { position: relative; z-index: 2; text-align: center; padding: 96px 24px 110px; }
+      .mm-cierre p { font-family: var(--font-display); font-size: clamp(18px, 2vw, 24px); color: rgba(255,255,255,.8); margin: 14px 0 0; letter-spacing: .04em; }
+      .mm-cierre small { display: block; margin-top: 8px; font-size: .75rem; letter-spacing: .2em; text-transform: uppercase; color: var(--gold); }
+
+      /* Aparición al entrar en pantalla */
+      .mm-rev { opacity: 0; transform: translateY(26px); transition: opacity .9s ease, transform .9s ease; }
+      .mm-rev.visto { opacity: 1; transform: none; }
+
+      @media (max-width: 960px) {
+        .mm-teatro { grid-template-columns: 1fr; }
+        .mm-lista { max-height: none; }
+      }
+      @media (max-width: 760px) {
+        .mm-hero { padding: 120px 0 64px; min-height: 88svh; }
+        .mm-hero-inner, .mm-sec { padding-left: 16px; padding-right: 16px; }
+        .mm-sec { padding-top: 64px; }
+        .mm-destacado { grid-template-columns: 1fr; }
+        .mm-destacado-body { padding: 16px 18px 18px; }
+        .mm-destacado-img { margin: 10px 10px 0; }
+        .mm-serie-head { grid-template-columns: 1fr; gap: 6px; }
+        .mm-serie-num { font-size: 56px; }
+        .mm-play { width: 72px; height: 72px; margin: -36px 0 0 -36px; }
+        .mm-play svg { width: 26px; height: 26px; }
+        .mm-pantalla { padding: 6px; }
+        .mm-cap { grid-template-columns: 26px 96px 1fr; gap: 10px; padding: 8px 6px; }
+        .mm-fuente { grid-template-columns: 1fr; }
+        .mm-fuente-logo { padding: 18px; }
+        .mm-fuente-body { padding: 22px 20px; }
+        .mm-tema { width: min(330px, 100%); }
+        .mm-scroll { display: none; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .mm-hero::after, .mm-play::before, .mm-scroll svg { animation: none; }
+        .mm-rev { opacity: 1; transform: none; transition: none; }
+      }
+    </style>
+</head>
+<body class="mm">
+    <canvas id="mm-incienso" aria-hidden="true"></canvas>
+    <div id="reading-progress" role="progressbar" aria-label="Progreso de lectura" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"></div>
+    <button id="scroll-top" aria-label="Volver arriba">↑</button>
+    <header id="header" class="hero-mode">
+        <div class="container">
+            <div class="logo"><a href="/" data-i18n="logo">Fé y Razón</a></div>
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="/#hero" data-i18n="nav.home">Inicio</a></li>
+                    <li><a href="temas.html" data-i18n="nav.topics">Temas</a></li>
+                    <li class="nav-solo-es"><a href="multimedia.html" class="active">Multimedia</a></li>
+                    <li><a href="tema-recursos-recomendados.html" data-i18n="nav.usefulPages">Recursos recomendados</a></li>
+                    <li><a href="del-autor.html" data-i18n="nav.author">Del autor</a></li>
+                    <li><a href="/#contacto" data-i18n="nav.contact">Contacto</a></li>
+                    <li><a href="sobre-este-sitio.html" data-i18n="nav.about">Sobre este sitio</a></li>
+                </ul>
+            </nav>
+            <div class="lang-dropdown" id="lang-dropdown">
+                <button class="lang-dropdown-trigger" id="lang-dropdown-trigger" aria-haspopup="listbox" aria-expanded="false">
+                    <img class="lang-flag-img" src="Recursos/Im%C3%A1genes/spain-flag-png-large.webp" alt="" width="20" height="14">
+                    <span class="lang-trigger-label">ES</span>
+                    <svg class="lang-arrow" width="10" height="6" viewBox="0 0 10 6" fill="none" aria-hidden="true">
+                        <path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </button>
+                <div class="lang-dropdown-menu" role="listbox" aria-label="Seleccionar idioma">
+                    <!-- Las doce opciones las arma js/translations.js desde langMeta -->
+                </div>
+            </div>
+            <button class="hamburger" id="hamburger" aria-label="Abrir menú" aria-expanded="false">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </header>
+
+    <main class="mm-page">
+        <section class="mm-hero">
+            <!-- Fondo: el humo del incensario en la nave (catedral01) y la luz que entra por las ventanas (rayos01), en fundido. -->
+            <video class="active" muted autoplay playsinline loop preload="auto" aria-hidden="true" tabindex="-1" poster="Recursos/Videos/catedral01-poster.webp"><source src="Recursos/Videos/catedral01.mp4" type="video/mp4"></video>
+            <video muted playsinline loop preload="none" aria-hidden="true" tabindex="-1" poster="Recursos/Videos/rayos01-poster.webp"><source src="Recursos/Videos/rayos01.mp4" type="video/mp4"></video>
+
+            <div class="mm-hero-inner">
+                <div class="mm-kicker">Series · Documentales · Canales</div>
+                <h1>Multimedia</h1>
+                <p class="mm-hero-sub">Series y documentales de canales católicos, ordenados por tema. Cada capítulo se ve acá mismo, en el orden en que fue emitido.</p>
+
+                <a class="mm-destacado" href="#reforma-1" data-tema="reforma">
+                    <div class="mm-destacado-img"><img src="Recursos/Im%C3%A1genes/multimedia/reforma-ng6xymATRls.webp" alt="" width="960" height="540"></div>
+                    <div class="mm-destacado-body">
+                        <span class="mm-badge">Tema destacado</span>
+                        <h2>La herejía protestante explicada por la Santa Iglesia Católica</h2>
+                        <p>La Reforma · serie de EWTN · 12 capítulos</p>
+                        <span class="mm-destacado-cta">Ver la serie →</span>
+                    </div>
+                </a>
+            </div>
+            <a class="mm-scroll" href="#temas-mm">Ver los temas<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 6l6 6 6-6"/><path d="M6 12l6 6 6-6"/></svg></a>
+        </section>
+
+        <section class="mm-sec" id="temas-mm">
+            <div class="mm-sec-head mm-rev">
+                <div class="mm-orn" aria-hidden="true"><span>✠&#xFE0E;</span></div>
+                <h2>Por tema</h2>
+                <p>Cada tema reúne una serie completa o una selección de videos de páginas oficiales de la Iglesia y de canales católicos.</p>
+            </div>
+            <div class="mm-temas mm-rev" id="mm-temas" role="group" aria-label="Elegir tema">
+                <!-- Las tarjetas las arma el script desde TEMAS -->
+            </div>
+        </section>
+
+        <section class="mm-sec" id="serie">
+            <div class="mm-serie-head mm-rev">
+                <div class="mm-serie-num" id="mm-serie-num" aria-hidden="true">I</div>
+                <div>
+                    <h2 id="mm-serie-titulo"></h2>
+                    <div class="mm-serie-meta" id="mm-serie-meta"></div>
+                    <p class="mm-serie-desc" id="mm-serie-desc"></p>
+                </div>
+            </div>
+
+            <div class="mm-teatro mm-rev">
+                <div>
+                    <div class="mm-fuentes" id="mm-fuentes" role="group" aria-label="Ver en">
+                        <span>Ver en</span>
+                        <button type="button" data-f="yt" aria-pressed="true">YouTube</button>
+                        <button type="button" data-f="vm" aria-pressed="false">Vimeo</button>
+                    </div>
+                    <div class="mm-pantalla">
+                        <div class="mm-marco" id="mm-marco"></div>
+                    </div>
+                    <div class="mm-ficha">
+                        <div class="mm-ficha-cap" id="mm-ficha-cap"></div>
+                        <h3 id="mm-ficha-titulo"></h3>
+                        <p id="mm-ficha-sinopsis"></p>
+                        <div class="mm-acciones">
+                            <button class="mm-btn mm-btn-linea" id="mm-ant" type="button">← Anterior</button>
+                            <button class="mm-btn mm-btn-oro" id="mm-sig" type="button">Siguiente capítulo →</button>
+                            <a class="mm-btn mm-btn-linea" id="mm-ext" href="#" target="_blank" rel="noopener">Abrir en YouTube</a>
+                            <a class="mm-btn mm-btn-linea" id="mm-ewtn" href="#" target="_blank" rel="noopener">Ficha en EWTN</a>
+                        </div>
+                        <p class="mm-aviso">El reproductor se carga desde YouTube (youtube-nocookie.com) o desde Vimeo (sin seguimiento) recién al pulsar reproducir; hasta entonces la página no le pide nada a ningún tercero. Ver <a href="privacidad.html">Privacidad</a>.</p>
+                    </div>
+                </div>
+                <ol class="mm-lista" id="mm-lista" aria-label="Capítulos">
+                    <li class="mm-lista-head" aria-hidden="true"><span>Capítulos</span><span id="mm-total"></span></li>
+                </ol>
+            </div>
+        </section>
+
+        <section class="mm-sec" id="fuente">
+            <div class="mm-sec-head mm-rev">
+                <div class="mm-orn" aria-hidden="true"><span>✠&#xFE0E;</span></div>
+                <h2>De dónde vienen</h2>
+            </div>
+            <div class="mm-fuente mm-rev">
+                <div class="mm-fuente-logo"><img src="Recursos/Im%C3%A1genes/ewtn.webp" alt="EWTN" width="1600" height="800" loading="lazy"></div>
+                <div class="mm-fuente-body">
+                    <span class="mm-badge">Fuente oficial</span>
+                    <h3>EWTN en español</h3>
+                    <p>Las tres series son de EWTN, la red de televisión católica fundada por la Madre Angélica. Los capítulos los publica EWTN España: La Reforma está en su canal de YouTube y en Vimeo; Doctores de la Iglesia y Chesterton Station, en Vimeo. Cada capítulo tiene su ficha en EWTN a la carta.</p>
+                    <div class="mm-acciones">
+                        <a class="mm-btn mm-btn-oro" href="https://www.ewtn.com/es" target="_blank" rel="noopener">ewtn.com/es</a>
+                        <a class="mm-btn mm-btn-linea" href="https://ewtnalacarta.substack.com/" target="_blank" rel="noopener">EWTN a la carta</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div class="mm-cierre mm-rev">
+            <div class="mm-orn" aria-hidden="true"><span>✠&#xFE0E;</span></div>
+            <p>Ad maiorem Dei gloriam</p>
+            <small>Pronto, más temas</small>
+        </div>
+    </main>
+
+    <footer>
+        <p data-i18n="footer.text">Fé y Razón. Ad maiorem Dei gloriam.</p>
+        <p class="footer-rights" data-i18n="footer.rights">&copy; 2026 M. Gabriel Castiglia. Todos los derechos reservados. Prohibida la reproducción total o parcial sin autorización escrita del autor.</p>
+        <p class="footer-legal"><a href="privacidad.html" data-i18n="topicPages.privacidad.linkLabel">Privacidad</a></p>
+    </footer>
+
+    <script>
+    /* ═══════════ DATOS ═══════════
+       Un tema nuevo se agrega acá. Cada capítulo lleva su vídeo en YouTube (yt), en
+       Vimeo (vm) o en los dos; si tiene los dos, aparece el selector «Ver en». Las
+       miniaturas se bajan al sitio (Recursos/Imágenes/multimedia/<tema>-<id>.webp)
+       para que la página no pida nada a terceros hasta que alguien pulse reproducir.
+       Títulos de EWTN España; sinopsis adaptadas de las fichas de EWTN a la carta;
+       duración en segundos medida el 17-nov-2026 (YouTube y Vimeo coinciden ±1 s). */
+    var MM_IMG = 'Recursos/Im%C3%A1genes/multimedia/';
+    var MM_FICHA = 'https://ewtnalacarta.substack.com/p/';
+    var MM_ETIQ = 'https://ewtnalacarta.substack.com/t/';
+    var TEMAS = [
+      {
+        slug: 'reforma',
+        nombre: 'La herejía protestante explicada por la Santa Iglesia Católica',
+        serie: 'La Reforma',
+        etiqueta: 'la-reforma',
+        destacado: true,
+        portada: 'reforma-ng6xymATRls.webp',
+        desc: 'La Reforma, serie original de EWTN en doce capítulos: la cristiandad que precedió a la ruptura, Lutero, Calvino, Enrique VIII y la Iglesia de Estado, el Concilio de Trento y la Reforma católica que respondió.',
+        caps: [
+          { yt: 'ng6xymATRls', vm: '1090115425', t: 'Un mundo católico', s: 'El papel central de la Iglesia católica en la creación de la civilización occidental.', f: 'capitulo-1-un-mundo-catolico', d: 1741 },
+          { yt: '17UmAYnFpbc', vm: '1090119390', t: 'Las luchas de Lutero', s: 'El hombre detrás del mito: la vida y el impacto de Martín Lutero.', f: 'capitulo-2-las-luchas-de-lutero', d: 1742 },
+          { yt: 'j55UJdY0N-U', vm: '1090177557', t: 'Polémica como teología', s: 'Tercer capítulo de la serie: la polémica convertida en teología.', f: 'capitulo-3-polemica-como-teologia', d: 1697 },
+          { yt: 'frEfzlmFJ9Y', vm: '1090123134', t: 'Desacuerdo y caos', s: 'Poco después de su cisma con la Iglesia católica, el movimiento protestante empieza a fracturarse.', f: 'capitulo-4-desacuerdos-y-caos', d: 1727 },
+          { yt: 'J9BC21gvQm4', vm: '1090126881', t: '¿Un Estado cristiano o cristianismo de Estado?', s: 'Lo que sucede cuando el cristianismo renuncia a su independencia y se convierte en una Iglesia estatal.', f: 'capitulo-5-un-estado-cristiano-o', d: 1717 },
+          { yt: 'Bhl0sicEV2E', vm: '1090130900', t: 'Juan Calvino y las guerras de religión', s: 'La historia y la influencia del calvinismo en la Reforma protestante.', f: 'capitulo-6-john-calvin-y-las-guerras', d: 1731 },
+          { yt: 'mXVkm1T7v-8', vm: '1090160330', t: 'Enrique VIII y su iglesia estatal', s: 'La «Reforma» en Inglaterra: Enrique VIII, antes un católico devoto, decide disolver su matrimonio con la reina Catalina.', f: 'capitulo-7-enrique-viii-y-su-iglesia', d: 1748 },
+          { yt: 'xRIj_D8-3JU', vm: '1090164475', t: 'La disolución de los monasterios', s: 'Enrique VIII desciende a la tiranía y ejecuta a todos los que se interponen en su camino.', f: 'capitulo-8-la-disolucion-de-los-monasterios', d: 1733 },
+          { yt: 'zN-_fpiYQ30', vm: '1090174462', t: 'El Concilio de Trento', s: 'En un contexto político complejo, la Iglesia convoca el Concilio de Trento.', f: 'capitulo-9-el-concilio-de-trento', d: 1727 },
+          { yt: 'ecXGisNKdLo', vm: '1090103384', t: 'Del ascenso occidental a Isabel I', s: 'Muerto Enrique VIII, el arzobispo de Canterbury impone reformas radicales en la Iglesia de Inglaterra y gana una enorme influencia sobre el joven Eduardo VI.', f: 'capitulo-10-del-ascenso-occidental', d: 1722 },
+          { yt: 'TuXLb656Olg', vm: '1090107547', t: 'La Reforma católica', s: 'Después de Trento, un ejército de reformadores fieles a la Iglesia da una respuesta ferviente a la Reforma protestante.', f: 'capitulo-11-la-reforma-catolica', d: 1716 },
+          { yt: 'ajg5AMdygcc', vm: '1090111486', t: 'De la Reforma al mundo moderno', s: 'El cierre de la serie: el alcance de la Reforma protestante hasta el mundo de hoy.', f: 'capitulo-12-de-la-reforma-al-mundo', d: 1741 }
+        ]
+      },
+      {
+        slug: 'doctores',
+        nombre: 'Doctores de la Iglesia',
+        serie: 'Doctores de la Iglesia',
+        etiqueta: 'doctores-de-la-iglesia',
+        portada: 'doctores-1091297052.webp',
+        desc: 'Serie de EWTN sobre los santos que dieron forma a la Iglesia tal como es hoy: Atanasio, Catalina de Siena, León Magno, Agustín y Ambrosio.',
+        caps: [
+          { vm: '1091301490', t: 'San Atanasio de Alejandría', s: '', f: 'capitulo-1-san-atanasio-de-alejandria', d: 1652 },
+          { vm: '1091303803', t: 'Santa Catalina de Siena', s: 'Desde muy joven, santa Catalina dedicó su vida a Dios.', f: 'capitulo-2-santa-catalina-de-siena', d: 1713 },
+          { vm: '1091305864', t: 'Papa San León I, el Grande', s: 'La vida y el legado del papa san León Magno, una de las figuras titánicas de la historia de la Iglesia.', f: 'capitulo-3-papa-san-leon-i-el-grande', d: 1683 },
+          { vm: '1091294589', t: 'San Agustín de Hipona (parte 1)', s: 'El influyente teólogo y filósofo san Agustín de Hipona, primera parte.', f: 'capitulo-4-st-agustin-de-hipona-pt1', d: 1667 },
+          { vm: '1091297052', t: 'San Agustín de Hipona (parte 2)', s: 'San Agustín de Hipona, teólogo y filósofo, segunda parte.', f: 'capitulo-5-st-agustin-de-hipona-pt2', d: 1715 },
+          { vm: '1091299338', t: 'San Ambrosio de Milán', s: 'Destinado a una carrera política, san Ambrosio de Milán hizo del servicio a Dios la misión de su vida.', f: 'capitulo-6-san-ambrosio-de-milan', d: 1709 }
+        ]
+      },
+      {
+        slug: 'chesterton',
+        nombre: 'Chesterton Station',
+        serie: 'Chesterton Station',
+        etiqueta: 'chesterton-station',
+        portada: 'chesterton-1092277394.webp',
+        desc: 'Al llegar temprano a una estación de tren desierta, Chesterton reflexiona sobre su vida, los santos y su asombro y gratitud por los muchos dones de Dios. Serie de EWTN.',
+        caps: [
+          { vm: '1092274564', t: 'La llave de oro (parte 1)', s: '', f: 'capitulo-1-la-llave-de-oro-parte', d: 1702 },
+          { vm: '1092277394', t: 'La llave de oro (parte 2)', s: '', f: 'capitulo-2-la-llave-de-oro-parte', d: 1712 },
+          { vm: '1092280696', t: 'Vaquero en juego', s: '', f: 'capitulo-3-vaquero-en-juego', d: 1692 },
+          { vm: '1092283000', t: 'Esconderse y buscar', s: '', f: 'capitulo-4-esconderse-y-buscar', d: 1712 }
+        ]
+      }
+    ];
+
+    (function () {
+      var ROMANOS = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','XIII','XIV','XV','XVI','XVII','XVIII','XIX','XX'];
+      var $ = function (id) { return document.getElementById(id); };
+      var min = function (s) { return Math.floor(s / 60) + ':' + String(s % 60).padStart(2, '0'); };
+      var horas = function (s) { var h = Math.floor(s / 3600), m = Math.round((s % 3600) / 60); return (h ? h + ' h ' : '') + m + ' min'; };
+      var esc = function (x) { return String(x).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;'); };
+      var tema = TEMAS[0], cap = 0, reproduciendo = false, fuente = 'yt';
+
+      // Fuente que se usa para un capítulo: la elegida si la tiene, si no la otra.
+      function fuenteDe(c) { return c[fuente] ? fuente : (c.yt ? 'yt' : 'vm'); }
+      function miniatura(t, c) { return MM_IMG + t.slug + '-' + (c.yt || c.vm) + '.webp'; }
+      function embed(c) {
+        return fuenteDe(c) === 'yt'
+          ? 'https://www.youtube-nocookie.com/embed/' + c.yt + '?autoplay=1&rel=0&modestbranding=1&playsinline=1'
+          : 'https://player.vimeo.com/video/' + c.vm + '?autoplay=1&dnt=1&title=0&byline=0&portrait=0';
+      }
+
+      function pintarPortada() {
+        var c = tema.caps[cap];
+        $('mm-marco').innerHTML =
+          '<button class="mm-portada" type="button" aria-label="Reproducir el capítulo ' + (cap + 1) + ': ' + esc(c.t) + '">' +
+          '<img src="' + miniatura(tema, c) + '" alt="" width="960" height="540">' +
+          '<span class="mm-portada-num">CAPÍTULO ' + ROMANOS[cap] + '</span>' +
+          '<span class="mm-play"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4l15 8-15 8z"/></svg></span></button>';
+        $('mm-marco').firstChild.addEventListener('click', reproducir);
+      }
+
+      function reproducir() {
+        var c = tema.caps[cap];
+        reproduciendo = true;
+        $('mm-marco').innerHTML = '<iframe src="' + embed(c) + '" title="' + esc(c.t) +
+          '" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>';
+      }
+
+      function pintarFuentes() {
+        var c = tema.caps[cap], ambas = !!(c.yt && c.vm), f = fuenteDe(c);
+        $('mm-fuentes').hidden = !ambas;
+        $('mm-fuentes').querySelectorAll('button').forEach(function (b) { b.setAttribute('aria-pressed', b.dataset.f === f ? 'true' : 'false'); });
+        $('mm-ext').textContent = f === 'yt' ? 'Abrir en YouTube' : 'Abrir en Vimeo';
+        $('mm-ext').href = f === 'yt' ? 'https://www.youtube.com/watch?v=' + c.yt : 'https://vimeo.com/' + c.vm;
+      }
+
+      function elegir(i, desdeLista, inicial) {
+        cap = i;
+        var c = tema.caps[i];
+        $('mm-ficha-cap').textContent = 'Capítulo ' + ROMANOS[i] + ' de ' + ROMANOS[tema.caps.length - 1] + ' · ' + min(c.d);
+        $('mm-ficha-titulo').textContent = c.t;
+        $('mm-ficha-sinopsis').textContent = c.s;
+        $('mm-ewtn').href = MM_FICHA + c.f;
+        $('mm-ant').disabled = i === 0;
+        $('mm-sig').disabled = i === tema.caps.length - 1;
+        document.querySelectorAll('.mm-cap').forEach(function (b, j) { b.setAttribute('aria-current', j === i ? 'true' : 'false'); });
+        pintarFuentes();
+        if (reproduciendo) reproducir(); else pintarPortada();
+        // El ancla #reforma-3 permite compartir un capítulo; al cargar no se toca la que vino.
+        if (!inicial) { try { history.replaceState(history.state, '', location.pathname + location.search + '#' + tema.slug + '-' + (i + 1)); } catch (_) {} }
+        if (desdeLista && window.innerWidth <= 960) $('mm-marco').scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+
+      function armarTema(t) {
+        tema = t;
+        var total = t.caps.reduce(function (s, c) { return s + c.d; }, 0);
+        $('mm-serie-num').textContent = ROMANOS[TEMAS.indexOf(t)];
+        $('mm-serie-titulo').textContent = t.nombre;
+        $('mm-serie-meta').innerHTML = (t.nombre !== t.serie ? '«' + esc(t.serie) + '» · ' : '') + 'EWTN · ' + t.caps.length + ' capítulos · ' + horas(total) +
+          ' · <a href="' + MM_ETIQ + t.etiqueta + '" target="_blank" rel="noopener">EWTN a la carta ↗</a>';
+        $('mm-serie-desc').textContent = t.desc;
+        $('mm-total').textContent = t.caps.length + ' · ' + horas(total);
+        cont.querySelectorAll('.mm-tema').forEach(function (x) { x.setAttribute('aria-pressed', x.dataset.tema === t.slug ? 'true' : 'false'); });
+        var lista = $('mm-lista');
+        lista.querySelectorAll('li:not(.mm-lista-head)').forEach(function (li) { li.remove(); });
+        t.caps.forEach(function (c, i) {
+          var li = document.createElement('li');
+          li.innerHTML = '<button class="mm-cap" type="button">' +
+            '<span class="mm-cap-num">' + ROMANOS[i] + '</span>' +
+            '<span class="mm-cap-img"><img src="' + miniatura(t, c) + '" alt="" width="960" height="540" loading="lazy"><span class="mm-cap-dur">' + min(c.d) + '</span></span>' +
+            '<span class="mm-cap-tit"></span></button>';
+          li.querySelector('.mm-cap-tit').textContent = c.t;
+          li.firstChild.addEventListener('click', function () { elegir(i, true); });
+          lista.appendChild(li);
+        });
+      }
+
+      function abrirTema(t, i, sinScroll) {
+        reproduciendo = false;
+        armarTema(t);
+        elegir(i || 0);
+        if (!sinScroll) $('serie').scrollIntoView({ behavior: 'smooth' });
+      }
+
+      // Selector de temas: arcos de vitral
+      var cont = $('mm-temas');
+      TEMAS.forEach(function (t) {
+        var total = t.caps.reduce(function (s, c) { return s + c.d; }, 0);
+        var b = document.createElement('button');
+        b.className = 'mm-tema';
+        b.type = 'button';
+        b.dataset.tema = t.slug;
+        b.innerHTML = '<div class="mm-tema-arco"><div class="mm-tema-timpano"><i aria-hidden="true">✠&#xFE0E;</i>' +
+          (t.destacado ? '<span class="mm-badge">Destacado</span>' : '<span class="mm-badge" style="visibility:hidden">·</span>') + '</div>' +
+          '<div class="mm-tema-img"><img src="' + MM_IMG + t.portada + '" alt="" width="960" height="540" loading="lazy"></div>' +
+          '<div class="mm-tema-info"><strong></strong><small>EWTN · ' + t.caps.length + ' capítulos · ' + horas(total) + '</small></div></div>';
+        b.querySelector('strong').textContent = t.nombre;
+        b.addEventListener('click', function () { abrirTema(t); });
+        cont.appendChild(b);
+      });
+
+      // Tarjeta destacada del hero
+      document.querySelectorAll('[data-tema]').forEach(function (a) {
+        if (a.tagName !== 'A') return;
+        a.addEventListener('click', function (e) {
+          var t = TEMAS.filter(function (x) { return x.slug === a.dataset.tema; })[0];
+          if (t) { e.preventDefault(); abrirTema(t); }
+        });
+      });
+
+      $('mm-fuentes').addEventListener('click', function (e) {
+        var b = e.target.closest('button'); if (!b) return;
+        fuente = b.dataset.f;
+        pintarFuentes();
+        if (reproduciendo) reproducir(); else pintarPortada();
+      });
+
+      $('mm-ant').addEventListener('click', function () { if (cap > 0) elegir(cap - 1); });
+      $('mm-sig').addEventListener('click', function () { if (cap < tema.caps.length - 1) elegir(cap + 1); });
+
+      // #doctores-2 abre ese capítulo de ese tema
+      var inicial = 0, m = /^#([a-z-]+)-(\d+)$/.exec(location.hash);
+      TEMAS.forEach(function (t) { if (m && t.slug === m[1]) tema = t; });
+      armarTema(tema);
+      if (m && tema.slug === m[1]) inicial = Math.min(Math.max(parseInt(m[2], 10) - 1, 0), tema.caps.length - 1);
+      elegir(inicial, false, true);
+      if (m) setTimeout(function () { $('serie').scrollIntoView(); }, 50);
+
+      // Aparición al hacer scroll. Se mide la posición en cada scroll en vez de usar
+      // IntersectionObserver: en Chrome sin ventana el observador no disparaba y las
+      // secciones quedaban invisibles (17-nov-2026). Son siete elementos: no pesa.
+      var pendientes = [].slice.call(document.querySelectorAll('.mm-rev'));
+      function revelar() {
+        var alto = window.innerHeight;
+        pendientes = pendientes.filter(function (el) {
+          var r = el.getBoundingClientRect();
+          if (r.top < alto * 0.92 && r.bottom > 0) { el.classList.add('visto'); return false; }
+          return true;
+        });
+        if (!pendientes.length) { removeEventListener('scroll', revelar); removeEventListener('resize', revelar); }
+      }
+      addEventListener('scroll', revelar, { passive: true });
+      addEventListener('resize', revelar);
+      revelar();
+      setTimeout(revelar, 120);
+
+      // Fundido entre los dos vídeos del hero cada 12 s
+      var vids = document.querySelectorAll('.mm-hero video'), v = 0;
+      if (vids.length > 1 && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        setInterval(function () {
+          var sig = vids[(v + 1) % vids.length];
+          if (window.FYRVideo && FYRVideo.reproducir) FYRVideo.reproducir(sig); else { sig.preload = 'auto'; sig.play().catch(function () {}); }
+          vids[v].classList.remove('active');
+          sig.classList.add('active');
+          v = (v + 1) % vids.length;
+        }, 12000);
+      }
+    })();
+
+    /* ═══════════ INCIENSO ═══════════
+       Humo que sube por toda la página: volutas dibujadas una vez en un lienzo
+       aparte y reutilizadas, más unas pocas brasas doradas. Medio tamaño de
+       resolución, se pausa con la pestaña oculta y se queda quieto con
+       «reducir movimiento». */
+    (function () {
+      var cv = document.getElementById('mm-incienso');
+      if (!cv || !cv.getContext) return;
+      var ctx = cv.getContext('2d');
+      var quieto = matchMedia('(prefers-reduced-motion: reduce)').matches;
+      var W, H, ESC = 0.5;
+
+      // Voluta: varias manchas radiales superpuestas, con aspecto de humo
+      function voluta(semilla) {
+        var c = document.createElement('canvas'), n = 256; c.width = c.height = n;
+        var g = c.getContext('2d'), r = semilla;
+        var rnd = function () { r = (r * 9301 + 49297) % 233280; return r / 233280; };
+        for (var i = 0; i < 26; i++) {
+          var x = n / 2 + (rnd() - .5) * n * .5, y = n / 2 + (rnd() - .5) * n * .5, rad = n * (.12 + rnd() * .26);
+          var gr = g.createRadialGradient(x, y, 0, x, y, rad);
+          var a = .05 + rnd() * .07;
+          gr.addColorStop(0, 'rgba(255,244,228,' + a + ')');
+          gr.addColorStop(.6, 'rgba(240,226,206,' + a * .45 + ')');
+          gr.addColorStop(1, 'rgba(240,226,206,0)');
+          g.fillStyle = gr; g.beginPath(); g.arc(x, y, rad, 0, Math.PI * 2); g.fill();
+        }
+        return c;
+      }
+      var formas = [voluta(7), voluta(42), voluta(101), voluta(313)];
+
+      function medir() {
+        W = cv.width = Math.ceil(innerWidth * ESC);
+        H = cv.height = Math.ceil(innerHeight * ESC);
+      }
+      medir();
+      addEventListener('resize', medir);
+
+      var humo = [], brasas = [];
+      function nuevoHumo(enCualquierAltura) {
+        // Columnas que nacen abajo, sobre todo hacia el centro (el incensario)
+        var cx = W * (.5 + (Math.random() - .5) * (Math.random() < .55 ? .5 : 1.1));
+        return { x: cx, y: enCualquierAltura ? Math.random() * H : H + 60 * ESC * 2,
+          vy: (14 + Math.random() * 22) * ESC, s: (90 + Math.random() * 120) * ESC, crece: (8 + Math.random() * 12) * ESC,
+          rot: Math.random() * 6.28, vr: (Math.random() - .5) * .12, fase: Math.random() * 6.28,
+          amp: (14 + Math.random() * 30) * ESC, f: formas[(Math.random() * formas.length) | 0], vida: 0,
+          max: 14 + Math.random() * 12 };
+      }
+      function nuevaBrasa() {
+        return { x: Math.random() * W, y: H + 10, vy: (10 + Math.random() * 18) * ESC, r: (.6 + Math.random() * 1.2) * ESC * 2,
+          fase: Math.random() * 6.28, vida: 0, max: 8 + Math.random() * 10 };
+      }
+      var NH = innerWidth < 760 ? 22 : 38, NB = innerWidth < 760 ? 10 : 22;
+      for (var i = 0; i < NH; i++) humo.push(nuevoHumo(true));
+      for (var j = 0; j < NB; j++) { var b = nuevaBrasa(); b.y = Math.random() * H; brasas.push(b); }
+
+      var antes = performance.now();
+      function cuadro(ahora) {
+        var dt = Math.min((ahora - antes) / 1000, .05); antes = ahora;
+        ctx.clearRect(0, 0, W, H);
+        humo.forEach(function (p, k) {
+          p.vida += dt; p.y -= p.vy * dt; p.s += p.crece * dt; p.rot += p.vr * dt;
+          var x = p.x + Math.sin(p.vida * .5 + p.fase) * p.amp;
+          var t = p.vida / p.max, a = Math.min(t * 3, 1) * Math.max(1 - t, 0) * .9;
+          if (t >= 1 || p.y < -p.s) { humo[k] = nuevoHumo(false); return; }
+          ctx.globalAlpha = a;
+          ctx.save(); ctx.translate(x, p.y); ctx.rotate(p.rot);
+          ctx.drawImage(p.f, -p.s / 2, -p.s / 2, p.s, p.s); ctx.restore();
+        });
+        ctx.globalAlpha = 1;
+        brasas.forEach(function (p, k) {
+          p.vida += dt; p.y -= p.vy * dt;
+          var t = p.vida / p.max; if (t >= 1 || p.y < -10) { brasas[k] = nuevaBrasa(); return; }
+          var x = p.x + Math.sin(p.vida * 1.3 + p.fase) * 6 * ESC;
+          var a = Math.sin(t * Math.PI) * (.55 + .45 * Math.sin(p.vida * 6 + p.fase));
+          ctx.fillStyle = 'rgba(255,196,120,' + (a * .8).toFixed(3) + ')';
+          ctx.beginPath(); ctx.arc(x, p.y, p.r, 0, 6.283); ctx.fill();
+        });
+        if (!quieto) requestAnimationFrame(cuadro);
+      }
+      requestAnimationFrame(cuadro);
+    })();
+    </script>
+    <script src="js/main.js?v=19" defer></script>
+    <script src="js/translations.js?v=37" defer></script>
+</body>
+</html>
