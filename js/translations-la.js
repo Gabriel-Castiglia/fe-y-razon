@@ -1424,10 +1424,12 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
                 <p>Ad nuntium legendum et respondendum tantum. Non venduntur, non ad negotia traduntur, neque ad epistulas circulares vel publicitatem mittendam adhibentur.</p>
                 <h2>Quo mittantur</h2>
                 <p>Formularium ad <strong>Formspree</strong> (formspree.io) mittitur, quod servitium nuntium accipit et ad auctorem perfert. Formulario utens, ea data etiam condicionibus illius servitii subiciuntur, quae in <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">eius consilio de privatis</a> legi possunt.</p>
+                <h2>Pellicula nuntii Adventus</h2>
+                <p>Tempore Adventus nuntius imaginem parvam pelliculae in <strong>YouTube</strong> positae ostendit. Imago ex hoc ipso dominio praebetur, et lusor ex youtube-nocookie.com tum demum oneratur, cum ludere premis. Ex eo tempore, quae lusor notat, ad rationem secreti YouTube pertinent.</p>
                 <h2>Ubi situs hospitetur</h2>
                 <p>Hae paginae per <strong>GitHub Pages</strong> publicantur. Sicut omnis servitor interretialis, petitiones acceptas in commentarios refert, ut paginas tradere et ab abusu tueri possit. Ii commentarii sub potestate huius situs non sunt.</p>
-                <h2>Quod unum in navigatro tuo servatur</h2>
-                <p>Lingua quam eligis, sub clave <strong>language</strong>, in repositorio locali navigatri. Crustulum non est, ad nullum servitorem mittitur, neminem identificat: id tantum efficit ut situs proxima vice tua lingua aperiatur. Deletur si data huius situs ex ipso navigatro purgas.</p>
+                <h2>Quae in navigatro tuo servantur</h2>
+                <p>Lingua quam eligis, sub clave <strong>language</strong>, in repositorio locali navigatri. Crustulum non est, ad nullum servitorem mittitur, neminem identificat: id tantum efficit ut situs proxima vice tua lingua aperiatur. Deletur si data huius situs ex ipso navigatro purgas. Tempore Adventus servatur etiam, sub clave <strong>fyr-adviento-estado</strong>, utrum nuntium apertum an clausum reliqueris, ut paginae sequentes id observent. Neque hoc navigatrum tuum relinquit.</p>
                 <h2>Nexus ad alios situs</h2>
                 <p>Hae paginae ad situs tertiorum ducunt — Vatican.va, YouTube, Amazon et apostolatus commendatos. Quidquid accidit postquam hinc discedis, consiliis illorum situum regitur, non hoc.</p>
                 <h2>Quis respondeat, et quomodo contingere</h2>
@@ -1516,6 +1518,31 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
     verseRef: "Matthaeus 7, 7",
     btnHome: "Ad initium redire",
     btnTopics: "Omnia themata videre"
+  },
+  // Aviso de Adviento (js/adviento.js).
+  advent: {
+    eyebrow: "Tempus Adventus",
+    countdownTitle: "Ad Adventum restant",
+    startedTitle: "Adventus iam incepit",
+    days: "dies",
+    hours: "horae",
+    minutes: "minuta",
+    seconds: "secunda",
+    daysShort: "d.",
+    dateNote: "Dominica I Adventus: die XXIX mensis Novembris MMXXVI, hora Vaticana.",
+    videoTitle: "Verus Adventus sensus (pellicula Hispanice)",
+    videoSource: "Pellicula in YouTube · Te Explico la Biblia",
+    romeTime: "Romae nunc est hora",
+    tab: "Adventus",
+    open: "Nuntium Adventus aperire",
+    hide: "Nuntium Adventus celare",
+    close: "Claudere",
+    play: "Ludere",
+    wreathBefore: "Prima candela accenditur Dominica, die XXIX Novembris.",
+    wreathWeek1: "Hebdomada I Adventus",
+    wreathWeek2: "Hebdomada II Adventus",
+    wreathWeek3: "Hebdomada III Adventus, Dominica Gaudete",
+    wreathWeek4: "Hebdomada IV Adventus"
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Omnia iura reservantur.</strong> Vetatur reproductio tota vel partialis sine licentia auctoris scripta.",

@@ -1224,10 +1224,12 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
                 <p>Uniquement à lire votre message et à y répondre. Elles ne sont ni vendues, ni cédées à des fins commerciales, et ne servent jamais à envoyer des lettres d'information ou de la publicité.</p>
                 <h2>Où elles vont</h2>
                 <p>Le formulaire est envoyé à <strong>Formspree</strong> (formspree.io), le service qui reçoit le message et le transmet à l'auteur. En utilisant le formulaire, ces données relèvent aussi des conditions de ce service, consultables dans <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">sa politique de confidentialité</a>.</p>
+                <h2>La vidéo de l’annonce de l’Avent</h2>
+                <p>Pendant l’Avent, une annonce affiche la miniature d’une vidéo hébergée sur <strong>YouTube</strong>. La miniature est servie depuis ce même domaine, et le lecteur ne se charge depuis youtube-nocookie.com que lorsque vous appuyez sur lecture. À partir de ce moment, ce que le lecteur enregistre relève de la politique de confidentialité de YouTube.</p>
                 <h2>Où le site est hébergé</h2>
                 <p>Ces pages sont publiées au moyen de <strong>GitHub Pages</strong>. Comme tout serveur web, il journalise les requêtes reçues afin de servir les pages et de les protéger des abus. Ces journaux ne sont pas sous le contrôle de ce site.</p>
-                <h2>La seule chose enregistrée dans votre navigateur</h2>
-                <p>La langue que vous choisissez, sous la clé <strong>language</strong>, dans le stockage local du navigateur. Ce n'est pas un cookie, cela n'est envoyé à aucun serveur et n'identifie personne : cela sert seulement à ce que le site s'ouvre dans votre langue la prochaine fois. Vous pouvez l'effacer en vidant les données de ce site depuis votre navigateur.</p>
+                <h2>Ce qui est enregistré dans votre navigateur</h2>
+                <p>La langue que vous choisissez, sous la clé <strong>language</strong>, dans le stockage local du navigateur. Ce n'est pas un cookie, cela n'est envoyé à aucun serveur et n'identifie personne : cela sert seulement à ce que le site s'ouvre dans votre langue la prochaine fois. Vous pouvez l'effacer en vidant les données de ce site depuis votre navigateur. Pendant l’Avent, le site enregistre aussi, sous la clé <strong>fyr-adviento-estado</strong>, si vous avez laissé l’annonce ouverte ou fermée, afin que les pages suivantes le respectent. Cela ne quitte pas non plus votre navigateur.</p>
                 <h2>Liens vers d'autres sites</h2>
                 <p>Ces pages renvoient à des sites tiers — Vatican.va, YouTube, Amazon et les apostolats recommandés. Ce qui se passe une fois que vous avez quitté ce site relève des politiques de ces sites, non de celle-ci.</p>
                 <h2>Responsable et contact</h2>
@@ -1314,6 +1316,31 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
     verseRef: "Matthieu 7, 7",
     btnHome: "Retour à l’accueil",
     btnTopics: "Voir tous les thèmes"
+  },
+  // Aviso de Adviento (js/adviento.js).
+  advent: {
+    eyebrow: "Temps de l’Avent",
+    countdownTitle: "Avant l’Avent",
+    startedTitle: "L’Avent a commencé",
+    days: "jours",
+    hours: "heures",
+    minutes: "minutes",
+    seconds: "secondes",
+    daysShort: "j",
+    dateNote: "Premier dimanche de l’Avent : 29 novembre 2026, heure du Vatican.",
+    videoTitle: "Le vrai sens de l’Avent (vidéo en espagnol)",
+    videoSource: "Vidéo sur YouTube · Te Explico la Biblia",
+    romeTime: "À Rome, il est",
+    tab: "Avent",
+    open: "Ouvrir l’annonce de l’Avent",
+    hide: "Masquer l’annonce de l’Avent",
+    close: "Fermer",
+    play: "Lire",
+    wreathBefore: "La première bougie s’allume le dimanche 29 novembre.",
+    wreathWeek1: "Première semaine de l’Avent",
+    wreathWeek2: "Deuxième semaine de l’Avent",
+    wreathWeek3: "Troisième semaine de l’Avent, dimanche de Gaudete",
+    wreathWeek4: "Quatrième semaine de l’Avent"
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Tous droits réservés.</strong> Toute reproduction, totale ou partielle, est interdite sans l'autorisation écrite de l'auteur.", text: "Foi et Raison. Ad majorem Dei gloriam." }

@@ -1216,10 +1216,12 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                 <p>Kwa kusoma ujumbe na kuujibu tu. Haiuzwi, haitolewi kwa madhumuni ya kibiashara, na haitumiwi kamwe kutuma majarida au matangazo.</p>
                 <h2>Inakwenda wapi</h2>
                 <p>Fomu inatumwa kwa <strong>Formspree</strong> (formspree.io), huduma inayopokea ujumbe na kuufikisha kwa mwandishi. Kwa kutumia fomu, data hiyo pia iko chini ya masharti ya huduma hiyo, yanayoweza kusomwa katika <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">sera yao ya faragha</a>.</p>
+                <h2>Video ya tangazo la Majilio</h2>
+                <p>Wakati wa Majilio, tangazo linaonyesha picha ndogo ya video iliyoko <strong>YouTube</strong>. Picha hiyo inatolewa kutoka kikoa hiki hiki, na kicheza video kinapakiwa kutoka youtube-nocookie.com pale tu unapobonyeza kucheza. Kuanzia hapo, chochote kicheza video kinachorekodi kinaongozwa na sera ya faragha ya YouTube.</p>
                 <h2>Tovuti inahifadhiwa wapi</h2>
                 <p>Kurasa hizi zinachapishwa kupitia <strong>GitHub Pages</strong>. Kama seva yoyote ya wavuti, inaandika maombi inayopokea ili kuweza kutoa kurasa na kuzilinda dhidi ya matumizi mabaya. Kumbukumbu hizo hazipo chini ya udhibiti wa tovuti hii.</p>
-                <h2>Kitu pekee kinachohifadhiwa kwenye kivinjari chako</h2>
-                <p>Lugha unayochagua, chini ya ufunguo <strong>language</strong>, katika hifadhi ya ndani ya kivinjari. Si kidakuzi, haitumwi kwa seva yoyote na haimtambui mtu yeyote: inasaidia tu ili tovuti ifunguke kwa lugha yako wakati ujao. Inafutwa kwa kufuta data ya tovuti hii kutoka kwenye kivinjari chako.</p>
+                <h2>Kinachohifadhiwa kwenye kivinjari chako</h2>
+                <p>Lugha unayochagua, chini ya ufunguo <strong>language</strong>, katika hifadhi ya ndani ya kivinjari. Si kidakuzi, haitumwi kwa seva yoyote na haimtambui mtu yeyote: inasaidia tu ili tovuti ifunguke kwa lugha yako wakati ujao. Inafutwa kwa kufuta data ya tovuti hii kutoka kwenye kivinjari chako. Wakati wa Majilio pia kinahifadhiwa, chini ya ufunguo <strong>fyr-adviento-estado</strong>, kama uliliacha tangazo wazi au umelifunga, ili kurasa zinazofuata ziheshimu hilo. Nalo halitoki kwenye kivinjari chako.</p>
                 <h2>Viungo kwa tovuti nyingine</h2>
                 <p>Kurasa hizi zina viungo vya tovuti za watu wengine — Vatican.va, YouTube, Amazon na utume unaopendekezwa. Kinachotokea baada ya kuondoka hapa kinatawaliwa na sera za tovuti hizo, si na hii.</p>
                 <h2>Mwenye jukumu na mawasiliano</h2>
@@ -1306,6 +1308,31 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
     verseRef: "Mathayo 7, 7",
     btnHome: "Rudi nyumbani",
     btnTopics: "Tazama mada zote"
+  },
+  // Aviso de Adviento (js/adviento.js).
+  advent: {
+    eyebrow: "Kipindi cha Majilio",
+    countdownTitle: "Kabla ya Majilio",
+    startedTitle: "Majilio yameanza",
+    days: "siku",
+    hours: "saa",
+    minutes: "dakika",
+    seconds: "sekunde",
+    daysShort: "s",
+    dateNote: "Dominika ya Kwanza ya Majilio: 29 Novemba 2026, saa za Vatikani.",
+    videoTitle: "Maana halisi ya Majilio (video kwa Kihispania)",
+    videoSource: "Video kwenye YouTube · Te Explico la Biblia",
+    romeTime: "Huko Roma ni saa",
+    tab: "Majilio",
+    open: "Fungua tangazo la Majilio",
+    hide: "Ficha tangazo la Majilio",
+    close: "Funga",
+    play: "Cheza",
+    wreathBefore: "Mshumaa wa kwanza unawashwa Dominika, 29 Novemba.",
+    wreathWeek1: "Juma la kwanza la Majilio",
+    wreathWeek2: "Juma la pili la Majilio",
+    wreathWeek3: "Juma la tatu la Majilio, Dominika ya Gaudete",
+    wreathWeek4: "Juma la nne la Majilio"
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Haki zote zimehifadhiwa.</strong> Ni marufuku kunakili kwa ujumla au kwa sehemu bila idhini ya maandishi ya mwandishi.", text: "Imani na Akili. Ad maiorem Dei gloriam." }

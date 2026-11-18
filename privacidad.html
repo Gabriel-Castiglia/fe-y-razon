@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <meta name="theme-color" content="#1a1410">
+    <script src="js/tema.js?v=17"></script>
     <meta name="description" content="Qué datos recoge Fé y Razón, para qué se usan y por dónde pasan. El sitio no usa cookies, analítica, publicidad ni rastreadores.">
     <meta name="author" content="M. Gabriel Castiglia">
     <meta name="robots" content="index, follow, max-image-preview:large">
@@ -58,7 +59,7 @@
         "inLanguage": "es"
     }
     </script>
-    <link rel="preload" href="css/style.css?v=30" as="style">
+    <link rel="preload" href="css/style.css?v=32" as="style">
     <title data-i18n="topicPages.privacidad.pageTitle">Privacidad | Fé y Razón</title>
     <link rel="preload" href="Recursos/Fuentes/cinzel-latin.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="Recursos/Fuentes/montserrat-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -68,7 +69,9 @@
     <link rel="icon" href="icon-192.png?v=2" type="image/png" sizes="192x192">
     <link rel="apple-touch-icon" href="apple-touch-icon.png?v=2">
     <link rel="manifest" href="site.webmanifest?v=2">
-    <link rel="stylesheet" href="css/style.css?v=30">
+    <link rel="stylesheet" href="css/style.css?v=32">
+    <link rel="stylesheet" href="css/adviento.css?v=5">
+    <link rel="stylesheet" href="css/tema-adviento.css?v=3">
 </head>
 <body>
     <div id="reading-progress" role="progressbar" aria-label="Progreso de lectura" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"></div>
@@ -140,11 +143,13 @@
                 <h2>Los videos de la sección Multimedia</h2>
                 <p>La sección Multimedia muestra series de EWTN alojadas en <strong>YouTube</strong> y en <strong>Vimeo</strong>. Las miniaturas se sirven desde este mismo dominio, y el reproductor de esos servicios se carga recién cuando pulsás reproducir. Desde ese momento, lo que registre el reproductor se rige por la política de privacidad de YouTube o de Vimeo. Para reducir el rastreo, YouTube se carga desde youtube-nocookie.com y Vimeo con la opción de no rastrear activada.</p>
 
+                <h2>El vídeo del aviso de Adviento</h2>
+                <p>Durante el Adviento, un aviso muestra la miniatura de un vídeo alojado en <strong>YouTube</strong>. La miniatura se sirve desde este mismo dominio, y el reproductor se carga desde youtube-nocookie.com recién cuando pulsás reproducir. Desde ese momento, lo que registre el reproductor se rige por la política de privacidad de YouTube.</p>
                 <h2>Dónde está alojado el sitio</h2>
                 <p>Las páginas se publican mediante <strong>GitHub Pages</strong>. Como cualquier servidor web, registra las solicitudes que recibe para poder entregar las páginas y protegerlas de abusos. Ese registro no está bajo el control de este sitio.</p>
 
-                <h2>Lo único que se guarda en tu navegador</h2>
-                <p>El idioma que elegís, bajo la clave <strong>language</strong>, en el almacenamiento local del navegador. No es una cookie, no se envía a ningún servidor y no identifica a nadie: sirve para que el sitio se abra en tu idioma la próxima vez. Se borra vaciando los datos del sitio desde el propio navegador.</p>
+                <h2>Lo que se guarda en tu navegador</h2>
+                <p>El idioma que elegís, bajo la clave <strong>language</strong>, en el almacenamiento local del navegador. No es una cookie, no se envía a ningún servidor y no identifica a nadie: sirve para que el sitio se abra en tu idioma la próxima vez. Se borra vaciando los datos del sitio desde el propio navegador. Durante el Adviento se guarda además, bajo la clave <strong>fyr-adviento-estado</strong>, si dejaste el aviso abierto o cerrado, para respetarlo en las páginas siguientes. Tampoco sale de tu navegador.</p>
 
                 <h2>Enlaces a otros sitios</h2>
                 <p>Estas páginas enlazan a sitios de terceros —Vatican.va, YouTube, Amazon y los apostolados recomendados—. Lo que ocurra una vez que salís de acá se rige por las políticas de esos sitios, no por esta.</p>
@@ -162,6 +167,7 @@
     </footer>
 
     <script src="js/main.js?v=19" defer></script>
-    <script src="js/translations.js?v=37" defer></script>
+    <script src="js/translations.js?v=41" defer></script>
+    <script src="js/adviento.js?v=6" defer></script>
 </body>
 </html>

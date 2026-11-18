@@ -1216,10 +1216,12 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                 <p>Kaka mpo na kotanga message mpe koyanola. Etekamaka te, epesamaka te mpo na commerce, mpe esalelamaka ata mokolo moko te mpo na kotinda ba newsletters to publicité.</p>
                 <h2>Ekendaka wapi</h2>
                 <p>Formulaire etindamaka na <strong>Formspree</strong> (formspree.io), service oyo ezwaka message mpe ekomisaka yango epai ya mokomi. Soki osaleli formulaire, ba données wana ezali mpe na se ya mibeko ya service wana, oyo okoki kotanga na <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">politique na bango ya bomoi ya nkuku</a>.</p>
+                <h2>Video ya sango ya Adventi</h2>
+                <p>Na eleko ya Adventi, sango moko emonisaka elilingi moke ya video oyo ezali na <strong>YouTube</strong>. Elilingi yango eutaka na domɛni oyo moko, mpe lekteli ya video ekɔtaka uta na youtube-nocookie.com kaka ntango okofina likoló ya kotala. Banda ntango wana, oyo lekteli ekokoma ezali na nse ya mibeko ya sekele ya YouTube.</p>
                 <h2>Site ebombami wapi</h2>
                 <p>Ba pages oyo ebimisami na nzela ya <strong>GitHub Pages</strong>. Lokola serveur nyonso ya web, ekomaka ba demandes oyo ezwaka mpo na kopesa ba pages mpe kobatela yango. Ba registres wana ezali na se ya bokonzi ya site oyo te.</p>
-                <h2>Eloko kaka moko ebombamaka na navigateur na yo</h2>
-                <p>Monoko oyo oponi, na se ya clé <strong>language</strong>, na stockage local ya navigateur. Ezali cookie te, etindamaka na serveur moko te mpe eyebisaka moto te: esalisaka kaka ete site efungwama na monoko na yo mbala oyo ekoya. Ekozala kolongolama soki opetoli ba données ya site oyo na navigateur na yo.</p>
+                <h2>Oyo ebombamaka na navigatɛ na yo</h2>
+                <p>Monoko oyo oponi, na se ya clé <strong>language</strong>, na stockage local ya navigateur. Ezali cookie te, etindamaka na serveur moko te mpe eyebisaka moto te: esalisaka kaka ete site efungwama na monoko na yo mbala oyo ekoya. Ekozala kolongolama soki opetoli ba données ya site oyo na navigateur na yo. Na eleko ya Adventi, ebombamaka lisusu, na nse ya fungola <strong>fyr-adviento-estado</strong>, soki otikaki sango efungwama to ekangama, mpo nkasa oyo ekolanda etosa yango. Yango mpe ebimaka te na navigatɛ na yo.</p>
                 <h2>Ba liens epai ya ba sites mosusu</h2>
                 <p>Ba pages oyo ezali na ba liens epai ya ba sites ya bato mosusu — Vatican.va, YouTube, Amazon mpe misala oyo tolobeli. Nyonso oyo ekosalema soki obimi awa etambwisami na mibeko ya ba sites wana, kasi na oyo te.</p>
                 <h2>Mokonzi mpe contact</h2>
@@ -1306,6 +1308,31 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
     verseRef: "Matai 7, 7",
     btnHome: "Zonga na ebandeli",
     btnTopics: "Tala mitó nyonso"
+  },
+  // Aviso de Adviento (js/adviento.js).
+  advent: {
+    eyebrow: "Eleko ya Adventi",
+    countdownTitle: "Liboso ya Adventi",
+    startedTitle: "Adventi ebandi",
+    days: "mikolo",
+    hours: "ngonga",
+    minutes: "miniti",
+    seconds: "sekonde",
+    daysShort: "m",
+    dateNote: "Lomingo ya liboso ya Adventi: 29 novembre 2026, ngonga ya Vatikani.",
+    videoTitle: "Ndimbola ya solo ya Adventi (video na lokota ya Espanyole)",
+    videoSource: "Video na YouTube · Te Explico la Biblia",
+    romeTime: "Na Roma ezali ngonga",
+    tab: "Adventi",
+    open: "Fungola sango ya Adventi",
+    hide: "Bombá sango ya Adventi",
+    close: "Kanga",
+    play: "Kotala",
+    wreathBefore: "Mwinda ya liboso epelisami na Lomingo, 29 novembre.",
+    wreathWeek1: "Pɔsɔ ya liboso ya Adventi",
+    wreathWeek2: "Pɔsɔ ya mibale ya Adventi",
+    wreathWeek3: "Pɔsɔ ya misato ya Adventi, Lomingo ya Gaudete",
+    wreathWeek4: "Pɔsɔ ya minei ya Adventi"
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Makoki nyonso ebombami.</strong> Epekisami kokopi mobimba to ndambo soki ndingisa ya mokanda ya mokomi ezali te.", text: "Kondima mpe Mayele. Ad maiorem Dei gloriam." }

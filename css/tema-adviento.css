@@ -1,0 +1,288 @@
+/* =========================================================================
+   TEMA DE ADVIENTO
+   Violeta litúrgico y rosa de Gaudete, con blanco y plata. Sin dorado.
+   No es un tinte sobre el tema estándar: cada sección tiene su diseño propio.
+   Variante elegida por Gabriel el 18-nov-2026: la oscura (violeta casi negro
+   de punta a punta, textos claros, rosa y plata). La clara y la alternada se
+   probaron en la portada y se descartaron.
+   La pieza propia de Adviento es la corona del hero: cuatro velas, tres
+   violetas y la tercera rosa, que se encienden domingo a domingo
+   (js/adviento.js).
+   ========================================================================= */
+
+html[data-tema^="adviento"] {
+  --a-violeta:      #4a2468;
+  --a-violeta-hondo:#2a1240;
+  --a-noche:        #160b22;
+  --a-lavanda:      #f4f0f8;
+  --a-lila:         #dcd2e6;
+  --a-rosa:         #d88aae;
+  --a-rosa-claro:   #f3d9e5;
+  --a-rosa-tinta:   #a3426f;
+  --a-plata:        #cfcad8;
+  --a-texto:        #24182f;
+  --a-texto-suave:  #5e526b;
+
+  /* Las variables del sitio, ya sin dorado. */
+  --gold:           var(--a-rosa);
+  --gold-light:     #ebddf0;
+  --gold-mid:       #e2b3c9;
+  --gold-dark:      #7b4a99;
+  --gold-ink:       var(--a-violeta);
+  --gold-rgb:       216, 138, 174;
+  --gold-deep:      #b9668e;
+  --gold-dark-rgb:  123, 74, 153;
+  --gold-ink-rgb:   74, 36, 104;
+  --gold-line-rgb:  123, 74, 153;
+  --dark:           var(--a-noche);
+  --dark-rgb:       22, 11, 34;
+  --dark-nav:       var(--a-violeta-hondo);
+  --dark-deep:      #10071a;
+  --dark-article:   #1c0e2c;
+  --deep-rgb:       16, 7, 26;
+  --night-rgb:      22, 11, 34;
+  --night-soft-rgb: 42, 18, 64;
+  --bg-dark:        var(--a-noche);
+  --text-primary:   var(--a-texto);
+  --text-muted:     var(--a-texto-suave);
+  --text-dim:       #8f849c;
+  --border:         var(--a-lila);
+  --bg-soft:        var(--a-lavanda);
+  --bg-quote:       #f7f2fa;
+  --bg-note:        #f1edf5;
+  --border-note:    #c9bdd6;
+  --scripture-hi:   var(--a-rosa-tinta);
+  --scripture-name: var(--a-violeta);
+}
+
+/* ---------- Común a las tres ---------- */
+html[data-tema^="adviento"] .btn-primary {
+  background: var(--a-violeta);
+  color: #fff;
+}
+html[data-tema^="adviento"] .btn-primary:hover { background: var(--a-rosa-tinta); }
+html[data-tema^="adviento"] .btn-outline-white:hover { border-color: var(--a-rosa); color: var(--a-rosa-claro); }
+html[data-tema^="adviento"] nav a::after { background: var(--a-rosa); }
+html[data-tema^="adviento"] .lang-dropdown-menu { background: var(--a-noche); border-color: rgba(216, 138, 174, 0.35); }
+html[data-tema^="adviento"] #scroll-top {
+  background: var(--a-violeta);
+  border-color: var(--a-violeta);
+  color: #fff;
+}
+html[data-tema^="adviento"] #scroll-top:hover { background: var(--a-rosa-tinta); border-color: var(--a-rosa-tinta); }
+html[data-tema^="adviento"] .hero-video.active { opacity: 1; }
+html[data-tema^="adviento"] .hero h1 em { color: var(--a-rosa); }
+html[data-tema^="adviento"] .eyebrow-line { background: var(--a-rosa); }
+html[data-tema^="adviento"] .eyebrow-text { color: var(--a-rosa); }
+html[data-tema^="adviento"] .scroll-bar { background: linear-gradient(to bottom, transparent, var(--a-rosa)); }
+html[data-tema^="adviento"] .footer-rights { border-top-color: rgba(216, 138, 174, 0.3); }
+html[data-tema^="adviento"] .footer-rights strong { color: var(--a-rosa-claro); }
+
+/* ---------- La corona: cuatro velas ---------- */
+.adv-corona {
+  display: flex;
+  align-items: flex-end;
+  gap: 18px;
+  margin-top: 44px;
+  animation: fadeUp 0.8s ease 1s both;
+}
+.adv-corona-velas { display: flex; align-items: flex-end; gap: 10px; }
+.adv-corona-vela { position: relative; width: 12px; height: 46px; border-radius: 2px 2px 1px 1px; background: var(--a-violeta); box-shadow: inset -3px 0 0 rgba(0, 0, 0, 0.18); }
+.adv-corona-vela:nth-child(odd) { height: 40px; }
+.adv-corona-vela.rosa { background: var(--a-rosa); }
+.adv-corona-vela::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: 100%;
+  width: 1px;
+  height: 6px;
+  background: rgba(255, 255, 255, 0.55);
+}
+.adv-corona-vela.encendida::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: calc(100% + 5px);
+  width: 9px;
+  height: 15px;
+  margin-left: -4.5px;
+  border-radius: 50% 50% 50% 50% / 62% 62% 38% 38%;
+  background: radial-gradient(ellipse at 50% 75%, #fff 0 22%, #ffe3ef 40%, rgba(243, 217, 229, 0) 72%);
+  animation: adv-llama 2.6s ease-in-out infinite;
+  transform-origin: 50% 100%;
+}
+@keyframes adv-llama {
+  0%, 100% { transform: scale(1) rotate(-1deg); }
+  50% { transform: scale(1.08, 0.94) rotate(1.5deg); }
+}
+.adv-corona-txt {
+  font-size: 13px;
+  line-height: 1.5;
+  max-width: 240px;
+  color: rgba(255, 255, 255, 0.7);
+}
+@media (prefers-reduced-motion: reduce) {
+  .adv-corona-vela.encendida::after { animation: none; }
+}
+
+/* =========================================================================
+   VARIANTE OSCURA
+   Violeta casi negro de punta a punta; el vídeo se ve con sus colores en la
+   mitad derecha y se funde en un violeta macizo detrás del texto.
+   ========================================================================= */
+html[data-tema="adviento-oscuro"] body { background: var(--a-noche); }
+html[data-tema="adviento-oscuro"] #preloader { background: var(--a-noche); }
+html[data-tema="adviento-oscuro"] .preloader-logo { color: var(--a-rosa); }
+html[data-tema="adviento-oscuro"] header { background: var(--a-noche); }
+html[data-tema="adviento-oscuro"] .logo { color: #fff; }
+html[data-tema="adviento-oscuro"] nav a { color: rgba(255, 255, 255, 0.7); }
+html[data-tema="adviento-oscuro"] nav a:hover { color: #fff; }
+html[data-tema="adviento-oscuro"] .lang-dropdown-trigger { color: #fff; border-color: rgba(216, 138, 174, 0.5); }
+html[data-tema="adviento-oscuro"] .hamburger span { background: #fff; }
+html[data-tema="adviento-oscuro"] header.scrolled { background: rgba(22, 11, 34, 0.96); border-bottom-color: rgba(216, 138, 174, 0.18); }
+html[data-tema="adviento-oscuro"] header.scrolled .logo,
+html[data-tema="adviento-oscuro"] header.hero-mode.scrolled .logo { color: #fff; }
+html[data-tema="adviento-oscuro"] header.scrolled:not(.nav-open) nav a,
+html[data-tema="adviento-oscuro"] header.hero-mode.scrolled:not(.nav-open) nav a { color: rgba(255, 255, 255, 0.7); }
+html[data-tema="adviento-oscuro"] header.scrolled:not(.nav-open) nav a:hover,
+html[data-tema="adviento-oscuro"] header.hero-mode.scrolled:not(.nav-open) nav a:hover { color: #fff; }
+html[data-tema="adviento-oscuro"] header.scrolled:not(.nav-open) nav a.active { color: var(--a-rosa); }
+html[data-tema="adviento-oscuro"] header.scrolled:not(.nav-open) nav a.active::after { background: var(--a-rosa); }
+html[data-tema="adviento-oscuro"] header.scrolled .lang-dropdown-trigger,
+html[data-tema="adviento-oscuro"] header.hero-mode.scrolled .lang-dropdown-trigger { color: #fff; border-color: rgba(216, 138, 174, 0.5); }
+html[data-tema="adviento-oscuro"] header.scrolled .hamburger span { background: #fff; }
+
+html[data-tema="adviento-oscuro"] .hero { background: var(--a-noche); }
+html[data-tema="adviento-oscuro"] .hero-overlay {
+  background: linear-gradient(90deg, rgba(22, 11, 34, 0.92) 0%, rgba(22, 11, 34, 0.8) 28%, rgba(22, 11, 34, 0.3) 55%, rgba(22, 11, 34, 0) 78%);
+}
+html[data-tema="adviento-oscuro"] .hero-desc { color: rgba(255, 255, 255, 0.7); }
+html[data-tema="adviento-oscuro"] .btn-primary { background: var(--a-rosa); color: var(--a-noche); }
+html[data-tema="adviento-oscuro"] .btn-primary:hover { background: var(--a-rosa-claro); }
+
+html[data-tema="adviento-oscuro"] .meditacion-overlay { background: rgba(22, 11, 34, 0.82); }
+html[data-tema="adviento-oscuro"] .meditacion-eyebrow { color: var(--a-rosa); }
+
+html[data-tema="adviento-oscuro"] .mission-section { background: var(--a-violeta-hondo); }
+html[data-tema="adviento-oscuro"] .mission-section .section-title { color: #fff; }
+html[data-tema="adviento-oscuro"] .mission-intro { color: rgba(255, 255, 255, 0.7); }
+html[data-tema="adviento-oscuro"] .mission-card { background: rgba(255, 255, 255, 0.04); border-color: rgba(207, 202, 216, 0.22); }
+html[data-tema="adviento-oscuro"] .mission-card:hover { border-color: var(--a-rosa); box-shadow: none; }
+html[data-tema="adviento-oscuro"] .mission-card h3 { color: #fff; }
+html[data-tema="adviento-oscuro"] .mission-card p { color: rgba(255, 255, 255, 0.68); }
+
+html[data-tema="adviento-oscuro"] .contact-section { background: var(--a-noche); }
+html[data-tema="adviento-oscuro"] .contact-overlay { background: rgba(22, 11, 34, 0.8); }
+html[data-tema="adviento-oscuro"] .contact-video.active { opacity: 1; }
+html[data-tema="adviento-oscuro"] .form-group input:focus,
+html[data-tema="adviento-oscuro"] .form-group textarea:focus { border-color: var(--a-rosa); }
+html[data-tema="adviento-oscuro"] .contact-section .btn-primary { background: var(--a-rosa); color: var(--a-noche); }
+
+html[data-tema="adviento-oscuro"] footer { background: #0f0718; border-top: 1px solid rgba(216, 138, 174, 0.15); }
+html[data-tema="adviento-oscuro"] #scroll-top { background: var(--a-rosa); border-color: var(--a-rosa); color: var(--a-noche); }
+
+@media (max-width: 860px) {
+  html[data-tema="adviento-oscuro"] .hero-video-wrap { left: 0; }
+  html[data-tema="adviento-oscuro"] .hero-overlay {
+    background: linear-gradient(0deg, var(--a-noche) 0%, var(--a-noche) 30%, rgba(22, 11, 34, 0.6) 60%, rgba(22, 11, 34, 0.25) 100%);
+  }
+}
+
+/* ---------- Oscura: páginas interiores (temas, artículos, autor, recursos) ----------
+   El fondo de lectura pasa a violeta oscuro y el texto a claro. Las fichas
+   claras de los libros y el logo de EWTN conservan su fondo propio. */
+html[data-tema="adviento-oscuro"] {
+  --bg:             #1a0d29;
+  --bg-soft:        #160b22;
+  --text-primary:   #efe7f5;
+  --text-muted:     #c4b8d2;
+  --text-dim:       #9d90ad;
+  --border:         #3b2a52;
+  --bg-quote:       #26163b;
+  --bg-note:        #221436;
+  --border-note:    #4c3866;
+  --scripture-hi:   #eaa6c4;
+  --scripture-name: #c7a3e8;
+  --gold-ink:       var(--a-rosa);
+  --gold-ink-rgb:   216, 138, 174;
+  --gold-dark:      #b98bd6;
+  --gold-dark-rgb:  185, 139, 214;
+  --rec-fondo:      var(--a-noche);
+}
+html[data-tema="adviento-oscuro"] .article-card,
+html[data-tema="adviento-oscuro"] .article-nav-card,
+html[data-tema="adviento-oscuro"] .rec-apost-card,
+html[data-tema="adviento-oscuro"] .rec-rights,
+html[data-tema="adviento-oscuro"] .rec-vatican { background: #24143a; border-color: var(--border); }
+html[data-tema="adviento-oscuro"] .article-body { background: #1f1132; box-shadow: none; border: 1px solid var(--border); }
+html[data-tema="adviento-oscuro"] .rec-apost-body p,
+html[data-tema="adviento-oscuro"] .rec-vatican-body p,
+html[data-tema="adviento-oscuro"] .rec-rights p { color: var(--text-muted); }
+html[data-tema="adviento-oscuro"] .temas-filtro button[aria-pressed="true"] {
+  background: var(--a-rosa);
+  border-color: var(--a-rosa);
+  color: var(--a-noche);
+}
+/* Cabecera de temas y artículos: como el hero de la portada, el vídeo se ve
+   con sus colores a la derecha y el texto queda sobre violeta macizo. */
+html[data-tema="adviento-oscuro"] .article-hero { min-height: 72vh; min-height: 72svh; }
+html[data-tema="adviento-oscuro"] .article-hero .hero-video.active { opacity: 1; }
+html[data-tema="adviento-oscuro"] .article-hero::before {
+  background: linear-gradient(90deg, rgba(22, 11, 34, 0.9) 0%, rgba(22, 11, 34, 0.75) 30%, rgba(22, 11, 34, 0.25) 60%, rgba(22, 11, 34, 0) 85%);
+}
+@media (max-width: 860px) {
+  html[data-tema="adviento-oscuro"] .article-hero::before {
+    background: linear-gradient(0deg, var(--a-noche) 0%, rgba(22, 11, 34, 0.75) 55%, rgba(22, 11, 34, 0.45) 100%);
+  }
+}
+/* Paletas propias de Multimedia y de Del autor / Recursos. */
+html[data-tema="adviento-oscuro"] {
+  --mm-fondo-0: #0d0616; --mm-fondo: #110820; --mm-fondo-2: #170b26; --mm-fondo-rgb: 17, 8, 32;
+  --mm-texto: #ece4f2; --mm-sombra-rgb: 10, 4, 18; --mm-brillo-rgb: 240, 200, 225;
+  --mm-titulo-1: #ffffff; --mm-titulo-2: #ead8ee; --mm-titulo-3: #d88aae;
+  --mm-destacado-rgb: 26, 12, 40; --mm-insignia: #f3d9e5;
+  --mm-arco-1: #2a1440; --mm-arco-2: #170b26; --mm-arco-3: #10071a;
+  --mm-pantalla-1: #33194d; --mm-pantalla-2: #170b26; --mm-pantalla-3: #33194d;
+  --mm-play-rgb: 16, 7, 26; --mm-lista-1-rgb: 42, 20, 64; --mm-lista-2-rgb: 22, 11, 34; --mm-fuente: #1f0f30;
+  --rec-oscuro: #1c0e2c; --rec-libro-0: #10071a;
+  --rec-sombra-rgb: 10, 4, 18; --rec-sombra-2-rgb: 12, 5, 20;
+  --rec-anterior-1: #2a1640; --rec-anterior-2: #341c4e; --rec-anterior-3: #40245e;
+}
+/* Ficha clara del libro nuevo (Del autor y Recursos): el crema desentonaba
+   sobre el violeta; Gabriel la pidió en rosa claro (18-nov-2026). */
+html[data-tema="adviento-oscuro"] .rec-book--claro {
+  background: linear-gradient(118deg, #fcf2f7 0%, #f8e5ef 55%, #f3d9e6 100%);
+}
+
+/* ---------- Oscura: zona de lectura de los artículos ----------
+   Gabriel (18-nov-2026): en los temas el violeta cansaba. La cabecera y el
+   menú siguen oscuros; el cuerpo del artículo va en blanco con rosa. Las
+   variables se redefinen solo dentro de .article-page. */
+html[data-tema="adviento-oscuro"] .article-page {
+  --bg-soft:        #fbf1f6;
+  --text-primary:   var(--a-texto);
+  --text-muted:     var(--a-texto-suave);
+  --text-dim:       #8f849c;
+  --border:         #efd9e5;
+  --bg-quote:       #fdf3f8;
+  --bg-note:        #f9eff5;
+  --border-note:    #e2c4d4;
+  --scripture-hi:   var(--a-rosa-tinta);
+  --scripture-name: var(--a-violeta);
+  --gold-ink:       var(--a-rosa-tinta);
+  --gold-ink-rgb:   163, 66, 111;
+  --gold-dark:      #7b4a99;
+  --gold-dark-rgb:  123, 74, 153;
+  background: #fbf1f6;
+}
+html[data-tema="adviento-oscuro"] .article-page .article-body {
+  background: #fff;
+  border: 1px solid #f3e1ea;
+  box-shadow: 0 18px 50px rgba(163, 66, 111, 0.08);
+}
+html[data-tema="adviento-oscuro"] .article-page .scripture-ref {
+  background: var(--a-rosa-claro);
+  color: var(--a-violeta);
+}
+html[data-tema="adviento-oscuro"] .article-page .article-nav-card { background: #fff; border-color: #efd9e5; }

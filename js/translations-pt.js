@@ -1224,10 +1224,12 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
                 <p>Somente para ler a mensagem e respondê-la. Não são vendidos, não são cedidos para fins comerciais e nunca são usados para enviar boletins ou publicidade.</p>
                 <h2>Por onde passam</h2>
                 <p>O formulário é enviado ao <strong>Formspree</strong> (formspree.io), o serviço que recebe a mensagem e a entrega ao autor. Ao usar o formulário, esses dados ficam também sujeitos às condições desse serviço, que podem ser consultadas na <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">sua política de privacidade</a>.</p>
+                <h2>O vídeo do aviso do Advento</h2>
+                <p>Durante o Advento, um aviso mostra a miniatura de um vídeo hospedado no <strong>YouTube</strong>. A miniatura é servida a partir deste mesmo domínio, e o reprodutor só é carregado a partir de youtube-nocookie.com quando você aperta reproduzir. A partir desse momento, o que o reprodutor registrar fica sujeito à política de privacidade do YouTube.</p>
                 <h2>Onde o site está hospedado</h2>
                 <p>Estas páginas são publicadas através do <strong>GitHub Pages</strong>. Como qualquer servidor web, ele registra as solicitações que recebe para poder entregar as páginas e protegê-las de abusos. Esses registros não estão sob o controle deste site.</p>
-                <h2>A única coisa guardada no seu navegador</h2>
-                <p>O idioma que você escolhe, sob a chave <strong>language</strong>, no armazenamento local do navegador. Não é um cookie, não é enviado a nenhum servidor e não identifica ninguém: serve apenas para que o site abra no seu idioma da próxima vez. Você pode apagá-lo limpando os dados deste site no navegador.</p>
+                <h2>O que fica guardado no seu navegador</h2>
+                <p>O idioma que você escolhe, sob a chave <strong>language</strong>, no armazenamento local do navegador. Não é um cookie, não é enviado a nenhum servidor e não identifica ninguém: serve apenas para que o site abra no seu idioma da próxima vez. Você pode apagá-lo limpando os dados deste site no navegador. Durante o Advento também fica guardado, sob a chave <strong>fyr-adviento-estado</strong>, se você deixou o aviso aberto ou fechado, para que as páginas seguintes o respeitem. Isso também não sai do seu navegador.</p>
                 <h2>Links para outros sites</h2>
                 <p>Estas páginas remetem a sites de terceiros — Vatican.va, YouTube, Amazon e os apostolados recomendados. O que acontecer depois que você sair daqui rege-se pelas políticas desses sites, não por esta.</p>
                 <h2>Responsável e contato</h2>
@@ -1314,6 +1316,31 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
     verseRef: "Mateus 7, 7",
     btnHome: "Voltar ao início",
     btnTopics: "Ver todos os temas"
+  },
+  // Aviso de Adviento (js/adviento.js).
+  advent: {
+    eyebrow: "Tempo do Advento",
+    countdownTitle: "Faltam para o Advento",
+    startedTitle: "O Advento já começou",
+    days: "dias",
+    hours: "horas",
+    minutes: "minutos",
+    seconds: "segundos",
+    daysShort: "d",
+    dateNote: "Primeiro domingo do Advento: 29 de novembro de 2026, hora do Vaticano.",
+    videoTitle: "O verdadeiro significado do Advento (vídeo em espanhol)",
+    videoSource: "Vídeo no YouTube · Te Explico la Biblia",
+    romeTime: "Em Roma são",
+    tab: "Advento",
+    open: "Abrir o aviso do Advento",
+    hide: "Ocultar o aviso do Advento",
+    close: "Fechar",
+    play: "Reproduzir",
+    wreathBefore: "A primeira vela se acende no domingo, 29 de novembro.",
+    wreathWeek1: "Primeira semana do Advento",
+    wreathWeek2: "Segunda semana do Advento",
+    wreathWeek3: "Terceira semana do Advento, domingo Gaudete",
+    wreathWeek4: "Quarta semana do Advento"
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Todos os direitos reservados.</strong> Proibida a reprodução total ou parcial sem autorização escrita do autor.", text: "Fé e Razão. Ad maiorem Dei gloriam." }

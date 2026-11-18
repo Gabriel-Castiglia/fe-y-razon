@@ -257,9 +257,12 @@ function showArticle(slug, skipHistory = false) {
 
 
   // 5a. Configuración de recursos visuales
+  // Si hay un tema litúrgico con vídeos propios para este artículo (js/tema.js),
+  // mandan esos; si no, los de la tabla ARTICLES.
+  const videosTema = (window.FYRTemaVideos && window.FYRTemaVideos('tema-' + slug)) || cfg.videos;
   stopOverlayVideos();
   const all = ovVids();
-  cfg.videos.forEach((name, i) => {
+  videosTema.forEach((name, i) => {
     if (!all[i]) return;
     const v = all[i];
     v.poster = VIDEO_BASE + name + '-poster.webp';
@@ -277,7 +280,7 @@ function showArticle(slug, skipHistory = false) {
     v.classList.toggle('active', i === 0);
   });
   all.forEach((v, i) => {
-    if (i >= cfg.videos.length) {
+    if (i >= videosTema.length) {
       [...v.querySelectorAll('source')].forEach(s => s.remove());
       v.removeAttribute('poster');
       v.classList.remove('active');
@@ -324,7 +327,7 @@ function showArticle(slug, skipHistory = false) {
   window.scrollTo({ top: 0, behavior: 'instant' });
 
   // Start video crossfade
-  initOverlayVideos(cfg.videos.length);
+  initOverlayVideos(videosTema.length);
 
   // El hero se acaba de repintar: main.js vuelve a poner el botón de compartir.
   document.dispatchEvent(new CustomEvent('articleShown', { detail: { slug: slug } }));

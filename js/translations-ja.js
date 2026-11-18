@@ -1418,10 +1418,12 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                 <p>メッセージを読み、返信するためだけに使用します。販売も、商業目的での提供も行わず、ニュースレターや広告の送信にも使用しません。</p>
                 <h2>データの送信先</h2>
                 <p>フォームは <strong>Formspree</strong>（formspree.io）に送信されます。メッセージを受け取り、著者に届けるサービスです。フォームをご利用の際は、そのデータは同サービスの条件の対象にもなります。詳細は<a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">同社のプライバシーポリシー</a>をご覧ください。</p>
+                <h2>待降節のお知らせの動画</h2>
+                <p>待降節の間、お知らせに <strong>YouTube</strong> の動画のサムネイルが表示されます。サムネイルはこのサイトと同じドメインから配信され、再生ボタンを押したときに初めて youtube-nocookie.com からプレーヤーが読み込まれます。それ以降、プレーヤーが記録する内容には YouTube のプライバシーポリシーが適用されます。</p>
                 <h2>サイトのホスティング</h2>
                 <p>当サイトは <strong>GitHub Pages</strong> で公開されています。ウェブサーバーである以上、ページの配信と不正利用の防止のために受信したリクエストが記録されます。この記録は当サイトの管理下にはありません。</p>
-                <h2>ブラウザに保存される唯一のもの</h2>
-                <p>お選びいただいた言語が、<strong>language</strong> というキーでブラウザのローカルストレージに保存されます。これはクッキーではなく、サーバーに送信されることもなく、個人を特定するものでもありません。次回も同じ言語で表示するためだけのものです。ブラウザから当サイトのデータを消去すれば削除されます。</p>
+                <h2>ブラウザに保存されるもの</h2>
+                <p>お選びいただいた言語が、<strong>language</strong> というキーでブラウザのローカルストレージに保存されます。これはクッキーではなく、サーバーに送信されることもなく、個人を特定するものでもありません。次回も同じ言語で表示するためだけのものです。ブラウザから当サイトのデータを消去すれば削除されます。 待降節の間は、お知らせを開いたままにしたか閉じたかも、キー <strong>fyr-adviento-estado</strong> で保存し、次のページでもその状態を保ちます。これもブラウザの外には送られません。</p>
                 <h2>外部サイトへのリンク</h2>
                 <p>当サイトは第三者のサイト（Vatican.va、YouTube、Amazon、推薦する使徒活動団体など）にリンクしています。当サイトを離れた後のことは、それぞれのサイトの方針に従うものであり、本方針の対象外です。</p>
                 <h2>管理者と連絡先</h2>
@@ -1510,6 +1512,31 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
     verseRef: "マタイ 7章7節",
     btnHome: "ホームに戻る",
     btnTopics: "すべてのトピックを見る"
+  },
+  // Aviso de Adviento (js/adviento.js).
+  advent: {
+    eyebrow: "待降節",
+    countdownTitle: "待降節まで",
+    startedTitle: "待降節が始まりました",
+    days: "日",
+    hours: "時間",
+    minutes: "分",
+    seconds: "秒",
+    daysShort: "日",
+    dateNote: "待降節第一主日：2026年11月29日（バチカン時間）",
+    videoTitle: "待降節の本当の意味（スペイン語の動画）",
+    videoSource: "YouTube の動画 · Te Explico la Biblia",
+    romeTime: "ローマの現在時刻",
+    tab: "待降節",
+    open: "待降節のお知らせを開く",
+    hide: "待降節のお知らせを隠す",
+    close: "閉じる",
+    play: "再生",
+    wreathBefore: "最初のろうそくは11月29日（日）にともされます。",
+    wreathWeek1: "待降節第1週",
+    wreathWeek2: "待降節第2週",
+    wreathWeek3: "待降節第3週・喜びの主日（ガウデーテ）",
+    wreathWeek4: "待降節第4週"
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. 無断転載を禁じます。</strong> 著者の書面による許可なく、全部または一部を複製することを禁じます。",

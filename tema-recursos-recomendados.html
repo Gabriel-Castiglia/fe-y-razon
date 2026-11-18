@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <meta name="theme-color" content="#1a1410">
+    <script src="js/tema.js?v=17"></script>
     <meta name="description" content="Recursos recomendados para profundizar en la fe católica: libros, sitios y apostolados seleccionados por el equipo de Fé y Razón.">
     <meta name="author" content="M. Gabriel Castiglia">
     <meta name="robots" content="index, follow, max-image-preview:large">
@@ -59,7 +60,7 @@
     }
     </script>
 
-    <link rel="preload" href="css/style.css?v=30" as="style">
+    <link rel="preload" href="css/style.css?v=32" as="style">
     <title data-i18n="topicPages.recursos-recomendados.pageTitle">Recursos recomendados | Fé y Razón</title>
     <link rel="preload" href="Recursos/Fuentes/cinzel-latin.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="Recursos/Fuentes/montserrat-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -69,7 +70,9 @@
     <link rel="icon" href="icon-192.png?v=2" type="image/png" sizes="192x192">
     <link rel="apple-touch-icon" href="apple-touch-icon.png?v=2">
     <link rel="manifest" href="site.webmanifest?v=2">
-    <link rel="stylesheet" href="css/style.css?v=30">
+    <link rel="stylesheet" href="css/style.css?v=32">
+    <link rel="stylesheet" href="css/adviento.css?v=5">
+    <link rel="stylesheet" href="css/tema-adviento.css?v=3">
 </head>
 <body>
     <div id="reading-progress" role="progressbar" aria-label="Progreso de lectura" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"></div>
@@ -122,8 +125,17 @@
     </section>
 
     <style>
+/* Paleta propia de esta página. Estos son los valores del tema estándar; los
+   temas litúrgicos los cambian en css/style.css. Las fichas claras de los libros
+   (rojo y crema) son el color de cada libro y no cambian con el tema. */
+:root {
+  --rec-fondo: #f0ebe3; --rec-oscuro: #12100d; --rec-libro-0: #0e0c09;
+  --rec-sombra-rgb: 8, 4, 2; --rec-sombra-2-rgb: 10, 6, 2;
+  --rec-anterior-1: #2b221b; --rec-anterior-2: #3a2e24; --rec-anterior-3: #4a3b2d;
+}
+
       /* ── layout ── */
-      .rec-page { background: #f0ebe3; padding: 4rem 1.5rem 6rem; }
+      .rec-page { background: var(--rec-fondo); padding: 4rem 1.5rem 6rem; }
       .rec-inner { max-width: 1140px; margin: 0 auto; display: flex; flex-direction: column; gap: 4.5rem; }
 
       /* ── section label ── */
@@ -156,7 +168,7 @@
       .rec-vatican:hover > img { transform: scale(1.04); }
       .rec-vatican-overlay {
         position: absolute; inset: 0;
-        background: linear-gradient(105deg, rgba(8,4,2,.88) 0%, rgba(8,4,2,.6) 55%, rgba(8,4,2,.15) 100%);
+        background: linear-gradient(105deg, rgba(var(--rec-sombra-rgb),.88) 0%, rgba(var(--rec-sombra-rgb),.6) 55%, rgba(var(--rec-sombra-rgb),.15) 100%);
       }
       .rec-vatican-body {
         position: relative; z-index: 1;
@@ -182,7 +194,7 @@
       .rec-vatican-links { display: flex; flex-wrap: wrap; gap: .75rem; }
       .rec-btn-gold {
         font-family: 'Montserrat', sans-serif; font-size: .74rem; letter-spacing: .05em;
-        color: #1a1410; background: var(--gold); padding: .55rem 1.3rem;
+        color: var(--dark); background: var(--gold); padding: .55rem 1.3rem;
         border-radius: 6px; text-decoration: none; transition: background .2s; white-space: nowrap;
       }
       .rec-btn-gold:hover { background: var(--gold-light); }
@@ -200,7 +212,7 @@
         display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem;
       }
       .rec-priest {
-        border-radius: 14px; overflow: hidden; background: #12100d;
+        border-radius: 14px; overflow: hidden; background: var(--rec-oscuro);
         display: flex; flex-direction: column;
         box-shadow: 0 6px 30px rgba(0,0,0,.2);
         transition: transform .25s, box-shadow .25s;
@@ -217,7 +229,7 @@
       .rec-priest:hover .rec-priest-photo img { transform: scale(1.05); }
       .rec-priest-photo::after {
         content: ''; position: absolute; inset: 0;
-        background: linear-gradient(to bottom, transparent 35%, rgba(10,6,2,.95) 100%);
+        background: linear-gradient(to bottom, transparent 35%, rgba(var(--rec-sombra-2-rgb),.95) 100%);
       }
       .rec-priest-country {
         position: absolute; bottom: .9rem; left: 1.1rem; z-index: 1;
@@ -228,7 +240,7 @@
         /* Tapa 2 px de la foto: a mitad del hover la tarjeta queda en un
            desplazamiento fraccionario y el borde de la foto asomaba como
            una línea de color de 1 px. */
-        position: relative; z-index: 1; margin-top: -2px; background: #12100d;
+        position: relative; z-index: 1; margin-top: -2px; background: var(--rec-oscuro);
         padding: 1.1rem 1.3rem 1.5rem;
         display: flex; flex-direction: column; flex: 1; gap: .55rem;
       }
@@ -249,11 +261,11 @@
       }
       .rec-pill {
         font-family: 'Montserrat', sans-serif; font-size: .68rem;
-        color: var(--gold); border: 1px solid rgba(212,165,116,.3);
+        color: var(--gold); border: 1px solid rgba(var(--gold-rgb),.3);
         padding: .3rem .75rem; border-radius: 20px;
         text-decoration: none; transition: background .2s, color .2s; white-space: nowrap;
       }
-      .rec-pill:hover { background: var(--gold); color: #12100d; border-color: var(--gold); }
+      .rec-pill:hover { background: var(--gold); color: var(--rec-oscuro); border-color: var(--gold); }
 
       /* ── VADE RETRO — la tarjeta de Vatican News, con el banner a su alto natural ── */
       .rec-apost-photo.rec-apost-photo--vr { display: block; height: auto; background: #000; }
@@ -279,7 +291,7 @@
       .rec-apost-card:hover .rec-apost-photo img { transform: scale(1.04); }
       .rec-apost-photo::after {
         content: ''; position: absolute; inset: 0;
-        background: linear-gradient(to bottom, transparent 45%, rgba(8,4,2,.6) 100%);
+        background: linear-gradient(to bottom, transparent 45%, rgba(var(--rec-sombra-rgb),.6) 100%);
       }
       .rec-apost-name {
         position: absolute; bottom: .85rem; left: 1rem; z-index: 1;
@@ -300,14 +312,14 @@
       .rec-apost-links { display: flex; gap: .5rem; flex-wrap: wrap; margin-top: .5rem; }
       .rec-apost-link {
         font-family: 'Montserrat', sans-serif; font-size: .68rem;
-        color: var(--gold-dark); border: 1px solid rgba(157,126,82,.32);
+        color: var(--gold-dark); border: 1px solid rgba(var(--gold-dark-rgb),.32);
         padding: .3rem .8rem; border-radius: 4px;
         text-decoration: none; transition: background .2s, color .2s; white-space: nowrap;
       }
       .rec-apost-link:hover { background: var(--gold-dark); color: #fff; }
       /* EWTN: logo on dark bg */
       .rec-apost-photo--logo {
-        background: #12100d; display: flex;
+        background: var(--rec-oscuro); display: flex;
         align-items: center; justify-content: center; padding: 2rem;
       }
       .rec-apost-photo--logo img {
@@ -328,8 +340,8 @@
       .rec-book {
         position: relative; border-radius: 16px; overflow: hidden;
         display: grid; grid-template-columns: minmax(0, 340px) minmax(0, 1fr);
-        background: linear-gradient(118deg, #0e0c09 0%, #1a1410 52%, #241c14 100%);
-        border: 1px solid rgba(212, 165, 116, .22);
+        background: linear-gradient(118deg, var(--rec-libro-0) 0%, var(--dark) 52%, var(--dark-nav) 100%);
+        border: 1px solid rgba(var(--gold-rgb), .22);
         box-shadow: 0 10px 46px rgba(0,0,0,.3);
       }
       .rec-book-cover {
@@ -375,7 +387,7 @@
       }
       .rec-book-epigraph {
         margin: 0 0 1.4rem; padding: 0 0 0 1.1rem;
-        border-left: 2px solid rgba(212, 165, 116, .45);
+        border-left: 2px solid rgba(var(--gold-rgb), .45);
       }
       .rec-book-epigraph p {
         color: var(--gold-light); font-size: .92rem; font-style: italic;
@@ -435,7 +447,7 @@
          emparejados. */
       .rec-book-facts {
         margin: 0 0 1.5rem; padding: 1.1rem 1.3rem;
-        border: 1px solid rgba(212, 165, 116, .22);
+        border: 1px solid rgba(var(--gold-rgb), .22);
         border-radius: 10px; background: rgba(0,0,0,.22);
         display: grid; gap: .75rem;
       }
@@ -515,8 +527,8 @@
       .rec-libros-anterior {
         grid-column: 1 / -1;
         display: grid; grid-template-columns: minmax(0, 340px) minmax(0, 1fr);
-        background: linear-gradient(118deg, #2b221b 0%, #3a2e24 52%, #4a3b2d 100%);
-        border-top: 1px solid rgba(212, 165, 116, .22);
+        background: linear-gradient(118deg, var(--rec-anterior-1) 0%, var(--rec-anterior-2) 52%, var(--rec-anterior-3) 100%);
+        border-top: 1px solid rgba(var(--gold-rgb), .22);
       }
       .rec-libros-anterior-cover {
         display: flex; align-items: center; justify-content: center;
@@ -594,7 +606,7 @@
         .rec-vatican-eyebrow span { color: var(--gold-dark); }
         .rec-vatican-body h2 { font-size: 1.5rem; color: var(--text-primary); }
         .rec-vatican-body p { color: #555; margin-bottom: 1.3rem; }
-        .rec-vatican .rec-btn-ghost { color: var(--gold-dark); border-color: rgba(157,126,82,.32); }
+        .rec-vatican .rec-btn-ghost { color: var(--gold-dark); border-color: rgba(var(--gold-dark-rgb),.32); }
         .rec-vatican .rec-btn-ghost:hover { border-color: var(--gold-dark); }
         .rec-book { grid-template-columns: 1fr; }
         .rec-book-cover { padding: 2.4rem 2rem 1.6rem; }
@@ -836,6 +848,7 @@
     </footer>
     
     <script src="js/main.js?v=19" defer></script>
-    <script src="js/translations.js?v=37" defer></script>
+    <script src="js/translations.js?v=41" defer></script>
+    <script src="js/adviento.js?v=6" defer></script>
 </body>
 </html>

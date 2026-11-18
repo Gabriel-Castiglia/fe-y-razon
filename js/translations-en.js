@@ -1418,10 +1418,12 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
                 <p>Only to read your message and reply to it. It is not sold, not shared for commercial purposes, and never used for newsletters or advertising.</p>
                 <h2>Where it goes</h2>
                 <p>The form is sent to <strong>Formspree</strong> (formspree.io), the service that receives the message and delivers it to the author. By using the form, that data is also subject to that service's terms, which you can read in <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">their privacy policy</a>.</p>
+                <h2>The Advent notice video</h2>
+                <p>During Advent, a notice shows the thumbnail of a video hosted on <strong>YouTube</strong>. The thumbnail is served from this same domain, and the player loads from youtube-nocookie.com only when you press play. From that moment on, whatever the player records is governed by YouTube's privacy policy.</p>
                 <h2>Where the site is hosted</h2>
                 <p>These pages are published through <strong>GitHub Pages</strong>. Like any web server, it logs the requests it receives in order to deliver the pages and protect them from abuse. Those logs are not under this site's control.</p>
-                <h2>The one thing stored in your browser</h2>
-                <p>The language you choose, under the key <strong>language</strong>, in your browser's local storage. It is not a cookie, it is never sent to any server and it identifies no one: it simply lets the site open in your language next time. You can remove it by clearing this site's data from your browser.</p>
+                <h2>What is stored in your browser</h2>
+                <p>The language you choose, under the key <strong>language</strong>, in your browser's local storage. It is not a cookie, it is never sent to any server and it identifies no one: it simply lets the site open in your language next time. You can remove it by clearing this site's data from your browser. During Advent the site also stores, under the key <strong>fyr-adviento-estado</strong>, whether you left the notice open or closed, so the next pages respect it. It never leaves your browser either.</p>
                 <h2>Links to other sites</h2>
                 <p>These pages link to third-party sites — Vatican.va, YouTube, Amazon and the recommended apostolates. Whatever happens once you leave is governed by those sites' policies, not by this one.</p>
                 <h2>Who is responsible, and how to get in touch</h2>
@@ -1510,6 +1512,31 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
     verseRef: "Matthew 7:7",
     btnHome: "Back to home",
     btnTopics: "See all topics"
+  },
+  // Aviso de Adviento (js/adviento.js).
+  advent: {
+    eyebrow: "Season of Advent",
+    countdownTitle: "Until Advent",
+    startedTitle: "Advent has begun",
+    days: "days",
+    hours: "hours",
+    minutes: "minutes",
+    seconds: "seconds",
+    daysShort: "d",
+    dateNote: "First Sunday of Advent: November 29, 2026, Vatican time.",
+    videoTitle: "The true meaning of Advent (video in Spanish)",
+    videoSource: "YouTube video · Te Explico la Biblia",
+    romeTime: "In Rome it is",
+    tab: "Advent",
+    open: "Open the Advent notice",
+    hide: "Hide the Advent notice",
+    close: "Close",
+    play: "Play",
+    wreathBefore: "The first candle is lit on Sunday, November 29.",
+    wreathWeek1: "First week of Advent",
+    wreathWeek2: "Second week of Advent",
+    wreathWeek3: "Third week of Advent, Gaudete Sunday",
+    wreathWeek4: "Fourth week of Advent"
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. All rights reserved.</strong> No part of this site may be reproduced without the author's written permission.",

@@ -1652,10 +1652,12 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
                 <p>El formulario se envía a <strong>Formspree</strong> (formspree.io), el servicio que recibe el mensaje y lo hace llegar al autor. Al usar el formulario, esos datos quedan también sujetos a las condiciones de ese servicio, que pueden consultarse en <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">su política de privacidad</a>.</p>
                 <h2>Los videos de la sección Multimedia</h2>
                 <p>La sección Multimedia muestra series de EWTN alojadas en <strong>YouTube</strong> y en <strong>Vimeo</strong>. Las miniaturas se sirven desde este mismo dominio, y el reproductor de esos servicios se carga recién cuando pulsás reproducir. Desde ese momento, lo que registre el reproductor se rige por la política de privacidad de YouTube o de Vimeo. Para reducir el rastreo, YouTube se carga desde youtube-nocookie.com y Vimeo con la opción de no rastrear activada.</p>
+                <h2>El vídeo del aviso de Adviento</h2>
+                <p>Durante el Adviento, un aviso muestra la miniatura de un vídeo alojado en <strong>YouTube</strong>. La miniatura se sirve desde este mismo dominio, y el reproductor se carga desde youtube-nocookie.com recién cuando pulsás reproducir. Desde ese momento, lo que registre el reproductor se rige por la política de privacidad de YouTube.</p>
                 <h2>Dónde está alojado el sitio</h2>
                 <p>Las páginas se publican mediante <strong>GitHub Pages</strong>. Como cualquier servidor web, registra las solicitudes que recibe para poder entregar las páginas y protegerlas de abusos. Ese registro no está bajo el control de este sitio.</p>
-                <h2>Lo único que se guarda en tu navegador</h2>
-                <p>El idioma que elegís, bajo la clave <strong>language</strong>, en el almacenamiento local del navegador. No es una cookie, no se envía a ningún servidor y no identifica a nadie: sirve para que el sitio se abra en tu idioma la próxima vez. Se borra vaciando los datos del sitio desde el propio navegador.</p>
+                <h2>Lo que se guarda en tu navegador</h2>
+                <p>El idioma que elegís, bajo la clave <strong>language</strong>, en el almacenamiento local del navegador. No es una cookie, no se envía a ningún servidor y no identifica a nadie: sirve para que el sitio se abra en tu idioma la próxima vez. Se borra vaciando los datos del sitio desde el propio navegador. Durante el Adviento se guarda además, bajo la clave <strong>fyr-adviento-estado</strong>, si dejaste el aviso abierto o cerrado, para respetarlo en las páginas siguientes. Tampoco sale de tu navegador.</p>
                 <h2>Enlaces a otros sitios</h2>
                 <p>Estas páginas enlazan a sitios de terceros —Vatican.va, YouTube, Amazon y los apostolados recomendados—. Lo que ocurra una vez que salís de acá se rige por las políticas de esos sitios, no por esta.</p>
                 <h2>Responsable y contacto</h2>
@@ -1747,6 +1749,31 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
     verseRef: "Mateo 7, 7",
     btnHome: "Volver al inicio",
     btnTopics: "Ver todos los temas"
+  },
+  // Aviso de Adviento (js/adviento.js): ventana de la portada, pestaña y panel.
+  advent: {
+    eyebrow: "Tiempo de Adviento",
+    countdownTitle: "Faltan para el Adviento",
+    startedTitle: "Ya comenzó el Adviento",
+    days: "días",
+    hours: "horas",
+    minutes: "minutos",
+    seconds: "segundos",
+    daysShort: "d",
+    dateNote: "Primer domingo de Adviento: 29 de noviembre de 2026, hora del Vaticano.",
+    videoTitle: "El verdadero significado del Adviento",
+    videoSource: "Vídeo en YouTube · Te Explico la Biblia",
+    romeTime: "En Roma son las",
+    tab: "Adviento",
+    open: "Abrir el aviso de Adviento",
+    hide: "Ocultar el aviso de Adviento",
+    close: "Cerrar",
+    play: "Reproducir",
+    wreathBefore: "La primera vela se enciende el domingo 29 de noviembre.",
+    wreathWeek1: "Primera semana de Adviento",
+    wreathWeek2: "Segunda semana de Adviento",
+    wreathWeek3: "Tercera semana de Adviento, domingo de Gaudete",
+    wreathWeek4: "Cuarta semana de Adviento"
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Todos los derechos reservados.</strong> Prohibida la reproducción total o parcial sin autorización escrita del autor.",

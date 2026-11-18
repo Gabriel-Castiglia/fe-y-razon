@@ -1216,10 +1216,12 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                 <p>Naanị iji gụọ ozi ahụ ma zaghachi ya. A naghị ere ha, a naghị enye ha maka azụmahịa, a naghịkwa eji ha ezipu akwụkwọ akụkọ ma ọ bụ mgbasa ozi.</p>
                 <h2>Ebe ha na-aga</h2>
                 <p>A na-eziga fọm ahụ na <strong>Formspree</strong> (formspree.io), ọrụ na-anata ozi ahụ ma buga ya onye edemede. Site n'iji fọm ahụ, data ndị ahụ dịkwa n'okpuru usoro ọrụ ahụ, nke a pụrụ ịgụ na <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">amụma nzuzo ha</a>.</p>
+                <h2>Vidiyo nke ọkwa Advent</h2>
+                <p>N’oge Advent, otu ọkwa na-egosi obere foto nke vidiyo dị na <strong>YouTube</strong>. A na-esite n’otu ngalaba a enye obere foto ahụ, a na-ebudatakwa ihe ọkpụkpọ vidiyo site na youtube-nocookie.com naanị mgbe ị pịrị kpọọ. Site n’oge ahụ, ihe ọ bụla ihe ọkpụkpọ ahụ dekọrọ dabere n’iwu nzuzo nke YouTube.</p>
                 <h2>Ebe a na-ebe saịtị a</h2>
                 <p>A na-ebipụta ibe ndị a site na <strong>GitHub Pages</strong>. Dị ka sava weebụ ọ bụla, ọ na-edeba arịrịọ ndị ọ na-anata iji nwee ike nyefee ibe ndị ahụ ma chebe ha pụọ ná mmebi. Ndekọ ndị ahụ anọghị n'okpuru njikwa nke saịtị a.</p>
-                <h2>Naanị otu ihe a na-echekwa na ihe nchọgharị gị</h2>
-                <p>Asụsụ ị họọrọ, n'okpuru igodo <strong>language</strong>, na nchekwa mpaghara nke ihe nchọgharị. Ọ bụghị kuki, a naghị eziga ya na sava ọ bụla, ọ naghịkwa amata onye ọ bụla: naanị ihe ọ na-eme bụ ka saịtị meghee n'asụsụ gị oge ọzọ. A na-ehichapụ ya site n'ikpocha data saịtị a na ihe nchọgharị gị.</p>
+                <h2>Ihe a na-echekwa na ihe nchọgharị gị</h2>
+                <p>Asụsụ ị họọrọ, n'okpuru igodo <strong>language</strong>, na nchekwa mpaghara nke ihe nchọgharị. Ọ bụghị kuki, a naghị eziga ya na sava ọ bụla, ọ naghịkwa amata onye ọ bụla: naanị ihe ọ na-eme bụ ka saịtị meghee n'asụsụ gị oge ọzọ. A na-ehichapụ ya site n'ikpocha data saịtị a na ihe nchọgharị gị. N’oge Advent, a na-echekwakwa, n’okpuru igodo <strong>fyr-adviento-estado</strong>, ma ị hapụrụ ọkwa ahụ ka o meghee ma ọ bụ mechie ya, ka ibe ndị na-esote kwanyere ya ùgwù. Nke a anaghịkwa apụ n’ihe nchọgharị gị.</p>
                 <h2>Njikọ na saịtị ndị ọzọ</h2>
                 <p>Ibe ndị a na-ejikọ na saịtị ndị ọzọ — Vatican.va, YouTube, Amazon na ndị ozi a kwadoro. Ihe ọ bụla mere mgbe ị hapụrụ ebe a na-achịkwa site na amụma nke saịtị ndị ahụ, ọ bụghị nke a.</p>
                 <h2>Onye na-ahụ maka ya, na otu esi akpọtụrụ</h2>
@@ -1306,6 +1308,31 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
     verseRef: "Matiu 7, 7",
     btnHome: "Laghachi na isi",
     btnTopics: "Lee isiokwu niile"
+  },
+  // Aviso de Adviento (js/adviento.js).
+  advent: {
+    eyebrow: "Oge Advent",
+    countdownTitle: "Tupu Advent",
+    startedTitle: "Advent amalitela",
+    days: "ụbọchị",
+    hours: "awa",
+    minutes: "nkeji",
+    seconds: "sekọnd",
+    daysShort: "ụ",
+    dateNote: "Sọnde mbụ nke Advent: 29 Nọvemba 2026, oge Vatican.",
+    videoTitle: "Ezigbo ihe Advent pụtara (vidiyo n’asụsụ Spanish)",
+    videoSource: "Vidiyo na YouTube · Te Explico la Biblia",
+    romeTime: "Na Rome, oge bụ",
+    tab: "Advent",
+    open: "Mepee ọkwa Advent",
+    hide: "Zoo ọkwa Advent",
+    close: "Mechie",
+    play: "Kpọọ",
+    wreathBefore: "A na-amụnye kandụl mbụ na Sọnde, 29 Nọvemba.",
+    wreathWeek1: "Izu mbụ nke Advent",
+    wreathWeek2: "Izu nke abụọ nke Advent",
+    wreathWeek3: "Izu nke atọ nke Advent, Sọnde Gaudete",
+    wreathWeek4: "Izu nke anọ nke Advent"
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Ikike niile echekwara.</strong> A machibidoro imepụta ya niile ma ọ bụ akụkụ ya na-enweghị ikike ederede sitere n'aka onye edemede.", text: "Okwukwe na Uche. Ad maiorem Dei gloriam." }

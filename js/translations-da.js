@@ -1418,10 +1418,12 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                 <p>Udelukkende til at læse beskeden og svare på den. De sælges ikke, videregives ikke til kommercielle formål og bruges aldrig til nyhedsbreve eller reklamer.</p>
                 <h2>Hvor de sendes hen</h2>
                 <p>Formularen sendes til <strong>Formspree</strong> (formspree.io), tjenesten der modtager beskeden og leverer den til forfatteren. Ved at bruge formularen er disse data også omfattet af den tjenestes betingelser, som kan læses i <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">deres privatlivspolitik</a>.</p>
+                <h2>Videoen i adventsmeddelelsen</h2>
+                <p>I adventstiden viser en meddelelse miniaturebilledet af en video på <strong>YouTube</strong>. Miniaturen hentes fra dette samme domæne, og afspilleren indlæses fra youtube-nocookie.com først, når du trykker på afspil. Fra det øjeblik gælder YouTubes privatlivspolitik for det, afspilleren registrerer.</p>
                 <h2>Hvor webstedet er hostet</h2>
                 <p>Siderne udgives via <strong>GitHub Pages</strong>. Som enhver webserver logger den de forespørgsler, den modtager, for at kunne levere siderne og beskytte dem mod misbrug. Disse logfiler er ikke under dette websteds kontrol.</p>
-                <h2>Det eneste, der gemmes i din browser</h2>
-                <p>Det sprog du vælger, under nøglen <strong>language</strong>, i browserens lokale lager. Det er ikke en cookie, det sendes aldrig til nogen server, og det identificerer ingen: det sørger blot for, at webstedet åbner på dit sprog næste gang. Det fjernes ved at rydde webstedets data i browseren.</p>
+                <h2>Det, der gemmes i din browser</h2>
+                <p>Det sprog du vælger, under nøglen <strong>language</strong>, i browserens lokale lager. Det er ikke en cookie, det sendes aldrig til nogen server, og det identificerer ingen: det sørger blot for, at webstedet åbner på dit sprog næste gang. Det fjernes ved at rydde webstedets data i browseren. I adventstiden gemmes desuden, under nøglen <strong>fyr-adviento-estado</strong>, om du lod meddelelsen stå åben eller lukkede den, så de næste sider respekterer det. Heller ikke det forlader din browser.</p>
                 <h2>Links til andre websteder</h2>
                 <p>Disse sider linker til tredjepartswebsteder — Vatican.va, YouTube, Amazon og de anbefalede apostolater. Hvad der sker, når du har forladt dette websted, er omfattet af de pågældende websteders politikker, ikke af denne.</p>
                 <h2>Ansvarlig og kontakt</h2>
@@ -1510,6 +1512,31 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
     verseRef: "Matthæus 7, 7",
     btnHome: "Tilbage til forsiden",
     btnTopics: "Se alle emner"
+  },
+  // Aviso de Adviento (js/adviento.js).
+  advent: {
+    eyebrow: "Adventstiden",
+    countdownTitle: "Til advent",
+    startedTitle: "Advent er begyndt",
+    days: "dage",
+    hours: "timer",
+    minutes: "minutter",
+    seconds: "sekunder",
+    daysShort: "d",
+    dateNote: "Første søndag i advent: 29. november 2026, Vatikanets tid.",
+    videoTitle: "Adventens sande betydning (video på spansk)",
+    videoSource: "Video på YouTube · Te Explico la Biblia",
+    romeTime: "I Rom er klokken",
+    tab: "Advent",
+    open: "Åbn adventsmeddelelsen",
+    hide: "Skjul adventsmeddelelsen",
+    close: "Luk",
+    play: "Afspil",
+    wreathBefore: "Det første lys tændes søndag den 29. november.",
+    wreathWeek1: "Første uge i advent",
+    wreathWeek2: "Anden uge i advent",
+    wreathWeek3: "Tredje uge i advent, Gaudete-søndag",
+    wreathWeek4: "Fjerde uge i advent"
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Alle rettigheder forbeholdes.</strong> Hel eller delvis gengivelse er forbudt uden forfatterens skriftlige tilladelse.",

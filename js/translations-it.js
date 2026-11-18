@@ -1216,10 +1216,12 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
                 <p>Solo a leggere il messaggio e rispondere. Non vengono venduti, non vengono ceduti a fini commerciali e non vengono mai usati per newsletter o pubblicità.</p>
                 <h2>Dove vanno</h2>
                 <p>Il modulo viene inviato a <strong>Formspree</strong> (formspree.io), il servizio che riceve il messaggio e lo consegna all'autore. Usando il modulo, quei dati sono soggetti anche alle condizioni di quel servizio, consultabili nella <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">sua informativa sulla privacy</a>.</p>
+                <h2>Il video dell’avviso di Avvento</h2>
+                <p>Durante l’Avvento, un avviso mostra la miniatura di un video ospitato su <strong>YouTube</strong>. La miniatura è servita da questo stesso dominio, e il lettore si carica da youtube-nocookie.com solo quando premi riproduci. Da quel momento, ciò che il lettore registra è regolato dall’informativa sulla privacy di YouTube.</p>
                 <h2>Dove è ospitato il sito</h2>
                 <p>Queste pagine sono pubblicate tramite <strong>GitHub Pages</strong>. Come qualsiasi server web, registra le richieste ricevute per poter consegnare le pagine e proteggerle dagli abusi. Quei registri non sono sotto il controllo di questo sito.</p>
-                <h2>L'unica cosa salvata nel tuo browser</h2>
-                <p>La lingua che scegli, sotto la chiave <strong>language</strong>, nella memoria locale del browser. Non è un cookie, non viene inviata ad alcun server e non identifica nessuno: serve soltanto perché il sito si apra nella tua lingua la volta successiva. Si cancella svuotando i dati del sito dal browser.</p>
+                <h2>Che cosa resta salvato nel tuo browser</h2>
+                <p>La lingua che scegli, sotto la chiave <strong>language</strong>, nella memoria locale del browser. Non è un cookie, non viene inviata ad alcun server e non identifica nessuno: serve soltanto perché il sito si apra nella tua lingua la volta successiva. Si cancella svuotando i dati del sito dal browser. Durante l’Avvento si salva anche, con la chiave <strong>fyr-adviento-estado</strong>, se hai lasciato l’avviso aperto o chiuso, perché le pagine successive lo rispettino. Neanche questo esce dal tuo browser.</p>
                 <h2>Collegamenti ad altri siti</h2>
                 <p>Queste pagine rimandano a siti di terzi — Vatican.va, YouTube, Amazon e gli apostolati consigliati. Quello che accade dopo che hai lasciato questo sito è regolato dalle politiche di quei siti, non da questa.</p>
                 <h2>Titolare e contatti</h2>
@@ -1306,6 +1308,31 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
     verseRef: "Matteo 7, 7",
     btnHome: "Torna alla home",
     btnTopics: "Vedi tutti i temi"
+  },
+  // Aviso de Adviento (js/adviento.js).
+  advent: {
+    eyebrow: "Tempo di Avvento",
+    countdownTitle: "Mancano all’Avvento",
+    startedTitle: "L’Avvento è iniziato",
+    days: "giorni",
+    hours: "ore",
+    minutes: "minuti",
+    seconds: "secondi",
+    daysShort: "g",
+    dateNote: "Prima domenica di Avvento: 29 novembre 2026, ora del Vaticano.",
+    videoTitle: "Il vero significato dell’Avvento (video in spagnolo)",
+    videoSource: "Video su YouTube · Te Explico la Biblia",
+    romeTime: "A Roma sono le",
+    tab: "Avvento",
+    open: "Apri l’avviso dell’Avvento",
+    hide: "Nascondi l’avviso dell’Avvento",
+    close: "Chiudi",
+    play: "Riproduci",
+    wreathBefore: "La prima candela si accende domenica 29 novembre.",
+    wreathWeek1: "Prima settimana di Avvento",
+    wreathWeek2: "Seconda settimana di Avvento",
+    wreathWeek3: "Terza settimana di Avvento, domenica Gaudete",
+    wreathWeek4: "Quarta settimana di Avvento"
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Tutti i diritti riservati.</strong> È vietata la riproduzione totale o parziale senza autorizzazione scritta dell'autore.", text: "Fede e Ragione. Ad maiorem Dei gloriam." }

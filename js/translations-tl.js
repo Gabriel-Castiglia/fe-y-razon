@@ -1419,10 +1419,12 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
                 <p>Para lamang basahin ang mensahe at sagutin ito. Hindi ito ipinagbibili, hindi ibinabahagi para sa komersyo, at hindi kailanman ginagamit para sa newsletter o patalastas.</p>
                 <h2>Saan ito napupunta</h2>
                 <p>Ipinapadala ang form sa <strong>Formspree</strong> (formspree.io), ang serbisyong tumatanggap ng mensahe at naghahatid nito sa may-akda. Sa paggamit ng form, ang datos na iyon ay saklaw din ng mga tuntunin ng serbisyong iyon, na mababasa sa <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener">kanilang patakaran sa privacy</a>.</p>
+                <h2>Ang video ng paalala ng Adbiyento</h2>
+                <p>Sa panahon ng Adbiyento, may paalalang nagpapakita ng thumbnail ng isang video na nasa <strong>YouTube</strong>. Ang thumbnail ay galing sa domain ding ito, at ang player ay naglo-load mula sa youtube-nocookie.com kapag pinindot mo lang ang play. Mula noon, ang anumang itala ng player ay saklaw ng patakaran sa privacy ng YouTube.</p>
                 <h2>Saan naka-host ang site</h2>
                 <p>Ang mga pahinang ito ay inilalathala sa pamamagitan ng <strong>GitHub Pages</strong>. Tulad ng anumang web server, nagtatala ito ng mga natatanggap na kahilingan upang maihatid ang mga pahina at maprotektahan ang mga ito laban sa pang-aabuso. Ang mga talaang iyon ay wala sa kontrol ng site na ito.</p>
-                <h2>Ang tanging bagay na naiimbak sa iyong browser</h2>
-                <p>Ang wikang pinili mo, sa ilalim ng key na <strong>language</strong>, sa local storage ng browser. Hindi ito cookie, hindi ito ipinapadala sa anumang server at walang kinikilalang tao: nagsisilbi lamang ito upang bumukas ang site sa iyong wika sa susunod. Matatanggal ito sa pamamagitan ng pag-clear ng datos ng site na ito mula sa iyong browser.</p>
+                <h2>Ang itinatago sa iyong browser</h2>
+                <p>Ang wikang pinili mo, sa ilalim ng key na <strong>language</strong>, sa local storage ng browser. Hindi ito cookie, hindi ito ipinapadala sa anumang server at walang kinikilalang tao: nagsisilbi lamang ito upang bumukas ang site sa iyong wika sa susunod. Matatanggal ito sa pamamagitan ng pag-clear ng datos ng site na ito mula sa iyong browser. Sa panahon ng Adbiyento, itinatago rin, sa ilalim ng key na <strong>fyr-adviento-estado</strong>, kung iniwan mong bukas o sarado ang paalala, para igalang ito sa mga susunod na pahina. Hindi rin ito lumalabas sa iyong browser.</p>
                 <h2>Mga link sa ibang site</h2>
                 <p>Ang mga pahinang ito ay may link sa mga third-party na site — Vatican.va, YouTube, Amazon at ang mga inirerekomendang apostolado. Anuman ang mangyari matapos kang umalis dito ay pinamamahalaan ng mga patakaran ng mga site na iyon, hindi nito.</p>
                 <h2>Sino ang may pananagutan, at paano makipag-ugnayan</h2>
@@ -1511,6 +1513,31 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
     verseRef: "Mateo 7, 7",
     btnHome: "Bumalik sa simula",
     btnTopics: "Tingnan ang lahat ng paksa"
+  },
+  // Aviso de Adviento (js/adviento.js).
+  advent: {
+    eyebrow: "Panahon ng Adbiyento",
+    countdownTitle: "Bago mag-Adbiyento",
+    startedTitle: "Nagsimula na ang Adbiyento",
+    days: "araw",
+    hours: "oras",
+    minutes: "minuto",
+    seconds: "segundo",
+    daysShort: "a",
+    dateNote: "Unang Linggo ng Adbiyento: Nobyembre 29, 2026, oras sa Vaticano.",
+    videoTitle: "Ang tunay na kahulugan ng Adbiyento (video sa Espanyol)",
+    videoSource: "Video sa YouTube · Te Explico la Biblia",
+    romeTime: "Sa Roma, ang oras ay",
+    tab: "Adbiyento",
+    open: "Buksan ang paalala ng Adbiyento",
+    hide: "Itago ang paalala ng Adbiyento",
+    close: "Isara",
+    play: "I-play",
+    wreathBefore: "Sisindihan ang unang kandila sa Linggo, Nobyembre 29.",
+    wreathWeek1: "Unang linggo ng Adbiyento",
+    wreathWeek2: "Ikalawang linggo ng Adbiyento",
+    wreathWeek3: "Ikatlong linggo ng Adbiyento, Linggo ng Gaudete",
+    wreathWeek4: "Ikaapat na linggo ng Adbiyento"
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Nakalaan ang lahat ng karapatan.</strong> Ipinagbabawal ang pagpaparami nang buo o bahagi nang walang nakasulat na pahintulot ng may-akda.",

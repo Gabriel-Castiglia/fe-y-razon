@@ -7,6 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <meta name="theme-color" content="#0d0a07">
+    <script src="js/tema.js?v=17"></script>
     <meta name="description" content="Videos católicos en español: la herejía protestante explicada por la Iglesia (La Reforma, serie de EWTN en 12 capítulos), Doctores de la Iglesia y Chesterton Station.">
     <meta name="keywords" content="Reforma protestante, herejía protestante, Lutero, Calvino, Enrique VIII, Concilio de Trento, Reforma católica, EWTN, Doctores de la Iglesia, San Agustín, Santa Catalina de Siena, San Atanasio, San Ambrosio, San León Magno, Chesterton, apologética católica, videos católicos">
     <meta name="author" content="M. Gabriel Castiglia">
@@ -45,7 +46,7 @@
         ]
     }
     </script>
-    <link rel="preload" href="css/style.css?v=30" as="style">
+    <link rel="preload" href="css/style.css?v=32" as="style">
     <title>Multimedia católica: la Reforma protestante explicada | Fé y Razón</title>
     <link rel="preload" href="Recursos/Fuentes/cinzel-latin.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="Recursos/Fuentes/montserrat-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -54,22 +55,36 @@
     <link rel="icon" href="icon-192.png?v=2" type="image/png" sizes="192x192">
     <link rel="apple-touch-icon" href="apple-touch-icon.png?v=2">
     <link rel="manifest" href="site.webmanifest?v=2">
-    <link rel="stylesheet" href="css/style.css?v=30">
+    <link rel="stylesheet" href="css/style.css?v=32">
+    <link rel="stylesheet" href="css/adviento.css?v=5">
+    <link rel="stylesheet" href="css/tema-adviento.css?v=3">
 
     <style>
+/* Paleta propia de Multimedia. Estos son los valores del tema estándar; los
+   temas litúrgicos los cambian en css/style.css. */
+:root {
+  --mm-fondo-0: #0b0806; --mm-fondo: #0d0a07; --mm-fondo-2: #120d09; --mm-fondo-rgb: 13, 10, 7;
+  --mm-texto: #efe6da; --mm-sombra-rgb: 8, 5, 3; --mm-brillo-rgb: 255, 226, 170;
+  --mm-titulo-1: #fff8ec; --mm-titulo-2: #f0dcc0; --mm-titulo-3: #c99a62;
+  --mm-destacado-rgb: 20, 14, 9; --mm-insignia: #e8c48f;
+  --mm-arco-1: #2a1d12; --mm-arco-2: #160f09; --mm-arco-3: #100b07;
+  --mm-pantalla-1: #3a2a18; --mm-pantalla-2: #1a120a; --mm-pantalla-3: #3b2a17;
+  --mm-play-rgb: 12, 8, 4; --mm-lista-1-rgb: 30, 21, 13; --mm-lista-2-rgb: 16, 11, 7; --mm-fuente: #1b130c;
+}
+
       /* ═══════════ MULTIMEDIA ═══════════
          Página oscura: todo el fondo es nave de iglesia en penumbra, con el humo
          del incensario (canvas #mm-incienso) por encima de todo, sin capturar clics. */
-      body.mm { background: #0d0a07; color: #efe6da; }
+      body.mm { background: var(--mm-fondo); color: var(--mm-texto); }
       .mm-page { position: relative; background:
           radial-gradient(1200px 600px at 50% -10%, rgba(var(--gold-rgb), .10), transparent 70%),
-          linear-gradient(180deg, #120d09 0%, #0d0a07 40%, #0b0806 100%);
+          linear-gradient(180deg, var(--mm-fondo-2) 0%, var(--mm-fondo) 40%, var(--mm-fondo-0) 100%);
         overflow: hidden; }
       #mm-incienso { position: fixed; inset: 0; width: 100%; height: 100%; pointer-events: none;
         z-index: 3; mix-blend-mode: screen; opacity: .85; }
 
       /* Encabezado al bajar: en esta página oscura queda oscuro, no blanco. */
-      body.mm header.scrolled { background: rgba(13,10,7,.9); border-bottom-color: rgba(var(--gold-rgb), .22); box-shadow: 0 1px 24px rgba(0,0,0,.5); }
+      body.mm header.scrolled { background: rgba(var(--mm-fondo-rgb),.9); border-bottom-color: rgba(var(--gold-rgb), .22); box-shadow: 0 1px 24px rgba(0,0,0,.5); }
       body.mm header.hero-mode.scrolled .logo { color: #fff; }
       body.mm header.hero-mode.scrolled:not(.nav-open) nav a,
       body.mm header.hero-mode.scrolled:not(.nav-open) nav a:hover { color: rgba(255,255,255,.88); }
@@ -80,17 +95,17 @@
 
       /* ── HERO ── */
       .mm-hero { position: relative; overflow: hidden; min-height: 92vh; min-height: 92svh;
-        display: flex; align-items: flex-end; background: #0b0806; color: #fff; padding: 140px 0 72px; }
+        display: flex; align-items: flex-end; background: var(--mm-fondo-0); color: #fff; padding: 140px 0 72px; }
       .mm-hero video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover;
         opacity: 0; transition: opacity 1.6s ease; filter: sepia(.25) saturate(1.1) contrast(1.05); }
       .mm-hero video.active { opacity: .62; }
       .mm-hero::before { content: ''; position: absolute; inset: 0; z-index: 1;
         background:
-          radial-gradient(ellipse 80% 70% at 50% 35%, transparent 0%, rgba(8,5,3,.55) 70%, rgba(8,5,3,.92) 100%),
-          linear-gradient(180deg, rgba(8,5,3,.55) 0%, rgba(8,5,3,.15) 35%, rgba(13,10,7,.96) 100%); }
+          radial-gradient(ellipse 80% 70% at 50% 35%, transparent 0%, rgba(var(--mm-sombra-rgb),.55) 70%, rgba(var(--mm-sombra-rgb),.92) 100%),
+          linear-gradient(180deg, rgba(var(--mm-sombra-rgb),.55) 0%, rgba(var(--mm-sombra-rgb),.15) 35%, rgba(var(--mm-fondo-rgb),.96) 100%); }
       /* Haz de luz que cae en diagonal, como por una ventana alta */
       .mm-hero::after { content: ''; position: absolute; z-index: 1; top: -20%; left: 18%; width: 38%; height: 140%;
-        background: linear-gradient(100deg, transparent 0%, rgba(255,226,170,.10) 45%, rgba(255,226,170,.03) 60%, transparent 75%);
+        background: linear-gradient(100deg, transparent 0%, rgba(var(--mm-brillo-rgb),.10) 45%, rgba(var(--mm-brillo-rgb),.03) 60%, transparent 75%);
         transform: rotate(14deg); filter: blur(8px); animation: mm-haz 14s ease-in-out infinite alternate; }
       @keyframes mm-haz { from { opacity: .55; transform: rotate(14deg) translateX(-2%); } to { opacity: 1; transform: rotate(12deg) translateX(3%); } }
 
@@ -102,14 +117,14 @@
       .mm-hero h1 { font-family: var(--font-display); font-weight: 700; color: #fff; margin: 18px 0 10px;
         font-size: clamp(54px, 9vw, 132px); line-height: .92; letter-spacing: .04em;
         text-shadow: 0 0 40px rgba(var(--gold-rgb), .35), 0 4px 30px rgba(0,0,0,.6);
-        background: linear-gradient(180deg, #fff8ec 0%, #f0dcc0 55%, #c99a62 100%);
+        background: linear-gradient(180deg, var(--mm-titulo-1) 0%, var(--mm-titulo-2) 55%, var(--mm-titulo-3) 100%);
         -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
       .mm-hero-sub { max-width: 560px; font-size: 1.02rem; line-height: 1.75; color: rgba(255,255,255,.78); margin: 0 0 34px; }
 
       /* Tarjeta del tema destacado dentro del hero */
       .mm-destacado { display: grid; grid-template-columns: 300px 1fr; gap: 0; max-width: 760px;
         border: 1px solid rgba(var(--gold-rgb), .35); border-radius: 14px; overflow: hidden;
-        background: linear-gradient(120deg, rgba(20,14,9,.86), rgba(20,14,9,.55));
+        background: linear-gradient(120deg, rgba(var(--mm-destacado-rgb),.86), rgba(var(--mm-destacado-rgb),.55));
         backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
         box-shadow: 0 20px 60px rgba(0,0,0,.55), inset 0 0 0 1px rgba(255,255,255,.03);
         text-decoration: none; color: inherit; transition: transform .35s, box-shadow .35s, border-color .35s; }
@@ -122,7 +137,7 @@
       .mm-destacado:hover .mm-destacado-img img { transform: scale(1.05); }
       .mm-destacado-body { padding: 20px 26px; display: flex; flex-direction: column; justify-content: center; gap: 6px; }
       .mm-badge { align-self: flex-start; font-family: var(--font-body); font-size: 10px; letter-spacing: .22em; text-transform: uppercase;
-        color: #1a1410; background: linear-gradient(90deg, #e8c48f, var(--gold)); padding: 4px 10px; border-radius: 3px; }
+        color: var(--dark); background: linear-gradient(90deg, var(--mm-insignia), var(--gold)); padding: 4px 10px; border-radius: 3px; }
       .mm-destacado-body h2 { font-family: var(--font-display); font-size: 1.55rem; color: #fff; margin: 4px 0 0; line-height: 1.15; }
       .mm-destacado-body p { margin: 0; font-size: .82rem; color: rgba(255,255,255,.62); }
       .mm-destacado-cta { margin-top: 6px; font-size: .78rem; letter-spacing: .08em; color: var(--gold); }
@@ -152,7 +167,7 @@
       .mm-tema { position: relative; width: 330px; padding: 0; border: 0; background: none; cursor: pointer; color: inherit; text-align: center; font: inherit; display: flex; }
       .mm-tema-arco { position: relative; flex: 1; display: flex; flex-direction: column; overflow: hidden;
         border-radius: 50% 50% 10px 10px / 92px 92px 10px 10px;
-        background: linear-gradient(180deg, #2a1d12 0%, #160f09 34%, #100b07 100%);
+        background: linear-gradient(180deg, var(--mm-arco-1) 0%, var(--mm-arco-2) 34%, var(--mm-arco-3) 100%);
         border: 1px solid rgba(var(--gold-rgb), .35); box-shadow: 0 14px 40px rgba(0,0,0,.5);
         transition: transform .35s, box-shadow .35s, border-color .35s; }
       .mm-tema-arco::before { content: ''; position: absolute; inset: 7px; z-index: 1; pointer-events: none;
@@ -186,12 +201,12 @@
       .mm-fuentes button { font: inherit; letter-spacing: .1em; color: rgba(255,255,255,.75); background: transparent; border: 1px solid rgba(255,255,255,.2);
         padding: .4rem .9rem; border-radius: 20px; cursor: pointer; transition: all .2s; }
       .mm-fuentes button:hover { border-color: var(--gold); color: var(--gold); }
-      .mm-fuentes button[aria-pressed="true"] { background: var(--gold); border-color: var(--gold); color: #1a1410; }
+      .mm-fuentes button[aria-pressed="true"] { background: var(--gold); border-color: var(--gold); color: var(--dark); }
       .mm-ficha p:empty { display: none; }
       .mm-serie-meta a { color: inherit; text-decoration: none; border-bottom: 1px solid rgba(var(--gold-rgb), .4); }
       .mm-serie-meta a:hover { color: #fff; }
       .mm-pantalla { position: relative; border-radius: 12px; padding: 10px;
-        background: linear-gradient(145deg, #3a2a18, #1a120a 40%, #3b2a17);
+        background: linear-gradient(145deg, var(--mm-pantalla-1), var(--mm-pantalla-2) 40%, var(--mm-pantalla-3));
         box-shadow: 0 30px 80px rgba(0,0,0,.7), 0 0 60px rgba(var(--gold-rgb), .08), inset 0 0 0 1px rgba(var(--gold-rgb), .45); }
       .mm-marco { position: relative; aspect-ratio: 16/9; border-radius: 6px; overflow: hidden; background: #000; }
       .mm-marco iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
@@ -200,11 +215,11 @@
       .mm-portada:hover img { transform: scale(1.03); filter: brightness(.85); }
       .mm-portada::after { content: ''; position: absolute; inset: 0; background: radial-gradient(circle at center, transparent 30%, rgba(0,0,0,.55) 100%); }
       .mm-play { position: absolute; z-index: 1; left: 50%; top: 50%; width: 96px; height: 96px; margin: -48px 0 0 -48px; border-radius: 50%;
-        display: grid; place-items: center; background: rgba(12,8,4,.55); border: 1px solid rgba(var(--gold-rgb), .9);
+        display: grid; place-items: center; background: rgba(var(--mm-play-rgb),.55); border: 1px solid rgba(var(--gold-rgb), .9);
         box-shadow: 0 0 0 10px rgba(var(--gold-rgb), .08), 0 0 50px rgba(var(--gold-rgb), .35); transition: transform .3s, background .3s; }
       .mm-portada:hover .mm-play { transform: scale(1.08); background: rgba(var(--gold-rgb), .9); }
       .mm-play svg { width: 34px; height: 34px; margin-left: 6px; fill: var(--gold); transition: fill .3s; }
-      .mm-portada:hover .mm-play svg { fill: #1a1410; }
+      .mm-portada:hover .mm-play svg { fill: var(--dark); }
       .mm-play::before { content: ''; position: absolute; inset: -18px; border-radius: 50%; border: 1px solid rgba(var(--gold-rgb), .35); animation: mm-latido 2.6s ease-out infinite; }
       @keyframes mm-latido { from { transform: scale(.85); opacity: 1; } to { transform: scale(1.35); opacity: 0; } }
       .mm-portada-num { position: absolute; z-index: 1; left: 22px; top: 16px; font-family: var(--font-display); font-size: 15px;
@@ -217,17 +232,15 @@
       .mm-acciones { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
       .mm-btn { font-family: var(--font-body); font-size: .76rem; letter-spacing: .06em; padding: .62rem 1.25rem; border-radius: 6px;
         text-decoration: none; cursor: pointer; white-space: nowrap; transition: background .2s, color .2s, border-color .2s; }
-      .mm-btn-oro { color: #1a1410; background: var(--gold); border: 1px solid var(--gold); }
+      .mm-btn-oro { color: var(--dark); background: var(--gold); border: 1px solid var(--gold); }
       .mm-btn-oro:hover { background: var(--gold-light); border-color: var(--gold-light); }
       .mm-btn-linea { color: rgba(255,255,255,.85); background: transparent; border: 1px solid rgba(255,255,255,.25); }
       .mm-btn-linea:hover { border-color: var(--gold); color: var(--gold); }
       .mm-btn[disabled] { opacity: .35; cursor: default; pointer-events: none; }
-      .mm-aviso { margin-top: 16px; font-size: .7rem; color: rgba(255,255,255,.4); line-height: 1.6; }
-      .mm-aviso a { color: rgba(255,255,255,.55); }
 
       /* Lista de capítulos */
       .mm-lista { list-style: none; margin: 0; padding: 8px; border-radius: 12px; max-height: 640px; overflow-y: auto;
-        background: linear-gradient(180deg, rgba(30,21,13,.85), rgba(16,11,7,.85)); border: 1px solid rgba(var(--gold-rgb), .2);
+        background: linear-gradient(180deg, rgba(var(--mm-lista-1-rgb),.85), rgba(var(--mm-lista-2-rgb),.85)); border: 1px solid rgba(var(--gold-rgb), .2);
         scrollbar-width: thin; scrollbar-color: rgba(var(--gold-rgb), .4) transparent; }
       .mm-lista-head { padding: 10px 12px 12px; font-size: .68rem; letter-spacing: .22em; text-transform: uppercase; color: var(--gold);
         border-bottom: 1px solid rgba(var(--gold-rgb), .15); margin-bottom: 6px; display: flex; justify-content: space-between; }
@@ -245,8 +258,10 @@
       .mm-cap[aria-current="true"] .mm-cap-tit { color: #fff; }
 
       /* ── FUENTE ── */
+      /* Fuente sin logo (Catequesis): una sola columna, debajo de la de EWTN. */
+      .mm-fuente.mm-fuente-sola { grid-template-columns: 1fr; margin-top: 22px; }
       .mm-fuente { display: grid; grid-template-columns: 300px 1fr; border-radius: 16px; overflow: hidden;
-        border: 1px solid rgba(var(--gold-rgb), .25); background: linear-gradient(120deg, #1b130c, #120d09);
+        border: 1px solid rgba(var(--gold-rgb), .25); background: linear-gradient(120deg, var(--mm-fuente), var(--mm-fondo-2));
         box-shadow: 0 20px 60px rgba(0,0,0,.5); }
       .mm-fuente-logo { background: #fff; display: grid; place-items: center; padding: 26px; }
       .mm-fuente-logo img { width: 100%; max-width: 240px; height: auto; display: block; }
@@ -280,6 +295,7 @@
         .mm-pantalla { padding: 6px; }
         .mm-cap { grid-template-columns: 26px 96px 1fr; gap: 10px; padding: 8px 6px; }
         .mm-fuente { grid-template-columns: 1fr; }
+        .mm-fuente.mm-fuente-sola { grid-template-columns: 1fr; }
         .mm-fuente-logo { padding: 18px; }
         .mm-fuente-body { padding: 22px 20px; }
         .mm-tema { width: min(330px, 100%); }
@@ -336,7 +352,7 @@
             <div class="mm-hero-inner">
                 <div class="mm-kicker">Series · Documentales · Canales</div>
                 <h1>Multimedia</h1>
-                <p class="mm-hero-sub">Series y documentales de canales católicos, ordenados por tema. Cada capítulo se ve acá mismo, en el orden en que fue emitido.</p>
+                <p class="mm-hero-sub">Series, documentales y catequesis de canales católicos, ordenados por tema. Cada capítulo se ve acá mismo, en el orden en que fue emitido.</p>
 
                 <a class="mm-destacado" href="#reforma-1" data-tema="reforma">
                     <div class="mm-destacado-img"><img src="Recursos/Im%C3%A1genes/multimedia/reforma-ng6xymATRls.webp" alt="" width="960" height="540"></div>
@@ -392,7 +408,6 @@
                             <a class="mm-btn mm-btn-linea" id="mm-ext" href="#" target="_blank" rel="noopener">Abrir en YouTube</a>
                             <a class="mm-btn mm-btn-linea" id="mm-ewtn" href="#" target="_blank" rel="noopener">Ficha en EWTN</a>
                         </div>
-                        <p class="mm-aviso">El reproductor se carga desde YouTube (youtube-nocookie.com) o desde Vimeo (sin seguimiento) recién al pulsar reproducir; hasta entonces la página no le pide nada a ningún tercero. Ver <a href="privacidad.html">Privacidad</a>.</p>
                     </div>
                 </div>
                 <ol class="mm-lista" id="mm-lista" aria-label="Capítulos">
@@ -415,6 +430,16 @@
                     <div class="mm-acciones">
                         <a class="mm-btn mm-btn-oro" href="https://www.ewtn.com/es" target="_blank" rel="noopener">ewtn.com/es</a>
                         <a class="mm-btn mm-btn-linea" href="https://ewtnalacarta.substack.com/" target="_blank" rel="noopener">EWTN a la carta</a>
+                    </div>
+                </div>
+            </div>
+            <div class="mm-fuente mm-fuente-sola mm-rev">
+                <div class="mm-fuente-body">
+                    <span class="mm-badge">Catequesis</span>
+                    <h3>Te Explico la Biblia Oficial</h3>
+                    <p>«El verdadero significado del Adviento», la primera catequesis de esta sección, es del canal de YouTube Te Explico la Biblia Oficial. El vídeo se ve acá con el reproductor de YouTube y el mérito es de quienes lo hicieron.</p>
+                    <div class="mm-acciones">
+                        <a class="mm-btn mm-btn-linea" href="https://www.youtube.com/@TeExplicolaBibliaOficial" target="_blank" rel="noopener">El canal en YouTube</a>
                     </div>
                 </div>
             </div>
@@ -497,6 +522,22 @@
           { vm: '1092280696', t: 'Vaquero en juego', s: '', f: 'capitulo-3-vaquero-en-juego', d: 1692 },
           { vm: '1092283000', t: 'Esconderse y buscar', s: '', f: 'capitulo-4-esconderse-y-buscar', d: 1712 }
         ]
+      },
+      {
+        // Catequesis: vídeos sueltos que Gabriel elige uno por uno. No son de EWTN:
+        // cada tema puede nombrar su canal (canal, canalUrl) y cómo se llama cada
+        // pieza (unidad). Sin ficha de EWTN el botón «Ficha en EWTN» se oculta.
+        slug: 'catequesis',
+        nombre: 'Catequesis',
+        serie: 'Catequesis',
+        canal: 'Te Explico la Biblia Oficial',
+        canalUrl: 'https://www.youtube.com/@TeExplicolaBibliaOficial',
+        unidad: ['catequesis', 'catequesis'],
+        portada: 'catequesis-Z-0HyI4gYk8.webp',
+        desc: 'Catequesis elegidas una por una para vivir el año litúrgico. La primera, para el Adviento: qué es este tiempo, por qué abarca los cuatro domingos antes de Navidad y qué significan la corona y sus velas.',
+        caps: [
+          { yt: 'Z-0HyI4gYk8', t: 'El verdadero significado del Adviento', s: 'Qué es el Adviento, cómo prepararse para la venida de Cristo en Navidad y qué significan la corona de Adviento y sus velas. Del canal Te Explico la Biblia Oficial, publicado el 13 de noviembre de 2026.', d: 711 }
+        ]
       }
     ];
 
@@ -510,6 +551,11 @@
 
       // Fuente que se usa para un capítulo: la elegida si la tiene, si no la otra.
       function fuenteDe(c) { return c[fuente] ? fuente : (c.yt ? 'yt' : 'vm'); }
+      // «12 capítulos», «1 catequesis»: cada tema puede nombrar sus piezas.
+      function cuantos(t) {
+        var u = t.unidad || ['capítulo', 'capítulos'];
+        return t.caps.length + ' ' + (t.caps.length === 1 ? u[0] : u[1]);
+      }
       function miniatura(t, c) { return MM_IMG + t.slug + '-' + (c.yt || c.vm) + '.webp'; }
       function embed(c) {
         return fuenteDe(c) === 'yt'
@@ -520,9 +566,9 @@
       function pintarPortada() {
         var c = tema.caps[cap];
         $('mm-marco').innerHTML =
-          '<button class="mm-portada" type="button" aria-label="Reproducir el capítulo ' + (cap + 1) + ': ' + esc(c.t) + '">' +
+          '<button class="mm-portada" type="button" aria-label="Reproducir ' + (tema.unidad ? 'la ' + tema.unidad[0] : 'el capítulo') + ' ' + (cap + 1) + ': ' + esc(c.t) + '">' +
           '<img src="' + miniatura(tema, c) + '" alt="" width="960" height="540">' +
-          '<span class="mm-portada-num">CAPÍTULO ' + ROMANOS[cap] + '</span>' +
+          '<span class="mm-portada-num">' + (tema.unidad ? tema.unidad[0] : 'capítulo').toUpperCase() + ' ' + ROMANOS[cap] + '</span>' +
           '<span class="mm-play"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4l15 8-15 8z"/></svg></span></button>';
         $('mm-marco').firstChild.addEventListener('click', reproducir);
       }
@@ -545,10 +591,12 @@
       function elegir(i, desdeLista, inicial) {
         cap = i;
         var c = tema.caps[i];
-        $('mm-ficha-cap').textContent = 'Capítulo ' + ROMANOS[i] + ' de ' + ROMANOS[tema.caps.length - 1] + ' · ' + min(c.d);
+        var unidad = tema.unidad ? tema.unidad[0] : 'capítulo';
+        $('mm-ficha-cap').textContent = unidad.charAt(0).toUpperCase() + unidad.slice(1) + ' ' + ROMANOS[i] + ' de ' + ROMANOS[tema.caps.length - 1] + ' · ' + min(c.d);
         $('mm-ficha-titulo').textContent = c.t;
         $('mm-ficha-sinopsis').textContent = c.s;
-        $('mm-ewtn').href = MM_FICHA + c.f;
+        $('mm-ewtn').hidden = !c.f;
+        if (c.f) $('mm-ewtn').href = MM_FICHA + c.f;
         $('mm-ant').disabled = i === 0;
         $('mm-sig').disabled = i === tema.caps.length - 1;
         document.querySelectorAll('.mm-cap').forEach(function (b, j) { b.setAttribute('aria-current', j === i ? 'true' : 'false'); });
@@ -564,8 +612,9 @@
         var total = t.caps.reduce(function (s, c) { return s + c.d; }, 0);
         $('mm-serie-num').textContent = ROMANOS[TEMAS.indexOf(t)];
         $('mm-serie-titulo').textContent = t.nombre;
-        $('mm-serie-meta').innerHTML = (t.nombre !== t.serie ? '«' + esc(t.serie) + '» · ' : '') + 'EWTN · ' + t.caps.length + ' capítulos · ' + horas(total) +
-          ' · <a href="' + MM_ETIQ + t.etiqueta + '" target="_blank" rel="noopener">EWTN a la carta ↗</a>';
+        $('mm-serie-meta').innerHTML = (t.nombre !== t.serie ? '«' + esc(t.serie) + '» · ' : '') + esc(t.canal || 'EWTN') + ' · ' + cuantos(t) + ' · ' + horas(total) +
+          (t.etiqueta ? ' · <a href="' + MM_ETIQ + t.etiqueta + '" target="_blank" rel="noopener">EWTN a la carta ↗</a>'
+                      : t.canalUrl ? ' · <a href="' + t.canalUrl + '" target="_blank" rel="noopener">Canal en YouTube ↗</a>' : '');
         $('mm-serie-desc').textContent = t.desc;
         $('mm-total').textContent = t.caps.length + ' · ' + horas(total);
         cont.querySelectorAll('.mm-tema').forEach(function (x) { x.setAttribute('aria-pressed', x.dataset.tema === t.slug ? 'true' : 'false'); });
@@ -601,7 +650,7 @@
         b.innerHTML = '<div class="mm-tema-arco"><div class="mm-tema-timpano"><i aria-hidden="true">✠&#xFE0E;</i>' +
           (t.destacado ? '<span class="mm-badge">Destacado</span>' : '<span class="mm-badge" style="visibility:hidden">·</span>') + '</div>' +
           '<div class="mm-tema-img"><img src="' + MM_IMG + t.portada + '" alt="" width="960" height="540" loading="lazy"></div>' +
-          '<div class="mm-tema-info"><strong></strong><small>EWTN · ' + t.caps.length + ' capítulos · ' + horas(total) + '</small></div></div>';
+          '<div class="mm-tema-info"><strong></strong><small>' + esc(t.canal || 'EWTN') + ' · ' + cuantos(t) + ' · ' + horas(total) + '</small></div></div>';
         b.querySelector('strong').textContent = t.nombre;
         b.addEventListener('click', function () { abrirTema(t); });
         cont.appendChild(b);
@@ -748,6 +797,7 @@
     })();
     </script>
     <script src="js/main.js?v=19" defer></script>
-    <script src="js/translations.js?v=37" defer></script>
+    <script src="js/translations.js?v=41" defer></script>
+    <script src="js/adviento.js?v=6" defer></script>
 </body>
 </html>
