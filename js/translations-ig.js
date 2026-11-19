@@ -1105,7 +1105,8 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         inSpanish: "N'asụsụ Spanish →",
         toroCountry: "Venezuela",
         oliveraCountry: "Argentina · QNTLC",
-        gomezMirCountry: "Spain · Stat Crux",
+        gomezMirCountry: "Barcelona · Stat Crux",
+        berochCountry: "United States · Academia Católica",
         heraldosTag: "Ecuador"
       },
       sec1: { eyebrow: "Oche Dị Nsọ", title: "Ebe e si nweta ihe na Vatican", desc: "Akwụkwọ gọọmentị nke Nzukọ-nsọ, dị na webụsaịtị Oche Dị Nsọ." },
@@ -1114,6 +1115,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         toro:    { desc: "Onye na-amụ banyere nkà mmụta okpukpe na apologetics. Ọ na-aza ajụjụ kachasị ike banyere okwukwe Katọlik n'ụzọ miri emi." },
         olivera: { desc: "Ọkọ akụkọ ihe mere eme na apologetic nke Augustinian. Ọ na-agbaso echiche uche, ịrọ òtù na njehie ọgbara ọhụrụ site na ịdị uchu." },
         gomezMir: { desc: "Ụkọchukwu na ọkà mmụta banyere Freemasonry, Gnosticism na ọgwụ ọdịnala, nke ọ na-enyocha mgbe niile n’ìhè nke nkuzi Katọlik. Ọwa ya bụ maka Ọdịnala Katọlik.", book: "Akwụkwọ ya «Nosotros» →" },
+        beroch: { desc: "Ụkọchukwu, onye nkuzi na onye gụrụ nkà ihe ọmụma. Ọ na-akọwa ma na-agbachitere okwukwe n’ọwa ya na na Academia Católica ya, «iru n’ntụgharị uche nke eziokwu»." },
         montfort: { tag: "France · ihe dị ka 1712", title: "Akwụkwọ gbasara Ezi Nsọpụrụ nye Nwaagbọghọ Nsọ Meri", author: "Nsọ Louis-Marie Grignion de Montfort", desc: "Ọrụ ama ama gbasara ịrara onwe onye nye Jizọs site na Meri. Mbipụta zuru ezu na PDF, n'asụsụ Bekee.", ed1: "PDF n'asụsụ Bekee →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {

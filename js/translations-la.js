@@ -1304,7 +1304,8 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         inSpanish: "Hispanice →",
         toroCountry: "Venetiola",
         oliveraCountry: "Argentina · QNTLC",
-        gomezMirCountry: "Hispania · Stat Crux",
+        gomezMirCountry: "Barcino · Stat Crux",
+        berochCountry: "Civitates Foederatae · Academia Católica",
         heraldosTag: "Aequatoria"
       },
       sec1: { eyebrow: "Sancta Sedes", title: "Fontes Vaticani", desc: "Documenta officialia Ecclesiae, in situ Sanctae Sedis praesto." },
@@ -1313,6 +1314,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         toro:    { desc: "Theologus et apologeta. Obiectiones difficillimas fidei catholicae cum profunditate respondet." },
         olivera: { desc: "Historicus et apologeta augustinianus. Rationalismum, sectas et errores modernos cum rigore tractat." },
         gomezMir: { desc: "Sacerdos et Massonismi, Gnosticismi et occultismi peritus, quae semper sub luce doctrinae catholicae perpendit. Canalis eius Traditioni catholicae dicatus est.", book: "Liber eius «Nosotros» →" },
+        beroch: { desc: "Sacerdos, magister et philosophiae licentiatus. Fidem in canali suo et in Academia Catholica explicat ac defendit, «ad contemplationem veritatis»." },
         montfort: { tag: "Gallia · c. MDCCXII", title: "Tractatus de vera devotione erga Beatam Virginem", author: "S. Ludovicus Maria Grignion de Montfort", desc: "Opus classicum de consecratione Iesu per Mariam. Editio integra in forma PDF, Anglice.", ed1: "PDF Anglice →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {

@@ -123,7 +123,8 @@
       .mm-hero-sub { max-width: 560px; font-size: 1.02rem; line-height: 1.75; color: rgba(255,255,255,.78); margin: 0 0 34px; }
 
       /* Tarjeta del tema destacado dentro del hero */
-      .mm-destacado { display: grid; grid-template-columns: 300px 1fr; gap: 0; max-width: 760px;
+      .mm-destacados { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; max-width: 1000px; }
+      .mm-destacado { display: grid; grid-template-columns: 190px 1fr; gap: 0;
         border: 1px solid rgba(var(--gold-rgb), .35); border-radius: 14px; overflow: hidden;
         background: linear-gradient(120deg, rgba(var(--mm-destacado-rgb),.86), rgba(var(--mm-destacado-rgb),.55));
         backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
@@ -136,10 +137,10 @@
         box-shadow: 0 0 0 1px rgba(var(--gold-rgb), .35), 0 8px 20px rgba(0,0,0,.5); }
       .mm-destacado-img img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .6s; }
       .mm-destacado:hover .mm-destacado-img img { transform: scale(1.05); }
-      .mm-destacado-body { padding: 20px 26px; display: flex; flex-direction: column; justify-content: center; gap: 6px; }
+      .mm-destacado-body { padding: 16px 20px; display: flex; flex-direction: column; justify-content: center; gap: 5px; }
       .mm-badge { align-self: flex-start; font-family: var(--font-body); font-size: 10px; letter-spacing: .22em; text-transform: uppercase;
         color: var(--dark); background: linear-gradient(90deg, var(--mm-insignia), var(--gold)); padding: 4px 10px; border-radius: 3px; }
-      .mm-destacado-body h2 { font-family: var(--font-display); font-size: 1.55rem; color: #fff; margin: 4px 0 0; line-height: 1.15; }
+      .mm-destacado-body h2 { font-family: var(--font-display); font-size: 1.12rem; color: #fff; margin: 4px 0 0; line-height: 1.2; }
       .mm-destacado-body p { margin: 0; font-size: .82rem; color: rgba(255,255,255,.62); }
       .mm-destacado-cta { margin-top: 6px; font-size: .78rem; letter-spacing: .08em; color: var(--gold); }
 
@@ -161,31 +162,75 @@
       .mm-sec-head h2 { font-family: var(--font-display); color: #fff; font-size: clamp(28px, 3.4vw, 44px); margin: 0 0 10px; letter-spacing: .03em; }
       .mm-sec-head p { margin: 0 auto; max-width: 620px; color: rgba(255,255,255,.6); font-size: .92rem; line-height: 1.7; }
 
-      /* ── SELECTOR DE TEMAS: arcos de vitral ──
-         El arco es un tímpano oscuro arriba; la miniatura va entera debajo, en 16:9,
-         sin recorte (antes llenaba un arco alto y se cortaba casi toda). */
-      .mm-temas { display: flex; gap: 26px; justify-content: center; flex-wrap: wrap; align-items: stretch; }
-      .mm-tema { position: relative; width: 330px; padding: 0; border: 0; background: none; cursor: pointer; color: inherit; text-align: center; font: inherit; display: flex; }
-      .mm-tema-arco { position: relative; flex: 1; display: flex; flex-direction: column; overflow: hidden;
-        border-radius: 50% 50% 10px 10px / 92px 92px 10px 10px;
-        background: linear-gradient(180deg, var(--mm-arco-1) 0%, var(--mm-arco-2) 34%, var(--mm-arco-3) 100%);
-        border: 1px solid rgba(var(--gold-rgb), .35); box-shadow: 0 14px 40px rgba(0,0,0,.5);
-        transition: transform .35s, box-shadow .35s, border-color .35s; }
-      .mm-tema-arco::before { content: ''; position: absolute; inset: 7px; z-index: 1; pointer-events: none;
-        border-radius: 50% 50% 6px 6px / 86px 86px 6px 6px; border: 1px solid rgba(var(--gold-rgb), .25); }
-      .mm-tema-timpano { position: relative; height: 96px; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; gap: 8px; padding-bottom: 12px;
-        background: radial-gradient(ellipse 60% 90% at 50% 100%, rgba(var(--gold-rgb), .18), transparent 70%); }
-      .mm-tema-timpano i { font-style: normal; font-size: 22px; line-height: 1; color: var(--gold); text-shadow: 0 0 14px rgba(var(--gold-rgb), .7); }
-      .mm-tema .mm-badge { align-self: center; }
-      .mm-tema-img { position: relative; aspect-ratio: 16/9; margin: 0 12px; overflow: hidden; border-radius: 4px;
-        box-shadow: 0 0 0 1px rgba(var(--gold-rgb), .35), 0 8px 20px rgba(0,0,0,.5); }
-      .mm-tema-img img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .7s, filter .35s; filter: saturate(.9) brightness(.88); }
-      .mm-tema:hover .mm-tema-arco, .mm-tema[aria-pressed="true"] .mm-tema-arco { transform: translateY(-6px); border-color: var(--gold);
-        box-shadow: 0 22px 50px rgba(0,0,0,.6), 0 0 36px rgba(var(--gold-rgb), .22); }
-      .mm-tema:hover .mm-tema-img img, .mm-tema[aria-pressed="true"] .mm-tema-img img { transform: scale(1.05); filter: saturate(1) brightness(1); }
-      .mm-tema-info { padding: 16px 18px 20px; flex: 1; display: flex; flex-direction: column; justify-content: center; }
-      .mm-tema-info strong { display: block; font-family: var(--font-display); font-size: 1.08rem; color: #fff; line-height: 1.3; }
-      .mm-tema-info small { display: block; margin-top: 8px; font-size: .66rem; letter-spacing: .14em; text-transform: uppercase; color: var(--gold); }
+      /* ── MENÚ DE TEMAS: pestañas de vitral, fijas bajo el encabezado ──
+         Cada pestaña es un arquito con su medallón (la portada del tema en un
+         círculo con filete dorado) y el nombre corto. Reemplazó a los arcos
+         grandes el 19-nov-2026 para acortar la página. */
+      .mm-menu { position: sticky; top: 68px; z-index: 40; margin-top: 0; padding: 12px 24px 0;
+        background: linear-gradient(180deg, rgba(var(--mm-lista-2-rgb), .94), rgba(var(--mm-lista-2-rgb), .82));
+        -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px);
+        border-top: 1px solid rgba(var(--gold-rgb), .18); border-bottom: 1px solid rgba(var(--gold-rgb), .35);
+        box-shadow: 0 10px 30px rgba(0,0,0,.35); }
+      /* Centrado con márgenes automáticos: si no entra, empieza desde el borde y se desliza
+         (con justify-content: center la primera pestaña quedaba cortada a la izquierda). */
+      .mm-temas > .mm-tema:first-child { margin-left: auto; }
+      .mm-temas > .mm-tema:last-child { margin-right: auto; }
+      .mm-temas { max-width: 1360px; margin: 0 auto; display: flex; justify-content: flex-start; gap: 6px;
+        overflow-x: auto; scrollbar-width: none; scroll-snap-type: x proximity; }
+      .mm-temas::-webkit-scrollbar { display: none; }
+      .mm-tema { flex: 0 0 auto; scroll-snap-align: start; display: flex; align-items: center; gap: 10px; cursor: pointer;
+        font: inherit; color: rgba(255,255,255,.72); padding: 9px 16px 11px 9px; margin-bottom: -1px;
+        border: 1px solid rgba(var(--gold-rgb), .22); border-bottom-color: transparent; border-radius: 26px 26px 0 0;
+        background: linear-gradient(180deg, var(--mm-arco-1), var(--mm-arco-3));
+        transition: color .25s, border-color .25s, box-shadow .25s, transform .25s; }
+      .mm-tema-medalla { position: relative; width: 34px; height: 34px; border-radius: 50%; overflow: hidden; flex-shrink: 0;
+        box-shadow: 0 0 0 1px rgba(var(--gold-rgb), .55), 0 0 0 3px rgba(var(--gold-rgb), .12); }
+      .mm-tema-medalla img { width: 100%; height: 100%; object-fit: cover; display: block; filter: saturate(.85) brightness(.85); transition: filter .3s; }
+      .mm-tema-nombre { font-family: var(--font-display); font-size: .94rem; letter-spacing: .02em; white-space: nowrap; }
+      .mm-tema-texto { display: flex; flex-direction: column; align-items: flex-start; gap: 2px; text-align: left; }
+      .mm-tema-rotulo { font-size: .56rem; letter-spacing: .16em; text-transform: uppercase; color: rgba(255,255,255,.45); white-space: nowrap; }
+      .mm-tema--destacado .mm-tema-rotulo { color: var(--gold); }
+      .mm-tema--destacado { border-color: rgba(var(--gold-rgb), .5); }
+      .mm-tema-medalla { width: 38px; height: 38px; }
+      .mm-tema:hover { color: var(--gold); border-color: rgba(var(--gold-rgb), .5); }
+      .mm-tema[aria-pressed="true"] { color: #fff; border-color: var(--gold); border-bottom-color: rgba(var(--mm-lista-2-rgb), 1);
+        background: radial-gradient(ellipse 80% 120% at 50% 0%, rgba(var(--gold-rgb), .22), transparent 70%), linear-gradient(180deg, var(--mm-arco-1), var(--mm-arco-2));
+        box-shadow: 0 -8px 26px rgba(var(--gold-rgb), .16); transform: translateY(-2px); }
+      .mm-tema[aria-pressed="true"] .mm-tema-medalla img, .mm-tema:hover .mm-tema-medalla img { filter: none; }
+      .mm-tema[aria-pressed="true"] .mm-tema-rotulo { color: var(--gold); }
+      .mm-tema:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+      #serie, #series-mm, #fuente { scroll-margin-top: 140px; }
+      #series-mm, #serie { padding-top: 46px; }
+
+      /* ── SERIES Y PELÍCULAS: tarjetas que se ordenan ── */
+      .mm-orden { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 6px; margin: -14px 0 26px; font-size: .7rem; letter-spacing: .16em; text-transform: uppercase; color: rgba(255,255,255,.5); }
+      .mm-orden span { margin-right: 6px; }
+      .mm-orden button { font: inherit; letter-spacing: .1em; color: rgba(255,255,255,.75); background: transparent; border: 1px solid rgba(255,255,255,.2);
+        border-radius: 999px; padding: 6px 14px; cursor: pointer; transition: border-color .2s, color .2s, background .2s; }
+      .mm-orden button:hover { border-color: var(--gold); color: var(--gold); }
+      .mm-orden button[aria-pressed="true"] { background: var(--gold); border-color: var(--gold); color: var(--dark); }
+      .mm-piezas { display: grid; grid-template-columns: repeat(auto-fill, minmax(165px, 1fr)); gap: 16px; }
+      .mm-pieza { display: flex; flex-direction: column; padding: 0; text-align: left; font: inherit; color: inherit; cursor: pointer; overflow: hidden;
+        background: linear-gradient(180deg, var(--mm-arco-2), var(--mm-arco-3)); border: 1px solid rgba(var(--gold-rgb), .3); border-radius: 8px;
+        box-shadow: 0 10px 28px rgba(0,0,0,.45); transition: transform .3s, border-color .3s, box-shadow .3s; }
+      .mm-pieza:hover, .mm-pieza[aria-pressed="true"] { transform: translateY(-4px); border-color: var(--gold); box-shadow: 0 16px 36px rgba(0,0,0,.55), 0 0 26px rgba(var(--gold-rgb), .18); }
+      .mm-pieza:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; }
+      .mm-pieza-img { position: relative; display: block; aspect-ratio: 16/9; overflow: hidden; }
+      .mm-pieza-img img { width: 100%; height: 100%; object-fit: cover; display: block; filter: saturate(.9) brightness(.9); transition: transform .6s, filter .3s; }
+      .mm-pieza:hover .mm-pieza-img img { transform: scale(1.04); filter: none; }
+      .mm-pieza-tipo { position: absolute; left: 10px; top: 10px; font-size: 9.5px; letter-spacing: .2em; text-transform: uppercase; color: var(--dark);
+        background: var(--gold); padding: 3px 8px; border-radius: 3px; }
+      .mm-pieza-info { display: block; padding: 11px 12px 13px; }
+      .mm-pieza-info strong { display: block; font-family: var(--font-display); font-size: .9rem; color: #fff; line-height: 1.3; }
+      .mm-temporada { list-style: none; padding: 12px 14px 4px; font-size: .64rem; letter-spacing: .2em; text-transform: uppercase; color: var(--gold); }
+      .mm-pieza-info small { display: block; margin-top: 7px; font-size: .64rem; letter-spacing: .14em; text-transform: uppercase; color: var(--gold); }
+      @media (max-width: 560px) {
+        .mm-piezas { grid-template-columns: repeat(3, 1fr); gap: 8px; }
+        .mm-pieza-info { padding: 7px 7px 9px; }
+        .mm-pieza-info strong { font-size: .7rem; line-height: 1.25; }
+        .mm-pieza-info small { display: none; }
+        .mm-pieza-tipo { left: 4px; top: 4px; font-size: 7px; letter-spacing: .1em; padding: 1px 4px; }
+      }
 
       /* ── LA SERIE ── */
       .mm-serie-head { display: grid; grid-template-columns: auto 1fr; gap: 28px; align-items: center; margin-bottom: 34px; }
@@ -264,6 +309,8 @@
       /* ── FUENTE ── */
       /* Fuente sin logo (Catequesis): una sola columna, debajo de la de EWTN. */
       .mm-fuente.mm-fuente-sola { grid-template-columns: 1fr; margin-top: 22px; }
+      .mm-fuente[hidden], #series-mm[hidden] { display: none; }
+      #fuente .mm-fuente.mm-primera { margin-top: 0; }
       .mm-fuente { display: grid; grid-template-columns: 300px 1fr; border-radius: 16px; overflow: hidden;
         border: 1px solid rgba(var(--gold-rgb), .25); background: linear-gradient(120deg, var(--mm-fuente), var(--mm-fondo-2));
         box-shadow: 0 20px 60px rgba(0,0,0,.5); }
@@ -282,16 +329,21 @@
       .mm-rev.visto { opacity: 1; transform: none; }
 
       @media (max-width: 960px) {
+        .mm-destacados { grid-template-columns: 1fr; max-width: 640px; }
         .mm-teatro { grid-template-columns: 1fr; }
-        .mm-lista { max-height: none; }
+        .mm-lista { max-height: 430px; }
       }
       @media (max-width: 760px) {
         .mm-hero { padding: 120px 0 64px; min-height: 88svh; }
         .mm-hero-inner, .mm-sec { padding-left: 16px; padding-right: 16px; }
         .mm-sec { padding-top: 64px; }
-        .mm-destacado { grid-template-columns: 1fr; }
-        .mm-destacado-body { padding: 16px 18px 18px; }
-        .mm-destacado-img { margin: 10px 10px 0; }
+        .mm-destacados { grid-template-columns: 1fr; gap: 12px; }
+        .mm-destacado { grid-template-columns: 116px 1fr; }
+        .mm-destacado-body { padding: 10px 14px 12px; gap: 3px; }
+        .mm-destacado-body h2 { font-size: .95rem; }
+        .mm-destacado-body p { font-size: .72rem; }
+        .mm-destacado-cta { display: none; }
+        .mm-destacado-img { margin: 10px 0 10px 10px; }
         .mm-serie-head { grid-template-columns: 1fr; gap: 6px; }
         .mm-serie-num { font-size: 56px; }
         .mm-play { width: 72px; height: 72px; margin: -36px 0 0 -36px; }
@@ -302,7 +354,13 @@
         .mm-fuente.mm-fuente-sola { grid-template-columns: 1fr; }
         .mm-fuente-logo { padding: 18px; }
         .mm-fuente-body { padding: 22px 20px; }
-        .mm-tema { width: min(330px, 100%); }
+        .mm-menu { padding: 10px 0 0; }
+        .mm-temas { justify-content: flex-start; padding: 0 12px; }
+        .mm-tema { padding: 7px 14px 9px 8px; gap: 8px; }
+        .mm-tema-medalla { width: 30px; height: 30px; }
+        .mm-tema-rotulo { font-size: .5rem; letter-spacing: .12em; }
+        .mm-tema-nombre { font-size: .86rem; }
+        #serie, #series-mm, #fuente { scroll-margin-top: 126px; }
         .mm-scroll { display: none; }
       }
       @media (prefers-reduced-motion: reduce) {
@@ -358,27 +416,53 @@
                 <h1>Multimedia</h1>
                 <p class="mm-hero-sub">Series, documentales, catequesis y entrevistas de canales católicos, ordenados por tema. Cada capítulo se ve acá mismo, en el orden en que fue emitido.</p>
 
-                <a class="mm-destacado" href="#reforma-1" data-tema="reforma">
-                    <div class="mm-destacado-img"><img src="Recursos/Im%C3%A1genes/multimedia/reforma-ng6xymATRls.webp" alt="" width="960" height="540"></div>
-                    <div class="mm-destacado-body">
-                        <span class="mm-badge">Tema destacado</span>
-                        <h2>La herejía protestante explicada por la Santa Iglesia Católica</h2>
-                        <p>La Reforma · serie de EWTN · 12 capítulos</p>
-                        <span class="mm-destacado-cta">Ver la serie →</span>
-                    </div>
-                </a>
+                <!-- Dos destacados lado a lado (19-nov-2026): La Reforma y «Nosotros». -->
+                <div class="mm-destacados">
+                    <a class="mm-destacado" href="#reforma-1" data-tema="reforma">
+                        <div class="mm-destacado-img"><img src="Recursos/Im%C3%A1genes/multimedia/reforma-ng6xymATRls.webp" alt="" width="960" height="540"></div>
+                        <div class="mm-destacado-body">
+                            <span class="mm-badge">Destacado</span>
+                            <h2>La herejía protestante explicada por la Santa Iglesia Católica</h2>
+                            <p>La Reforma · serie de EWTN · 12 capítulos</p>
+                            <span class="mm-destacado-cta">Ver la serie →</span>
+                        </div>
+                    </a>
+                    <a class="mm-destacado" href="#nosotros-1" data-tema="nosotros">
+                        <div class="mm-destacado-img"><img src="Recursos/Im%C3%A1genes/multimedia/nosotros-5XoKGVanhZE.webp" alt="" width="960" height="540"></div>
+                        <div class="mm-destacado-body">
+                            <span class="mm-badge">Destacado</span>
+                            <h2>«Nosotros»: palestra ascética para hombres</h2>
+                            <p>P. Antonio J. Gómez Mir · Stat Crux · 34 charlas</p>
+                            <span class="mm-destacado-cta">Ver las charlas →</span>
+                        </div>
+                    </a>
+                </div>
             </div>
             <a class="mm-scroll" href="#temas-mm">Ver los temas<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 6l6 6 6-6"/><path d="M6 12l6 6 6-6"/></svg></a>
         </section>
 
-        <section class="mm-sec" id="temas-mm">
+        <!-- Menú de pestañas (19-nov-2026): reemplaza a los arcos grandes, que alargaban
+             mucho la página. Queda fijo bajo el encabezado mientras se baja. -->
+        <nav class="mm-menu" id="temas-mm" aria-label="Temas">
+            <div class="mm-temas" id="mm-temas" role="group" aria-label="Elegir tema">
+                <!-- Las pestañas las arma el script desde TEMAS -->
+            </div>
+        </nav>
+
+        <section class="mm-sec" id="series-mm" hidden>
             <div class="mm-sec-head mm-rev">
                 <div class="mm-orn" aria-hidden="true"><span>✠&#xFE0E;</span></div>
-                <h2>Por tema</h2>
-                <p>Cada tema reúne una serie completa o una selección de videos de páginas oficiales de la Iglesia y de canales católicos.</p>
+                <h2>Series y películas</h2>
+                <p>Series, documentales y películas de EWTN, de la historia de la Iglesia a la apologética. Cada una se ve acá mismo, capítulo por capítulo.</p>
             </div>
-            <div class="mm-temas mm-rev" id="mm-temas" role="group" aria-label="Elegir tema">
-                <!-- Las tarjetas las arma el script desde TEMAS -->
+            <div class="mm-orden mm-rev" id="mm-orden" role="group" aria-label="Ordenar">
+                <span>Ordenar</span>
+                <button type="button" data-orden="pop" aria-pressed="true">Destacadas</button>
+                <button type="button" data-orden="az" aria-pressed="false">Nombre A–Z</button>
+                <button type="button" data-orden="za" aria-pressed="false">Nombre Z–A</button>
+            </div>
+            <div class="mm-piezas mm-rev" id="mm-piezas">
+                <!-- Las tarjetas las arma el script desde SERIES -->
             </div>
         </section>
 
@@ -426,19 +510,20 @@
                 <div class="mm-orn" aria-hidden="true"><span>✠&#xFE0E;</span></div>
                 <h2>De dónde vienen</h2>
             </div>
-            <div class="mm-fuente mm-rev">
+            <div data-para="reforma series" class="mm-fuente mm-rev">
                 <div class="mm-fuente-logo"><img src="Recursos/Im%C3%A1genes/ewtn.webp" alt="EWTN" width="1600" height="800" loading="lazy"></div>
                 <div class="mm-fuente-body">
                     <span class="mm-badge">Fuente oficial</span>
                     <h3>EWTN en español</h3>
-                    <p>Las tres series son de EWTN, la red de televisión católica fundada por la Madre Angélica. Los capítulos los publica EWTN España: La Reforma está en su canal de YouTube y en Vimeo; Doctores de la Iglesia y Chesterton Station, en Vimeo. Cada capítulo tiene su ficha en EWTN a la carta.</p>
+                    <p>La Reforma y todas las series y películas son de EWTN, la red de televisión católica fundada por la Madre Angélica. Las publica EWTN España: La Reforma está en su canal de YouTube y en Vimeo, y el resto en Vimeo. Cada capítulo tiene su ficha en EWTN a la carta, y en su web está la programación completa de TV a la carta.</p>
                     <div class="mm-acciones">
                         <a class="mm-btn mm-btn-oro" href="https://www.ewtn.com/es" target="_blank" rel="noopener">ewtn.com/es</a>
                         <a class="mm-btn mm-btn-linea" href="https://ewtnalacarta.substack.com/" target="_blank" rel="noopener">EWTN a la carta</a>
+                        <a class="mm-btn mm-btn-linea" href="https://www.ewtn.es/tv-a-la-carta" target="_blank" rel="noopener">TV a la carta</a>
                     </div>
                 </div>
             </div>
-            <div class="mm-fuente mm-fuente-sola mm-rev">
+            <div data-para="catequesis" class="mm-fuente mm-fuente-sola mm-rev">
                 <div class="mm-fuente-body">
                     <span class="mm-badge">Catequesis</span>
                     <h3>Te Explico la Biblia Oficial</h3>
@@ -448,7 +533,7 @@
                     </div>
                 </div>
             </div>
-            <div class="mm-fuente mm-fuente-sola mm-rev">
+            <div data-para="catequesis" class="mm-fuente mm-fuente-sola mm-rev">
                 <div class="mm-fuente-body">
                     <span class="mm-badge">Catequesis</span>
                     <h3>P. Jorge Loring – Para Salvarte</h3>
@@ -458,7 +543,18 @@
                     </div>
                 </div>
             </div>
-            <div class="mm-fuente mm-fuente-sola mm-rev">
+            <div data-para="nosotros" class="mm-fuente mm-fuente-sola mm-rev">
+                <div class="mm-fuente-body">
+                    <span class="mm-badge">Nosotros</span>
+                    <h3>Stat Crux</h3>
+                    <p>Las charlas de «Nosotros. Palestra ascética para hombres» son del canal de YouTube Stat Crux, del P. Antonio J. Gómez Mir, párroco de Sant Jordi de Vallcarca, en Barcelona. Los vídeos se ven acá con el reproductor de YouTube.</p>
+                    <div class="mm-acciones">
+                        <a class="mm-btn mm-btn-linea" href="https://www.youtube.com/@STATCRUX" target="_blank" rel="noopener">El canal en YouTube</a>
+                        <a class="mm-btn mm-btn-linea" href="https://www.youtube.com/playlist?list=PLHRUwsVHEYMsYyE32IeTsdSjVthq--EsE" target="_blank" rel="noopener">La lista completa</a>
+                    </div>
+                </div>
+            </div>
+            <div data-para="recomendados" class="mm-fuente mm-fuente-sola mm-rev">
                 <div class="mm-fuente-body">
                     <span class="mm-badge">Libros y conversaciones</span>
                     <h3>Que no te la cuenten</h3>
@@ -497,6 +593,8 @@
     var TEMAS = [
       {
         slug: 'reforma',
+        corto: 'La Reforma',
+        rotulo: 'EWTN',
         nombre: 'La herejía protestante explicada por la Santa Iglesia Católica',
         serie: 'La Reforma',
         etiqueta: 'la-reforma',
@@ -519,33 +617,55 @@
         ]
       },
       {
-        slug: 'doctores',
-        nombre: 'Doctores de la Iglesia',
-        serie: 'Doctores de la Iglesia',
-        etiqueta: 'doctores-de-la-iglesia',
-        portada: 'doctores-1091297052.webp',
-        desc: 'Serie de EWTN sobre los santos que dieron forma a la Iglesia tal como es hoy: Atanasio, Catalina de Siena, León Magno, Agustín y Ambrosio.',
+        // «Nosotros» (19-nov-2026): la lista de reproducción del P. Antonio J. Gómez Mir,
+        // párroco de Sant Jordi de Vallcarca (Barcelona), en su canal Stat Crux.
+        // Gabriel la quiso en un lugar destacado.
+        slug: 'nosotros',
+        corto: 'Nosotros: palestra ascética',
+        rotulo: 'Stat Crux',
+        nombre: '«Nosotros»: palestra ascética para hombres',
+        serie: '«Nosotros»: palestra ascética para hombres',
+        destacado: true,
+        canal: 'Stat Crux',
+        canalUrl: 'https://www.youtube.com/playlist?list=PLHRUwsVHEYMsYyE32IeTsdSjVthq--EsE',
+        unidad: ['charla', 'charlas'],
+        portada: 'nosotros-5XoKGVanhZE.webp',
+        desc: 'Charlas del P. Antonio J. Gómez Mir, párroco de Sant Jordi de Vallcarca, en Barcelona, sobre la virtud y el combate espiritual del hombre católico: la mortificación, la disciplina, el caballero cristiano, la paternidad, los enemigos del alma y el desierto. De ellas nació su libro «Nosotros».',
         caps: [
-          { vm: '1091301490', t: 'San Atanasio de Alejandría', s: '', f: 'capitulo-1-san-atanasio-de-alejandria', d: 1652 },
-          { vm: '1091303803', t: 'Santa Catalina de Siena', s: 'Desde muy joven, santa Catalina dedicó su vida a Dios.', f: 'capitulo-2-santa-catalina-de-siena', d: 1713 },
-          { vm: '1091305864', t: 'Papa San León I, el Grande', s: 'La vida y el legado del papa san León Magno, una de las figuras titánicas de la historia de la Iglesia.', f: 'capitulo-3-papa-san-leon-i-el-grande', d: 1683 },
-          { vm: '1091294589', t: 'San Agustín de Hipona (parte 1)', s: 'El influyente teólogo y filósofo san Agustín de Hipona, primera parte.', f: 'capitulo-4-st-agustin-de-hipona-pt1', d: 1667 },
-          { vm: '1091297052', t: 'San Agustín de Hipona (parte 2)', s: 'San Agustín de Hipona, teólogo y filósofo, segunda parte.', f: 'capitulo-5-st-agustin-de-hipona-pt2', d: 1715 },
-          { vm: '1091299338', t: 'San Ambrosio de Milán', s: 'Destinado a una carrera política, san Ambrosio de Milán hizo del servicio a Dios la misión de su vida.', f: 'capitulo-6-san-ambrosio-de-milan', d: 1709 }
-        ]
-      },
-      {
-        slug: 'chesterton',
-        nombre: 'Chesterton Station',
-        serie: 'Chesterton Station',
-        etiqueta: 'chesterton-station',
-        portada: 'chesterton-1092277394.webp',
-        desc: 'Al llegar temprano a una estación de tren desierta, Chesterton reflexiona sobre su vida, los santos y su asombro y gratitud por los muchos dones de Dios. Serie de EWTN.',
-        caps: [
-          { vm: '1092274564', t: 'La llave de oro (parte 1)', s: '', f: 'capitulo-1-la-llave-de-oro-parte', d: 1702 },
-          { vm: '1092277394', t: 'La llave de oro (parte 2)', s: '', f: 'capitulo-2-la-llave-de-oro-parte', d: 1712 },
-          { vm: '1092280696', t: 'Vaquero en juego', s: '', f: 'capitulo-3-vaquero-en-juego', d: 1692 },
-          { vm: '1092283000', t: 'Esconderse y buscar', s: '', f: 'capitulo-4-esconderse-y-buscar', d: 1712 }
+          { yt: "5XoKGVanhZE", t: "Masculinidad y virtud", s: '', d: 1316 },
+          { yt: "rErnbDopJFk", t: "La vida es milicia", s: '', d: 1767 },
+          { yt: "zbafCh6jrYU", t: "Lucha ascética", s: '', d: 1792 },
+          { yt: "eg_d9y5fRmM", t: "Mortificación", s: '', d: 1405 },
+          { yt: "Sdq3Ko3WnHs", t: "Mortificación corporal", s: '', d: 1292 },
+          { yt: "wRiIoro1_TE", t: "San Pablo: combatir el buen combate", s: '', d: 1819 },
+          { yt: "8FdWsT7t-aI", t: "El caballero cristiano en la Edad Media", s: '', d: 1997 },
+          { yt: "6DVK26i9R7w", t: "Vocación y misión del hombre católico", s: '', d: 2190 },
+          { yt: "jr-2GDHF3LE", t: "Orden y disciplina", s: '', d: 2278 },
+          { yt: "yKQkWtdgsHo", t: "Espíritu templario", s: '', d: 2228 },
+          { yt: "ok5uQHzB8Xg", t: "«Virtus»: creciendo en la virtud", s: '', d: 2301 },
+          { yt: "ChVLyIOZUBs", t: "El hombre herido: la frustración masculina", s: '', d: 1620 },
+          { yt: "8k6r-PkgDKU", t: "San Ignacio de Loyola, caballero cristiano", s: '', d: 2549 },
+          { yt: "gQCQCTSX5-Y", t: "Buscando un padre: paternidad y masculinidad", s: '', d: 2340 },
+          { yt: "_1CLl4HUBTs", t: "El hombre, esposo y padre, defensor de la familia", s: '', d: 1996 },
+          { yt: "ssqwpwCpqKs", t: "Modelos, arquetipos, héroes y santos", s: '', d: 2041 },
+          { yt: "7ljomBZ9qPo", t: "Una guerra santa: violencia y combate cristiano", s: '', d: 2529 },
+          { yt: "3otzcBgLGXw", t: "San José: masculinidad y virilidad", s: '', d: 2053 },
+          { yt: "8rnEyzHKX4U", t: "Los enemigos del alma (1): el mundo", s: '', d: 3029 },
+          { yt: "7eJwxQXCoCU", t: "Los enemigos del alma (2): el demonio", s: '', d: 3059 },
+          { yt: "po--GYOA5E0", t: "Los enemigos del alma (3): la carne", s: '', d: 3941 },
+          { yt: "jZBdhg3F6P4", t: "El hombre sin raíces (el hombre moderno, 1)", s: '', d: 2875 },
+          { yt: "LHQGp2uZCwE", t: "Siete síntomas del hombre afeminado", s: '', d: 3018 },
+          { yt: "vfZpL0YEZ9k", t: "Firmes en la brecha: un obispo exige masculinidad", s: '', d: 2460 },
+          { yt: "-m6A4PU4dr0", t: "El libro «Nosotros», de Homo Legens", s: '', d: 725 },
+          { yt: "yZVBkXV0LuQ", t: "El hombre hedonista y consumista (el hombre moderno, 2)", s: '', d: 3224 },
+          { yt: "MBfDxF0QpVY", t: "Presentación del libro «Nosotros»", s: '', d: 2962 },
+          { yt: "sKjdg8Gh0Ak", t: "Amigos de la cruz en Cuaresma", s: '', d: 3207 },
+          { yt: "WMK_8DVc2cc", t: "Soledad: el desierto como lugar de entrenamiento", s: '', d: 3289 },
+          { yt: "yiFYd46o6yU", t: "Desierto y combate interior", s: '', d: 2827 },
+          { yt: "eSgf3lJDBxU", t: "Severidad y gravedad: virtudes masculinas a recuperar", s: '', d: 3920 },
+          { yt: "-fopGa47HWQ", t: "Estoy solo (breve)", s: '', d: 179 },
+          { yt: "iwzpQ_oZZzM", t: "Mortificación (breve)", s: '', d: 173 },
+          { yt: "nRk5o5phH7Y", t: "Atletismo cristiano", s: '', d: 3090 }
         ]
       },
       {
@@ -553,6 +673,8 @@
         // cada tema puede nombrar su canal (canal, canalUrl) y cómo se llama cada
         // pieza (unidad). Sin ficha de EWTN el botón «Ficha en EWTN» se oculta.
         slug: 'catequesis',
+        corto: 'Catequesis',
+        rotulo: 'Varios canales',
         nombre: 'Catequesis',
         serie: 'Catequesis',
         // Cada catequesis puede venir de un canal distinto: el crédito de cada una
@@ -571,6 +693,8 @@
         // recomienda; por ahora, autores que presentan su libro. Cada vídeo puede
         // llevar enlaces para conseguir el libro (l: [texto, dirección]).
         slug: 'recomendados',
+        corto: 'Libros y conversaciones',
+        rotulo: 'Entrevistas',
         nombre: 'Libros y conversaciones',
         serie: 'Libros y conversaciones',
         canal: 'Que no te la cuenten',
@@ -587,26 +711,311 @@
       }
     ];
 
+    // Series y películas de EWTN (19-nov-2026): Gabriel pidió reunir acá Doctores de la
+    // Iglesia y Chesterton Station con otras series y películas de EWTN a la carta, y
+    // poder ordenarlas por nombre o por destacadas. «pop» es el orden de «Destacadas»:
+    // de lo que más se busca a lo menos, a criterio de Claude. «n» es el número de
+    // capítulo de EWTN cuando no empieza en 1 o salta alguno (Para salvarte no
+    // publicó el 10 ni el 21; Battle Ready 18 es privado en Vimeo). «h» es la clave de
+    // un vídeo de Vimeo no listado; «vp», un vídeo de VideoPress.
+    var SERIES = [
+      {
+        slug: 'doctores',
+        tipo: 'Serie', pop: 11,
+        nombre: 'Doctores de la Iglesia',
+        serie: 'Doctores de la Iglesia',
+        etiqueta: 'doctores-de-la-iglesia',
+        portada: 'doctores-1091297052.webp',
+        desc: 'Serie de EWTN sobre los santos que dieron forma a la Iglesia tal como es hoy: Atanasio, Catalina de Siena, León Magno, Agustín y Ambrosio.',
+        caps: [
+          { vm: '1091301490', t: 'San Atanasio de Alejandría', s: '', f: 'capitulo-1-san-atanasio-de-alejandria', d: 1652 },
+          { vm: '1091303803', t: 'Santa Catalina de Siena', s: 'Desde muy joven, santa Catalina dedicó su vida a Dios.', f: 'capitulo-2-santa-catalina-de-siena', d: 1713 },
+          { vm: '1091305864', t: 'Papa San León I, el Grande', s: 'La vida y el legado del papa san León Magno, una de las figuras titánicas de la historia de la Iglesia.', f: 'capitulo-3-papa-san-leon-i-el-grande', d: 1683 },
+          { vm: '1091294589', t: 'San Agustín de Hipona (parte 1)', s: 'El influyente teólogo y filósofo san Agustín de Hipona, primera parte.', f: 'capitulo-4-st-agustin-de-hipona-pt1', d: 1667 },
+          { vm: '1091297052', t: 'San Agustín de Hipona (parte 2)', s: 'San Agustín de Hipona, teólogo y filósofo, segunda parte.', f: 'capitulo-5-st-agustin-de-hipona-pt2', d: 1715 },
+          { vm: '1091299338', t: 'San Ambrosio de Milán', s: 'Destinado a una carrera política, san Ambrosio de Milán hizo del servicio a Dios la misión de su vida.', f: 'capitulo-6-san-ambrosio-de-milan', d: 1709 }
+        ]
+      },
+      {
+        slug: 'chesterton',
+        tipo: 'Serie', pop: 15,
+        nombre: 'Chesterton Station',
+        serie: 'Chesterton Station',
+        etiqueta: 'chesterton-station',
+        portada: 'chesterton-1092277394.webp',
+        desc: 'Al llegar temprano a una estación de tren desierta, Chesterton reflexiona sobre su vida, los santos y su asombro y gratitud por los muchos dones de Dios. Serie de EWTN.',
+        caps: [
+          { vm: '1092274564', t: 'La llave de oro (parte 1)', s: '', f: 'capitulo-1-la-llave-de-oro-parte', d: 1702 },
+          { vm: '1092277394', t: 'La llave de oro (parte 2)', s: '', f: 'capitulo-2-la-llave-de-oro-parte', d: 1712 },
+          { vm: '1092280696', t: 'Vaquero en juego', s: '', f: 'capitulo-3-vaquero-en-juego', d: 1692 },
+          { vm: '1092283000', t: 'Esconderse y buscar', s: '', f: 'capitulo-4-esconderse-y-buscar', d: 1712 }
+        ]
+      },
+      {
+        slug: "onyx",
+        nombre: "ONYX: Los Reyes del Grial",
+        serie: "ONYX: Los Reyes del Grial",
+        tipo: "Película",
+        pop: 1,
+        etiqueta: "onyx",
+        portada: "onyx-1237627755.webp",
+        desc: "Película de aventuras con Jim Caviezel, Maria de Medeiros y Anthony Howell: un grupo de personajes busca la verdad detrás del Grial entre secretos, pistas y antiguos misterios, por escenarios históricos y religiosos.",
+        unidad: ['película', 'películas'],
+        caps: [
+          { vm: "1237627755", t: "ONYX: Los Reyes del Grial", s: "La historia sigue a un grupo de personajes que se adentra en una peligrosa búsqueda llena de secretos, pistas y antiguos misterios, recorriendo escenarios históricos y religiosos mientras intentan descubrir la verdad detrás del Grial.", f: "onyx-los-reyes-del-grial", d: 5072 }
+        ]
+      },
+      {
+        slug: "tolkien",
+        nombre: "El Señor de los Anillos de Tolkien",
+        serie: "El Señor de los Anillos de Tolkien",
+        tipo: "Documental",
+        pop: 2,
+        etiqueta: "el-senor-de-los-anillos-de-tolkien",
+        portada: "tolkien-1088141266.webp",
+        desc: "El escritor Joseph Pearce muestra cómo J. R. R. Tolkien llevó a su saga verdades de la fe católica: la fantasía como camino hacia el misterio, la muerte y la inmortalidad, y los hombres comunes que se vuelven héroes.",
+        unidad: ['parte', 'partes'],
+        caps: [
+          { vm: "1088141266", t: "El rostro de la fantasía", s: "A través de sus escritos, J.R.R. Tolkien logró explorar algunas de las verdades más profundas de la fe católica, y en el video casero de EWTN, el autor y académico Joseph Pearce revela cómo se puede utilizar el género de fantasía para explicar los misterios de la fe.", f: "el-senor-de-los-anillos-de-tolkien", d: 3511 },
+          { vm: "1088148453", t: "Elfos, hobbits y hombres", s: "El autor y erudito Joseph Pearce analiza los temas católicos profundamente arraigados de la muerte y la inmortalidad en la saga épica \"El Señor de los Anillos\" de Tolkien.", f: "el-senor-de-los-anillos-de-tolkien-e12", d: 3411 }
+        ]
+      },
+      {
+        slug: "para-salvarte",
+        nombre: "Para salvarte",
+        serie: "Para salvarte",
+        tipo: "Serie",
+        pop: 3,
+        etiqueta: "para-salvarte-temporada-1",
+        portada: "para-salvarte-1092910461.webp",
+        desc: "El P. Jorge Loring, jesuita, explica la fe con la ciencia y la historia en dos temporadas: la astronomía, la Sábana Santa, la arqueología, la divinidad de Cristo, la confesión y la Virgen; y después el ateísmo, la clonación, la eutanasia, el aborto, la misa, el pecado, el cielo y el infierno.",
+        temporadas: 2,
+        caps: [
+          { tp: 1, vm: "1092910461", n: 1, t: "La Ciencia y la Fe, frente a frente", s: "Donde el sacerdote jesuita Jorge Loring enfrenta a la Ciencia y la Fe", f: "capitulo-1-la-ciencia-y-la-fe-frente", d: 1471 },
+          { tp: 1, vm: "1092911583", n: 2, t: "Astronomía lleva a Dios", s: "Capítulo 2 Donde el sacerdote jesuita Jorge Loring trata el tema de la Astronomia desde la mirada de la Fe", f: "capitulo-2-astronomia-lleva-a-dios", d: 1338 },
+          { tp: 1, vm: "1110064842", n: 3, t: "Sábana Santa", s: "Donde el sacerdote jesuita Jorge Loring trata el tema de los misterios de la Sábana Santa", f: "capitulo-3-sabana-santa", d: 1632 },
+          { tp: 1, vm: "1092912551", n: 4, t: "Arqueología", s: "Donde el sacerdote jesuita Jorge Loring habla sobre la Arqueología y sus pecularidades.", f: "capitulo-4-arqueologia", d: 1605 },
+          { tp: 1, vm: "1092913674", n: 5, t: "Razones para ser cristiano", s: "Donde el sacerdote jesuita Jorge Loring apuesta por las razones para ser cristiano hoy en día.", f: "capitulo-5-razones-para-ser-cristiano", d: 1713 },
+          { tp: 1, vm: "1092914985", n: 6, t: "Divinidad de Cristo", s: "Donde el sacerdote jesuita Jorge Loring nos habla sobre la Divinidad de Cristo", f: "capitulo-6-divinidad-de-cristo", d: 1671 },
+          { tp: 1, vm: "1092916172", n: 7, t: "Jesucristo, el más Grande", s: "Donde el sacerdote jesuita Jorge Loring nos explica porque Jesús es el más Grande.", f: "capitulo-7-jesucristo-el-mas-grande", d: 1700 },
+          { tp: 1, vm: "1092917363", n: 8, t: "Confesión", s: "Donde el sacerdote jesuita Jorge Loring nos explica el sacramento de la reconciliación.", f: "capitulo-8-confesion", d: 1663 },
+          { tp: 1, vm: "1092856960", n: 9, t: "Confesión en la hora de la muerte", s: "Donde el sacerdote jesuita Jorge Loring relata la importancia de la confesión antes de la muerte.", f: "capitulo-9-confesion-en-la-hora-de", d: 1660 },
+          { tp: 1, vm: "1092858394", n: 11, t: "María", s: "Donde el sacerdote jesuita Jorge Loring habla sobre nuestra madre, la Virgen María.", f: "capitulo-11-maria", d: 1630 },
+          { tp: 1, vm: "1092859765", n: 12, t: "María medianera", s: "Donde el sacerdote jesuita Jorge Loring Trata el tema de la mediación de María con Jesús.", f: "capitulo-12-maria-medianera", d: 1640 },
+          { tp: 1, vm: "1110066204", h: "7628a6a1a0", n: 13, t: "Santo Grial", s: "Donde el sacerdote jesuita Jorge Loring nos desvela el misterio del Santo Grial.", f: "capitulo-13-santo-grial", d: 1671 },
+          { tp: 2, vm: "1092860988", n: 14, t: "Ciencia y Fe no se contradicen", s: "Donde el sacerdote jesuita Jorge Loring expone porque la Ciencia y la Fe no se contradicen", f: "capitulo-14-ciencia-y-fe-no-se-contradicen", d: 1468 },
+          { tp: 2, vm: "1092918649", n: 15, t: "Ateísmo y Fe", s: "Donde el sacerdote jesuita Jorge Loring trata el tema del Ateísmo y la Fe", f: "capitulo-15-ateismo-y-fe", d: 1519 },
+          { tp: 2, vm: "1092919631", n: 16, t: "Caminos que llevan al ateísmo", s: "Donde el sacerdote jesuita Jorge Loring trata el tema del ateísmo.", f: "capitulo-16-caminos-que-llevan-al", d: 1611 },
+          { tp: 2, vm: "1092920638", n: 17, t: "La clonación es una monstruosidad", s: "Donde el sacerdote jesuita Jorge Loring habla sobre el controvertido tema de la clonación", f: "capitulo-17-la-clonacion-es-una-monstruosidad", d: 1060 },
+          { tp: 2, vm: "1092921342", n: 18, t: "Eutanasia, un asesinato legal", s: "Donde el sacerdote jesuita Jorge Loring apuesta por la no Eutanasia.", f: "capitulo-18-eutanasia-un-asesinato", d: 1477 },
+          { tp: 2, vm: "1092922284", n: 19, t: "Católico protestante", s: "Donde el sacerdote jesuita Jorge Loring nos habla sobre los católicos protestantes.", f: "capitulo-19-catolico-protestante", d: 1612 },
+          { tp: 2, vm: "1092926173", n: 20, t: "¿Por qué vamos a misa?", s: "Donde el sacerdote jesuita Jorge Loring nos explica la importansia de asistir a la Santa Misa.", f: "capitulo-20-por-que-vamos-a-misa", d: 1636 },
+          { tp: 2, vm: "1092927176", n: 22, t: "Aborto, asesinato de inocentes", s: "Donde el sacerdote jesuita Jorge Loring nos trata el tema del aborto.", f: "capitulo-22-aborto-asesinato-de-inocentes", d: 1613 },
+          { tp: 2, vm: "1092928042", n: 23, t: "El pecado", s: "Donde el sacerdote jesuita Jorge Loring y el pecado explicado para todos.", f: "capitulo-23-el-pecado", d: 1673 },
+          { tp: 2, vm: "1092923244", n: 24, t: "Jesús Misericordioso", s: "Donde el sacerdote jesuita Jorge Loring nos acerca a Jesús Misericordioso.", f: "capitulo-24-jesus-misericordioso", d: 1470 },
+          { tp: 2, vm: "1092924184", n: 25, t: "Cielo e Infierno", s: "Donde el sacerdote jesuita Jorge Loring habla sobre el Infierno.", f: "capitulo-25-cielo-e-infierno", d: 1643 },
+          { tp: 2, vm: "1092925168", n: 26, t: "El origen del Hombre", s: "Donde el sacerdote jesuita Jorge Loring Trata el tema del origen del hombre.", f: "capitulo-26-el-origen-del-hombre", d: 1676 }
+        ]
+      },
+      {
+        slug: "cruzadas",
+        nombre: "Las Cruzadas",
+        serie: "Las Cruzadas",
+        tipo: "Serie",
+        pop: 5,
+        etiqueta: "las-cruzadas",
+        portada: "cruzadas-1091258760.webp",
+        desc: "Las Cruzadas de la primera a la cuarta: desde la llamada del papa Urbano II en 1095 hasta Saladino, la caída de Jerusalén y los apuros de la Cuarta Cruzada.",
+        caps: [
+          { vm: "1091258760", n: 1, t: "La Primera Cruzada", s: "Se remonta al año 1095, cuando campesinos, pueblo llano y gente de las ciudades, bajo la tutela del papa Urbano II, se reagrupan para lanzar su primer ataque y conquistar Anatolia.", f: "capitulo-1", d: 1727 },
+          { vm: "1091261235", n: 2, t: "La Segunda Cruzada", s: "Muestra cómo los cruzados tuvieron que enfrentarse a un sinfín de dificultades: largas marchas, enfermedades de todo tipo, y analiza por qué la Segunda Cruzada fracasó.", f: "capitulo-2", d: 1754 },
+          { vm: "1091263568", n: 3, t: "Saladino y Jerusalén", s: "Se centra en la reunificación de las potencias musulmanas al mando de Saladino, que extendió sus tropas desde el desierto e invadieron Jerusalén sobre el año 1187.", f: "capitulo-3", d: 1663 },
+          { vm: "1091265995", n: 4, t: "La Cuarta Cruzada", s: "Se acerca a la Cuarta Cruzada, que duró dos años y estuvo plagada de dificultades financieras.", f: "capitulo-4", d: 1729 }
+        ]
+      },
+      {
+        slug: "inquisicion",
+        nombre: "La Inquisición",
+        serie: "La Inquisición",
+        tipo: "Serie",
+        pop: 6,
+        etiqueta: "la-inquisicion",
+        portada: "inquisicion-AqqiI56g.webp",
+        desc: "La historia de las herejías, la Inquisición española y la romana, y los mitos de la Leyenda Negra frente a lo que muestran los documentos.",
+        caps: [
+          { vm: "1090180953", n: 1, t: "Historias de las Herejías", s: "Empezando con la rebelión de Lucifer en contra de Dios, se ve la historia de la herejía y se discute por qué ella es tan peligrosa para la comunidad cristiana. Se menciona las principales herejías, incluyendo a los Cátaros.", f: "capitulo-1-historias-de-las-herejias", d: 1713 },
+          { vm: "1090183882", n: 2, t: "La Inquisición española", s: "¿Por qué los españoles describen el mito de la Inquisición como la Leyenda Negra? El mito de la Inquisición Española fue mayormente un invento de los países protestantes del norte de Europa.", f: "capitulo-2-la-inquisicion-espanola", d: 1729 },
+          { vp: "AqqiI56g", n: 3, t: "La Inquisición romana", s: "La Inquisición romana fue considerada aún más indulgente. Se habla sobre la herejía valdense y cómo inventó su propia iglesia. Además se hace un paralelo entre la herejía valdense y la lealtad de San Francisco y Santo Domingo, de cómo estos santos usaron su fervor al servicio de la Iglesia.", f: "capitulo-3-la-inquisicion-romana", d: 1712 },
+          { vm: "1090186770", n: 4, t: "Los mitos de la Inquisición", s: "Se compara los tribunales de la Inquisición de los países católicos con las cortes protestantes del norte de Europa y se encuentra que, de lejos, la Inquisición era más justa.", f: "capitulo-4-los-mitos-de-la-inquisicion", d: 1728 }
+        ]
+      },
+      {
+        slug: "ratzinger",
+        nombre: "Joseph Ratzinger, de Baviera a Benedicto",
+        serie: "Joseph Ratzinger, de Baviera a Benedicto",
+        tipo: "Documental",
+        pop: 7,
+        etiqueta: "joseph-ratzinger",
+        portada: "ratzinger-1090562174.webp",
+        desc: "Joanna Bogle y Clare Anderson recorren la casa de la infancia de Joseph Ratzinger en Baviera y repasan su vida hasta su elección como papa Benedicto XVI.",
+        unidad: ['documental', 'documentales'],
+        caps: [
+          { vm: "1090562174", t: "Joseph Ratzinger, de Baviera a Benedicto", s: "Joanna Bogle y Clare Anderson reflexionan sobre la vida y la elección de Joseph Ratzinger como Papa Benedicto XVI, mientras viajan por la casa de su infancia en Baviera, Alemania.", f: "joseph-ratzinger-bavaria-to-benedict", d: 3209 }
+        ]
+      },
+      {
+        slug: "santos-villanos",
+        nombre: "Santos vs. villanos",
+        serie: "Santos vs. villanos",
+        tipo: "Serie",
+        pop: 8,
+        etiqueta: "santos-vs-villanos",
+        portada: "santos-villanos-1089109129.webp",
+        desc: "Nueve duelos entre un santo y un villano de la historia: san Agustín y Rousseau, Tomás Moro y Enrique VIII, Flannery O’Connor y Ayn Rand, Kolbe y Goebbels, Juana de Arco y Robespierre, entre otros.",
+        caps: [
+          { vm: "1089109129", n: 1, t: "Rousseau Vs. San Agustín 1", s: "Primera Parte: En la presentación de EWTN Home Video, el presentador Benjamin Wiker, Ph.D. da la bienvenida al filósofo del siglo XVIII Jean-Jacques Rousseau para defender sus «Confesiones».", f: "capitulo-1-rousseau-vs-san-agustin", d: 1652 },
+          { vm: "1089113426", n: 2, t: "Rousseau VS. San Agustín 2", s: "Segunda Parte: En la presentación de EWTN Home Video, el presentador Benjamin Wiker, Ph.D. da la bienvenida al filósofo del siglo XVIII Jean-Jacques Rousseau para defender sus «Confesiones».", f: "capitulo-2-rousseau-vs-san-agustin", d: 1752 },
+          { vm: "1089153954", n: 3, t: "Enrique VIII VS. Thomas More 1", s: "Primera Parte: Una de las presentaciones más dramáticas de Santos Vs. Villanos es el encuentro entre el legendario Enrique VIII y Thomas More.", f: "capitulo-3-enrique-viii-vs-thomas", d: 1736 },
+          { vm: "1089153954", n: 4, t: "Enrique VIII VS. Thomas More 2", s: "Segunda Parte: Una de las presentaciones más dramáticas de Santos Vs. Villanos es el encuentro entre el legendario Enrique VIII y Thomas More.", f: "capitulo-4-enrique-viii-vs-thomas", d: 1736 },
+          { vm: "1089190365", n: 5, t: "Rand VS. O´Connor 1", s: "Primera Parte: Cuando el Dr. Benjamin Wiker retrocede las manecillas del tiempo para conocer a la escritora sureña y devota católica Flannery O’Connor, su entrevista se convierte en un cambio de página literario literal cuando Ayn ​​Rand aparece para desafiar a O’Connor con temas de su propio trabajo escrito.", f: "capitulo-5-rand-vs-oconnor-1", d: 1641 },
+          { vm: "1089096295", n: 6, t: "Rand VS. O´Connor 2", s: "Segunda Parte: Cuando el Dr. Benjamin Wiker retrocede las manecillas del tiempo para conocer a la escritora sureña y devota católica Flannery O’Connor, su entrevista se convierte en un cambio de página literario literal cuando Ayn ​​Rand aparece para desafiar a O’Connor con temas de su propio trabajo escrito.", f: "capitulo-6-rand-vs-oconnor-2", d: 1751 },
+          { vm: "1089118829", n: 7, t: "San Francisco de Asís VS. Maquiavelo 1", s: "Primera Parte: La religión, la política y la moral están sobre la mesa de discusión mientras el Dr. Benjamin Wiker presenta un enfrentamiento entre San Francisco de Asís y el teórico político Niccolo Machiavelli. Muerto en su desdén por el estilo de vida franciscano, el Dr.", f: "capitulo-7-san-francisco-de-asis", d: 1706 },
+          { vm: "1089123158", n: 8, t: "San Francisco de Asís VS. Maquiavelo 2", s: "Segunda Parte: La religión, la política y la moral están sobre la mesa de discusión mientras el Dr. Benjamin Wiker presenta un enfrentamiento entre San Francisco de Asís y el teórico político Niccolo Machiavelli. Muerto en su desdén por el estilo de vida franciscano, el Dr.", f: "capitulo-8-san-francisco-de-asis", d: 1742 },
+          { vm: "1089131868", n: 9, t: "Santa Teresa Benedicta (Edith Stein) VS. Friedrich Nietzche 1", s: "Primera Parte: Únase a la búsqueda del Dr. Benjamin Wiker para acoger a las mentes más influyentes de la humanidad a lo largo de la historia. Esta vez, llama a Santa Benedicta de la Cruz (Edith Stein) para discutir cómo su conversión al catolicismo fue impulsada por una sed de verdad.", f: "capitulo-9-santa-teresa-benedicta", d: 1741 },
+          { vm: "1089136922", n: 10, t: "Santa Teresa Benedicta (Edith Stein) VS. Friedrich Nietzche 2", s: "Segunda Parte Únase a la búsqueda del Dr. Benjamin Wiker para acoger a las mentes más influyentes de la humanidad a lo largo de la historia. Esta vez, llama a Santa Benedicta de la Cruz (Edith Stein) para discutir cómo su conversión al catolicismo fue impulsada por una sed de verdad.", f: "capitulo-10-santa-teresa-benedicta", d: 1742 },
+          { vm: "1089183472", n: 11, t: "Papa Pablo VI VS. Margaret Sanger 1", s: "Primera Parte: ¿Qué pasaría si el fundador de Planned Parenthood conociera al autor de Humanae Vitae? El Dr. Benjamin Wiker reúne las ideologías opuestas de Margaret Sanger y el Beato Papa Pablo VI para un intenso debate sobre la pobreza, la familia y la vida misma.", f: "capitulo-11-papa-pablo-vi-vs-margaret", d: 1712 },
+          { vm: "1089186148", n: 12, t: "Papa Pablo VI VS. Margaret Sanger 2", s: "Segunda Parte: ¿Qué pasaría si el fundador de Planned Parenthood conociera al autor de Humanae Vitae? El Dr. Benjamin Wiker reúne las ideologías opuestas de Margaret Sanger y el Beato Papa Pablo VI para un intenso debate sobre la pobreza, la familia y la vida misma.", f: "capitulo-12-papa-pablo-vi-vs-margaret", d: 1672 },
+          { vm: "1089172603", n: 13, t: "G.K. Chesterton VS. Thomas Hobbes 1", s: "Primera Parte: No es frecuente que los invitados de ideologías opuestas del Dr. Benjamin Wiker se lleven bien, pero ni siquiera Thomas Hobbes, padre del materialismo moderno, puede resistir el ingenioso encanto del apologista católico G.K. Chesterton.", f: "capitulo-13-gk-chesterton-vs-thomas", d: 1620 },
+          { vm: "1089174894", n: 14, t: "G.K. Chesterton VS. Thomas Hobbes 2", s: "Segunda Parte: No es frecuente que los invitados de ideologías opuestas del Dr. Benjamin Wiker se lleven bien, pero ni siquiera Thomas Hobbes, padre del materialismo moderno, puede resistir el ingenioso encanto del apologista católico G.K. Chesterton.", f: "capitulo-14-gk-chesterton-vs-thomas", d: 1542 },
+          { vm: "1089177459", n: 15, t: "Kolbe VS. Goebbels 1", s: "Primera Parte: Dos de las figuras más conocidas de la Segunda Guerra Mundial luchan en Santos Vs. Villanos. El amado fraile polaco, San Maximiliano Kolbe, que sacrificó su vida en Auschwitz, se enfrenta a Joseph Goebbels, el ardiente ministro de propaganda de Hitler y apasionado defensor del Tercer Reich.", f: "capitulo-15-kolbe-vs-goebbels-1", d: 1710 },
+          { vm: "1089180618", n: 16, t: "Kolbe VS. Goebbels 2", s: "Segunda Parte: Dos de las figuras más conocidas de la Segunda Guerra Mundial luchan en Santos Vs. Villanos. El amado fraile polaco, San Maximiliano Kolbe, que sacrificó su vida en Auschwitz, se enfrenta a Joseph Goebbels, el ardiente ministro de propaganda de Hitler y apasionado defensor del Tercer Reich.", f: "capitulo-16-kolbe-vs-goebbels-2", d: 1711 },
+          { vm: "1089126956", n: 17, t: "Santa Juana de Arco VS. Maximilien Robespierre 1", s: "Primera Parte: Dos titanes de la historia francesa combinan ingenio en una batalla épica del bien contra el mal. Juana de Arco es la joven heroína valiente que responde al llamado de Dios para llevar a sus soldados a la batalla y preservar la monarquía francesa.", f: "capitulo-17-santa-juana-de-arco-vs", d: 1562 },
+          { vm: "1089129292", n: 18, t: "Santa Juana de Arco VS. Maximilien Robespierre 2", s: "Segunda Parte: Dos titanes de la historia francesa combinan ingenio en una batalla épica del bien contra el mal. Juana de Arco es la joven heroína valiente que responde al llamado de Dios para llevar a sus soldados a la batalla y preservar la monarquía francesa.", f: "capitulo-18-santa-juana-de-arco-vs", d: 1712 }
+        ]
+      },
+      {
+        slug: "battle-ready",
+        nombre: "Battle Ready",
+        serie: "Battle Ready",
+        tipo: "Serie",
+        pop: 9,
+        etiqueta: "battle-ready-temporada-1",
+        portada: "battle-ready-1092348685.webp",
+        desc: "Doug Barry prepara a los católicos para el combate espiritual en dos temporadas: Fátima, conocer al enemigo, la espada y el escudo, la disciplina del soldado; y después el cuidado del cuerpo, el matrimonio, la crianza de hijos e hijas y la existencia de Dios.",
+        temporadas: 2,
+        caps: [
+          { tp: 1, vm: "1092348685", n: 1, t: "¿Qué es Battle Ready?", s: "¿Qué significa Battle Ready y por qué debería importarle? Estas son las dos preguntas que se hicieron en el primer episodio de Battle Ready. Primero, debe darse cuenta de la realidad de la batalla. En este episodio exploramos las diferentes formas en que Dios revela la seriedad de esta batalla por nuestras almas.", f: "capitulo-1-que-es-battle-ready", d: 1593 },
+          { tp: 1, vm: "1092188496", n: 2, t: "Fátima – 100 años de combate espiritual", s: "2017 es el centenario de las apariciones de la Santísima Madre en Fátima, Portugal. Los mensajes de Nuestra Señora al mundo son tan importantes hoy como lo fueron en 1917. De hecho, el Papa San Juan Pablo II nos dice que son más importantes para nuestro tiempo que cuando fueron entregados a los tres niños en 1917.", f: "capitulo-2-fatima-100-anos-de-combate", d: 1604 },
+          { tp: 1, vm: "1092196972", n: 3, t: "Un guerrero ante su combate", s: "¿Cómo puede ser que algo tan fácil de hacer también pueda ser tan difícil de hacer? Para saber cómo orar, primero tenemos que entender qué es la oración. El enemigo de nuestras almas entiende lo que es la oración y no se detiene ante nada para interrumpirla en nuestras vidas.", f: "capitulo-3-un-guerrero-ante-su-combate", d: 1523 },
+          { tp: 1, vm: "1092126165", n: 4, t: "Conoce a tu enemigo", s: "Si estamos en medio de una batalla espiritual, entonces una de nuestras principales prioridades tiene que ser conocer a nuestro enemigo. Esto significa que sabemos cómo identificarlo y cómo opera.", f: "capitulo-4-conoce-a-tu-enemigo", d: 1616 },
+          { tp: 1, vm: "1092128834", n: 5, t: "La petición de la Reina", s: "La Madre de Dios ha pedido: «Haz lo que Él te diga». En un mundo en el que vemos devoción a las cosas, a las personas, a las ideas e incluso a los placeres personales, es fundamental comprender la devoción a la Virgen, a su petición y a lo que realmente nos llevará a nuestro objetivo final.", f: "capitulo-5-la-peticion-de-la-reina", d: 1606 },
+          { tp: 1, vm: "1092131770", n: 6, t: "La espada y el escudo", s: "Si estamos en una batalla espiritual, entonces Dios nos ha dado los medios para ganar esta batalla. Sin embargo, no podemos esperar la victoria si ni siquiera sabemos cómo usar nuestras armas, ¡y mucho menos el hecho de que existen! ¿Cuál es tu espada, cuál es tu escudo y cómo los usas?", f: "capitulo-6-la-espada-y-el-escudo", d: 1583 },
+          { tp: 1, vm: "1092134965", n: 7, t: "Héroes diarios", s: "Cuando pensamos en la vida de un héroe, es común pensar solo en un momento emocionante y decisivo, o en una cadena de eventos culminantes en los que nuestro héroe llega a demostrar su valía.", f: "capitulo-7-heroes-diarios", d: 1605 },
+          { tp: 1, vm: "1092158078", n: 8, t: "La disciplina de un soldado", s: "Todo comandante sabe que llevar a cada soldado a casa depende en gran medida de qué tan bien se haya entrenado ese soldado. La verdadera disciplina de cualquier soldado surge del amor por el comandante y la misión en cuestión.", f: "capitulo-8-la-disciplina-de-un-soldado", d: 1570 },
+          { tp: 1, vm: "1092163667", n: 9, t: "Uno sólo lucha de la manera en la que entrena", s: "No servimos por miedo, sino por Amor. En este episodio de Battle Ready, Doug Barry analiza cómo la disciplina de un soldado debe surgir del heroico sentido del deber hacia la misión y el amor por el comandante, uniéndolo todo a nuestra propia relación con Dios y nuestro propósito en este vida terrenal.", f: "capitulo-9-uno-solo-lucha-de-la-manera", d: 1644 },
+          { tp: 1, vm: "1092172503", n: 10, t: "Hacer o morir", s: "Nuestro tiempo en este mundo no es infinito. En este episodio de Battle Ready, Doug Barry aborda el tema de la seriedad de los tiempos en los que vivimos y el hecho de que Dios está desapareciendo rápidamente de la sociedad.", f: "capitulo-10-hacer-o-morir", d: 1603 },
+          { tp: 2, vm: "1093105749", n: 11, t: "Mantener el templo", s: "Uno de los dones más grandes que Dios nos ha dado es el don de nuestro cuerpo. Como tal, estamos obligados a cuidarlos. El apóstol Pablo fue tan inspirado para llamar a nuestros cuerpos Templos del Espíritu Santo, y por eso, debemos mantener el templo.", f: "capitulo-11-mantener-el-templo", d: 1660 },
+          { tp: 2, vm: "1093108596", n: 12, t: "Un equipo bien entrenado", s: "La familia es el pilar básico de la sociedad. Sin la familia trabajando en equipo para vivir como Dios lo ordenó, la sociedad está perdida. Este episodio profundiza en esta verdad fundamental y en cómo el mundo depende de la fuerza de la familia.", f: "capitulo-12-un-equipo-bien-entrenado", d: 1686 },
+          { tp: 2, vm: "1093110270", n: 13, t: "Forjando al guerrero", s: "La Madre de Dios domestica al bruto en un hombre pero no elimina al guerrero. Sin embargo, ella no hará esto sin nuestra cooperación. En este episodio de Battle Ready, vemos cómo estar dedicados a la Santísima Madre es uno de los compromisos más importantes que haremos en nuestras vidas.", f: "capitulo-13-forjando-al-guerrero", d: 1633 },
+          { tp: 2, vm: "1093111652", n: 14, t: "Maridos aman a sus esposas", s: "Cristo nos dio a todos un ejemplo poderoso cuando se trataba de amar a Su esposa, la Iglesia. Todo esposo debe imitar este amor por su esposa, hasta el punto de entregar su vida por ella. Este episodio se centra en el extraordinario misterio de la unión matrimonial de un hombre y una mujer.", f: "capitulo-14-maridos-aman-a-sus-esposas", d: 1549 },
+          { tp: 2, vm: "1093112923", n: 15, t: "El mejor regalo", s: "Una de las armas más grandes que Dios nos da para la batalla espiritual es la misericordia. Nosotros, como seres humanos, nunca seremos capaces de comprender plenamente la profundidad de la misericordia de Dios, pero es imperativo que la recibamos de Dios y se la demos a los demás.", f: "capitulo-15-el-mejor-regalo", d: 1657 },
+          { tp: 2, vm: "1093115646", n: 16, t: "En la brecha", s: "En este programa, Doug se enfoca en la necesidad de criar jóvenes piadosos y prepararlos para la vida y la batalla espiritual.", f: "capitulo-16-en-la-brecha", d: 1620 },
+          { tp: 2, vm: "1093118349", n: 17, t: "Criando a las hijas", s: "Este programa se enfoca en criar hijas para que conozcan su dignidad, autoestima y la importancia de casarse con un hombre temeroso de Dios.", f: "capitulo-17-criando-a-las-hijas", d: 1688 },
+          { tp: 2, vm: "1093122887", n: 19, t: "Los nones", s: "Nuestra cultura ha sido testigo del surgimiento de los NONES, aquellos que declaran adherirse a una tradición sin fe. Incluso entre los católicos, la fe en la presencia real ha disminuido.", f: "capitulo-19-los-nones", d: 1625 },
+          { tp: 2, vm: "1093124335", n: 20, t: "La existencia de Dios (parte 1)", s: "Doug entrevista a la Dra. Stacy Trasancos, Directora Ejecutiva del Instituto de Catequesis y Evangelización St. Philip, sobre su viaje de fe desde ser una escéptica egoísta con una cosmovisión atea hasta encontrar una verdad más profunda y grande abrazando a Dios y su fe católica.", f: "capitulo-20-la-existencia-de-dios", d: 1680 },
+          { tp: 2, vm: "1093125824", n: 21, t: "La existencia de Dios (parte 2)", s: "Doug continúa su entrevista con la Dra. Stacy Trasancos, quien enfatiza que necesitamos sanar nuestra relación con Dios antes de que podamos sanar nuestra relación con los demás, incluso y especialmente en lo que respecta a criar a sus propios hijos en la fe.", f: "capitulo-21-la-existencia-de-dios", d: 1640 }
+        ]
+      },
+      {
+        slug: "san-francisco-javier",
+        nombre: "San Francisco Javier: hasta los confines de la tierra",
+        serie: "San Francisco Javier: hasta los confines de la tierra",
+        tipo: "Documental",
+        pop: 12,
+        etiqueta: "san-francisco-javier",
+        portada: "san-francisco-javier-1090590004.webp",
+        desc: "La vida de san Francisco Javier, desde la Sorbona de París, donde era un brillante profesor de filosofía, hasta sus últimos años como misionero en Asia oriental.",
+        unidad: ['documental', 'documentales'],
+        caps: [
+          { vm: "1090590004", t: "San Francisco Javier: hasta los confines de la tierra", s: "Este programa original de EWTN presenta la vida de San Francisco Javier, desde sus primeros años en la Universidad Sorbona en París hasta sus últimos años como misionero en Asia oriental.", f: "san-francisco-javier-hasta-los-confines", d: 3543 }
+        ]
+      },
+      {
+        slug: "vida-de-cristo",
+        nombre: "La vida de Cristo: una peregrinación a Tierra Santa",
+        serie: "La vida de Cristo: una peregrinación a Tierra Santa",
+        tipo: "Documental",
+        pop: 13,
+        etiqueta: "la-vida-de-cristo",
+        portada: "vida-de-cristo-1088158217.webp",
+        desc: "Una peregrinación por los pueblos, las ciudades y los lugares de los Evangelios, siguiendo los pasos de Cristo.",
+        unidad: ['documental', 'documentales'],
+        caps: [
+          { vm: "1088158217", t: "La vida de Cristo: una peregrinación a Tierra Santa", s: "Sigue los pasos de Nuestro Salvador en una peregrinación épica por los pueblos, ciudades y lugares religiosos que aparecen en los santos Evangelios, y descubre el verdadero significado de la Vida de Cristo.", f: "la-vida-de-cristo-una-peregrinacion", d: 3301 }
+        ]
+      },
+      {
+        slug: "islam",
+        nombre: "Desvelando el islam",
+        serie: "Desvelando el islam",
+        tipo: "Serie",
+        pop: 14,
+        etiqueta: "desvelando-el-islam",
+        portada: "islam-1085858820.webp",
+        desc: "Raad Salam Naamán, católico caldeo nacido en Irak, explica el origen del islam, quién fue Mahoma, las diferencias entre moros, árabes y musulmanes, y la situación de Irak bajo el yihadismo.",
+        caps: [
+          { vm: "1085858820", n: 1, t: "Origen y actualidad de Iraq. Yihadismo", s: "Raad Salam Naamán, es Cristiano Católico Caldeo, de origen mesopotámico, la actual Iraq. En este primer episodio, narraremos el origen y actualidad de Iraq y su deplorable estado debido al terrorismo yihadista.", f: "capitulo-1-origen-y-actualidad-de", d: 1729 },
+          { vm: "1085862588", n: 2, t: "Diferencias entre moros, árabes y musulmanes", s: "Raad Salam nos contará las claves diferenciales entre moros, árabes y musulmanes, pudiendo diferenciar de esta manera los tres tipos de origen distinto y de donde viene cada uno de ellos.", f: "capitulo-2-diferencias-entre-moros", d: 1664 },
+          { vm: "1085866013", n: 3, t: "Por que vino Muhammad, el profeta del islam", s: "El fundador de la religión musulmana, Muhammad, historia biológica y conocimiento de su vida.", f: "desvelando-el-islam-capitulo-3-por", d: 1714 },
+          { vm: "1085854833", n: 4, t: "Quién fue Muhammad", s: "En este episodio, Raad Salam, nos habla sobre la relación de Muhammad con las más de 50 mujeres que tuvo.", f: "desvelando-el-islam-capitulo-4-quien", d: 1673 }
+        ]
+      },
+      {
+        slug: "terapias",
+        nombre: "Terapias alternativas: el lado oscuro",
+        serie: "Terapias alternativas: el lado oscuro",
+        tipo: "Documental",
+        pop: 16,
+        etiqueta: "terapias-alternativas",
+        portada: "terapias-1110067528.webp",
+        desc: "Documental sobre la Nueva Era: qué tienen en común el yoga, el reiki o las constelaciones familiares, y de dónde vienen estas corrientes que mezclan religiones orientales, espiritismo, astrología y gnosticismo.",
+        unidad: ['documental', 'documentales'],
+        caps: [
+          { vm: "1110067528", t: "Terapias alternativas: el lado oscuro", s: "‘Terapias Alternativas: El lado oculto’: un documental sobre la VERDAD de la Nueva Era. ¿Qué tienen en común el yoga, el reiki o las constelaciones familiares?", f: "terapias-alternativas-el-lado-oscuro", d: 5614 }
+        ]
+      }
+    ];
+    var TODOS = TEMAS.concat(SERIES);
+
     (function () {
-      var ROMANOS = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','XIII','XIV','XV','XVI','XVII','XVIII','XIX','XX'];
+      // Números romanos para cualquier número (Nosotros tiene 34 charlas).
+      function romano(n) {
+        var v = [[40,'XL'],[10,'X'],[9,'IX'],[5,'V'],[4,'IV'],[1,'I']], r = '';
+        v.forEach(function (p) { while (n >= p[0]) { r += p[1]; n -= p[0]; } });
+        return r;
+      }
+      // Número que se muestra de cada capítulo: el de EWTN si lo trae (n), si no el orden.
+      function numero(c, i) { return romano(c.n || i + 1); }
       var $ = function (id) { return document.getElementById(id); };
       var min = function (s) { return Math.floor(s / 60) + ':' + String(s % 60).padStart(2, '0'); };
-      var horas = function (s) { var h = Math.floor(s / 3600), m = Math.round((s % 3600) / 60); return (h ? h + ' h ' : '') + m + ' min'; };
+      // Se redondea a minutos antes de separar las horas: si no, salía «8 h 60 min».
+      var horas = function (s) { var t = Math.round(s / 60), h = Math.floor(t / 60), m = t % 60; return (h ? h + ' h ' : '') + m + ' min'; };
       var esc = function (x) { return String(x).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;'); };
       var tema = TEMAS[0], cap = 0, reproduciendo = false, fuente = 'yt';
 
       // Fuente que se usa para un capítulo: la elegida si la tiene, si no la otra.
-      function fuenteDe(c) { return c[fuente] ? fuente : (c.yt ? 'yt' : 'vm'); }
+      function fuenteDe(c) { if (c.vp) return 'vp'; return c[fuente] ? fuente : (c.yt ? 'yt' : 'vm'); }
       // «12 capítulos», «1 catequesis»: cada tema puede nombrar sus piezas.
       function cuantos(t) {
         var u = t.unidad || ['capítulo', 'capítulos'];
         return t.caps.length + ' ' + (t.caps.length === 1 ? u[0] : u[1]);
       }
-      function miniatura(t, c) { return MM_IMG + t.slug + '-' + (c.yt || c.vm) + '.webp'; }
+      function miniatura(t, c) { return MM_IMG + t.slug + '-' + (c.yt || c.vm || c.vp) + '.webp'; }
       function embed(c) {
-        return fuenteDe(c) === 'yt'
-          ? 'https://www.youtube-nocookie.com/embed/' + c.yt + '?autoplay=1&rel=0&modestbranding=1&playsinline=1'
-          : 'https://player.vimeo.com/video/' + c.vm + '?autoplay=1&dnt=1&title=0&byline=0&portrait=0';
+        var f = fuenteDe(c);
+        if (f === 'yt') return 'https://www.youtube-nocookie.com/embed/' + c.yt + '?autoplay=1&rel=0&modestbranding=1&playsinline=1';
+        if (f === 'vp') return 'https://videopress.com/embed/' + c.vp + '?autoplay=1&hd=1';
+        return 'https://player.vimeo.com/video/' + c.vm + '?autoplay=1&dnt=1&title=0&byline=0&portrait=0' + (c.h ? '&h=' + c.h : '');
       }
 
       function pintarPortada() {
@@ -614,7 +1023,7 @@
         $('mm-marco').innerHTML =
           '<button class="mm-portada" type="button" aria-label="Reproducir ' + (tema.unidad ? 'la ' + tema.unidad[0] : 'el capítulo') + ' ' + (cap + 1) + ': ' + esc(c.t) + '">' +
           '<img src="' + miniatura(tema, c) + '" alt="" width="960" height="540">' +
-          '<span class="mm-portada-num">' + (tema.unidad ? tema.unidad[0] : 'capítulo').toUpperCase() + ' ' + ROMANOS[cap] + '</span>' +
+          '<span class="mm-portada-num">' + (tema.unidad ? tema.unidad[0] : 'capítulo').toUpperCase() + (tema.caps.length > 1 ? ' ' + numero(c, cap) : '') + '</span>' +
           '<span class="mm-play"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4l15 8-15 8z"/></svg></span></button>';
         $('mm-marco').firstChild.addEventListener('click', reproducir);
       }
@@ -630,15 +1039,20 @@
         var c = tema.caps[cap], ambas = !!(c.yt && c.vm), f = fuenteDe(c);
         $('mm-fuentes').hidden = !ambas;
         $('mm-fuentes').querySelectorAll('button').forEach(function (b) { b.setAttribute('aria-pressed', b.dataset.f === f ? 'true' : 'false'); });
-        $('mm-ext').textContent = f === 'yt' ? 'Abrir en YouTube' : 'Abrir en Vimeo';
-        $('mm-ext').href = f === 'yt' ? 'https://www.youtube.com/watch?v=' + c.yt : 'https://vimeo.com/' + c.vm;
+        $('mm-ext').textContent = f === 'yt' ? 'Abrir en YouTube' : f === 'vp' ? 'Abrir en VideoPress' : 'Abrir en Vimeo';
+        $('mm-ext').href = f === 'yt' ? 'https://www.youtube.com/watch?v=' + c.yt
+          : f === 'vp' ? 'https://videopress.com/v/' + c.vp
+          : 'https://vimeo.com/' + c.vm + (c.h ? '/' + c.h : '');
       }
 
       function elegir(i, desdeLista, inicial) {
         cap = i;
         var c = tema.caps[i];
         var unidad = tema.unidad ? tema.unidad[0] : 'capítulo';
-        $('mm-ficha-cap').textContent = unidad.charAt(0).toUpperCase() + unidad.slice(1) + ' ' + ROMANOS[i] + ' de ' + ROMANOS[tema.caps.length - 1] + ' · ' + min(c.d);
+        // Con la numeración de EWTN (n) no se dice «de tantos»: puede saltear capítulos.
+        $('mm-ficha-cap').textContent = unidad.charAt(0).toUpperCase() + unidad.slice(1) +
+          (tema.caps.length > 1 ? ' ' + numero(c, i) + (c.n ? '' : ' de ' + romano(tema.caps.length)) : '') +
+          (c.tp ? ' · temporada ' + c.tp : '') + ' · ' + min(c.d);
         $('mm-ficha-titulo').textContent = c.t;
         $('mm-ficha-sinopsis').textContent = c.s;
         $('mm-ewtn').hidden = !c.f;
@@ -662,20 +1076,46 @@
       function armarTema(t) {
         tema = t;
         var total = t.caps.reduce(function (s, c) { return s + c.d; }, 0);
-        $('mm-serie-num').textContent = ROMANOS[TEMAS.indexOf(t)];
+        $('mm-serie-num').textContent = romano(TODOS.indexOf(t) + 1);
         $('mm-serie-titulo').textContent = t.nombre;
-        $('mm-serie-meta').innerHTML = (t.nombre !== t.serie ? '«' + esc(t.serie) + '» · ' : '') + esc(t.canal || 'EWTN') + ' · ' + cuantos(t) + ' · ' + horas(total) +
+        $('mm-serie-meta').innerHTML = (t.nombre !== t.serie ? '«' + esc(t.serie) + '» · ' : '') + esc(t.canal || 'EWTN') + ' · ' + (t.temporadas ? t.temporadas + ' temporadas · ' : '') + (t.tipo && t.caps.length === 1 ? esc(t.tipo) : cuantos(t)) + ' · ' + horas(total) +
           (t.etiqueta ? ' · <a href="' + MM_ETIQ + t.etiqueta + '" target="_blank" rel="noopener">EWTN a la carta ↗</a>'
                       : t.canalUrl ? ' · <a href="' + t.canalUrl + '" target="_blank" rel="noopener">Canal en YouTube ↗</a>' : '');
         $('mm-serie-desc').textContent = t.desc;
+        // «Series y películas» se ve solo con algo de esa categoría elegido, y
+        // «De dónde vienen» muestra solo el crédito de lo que se está viendo.
+        var grupo = SERIES.indexOf(t) >= 0 ? 'series' : t.slug;
+        var verSeries = grupo === 'series', secSeries = $('series-mm');
+        if (secSeries.hidden === verSeries) { secSeries.hidden = !verSeries; if (verSeries) setTimeout(revelar, 60); }
+        var primera = true;
+        document.querySelectorAll('#fuente [data-para]').forEach(function (f) {
+          f.hidden = f.dataset.para.split(' ').indexOf(grupo) < 0;
+          f.classList.toggle('mm-primera', !f.hidden && primera);
+          if (!f.hidden) primera = false;
+        });
         $('mm-total').textContent = t.caps.length + ' · ' + horas(total);
-        cont.querySelectorAll('.mm-tema').forEach(function (x) { x.setAttribute('aria-pressed', x.dataset.tema === t.slug ? 'true' : 'false'); });
+        cont.querySelectorAll('.mm-tema').forEach(function (x) { x.setAttribute('aria-pressed', (x.dataset.tema === t.slug || (x.dataset.tema === 'series' && SERIES.indexOf(t) >= 0)) ? 'true' : 'false'); });
+        // En el teléfono el menú se desliza: la pestaña activa tiene que quedar a la vista.
+        var activa = cont.querySelector('.mm-tema[aria-pressed="true"]');
+        if (activa && cont.scrollWidth > cont.clientWidth) {
+          var izq = activa.getBoundingClientRect().left - cont.getBoundingClientRect().left + cont.scrollLeft;
+          if (izq < cont.scrollLeft || izq + activa.offsetWidth > cont.scrollLeft + cont.clientWidth)
+            cont.scrollTo({ left: Math.max(0, izq - 12), behavior: 'smooth' });
+        }
+        document.querySelectorAll('.mm-pieza').forEach(function (x) { x.setAttribute('aria-pressed', x.dataset.tema === t.slug ? 'true' : 'false'); });
         var lista = $('mm-lista');
         lista.querySelectorAll('li:not(.mm-lista-head)').forEach(function (li) { li.remove(); });
         t.caps.forEach(function (c, i) {
+          // Las series con varias temporadas llevan un rótulo antes de cada una.
+          if (c.tp && (i === 0 || t.caps[i - 1].tp !== c.tp)) {
+            var rt = document.createElement('li');
+            rt.className = 'mm-temporada';
+            rt.textContent = 'Temporada ' + c.tp;
+            lista.appendChild(rt);
+          }
           var li = document.createElement('li');
           li.innerHTML = '<button class="mm-cap" type="button">' +
-            '<span class="mm-cap-num">' + ROMANOS[i] + '</span>' +
+            '<span class="mm-cap-num">' + numero(c, i) + '</span>' +
             '<span class="mm-cap-img"><img src="' + miniatura(t, c) + '" alt="" width="960" height="540" loading="lazy"><span class="mm-cap-dur">' + min(c.d) + '</span></span>' +
             '<span class="mm-cap-tit"></span></button>';
           li.querySelector('.mm-cap-tit').textContent = c.t;
@@ -699,20 +1139,68 @@
         b.className = 'mm-tema';
         b.type = 'button';
         b.dataset.tema = t.slug;
-        b.innerHTML = '<div class="mm-tema-arco"><div class="mm-tema-timpano"><i aria-hidden="true">✠&#xFE0E;</i>' +
-          (t.destacado ? '<span class="mm-badge">Destacado</span>' : '<span class="mm-badge" style="visibility:hidden">·</span>') + '</div>' +
-          '<div class="mm-tema-img"><img src="' + MM_IMG + t.portada + '" alt="" width="960" height="540" loading="lazy"></div>' +
-          '<div class="mm-tema-info"><strong></strong><small>' + esc(t.canal || 'EWTN') + ' · ' + cuantos(t) + ' · ' + horas(total) + '</small></div></div>';
-        b.querySelector('strong').textContent = t.nombre;
+        b.title = t.nombre + ' · ' + (t.canal || 'EWTN') + ' · ' + cuantos(t) + ' · ' + horas(total);
+        if (t.destacado) b.classList.add('mm-tema--destacado');
+        b.innerHTML = '<span class="mm-tema-medalla"><img src="' + MM_IMG + t.portada + '" alt="" width="960" height="540"></span>' +
+          '<span class="mm-tema-texto"><small class="mm-tema-rotulo"></small><span class="mm-tema-nombre"></span></span>';
+        b.querySelector('.mm-tema-rotulo').textContent = t.destacado ? '✠ Destacado · ' + t.rotulo : t.rotulo;
+        b.querySelector('.mm-tema-nombre').textContent = t.corto || t.nombre;
         b.addEventListener('click', function () { abrirTema(t); });
         cont.appendChild(b);
       });
+      // Un arco más que lleva a la subsección «Series y películas».
+      (function () {
+        var b = document.createElement('button'), total = 0;
+        SERIES.forEach(function (t) { t.caps.forEach(function (c) { total += c.d; }); });
+        b.className = 'mm-tema';
+        b.type = 'button';
+        b.dataset.tema = 'series';
+        b.title = 'Series y películas · EWTN · ' + SERIES.length + ' títulos · ' + horas(total);
+        b.innerHTML = '<span class="mm-tema-medalla"><img src="' + MM_IMG + 'series-retablo.webp" alt="" width="960" height="540"></span>' +
+          '<span class="mm-tema-texto"><small class="mm-tema-rotulo">EWTN · ' + SERIES.length + ' títulos</small><span class="mm-tema-nombre">Series y películas</span></span>';
+        b.addEventListener('click', function () {
+          var primera = piezas.querySelector('.mm-pieza');
+          var t = SERIES.filter(function (x) { return x.slug === primera.dataset.tema; })[0];
+          abrirTema(t, 0, true);
+          $('series-mm').scrollIntoView({ behavior: 'smooth' });
+        });
+        cont.appendChild(b);
+      })();
+
+      // ── Series y películas: tarjetas con orden por destacadas o por nombre ──
+      var piezas = $('mm-piezas'), orden = 'pop';
+      var cmp = new Intl.Collator('es', { sensitivity: 'base' });
+      function pintarPiezas() {
+        var l = SERIES.slice();
+        if (orden === 'pop') l.sort(function (a, b) { return a.pop - b.pop; });
+        else l.sort(function (a, b) { var r = cmp.compare(a.nombre, b.nombre); return orden === 'az' ? r : -r; });
+        piezas.innerHTML = '';
+        l.forEach(function (t) {
+          var total = t.caps.reduce(function (s, c) { return s + c.d; }, 0);
+          var b = document.createElement('button');
+          b.type = 'button';
+          b.className = 'mm-pieza';
+          b.dataset.tema = t.slug;
+          b.setAttribute('aria-pressed', t === tema ? 'true' : 'false');
+          b.innerHTML = '<span class="mm-pieza-img"><img src="' + MM_IMG + t.portada + '" alt="" width="960" height="540" loading="lazy"><span class="mm-pieza-tipo">' + esc(t.tipo) + '</span></span>' +
+            '<span class="mm-pieza-info"><strong></strong><small>' + (t.temporadas ? t.temporadas + ' temporadas · ' : '') + (t.caps.length > 1 ? cuantos(t) + ' · ' : '') + horas(total) + '</small></span>';
+          b.querySelector('strong').textContent = t.nombre;
+          b.addEventListener('click', function () { abrirTema(t); });
+          piezas.appendChild(b);
+        });
+      }
+      $('mm-orden').addEventListener('click', function (e) {
+        var b = e.target.closest('button'); if (!b) return;
+        orden = b.dataset.orden;
+        $('mm-orden').querySelectorAll('button').forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+        pintarPiezas();
+      });
+      pintarPiezas();
 
       // Tarjeta destacada del hero
-      document.querySelectorAll('[data-tema]').forEach(function (a) {
-        if (a.tagName !== 'A') return;
+      document.querySelectorAll('a[data-tema]').forEach(function (a) {
         a.addEventListener('click', function (e) {
-          var t = TEMAS.filter(function (x) { return x.slug === a.dataset.tema; })[0];
+          var t = TODOS.filter(function (x) { return x.slug === a.dataset.tema; })[0];
           if (t) { e.preventDefault(); abrirTema(t); }
         });
       });
@@ -729,7 +1217,7 @@
 
       // #doctores-2 abre ese capítulo de ese tema
       var inicial = 0, m = /^#([a-z-]+)-(\d+)$/.exec(location.hash);
-      TEMAS.forEach(function (t) { if (m && t.slug === m[1]) tema = t; });
+      TODOS.forEach(function (t) { if (m && t.slug === m[1]) tema = t; });
       armarTema(tema);
       if (m && tema.slug === m[1]) inicial = Math.min(Math.max(parseInt(m[2], 10) - 1, 0), tema.caps.length - 1);
       elegir(inicial, false, true);
@@ -849,7 +1337,7 @@
     })();
     </script>
     <script src="js/main.js?v=19" defer></script>
-    <script src="js/translations.js?v=42" defer></script>
+    <script src="js/translations.js?v=43" defer></script>
     <script src="js/adviento.js?v=7" defer></script>
 </body>
 </html>

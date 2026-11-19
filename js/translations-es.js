@@ -1529,7 +1529,8 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
         inSpanish: "En español →",
         toroCountry: "Venezuela",
         oliveraCountry: "Argentina · QNTLC",
-        gomezMirCountry: "España · Stat Crux",
+        gomezMirCountry: "Barcelona · Stat Crux",
+        berochCountry: "Estados Unidos · Academia Católica",
         heraldosTag: "Ecuador"
       },
       sec1: { eyebrow: "Santa Sede", title: "Fuentes vaticanas", desc: "Documentos oficiales de la Iglesia, disponibles en el sitio de la Santa Sede." },
@@ -1538,6 +1539,7 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
         toro:    { desc: "Teólogo y apologeta. Responde con profundidad las objeciones más difíciles a la fe católica." },
         olivera: { desc: "Historiador y apologeta agustino. Aborda el racionalismo, las sectas y los errores modernos con rigor." },
         gomezMir: { desc: "Sacerdote y estudioso de la masonería, el gnosticismo y el ocultismo, que examina siempre a la luz de la doctrina católica. Su canal está dedicado a la Tradición católica.", book: "Su libro «Nosotros» →" },
+        beroch: { desc: "Sacerdote, profesor y licenciado en filosofía. Explica y defiende la fe en su canal y en su Academia Católica, «hacia la contemplación de la verdad»." },
         montfort: { tag: "Francia · hacia 1712", title: "Tratado de la Verdadera Devoción a la Santísima Virgen", author: "San Luis María Grignion de Montfort", desc: "La obra clásica sobre la consagración a Jesús por María. Dos ediciones completas en PDF.", ed1: "Edición monfortiana (PDF) →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_ES_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {

@@ -1113,7 +1113,8 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
         inSpanish: "Em espanhol →",
         toroCountry: "Venezuela",
         oliveraCountry: "Argentina · QNTLC",
-        gomezMirCountry: "Espanha · Stat Crux",
+        gomezMirCountry: "Barcelona · Stat Crux",
+        berochCountry: "Estados Unidos · Academia Católica",
         heraldosTag: "Equador"
       },
       sec1: { eyebrow: "Santa Sé", title: "Fontes vaticanas", desc: "Documentos oficiais da Igreja, disponíveis no site da Santa Sé." },
@@ -1122,6 +1123,7 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
         toro:    { desc: "Teólogo e apologista. Responde com profundidade às objeções mais difíceis à fé católica." },
         olivera: { desc: "Historiador e apologista agostiniano. Aborda o racionalismo, as seitas e os erros modernos com rigor." },
         gomezMir: { desc: "Sacerdote e estudioso da maçonaria, do gnosticismo e do ocultismo, que examina sempre à luz da doutrina católica. Seu canal é dedicado à Tradição católica.", book: "Seu livro «Nosotros» →" },
+        beroch: { desc: "Sacerdote, professor e licenciado em filosofia. Explica e defende a fé no seu canal e na sua Academia Católica, «rumo à contemplação da verdade»." },
         montfort: { tag: "França · c. 1712", title: "Tratado da Verdadeira Devoção à Santíssima Virgem", author: "São Luís Maria Grignion de Montfort", desc: "A obra clássica sobre a consagração a Jesus por Maria. Edição completa em PDF, em inglês.", ed1: "PDF em inglês →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {

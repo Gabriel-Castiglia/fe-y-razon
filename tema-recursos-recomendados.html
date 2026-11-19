@@ -209,12 +209,18 @@
 
       /* ── PRIESTS — portrait cards ── */
       .rec-priests {
-        /* Cuatro en fila: los tres sacerdotes y el Tratado de Montfort (19-nov-2026);
-           en pantallas medianas, dos por fila. */
-        display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.25rem;
+        /* Cinco tarjetas iguales (19-nov-2026): tres arriba y dos centradas abajo.
+           La grilla tiene seis columnas y cada tarjeta ocupa dos; la cuarta
+           empieza en la segunda columna. En pantallas medianas, dos por fila
+           y la quinta centrada. */
+        display: grid; grid-template-columns: repeat(6, 1fr); gap: 1.5rem;
       }
+      .rec-priests > .rec-priest { grid-column: span 2; }
+      .rec-priests > .rec-priest:nth-child(4) { grid-column: 2 / span 2; }
       @media (max-width: 1100px) {
-        .rec-priests { grid-template-columns: repeat(2, 1fr); }
+        .rec-priests { grid-template-columns: repeat(4, 1fr); }
+        .rec-priests > .rec-priest:nth-child(4) { grid-column: span 2; }
+        .rec-priests > .rec-priest:nth-child(5) { grid-column: 2 / span 2; }
       }
       .rec-priest {
         border-radius: 14px; overflow: hidden; background: var(--rec-oscuro);
@@ -594,6 +600,9 @@
       /* ── responsive ── */
       @media (max-width: 860px) {
         .rec-priests { grid-template-columns: 1fr; max-width: none; }
+        .rec-priests > .rec-priest,
+        .rec-priests > .rec-priest:nth-child(4),
+        .rec-priests > .rec-priest:nth-child(5) { grid-column: auto; }
         .rec-apost   { grid-template-columns: 1fr; }
         /* En una columna, la Santa Sede toma la forma de las demás tarjetas
            (13-oct-2026): la foto arriba, sin texto encima, y el texto debajo. */
@@ -700,7 +709,7 @@
             <div class="rec-priest">
               <div class="rec-priest-photo">
                 <img src="Recursos/Im%C3%A1genes/gomez-mir.webp" alt="Padre Antonio J. Gómez Mir" loading="lazy" style="object-position: 60% center;">
-                <span class="rec-priest-country" data-i18n="topicPages.recursos-recomendados.labels.gomezMirCountry">España · Stat Crux</span>
+                <span class="rec-priest-country" data-i18n="topicPages.recursos-recomendados.labels.gomezMirCountry">Barcelona · Stat Crux</span>
               </div>
               <div class="rec-priest-body">
                 <h3>P. Antonio J. Gómez Mir</h3>
@@ -712,6 +721,22 @@
               </div>
             </div>
 
+
+            <!-- P. Tomás Beroch (19-nov-2026). Foto: la de su canal de YouTube. -->
+            <div class="rec-priest">
+              <div class="rec-priest-photo">
+                <img src="Recursos/Im%C3%A1genes/beroch.webp" alt="Padre Tomás Beroch" loading="lazy" style="object-position: center 20%;">
+                <span class="rec-priest-country" data-i18n="topicPages.recursos-recomendados.labels.berochCountry">Estados Unidos · Academia Católica</span>
+              </div>
+              <div class="rec-priest-body">
+                <h3>P. Tomás Beroch</h3>
+                <p data-i18n="topicPages.recursos-recomendados.sec2.beroch.desc">Sacerdote, profesor y licenciado en filosofía. Explica y defiende la fe en su canal y en su Academia Católica, «hacia la contemplación de la verdad».</p>
+                <div class="rec-priest-links">
+                  <a href="https://www.youtube.com/@fr.tomasberoch6242" target="_blank" rel="noopener" class="rec-pill" data-i18n="topicPages.recursos-recomendados.labels.youtube">YouTube →</a>
+                  <a href="https://academiacatolica.com/" target="_blank" rel="noopener" class="rec-pill" data-i18n="topicPages.recursos-recomendados.labels.website">Sitio web →</a>
+                </div>
+              </div>
+            </div>
 
             <!-- Tratado de la Verdadera Devoción: un solo cuadro con las dos ediciones
                  en PDF (español); en francés, la edición francesa y en los demás
@@ -827,6 +852,7 @@
                 <p data-i18n="topicPages.recursos-recomendados.sec3.ascension.desc">El canal de Ascension, la editorial de The Great Adventure. El P. Mike Schmitz, Jeff Cavins y otros sacerdotes y religiosas responden en vídeos breves preguntas sobre la fe y la vida cristiana.</p>
                 <div class="rec-apost-links">
                   <a href="https://www.youtube.com/@AscensionPresents" target="_blank" rel="noopener" class="rec-apost-link" data-i18n="topicPages.recursos-recomendados.labels.youtube">YouTube →</a>
+                  <a href="https://ascensionpress.com/" target="_blank" rel="noopener" class="rec-apost-link">Ascension Press →</a>
                 </div>
               </div>
             </div>
@@ -884,7 +910,7 @@
     </footer>
     
     <script src="js/main.js?v=19" defer></script>
-    <script src="js/translations.js?v=42" defer></script>
+    <script src="js/translations.js?v=43" defer></script>
     <script src="js/adviento.js?v=7" defer></script>
 </body>
 </html>

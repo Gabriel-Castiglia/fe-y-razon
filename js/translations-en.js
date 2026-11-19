@@ -1298,7 +1298,8 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
         inSpanish: "In Spanish →",
         toroCountry: "Venezuela",
         oliveraCountry: "Argentina · QNTLC",
-        gomezMirCountry: "Spain · Stat Crux",
+        gomezMirCountry: "Barcelona · Stat Crux",
+        berochCountry: "United States · Academia Católica",
         heraldosTag: "Ecuador"
       },
       sec1: { eyebrow: "Holy See", title: "Vatican Sources", desc: "Official Church documents, available on the Holy See\'s website." },
@@ -1307,6 +1308,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
         toro:    { desc: "Theologian and apologist. He answers the most difficult objections to the Catholic faith with great depth." },
         olivera: { desc: "Augustinian historian and apologist. He tackles rationalism, sects, and modern errors with rigor." },
         gomezMir: { desc: "A priest and scholar of Freemasonry, Gnosticism and the occult, which he always examines in the light of Catholic doctrine. His channel is devoted to the Catholic Tradition.", book: "His book «Nosotros» →" },
+        beroch: { desc: "Priest, teacher and graduate in philosophy. He explains and defends the faith on his channel and in his Academia Católica, “toward the contemplation of truth”." },
         montfort: { tag: "France · c. 1712", title: "Treatise on True Devotion to the Blessed Virgin", author: "St. Louis-Marie Grignion de Montfort", desc: "The classic work on consecration to Jesus through Mary. Complete edition in PDF, from the Montfort Missionaries.", ed1: "Read the PDF →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {

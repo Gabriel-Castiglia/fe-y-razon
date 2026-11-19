@@ -1105,7 +1105,8 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         inSpanish: "Na Espagnol →",
         toroCountry: "Venezuela",
         oliveraCountry: "Argentine · QNTLC",
-        gomezMirCountry: "Espagne · Stat Crux",
+        gomezMirCountry: "Barcelone · Stat Crux",
+        berochCountry: "Amerika · Academia Católica",
         heraldosTag: "Équateur"
       },
       sec1: { eyebrow: "Saint-Siège", title: "Ba sources ya Vatican", desc: "Ba documents officiels ya Eklezia, ezali na site ya Saint-Siège." },
@@ -1114,6 +1115,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         toro:    { desc: "Théologien mpe apologète. Apesaka biyano na mozindo na ba objections ya makasi mpenza na kondima ya Katolike." },
         olivera: { desc: "Historien mpe apologète augustin. Asalaka masolo ya rationalisme, ba sectes mpe ba erreurs modernes na bosikisiki." },
         gomezMir: { desc: "Nganga-Nzambe mpe moyekoli ya Franc-maçonnerie, ya gnosticisme mpe ya occultisme, oyo atalelaka yango ntango nyonso na pole ya mateya ya Katolike. Chaîne na ye ezali mpo na Tradition ya Katolike.", book: "Buku na ye «Nosotros» →" },
+        beroch: { desc: "Nganga-Nzambe, molakisi mpe moyekoli ya filozofi. Alimbolaka mpe abatelaka kondima na chaîne na ye mpe na Academia Católica na ye, «mpo na kotala solo»." },
         montfort: { tag: "Falansɛ · pene na 1712", title: "Buku ya Bokumisi ya Solo epai ya Bikira Maria Mosantu", author: "Santu Louis-Marie Grignion de Montfort", desc: "Mosala ya kala oyo elobeli komipesa na Yesu na nzela ya Maria. Ebimisi mobimba na PDF, na lokota ya Angelɛ.", ed1: "PDF na Angelɛ →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {

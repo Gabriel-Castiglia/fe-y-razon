@@ -1298,7 +1298,8 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         inSpanish: "På spansk →",
         toroCountry: "Venezuela",
         oliveraCountry: "Argentina · QNTLC",
-        gomezMirCountry: "Spanien · Stat Crux",
+        gomezMirCountry: "Barcelona · Stat Crux",
+        berochCountry: "USA · Academia Católica",
         heraldosTag: "Ecuador"
       },
       sec1: { eyebrow: "Den Hellige Stol", title: "Vatikanske kilder", desc: "Officielle kirkelige dokumenter, tilgængelige på Den Hellige Stols websted." },
@@ -1307,6 +1308,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         toro:    { desc: "Teolog og apologet. Besvarer de sværeste indvendinger mod den katolske tro med stor dybde." },
         olivera: { desc: "Augustinsk historiker og apologet. Tager fat på rationalisme, sekter og moderne vildfarelser med grundighed." },
         gomezMir: { desc: "Præst og kender af frimureriet, gnosticismen og okkultismen, som han altid undersøger i lyset af den katolske lære. Hans kanal er viet til den katolske tradition.", book: "Hans bog «Nosotros» →" },
+        beroch: { desc: "Præst, lærer og uddannet i filosofi. Han forklarer og forsvarer troen på sin kanal og i sit Academia Católica, «mod betragtningen af sandheden»." },
         montfort: { tag: "Frankrig · ca. 1712", title: "Traktat om den sande andagt til Den Hellige Jomfru", author: "Sankt Louis-Marie Grignion de Montfort", desc: "Det klassiske værk om indvielsen til Jesus gennem Maria. Komplet udgave i PDF, på engelsk.", ed1: "PDF på engelsk →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {

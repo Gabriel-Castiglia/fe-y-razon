@@ -1298,7 +1298,8 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         inSpanish: "スペイン語版 →",
         toroCountry: "ベネズエラ",
         oliveraCountry: "アルゼンチン · QNTLC",
-        gomezMirCountry: "スペイン・Stat Crux",
+        gomezMirCountry: "バルセロナ・Stat Crux",
+        berochCountry: "アメリカ・Academia Católica",
         heraldosTag: "エクアドル"
       },
       sec1: { eyebrow: "聖座", title: "バチカンの資料", desc: "聖座の公式サイトで入手できる教会の公式文書。" },
@@ -1307,6 +1308,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         toro:    { desc: "神学者で護教論者。カトリック信仰に対する最も困難な異議に深みをもって答える。" },
         olivera: { desc: "アウグスティノ会の歴史家で護教論者。合理主義、諸宗派、現代の誤りに厳密さをもって取り組む。" },
         gomezMir: { desc: "フリーメイソン、グノーシス主義、オカルティズムを研究する司祭。常にカトリックの教えに照らして検証する。チャンネルはカトリックの聖伝をテーマにしている。", book: "著書『Nosotros』→" },
+        beroch: { desc: "司祭、教師、哲学の学位を持つ。自身のチャンネルと「アカデミア・カトリカ」で、「真理の観想へ」と信仰を説明し、擁護する。" },
         montfort: { tag: "フランス · 1712年頃", title: "聖母マリアへのまことの信心", author: "聖ルイ・マリー・グリニョン・ド・モンフォール", desc: "マリアを通してイエスに自らを奉献することを説いた古典。完全版PDF（英語）。", ed1: "英語版PDF →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen（PDF）→" }
       },
       sec3: {

@@ -1113,7 +1113,8 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
         inSpanish: "En espagnol →",
         toroCountry: "Venezuela",
         oliveraCountry: "Argentine · QNTLC",
-        gomezMirCountry: "Espagne · Stat Crux",
+        gomezMirCountry: "Barcelone · Stat Crux",
+        berochCountry: "États-Unis · Academia Católica",
         heraldosTag: "Équateur"
       },
       sec1: { eyebrow: "Saint-Siège", title: "Sources vaticanes", desc: "Documents officiels de l'Église, disponibles sur le site du Saint-Siège." },
@@ -1122,6 +1123,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
         toro:    { desc: "Théologien et apologète. Répond avec profondeur aux objections les plus difficiles à la foi catholique." },
         olivera: { desc: "Historien et apologète augustin. Aborde le rationalisme, les sectes et les erreurs modernes avec rigueur." },
         gomezMir: { desc: "Prêtre et spécialiste de la franc-maçonnerie, du gnosticisme et de l’occultisme, qu’il examine toujours à la lumière de la doctrine catholique. Sa chaîne est consacrée à la Tradition catholique.", book: "Son livre « Nosotros » →" },
+        beroch: { desc: "Prêtre, professeur et licencié en philosophie. Il explique et défend la foi sur sa chaîne et dans son Academia Católica, « vers la contemplation de la vérité »." },
         montfort: { tag: "France · vers 1712", title: "Traité de la vraie dévotion à la Sainte Vierge", author: "Saint Louis-Marie Grignion de Montfort", desc: "L'œuvre classique sur la consécration à Jésus par Marie. Édition complète en PDF, des Missionnaires Montfortains.", ed1: "Lire le PDF →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_FR_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {

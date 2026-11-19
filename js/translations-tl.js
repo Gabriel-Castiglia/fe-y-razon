@@ -1298,7 +1298,8 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
         inSpanish: "Sa Espanyol →",
         toroCountry: "Venezuela",
         oliveraCountry: "Argentina · QNTLC",
-        gomezMirCountry: "Espanya · Stat Crux",
+        gomezMirCountry: "Barcelona · Stat Crux",
+        berochCountry: "Estados Unidos · Academia Católica",
         heraldosTag: "Ecuador"
       },
       sec1: { eyebrow: "Banal na Luklukan", title: "Mga Mapagkukunan ng Vaticano", desc: "Mga opisyal na dokumento ng Simbahan, available sa website ng Holy See." },
@@ -1307,6 +1308,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
         toro:    { desc: "Teologo at apologista. Tinatawid ang pinakamahirap na pagtutol sa Katolikong pananampalataya nang may kalaliman." },
         olivera: { desc: "Augustinianong istoryador at apologista. Tinatawid ang rasyonalismo, mga sekta, at modernong kamalian nang may kahusayan." },
         gomezMir: { desc: "Pari at dalubhasa sa Masoneriya, Gnostisismo at okultismo, na lagi niyang sinusuri sa liwanag ng doktrinang Katoliko. Nakatuon ang kanyang channel sa Tradisyong Katoliko.", book: "Ang kanyang aklat na «Nosotros» →" },
+        beroch: { desc: "Pari, guro at nagtapos sa pilosopiya. Ipinapaliwanag at ipinagtatanggol niya ang pananampalataya sa kanyang channel at sa kanyang Academia Católica, «tungo sa pagninilay sa katotohanan»." },
         montfort: { tag: "Pransiya · mga 1712", title: "Tratado ng Tunay na Debosyon sa Mahal na Birhen", author: "San Luis Maria Grignion de Montfort", desc: "Ang klasikong akda tungkol sa pagtatalaga kay Jesus sa pamamagitan ni Maria. Buong edisyon sa PDF, sa Ingles.", ed1: "PDF sa Ingles →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {

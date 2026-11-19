@@ -1105,7 +1105,8 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         inSpanish: "Kwa Kihispania →",
         toroCountry: "Venezuela",
         oliveraCountry: "Ajentina · QNTLC",
-        gomezMirCountry: "Hispania · Stat Crux",
+        gomezMirCountry: "Barcelona · Stat Crux",
+        berochCountry: "Marekani · Academia Católica",
         heraldosTag: "Ekwado"
       },
       sec1: { eyebrow: "Makao Makuu", title: "Vyanzo vya Vatikani", desc: "Nyaraka rasmi za Kanisa, zinazopatikana kwenye tovuti ya Makao Makuu." },
@@ -1114,6 +1115,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         toro:    { desc: "Mwanatheolojia na mwanapolojetiki. Anajibu kwa kina pingamizi ngumu zaidi kwa imani ya Kikatoliki." },
         olivera: { desc: "Mwanahistoria na mwanapolojetiki wa Shirika la Mt. Augustino. Anashughulikia urazini, madhehebu, na makosa ya kisasa kwa usahihi." },
         gomezMir: { desc: "Padre na mtaalamu wa Freemasonry, Ugnostiki na uchawi, anayeyachunguza daima kwa mwanga wa mafundisho ya Kikatoliki. Chaneli yake imejitoa kwa Mapokeo ya Kikatoliki.", book: "Kitabu chake «Nosotros» →" },
+        beroch: { desc: "Padre, mwalimu na mhitimu wa falsafa. Anaeleza na kuitetea imani katika chaneli yake na katika Academia Católica yake, «kuelekea kutafakari ukweli»." },
         montfort: { tag: "Ufaransa · karibu 1712", title: "Mkataba juu ya Ibada ya Kweli kwa Bikira Maria Mtakatifu", author: "Mt. Louis-Marie Grignion de Montfort", desc: "Kazi maarufu juu ya kujiweka wakfu kwa Yesu kupitia Maria. Toleo kamili katika PDF, kwa Kiingereza.", ed1: "PDF kwa Kiingereza →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {

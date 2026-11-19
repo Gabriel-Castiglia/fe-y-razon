@@ -1105,7 +1105,8 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         inSpanish: "In spagnolo →",
         toroCountry: "Venezuela",
         oliveraCountry: "Argentina · QNTLC",
-        gomezMirCountry: "Spagna · Stat Crux",
+        gomezMirCountry: "Barcellona · Stat Crux",
+        berochCountry: "Stati Uniti · Academia Católica",
         heraldosTag: "Ecuador"
       },
       sec1: { eyebrow: "Santa Sede", title: "Fonti vaticane", desc: "Documenti ufficiali della Chiesa, disponibili sul sito della Santa Sede." },
@@ -1114,6 +1115,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         toro:    { desc: "Teologo e apologeta. Risponde con profondità alle obiezioni più difficili alla fede cattolica." },
         olivera: { desc: "Storico e apologeta agostiniano. Affronta il razionalismo, le sette e gli errori moderni con rigore." },
         gomezMir: { desc: "Sacerdote e studioso di massoneria, gnosticismo e occultismo, che esamina sempre alla luce della dottrina cattolica. Il suo canale è dedicato alla Tradizione cattolica.", book: "Il suo libro «Nosotros» →" },
+        beroch: { desc: "Sacerdote, insegnante e laureato in filosofia. Spiega e difende la fede sul suo canale e nella sua Academia Católica, «verso la contemplazione della verità»." },
         montfort: { tag: "Francia · 1712 circa", title: "Trattato della vera devozione alla Santa Vergine", author: "San Luigi Maria Grignion de Montfort", desc: "L'opera classica sulla consacrazione a Gesù per mezzo di Maria. Edizione completa in PDF, in inglese.", ed1: "PDF in inglese →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
