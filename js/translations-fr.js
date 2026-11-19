@@ -1113,6 +1113,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
         inSpanish: "En espagnol →",
         toroCountry: "Venezuela",
         oliveraCountry: "Argentine · QNTLC",
+        gomezMirCountry: "Espagne · Stat Crux",
         heraldosTag: "Équateur"
       },
       sec1: { eyebrow: "Saint-Siège", title: "Sources vaticanes", desc: "Documents officiels de l'Église, disponibles sur le site du Saint-Siège." },
@@ -1120,6 +1121,7 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
         eyebrow: "Apologétique · Formation", title: "Prêtres et formateurs", desc: "Des voix fidèles au Magistère qui enseignent, défendent et proclament la foi avec profondeur et rigueur.",
         toro:    { desc: "Théologien et apologète. Répond avec profondeur aux objections les plus difficiles à la foi catholique." },
         olivera: { desc: "Historien et apologète augustin. Aborde le rationalisme, les sectes et les erreurs modernes avec rigueur." },
+        gomezMir: { desc: "Prêtre et spécialiste de la franc-maçonnerie, du gnosticisme et de l’occultisme, qu’il examine toujours à la lumière de la doctrine catholique. Sa chaîne est consacrée à la Tradition catholique.", book: "Son livre « Nosotros » →" },
         montfort: { tag: "France · vers 1712", title: "Traité de la vraie dévotion à la Sainte Vierge", author: "Saint Louis-Marie Grignion de Montfort", desc: "L'œuvre classique sur la consécration à Jésus par Marie. Édition complète en PDF, des Missionnaires Montfortains.", ed1: "Lire le PDF →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_FR_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
@@ -1128,7 +1130,8 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
         heraldos: { desc: "Apostolat missionnaire. Formation, catéchèse et évangélisation fidèles à la Tradition." },
         rugged:   { desc: "De magnifiques chapelets faits à la main et divers articles de foi de grande qualité avec expédition internationale.", tag: "États-Unis" },
         grat:     { desc: "Bible de Jérusalem en anglais ou en espagnol latino (pour les autres langues, vérifiez sur la page officielle). Avec un plan d'étude unique contenant des explications étape par étape et des graphiques, idéal pour les néophytes.", tag: "Bible · Formation" },
-        ewtn:     { desc: "Le plus grand réseau de télévision catholique au monde. Messe quotidienne, Saint Rosaire, documentaires et formation 24h/24.", tag: "Télévision · Radio" }
+        ewtn:     { desc: "Le plus grand réseau de télévision catholique au monde. Messe quotidienne, Saint Rosaire, documentaires et formation 24h/24.", tag: "Télévision · Radio" },
+        ascension: { tag: "États-Unis · En anglais", desc: "La chaîne d’Ascension, l’éditeur de The Great Adventure. Le P. Mike Schmitz, Jeff Cavins et d’autres prêtres et religieuses répondent en courtes vidéos aux questions sur la foi et la vie chrétienne." }
       },
       nav: { prevTitle: "La primauté de Pierre", nextTitle: "Le Sacerdoce dans l'Église Catholique" }
     },
@@ -1340,7 +1343,16 @@ Nous donc aussi, <strong class="s-hi">entourés que nous sommes d'une si grande 
     wreathWeek1: "Première semaine de l’Avent",
     wreathWeek2: "Deuxième semaine de l’Avent",
     wreathWeek3: "Troisième semaine de l’Avent, dimanche de Gaudete",
-    wreathWeek4: "Quatrième semaine de l’Avent"
+    wreathWeek4: "Quatrième semaine de l’Avent",
+    countdownCandle2: "Avant la deuxième bougie",
+    countdownCandle3: "Avant la troisième bougie",
+    countdownCandle4: "Avant la quatrième bougie",
+    dateNote2: "Deuxième dimanche de l’Avent : 6 décembre 2026, heure du Vatican.",
+    dateNote3: "Troisième dimanche de l’Avent, Gaudete : 13 décembre 2026, heure du Vatican.",
+    dateNote4: "Quatrième dimanche de l’Avent : 20 décembre 2026, heure du Vatican.",
+    wreathNext2: "La deuxième bougie s’allume le dimanche 6 décembre.",
+    wreathNext3: "La troisième bougie, la rose, s’allume le dimanche 13 décembre.",
+    wreathNext4: "La quatrième bougie s’allume le dimanche 20 décembre."
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Tous droits réservés.</strong> Toute reproduction, totale ou partielle, est interdite sans l'autorisation écrite de l'auteur.", text: "Foi et Raison. Ad majorem Dei gloriam." }

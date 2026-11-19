@@ -1298,6 +1298,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         inSpanish: "På spansk →",
         toroCountry: "Venezuela",
         oliveraCountry: "Argentina · QNTLC",
+        gomezMirCountry: "Spanien · Stat Crux",
         heraldosTag: "Ecuador"
       },
       sec1: { eyebrow: "Den Hellige Stol", title: "Vatikanske kilder", desc: "Officielle kirkelige dokumenter, tilgængelige på Den Hellige Stols websted." },
@@ -1305,6 +1306,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         eyebrow: "Apologetik · Dannelse", title: "Præster og undervisere", desc: "Stemmer, der er tro mod Læreembedet, og som underviser i, forsvarer og forkynder troen med dybde og grundighed.",
         toro:    { desc: "Teolog og apologet. Besvarer de sværeste indvendinger mod den katolske tro med stor dybde." },
         olivera: { desc: "Augustinsk historiker og apologet. Tager fat på rationalisme, sekter og moderne vildfarelser med grundighed." },
+        gomezMir: { desc: "Præst og kender af frimureriet, gnosticismen og okkultismen, som han altid undersøger i lyset af den katolske lære. Hans kanal er viet til den katolske tradition.", book: "Hans bog «Nosotros» →" },
         montfort: { tag: "Frankrig · ca. 1712", title: "Traktat om den sande andagt til Den Hellige Jomfru", author: "Sankt Louis-Marie Grignion de Montfort", desc: "Det klassiske værk om indvielsen til Jesus gennem Maria. Komplet udgave i PDF, på engelsk.", ed1: "PDF på engelsk →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
@@ -1313,7 +1315,8 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         heraldos: { desc: "Missionærsk apostolat. Dannelse, katekese og evangelisering tro mod Traditionen." },
         rugged:   { desc: "Smukke håndlavede rosenkranse og forskellige trosartikler af høj kvalitet med international forsendelse.", tag: "USA" },
         grat:     { desc: "Jerusalems Bibel på engelsk eller latinamerikansk spansk (for andre sprog, tjek den officielle side). Med en unik studieplan med trin-for-trin forklaringer og grafik, ideel til neofytter.", tag: "Bibel · Dannelse" },
-        ewtn:     { desc: "Verdens største katolske tv-netværk. Daglig messe, Den hellige rosenkrans, dokumentarer og dannelse døgnet rundt.", tag: "TV · Radio" }
+        ewtn:     { desc: "Verdens største katolske tv-netværk. Daglig messe, Den hellige rosenkrans, dokumentarer og dannelse døgnet rundt.", tag: "TV · Radio" },
+        ascension: { tag: "USA · På engelsk", desc: "Kanalen fra Ascension, forlaget bag The Great Adventure. P. Mike Schmitz, Jeff Cavins og andre præster og ordensfolk besvarer i korte videoer spørgsmål om troen og det kristne liv." }
       },
       nav: {
         prevTitle: "Peters primat",
@@ -1536,7 +1539,16 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
     wreathWeek1: "Første uge i advent",
     wreathWeek2: "Anden uge i advent",
     wreathWeek3: "Tredje uge i advent, Gaudete-søndag",
-    wreathWeek4: "Fjerde uge i advent"
+    wreathWeek4: "Fjerde uge i advent",
+    countdownCandle2: "Til det andet lys",
+    countdownCandle3: "Til det tredje lys",
+    countdownCandle4: "Til det fjerde lys",
+    dateNote2: "Anden søndag i advent: 6. december 2026, Vatikanets tid.",
+    dateNote3: "Tredje søndag i advent, Gaudete: 13. december 2026, Vatikanets tid.",
+    dateNote4: "Fjerde søndag i advent: 20. december 2026, Vatikanets tid.",
+    wreathNext2: "Det andet lys tændes søndag den 6. december.",
+    wreathNext3: "Det tredje lys, det rosa, tændes søndag den 13. december.",
+    wreathNext4: "Det fjerde lys tændes søndag den 20. december."
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Alle rettigheder forbeholdes.</strong> Hel eller delvis gengivelse er forbudt uden forfatterens skriftlige tilladelse.",

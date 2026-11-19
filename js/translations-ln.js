@@ -1105,6 +1105,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         inSpanish: "Na Espagnol →",
         toroCountry: "Venezuela",
         oliveraCountry: "Argentine · QNTLC",
+        gomezMirCountry: "Espagne · Stat Crux",
         heraldosTag: "Équateur"
       },
       sec1: { eyebrow: "Saint-Siège", title: "Ba sources ya Vatican", desc: "Ba documents officiels ya Eklezia, ezali na site ya Saint-Siège." },
@@ -1112,6 +1113,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         eyebrow: "Apologetiki · Mateya", title: "Banganga-nzambe mpe bateyi", desc: "Mingongo ya sembo na Magisterium oyo eteyaka, ebatelaka mpe esakolaka kondima na mozindo mpe bosikisiki.",
         toro:    { desc: "Théologien mpe apologète. Apesaka biyano na mozindo na ba objections ya makasi mpenza na kondima ya Katolike." },
         olivera: { desc: "Historien mpe apologète augustin. Asalaka masolo ya rationalisme, ba sectes mpe ba erreurs modernes na bosikisiki." },
+        gomezMir: { desc: "Nganga-Nzambe mpe moyekoli ya Franc-maçonnerie, ya gnosticisme mpe ya occultisme, oyo atalelaka yango ntango nyonso na pole ya mateya ya Katolike. Chaîne na ye ezali mpo na Tradition ya Katolike.", book: "Buku na ye «Nosotros» →" },
         montfort: { tag: "Falansɛ · pene na 1712", title: "Buku ya Bokumisi ya Solo epai ya Bikira Maria Mosantu", author: "Santu Louis-Marie Grignion de Montfort", desc: "Mosala ya kala oyo elobeli komipesa na Yesu na nzela ya Maria. Ebimisi mobimba na PDF, na lokota ya Angelɛ.", ed1: "PDF na Angelɛ →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
@@ -1120,7 +1122,8 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         heraldos: { desc: "Mosala ya mission. Mateya, katekismo mpe évangélisation ya sembo na Tradition." },
         rugged:   { desc: "Banzete ya rosario ya kitoko esalemi na maboko mpe biloko ndenge na ndenge ya kondima ya qualité ya likolo na expédition internationale.", tag: "États-Unis" },
         grat:     { desc: "Biblia ya Yerusalemi na Lingelesi to na Espagnol ya Amérique latine (mpona minoko mosusu tala na page officielle). Na plan d'étude ya kokamwa oyo ezali na ba explications etape na etape mpe ba graphiques, malamu mpona ba neophytes.", tag: "Biblia · Mateya" },
-        ewtn:     { desc: "Réseau monene ya télévision Katolike na mokili mobimba. Misa ya mokolo na mokolo, Rosario Mosantu, ba documentaires mpe mateya ngonga 24.", tag: "Televisyo · Radio" }
+        ewtn:     { desc: "Réseau monene ya télévision Katolike na mokili mobimba. Misa ya mokolo na mokolo, Rosario Mosantu, ba documentaires mpe mateya ngonga 24.", tag: "Televisyo · Radio" },
+        ascension: { tag: "Amerika · Na lingelesi", desc: "Chaîne ya Ascension, oyo ebimisaka The Great Adventure. P. Mike Schmitz, Jeff Cavins mpe banganga-Nzambe mpe basantu mosusu bazongisaka na bavideo mikuse mituna na ntina ya kondima mpe bomoi ya bokristo." }
       },
       nav: { prevTitle: "Bokambi ya Petro", nextTitle: "Bonganga-nzambe na Eklezia Katolike" }
     },
@@ -1332,7 +1335,16 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
     wreathWeek1: "Pɔsɔ ya liboso ya Adventi",
     wreathWeek2: "Pɔsɔ ya mibale ya Adventi",
     wreathWeek3: "Pɔsɔ ya misato ya Adventi, Lomingo ya Gaudete",
-    wreathWeek4: "Pɔsɔ ya minei ya Adventi"
+    wreathWeek4: "Pɔsɔ ya minei ya Adventi",
+    countdownCandle2: "Liboso ya mwinda ya mibale",
+    countdownCandle3: "Liboso ya mwinda ya misato",
+    countdownCandle4: "Liboso ya mwinda ya minei",
+    dateNote2: "Lomingo ya mibale ya Adventi: 6 décembre 2026, ngonga ya Vatikani.",
+    dateNote3: "Lomingo ya misato ya Adventi, Gaudete: 13 décembre 2026, ngonga ya Vatikani.",
+    dateNote4: "Lomingo ya minei ya Adventi: 20 décembre 2026, ngonga ya Vatikani.",
+    wreathNext2: "Mwinda ya mibale epelisami na Lomingo, 6 décembre.",
+    wreathNext3: "Mwinda ya misato, ya langi ya rozi, epelisami na Lomingo, 13 décembre.",
+    wreathNext4: "Mwinda ya minei epelisami na Lomingo, 20 décembre."
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Makoki nyonso ebombami.</strong> Epekisami kokopi mobimba to ndambo soki ndingisa ya mokanda ya mokomi ezali te.", text: "Kondima mpe Mayele. Ad maiorem Dei gloriam." }

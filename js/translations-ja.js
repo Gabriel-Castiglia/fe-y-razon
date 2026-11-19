@@ -1298,6 +1298,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         inSpanish: "スペイン語版 →",
         toroCountry: "ベネズエラ",
         oliveraCountry: "アルゼンチン · QNTLC",
+        gomezMirCountry: "スペイン・Stat Crux",
         heraldosTag: "エクアドル"
       },
       sec1: { eyebrow: "聖座", title: "バチカンの資料", desc: "聖座の公式サイトで入手できる教会の公式文書。" },
@@ -1305,6 +1306,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         eyebrow: "護教学・養成", title: "司祭と教育者", desc: "教導権に忠実な声として、深みと厳密さをもって信仰を教え、守り、宣べ伝える人々。",
         toro:    { desc: "神学者で護教論者。カトリック信仰に対する最も困難な異議に深みをもって答える。" },
         olivera: { desc: "アウグスティノ会の歴史家で護教論者。合理主義、諸宗派、現代の誤りに厳密さをもって取り組む。" },
+        gomezMir: { desc: "フリーメイソン、グノーシス主義、オカルティズムを研究する司祭。常にカトリックの教えに照らして検証する。チャンネルはカトリックの聖伝をテーマにしている。", book: "著書『Nosotros』→" },
         montfort: { tag: "フランス · 1712年頃", title: "聖母マリアへのまことの信心", author: "聖ルイ・マリー・グリニョン・ド・モンフォール", desc: "マリアを通してイエスに自らを奉献することを説いた古典。完全版PDF（英語）。", ed1: "英語版PDF →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen（PDF）→" }
       },
       sec3: {
@@ -1313,7 +1315,8 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         heraldos: { desc: "宣教使徒活動。伝統に忠実な養成、教理教育、宣教。" },
         rugged:   { desc: "美しい手作りのロザリオと国際配送可能な高品質の信仰用品各種。", tag: "アメリカ合衆国" },
         grat:     { desc: "英語またはラテンアメリカスペイン語のエルサレム聖書（他の言語については公式ページで確認してください）。段階的な説明とグラフィックを含む独自の学習計画で、初心者に最適。", tag: "聖書・養成" },
-        ewtn:     { desc: "世界最大のカトリックテレビネットワーク。毎日のミサ、聖ロザリオ、ドキュメンタリー、24時間の養成。", tag: "テレビ・ラジオ" }
+        ewtn:     { desc: "世界最大のカトリックテレビネットワーク。毎日のミサ、聖ロザリオ、ドキュメンタリー、24時間の養成。", tag: "テレビ・ラジオ" },
+        ascension: { tag: "アメリカ・英語", desc: "『The Great Adventure』の出版社Ascensionのチャンネル。マイク・シュミッツ神父、ジェフ・カビンズをはじめ司祭や修道者が、信仰とキリスト者の生活についての質問に短い動画で答える。" }
       },
       nav: {
         prevTitle: "ペトロの首位権",
@@ -1536,7 +1539,16 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
     wreathWeek1: "待降節第1週",
     wreathWeek2: "待降節第2週",
     wreathWeek3: "待降節第3週・喜びの主日（ガウデーテ）",
-    wreathWeek4: "待降節第4週"
+    wreathWeek4: "待降節第4週",
+    countdownCandle2: "2本目のろうそくまで",
+    countdownCandle3: "3本目のろうそくまで",
+    countdownCandle4: "4本目のろうそくまで",
+    dateNote2: "待降節第二主日：2026年12月6日（バチカン時間）",
+    dateNote3: "待降節第三主日・喜びの主日（ガウデーテ）：2026年12月13日（バチカン時間）",
+    dateNote4: "待降節第四主日：2026年12月20日（バチカン時間）",
+    wreathNext2: "2本目のろうそくは12月6日（日）にともされます。",
+    wreathNext3: "3本目のばら色のろうそくは12月13日（日）にともされます。",
+    wreathNext4: "4本目のろうそくは12月20日（日）にともされます。"
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. 無断転載を禁じます。</strong> 著者の書面による許可なく、全部または一部を複製することを禁じます。",

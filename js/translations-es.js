@@ -1529,6 +1529,7 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
         inSpanish: "En español →",
         toroCountry: "Venezuela",
         oliveraCountry: "Argentina · QNTLC",
+        gomezMirCountry: "España · Stat Crux",
         heraldosTag: "Ecuador"
       },
       sec1: { eyebrow: "Santa Sede", title: "Fuentes vaticanas", desc: "Documentos oficiales de la Iglesia, disponibles en el sitio de la Santa Sede." },
@@ -1536,6 +1537,7 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
         eyebrow: "Apologética · Formación", title: "Sacerdotes y formadores", desc: "Voces fieles al Magisterio que enseñan, defienden y proclaman la fe con profundidad y rigor.",
         toro:    { desc: "Teólogo y apologeta. Responde con profundidad las objeciones más difíciles a la fe católica." },
         olivera: { desc: "Historiador y apologeta agustino. Aborda el racionalismo, las sectas y los errores modernos con rigor." },
+        gomezMir: { desc: "Sacerdote y estudioso de la masonería, el gnosticismo y el ocultismo, que examina siempre a la luz de la doctrina católica. Su canal está dedicado a la Tradición católica.", book: "Su libro «Nosotros» →" },
         montfort: { tag: "Francia · hacia 1712", title: "Tratado de la Verdadera Devoción a la Santísima Virgen", author: "San Luis María Grignion de Montfort", desc: "La obra clásica sobre la consagración a Jesús por María. Dos ediciones completas en PDF.", ed1: "Edición monfortiana (PDF) →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_ES_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
@@ -1544,7 +1546,8 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
         heraldos: { desc: "Apostolado misionero. Formación, catequesis y evangelización fiel a la Tradición." },
         rugged:   { desc: "Hermosos rosarios hechos a mano y artículos de fe varios de gran calidad con envío internacional.", tag: "Estados Unidos" },
         grat:     { desc: "Biblia de Jerusalén en inglés o español latino (para otros idiomas verifique en la página oficial). Con plan de estudio único conteniendo explicaciones paso a paso y gráficas, ideal para neófitos.", tag: "Biblia · Formación" },
-        ewtn:     { desc: "La red de televisión católica más grande del mundo. Misa diaria, Santo Rosario, documentales y formación las 24 horas.", tag: "Televisión · Radio" }
+        ewtn:     { desc: "La red de televisión católica más grande del mundo. Misa diaria, Santo Rosario, documentales y formación las 24 horas.", tag: "Televisión · Radio" },
+        ascension: { tag: "Estados Unidos · En inglés", desc: "El canal de Ascension, la editorial de The Great Adventure. El P. Mike Schmitz, Jeff Cavins y otros sacerdotes y religiosas responden en vídeos breves preguntas sobre la fe y la vida cristiana." }
       },
       nav: {
         prevTitle: "La primacía de Pedro",
@@ -1773,7 +1776,16 @@ Las cinco citas de este artículo fueron cotejadas contra esa fuente el 27-ago-2
     wreathWeek1: "Primera semana de Adviento",
     wreathWeek2: "Segunda semana de Adviento",
     wreathWeek3: "Tercera semana de Adviento, domingo de Gaudete",
-    wreathWeek4: "Cuarta semana de Adviento"
+    wreathWeek4: "Cuarta semana de Adviento",
+    countdownCandle2: "Faltan para la segunda vela",
+    countdownCandle3: "Faltan para la tercera vela",
+    countdownCandle4: "Faltan para la cuarta vela",
+    dateNote2: "Segundo domingo de Adviento: 6 de diciembre de 2026, hora del Vaticano.",
+    dateNote3: "Tercer domingo de Adviento, Gaudete: 13 de diciembre de 2026, hora del Vaticano.",
+    dateNote4: "Cuarto domingo de Adviento: 20 de diciembre de 2026, hora del Vaticano.",
+    wreathNext2: "La segunda vela se enciende el domingo 6 de diciembre.",
+    wreathNext3: "La tercera vela, la rosa, se enciende el domingo 13 de diciembre.",
+    wreathNext4: "La cuarta vela se enciende el domingo 20 de diciembre."
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Todos los derechos reservados.</strong> Prohibida la reproducción total o parcial sin autorización escrita del autor.",

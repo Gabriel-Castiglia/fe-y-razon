@@ -1304,6 +1304,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         inSpanish: "Hispanice →",
         toroCountry: "Venetiola",
         oliveraCountry: "Argentina · QNTLC",
+        gomezMirCountry: "Hispania · Stat Crux",
         heraldosTag: "Aequatoria"
       },
       sec1: { eyebrow: "Sancta Sedes", title: "Fontes Vaticani", desc: "Documenta officialia Ecclesiae, in situ Sanctae Sedis praesto." },
@@ -1311,6 +1312,7 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         eyebrow: "Apologetica · Formatio", title: "Sacerdotes et Formatores", desc: "Voces Magisterio fideles quae fidem cum profunditate et rigore docent, defendunt et proclamant.",
         toro:    { desc: "Theologus et apologeta. Obiectiones difficillimas fidei catholicae cum profunditate respondet." },
         olivera: { desc: "Historicus et apologeta augustinianus. Rationalismum, sectas et errores modernos cum rigore tractat." },
+        gomezMir: { desc: "Sacerdos et Massonismi, Gnosticismi et occultismi peritus, quae semper sub luce doctrinae catholicae perpendit. Canalis eius Traditioni catholicae dicatus est.", book: "Liber eius «Nosotros» →" },
         montfort: { tag: "Gallia · c. MDCCXII", title: "Tractatus de vera devotione erga Beatam Virginem", author: "S. Ludovicus Maria Grignion de Montfort", desc: "Opus classicum de consecratione Iesu per Mariam. Editio integra in forma PDF, Anglice.", ed1: "PDF Anglice →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
@@ -1319,7 +1321,8 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
         heraldos: { desc: "Apostolatus missionarius. Formatio, catechesis et evangelizatio Traditioni fidelis." },
         rugged:   { desc: "Pulcherrimae coronae pretiose factae manibus et varia fidei articulis magnae qualitatis cum missione internationali.", tag: "Civitates Foederatae" },
         grat:     { desc: "Biblia Hierosolymitana anglice vel hispanice (pro aliis linguis paginam officialem verifica). Cum unico consilio studii continente explicationes gradatim et graphica, neophytis aptissima.", tag: "Biblia · Formatio" },
-        ewtn:     { desc: "Maxima retis televisificae catholicae in mundo. Missa cotidiana, Sacrum Rosarium, documenta et formatio viginti quattuor horis.", tag: "Televisio · Radio" }
+        ewtn:     { desc: "Maxima retis televisificae catholicae in mundo. Missa cotidiana, Sacrum Rosarium, documenta et formatio viginti quattuor horis.", tag: "Televisio · Radio" },
+        ascension: { tag: "Civitates Foederatae · Anglice", desc: "Canalis Ascension, editoris operis The Great Adventure. P. Mike Schmitz, Jeff Cavins aliique sacerdotes et religiosi brevibus pelliculis quaestionibus de fide et vita christiana respondent." }
       },
       nav: {
         prevTitle: "Primatus Petri",
@@ -1542,7 +1545,16 @@ Et quid adhuc dicam? Deerit enim me tempus enarrantem de <strong class="s-name">
     wreathWeek1: "Hebdomada I Adventus",
     wreathWeek2: "Hebdomada II Adventus",
     wreathWeek3: "Hebdomada III Adventus, Dominica Gaudete",
-    wreathWeek4: "Hebdomada IV Adventus"
+    wreathWeek4: "Hebdomada IV Adventus",
+    countdownCandle2: "Ad secundam candelam restant",
+    countdownCandle3: "Ad tertiam candelam restant",
+    countdownCandle4: "Ad quartam candelam restant",
+    dateNote2: "Dominica II Adventus: die VI mensis Decembris MMXXVI, hora Vaticana.",
+    dateNote3: "Dominica III Adventus, Gaudete: die XIII mensis Decembris MMXXVI, hora Vaticana.",
+    dateNote4: "Dominica IV Adventus: die XX mensis Decembris MMXXVI, hora Vaticana.",
+    wreathNext2: "Secunda candela accenditur Dominica, die VI Decembris.",
+    wreathNext3: "Tertia candela, rosea, accenditur Dominica, die XIII Decembris.",
+    wreathNext4: "Quarta candela accenditur Dominica, die XX Decembris."
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Omnia iura reservantur.</strong> Vetatur reproductio tota vel partialis sine licentia auctoris scripta.",

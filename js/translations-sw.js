@@ -1105,6 +1105,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         inSpanish: "Kwa Kihispania →",
         toroCountry: "Venezuela",
         oliveraCountry: "Ajentina · QNTLC",
+        gomezMirCountry: "Hispania · Stat Crux",
         heraldosTag: "Ekwado"
       },
       sec1: { eyebrow: "Makao Makuu", title: "Vyanzo vya Vatikani", desc: "Nyaraka rasmi za Kanisa, zinazopatikana kwenye tovuti ya Makao Makuu." },
@@ -1112,6 +1113,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         eyebrow: "Apolojetiki · Malezi", title: "Mapadre na waalimu", desc: "Sauti tiifu kwa Magisterio zinazofundisha, kutetea, na kutangaza imani kwa kina na usahihi.",
         toro:    { desc: "Mwanatheolojia na mwanapolojetiki. Anajibu kwa kina pingamizi ngumu zaidi kwa imani ya Kikatoliki." },
         olivera: { desc: "Mwanahistoria na mwanapolojetiki wa Shirika la Mt. Augustino. Anashughulikia urazini, madhehebu, na makosa ya kisasa kwa usahihi." },
+        gomezMir: { desc: "Padre na mtaalamu wa Freemasonry, Ugnostiki na uchawi, anayeyachunguza daima kwa mwanga wa mafundisho ya Kikatoliki. Chaneli yake imejitoa kwa Mapokeo ya Kikatoliki.", book: "Kitabu chake «Nosotros» →" },
         montfort: { tag: "Ufaransa · karibu 1712", title: "Mkataba juu ya Ibada ya Kweli kwa Bikira Maria Mtakatifu", author: "Mt. Louis-Marie Grignion de Montfort", desc: "Kazi maarufu juu ya kujiweka wakfu kwa Yesu kupitia Maria. Toleo kamili katika PDF, kwa Kiingereza.", ed1: "PDF kwa Kiingereza →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
@@ -1120,7 +1122,8 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         heraldos: { desc: "Utume wa kimisionari. Malezi, katekesi, na uinjilishaji wa uaminifu kwa Mapokeo." },
         rugged:   { desc: "Rozari nzuri zilizotengenezwa kwa mkono na nakala mbalimbali za imani za ubora wa juu zinazosafirishwa kimataifa.", tag: "Marekani" },
         grat:     { desc: "Biblia ya Yerusalemu kwa Kiingereza au Kihispania cha Amerika ya Kusini (kwa lugha zingine angalia ukurasa rasmi). Pamoja na mpango wa kipekee wa kujifunza wenye maelezo ya hatua kwa hatua na michoro, inafaa kwa waamini wapya.", tag: "Biblia · Malezi" },
-        ewtn:     { desc: "Mtandao mkubwa zaidi wa televisheni ya Kikatoliki duniani. Misa ya kila siku, Rozari Takatifu, filamu za maandishi, na malezi masaa 24.", tag: "Televisheni · Redio" }
+        ewtn:     { desc: "Mtandao mkubwa zaidi wa televisheni ya Kikatoliki duniani. Misa ya kila siku, Rozari Takatifu, filamu za maandishi, na malezi masaa 24.", tag: "Televisheni · Redio" },
+        ascension: { tag: "Marekani · Kwa Kiingereza", desc: "Chaneli ya Ascension, mchapishaji wa The Great Adventure. Padre Mike Schmitz, Jeff Cavins na mapadre na watawa wengine hujibu kwa video fupi maswali kuhusu imani na maisha ya Kikristo." }
       },
       nav: { prevTitle: "Ukuu wa Petro", nextTitle: "Ukuhani katika Kanisa Katoliki" }
     },
@@ -1332,7 +1335,16 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
     wreathWeek1: "Juma la kwanza la Majilio",
     wreathWeek2: "Juma la pili la Majilio",
     wreathWeek3: "Juma la tatu la Majilio, Dominika ya Gaudete",
-    wreathWeek4: "Juma la nne la Majilio"
+    wreathWeek4: "Juma la nne la Majilio",
+    countdownCandle2: "Kabla ya mshumaa wa pili",
+    countdownCandle3: "Kabla ya mshumaa wa tatu",
+    countdownCandle4: "Kabla ya mshumaa wa nne",
+    dateNote2: "Dominika ya Pili ya Majilio: 6 Desemba 2026, saa za Vatikani.",
+    dateNote3: "Dominika ya Tatu ya Majilio, Gaudete: 13 Desemba 2026, saa za Vatikani.",
+    dateNote4: "Dominika ya Nne ya Majilio: 20 Desemba 2026, saa za Vatikani.",
+    wreathNext2: "Mshumaa wa pili unawashwa Dominika, 6 Desemba.",
+    wreathNext3: "Mshumaa wa tatu, wa waridi, unawashwa Dominika, 13 Desemba.",
+    wreathNext4: "Mshumaa wa nne unawashwa Dominika, 20 Desemba."
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Haki zote zimehifadhiwa.</strong> Ni marufuku kunakili kwa ujumla au kwa sehemu bila idhini ya maandishi ya mwandishi.", text: "Imani na Akili. Ad maiorem Dei gloriam." }

@@ -122,6 +122,12 @@ html[data-tema^="adviento"] .footer-rights strong { color: var(--a-rosa-claro); 
   max-width: 240px;
   color: rgba(255, 255, 255, 0.7);
 }
+.adv-corona-prox {
+  display: block;
+  margin-top: 2px;
+  color: rgba(255, 255, 255, 0.55);
+}
+.adv-corona-prox:empty { display: none; }
 @media (prefers-reduced-motion: reduce) {
   .adv-corona-vela.encendida::after { animation: none; }
 }

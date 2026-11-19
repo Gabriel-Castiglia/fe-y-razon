@@ -1105,6 +1105,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         inSpanish: "In spagnolo →",
         toroCountry: "Venezuela",
         oliveraCountry: "Argentina · QNTLC",
+        gomezMirCountry: "Spagna · Stat Crux",
         heraldosTag: "Ecuador"
       },
       sec1: { eyebrow: "Santa Sede", title: "Fonti vaticane", desc: "Documenti ufficiali della Chiesa, disponibili sul sito della Santa Sede." },
@@ -1112,6 +1113,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         eyebrow: "Apologetica · Formazione", title: "Sacerdoti e formatori", desc: "Voci fedeli al Magistero che insegnano, difendono e proclamano la fede con profondità e rigore.",
         toro:    { desc: "Teologo e apologeta. Risponde con profondità alle obiezioni più difficili alla fede cattolica." },
         olivera: { desc: "Storico e apologeta agostiniano. Affronta il razionalismo, le sette e gli errori moderni con rigore." },
+        gomezMir: { desc: "Sacerdote e studioso di massoneria, gnosticismo e occultismo, che esamina sempre alla luce della dottrina cattolica. Il suo canale è dedicato alla Tradizione cattolica.", book: "Il suo libro «Nosotros» →" },
         montfort: { tag: "Francia · 1712 circa", title: "Trattato della vera devozione alla Santa Vergine", author: "San Luigi Maria Grignion de Montfort", desc: "L'opera classica sulla consacrazione a Gesù per mezzo di Maria. Edizione completa in PDF, in inglese.", ed1: "PDF in inglese →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
@@ -1120,7 +1122,8 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         heraldos: { desc: "Apostolato missionario. Formazione, catechesi ed evangelizzazione fedele alla Tradizione." },
         rugged:   { desc: "Bellissimi rosari fatti a mano e vari articoli di fede di alta qualità con spedizione internazionale.", tag: "Stati Uniti" },
         grat:     { desc: "Bibbia di Gerusalemme in inglese o spagnolo latino (per altre lingue verificare sulla pagina ufficiale). Con piano di studio unico contenente spiegazioni passo dopo passo e grafiche, ideale per i neofiti.", tag: "Bibbia · Formazione" },
-        ewtn:     { desc: "La più grande rete televisiva cattolica del mondo. Messa quotidiana, Santo Rosario, documentari e formazione 24 ore su 24.", tag: "Televisione · Radio" }
+        ewtn:     { desc: "La più grande rete televisiva cattolica del mondo. Messa quotidiana, Santo Rosario, documentari e formazione 24 ore su 24.", tag: "Televisione · Radio" },
+        ascension: { tag: "Stati Uniti · In inglese", desc: "Il canale di Ascension, l’editore di The Great Adventure. P. Mike Schmitz, Jeff Cavins e altri sacerdoti e religiose rispondono in brevi video a domande sulla fede e sulla vita cristiana." }
       },
       nav: { prevTitle: "Il primato di Pietro", nextTitle: "Il Sacerdozio nella Chiesa Cattolica" }
     },
@@ -1332,7 +1335,16 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
     wreathWeek1: "Prima settimana di Avvento",
     wreathWeek2: "Seconda settimana di Avvento",
     wreathWeek3: "Terza settimana di Avvento, domenica Gaudete",
-    wreathWeek4: "Quarta settimana di Avvento"
+    wreathWeek4: "Quarta settimana di Avvento",
+    countdownCandle2: "Mancano alla seconda candela",
+    countdownCandle3: "Mancano alla terza candela",
+    countdownCandle4: "Mancano alla quarta candela",
+    dateNote2: "Seconda domenica di Avvento: 6 dicembre 2026, ora del Vaticano.",
+    dateNote3: "Terza domenica di Avvento, Gaudete: 13 dicembre 2026, ora del Vaticano.",
+    dateNote4: "Quarta domenica di Avvento: 20 dicembre 2026, ora del Vaticano.",
+    wreathNext2: "La seconda candela si accende domenica 6 dicembre.",
+    wreathNext3: "La terza candela, quella rosa, si accende domenica 13 dicembre.",
+    wreathNext4: "La quarta candela si accende domenica 20 dicembre."
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Tutti i diritti riservati.</strong> È vietata la riproduzione totale o parziale senza autorizzazione scritta dell'autore.", text: "Fede e Ragione. Ad maiorem Dei gloriam." }

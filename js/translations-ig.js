@@ -1105,6 +1105,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         inSpanish: "N'asụsụ Spanish →",
         toroCountry: "Venezuela",
         oliveraCountry: "Argentina · QNTLC",
+        gomezMirCountry: "Spain · Stat Crux",
         heraldosTag: "Ecuador"
       },
       sec1: { eyebrow: "Oche Dị Nsọ", title: "Ebe e si nweta ihe na Vatican", desc: "Akwụkwọ gọọmentị nke Nzukọ-nsọ, dị na webụsaịtị Oche Dị Nsọ." },
@@ -1112,6 +1113,7 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         eyebrow: "Apologetics · Ọzụzụ", title: "Ndị Nchụàjà na Ndị Nkuzi", desc: "Olu kwesịrị ntụkwasị obi nye Magisterium ndị na-akụzi, na-echebe ma na-ekwusa okwukwe na omimi na ịdị uchu.",
         toro:    { desc: "Onye na-amụ banyere nkà mmụta okpukpe na apologetics. Ọ na-aza ajụjụ kachasị ike banyere okwukwe Katọlik n'ụzọ miri emi." },
         olivera: { desc: "Ọkọ akụkọ ihe mere eme na apologetic nke Augustinian. Ọ na-agbaso echiche uche, ịrọ òtù na njehie ọgbara ọhụrụ site na ịdị uchu." },
+        gomezMir: { desc: "Ụkọchukwu na ọkà mmụta banyere Freemasonry, Gnosticism na ọgwụ ọdịnala, nke ọ na-enyocha mgbe niile n’ìhè nke nkuzi Katọlik. Ọwa ya bụ maka Ọdịnala Katọlik.", book: "Akwụkwọ ya «Nosotros» →" },
         montfort: { tag: "France · ihe dị ka 1712", title: "Akwụkwọ gbasara Ezi Nsọpụrụ nye Nwaagbọghọ Nsọ Meri", author: "Nsọ Louis-Marie Grignion de Montfort", desc: "Ọrụ ama ama gbasara ịrara onwe onye nye Jizọs site na Meri. Mbipụta zuru ezu na PDF, n'asụsụ Bekee.", ed1: "PDF n'asụsụ Bekee →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
@@ -1120,7 +1122,8 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
         heraldos: { desc: "Ozi ndị ozi ala ọzọ. Ọzụzụ, catechesis, na izisa ozi ọma kwesịrị ntụkwasị obi nye Ọdịnala." },
         rugged:   { desc: "Rosary mara mma ejiri aka mee na ihe okwukwe dị iche iche dị elu nke a na-ezigara mba ụwa.", tag: "United States" },
         grat:     { desc: "Baịbụl Jerusalem na Bekee ma ọ bụ Spanish Latin American (maka asụsụ ndị ọzọ lelee ibe gọọmentị). Nwere atụmatụ ọmụmụ pụrụ iche nwere nkọwa nzọụkwụ na eserese, dị mma maka ndị ọhụrụ.", tag: "Baịbụl · Ọzụzụ" },
-        ewtn:     { desc: "Netwọk telivishọn Katọlik kachasị ukwuu n'ụwa. Misa kwa ụbọchị, Rosary Dị Nsọ, ihe ngosi, na ọzụzụ awa 24.", tag: "Telivishọn · Redio" }
+        ewtn:     { desc: "Netwọk telivishọn Katọlik kachasị ukwuu n'ụwa. Misa kwa ụbọchị, Rosary Dị Nsọ, ihe ngosi, na ọzụzụ awa 24.", tag: "Telivishọn · Redio" },
+        ascension: { tag: "United States · N’asụsụ Bekee", desc: "Ọwa nke Ascension, onye na-ebipụta The Great Adventure. Fr. Mike Schmitz, Jeff Cavins na ndị ụkọchukwu na ndị nọn ndị ọzọ na-aza ajụjụ gbasara okwukwe na ndụ Ndị Kraịst na vidiyo dị mkpụmkpụ." }
       },
       nav: { prevTitle: "Ịbụ onye mbụ nke Pita", nextTitle: "Ọkwa Nchụàjà na Nzukọ-nsọ Katọlik" }
     },
@@ -1332,7 +1335,16 @@ traducción católica usual de este idioma, escritas de memoria: sin cotejar.
     wreathWeek1: "Izu mbụ nke Advent",
     wreathWeek2: "Izu nke abụọ nke Advent",
     wreathWeek3: "Izu nke atọ nke Advent, Sọnde Gaudete",
-    wreathWeek4: "Izu nke anọ nke Advent"
+    wreathWeek4: "Izu nke anọ nke Advent",
+    countdownCandle2: "Tupu kandụl nke abụọ",
+    countdownCandle3: "Tupu kandụl nke atọ",
+    countdownCandle4: "Tupu kandụl nke anọ",
+    dateNote2: "Sọnde nke abụọ nke Advent: 6 Disemba 2026, oge Vatican.",
+    dateNote3: "Sọnde nke atọ nke Advent, Gaudete: 13 Disemba 2026, oge Vatican.",
+    dateNote4: "Sọnde nke anọ nke Advent: 20 Disemba 2026, oge Vatican.",
+    wreathNext2: "A na-amụnye kandụl nke abụọ na Sọnde, 6 Disemba.",
+    wreathNext3: "A na-amụnye kandụl nke atọ, nke pinki, na Sọnde, 13 Disemba.",
+    wreathNext4: "A na-amụnye kandụl nke anọ na Sọnde, 20 Disemba."
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Ikike niile echekwara.</strong> A machibidoro imepụta ya niile ma ọ bụ akụkụ ya na-enweghị ikike ederede sitere n'aka onye edemede.", text: "Okwukwe na Uche. Ad maiorem Dei gloriam." }

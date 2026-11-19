@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <meta name="theme-color" content="#1a1410">
-    <script src="js/tema.js?v=17"></script>
+    <script src="js/tema.js?v=22"></script>
     <meta name="description" content="Recursos recomendados para profundizar en la fe católica: libros, sitios y apostolados seleccionados por el equipo de Fé y Razón.">
     <meta name="author" content="M. Gabriel Castiglia">
     <meta name="robots" content="index, follow, max-image-preview:large">
@@ -72,7 +72,8 @@
     <link rel="manifest" href="site.webmanifest?v=2">
     <link rel="stylesheet" href="css/style.css?v=32">
     <link rel="stylesheet" href="css/adviento.css?v=5">
-    <link rel="stylesheet" href="css/tema-adviento.css?v=3">
+    <link rel="stylesheet" href="css/tema-adviento.css?v=4">
+    <link rel="stylesheet" href="css/tema-navidad.css?v=6">
 </head>
 <body>
     <div id="reading-progress" role="progressbar" aria-label="Progreso de lectura" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"></div>
@@ -208,8 +209,12 @@
 
       /* ── PRIESTS — portrait cards ── */
       .rec-priests {
-        /* Tres en fila: los dos sacerdotes y el Tratado de Montfort. */
-        display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem;
+        /* Cuatro en fila: los tres sacerdotes y el Tratado de Montfort (19-nov-2026);
+           en pantallas medianas, dos por fila. */
+        display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.25rem;
+      }
+      @media (max-width: 1100px) {
+        .rec-priests { grid-template-columns: repeat(2, 1fr); }
       }
       .rec-priest {
         border-radius: 14px; overflow: hidden; background: var(--rec-oscuro);
@@ -656,27 +661,6 @@
           </div>
         </div>
 
-        <!-- VADE RETRO (13-oct-2026). Misma tarjeta que Vatican News: el banner del canal
-             arriba, a su tamaño natural para que no se recorte, y el texto debajo. -->
-        <div>
-          <div class="rec-label" data-i18n="topicPages.recursos-recomendados.vadeRetro.eyebrow">Podcast · Documentales</div>
-          <div class="rec-apost-card rec-apost-card--wide">
-            <a class="rec-apost-photo rec-apost-photo--banner rec-apost-photo--vr" href="https://www.youtube.com/@VadeRetro_Podcast" target="_blank" rel="noopener">
-              <img src="Recursos/Im%C3%A1genes/vade-retro-banner.webp" alt="Vade Retro Podcast" width="2048" height="339" loading="lazy">
-            </a>
-            <div class="rec-apost-body">
-              <span class="rec-apost-tag" data-i18n="topicPages.recursos-recomendados.vadeRetro.tag">Italia · Luis María Piccinali</span>
-              <p data-i18n="topicPages.recursos-recomendados.vadeRetro.desc">VADE RETRO investiga y presenta testimonios sobre la batalla espiritual que atraviesa la historia, la política, la cultura y la vida cotidiana, siempre desde la fe católica, producido por Luis Piccinali. Su productora, Dominus Estudios, prepara además la docuserie «Asesinato en el Grado 33», basada en el libro del P. Charles T. Murr sobre la investigación de la Curia romana de 1977.</p>
-              <div class="rec-apost-links">
-                <a href="https://www.youtube.com/@VadeRetro_Podcast" target="_blank" rel="noopener" class="rec-apost-link" data-i18n="topicPages.recursos-recomendados.labels.youtube">YouTube →</a>
-                <a href="https://youtu.be/CSKe-d6LvTQ" target="_blank" rel="noopener" class="rec-apost-link"><span data-i18n="topicPages.recursos-recomendados.vadeRetro.epLabel">Para empezar</span>: EP. #00 →</a>
-                <a href="https://dominusestudios.com" target="_blank" rel="noopener" class="rec-apost-link">Dominus Estudios →</a>
-                <a href="https://asesinatogrado33.com" target="_blank" rel="noopener" class="rec-apost-link">Asesinato en el Grado 33 →</a>
-              </div>
-            </div>
-          </div>
-        </div>
-
         <!-- SACERDOTES -->
         <div>
           <div class="rec-label" data-i18n="topicPages.recursos-recomendados.sec2.eyebrow">Apologética · Formación</div>
@@ -707,6 +691,23 @@
                 <div class="rec-priest-links">
                   <a href="https://www.youtube.com/@QNTLC" target="_blank" rel="noopener" class="rec-pill" data-i18n="topicPages.recursos-recomendados.labels.youtube">YouTube →</a>
                   <a href="https://www.quenotelacuenten.org/" target="_blank" rel="noopener" class="rec-pill" data-i18n="topicPages.recursos-recomendados.labels.website">Sitio web →</a>
+                </div>
+              </div>
+            </div>
+
+            <!-- P. Antonio J. Gómez Mir (19-nov-2026). Foto: cuadro de su charla con el
+                 P. Olivera Ravasi en QNTLC (UTPzMiWAj1k); no hay otra pública. -->
+            <div class="rec-priest">
+              <div class="rec-priest-photo">
+                <img src="Recursos/Im%C3%A1genes/gomez-mir.webp" alt="Padre Antonio J. Gómez Mir" loading="lazy" style="object-position: 60% center;">
+                <span class="rec-priest-country" data-i18n="topicPages.recursos-recomendados.labels.gomezMirCountry">España · Stat Crux</span>
+              </div>
+              <div class="rec-priest-body">
+                <h3>P. Antonio J. Gómez Mir</h3>
+                <p data-i18n="topicPages.recursos-recomendados.sec2.gomezMir.desc">Sacerdote y estudioso de la masonería, el gnosticismo y el ocultismo, que examina siempre a la luz de la doctrina católica. Su canal está dedicado a la Tradición católica.</p>
+                <div class="rec-priest-links">
+                  <a href="https://www.youtube.com/@STATCRUX/videos" target="_blank" rel="noopener" class="rec-pill" data-i18n="topicPages.recursos-recomendados.labels.youtube">YouTube →</a>
+                  <a href="https://homolegens.com/libro/nosotros/" target="_blank" rel="noopener" class="rec-pill" data-i18n="topicPages.recursos-recomendados.sec2.gomezMir.book">Su libro «Nosotros» →</a>
                 </div>
               </div>
             </div>
@@ -815,6 +816,41 @@
               </div>
             </div>
 
+
+            <!-- Ascension Presents (19-nov-2026): el banner del canal a su alto natural, como Vade Retro. -->
+            <div class="rec-apost-card rec-apost-card--wide">
+              <a class="rec-apost-photo rec-apost-photo--banner rec-apost-photo--vr" href="https://www.youtube.com/@AscensionPresents" target="_blank" rel="noopener">
+                <img src="Recursos/Im%C3%A1genes/ascension-presents-banner.webp" alt="Ascension Presents" width="2048" height="340" loading="lazy">
+              </a>
+              <div class="rec-apost-body">
+                <span class="rec-apost-tag" data-i18n="topicPages.recursos-recomendados.sec3.ascension.tag">Estados Unidos · En inglés</span>
+                <p data-i18n="topicPages.recursos-recomendados.sec3.ascension.desc">El canal de Ascension, la editorial de The Great Adventure. El P. Mike Schmitz, Jeff Cavins y otros sacerdotes y religiosas responden en vídeos breves preguntas sobre la fe y la vida cristiana.</p>
+                <div class="rec-apost-links">
+                  <a href="https://www.youtube.com/@AscensionPresents" target="_blank" rel="noopener" class="rec-apost-link" data-i18n="topicPages.recursos-recomendados.labels.youtube">YouTube →</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- VADE RETRO (13-oct-2026; Gabriel lo pasó al final el 19-nov-2026). Misma tarjeta que Vatican News: el banner del canal
+             arriba, a su tamaño natural para que no se recorte, y el texto debajo. -->
+        <div>
+          <div class="rec-label" data-i18n="topicPages.recursos-recomendados.vadeRetro.eyebrow">Podcast · Documentales</div>
+          <div class="rec-apost-card rec-apost-card--wide">
+            <a class="rec-apost-photo rec-apost-photo--banner rec-apost-photo--vr" href="https://www.youtube.com/@VadeRetro_Podcast" target="_blank" rel="noopener">
+              <img src="Recursos/Im%C3%A1genes/vade-retro-banner.webp" alt="Vade Retro Podcast" width="2048" height="339" loading="lazy">
+            </a>
+            <div class="rec-apost-body">
+              <span class="rec-apost-tag" data-i18n="topicPages.recursos-recomendados.vadeRetro.tag">Italia · Luis María Piccinali</span>
+              <p data-i18n="topicPages.recursos-recomendados.vadeRetro.desc">VADE RETRO investiga y presenta testimonios sobre la batalla espiritual que atraviesa la historia, la política, la cultura y la vida cotidiana, siempre desde la fe católica, producido por Luis Piccinali. Su productora, Dominus Estudios, prepara además la docuserie «Asesinato en el Grado 33», basada en el libro del P. Charles T. Murr sobre la investigación de la Curia romana de 1977.</p>
+              <div class="rec-apost-links">
+                <a href="https://www.youtube.com/@VadeRetro_Podcast" target="_blank" rel="noopener" class="rec-apost-link" data-i18n="topicPages.recursos-recomendados.labels.youtube">YouTube →</a>
+                <a href="https://youtu.be/CSKe-d6LvTQ" target="_blank" rel="noopener" class="rec-apost-link"><span data-i18n="topicPages.recursos-recomendados.vadeRetro.epLabel">Para empezar</span>: EP. #00 →</a>
+                <a href="https://dominusestudios.com" target="_blank" rel="noopener" class="rec-apost-link">Dominus Estudios →</a>
+                <a href="https://asesinatogrado33.com" target="_blank" rel="noopener" class="rec-apost-link">Asesinato en el Grado 33 →</a>
+              </div>
+            </div>
           </div>
         </div>
 
@@ -848,7 +884,7 @@
     </footer>
     
     <script src="js/main.js?v=19" defer></script>
-    <script src="js/translations.js?v=41" defer></script>
-    <script src="js/adviento.js?v=6" defer></script>
+    <script src="js/translations.js?v=42" defer></script>
+    <script src="js/adviento.js?v=7" defer></script>
 </body>
 </html>

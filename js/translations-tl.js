@@ -1298,6 +1298,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
         inSpanish: "Sa Espanyol →",
         toroCountry: "Venezuela",
         oliveraCountry: "Argentina · QNTLC",
+        gomezMirCountry: "Espanya · Stat Crux",
         heraldosTag: "Ecuador"
       },
       sec1: { eyebrow: "Banal na Luklukan", title: "Mga Mapagkukunan ng Vaticano", desc: "Mga opisyal na dokumento ng Simbahan, available sa website ng Holy See." },
@@ -1305,6 +1306,7 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
         eyebrow: "Apologetika · Pormasyon", title: "Mga Pari at Tagapagturo", desc: "Mga tinig na tapat sa Magisterium na nagtuturo, nagtatanggol, at nagpapahayag ng pananampalataya nang may kalaliman at kahusayan.",
         toro:    { desc: "Teologo at apologista. Tinatawid ang pinakamahirap na pagtutol sa Katolikong pananampalataya nang may kalaliman." },
         olivera: { desc: "Augustinianong istoryador at apologista. Tinatawid ang rasyonalismo, mga sekta, at modernong kamalian nang may kahusayan." },
+        gomezMir: { desc: "Pari at dalubhasa sa Masoneriya, Gnostisismo at okultismo, na lagi niyang sinusuri sa liwanag ng doktrinang Katoliko. Nakatuon ang kanyang channel sa Tradisyong Katoliko.", book: "Ang kanyang aklat na «Nosotros» →" },
         montfort: { tag: "Pransiya · mga 1712", title: "Tratado ng Tunay na Debosyon sa Mahal na Birhen", author: "San Luis Maria Grignion de Montfort", desc: "Ang klasikong akda tungkol sa pagtatalaga kay Jesus sa pamamagitan ni Maria. Buong edisyon sa PDF, sa Ingles.", ed1: "PDF sa Ingles →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
@@ -1313,7 +1315,8 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
         heraldos: { desc: "Misyonaryong apostolado. Pagpapalakas ng pananampalataya, katekesis, at ebanghelisasyon na tapat sa Tradisyon." },
         rugged:   { desc: "Magagandang gawa sa kamay na mga rosaryo at iba't ibang mataas na kalidad na artikulo ng pananampalataya na may internasyonal na pagpapadala.", tag: "Estados Unidos" },
         grat:     { desc: "Biblia ng Jerusalem sa Ingles o Latin American Spanish (para sa ibang wika tingnan ang opisyal na pahina). May natatanging plano ng pag-aaral na naglalaman ng hakbang-hakbang na paliwanag at mga grapiko, perpekto para sa mga baguhan.", tag: "Biblia · Pormasyon" },
-        ewtn:     { desc: "Ang pinakamalaking Katolikong television network sa mundo. Araw-araw na Misa, Banal na Rosaryo, mga dokumentaryo, at pagpapalakas ng pananampalataya nang 24 na oras.", tag: "Telebisyon · Radyo" }
+        ewtn:     { desc: "Ang pinakamalaking Katolikong television network sa mundo. Araw-araw na Misa, Banal na Rosaryo, mga dokumentaryo, at pagpapalakas ng pananampalataya nang 24 na oras.", tag: "Telebisyon · Radyo" },
+        ascension: { tag: "Estados Unidos · Sa Ingles", desc: "Ang channel ng Ascension, ang naglalathala ng The Great Adventure. Sinasagot ni P. Mike Schmitz, ni Jeff Cavins at ng iba pang pari at relihiyoso sa maiikling video ang mga tanong tungkol sa pananampalataya at buhay Kristiyano." }
       }
       ,
       nav: {
@@ -1537,7 +1540,16 @@ Kaya nga, <strong class="s-hi">yamang pinalibutan tayo ng napakaraming saksi,</s
     wreathWeek1: "Unang linggo ng Adbiyento",
     wreathWeek2: "Ikalawang linggo ng Adbiyento",
     wreathWeek3: "Ikatlong linggo ng Adbiyento, Linggo ng Gaudete",
-    wreathWeek4: "Ikaapat na linggo ng Adbiyento"
+    wreathWeek4: "Ikaapat na linggo ng Adbiyento",
+    countdownCandle2: "Bago sindihan ang ikalawang kandila",
+    countdownCandle3: "Bago sindihan ang ikatlong kandila",
+    countdownCandle4: "Bago sindihan ang ikaapat na kandila",
+    dateNote2: "Ikalawang Linggo ng Adbiyento: Disyembre 6, 2026, oras sa Vaticano.",
+    dateNote3: "Ikatlong Linggo ng Adbiyento, Gaudete: Disyembre 13, 2026, oras sa Vaticano.",
+    dateNote4: "Ikaapat na Linggo ng Adbiyento: Disyembre 20, 2026, oras sa Vaticano.",
+    wreathNext2: "Sisindihan ang ikalawang kandila sa Linggo, Disyembre 6.",
+    wreathNext3: "Sisindihan ang ikatlong kandila, ang kulay-rosas, sa Linggo, Disyembre 13.",
+    wreathNext4: "Sisindihan ang ikaapat na kandila sa Linggo, Disyembre 20."
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Nakalaan ang lahat ng karapatan.</strong> Ipinagbabawal ang pagpaparami nang buo o bahagi nang walang nakasulat na pahintulot ng may-akda.",

@@ -1,6 +1,14 @@
 /**
- * Aviso de Adviento: cuenta regresiva hasta el primer domingo de Adviento
- * (29-nov-2026, 0:00 en Roma) y miniatura de un vídeo sobre su sentido.
+ * Aviso de Adviento: cuenta regresiva hasta la próxima vela de la corona y
+ * miniatura de un vídeo sobre el sentido del Adviento.
+ *
+ * Calendario (pedido por Gabriel el 19-nov-2026), a medianoche de Roma:
+ *  - hasta el 29-nov cuenta hasta el primer domingo de Adviento;
+ *  - el 29-nov, el 6-dic y el 13-dic se enciende una vela y la cuenta pasa a
+ *    la siguiente («Faltan para la segunda vela»…);
+ *  - el 20-dic se enciende la cuarta y el aviso se retira de todas las páginas
+ *    (ventana, panel y pestaña). La corona de la portada queda con las cuatro
+ *    velas encendidas hasta Navidad, cuando tema.js pasa al tema de Navidad.
  *
  * Tres formas de mostrarse:
  *  - ventana: la primera vez que alguien entra al sitio, si entra por la portada;
@@ -14,8 +22,7 @@
  *
  * Hora del Vaticano = Europe/Rome. En noviembre Italia está en UTC+1, así que
  * el instante se fija con ese desfase y Date.now(), que es UTC, da la misma
- * cuenta en cualquier país. Desde el 29-nov dice que el Adviento ya empezó;
- * desde Navidad no aparece. Para quitarlo del todo: borrar este archivo,
+ * cuenta en cualquier país. Para quitarlo del todo: borrar este archivo,
  * css/adviento.css y sus dos renglones en cada página.
  *
  * Textos: clave advent.* de cada js/translations-xx.js; si el idioma todavía
@@ -23,7 +30,6 @@
  * ?adviento=ver abre la ventana aunque ya se haya visto en la visita.
  */
 (function () {
-  const INICIO = Date.parse('2026-11-29T00:00:00+01:00');
   const NAVIDAD = Date.parse('2026-12-25T00:00:00+01:00');
   const VIDEO = 'https://youtu.be/Z-0HyI4gYk8';
   const EMBED = 'https://www.youtube-nocookie.com/embed/Z-0HyI4gYk8?autoplay=1&rel=0&playsinline=1';
@@ -38,6 +44,12 @@
     days: 'días', hours: 'horas', minutes: 'minutos', seconds: 'segundos',
     daysShort: 'd',
     dateNote: 'Primer domingo de Adviento: 29 de noviembre de 2026, hora del Vaticano.',
+    countdownCandle2: 'Faltan para la segunda vela',
+    countdownCandle3: 'Faltan para la tercera vela',
+    countdownCandle4: 'Faltan para la cuarta vela',
+    dateNote2: 'Segundo domingo de Adviento: 6 de diciembre de 2026, hora del Vaticano.',
+    dateNote3: 'Tercer domingo de Adviento, Gaudete: 13 de diciembre de 2026, hora del Vaticano.',
+    dateNote4: 'Cuarto domingo de Adviento: 20 de diciembre de 2026, hora del Vaticano.',
     videoTitle: 'El verdadero significado del Adviento',
     videoSource: 'Vídeo en YouTube · Te Explico la Biblia',
     romeTime: 'En Roma son las',
@@ -50,11 +62,16 @@
     wreathWeek1: 'Primera semana de Adviento',
     wreathWeek2: 'Segunda semana de Adviento',
     wreathWeek3: 'Tercera semana de Adviento, domingo de Gaudete',
-    wreathWeek4: 'Cuarta semana de Adviento'
+    wreathWeek4: 'Cuarta semana de Adviento',
+    wreathNext2: 'La segunda vela se enciende el domingo 6 de diciembre.',
+    wreathNext3: 'La tercera vela, la rosa, se enciende el domingo 13 de diciembre.',
+    wreathNext4: 'La cuarta vela se enciende el domingo 20 de diciembre.'
   };
   // Los cuatro domingos de Adviento de 2026, a medianoche de Roma.
   const DOMINGOS = ['2026-11-29', '2026-12-06', '2026-12-13', '2026-12-20']
     .map(d => Date.parse(d + 'T00:00:00+01:00'));
+  // Con la cuarta vela encendida el aviso se retira; queda solo la corona.
+  const FIN_AVISO = DOMINGOS[3];
 
   if (Date.now() >= NAVIDAD) return;
 
@@ -81,7 +98,12 @@
     try { localStorage.setItem(CLAVE, valor); } catch (e) { /* sin almacenamiento: vale solo esta página */ }
   }
   function dosCifras(n) { return String(n).padStart(2, '0'); }
-  function empezo() { return Date.now() >= INICIO; }
+  function velasEncendidas() { return DOMINGOS.filter(d => Date.now() >= d).length; }
+  function avisoVigente() { return Date.now() < FIN_AVISO; }
+  // La cuenta va siempre hacia la próxima vela: la primera (29-nov) y después
+  // la segunda, la tercera y la cuarta.
+  function claveTitulo(n) { return n === 0 ? 'countdownTitle' : 'countdownCandle' + (n + 1); }
+  function claveNota(n) { return n === 0 ? 'dateNote' : 'dateNote' + (n + 1); }
 
   // Contenido común a la ventana y al panel. Los textos se ponen después, con
   // textos(), para poder cambiarlos de idioma sin rearmar nada.
@@ -105,7 +127,7 @@
         <a class="adv-mini-titulo" href="${VIDEO}" target="_blank" rel="noopener" data-t="videoTitle"></a>
         <span class="adv-mini-fuente" data-t="videoSource"></span>
       </div>
-      <p class="adv-nota" data-t="dateNote"></p>
+      <p class="adv-nota" data-t-nota></p>
       <p class="adv-roma"><span data-t="romeTime"></span> <span data-roma>--:--</span></p>`;
   }
 
@@ -160,7 +182,6 @@
 
   // ---- Corona del hero: solo en la portada y con el tema de Adviento ----
   let corona = null;
-  function velasEncendidas() { return DOMINGOS.filter(d => Date.now() >= d).length; }
   function armarCorona() {
     const tema = document.documentElement.getAttribute('data-tema') || '';
     const hero = document.querySelector('.hero-content');
@@ -169,7 +190,7 @@
     corona.className = 'adv-raiz adv-corona';
     corona.innerHTML = '<div class="adv-corona-velas" aria-hidden="true">' +
       [0, 1, 2, 3].map(i => `<span class="adv-corona-vela${i === 2 ? ' rosa' : ''}"></span>`).join('') +
-      '</div><p class="adv-corona-txt" data-t-corona></p>';
+      '</div><p class="adv-corona-txt"><span data-t-corona></span><span class="adv-corona-prox" data-t-prox></span></p>';
     hero.appendChild(corona);
   }
   function textoCorona() {
@@ -177,16 +198,20 @@
     const n = velasEncendidas();
     corona.querySelectorAll('.adv-corona-vela').forEach((v, i) => v.classList.toggle('encendida', i < n));
     corona.querySelector('[data-t-corona]').textContent = t(n === 0 ? 'wreathBefore' : 'wreathWeek' + n);
+    // Entre la primera y la cuarta vela, debajo de la semana va cuándo se
+    // enciende la siguiente.
+    corona.querySelector('[data-t-prox]').textContent = (n >= 1 && n <= 3) ? t('wreathNext' + (n + 1)) : '';
   }
 
   function textos() {
     document.querySelectorAll('.adv-raiz [data-t]').forEach(el => { el.textContent = t(el.dataset.t); });
-    document.querySelectorAll('.adv-raiz [data-t-titulo]').forEach(el => {
-      el.textContent = t(empezo() ? 'startedTitle' : 'countdownTitle');
-    });
+    const n = velasEncendidas();
+    document.querySelectorAll('.adv-raiz [data-t-titulo]').forEach(el => { el.textContent = t(claveTitulo(n)); });
+    document.querySelectorAll('.adv-raiz [data-t-nota]').forEach(el => { el.textContent = t(claveNota(n)); });
+    velasMostradas = n;
     pestana.setAttribute('aria-label', t('open'));
     document.querySelectorAll('.adv-raiz [data-reproducir]').forEach(b => b.setAttribute('aria-label', t('play') + ': ' + t('videoTitle')));
-    panel.querySelector('[data-ocultar]').setAttribute('aria-label', t('hide'));
+    if (panel.isConnected) panel.querySelector('[data-ocultar]').setAttribute('aria-label', t('hide'));
     if (ventana) ventana.querySelector('.adv-cerrar').setAttribute('aria-label', t('close'));
     textoCorona();
     tic();
@@ -194,19 +219,16 @@
 
   const reloj = new Intl.DateTimeFormat('es', { timeZone: 'Europe/Rome', hour: '2-digit', minute: '2-digit', hour12: false });
 
+  let velasMostradas = -1;
   function tic() {
     const ahora = Date.now();
-    if (ahora >= NAVIDAD) { quitarTodo(); return; }
+    const n = velasEncendidas();
+    // Domingo nuevo con la página abierta: se enciende la vela y cambian los textos.
+    if (n !== velasMostradas) { velasMostradas = n; textoCorona(); if (avisoVigente()) textos(); }
+    if (!avisoVigente()) { quitarAviso(); return; }
     document.querySelectorAll('.adv-raiz [data-roma]').forEach(el => { el.textContent = reloj.format(ahora); });
-    let resto = Math.max(0, Math.floor((INICIO - ahora) / 1000));
-    document.querySelectorAll('.adv-raiz .adv-cuenta').forEach(el => { el.hidden = resto === 0; });
-    if (corona && corona.querySelectorAll('.encendida').length !== velasEncendidas()) textoCorona();
+    let resto = Math.max(0, Math.floor((DOMINGOS[n] - ahora) / 1000));
     const dias = pestana.querySelector('[data-dias]');
-    if (resto === 0) {
-      dias.textContent = '';
-      document.querySelectorAll('.adv-raiz [data-t-titulo]').forEach(el => { el.textContent = t('startedTitle'); });
-      return;
-    }
     const d = Math.floor(resto / 86400); resto %= 86400;
     const h = Math.floor(resto / 3600); resto %= 3600;
     const m = Math.floor(resto / 60);
@@ -304,17 +326,24 @@
     });
   }
 
-  function quitarTodo() {
+  // La corona no se toca: queda con las cuatro velas hasta Navidad.
+  function quitarAviso() {
     clearInterval(intervalo);
     [pestana, panel, ventana].forEach(el => { if (el) el.remove(); });
+    ventana = null;
   }
 
   let intervalo = null;
 
   function arrancar() {
+    armarCorona();
+    if (!avisoVigente()) {
+      textoCorona();
+      document.addEventListener('langChange', () => setTimeout(textoCorona, 0));
+      return;
+    }
     document.body.appendChild(pestana);
     document.body.appendChild(panel);
-    armarCorona();
     textos();
     intervalo = setInterval(tic, 1000);
     document.addEventListener('langChange', () => setTimeout(textos, 0));

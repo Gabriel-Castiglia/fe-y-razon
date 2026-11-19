@@ -1113,6 +1113,7 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
         inSpanish: "Em espanhol →",
         toroCountry: "Venezuela",
         oliveraCountry: "Argentina · QNTLC",
+        gomezMirCountry: "Espanha · Stat Crux",
         heraldosTag: "Equador"
       },
       sec1: { eyebrow: "Santa Sé", title: "Fontes vaticanas", desc: "Documentos oficiais da Igreja, disponíveis no site da Santa Sé." },
@@ -1120,6 +1121,7 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
         eyebrow: "Apologética · Formação", title: "Sacerdotes e formadores", desc: "Vozes fiéis ao Magistério que ensinam, defendem e proclamam a fé com profundidade e rigor.",
         toro:    { desc: "Teólogo e apologista. Responde com profundidade às objeções mais difíceis à fé católica." },
         olivera: { desc: "Historiador e apologista agostiniano. Aborda o racionalismo, as seitas e os erros modernos com rigor." },
+        gomezMir: { desc: "Sacerdote e estudioso da maçonaria, do gnosticismo e do ocultismo, que examina sempre à luz da doutrina católica. Seu canal é dedicado à Tradição católica.", book: "Seu livro «Nosotros» →" },
         montfort: { tag: "França · c. 1712", title: "Tratado da Verdadeira Devoção à Santíssima Virgem", author: "São Luís Maria Grignion de Montfort", desc: "A obra clássica sobre a consagração a Jesus por Maria. Edição completa em PDF, em inglês.", ed1: "PDF em inglês →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
@@ -1128,7 +1130,8 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
         heraldos: { desc: "Apostolado missionário. Formação, catequese e evangelização fiel à Tradição." },
         rugged:   { desc: "Lindos terços feitos à mão e vários artigos de fé de alta qualidade com envio internacional.", tag: "Estados Unidos" },
         grat:     { desc: "Bíblia de Jerusalém em inglês ou espanhol latino (para outros idiomas verifique na página oficial). Com plano de estudo único contendo explicações passo a passo e gráficos, ideal para neófitos.", tag: "Bíblia · Formação" },
-        ewtn:     { desc: "A maior rede de televisão católica do mundo. Missa diária, Santo Rosário, documentários e formação 24 horas.", tag: "Televisão · Rádio" }
+        ewtn:     { desc: "A maior rede de televisão católica do mundo. Missa diária, Santo Rosário, documentários e formação 24 horas.", tag: "Televisão · Rádio" },
+        ascension: { tag: "Estados Unidos · Em inglês", desc: "O canal da Ascension, a editora de The Great Adventure. O Pe. Mike Schmitz, Jeff Cavins e outros sacerdotes e religiosas respondem em vídeos curtos a perguntas sobre a fé e a vida cristã." }
       },
       nav: { prevTitle: "A primazia de Pedro", nextTitle: "O Sacerdócio na Igreja Católica" }
     },
@@ -1340,7 +1343,16 @@ Pelo que também nós, <strong class="s-hi">pois que estamos rodeados de uma tã
     wreathWeek1: "Primeira semana do Advento",
     wreathWeek2: "Segunda semana do Advento",
     wreathWeek3: "Terceira semana do Advento, domingo Gaudete",
-    wreathWeek4: "Quarta semana do Advento"
+    wreathWeek4: "Quarta semana do Advento",
+    countdownCandle2: "Faltam para a segunda vela",
+    countdownCandle3: "Faltam para a terceira vela",
+    countdownCandle4: "Faltam para a quarta vela",
+    dateNote2: "Segundo domingo do Advento: 6 de dezembro de 2026, hora do Vaticano.",
+    dateNote3: "Terceiro domingo do Advento, Gaudete: 13 de dezembro de 2026, hora do Vaticano.",
+    dateNote4: "Quarto domingo do Advento: 20 de dezembro de 2026, hora do Vaticano.",
+    wreathNext2: "A segunda vela se acende no domingo, 6 de dezembro.",
+    wreathNext3: "A terceira vela, a rosa, se acende no domingo, 13 de dezembro.",
+    wreathNext4: "A quarta vela se acende no domingo, 20 de dezembro."
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. Todos os direitos reservados.</strong> Proibida a reprodução total ou parcial sem autorização escrita do autor.", text: "Fé e Razão. Ad maiorem Dei gloriam." }

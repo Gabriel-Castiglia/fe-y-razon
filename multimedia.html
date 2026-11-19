@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <meta name="theme-color" content="#0d0a07">
-    <script src="js/tema.js?v=17"></script>
+    <script src="js/tema.js?v=22"></script>
     <meta name="description" content="Videos católicos en español: la herejía protestante explicada por la Iglesia (La Reforma, serie de EWTN en 12 capítulos), Doctores de la Iglesia y Chesterton Station.">
     <meta name="keywords" content="Reforma protestante, herejía protestante, Lutero, Calvino, Enrique VIII, Concilio de Trento, Reforma católica, EWTN, Doctores de la Iglesia, San Agustín, Santa Catalina de Siena, San Atanasio, San Ambrosio, San León Magno, Chesterton, apologética católica, videos católicos">
     <meta name="author" content="M. Gabriel Castiglia">
@@ -57,7 +57,8 @@
     <link rel="manifest" href="site.webmanifest?v=2">
     <link rel="stylesheet" href="css/style.css?v=32">
     <link rel="stylesheet" href="css/adviento.css?v=5">
-    <link rel="stylesheet" href="css/tema-adviento.css?v=3">
+    <link rel="stylesheet" href="css/tema-adviento.css?v=4">
+    <link rel="stylesheet" href="css/tema-navidad.css?v=6">
 
     <style>
 /* Paleta propia de Multimedia. Estos son los valores del tema estándar; los
@@ -230,6 +231,9 @@
       .mm-ficha h3 { font-family: var(--font-display); color: #fff; font-size: clamp(22px, 2.4vw, 30px); margin: 6px 0 10px; line-height: 1.2; }
       .mm-ficha p { color: rgba(255,255,255,.7); font-size: .93rem; line-height: 1.75; margin: 0 0 18px; max-width: 760px; }
       .mm-acciones { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+      .mm-libro { margin-top: 12px; }
+      .mm-libro[hidden] { display: none; }
+      .mm-libro-txt { font-size: 13px; opacity: 0.75; margin-right: 4px; }
       .mm-btn { font-family: var(--font-body); font-size: .76rem; letter-spacing: .06em; padding: .62rem 1.25rem; border-radius: 6px;
         text-decoration: none; cursor: pointer; white-space: nowrap; transition: background .2s, color .2s, border-color .2s; }
       .mm-btn-oro { color: var(--dark); background: var(--gold); border: 1px solid var(--gold); }
@@ -352,7 +356,7 @@
             <div class="mm-hero-inner">
                 <div class="mm-kicker">Series · Documentales · Canales</div>
                 <h1>Multimedia</h1>
-                <p class="mm-hero-sub">Series, documentales y catequesis de canales católicos, ordenados por tema. Cada capítulo se ve acá mismo, en el orden en que fue emitido.</p>
+                <p class="mm-hero-sub">Series, documentales, catequesis y entrevistas de canales católicos, ordenados por tema. Cada capítulo se ve acá mismo, en el orden en que fue emitido.</p>
 
                 <a class="mm-destacado" href="#reforma-1" data-tema="reforma">
                     <div class="mm-destacado-img"><img src="Recursos/Im%C3%A1genes/multimedia/reforma-ng6xymATRls.webp" alt="" width="960" height="540"></div>
@@ -408,6 +412,7 @@
                             <a class="mm-btn mm-btn-linea" id="mm-ext" href="#" target="_blank" rel="noopener">Abrir en YouTube</a>
                             <a class="mm-btn mm-btn-linea" id="mm-ewtn" href="#" target="_blank" rel="noopener">Ficha en EWTN</a>
                         </div>
+                        <div class="mm-acciones mm-libro" id="mm-libro" hidden></div>
                     </div>
                 </div>
                 <ol class="mm-lista" id="mm-lista" aria-label="Capítulos">
@@ -440,6 +445,26 @@
                     <p>«El verdadero significado del Adviento», la primera catequesis de esta sección, es del canal de YouTube Te Explico la Biblia Oficial. El vídeo se ve acá con el reproductor de YouTube y el mérito es de quienes lo hicieron.</p>
                     <div class="mm-acciones">
                         <a class="mm-btn mm-btn-linea" href="https://www.youtube.com/@TeExplicolaBibliaOficial" target="_blank" rel="noopener">El canal en YouTube</a>
+                    </div>
+                </div>
+            </div>
+            <div class="mm-fuente mm-fuente-sola mm-rev">
+                <div class="mm-fuente-body">
+                    <span class="mm-badge">Catequesis</span>
+                    <h3>P. Jorge Loring – Para Salvarte</h3>
+                    <p>«¿Qué dice la ciencia del primer hombre?» es una conferencia del padre Jorge Loring, sacerdote jesuita y autor de «Para salvarte», publicada en el canal de YouTube que difunde su obra. El vídeo se ve acá con el reproductor de YouTube y el mérito es de quienes lo hicieron.</p>
+                    <div class="mm-acciones">
+                        <a class="mm-btn mm-btn-linea" href="https://www.youtube.com/@jorgeloringparasalvarte" target="_blank" rel="noopener">El canal en YouTube</a>
+                    </div>
+                </div>
+            </div>
+            <div class="mm-fuente mm-fuente-sola mm-rev">
+                <div class="mm-fuente-body">
+                    <span class="mm-badge">Libros y conversaciones</span>
+                    <h3>Que no te la cuenten</h3>
+                    <p>Las entrevistas sobre «VINCIT» y «Nosotros» son del canal de YouTube Que no te la cuenten (QNTLC), del padre Javier Olivera Ravasi. Los vídeos se ven acá con el reproductor de YouTube. «VINCIT» se consigue en la editorial del canal y en Amazon; «Nosotros», en Homo Legens.</p>
+                    <div class="mm-acciones">
+                        <a class="mm-btn mm-btn-linea" href="https://www.youtube.com/@QNTLC" target="_blank" rel="noopener">El canal en YouTube</a>
                     </div>
                 </div>
             </div>
@@ -530,13 +555,34 @@
         slug: 'catequesis',
         nombre: 'Catequesis',
         serie: 'Catequesis',
-        canal: 'Te Explico la Biblia Oficial',
-        canalUrl: 'https://www.youtube.com/@TeExplicolaBibliaOficial',
+        // Cada catequesis puede venir de un canal distinto: el crédito de cada una
+        // está en su descripción y en «De dónde vienen».
+        canal: 'Varios canales',
         unidad: ['catequesis', 'catequesis'],
         portada: 'catequesis-Z-0HyI4gYk8.webp',
-        desc: 'Catequesis elegidas una por una para vivir el año litúrgico. La primera, para el Adviento: qué es este tiempo, por qué abarca los cuatro domingos antes de Navidad y qué significan la corona y sus velas.',
+        desc: 'Catequesis elegidas una por una para vivir el año litúrgico y dar razón de la fe. Para el Adviento, qué es este tiempo y qué significan la corona y sus velas. El padre Jorge Loring explica qué dice la ciencia sobre el origen del hombre y qué enseña la Iglesia.',
         caps: [
-          { yt: 'Z-0HyI4gYk8', t: 'El verdadero significado del Adviento', s: 'Qué es el Adviento, cómo prepararse para la venida de Cristo en Navidad y qué significan la corona de Adviento y sus velas. Del canal Te Explico la Biblia Oficial, publicado el 13 de noviembre de 2026.', d: 711 }
+          { yt: 'Z-0HyI4gYk8', t: 'El verdadero significado del Adviento', s: 'Qué es el Adviento, cómo prepararse para la venida de Cristo en Navidad y qué significan la corona de Adviento y sus velas. Del canal Te Explico la Biblia Oficial, publicado el 13 de noviembre de 2026.', d: 711 },
+          { yt: 'RjyFmgku_u4', t: '¿Qué dice la ciencia del primer hombre?', s: 'El padre Jorge Loring explica el origen del hombre desde la ciencia y la Biblia. La Escritura transmite un mensaje religioso y no científico, y lo que distingue al hombre del animal es el alma espiritual, con su inteligencia y su libertad. Del canal P. Jorge Loring – Para Salvarte, publicado el 2 de abril de 2026.', d: 3206 }
+        ]
+      },
+      {
+        // Libros y conversaciones (19-nov-2026): entrevistas y charlas que Gabriel
+        // recomienda; por ahora, autores que presentan su libro. Cada vídeo puede
+        // llevar enlaces para conseguir el libro (l: [texto, dirección]).
+        slug: 'recomendados',
+        nombre: 'Libros y conversaciones',
+        serie: 'Libros y conversaciones',
+        canal: 'Que no te la cuenten',
+        canalUrl: 'https://www.youtube.com/@QNTLC',
+        unidad: ['vídeo', 'vídeos'],
+        portada: 'recomendados-kNBHGZJvdBM.webp',
+        desc: 'Entrevistas y charlas que vale la pena ver. Por ahora, dos sacerdotes que presentan su libro: Tomás María Marini, con «VINCIT», sobre las grandes batallas de la Cristiandad, y Antonio José Gómez Mir, con «Nosotros», una palestra ascética para hombres. Debajo de cada vídeo están los enlaces para conseguir el libro.',
+        caps: [
+          { yt: 'kNBHGZJvdBM', t: 'VINCIT. Las grandes batallas de la Cristiandad', s: 'Entrevista al padre Tomás María Marini sobre «VINCIT», su libro sobre las grandes batallas de la Cristiandad, de cuando la guerra se vivía como cosa santa. Del canal Que no te la cuenten, publicado el 10 de agosto de 2026.', d: 1264,
+            l: [['Editorial (Argentina)', 'https://editorial.quenotelacuenten.org/productos/vincit-las-grandes-batallas-de-la-cristiandad/'], ['Amazon, papel', 'https://a.co/d/0fk60gJP'], ['Amazon, Kindle', 'https://www.amazon.com/dp/B0H9DWSYNL']] },
+          { yt: 'UTPzMiWAj1k', t: 'Nosotros. Palestra ascética para hombres', s: 'El padre Javier Olivera Ravasi conversa con el padre Antonio José Gómez Mir sobre «Nosotros», su libro para recuperar una manera viril de vivir la fe frente a la idea de la masculinidad «tóxica». Del canal Que no te la cuenten, emitido en vivo el 7 de enero de 2026.', d: 3074,
+            l: [['Homo Legens', 'https://homolegens.com/libro/nosotros/']] }
         ]
       }
     ];
@@ -597,6 +643,12 @@
         $('mm-ficha-sinopsis').textContent = c.s;
         $('mm-ewtn').hidden = !c.f;
         if (c.f) $('mm-ewtn').href = MM_FICHA + c.f;
+        // Enlaces para conseguir el libro, si el vídeo los tiene.
+        var libro = $('mm-libro');
+        libro.hidden = !c.l;
+        libro.innerHTML = c.l ? '<span class="mm-libro-txt">Conseguir el libro:</span>' + c.l.map(function (x) {
+          return '<a class="mm-btn mm-btn-linea" href="' + esc(x[1]) + '" target="_blank" rel="noopener">' + esc(x[0]) + '</a>';
+        }).join('') : '';
         $('mm-ant').disabled = i === 0;
         $('mm-sig').disabled = i === tema.caps.length - 1;
         document.querySelectorAll('.mm-cap').forEach(function (b, j) { b.setAttribute('aria-current', j === i ? 'true' : 'false'); });
@@ -797,7 +849,7 @@
     })();
     </script>
     <script src="js/main.js?v=19" defer></script>
-    <script src="js/translations.js?v=41" defer></script>
-    <script src="js/adviento.js?v=6" defer></script>
+    <script src="js/translations.js?v=42" defer></script>
+    <script src="js/adviento.js?v=7" defer></script>
 </body>
 </html>

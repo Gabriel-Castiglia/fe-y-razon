@@ -13,12 +13,16 @@
 (function () {
   var CALENDARIO = [
     // tema,      desde (incluido),            hasta (excluido)
-    ['adviento-oscuro', '2026-11-29T00:00:00+01:00', '2026-12-25T00:00:00+01:00']
+    // Gabriel lo adelantó al 19-nov-2026; el Adviento litúrgico empieza el 29-nov.
+    ['adviento-oscuro', '2026-11-19T00:00:00+01:00', '2026-12-25T00:00:00+01:00'],
+    // Navidad hasta el Bautismo del Señor, domingo 10-ene-2027, incluido.
+    ['navidad',         '2026-12-25T00:00:00+01:00', '2027-01-11T00:00:00+01:00']
   ];
   // Color de la barra del navegador en el móvil, por tema.
   var BARRA = {
     estandar: '#1a1410',
-    'adviento-oscuro': '#160b22'
+    'adviento-oscuro': '#160b22',
+    navidad: '#fbf6ea'
   };
   // Vídeos de cabecera por tema y por página: nombre base en Recursos/Videos y
   // qué altura del cuadro mostrar (object-position), para que en los vídeos
@@ -36,10 +40,21 @@
       // Los nueve temas conservan sus vídeos de siempre (Gabriel, 19-nov-2026).
       // El purgatorio lleva los mismos, solo encuadrados para que no se corte la llama.
       'tema-el-purgatorio': [['velas01', 'center 24%'], ['cirio01', 'center 35%']]
+    },
+    navidad: {
+      // Gabriel descartó el 19-nov-2026 el pesebre italiano, la Virgen con el
+      // Niño y los Reyes Magos; eligió el pesebre con velas, el cirio del altar,
+      // las figuras del pesebre y el cáliz.
+      'index': [['pesebre02', 'center 55%'], ['cirio02', 'center 30%'], ['rayos01', 'center 40%']],
+      'temas': [['pesebre03', 'center 40%']],
+      // Lectura01 lleva casulla verde, del tiempo ordinario.
+      'del-autor': [['entrada01', 'center 40%']],
+      // Misal01 encuadrado arriba para que no se corte la vela.
+      'tema-recursos-recomendados': [['misal01', 'center 0%'], ['calis02', 'center 45%']]
     }
   };
   // Vídeo de la sección de meditación de la portada, por tema.
-  var MEDITACION = { adviento: 'cirios01' };
+  var MEDITACION = { adviento: 'cirios01', navidad: 'velas03' };
   var CLAVE = 'fyr-tema';
 
   function porFecha() {

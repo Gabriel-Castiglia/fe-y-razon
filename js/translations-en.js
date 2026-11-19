@@ -1298,6 +1298,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
         inSpanish: "In Spanish →",
         toroCountry: "Venezuela",
         oliveraCountry: "Argentina · QNTLC",
+        gomezMirCountry: "Spain · Stat Crux",
         heraldosTag: "Ecuador"
       },
       sec1: { eyebrow: "Holy See", title: "Vatican Sources", desc: "Official Church documents, available on the Holy See\'s website." },
@@ -1305,6 +1306,7 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
         eyebrow: "Apologetics · Formation", title: "Priests and Educators", desc: "Voices faithful to the Magisterium who teach, defend, and proclaim the faith with depth and rigor.",
         toro:    { desc: "Theologian and apologist. He answers the most difficult objections to the Catholic faith with great depth." },
         olivera: { desc: "Augustinian historian and apologist. He tackles rationalism, sects, and modern errors with rigor." },
+        gomezMir: { desc: "A priest and scholar of Freemasonry, Gnosticism and the occult, which he always examines in the light of Catholic doctrine. His channel is devoted to the Catholic Tradition.", book: "His book «Nosotros» →" },
         montfort: { tag: "France · c. 1712", title: "Treatise on True Devotion to the Blessed Virgin", author: "St. Louis-Marie Grignion de Montfort", desc: "The classic work on consecration to Jesus through Mary. Complete edition in PDF, from the Montfort Missionaries.", ed1: "Read the PDF →", url1: "https://www.montfort.org/content/uploads/pdf/PDF_EN_26_1.pdf", ed2: "Caballeros de la Virgen (PDF) →" }
       },
       sec3: {
@@ -1313,7 +1315,8 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
         heraldos: { desc: "Missionary apostolate. Formation, catechesis, and evangelization faithful to Tradition." },
         rugged:   { desc: "Beautiful handmade rosaries and various high-quality faith articles with international shipping.", tag: "United States" },
         grat:     { desc: "Jerusalem Bible in English or Latin American Spanish (for other languages check the official page). With unique study plan containing step-by-step explanations and graphics, ideal for neophytes.", tag: "Bible · Formation" },
-        ewtn:     { desc: "The world's largest Catholic television network. Daily Mass, Holy Rosary, documentaries, and formation 24 hours a day.", tag: "Television · Radio" }
+        ewtn:     { desc: "The world's largest Catholic television network. Daily Mass, Holy Rosary, documentaries, and formation 24 hours a day.", tag: "Television · Radio" },
+        ascension: { tag: "United States · In English", desc: "The channel of Ascension, the publisher of The Great Adventure. Fr. Mike Schmitz, Jeff Cavins and other priests and religious answer questions about the faith and the Christian life in short videos." }
       },
       nav: {
         prevTitle: "The Primacy of Peter",
@@ -1536,7 +1539,16 @@ Therefore, since <strong class="s-hi">we are surrounded by so great a cloud of w
     wreathWeek1: "First week of Advent",
     wreathWeek2: "Second week of Advent",
     wreathWeek3: "Third week of Advent, Gaudete Sunday",
-    wreathWeek4: "Fourth week of Advent"
+    wreathWeek4: "Fourth week of Advent",
+    countdownCandle2: "Until the second candle",
+    countdownCandle3: "Until the third candle",
+    countdownCandle4: "Until the fourth candle",
+    dateNote2: "Second Sunday of Advent: December 6, 2026, Vatican time.",
+    dateNote3: "Third Sunday of Advent, Gaudete: December 13, 2026, Vatican time.",
+    dateNote4: "Fourth Sunday of Advent: December 20, 2026, Vatican time.",
+    wreathNext2: "The second candle is lit on Sunday, December 6.",
+    wreathNext3: "The third candle, the rose one, is lit on Sunday, December 13.",
+    wreathNext4: "The fourth candle is lit on Sunday, December 20."
   },
   footer: {
     rights: "<strong>&copy; 2026 M. Gabriel Castiglia. All rights reserved.</strong> No part of this site may be reproduced without the author's written permission.",

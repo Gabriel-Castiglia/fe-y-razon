@@ -1,0 +1,200 @@
+/* =========================================================================
+   TEMA DE NAVIDAD
+   Del 25 de diciembre al Bautismo del Señor (10-ene-2027), hora de Roma.
+   El color litúrgico de la Navidad es el blanco, con dorado en las fiestas.
+   Gabriel eligió el 19-nov-2026 blanco marfil y un dorado más intenso que el
+   del tema ordinario, con un rojo oscuro solo de acento.
+   La idea: el Adviento es de noche (violeta casi negro) y la Navidad es la luz
+   que llega. Por eso las cabeceras pasan a ser claras: el vídeo se ve a pleno
+   color a la derecha y se funde en marfil detrás del texto, que va oscuro.
+   ========================================================================= */
+
+html[data-tema="navidad"] {
+  --n-marfil:       #fbf6ea;
+  --n-marfil-rgb:   251, 246, 234;
+  --n-crema:        #f4ead3;
+  --n-oro:          #c49a3a;
+  --n-oro-claro:    #ecd9a6;
+  --n-oro-tinta:    #84611a;
+  --n-rojo:         #8e1b2b;
+  --n-rojo-hondo:   #5a0f1b;
+  --n-noche:        #24100f;
+  --n-texto:        #2a1712;
+  --n-texto-suave:  #6b554a;
+
+  /* Las variables del sitio. */
+  --gold:           var(--n-oro);
+  --gold-light:     #f1e3bd;
+  --gold-mid:       #dcc07a;
+  --gold-dark:      #9c7520;
+  --gold-ink:       var(--n-oro-tinta);
+  --gold-rgb:       196, 154, 58;
+  --gold-deep:      #b0862a;
+  --gold-dark-rgb:  156, 117, 32;
+  --gold-ink-rgb:   132, 97, 26;
+  --gold-line-rgb:  176, 134, 42;
+  --dark:           var(--n-noche);
+  --dark-rgb:       36, 16, 15;
+  --dark-nav:       #2e1214;
+  --dark-deep:      #1a0a0a;
+  --dark-article:   #1f0d0d;
+  --deep-rgb:       26, 10, 10;
+  --night-rgb:      36, 16, 15;
+  --night-soft-rgb: 52, 20, 22;
+  --bg-dark:        var(--n-noche);
+  --text-primary:   var(--n-texto);
+  --text-muted:     var(--n-texto-suave);
+  --border:         #ecdcbc;
+  --bg-soft:        #fbf4e6;
+  --bg-quote:       #fcf5e6;
+  --bg-note:        #f6efe0;
+  --border-note:    #d8c49a;
+  --scripture-hi:   var(--n-rojo);
+  --scripture-name: var(--n-oro-tinta);
+}
+
+/* ---------- Encabezado: marfil en todos los estados ----------
+   Con el menú móvil abierto los enlaces viven sobre el panel oscuro: por eso
+   cada regla lleva :not(.nav-open), igual que en style.css. */
+html[data-tema="navidad"] #preloader { background: var(--n-marfil); }
+html[data-tema="navidad"] .preloader-logo { color: var(--n-rojo); }
+html[data-tema="navidad"] header,
+html[data-tema="navidad"] header.scrolled {
+  background: rgba(var(--n-marfil-rgb), 0.97);
+  border-bottom: 1px solid rgba(var(--gold-rgb), 0.35);
+}
+html[data-tema="navidad"] header .logo,
+html[data-tema="navidad"] header.hero-mode .logo,
+html[data-tema="navidad"] header.hero-mode.scrolled .logo { color: var(--n-rojo-hondo); }
+html[data-tema="navidad"] header:not(.nav-open) nav a,
+html[data-tema="navidad"] header.hero-mode:not(.nav-open) nav a { color: var(--n-texto-suave); }
+html[data-tema="navidad"] header:not(.nav-open) nav a:hover,
+html[data-tema="navidad"] header.hero-mode:not(.nav-open) nav a:hover { color: var(--n-texto); }
+html[data-tema="navidad"] header:not(.nav-open) nav a.active,
+html[data-tema="navidad"] header.scrolled:not(.nav-open) nav a.active { color: var(--n-rojo); }
+html[data-tema="navidad"] nav a::after,
+html[data-tema="navidad"] header.scrolled:not(.nav-open) nav a.active::after { background: var(--n-rojo); }
+html[data-tema="navidad"] header:not(.nav-open) .lang-dropdown-trigger,
+html[data-tema="navidad"] header.hero-mode:not(.nav-open) .lang-dropdown-trigger,
+html[data-tema="navidad"] header.scrolled:not(.nav-open) .lang-dropdown-trigger {
+  color: var(--n-texto);
+  border-color: rgba(var(--gold-rgb), 0.7);
+}
+html[data-tema="navidad"] header:not(.nav-open) .hamburger span,
+html[data-tema="navidad"] header.hero-mode:not(.nav-open) .hamburger span { background: var(--n-texto); }
+html[data-tema="navidad"] .lang-dropdown-menu { background: var(--n-noche); }
+
+/* ---------- Portada: nochebuena ----------
+   Gabriel descartó el 19-nov-2026 la portada clara: el pesebre con velas es
+   una toma ancha y de noche, y con el fundido marfil quedaba tapado. La portada
+   va oscura y cálida, a la luz de las velas; el resto del sitio sigue claro. */
+html[data-tema="navidad"] .hero { background: var(--n-noche); }
+html[data-tema="navidad"] .hero-video.active { opacity: 1; }
+/* El cirio está en el borde izquierdo de la toma y quedaba debajo del título:
+   el vídeo se espeja para que la llama quede a la derecha. */
+html[data-tema="navidad"] .hero-video[poster*="cirio02"] { transform: scaleX(-1); }
+html[data-tema="navidad"] .hero-overlay {
+  background: linear-gradient(90deg,
+    rgba(26, 10, 10, 0.9) 0%,
+    rgba(26, 10, 10, 0.78) 38%,
+    rgba(26, 10, 10, 0.3) 62%,
+    rgba(26, 10, 10, 0.05) 85%);
+}
+/* Un resplandor dorado arriba a la izquierda, como luz de vela. */
+html[data-tema="navidad"] .hero::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  background: radial-gradient(ellipse 50% 55% at 14% 30%, rgba(var(--gold-rgb), 0.12), rgba(var(--gold-rgb), 0) 70%);
+}
+html[data-tema="navidad"] .eyebrow-line { background: var(--n-oro); }
+html[data-tema="navidad"] .hero .eyebrow-text { color: var(--n-oro-claro); }
+html[data-tema="navidad"] .hero h1 { color: var(--n-marfil); }
+html[data-tema="navidad"] .hero h1 em { color: var(--n-oro); }
+html[data-tema="navidad"] .hero-desc { color: rgba(var(--n-marfil-rgb), 0.82); }
+html[data-tema="navidad"] .btn-primary { background: var(--n-rojo); color: #fff; }
+html[data-tema="navidad"] .btn-primary:hover { background: var(--n-rojo-hondo); }
+html[data-tema="navidad"] .hero .btn-outline-white {
+  color: var(--n-marfil);
+  border-color: rgba(var(--gold-rgb), 0.8);
+}
+html[data-tema="navidad"] .hero .btn-outline-white:hover { border-color: var(--n-oro-claro); color: var(--n-oro-claro); }
+html[data-tema="navidad"] .scroll-bar { background: linear-gradient(to bottom, transparent, var(--n-oro)); }
+html[data-tema="navidad"] .scroll-txt { color: rgba(var(--n-marfil-rgb), 0.45); }
+
+@media (max-width: 860px) {
+  html[data-tema="navidad"] .hero-overlay {
+    background: linear-gradient(0deg,
+      rgba(26, 10, 10, 0.92) 0%,
+      rgba(26, 10, 10, 0.8) 65%,
+      rgba(26, 10, 10, 0.45) 100%);
+  }
+}
+
+/* ---------- Resto de la portada ---------- */
+html[data-tema="navidad"] .mission-section { background: var(--n-marfil); }
+html[data-tema="navidad"] .mission-card:hover { border-color: var(--n-oro); }
+html[data-tema="navidad"] .meditacion-overlay { background: rgba(36, 16, 15, 0.74); }
+html[data-tema="navidad"] .meditacion-eyebrow { color: var(--n-oro-claro); }
+html[data-tema="navidad"] .contact-section .btn-primary { background: var(--n-oro); color: var(--n-noche); }
+html[data-tema="navidad"] .contact-section .btn-primary:hover { background: var(--n-oro-claro); }
+html[data-tema="navidad"] .form-group input:focus,
+html[data-tema="navidad"] .form-group textarea:focus { border-color: var(--n-oro); }
+
+/* El pie es el acento rojo del tema, con filete dorado. */
+html[data-tema="navidad"] footer {
+  background: var(--n-rojo-hondo);
+  border-top: 3px solid var(--n-oro);
+}
+html[data-tema="navidad"] footer p { color: rgba(255, 244, 228, 0.62); }
+html[data-tema="navidad"] .footer-rights { border-top-color: rgba(var(--gold-rgb), 0.4); }
+html[data-tema="navidad"] .footer-rights strong { color: var(--n-oro-claro); }
+html[data-tema="navidad"] #scroll-top { background: var(--n-rojo); border-color: var(--n-rojo); color: #fff; }
+html[data-tema="navidad"] #scroll-top:hover { background: var(--n-oro); border-color: var(--n-oro); color: var(--n-noche); }
+
+/* ---------- Cabeceras de temas, artículos y páginas interiores ----------
+   Mismo criterio que el hero: claras, con el vídeo a pleno color a la derecha. */
+html[data-tema="navidad"] .article-hero {
+  background: var(--n-marfil);
+  color: var(--n-texto);
+  min-height: 64vh;
+  min-height: 64svh;
+}
+html[data-tema="navidad"] .article-hero .hero-video.active { opacity: 1; }
+html[data-tema="navidad"] .article-hero::before {
+  background: linear-gradient(90deg,
+    rgba(var(--n-marfil-rgb), 0.97) 0%,
+    rgba(var(--n-marfil-rgb), 0.92) 42%,
+    rgba(var(--n-marfil-rgb), 0.4) 68%,
+    rgba(var(--n-marfil-rgb), 0) 90%);
+}
+html[data-tema="navidad"] .article-hero h1 { color: var(--n-rojo-hondo); }
+html[data-tema="navidad"] .article-hero p { color: var(--n-texto-suave); }
+html[data-tema="navidad"] .article-hero .eyebrow-text { color: var(--n-rojo); }
+html[data-tema="navidad"] .article-hero .article-meta { color: var(--n-texto-suave); }
+html[data-tema="navidad"] .article-hero .btn-outline-white {
+  color: var(--n-texto);
+  border-color: rgba(var(--gold-rgb), 0.7);
+}
+html[data-tema="navidad"] .article-hero .btn-outline-white:hover,
+html[data-tema="navidad"] .article-hero .btn-share.copiado { border-color: var(--n-rojo); color: var(--n-rojo); }
+@media (max-width: 860px) {
+  html[data-tema="navidad"] .article-hero::before {
+    background: linear-gradient(0deg,
+      rgba(var(--n-marfil-rgb), 0.97) 0%,
+      rgba(var(--n-marfil-rgb), 0.85) 55%,
+      rgba(var(--n-marfil-rgb), 0.5) 100%);
+  }
+}
+html[data-tema="navidad"] .article-page { background: var(--n-marfil); }
+html[data-tema="navidad"] .article-page .article-body {
+  background: #fff;
+  border-top: 3px solid var(--n-oro);
+}
+html[data-tema="navidad"] .temas-filtro button[aria-pressed="true"] {
+  background: var(--n-rojo);
+  border-color: var(--n-rojo);
+  color: #fff;
+}
