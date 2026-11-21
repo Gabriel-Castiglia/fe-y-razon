@@ -201,6 +201,38 @@
       .mm-tema:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
       #serie, #series-mm, #fuente { scroll-margin-top: 140px; }
       #series-mm, #serie { padding-top: 46px; }
+      /* Las cinco pestañas en fila piden 1.256 px; más angosto, las últimas quedaban fuera
+         de la pantalla y había que deslizar de costado, cosa que nadie hace (Gabriel,
+         22-nov-2026). De 1.000 a 1.279 px se reparten el ancho; por debajo, grilla. */
+      @media (max-width: 1279px) {
+        .mm-menu { padding: 12px 12px 0; }
+        .mm-temas { overflow: visible; }
+        .mm-tema { flex: 1 1 0; min-width: 0; padding: 8px 10px 10px 8px; gap: 8px; }
+        .mm-temas > .mm-tema:first-child, .mm-temas > .mm-tema:last-child { margin-left: 0; margin-right: 0; }
+        .mm-tema-medalla { width: 32px; height: 32px; }
+        .mm-tema-texto { min-width: 0; }
+        .mm-tema-rotulo { font-size: .5rem; letter-spacing: .1em; white-space: normal; }
+        .mm-tema-nombre { font-size: .86rem; white-space: normal; line-height: 1.2; hyphens: auto; -webkit-hyphens: auto; }
+      }
+      /* Grilla: todas a la vista y sin fijar, para no tapar media pantalla. */
+      @media (max-width: 999px) {
+        .mm-menu { position: static; padding: 14px 12px; }
+        .mm-temas { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+        .mm-tema { border-radius: 14px; border-bottom-color: rgba(var(--gold-rgb), .22); margin: 0; }
+        .mm-tema--destacado { border-bottom-color: rgba(var(--gold-rgb), .5); }
+        .mm-tema[aria-pressed="true"] { border-bottom-color: var(--gold); transform: none; box-shadow: 0 0 18px rgba(var(--gold-rgb), .18); }
+        #serie, #series-mm, #fuente { scroll-margin-top: 76px; }
+      }
+      @media (max-width: 560px) {
+        .mm-temas { grid-template-columns: repeat(2, 1fr); }
+        /* Con cinco pestañas en dos columnas, la última ocupa la fila entera. */
+        .mm-temas > .mm-tema:last-child:nth-child(odd) { grid-column: 1 / -1; }
+        .mm-tema-medalla { width: 28px; height: 28px; }
+      }
+      @media (max-width: 400px) {
+        .mm-tema { padding: 7px 8px 7px 7px; gap: 7px; }
+        .mm-tema-nombre { font-size: .78rem; }
+      }
 
       /* ── SERIES Y PELÍCULAS: tarjetas que se ordenan ── */
       .mm-orden { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 6px; margin: -14px 0 26px; font-size: .7rem; letter-spacing: .16em; text-transform: uppercase; color: rgba(255,255,255,.5); }
@@ -354,13 +386,6 @@
         .mm-fuente.mm-fuente-sola { grid-template-columns: 1fr; }
         .mm-fuente-logo { padding: 18px; }
         .mm-fuente-body { padding: 22px 20px; }
-        .mm-menu { padding: 10px 0 0; }
-        .mm-temas { justify-content: flex-start; padding: 0 12px; }
-        .mm-tema { padding: 7px 14px 9px 8px; gap: 8px; }
-        .mm-tema-medalla { width: 30px; height: 30px; }
-        .mm-tema-rotulo { font-size: .5rem; letter-spacing: .12em; }
-        .mm-tema-nombre { font-size: .86rem; }
-        #serie, #series-mm, #fuente { scroll-margin-top: 126px; }
         .mm-scroll { display: none; }
       }
       @media (prefers-reduced-motion: reduce) {
